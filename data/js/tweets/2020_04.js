@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 04:18:08 +0000 2020",
+		"id": 1245918908151783400,
+		"id_str": "1245928547950063619",
+		"full_text": "#genie #지니 #지니매거진\n예지(yaeji), 정규 앨범 [WHAT WE DREW 우리가 그려왔던] 앨범 이야기\nhttps://t.co/BYmbJ9u0qk https://t.co/oxPcdwVVBF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BYmbJ9u0qk",
+					"expanded_url": "https://bit.ly/346HPPO",
+					"display_url": "bit.ly/346HPPO",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245918906574729200,
+					"id_str": "1245918906574729226",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EUpkpPVUcAoO6xO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUpkpPVUcAoO6xO.jpg",
+					"url": "https://t.co/oxPcdwVVBF",
+					"display_url": "pic.twitter.com/oxPcdwVVBF",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1245918908151783424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245918906574729200,
+					"id_str": "1245918906574729226",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EUpkpPVUcAoO6xO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUpkpPVUcAoO6xO.jpg",
+					"url": "https://t.co/oxPcdwVVBF",
+					"display_url": "pic.twitter.com/oxPcdwVVBF",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1245918908151783424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 355,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n예지(yaeji), 정규 앨범 [WHAT WE DREW 우리가 그려왔던] 앨범 이야기\nhttps://t.co/BYmbJ9u0qk https://t.co/oxPcdwVVBF"
+	},
+	{
+		"created_at": "Fri Apr 03 04:17:37 +0000 2020",
+		"id": 1245869883990007800,
+		"id_str": "1245928415221309442",
+		"full_text": "페이스북, 데스크탑용 메신저 앱 공개 https://t.co/fktvYFPQeU \n- 제한없는 그룹/개인간 영상통화 및 채팅 가능\n- 다크모드 지원\n- 맥/윈도우즈 스토어에서 다운가능",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fktvYFPQeU",
+					"expanded_url": "https://j.mp/2xIbbrF",
+					"display_url": "j.mp/2xIbbrF",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2613,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북, 데스크탑용 메신저 앱 공개 https://t.co/fktvYFPQeU \n- 제한없는 그룹/개인간 영상통화 및 채팅 가능\n- 다크모드 지원\n- 맥/윈도우즈 스토어에서 다운가능"
+	},
+	{
+		"created_at": "Fri Apr 03 04:17:28 +0000 2020",
+		"id": 1245834784535801900,
+		"id_str": "1245928379896844289",
+		"full_text": "페이스북 메신저, PC 앱도 출시…화상회의도 정조준 https://t.co/ZZviS22srA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZviS22srA",
+					"expanded_url": "http://www.bloter.net/archives/376674",
+					"display_url": "bloter.net/archives/376674",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55973,
+			"friends_count": 9,
+			"listed_count": 2502,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북 메신저, PC 앱도 출시…화상회의도 정조준 https://t.co/ZZviS22srA"
+	},
+	{
 		"created_at": "Fri Apr 03 03:24:32 +0000 2020",
 		"id": 1245904571479675000,
 		"id_str": "1245915056224604162",
