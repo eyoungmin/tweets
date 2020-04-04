@@ -1,6 +1,1494 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 05:42:43 +0000 2020",
+		"id": 1246090160460181500,
+		"id_str": "1246312222302715904",
+		"full_text": "[INSTAGRAM STORY VIDEO] jessica.syj: My little doll👭🏻 @/jessica.syj  @/vousmevoyez https://t.co/HXsoOrNUDt\n https://t.co/MM9xXcRvPa https://t.co/GdUClGDXaR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HXsoOrNUDt",
+					"expanded_url": "https://vm.tiktok.com/tMK39C/",
+					"display_url": "vm.tiktok.com/tMK39C/",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/MM9xXcRvPa",
+					"expanded_url": "https://scontent-ort2-2.cdninstagram.com/v/t72.14836-16/75979166_559065818054293_7560263430831335556_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5zdG9yeSJ9&_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=101&_nc_ohc=Jhl_Cuq-KVAAX-cSzHL&vs=18044012908245065_2702919064&_nc_vs=HBksFQAYJEdKNVpod1NWdm4ybmQtd0JBSVRvRTh1SWNfdG9idlE1QUFBRhUAABUAGCRHREdhZFFTMTFYdFBRb1FFQUJsVHh1ZVRGak56YnZRNUFBQUYVAgAoABgAGwGIB3VzZV9vaWwBMRUAABgAFpKR3I3ku41AFQIoAkMzLBdAAiDEm6XjVBgSZGFzaF9iYXNlbGluZV8xX3YxEQB16AcA&_nc_rid=a33d5cd51b&oe=5E89C453&oh=7ad724b16c9ecc605bc7db2d9ed3711f",
+					"display_url": "scontent-ort2-2.cdninstagram.com/v/t72.14836-16…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246090147059425300,
+					"id_str": "1246090147059425282",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246090147059425282/pu/img/tVSDp6TtZBIFtL6-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246090147059425282/pu/img/tVSDp6TtZBIFtL6-.jpg",
+					"url": "https://t.co/GdUClGDXaR",
+					"display_url": "pic.twitter.com/GdUClGDXaR",
+					"expanded_url": "https://twitter.com/sicafeed/status/1246090160460181505/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246090147059425300,
+					"id_str": "1246090147059425282",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246090147059425282/pu/img/tVSDp6TtZBIFtL6-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246090147059425282/pu/img/tVSDp6TtZBIFtL6-.jpg",
+					"url": "https://t.co/GdUClGDXaR",
+					"display_url": "pic.twitter.com/GdUClGDXaR",
+					"expanded_url": "https://twitter.com/sicafeed/status/1246090160460181505/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 2267,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246090147059425282/pu/vid/720x1280/on3zHm1okAc9BIfO.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246090147059425282/pu/vid/320x568/nkn8heMg1nIyZk8e.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246090147059425282/pu/vid/360x640/xWn68_leFtKgqvjk.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1246090147059425282/pu/pl/2Ckc73XnFtz1CS89.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://sica.soshistagram.com\" rel=\"nofollow\">SicaFeed</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1540617074,
+			"id_str": "1540617074",
+			"name": "SicaFeed",
+			"screen_name": "sicafeed",
+			"location": "Sica's OTP",
+			"description": "Bot tweeting Jessica's Weibo + Instagram updates & comments. Built by @thegoguma. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @syoungstagram",
+			"url": "https://t.co/UjKiA35wpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UjKiA35wpf",
+							"expanded_url": "https://sicafeed.tumblr.com",
+							"display_url": "sicafeed.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51457,
+			"friends_count": 0,
+			"listed_count": 1014,
+			"created_at": "Sun Jun 23 10:00:23 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526270648440459265/fT4Qc2mf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526270648440459265/fT4Qc2mf_normal.png",
+			"profile_link_color": "8888AA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 675,
+		"favorite_count": 508,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "[INSTAGRAM STORY VIDEO] jessica.syj: My little doll👭🏻 @/jessica.syj  @/vousmevoyez https://t.co/HXsoOrNUDt\n https://t.co/MM9xXcRvPa https://t.co/GdUClGDXaR"
+	},
+	{
+		"created_at": "Sat Apr 04 05:39:09 +0000 2020",
+		"id": 1246297732290990000,
+		"id_str": "1246311323744366598",
+		"full_text": "상황은 여전히 엄중합니다.\n\n사회적 거리두기는\n코로나19의 확산을 막는 데\n가장 효과적이고 최선의 대응방법입니다.\n\n2주간 더,\n사회적 거리두기에 \n적극 동참해 주실 것을 당부드립니다. https://t.co/yIuAI9XMos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246297658731286500,
+					"id_str": "1246297658731286528",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EUu9HhEUUAAyFkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUu9HhEUUAAyFkG.jpg",
+					"url": "https://t.co/yIuAI9XMos",
+					"display_url": "pic.twitter.com/yIuAI9XMos",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1246297732290990080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246297658731286500,
+					"id_str": "1246297658731286528",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EUu9HhEUUAAyFkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUu9HhEUUAAyFkG.jpg",
+					"url": "https://t.co/yIuAI9XMos",
+					"display_url": "pic.twitter.com/yIuAI9XMos",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1246297732290990080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134679265,
+			"id_str": "134679265",
+			"name": "대한민국 정부",
+			"screen_name": "hellopolicy",
+			"location": "대한민국",
+			"description": "유용한 정책을 알려드리는 대한민국 정부 대표 트위터입니다.  \n▶대한민국 정부 페이스북 https://t.co/JqTQiNMO6Q \n▶정책브리핑\nhttps://t.co/z0IbNhDE0L",
+			"url": "http://t.co/LZA3QF0ZP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LZA3QF0ZP5",
+							"expanded_url": "http://blog.naver.com/hellopolicy",
+							"display_url": "blog.naver.com/hellopolicy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JqTQiNMO6Q",
+							"expanded_url": "https://www.facebook.com/hipolicy/",
+							"display_url": "facebook.com/hipolicy/",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/z0IbNhDE0L",
+							"expanded_url": "http://www.korea.kr/main.do",
+							"display_url": "korea.kr/main.do",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 187032,
+			"friends_count": 36003,
+			"listed_count": 841,
+			"created_at": "Mon Apr 19 04:15:26 +0000 2010",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128851054542516225/XOwVgGYF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128851054542516225/XOwVgGYF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134679265/1585560261",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1930,
+		"favorite_count": 868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "상황은 여전히 엄중합니다.\n\n사회적 거리두기는\n코로나19의 확산을 막는 데\n가장 효과적이고 최선의 대응방법입니다.\n\n2주간 더,\n사회적 거리두기에 \n적극 동참해 주실 것을 당부드립니다. https://t.co/yIuAI9XMos"
+	},
+	{
+		"created_at": "Sat Apr 04 05:35:53 +0000 2020",
+		"id": 1246206171297362000,
+		"id_str": "1246310501392330752",
+		"full_text": "“폭탄들 막아라”…화상회의 줌, 대기실 기능 기본 적용 https://t.co/zMVQJtszVo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zMVQJtszVo",
+					"expanded_url": "http://www.bloter.net/archives/376774",
+					"display_url": "bloter.net/archives/376774",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55962,
+			"friends_count": 9,
+			"listed_count": 2502,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“폭탄들 막아라”…화상회의 줌, 대기실 기능 기본 적용 https://t.co/zMVQJtszVo"
+	},
+	{
+		"created_at": "Sat Apr 04 05:34:11 +0000 2020",
+		"id": 1245654883291689000,
+		"id_str": "1246310072688316416",
+		"full_text": "https://t.co/rFmAbcumD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245654873464402000,
+					"id_str": "1245654873464401920",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl0gfWUcAAwV-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUl0gfWUcAAwV-F.jpg",
+					"url": "https://t.co/rFmAbcumD8",
+					"display_url": "pic.twitter.com/rFmAbcumD8",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654883291688962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245654873464402000,
+					"id_str": "1245654873464401920",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl0gfWUcAAwV-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUl0gfWUcAAwV-F.jpg",
+					"url": "https://t.co/rFmAbcumD8",
+					"display_url": "pic.twitter.com/rFmAbcumD8",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654883291688962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245654873535705000,
+					"id_str": "1245654873535705091",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl0gfnUcAMxJyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUl0gfnUcAMxJyg.jpg",
+					"url": "https://t.co/rFmAbcumD8",
+					"display_url": "pic.twitter.com/rFmAbcumD8",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654883291688962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245654873640599600,
+					"id_str": "1245654873640599560",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl0ggAVAAgW9Q_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUl0ggAVAAgW9Q_.jpg",
+					"url": "https://t.co/rFmAbcumD8",
+					"display_url": "pic.twitter.com/rFmAbcumD8",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654883291688962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245654873695088600,
+					"id_str": "1245654873695088643",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl0ggNUcAM-uHp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUl0ggNUcAM-uHp.jpg",
+					"url": "https://t.co/rFmAbcumD8",
+					"display_url": "pic.twitter.com/rFmAbcumD8",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654883291688962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245654828652441600,
+		"in_reply_to_status_id_str": "1245654828652441602",
+		"in_reply_to_user_id": 164509454,
+		"in_reply_to_user_id_str": "164509454",
+		"in_reply_to_screen_name": "KBSnews",
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418021,
+			"friends_count": 109446,
+			"listed_count": 4868,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1580169793",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 561,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/rFmAbcumD8"
+	},
+	{
+		"created_at": "Sat Apr 04 05:34:09 +0000 2020",
+		"id": 1245654828652441600,
+		"id_str": "1246310065541271553",
+		"full_text": "'디지털 성범죄' 피해를 입었을 때 \n기억해야 할 매뉴얼 알려드립니다. (모두 8장이 이어집니다.) https://t.co/SaUJmeGjow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245654304934875100,
+					"id_str": "1245654304934875136",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlz_ZaUUAANzEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlz_ZaUUAANzEs.jpg",
+					"url": "https://t.co/SaUJmeGjow",
+					"display_url": "pic.twitter.com/SaUJmeGjow",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654828652441602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245654304934875100,
+					"id_str": "1245654304934875136",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlz_ZaUUAANzEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlz_ZaUUAANzEs.jpg",
+					"url": "https://t.co/SaUJmeGjow",
+					"display_url": "pic.twitter.com/SaUJmeGjow",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654828652441602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245654304947490800,
+					"id_str": "1245654304947490816",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlz_ZdU0AArqsf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlz_ZdU0AArqsf.jpg",
+					"url": "https://t.co/SaUJmeGjow",
+					"display_url": "pic.twitter.com/SaUJmeGjow",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654828652441602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245654304934908000,
+					"id_str": "1245654304934907909",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlz_ZaU0AUdEVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlz_ZaU0AUdEVX.jpg",
+					"url": "https://t.co/SaUJmeGjow",
+					"display_url": "pic.twitter.com/SaUJmeGjow",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654828652441602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245654304939106300,
+					"id_str": "1245654304939106308",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlz_ZbU4AQMRmo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlz_ZbU4AQMRmo.jpg",
+					"url": "https://t.co/SaUJmeGjow",
+					"display_url": "pic.twitter.com/SaUJmeGjow",
+					"expanded_url": "https://twitter.com/KBSnews/status/1245654828652441602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418021,
+			"friends_count": 109446,
+			"listed_count": 4868,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1580169793",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2489,
+		"favorite_count": 903,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'디지털 성범죄' 피해를 입었을 때 \n기억해야 할 매뉴얼 알려드립니다. (모두 8장이 이어집니다.) https://t.co/SaUJmeGjow"
+	},
+	{
+		"created_at": "Sat Apr 04 05:34:04 +0000 2020",
+		"id": 1246064781410201600,
+		"id_str": "1246310043407941632",
+		"full_text": "Voleflix 🍿 free movies https://t.co/fjNngTd2HX\n\n유튜브에 올라온 저작권 풀린 무료 고전 영화 리스트. 를 넷플릭스 UI 로 보여주는군요. 넷플릭스 디자인 인용한거 귀엽군요 😄😄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fjNngTd2HX",
+					"expanded_url": "https://bit.ly/2Jy0I4V",
+					"display_url": "bit.ly/2Jy0I4V",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815050,
+			"id_str": "815050",
+			"name": "lunamoth",
+			"screen_name": "lunamoth",
+			"location": "Seoul, South Korea",
+			"description": "인생은 간단하지 않더군요. 탐정 소설이 아니라서요.",
+			"url": "https://t.co/Vr6uUkEjWu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vr6uUkEjWu",
+							"expanded_url": "http://lunamoth.com",
+							"display_url": "lunamoth.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1949,
+			"friends_count": 204,
+			"listed_count": 266,
+			"created_at": "Tue Mar 06 14:38:17 +0000 2007",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 212209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "799AC3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/812980440713732097/SpO2yaD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/812980440713732097/SpO2yaD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815050/1486344431",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E7F5F3",
+			"profile_text_color": "180B26",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Voleflix 🍿 free movies https://t.co/fjNngTd2HX\n\n유튜브에 올라온 저작권 풀린 무료 고전 영화 리스트. 를 넷플릭스 UI 로 보여주는군요. 넷플릭스 디자인 인용한거 귀엽군요 😄😄"
+	},
+	{
+		"created_at": "Sat Apr 04 05:33:43 +0000 2020",
+		"id": 1246309956891971600,
+		"id_str": "1246309956891971584",
+		"full_text": "개인정보를 수집하거나 생체 데이터를 수집하는 것은 매우 민감한 문제이다. 실제로 무분별하고 무단으로 수집한 악한 업체가 있지만 드라마에서는 이런 과정을 아무렇지 않게 넣고 로맨스적 요소로 활용한다는 것은 개발자나 인공지능에 대해 몰이해를 드러내는 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1246308441376747500,
+		"in_reply_to_status_id_str": "1246308441376747520",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "개인정보를 수집하거나 생체 데이터를 수집하는 것은 매우 민감한 문제이다. 실제로 무분별하고 무단으로 수집한 악한 업체가 있지만 드라마에서는 이런 과정을 아무렇지 않게 넣고 로맨스적 요소로 활용한다는 것은 개발자나 인공지능에 대해 몰이해를 드러내는 것이다."
+	},
+	{
+		"created_at": "Sat Apr 04 05:27:42 +0000 2020",
+		"id": 1246308441376747500,
+		"id_str": "1246308441376747520",
+		"full_text": "국내의 AI를 다룬 드라마 중 제대로 다룬 것은 없다고 본다. 그리고 불편해서 보다가 다 그만뒀다. 몇 개는 개발자가 비윤리적이고 스토킹 서슴치 않는데 그런 것들을 로맨스나 드라마 장치라며 활용한다. 남자 주인공이 여자 주인공을 그리워하거나 사랑하게 되는 과정에서 인공지능이 활용된다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국내의 AI를 다룬 드라마 중 제대로 다룬 것은 없다고 본다. 그리고 불편해서 보다가 다 그만뒀다. 몇 개는 개발자가 비윤리적이고 스토킹 서슴치 않는데 그런 것들을 로맨스나 드라마 장치라며 활용한다. 남자 주인공이 여자 주인공을 그리워하거나 사랑하게 되는 과정에서 인공지능이 활용된다."
+	},
+	{
+		"created_at": "Sat Apr 04 05:20:38 +0000 2020",
+		"id": 1246262251721384000,
+		"id_str": "1246306664199806978",
+		"full_text": "애플의 AI 공격 행보…이번엔 음성 AI 스타트업 보이시스 인수 https://t.co/jjMNJg6zBk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jjMNJg6zBk",
+					"expanded_url": "http://www.bloter.net/archives/376791",
+					"display_url": "bloter.net/archives/376791",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55962,
+			"friends_count": 9,
+			"listed_count": 2502,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애플의 AI 공격 행보…이번엔 음성 AI 스타트업 보이시스 인수 https://t.co/jjMNJg6zBk"
+	},
+	{
 		"created_at": "Sat Apr 04 03:00:45 +0000 2020",
 		"id": 1246271461691703300,
 		"id_str": "1246271461691703297",
