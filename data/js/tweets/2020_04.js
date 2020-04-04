@@ -1,6 +1,806 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 09:31:01 +0000 2020",
+		"id": 1246256173025620000,
+		"id_str": "1246369675878907905",
+		"full_text": "선거관리위원회가 투표소 자체를 설치하지 않는 해외 지역이 계속 추가되고 있습니다. 투표권을 행사하지 못하게 된 재외국민 유권자들의 목소리를 들어봤습니다. https://t.co/RW5lKiNu6x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246225629147611100,
+					"id_str": "1246225629147611136",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EUt_tqHU4AEYJNs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUt_tqHU4AEYJNs.jpg",
+					"url": "https://t.co/RW5lKiNu6x",
+					"display_url": "pic.twitter.com/RW5lKiNu6x",
+					"expanded_url": "https://twitter.com/kyunghyang/status/1246256173025619968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 968,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 968,
+							"h": 545,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246225629147611100,
+					"id_str": "1246225629147611136",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EUt_tqHU4AEYJNs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUt_tqHU4AEYJNs.jpg",
+					"url": "https://t.co/RW5lKiNu6x",
+					"display_url": "pic.twitter.com/RW5lKiNu6x",
+					"expanded_url": "https://twitter.com/kyunghyang/status/1246256173025619968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 968,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 968,
+							"h": 545,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 296696,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246225629147611136/vid/360x640/lFHv6ItiPCDood3a.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1246225629147611136/pl/MUC5Fxpfz-EE42oI.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246225629147611136/vid/720x1280/OdnIyJqxdtKT68Lk.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246225629147611136/vid/320x568/YczskNOn84ImBtaO.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "코로나에 날아간 투표권ㅜㅜ 교민들과 영상통화해봄",
+						"description": "투표권을 행사하지 못하게 된 재외국민 유권자들의 목소리를 들어봤습니다.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/user/thekyunghyangtv"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738588,
+			"friends_count": 79896,
+			"listed_count": 6414,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선거관리위원회가 투표소 자체를 설치하지 않는 해외 지역이 계속 추가되고 있습니다. 투표권을 행사하지 못하게 된 재외국민 유권자들의 목소리를 들어봤습니다. https://t.co/RW5lKiNu6x"
+	},
+	{
+		"created_at": "Sat Apr 04 09:24:13 +0000 2020",
+		"id": 1246055501583929300,
+		"id_str": "1246367963675897856",
+		"full_text": "\"중산층 이상에 한부모 아닌 환경에서 아이에게 자상하고 웬만하면 딸바보인 아버지가 매주 아이와 이벤트를 벌이는 갈등 없는 세계. 정상 가족 이데올로기는 그것을 이상적 모델로 제시해서 문제인 것만은 아니다. 그것을 정상과 비정상의 기준으로 삼기 때문에 문제다.\"\n\nhttps://t.co/CvrMUNhORt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CvrMUNhORt",
+					"expanded_url": "https://news.khan.kr/p4Cf",
+					"display_url": "news.khan.kr/p4Cf",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738588,
+			"friends_count": 79896,
+			"listed_count": 6414,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"중산층 이상에 한부모 아닌 환경에서 아이에게 자상하고 웬만하면 딸바보인 아버지가 매주 아이와 이벤트를 벌이는 갈등 없는 세계. 정상 가족 이데올로기는 그것을 이상적 모델로 제시해서 문제인 것만은 아니다. 그것을 정상과 비정상의 기준으로 삼기 때문에 문제다.\"\n\nhttps://t.co/CvrMUNhORt"
+	},
+	{
+		"created_at": "Sat Apr 04 09:23:28 +0000 2020",
+		"id": 1246362020183588900,
+		"id_str": "1246367774751916033",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - I-TALK #54 : \"I trust\" 재킷 촬영 비하인드\n\n#여자아이들 #GIDLE #I_TALK\n\n▶️ https://t.co/nyX3GHGuPC https://t.co/067zNv6iyi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "I_TALK",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nyX3GHGuPC",
+					"expanded_url": "https://youtu.be/cIRuLD0-isY",
+					"display_url": "youtu.be/cIRuLD0-isY",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246361992740266000,
+					"id_str": "1246361992740265986",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EUv3oP7U4AI4uj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUv3oP7U4AI4uj_.jpg",
+					"url": "https://t.co/067zNv6iyi",
+					"display_url": "pic.twitter.com/067zNv6iyi",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246362020183588867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246361992740266000,
+					"id_str": "1246361992740265986",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EUv3oP7U4AI4uj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUv3oP7U4AI4uj_.jpg",
+					"url": "https://t.co/067zNv6iyi",
+					"display_url": "pic.twitter.com/067zNv6iyi",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246362020183588867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 608656,
+			"friends_count": 28,
+			"listed_count": 2813,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1815,
+		"favorite_count": 4458,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - I-TALK #54 : \"I trust\" 재킷 촬영 비하인드\n\n#여자아이들 #GIDLE #I_TALK\n\n▶️ https://t.co/nyX3GHGuPC https://t.co/067zNv6iyi"
+	},
+	{
+		"created_at": "Sat Apr 04 09:22:42 +0000 2020",
+		"id": 1246361870811967500,
+		"id_str": "1246367581297991681",
+		"full_text": "MAX 최강창민 'Chocolate' MV Teaser #1\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLPZWX\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/MMq6YZnPEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						132,
+						147
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLPZWX",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246096064358187000,
+					"id_str": "1246096064358187008",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EUu80cjVAAA55t8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUu80cjVAAA55t8.jpg",
+					"url": "https://t.co/MMq6YZnPEW",
+					"display_url": "pic.twitter.com/MMq6YZnPEW",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246361870811967488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246096064358187000,
+					"id_str": "1246096064358187008",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EUu80cjVAAA55t8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUu80cjVAAA55t8.jpg",
+					"url": "https://t.co/MMq6YZnPEW",
+					"display_url": "pic.twitter.com/MMq6YZnPEW",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246361870811967488/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25025,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246096064358187008/vid/640x360/fieBYh9bIwMdU3zw.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1246096064358187008/pl/38iPwaJkS8MWXWh-.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246096064358187008/vid/480x270/DSFpiCksLVLihyPW.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246096064358187008/vid/1280x720/pXG_DDTZEjMR_-EM.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266228,
+			"friends_count": 1,
+			"listed_count": 932,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4560,
+		"favorite_count": 6891,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 'Chocolate' MV Teaser #1\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLPZWX\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/MMq6YZnPEW"
+	},
+	{
 		"created_at": "Sat Apr 04 07:32:17 +0000 2020",
 		"id": 1246339794986250200,
 		"id_str": "1246339794986250242",
