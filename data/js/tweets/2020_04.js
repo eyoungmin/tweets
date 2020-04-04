@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 15:05:01 +0000 2020",
+		"id": 1246432728473428000,
+		"id_str": "1246453726748872704",
+		"full_text": "※ '빌리 앨리어트(Billy Elliot)'는 2020년 4월 10일까지만 넷플릭스에서 서비스될 예정입니다. #넷플릭스_종료예정작 https://t.co/mtaI1PcKTJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "넷플릭스_종료예정작",
+					"indices": [
+						62,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mtaI1PcKTJ",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/1182314543432626176",
+					"display_url": "twitter.com/netflixkr_up/s…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68832,
+			"friends_count": 39,
+			"listed_count": 298,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182314543432626200,
+		"quoted_status_id_str": "1182314543432626176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mtaI1PcKTJ",
+			"expanded": "https://twitter.com/netflixkr_up/status/1182314543432626176",
+			"display": "twitter.com/netflixkr_up/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 10 15:18:48 +0000 2019",
+			"id": 1182314543432626200,
+			"id_str": "1182314543432626176",
+			"full_text": "'빌리 엘리어트(Billy Elliot)'가 넷플릭스에 재업로드 되었습니다.\n음성: 영어(2.0),영어-음성 설명(2.0,5.1)\n자막: 한국어,영어(CC) \n※ 다운로드 지원\nhttps://t.co/eiGIRQWOez https://t.co/QPVT5JCkd5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eiGIRQWOez",
+						"expanded_url": "https://netflix.com/title/60003378",
+						"display_url": "netflix.com/title/60003378",
+						"indices": [
+							99,
+							122
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1182314535744524300,
+						"id_str": "1182314535744524288",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EGhszlvVUAA9mJA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGhszlvVUAA9mJA.jpg",
+						"url": "https://t.co/QPVT5JCkd5",
+						"display_url": "pic.twitter.com/QPVT5JCkd5",
+						"expanded_url": "https://twitter.com/netflixkr_up/status/1182314543432626176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 680,
+								"h": 487,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 487,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 487,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1182314535744524300,
+						"id_str": "1182314535744524288",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EGhszlvVUAA9mJA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGhszlvVUAA9mJA.jpg",
+						"url": "https://t.co/QPVT5JCkd5",
+						"display_url": "pic.twitter.com/QPVT5JCkd5",
+						"expanded_url": "https://twitter.com/netflixkr_up/status/1182314543432626176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 680,
+								"h": 487,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 487,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 487,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701825105538646000,
+				"id_str": "701825105538646016",
+				"name": "넷플릭스 업데이트봇",
+				"screen_name": "netflixkr_up",
+				"location": "Republic of Korea",
+				"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RxyBgmg5lj",
+								"expanded_url": "http://help.netflix.com/help",
+								"display_url": "help.netflix.com/help",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 68832,
+				"friends_count": 39,
+				"listed_count": 298,
+				"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+				"favourites_count": 92,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13320,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 368,
+			"favorite_count": 208,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 251,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "※ '빌리 앨리어트(Billy Elliot)'는 2020년 4월 10일까지만 넷플릭스에서 서비스될 예정입니다. #넷플릭스_종료예정작 https://t.co/mtaI1PcKTJ"
+	},
+	{
 		"created_at": "Sat Apr 04 13:19:16 +0000 2020",
 		"id": 1246427114313826300,
 		"id_str": "1246427114313826304",
