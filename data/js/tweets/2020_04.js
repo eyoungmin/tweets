@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 20:28:59 +0000 2020",
+		"id": 1246450515581403100,
+		"id_str": "1246897645764788224",
+		"full_text": "권고도 듣지 않고 계속 입 열고 기침하는 승객에 대해 동영상을 올렸던 버스 운전사는 결국 코비드19로 사망.\n\n자연재해는 취약한 사람들을 골라서 덮치는 사회재해가 되고 만다.  https://t.co/GgVlE3ZGRC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GgVlE3ZGRC",
+					"expanded_url": "https://www.buzzfeednews.com/article/juliareinstein/detroit-bus-driver-dead-coronavirus-viral-video",
+					"display_url": "buzzfeednews.com/article/juliar…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 451068962,
+			"id_str": "451068962",
+			"name": "이상희 (Sang-Hee Lee)",
+			"screen_name": "SangHeeFLee",
+			"location": "",
+			"description": "인류의 기원 (2015, 사이언스북스) Close Encounters with Humankind (2018, Norton) 인류 이야기 (2018, 우리학교)",
+			"url": "https://t.co/eCKmZYv1rB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eCKmZYv1rB",
+							"expanded_url": "https://www.youtube.com/channel/UC6CJmJeeeMge17YofTzVcSA",
+							"display_url": "youtube.com/channel/UC6CJm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8181,
+			"friends_count": 587,
+			"listed_count": 96,
+			"created_at": "Sat Dec 31 00:44:00 +0000 2011",
+			"favourites_count": 2525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124140225410715649/GD5W-lih_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124140225410715649/GD5W-lih_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/451068962/1545428407",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1705,
+		"favorite_count": 407,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권고도 듣지 않고 계속 입 열고 기침하는 승객에 대해 동영상을 올렸던 버스 운전사는 결국 코비드19로 사망.\n\n자연재해는 취약한 사람들을 골라서 덮치는 사회재해가 되고 만다.  https://t.co/GgVlE3ZGRC"
+	},
+	{
+		"created_at": "Sun Apr 05 20:27:26 +0000 2020",
+		"id": 1246656294359949300,
+		"id_str": "1246897253903552512",
+		"full_text": "4월 3일의 #COVID19 상황 보고서가 이제 한국어로도 제공됩니다. 신속하게 번역해 주신 @taeh00nha 님, @kyobinkang 님, @minkyuxyz 님께 감사드립니다.\n\nhttps://t.co/Opdutw3smH\n\n이번 주는 일본, 세네갈, 콩고민주공화국, 아이슬란드, 오스트리아, 캐나다, 미국에서 얻은 최신 데이터를 다룹니다. https://t.co/lbEvCi1bCT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taeh00nha",
+					"name": "Taehoon Ha",
+					"id": 1125645924087345200,
+					"id_str": "1125645924087345152",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"screen_name": "kyobinkang",
+					"name": "Kang, Kyo Bin",
+					"id": 123745548,
+					"id_str": "123745548",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"screen_name": "minkyuxyz",
+					"name": "Minkyu Kim",
+					"id": 979970555053879300,
+					"id_str": "979970555053879296",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Opdutw3smH",
+					"expanded_url": "https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03",
+					"display_url": "nextstrain.org/narratives/nco…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246656023739256800,
+					"id_str": "1246656023739256833",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EU0DDGwUUAEPRZ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU0DDGwUUAEPRZ9.jpg",
+					"url": "https://t.co/lbEvCi1bCT",
+					"display_url": "pic.twitter.com/lbEvCi1bCT",
+					"expanded_url": "https://twitter.com/nextstrain/status/1246656294359949313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1039,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1039,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246656023739256800,
+					"id_str": "1246656023739256833",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EU0DDGwUUAEPRZ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU0DDGwUUAEPRZ9.jpg",
+					"url": "https://t.co/lbEvCi1bCT",
+					"display_url": "pic.twitter.com/lbEvCi1bCT",
+					"expanded_url": "https://twitter.com/nextstrain/status/1246656294359949313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1039,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1039,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 779897284532113400,
+			"id_str": "779897284532113408",
+			"name": "Nextstrain",
+			"screen_name": "nextstrain",
+			"location": "",
+			"description": "Real-time tracking of pathogen evolution",
+			"url": "https://t.co/DiqbNBhmiR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DiqbNBhmiR",
+							"expanded_url": "https://nextstrain.org/",
+							"display_url": "nextstrain.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27482,
+			"friends_count": 0,
+			"listed_count": 963,
+			"created_at": "Sun Sep 25 04:16:17 +0000 2016",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/779898521142988801/9B2GlqlQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/779898521142988801/9B2GlqlQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/779897284532113408/1580243259",
+			"profile_link_color": "5DA8A3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4월 3일의 #COVID19 상황 보고서가 이제 한국어로도 제공됩니다. 신속하게 번역해 주신 @taeh00nha 님, @kyobinkang 님, @minkyuxyz 님께 감사드립니다.\n\nhttps://t.co/Opdutw3smH\n\n이번 주는 일본, 세네갈, 콩고민주공화국, 아이슬란드, 오스트리아, 캐나다, 미국에서 얻은 최신 데이터를 다룹니다. https://t.co/lbEvCi1bCT"
+	},
+	{
 		"created_at": "Sun Apr 05 15:39:08 +0000 2020",
 		"id": 1246824701030170600,
 		"id_str": "1246824701030170625",
