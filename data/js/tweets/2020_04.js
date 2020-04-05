@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 08:56:36 +0000 2020",
+		"id": 1246723400019480600,
+		"id_str": "1246723400019480576",
+		"full_text": "@YESCOMent 해킹 당했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YESCOMent",
+					"name": "YESCOMent",
+					"id": 218397559,
+					"id_str": "218397559",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1246718724515565600,
+		"in_reply_to_status_id_str": "1246718724515565568",
+		"in_reply_to_user_id": 218397559,
+		"in_reply_to_user_id_str": "218397559",
+		"in_reply_to_screen_name": "YESCOMent",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@YESCOMent 해킹 당했습니다."
+	},
+	{
+		"created_at": "Sun Apr 05 08:55:09 +0000 2020",
+		"id": 1246711208465461200,
+		"id_str": "1246723035664547840",
+		"full_text": "▶일정: 2020년 4월 7일(화) 오후 7시 30분\n▶내용: 세종문화회관 '힘콘'\n&lt;빌리카터 콘서트&gt; 생중계\n▶공연시간: 60분\n\n- 네이버TV : https://t.co/NjlxlVgP6k\n- 네이버 V라이브 : https://t.co/OOkbsGp2fj\n\n자세한 정보는 이 곳에서!\nhttps://t.co/hffcdfa5iq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NjlxlVgP6k",
+					"expanded_url": "https://tv.naver.com/theater",
+					"display_url": "tv.naver.com/theater",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/OOkbsGp2fj",
+					"expanded_url": "https://www.vlive.tv/video/181615",
+					"display_url": "vlive.tv/video/181615",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/hffcdfa5iq",
+					"expanded_url": "https://m.blog.naver.com/sejongnanum/221888187273",
+					"display_url": "m.blog.naver.com/sejongnanum/22…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246711206640930800,
+		"in_reply_to_status_id_str": "1246711206640930816",
+		"in_reply_to_user_id": 372242250,
+		"in_reply_to_user_id_str": "372242250",
+		"in_reply_to_screen_name": "billy_carter_",
+		"user": {
+			"id": 372242250,
+			"id_str": "372242250",
+			"name": "Billy Carter🏳️‍🌈🎗빌리카터",
+			"screen_name": "billy_carter_",
+			"location": "",
+			"description": "Two singing guitaring dancing and jumping girls from Seoul - We're gonna fuck you with our music and you'll get pregnant!",
+			"url": "https://t.co/pY6LGLq0eW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pY6LGLq0eW",
+							"expanded_url": "http://www.facebook.com/blyctr",
+							"display_url": "facebook.com/blyctr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 789,
+			"friends_count": 678,
+			"listed_count": 14,
+			"created_at": "Mon Sep 12 12:15:38 +0000 2011",
+			"favourites_count": 1949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937978593300193280/KhjT0_ku_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937978593300193280/KhjT0_ku_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372242250/1547785716",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▶일정: 2020년 4월 7일(화) 오후 7시 30분\n▶내용: 세종문화회관 '힘콘'\n&lt;빌리카터 콘서트&gt; 생중계\n▶공연시간: 60분\n\n- 네이버TV : https://t.co/NjlxlVgP6k\n- 네이버 V라이브 : https://t.co/OOkbsGp2fj\n\n자세한 정보는 이 곳에서!\nhttps://t.co/hffcdfa5iq"
+	},
+	{
 		"created_at": "Sun Apr 05 07:05:15 +0000 2020",
 		"id": 1246695380101841000,
 		"id_str": "1246695380101840896",
