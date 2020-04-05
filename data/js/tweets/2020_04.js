@@ -1,6 +1,1016 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 09:17:21 +0000 2020",
+		"id": 1246578704370802700,
+		"id_str": "1246728623932858369",
+		"full_text": "Israel’s Health Minister Yaakov Lizman,  head of Agudat Yisrael party, \nwho weeks ago declared that coronavirus is a \"divine punishment for homosexuality\", has been infected. His wife too. This forces PM Netanyahu to have to isolate himself for another 15 days https://t.co/JpEAX8iMwb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246578688847745000,
+					"id_str": "1246578688847745024",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EUy8tn1XkAAh2UD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUy8tn1XkAAh2UD.jpg",
+					"url": "https://t.co/JpEAX8iMwb",
+					"display_url": "pic.twitter.com/JpEAX8iMwb",
+					"expanded_url": "https://twitter.com/alfonslopeztena/status/1246578704370802689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246578688847745000,
+					"id_str": "1246578688847745024",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EUy8tn1XkAAh2UD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUy8tn1XkAAh2UD.jpg",
+					"url": "https://t.co/JpEAX8iMwb",
+					"display_url": "pic.twitter.com/JpEAX8iMwb",
+					"expanded_url": "https://twitter.com/alfonslopeztena/status/1246578704370802689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309705905,
+			"id_str": "309705905",
+			"name": "Alfons López Tena",
+			"screen_name": "alfonslopeztena",
+			"location": "Catalonia",
+			"description": "Jurist. Spanish Judiciary Council & Catalan Parliament's ex-member. Writes in @businessinsider—@ctxt_es—@myfairobserver—@Jerusalem_Post—@htTweets—@trtworld",
+			"url": "https://t.co/3KVgzX4Noy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3KVgzX4Noy",
+							"expanded_url": "https://www.facebook.com/alfonslopeztena",
+							"display_url": "facebook.com/alfonslopeztena",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163768,
+			"friends_count": 13115,
+			"listed_count": 1496,
+			"created_at": "Thu Jun 02 14:47:53 +0000 2011",
+			"favourites_count": 10267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 146012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238565522331107328/J8qjTk52_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238565522331107328/J8qjTk52_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309705905/1584675471",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 924,
+		"favorite_count": 1265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Israel’s Health Minister Yaakov Lizman,  head of Agudat Yisrael party, \nwho weeks ago declared that coronavirus is a \"divine punishment for homosexuality\", has been infected. His wife too. This forces PM Netanyahu to have to isolate himself for another 15 days https://t.co/JpEAX8iMwb"
+	},
+	{
+		"created_at": "Sun Apr 05 09:15:05 +0000 2020",
+		"id": 1246724258455326700,
+		"id_str": "1246728050722500608",
+		"full_text": "MAX 최강창민 'Chocolate' MV Teaser #2\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLPZWX\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate #당도MAX_최강창민초콜릿_D_1 https://t.co/ZNSDQj8ADC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						132,
+						147
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"text": "당도MAX_최강창민초콜릿_D_1",
+					"indices": [
+						159,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLPZWX",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246303800018649000,
+					"id_str": "1246303800018649090",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EUvD7y5UUAAAUhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUvD7y5UUAAAUhD.jpg",
+					"url": "https://t.co/ZNSDQj8ADC",
+					"display_url": "pic.twitter.com/ZNSDQj8ADC",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246724258455326720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246303800018649000,
+					"id_str": "1246303800018649090",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EUvD7y5UUAAAUhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUvD7y5UUAAAUhD.jpg",
+					"url": "https://t.co/ZNSDQj8ADC",
+					"display_url": "pic.twitter.com/ZNSDQj8ADC",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246724258455326720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14348,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246303800018649090/vid/480x270/_iurzSV71kKkjw76.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1246303800018649090/pl/-K_a2yW-h-D7W8ht.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246303800018649090/vid/1280x720/ZChNQIVTXiIQ3N3I.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246303800018649090/vid/640x360/Bn9APnxLBQXkjWv9.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266462,
+			"friends_count": 1,
+			"listed_count": 933,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4468,
+		"favorite_count": 7381,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 'Chocolate' MV Teaser #2\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLPZWX\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate #당도MAX_최강창민초콜릿_D_1 https://t.co/ZNSDQj8ADC"
+	},
+	{
+		"created_at": "Sun Apr 05 09:13:25 +0000 2020",
+		"id": 1246605976398172200,
+		"id_str": "1246727632084799489",
+		"full_text": "이제는 관련한 대대적인 실태조사가 진행되어야 한다는 지적이 나온다. 소라넷부터 n번방까지 20년 넘게 비슷한 문제가 반복되고 있지만 제대로 된 실태조사 한번 없었다.\n\nhttps://t.co/gcp3RtOWgC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gcp3RtOWgC",
+					"expanded_url": "https://news.khan.kr/D8zw",
+					"display_url": "news.khan.kr/D8zw",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738596,
+			"friends_count": 79873,
+			"listed_count": 6413,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1327,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제는 관련한 대대적인 실태조사가 진행되어야 한다는 지적이 나온다. 소라넷부터 n번방까지 20년 넘게 비슷한 문제가 반복되고 있지만 제대로 된 실태조사 한번 없었다.\n\nhttps://t.co/gcp3RtOWgC"
+	},
+	{
+		"created_at": "Sun Apr 05 09:12:08 +0000 2020",
+		"id": 1246250530772381700,
+		"id_str": "1246727311551942656",
+		"full_text": "제 트친의 동생분이 올리신 글입니다. 뉴욕 현지 간호사분이세요. 사회적 거리두기를 왜 해야하는지에 대한 글이니 한 번씩 읽어주세요 https://t.co/FgA9EXKIxu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246250498807611400,
+					"id_str": "1246250498807611392",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EUuSOcqUwAA9kj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUuSOcqUwAA9kj8.jpg",
+					"url": "https://t.co/FgA9EXKIxu",
+					"display_url": "pic.twitter.com/FgA9EXKIxu",
+					"expanded_url": "https://twitter.com/2CConTT/status/1246250530772381698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 211,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 371,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 634,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246250498807611400,
+					"id_str": "1246250498807611392",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EUuSOcqUwAA9kj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUuSOcqUwAA9kj8.jpg",
+					"url": "https://t.co/FgA9EXKIxu",
+					"display_url": "pic.twitter.com/FgA9EXKIxu",
+					"expanded_url": "https://twitter.com/2CConTT/status/1246250530772381698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 211,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 371,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 634,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1469643180,
+			"id_str": "1469643180",
+			"name": "퓨전형호미",
+			"screen_name": "2CConTT",
+			"location": "가상세카이",
+			"description": "그때마다파는거다름10시~ 19시까지 연락 잘 안됨 / https://t.co/tAauqYD9IA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tAauqYD9IA",
+							"expanded_url": "http://ong0731.postype.com",
+							"display_url": "ong0731.postype.com",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2133,
+			"friends_count": 122,
+			"listed_count": 31,
+			"created_at": "Thu May 30 12:47:56 +0000 2013",
+			"favourites_count": 6649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205767263745269760/FrxQt0Zd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205767263745269760/FrxQt0Zd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1469643180/1563613648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19847,
+		"favorite_count": 5904,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제 트친의 동생분이 올리신 글입니다. 뉴욕 현지 간호사분이세요. 사회적 거리두기를 왜 해야하는지에 대한 글이니 한 번씩 읽어주세요 https://t.co/FgA9EXKIxu"
+	},
+	{
+		"created_at": "Sun Apr 05 09:06:09 +0000 2020",
+		"id": 1246394639893983200,
+		"id_str": "1246725805092130821",
+		"full_text": "평택의 한 와인 가게 사장이 코로나 확진 판정을 받아 손님들이 무더기로 감염됐습니다. 가게 주인은 3월 19일 미국을 방문한 뒤 의심증상이 있었음에도 가게를 운영했습니다. \nhttps://t.co/62NO1hSf4o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/62NO1hSf4o",
+					"expanded_url": "https://imnews.imbc.com/replay/2020/nwdesk/article/5702303_32524.html",
+					"display_url": "imnews.imbc.com/replay/2020/nw…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397382,
+			"friends_count": 148820,
+			"listed_count": 3672,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 143278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4167,
+		"favorite_count": 726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "평택의 한 와인 가게 사장이 코로나 확진 판정을 받아 손님들이 무더기로 감염됐습니다. 가게 주인은 3월 19일 미국을 방문한 뒤 의심증상이 있었음에도 가게를 운영했습니다. \nhttps://t.co/62NO1hSf4o"
+	},
+	{
+		"created_at": "Sun Apr 05 09:05:56 +0000 2020",
+		"id": 1246638960706650000,
+		"id_str": "1246725749374988289",
+		"full_text": "2020년 1분기 스트리밍앱 다운로드 순위. https://t.co/8WSQdyy8I2 미국에서 디즈니+의 약진이 대단. 하지만 넷플릭스앱은 이미 대부분 다운받았을 것 같음. 이번주에는 드디어 다크호스인 퀴비 Quibi가 서비스를 시작할 예정. https://t.co/721csYm1O7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8WSQdyy8I2",
+					"expanded_url": "https://techcrunch.com/2020/04/02/disney-surpassed-netflix-in-recent-us-downloads-report/",
+					"display_url": "techcrunch.com/2020/04/02/dis…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246638952439660500,
+					"id_str": "1246638952439660544",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EUzzhbNUwAA__sn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUzzhbNUwAA__sn.jpg",
+					"url": "https://t.co/721csYm1O7",
+					"display_url": "pic.twitter.com/721csYm1O7",
+					"expanded_url": "https://twitter.com/estima7/status/1246638960706650113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 319,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246638952439660500,
+					"id_str": "1246638952439660544",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EUzzhbNUwAA__sn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUzzhbNUwAA__sn.jpg",
+					"url": "https://t.co/721csYm1O7",
+					"display_url": "pic.twitter.com/721csYm1O7",
+					"expanded_url": "https://twitter.com/estima7/status/1246638960706650113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 319,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376770,
+			"friends_count": 2289,
+			"listed_count": 4757,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020년 1분기 스트리밍앱 다운로드 순위. https://t.co/8WSQdyy8I2 미국에서 디즈니+의 약진이 대단. 하지만 넷플릭스앱은 이미 대부분 다운받았을 것 같음. 이번주에는 드디어 다크호스인 퀴비 Quibi가 서비스를 시작할 예정. https://t.co/721csYm1O7"
+	},
+	{
 		"created_at": "Sun Apr 05 08:56:36 +0000 2020",
 		"id": 1246723400019480600,
 		"id_str": "1246723400019480576",
@@ -159,7 +1169,7 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 372242250,
 			"id_str": "372242250",
-			"name": "Billy Carter🏳️‍🌈🎗빌리카터",
+			"name": "Billy Carter🏳️🌈🎗빌리카터",
 			"screen_name": "billy_carter_",
 			"location": "",
 			"description": "Two singing guitaring dancing and jumping girls from Seoul - We're gonna fuck you with our music and you'll get pregnant!",
