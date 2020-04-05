@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 15:17:03 +0000 2020",
+		"id": 1246602502377590800,
+		"id_str": "1246819146588811265",
+		"full_text": "세계 전역에서 코로나바이러스가 무섭게 퍼지면서 대부분 공연이 무기한 중지된 가운데, 스타 뮤지션들이 자신의 안방에서 온라인 스트리밍 공연으로 시대의 아픔을 위로하기 시작했다.\nhttps://t.co/uvovlCBYTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uvovlCBYTQ",
+					"expanded_url": "https://www.indiepost.co.kr/post/13762",
+					"display_url": "indiepost.co.kr/post/13762",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808835127639801900,
+			"id_str": "808835127639801856",
+			"name": "인디포스트",
+			"screen_name": "indiepostmedia",
+			"location": "",
+			"description": "WE CURATE VALUES\n인디 문화 큐레이션 서비스, 인디포스트의 공식 계정입니다.",
+			"url": "https://t.co/v1HyjgBR3L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1HyjgBR3L",
+							"expanded_url": "http://www.indiepost.co.kr",
+							"display_url": "indiepost.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5221,
+			"friends_count": 408,
+			"listed_count": 37,
+			"created_at": "Wed Dec 14 00:44:56 +0000 2016",
+			"favourites_count": 206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808835127639801856/1526023975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계 전역에서 코로나바이러스가 무섭게 퍼지면서 대부분 공연이 무기한 중지된 가운데, 스타 뮤지션들이 자신의 안방에서 온라인 스트리밍 공연으로 시대의 아픔을 위로하기 시작했다.\nhttps://t.co/uvovlCBYTQ"
+	},
+	{
+		"created_at": "Sun Apr 05 15:16:56 +0000 2020",
+		"id": 1246730153729745000,
+		"id_str": "1246819116133920768",
+		"full_text": "[비하인드] (여자)아이들 미니 3집 [I trust] 자켓 촬영 현장 비하인드\n\n#여자아이들 #GIDLE #I_trust\n\n▶️ https://t.co/y2rlEMemfR https://t.co/eEGfPpFyVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y2rlEMemfR",
+					"expanded_url": "http://naver.me/xB6osog3",
+					"display_url": "naver.me/xB6osog3",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246730143692816400,
+					"id_str": "1246730143692816386",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EU1GddGVAAI2OWC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU1GddGVAAI2OWC.jpg",
+					"url": "https://t.co/eEGfPpFyVn",
+					"display_url": "pic.twitter.com/eEGfPpFyVn",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246730153729744897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246730143692816400,
+					"id_str": "1246730143692816386",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EU1GddGVAAI2OWC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU1GddGVAAI2OWC.jpg",
+					"url": "https://t.co/eEGfPpFyVn",
+					"display_url": "pic.twitter.com/eEGfPpFyVn",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246730153729744897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 610593,
+			"friends_count": 28,
+			"listed_count": 2823,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4265,
+		"favorite_count": 14218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[비하인드] (여자)아이들 미니 3집 [I trust] 자켓 촬영 현장 비하인드\n\n#여자아이들 #GIDLE #I_trust\n\n▶️ https://t.co/y2rlEMemfR https://t.co/eEGfPpFyVn"
+	},
+	{
+		"created_at": "Sun Apr 05 15:16:44 +0000 2020",
+		"id": 1246814934740037600,
+		"id_str": "1246819063952621568",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser\n\n▶ https://t.co/bvANG9447r\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod https://t.co/OBmRpUhvxj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "Ohmygod",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bvANG9447r",
+					"expanded_url": "https://youtu.be/OT-pQiWt_A0",
+					"display_url": "youtu.be/OT-pQiWt_A0",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246814923654434800,
+					"id_str": "1246814923654434818",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EU2TkTEUEAIJJAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU2TkTEUEAIJJAQ.jpg",
+					"url": "https://t.co/OBmRpUhvxj",
+					"display_url": "pic.twitter.com/OBmRpUhvxj",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246814934740037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246814923654434800,
+					"id_str": "1246814923654434818",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EU2TkTEUEAIJJAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU2TkTEUEAIJJAQ.jpg",
+					"url": "https://t.co/OBmRpUhvxj",
+					"display_url": "pic.twitter.com/OBmRpUhvxj",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246814934740037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 610593,
+			"friends_count": 28,
+			"listed_count": 2823,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5437,
+		"favorite_count": 7934,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser\n\n▶ https://t.co/bvANG9447r\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod https://t.co/OBmRpUhvxj"
+	},
+	{
 		"created_at": "Sun Apr 05 13:07:37 +0000 2020",
 		"id": 1246771769467269000,
 		"id_str": "1246786570201387013",
