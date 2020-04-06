@@ -1,6 +1,1708 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 13:53:47 +0000 2020",
+		"id": 1247050577151811600,
+		"id_str": "1247160575634759681",
+		"full_text": "서울퀴어문화축제조직위원회는 2020 제21회 서울퀴어문화축제(서울퀴어퍼레이드, 한국퀴어영화제)의 안전한 개최를 위해 예정 일정을 8월 말~9월 말로 변경하기로 결정하였습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247050573980954600,
+		"in_reply_to_status_id_str": "1247050573980954624",
+		"in_reply_to_user_id": 127447244,
+		"in_reply_to_user_id_str": "127447244",
+		"in_reply_to_screen_name": "sqcforg",
+		"user": {
+			"id": 127447244,
+			"id_str": "127447244",
+			"name": "서울퀴어문화축제 Seoul Queer Culture Festival",
+			"screen_name": "sqcforg",
+			"location": "대한민국 서울",
+			"description": "문의: contact@sqcf.org / 서울퀴어퍼레이드@sqpexe / 한국퀴어영화제@kqcfkqff / 정기후원: \nhttps://t.co/Kb6xkzNB3D",
+			"url": "https://t.co/66IzR7vrYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/66IzR7vrYZ",
+							"expanded_url": "http://www.sqcf.org",
+							"display_url": "sqcf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kb6xkzNB3D",
+							"expanded_url": "http://m.site.naver.com/0oMOn",
+							"display_url": "m.site.naver.com/0oMOn",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17029,
+			"friends_count": 45,
+			"listed_count": 124,
+			"created_at": "Mon Mar 29 06:47:30 +0000 2010",
+			"favourites_count": 415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113798527488946181/y1mIx3oE_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113798527488946181/y1mIx3oE_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127447244/1555505711",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서울퀴어문화축제조직위원회는 2020 제21회 서울퀴어문화축제(서울퀴어퍼레이드, 한국퀴어영화제)의 안전한 개최를 위해 예정 일정을 8월 말~9월 말로 변경하기로 결정하였습니다."
+	},
+	{
+		"created_at": "Mon Apr 06 13:53:39 +0000 2020",
+		"id": 1247050573980954600,
+		"id_str": "1247160545565757445",
+		"full_text": "🌈2020 제21회 서울퀴어문화축제(서울퀴어퍼레이드, 한국퀴어영화제)의 예정 일정을 8월 말~9월 말로 변경함을 알립니다.\n\n안녕하세요, 서울퀴어문화축제조직위원회입니다.\n여러분의 건강과 평안을 염원합니다. https://t.co/cYbzNbboiD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247050443571613700,
+					"id_str": "1247050443571613696",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5pxXIUUAAPcSV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5pxXIUUAAPcSV.jpg",
+					"url": "https://t.co/cYbzNbboiD",
+					"display_url": "pic.twitter.com/cYbzNbboiD",
+					"expanded_url": "https://twitter.com/sqcforg/status/1247050573980954624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247050443571613700,
+					"id_str": "1247050443571613696",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5pxXIUUAAPcSV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5pxXIUUAAPcSV.jpg",
+					"url": "https://t.co/cYbzNbboiD",
+					"display_url": "pic.twitter.com/cYbzNbboiD",
+					"expanded_url": "https://twitter.com/sqcforg/status/1247050573980954624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247050458943742000,
+					"id_str": "1247050458943741955",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5pyQZUYAMoeVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5pyQZUYAMoeVb.jpg",
+					"url": "https://t.co/cYbzNbboiD",
+					"display_url": "pic.twitter.com/cYbzNbboiD",
+					"expanded_url": "https://twitter.com/sqcforg/status/1247050573980954624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127447244,
+			"id_str": "127447244",
+			"name": "서울퀴어문화축제 Seoul Queer Culture Festival",
+			"screen_name": "sqcforg",
+			"location": "대한민국 서울",
+			"description": "문의: contact@sqcf.org / 서울퀴어퍼레이드@sqpexe / 한국퀴어영화제@kqcfkqff / 정기후원: \nhttps://t.co/Kb6xkzNB3D",
+			"url": "https://t.co/66IzR7vrYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/66IzR7vrYZ",
+							"expanded_url": "http://www.sqcf.org",
+							"display_url": "sqcf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kb6xkzNB3D",
+							"expanded_url": "http://m.site.naver.com/0oMOn",
+							"display_url": "m.site.naver.com/0oMOn",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17029,
+			"friends_count": 45,
+			"listed_count": 124,
+			"created_at": "Mon Mar 29 06:47:30 +0000 2010",
+			"favourites_count": 415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113798527488946181/y1mIx3oE_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113798527488946181/y1mIx3oE_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127447244/1555505711",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 257,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌈2020 제21회 서울퀴어문화축제(서울퀴어퍼레이드, 한국퀴어영화제)의 예정 일정을 8월 말~9월 말로 변경함을 알립니다.\n\n안녕하세요, 서울퀴어문화축제조직위원회입니다.\n여러분의 건강과 평안을 염원합니다. https://t.co/cYbzNbboiD"
+	},
+	{
+		"created_at": "Mon Apr 06 13:53:30 +0000 2020",
+		"id": 1247160506386796500,
+		"id_str": "1247160506386796558",
+		"full_text": "화요일 빌리카터 라이브공연\n수요일 선우정아 라이브공연\n목요일 최정윤 신보\n\n떡밥 터진다...🙂",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "화요일 빌리카터 라이브공연\n수요일 선우정아 라이브공연\n목요일 최정윤 신보\n\n떡밥 터진다...🙂"
+	},
+	{
+		"created_at": "Mon Apr 06 13:50:27 +0000 2020",
+		"id": 1247159737612992500,
+		"id_str": "1247159737612992512",
+		"full_text": "#EO\n물 장사가 쉽다고요? 수백억의 투자도 모자라 법도 바꿔야 했습니다.\nhttps://t.co/MZVkyVZ3oq\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MZVkyVZ3oq",
+					"expanded_url": "https://youtu.be/_poZNaXtjA4",
+					"display_url": "youtu.be/_poZNaXtjA4",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n물 장사가 쉽다고요? 수백억의 투자도 모자라 법도 바꿔야 했습니다.\nhttps://t.co/MZVkyVZ3oq\n#스타트업 #태용 #minfav"
+	},
+	{
+		"created_at": "Mon Apr 06 13:42:31 +0000 2020",
+		"id": 1247049051628916700,
+		"id_str": "1247157740356526082",
+		"full_text": "계속 지하실 정리중인데 이런것이 나와가지고 괜히 힘내라고 하는 이벤트:\n#ARREST_NTHROOM #PUNISH_NTHROOM\n해시태그와 함께 반려견, 반려묘 사진을 자랑해주세요. 그중 두분께 각각 춘향가 8시간 실황 cd박스셋과 수궁가 공연실황 dvd 를 보내드릴게요. \n(트윗에서 이벤트 이렇게 하는거 맞나) https://t.co/pjJox8ZOdt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARREST_NTHROOM",
+					"indices": [
+						40,
+						55
+					]
+				},
+				{
+					"text": "PUNISH_NTHROOM",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247049035774451700,
+					"id_str": "1247049035774451713",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5ofarUYAEvMoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5ofarUYAEvMoC.jpg",
+					"url": "https://t.co/pjJox8ZOdt",
+					"display_url": "pic.twitter.com/pjJox8ZOdt",
+					"expanded_url": "https://twitter.com/jjjjjam/status/1247049051628916736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247049035774451700,
+					"id_str": "1247049035774451713",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5ofarUYAEvMoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5ofarUYAEvMoC.jpg",
+					"url": "https://t.co/pjJox8ZOdt",
+					"display_url": "pic.twitter.com/pjJox8ZOdt",
+					"expanded_url": "https://twitter.com/jjjjjam/status/1247049051628916736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247049041789071400,
+					"id_str": "1247049041789071360",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5ofxFUMAAUabw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5ofxFUMAAUabw.jpg",
+					"url": "https://t.co/pjJox8ZOdt",
+					"display_url": "pic.twitter.com/pjJox8ZOdt",
+					"expanded_url": "https://twitter.com/jjjjjam/status/1247049051628916736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247049041789071400,
+					"id_str": "1247049041789071361",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5ofxFUMAEvTfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5ofxFUMAEvTfn.jpg",
+					"url": "https://t.co/pjJox8ZOdt",
+					"display_url": "pic.twitter.com/pjJox8ZOdt",
+					"expanded_url": "https://twitter.com/jjjjjam/status/1247049051628916736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110053057,
+			"id_str": "110053057",
+			"name": "LeeJaram",
+			"screen_name": "jjjjjam",
+			"location": "",
+			"description": "이곳은 개인 공간입니다. 밴드관련 문의는 @YoursummerKR 로, 그 외의 문의는 @blueboy_kr로 디엠을 주세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11952,
+			"friends_count": 152,
+			"listed_count": 400,
+			"created_at": "Sun Jan 31 05:10:11 +0000 2010",
+			"favourites_count": 1773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/831076716260962305/jVDYVNgs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/831076716260962305/jVDYVNgs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110053057/1583755795",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 87,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "계속 지하실 정리중인데 이런것이 나와가지고 괜히 힘내라고 하는 이벤트:\n#ARREST_NTHROOM #PUNISH_NTHROOM\n해시태그와 함께 반려견, 반려묘 사진을 자랑해주세요. 그중 두분께 각각 춘향가 8시간 실황 cd박스셋과 수궁가 공연실황 dvd 를 보내드릴게요. \n(트윗에서 이벤트 이렇게 하는거 맞나) https://t.co/pjJox8ZOdt"
+	},
+	{
+		"created_at": "Mon Apr 06 13:41:24 +0000 2020",
+		"id": 1247157460260892700,
+		"id_str": "1247157460260892672",
+		"full_text": "@jjjjjam 1. 이벤트 해시태그를 만들거나\n2. 멘션으로 받거나\n3. 리트윗을 누르거나\n4. 트윗주소를 구글 폼으로 받거나\n\n위 세 가지 방법은 서드파티 통해서 자동 추첨할 수 있어요! 마지막 방법도 스프레드시트 이용해서 자동 추첨할 수 있어요.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jjjjjam",
+					"name": "LeeJaram",
+					"id": 110053057,
+					"id_str": "110053057",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1247049667126284300,
+		"in_reply_to_status_id_str": "1247049667126284288",
+		"in_reply_to_user_id": 110053057,
+		"in_reply_to_user_id_str": "110053057",
+		"in_reply_to_screen_name": "jjjjjam",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@jjjjjam 1. 이벤트 해시태그를 만들거나\n2. 멘션으로 받거나\n3. 리트윗을 누르거나\n4. 트윗주소를 구글 폼으로 받거나\n\n위 세 가지 방법은 서드파티 통해서 자동 추첨할 수 있어요! 마지막 방법도 스프레드시트 이용해서 자동 추첨할 수 있어요."
+	},
+	{
+		"created_at": "Mon Apr 06 13:39:34 +0000 2020",
+		"id": 1247141748414922800,
+		"id_str": "1247156999826993153",
+		"full_text": "[최정윤] New Single 'Silly Love Song' D-3\n\n2020. 4. 9. 12pm Release! https://t.co/PDAXThLGjr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247141405442465800,
+					"id_str": "1247141405442465792",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EU68gCgUYAAcADQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU68gCgUYAAcADQ.jpg",
+					"url": "https://t.co/PDAXThLGjr",
+					"display_url": "pic.twitter.com/PDAXThLGjr",
+					"expanded_url": "https://twitter.com/msbsound/status/1247141748414922753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247141405442465800,
+					"id_str": "1247141405442465792",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EU68gCgUYAAcADQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU68gCgUYAAcADQ.jpg",
+					"url": "https://t.co/PDAXThLGjr",
+					"display_url": "pic.twitter.com/PDAXThLGjr",
+					"expanded_url": "https://twitter.com/msbsound/status/1247141748414922753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8204,
+			"friends_count": 6508,
+			"listed_count": 108,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "[최정윤] New Single 'Silly Love Song' D-3\n\n2020. 4. 9. 12pm Release! https://t.co/PDAXThLGjr"
+	},
+	{
+		"created_at": "Mon Apr 06 13:39:27 +0000 2020",
+		"id": 1245658417458319400,
+		"id_str": "1247156971326734337",
+		"full_text": "[NOTICE]\n\n2020 매직스트로베리(주) 공연팀 채용\n우리와 함께 공연을 만들어갈 식구를 찾고 있습니다.\n\n[접수 기간]\n2020.04.02 - 2020.04.23 (오후 6시 마감)\n\n[지원 접수]\n-매직스트로베리 사운드 블로그\nhttps://t.co/AccIBktE7w\n\n[문의]\nworkwithmsb@gmail.com\n(DM 및 전화 문의는 받지 않습니다.) https://t.co/plbUtFtuhW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AccIBktE7w",
+					"expanded_url": "https://bit.ly/2wce9o4",
+					"display_url": "bit.ly/2wce9o4",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245658215498395600,
+					"id_str": "1245658215498395651",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl3jBZUMAMtxjb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUl3jBZUMAMtxjb.png",
+					"url": "https://t.co/plbUtFtuhW",
+					"display_url": "pic.twitter.com/plbUtFtuhW",
+					"expanded_url": "https://twitter.com/msbsound/status/1245658417458319361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2039,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245658215498395600,
+					"id_str": "1245658215498395651",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl3jBZUMAMtxjb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUl3jBZUMAMtxjb.png",
+					"url": "https://t.co/plbUtFtuhW",
+					"display_url": "pic.twitter.com/plbUtFtuhW",
+					"expanded_url": "https://twitter.com/msbsound/status/1245658417458319361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2039,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8204,
+			"friends_count": 6508,
+			"listed_count": 108,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[NOTICE]\n\n2020 매직스트로베리(주) 공연팀 채용\n우리와 함께 공연을 만들어갈 식구를 찾고 있습니다.\n\n[접수 기간]\n2020.04.02 - 2020.04.23 (오후 6시 마감)\n\n[지원 접수]\n-매직스트로베리 사운드 블로그\nhttps://t.co/AccIBktE7w\n\n[문의]\nworkwithmsb@gmail.com\n(DM 및 전화 문의는 받지 않습니다.) https://t.co/plbUtFtuhW"
+	},
+	{
+		"created_at": "Mon Apr 06 13:39:02 +0000 2020",
+		"id": 1247148510044016600,
+		"id_str": "1247156866968211458",
+		"full_text": "[선우정아] '𝗝𝗔𝗭𝗭 𝗕𝗢𝗫 VOL.2'\n새로운 편성으로 돌아온 재즈박스!\n\n📍일시 : 4월 8일 수요일\n📍공연 생중계는 밤 11시부터 시작됩니다.\n🎤 https://t.co/wbdU1IaJxE \n📍 구독 + 알람 설정 필수!\n\nYOUTUBE LIVE STREAMING CLUB swja [𝗝𝗔𝗭𝗭 𝗕𝗢𝗫] Vol.2 https://t.co/13beVjtIEX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wbdU1IaJxE",
+					"expanded_url": "http://youtube.com/sunwoojunga",
+					"display_url": "youtube.com/sunwoojunga",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247148225137479700,
+					"id_str": "1247148225137479680",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EU7Cs_2UEAAw7mN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU7Cs_2UEAAw7mN.jpg",
+					"url": "https://t.co/13beVjtIEX",
+					"display_url": "pic.twitter.com/13beVjtIEX",
+					"expanded_url": "https://twitter.com/msbsound/status/1247148510044016641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247148225137479700,
+					"id_str": "1247148225137479680",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EU7Cs_2UEAAw7mN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU7Cs_2UEAAw7mN.jpg",
+					"url": "https://t.co/13beVjtIEX",
+					"display_url": "pic.twitter.com/13beVjtIEX",
+					"expanded_url": "https://twitter.com/msbsound/status/1247148510044016641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8204,
+			"friends_count": 6508,
+			"listed_count": 108,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[선우정아] '𝗝𝗔𝗭𝗭 𝗕𝗢𝗫 VOL.2'\n새로운 편성으로 돌아온 재즈박스!\n\n📍일시 : 4월 8일 수요일\n📍공연 생중계는 밤 11시부터 시작됩니다.\n🎤 https://t.co/wbdU1IaJxE \n📍 구독 + 알람 설정 필수!\n\nYOUTUBE LIVE STREAMING CLUB swja [𝗝𝗔𝗭𝗭 𝗕𝗢𝗫] Vol.2 https://t.co/13beVjtIEX"
+	},
+	{
+		"created_at": "Mon Apr 06 13:38:30 +0000 2020",
+		"id": 1247142693035073500,
+		"id_str": "1247156731852910596",
+		"full_text": "[#청하] 존경하는 선배님의 앨범에 이렇게 조금이나마 참여하게 되어 영광입니다&gt;&lt; 너무 감사합니다!!🤟🏻\n#Lie 도 많이 들어주세요~🙈\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n#CHUNGHA\n#동방신기 #최강창민 @TVXQ https://t.co/KdRo0GzesT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Lie",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TVXQ",
+					"name": "TVXQ!",
+					"id": 893325893988302800,
+					"id_str": "893325893988302849",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247142682780024800,
+					"id_str": "1247142682780024834",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EU69qY9UwAI7fKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU69qY9UwAI7fKp.jpg",
+					"url": "https://t.co/KdRo0GzesT",
+					"display_url": "pic.twitter.com/KdRo0GzesT",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1247142693035073537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1013,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247142682780024800,
+					"id_str": "1247142682780024834",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EU69qY9UwAI7fKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU69qY9UwAI7fKp.jpg",
+					"url": "https://t.co/KdRo0GzesT",
+					"display_url": "pic.twitter.com/KdRo0GzesT",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1247142693035073537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1013,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 229037,
+			"friends_count": 0,
+			"listed_count": 1769,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1438,
+		"favorite_count": 3400,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청하] 존경하는 선배님의 앨범에 이렇게 조금이나마 참여하게 되어 영광입니다&gt;&lt; 너무 감사합니다!!🤟🏻\n#Lie 도 많이 들어주세요~🙈\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n#CHUNGHA\n#동방신기 #최강창민 @TVXQ https://t.co/KdRo0GzesT"
+	},
+	{
 		"created_at": "Mon Apr 06 12:25:18 +0000 2020",
 		"id": 1247138202051174400,
 		"id_str": "1247138311115649024",
