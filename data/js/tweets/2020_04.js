@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 14:11:21 +0000 2020",
+		"id": 1247164999727865900,
+		"id_str": "1247164999727865859",
+		"full_text": "딸기모찌가 없자나. https://t.co/YDyO9cgwaY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YDyO9cgwaY",
+					"expanded_url": "https://twitter.com/NYLON_kr/status/1247164535472926722",
+					"display_url": "twitter.com/NYLON_kr/statu…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247164535472926700,
+		"quoted_status_id_str": "1247164535472926722",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YDyO9cgwaY",
+			"expanded": "https://twitter.com/NYLON_kr/status/1247164535472926722",
+			"display": "twitter.com/NYLON_kr/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 14:09:31 +0000 2020",
+			"id": 1247164535472926700,
+			"id_str": "1247164535472926722",
+			"full_text": "#NYLON_TASTY \n4월에 맛 보는 빨간 맛, 딸기 먹거리 어디까지 먹어 봤나요? \n-\n🍓딸기 도넛에 내린 벚꽃\n🍓몰랑몰랑 딸기 인절미\n🍓설향 딸기를 만난 무스 케이크\n🍓와인에 빠진 딸기 \n🍓딸기와 슈크림을 품은 할리치노\n🍓아낌없이 주는 딸기 타르트\n-\n나일론 홈페이지와 지면에서 확인할 수 있어요💛 https://t.co/s02z1ph5yd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NYLON_TASTY",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247164507023003600,
+						"id_str": "1247164507023003649",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247164507023003649/pu/img/MxRh1wCeJ9qqTV5M.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247164507023003649/pu/img/MxRh1wCeJ9qqTV5M.jpg",
+						"url": "https://t.co/s02z1ph5yd",
+						"display_url": "pic.twitter.com/s02z1ph5yd",
+						"expanded_url": "https://twitter.com/NYLON_kr/status/1247164535472926722/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247164507023003600,
+						"id_str": "1247164507023003649",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247164507023003649/pu/img/MxRh1wCeJ9qqTV5M.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247164507023003649/pu/img/MxRh1wCeJ9qqTV5M.jpg",
+						"url": "https://t.co/s02z1ph5yd",
+						"display_url": "pic.twitter.com/s02z1ph5yd",
+						"expanded_url": "https://twitter.com/NYLON_kr/status/1247164535472926722/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 5633,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1247164507023003649/pu/pl/6ZF4JFJgZDtyoRM1.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247164507023003649/pu/vid/360x450/b8fby9ruoMf3DDEk.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247164507023003649/pu/vid/720x900/abRycAEVPv4ODvhd.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247164507023003649/pu/vid/320x400/rL9JG34MYrYyrBCO.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 242228792,
+				"id_str": "242228792",
+				"name": "NYLON KOREA",
+				"screen_name": "NYLON_kr",
+				"location": "seoul",
+				"description": "NY+LONDON Fashion Magazine",
+				"url": "https://t.co/ZEPkL3WQbu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZEPkL3WQbu",
+								"expanded_url": "http://nylonmedia.co.kr",
+								"display_url": "nylonmedia.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70546,
+				"friends_count": 0,
+				"listed_count": 199,
+				"created_at": "Mon Jan 24 08:00:06 +0000 2011",
+				"favourites_count": 436,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7661,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1239266102405816320/cUlDH7Rr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239266102405816320/cUlDH7Rr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/242228792/1584299039",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "딸기모찌가 없자나. https://t.co/YDyO9cgwaY"
+	},
+	{
 		"created_at": "Mon Apr 06 13:53:47 +0000 2020",
 		"id": 1247050577151811600,
 		"id_str": "1247160575634759681",
