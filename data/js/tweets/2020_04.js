@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 06:26:03 +0000 2020",
+		"id": 1246657748030259200,
+		"id_str": "1247047902905556993",
+		"full_text": "[MV] 향니 (hyangni) - 핫소스 / Official Music Video https://t.co/PXx9j8rIi2 via @YouTube\n\n핫소스 뮤직비디오 40만회가 넘었어요!\n뮤직비디오를 감상해주신 분들, 람다람 작가님 정말 감사합니다. 멋지고 재밌는 일이에요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube #StayHome",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PXx9j8rIi2",
+					"expanded_url": "https://youtu.be/5X5jE4MjZCs",
+					"display_url": "youtu.be/5X5jE4MjZCs",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196570704,
+			"id_str": "196570704",
+			"name": "향니 hyangni 이지향",
+			"screen_name": "hyangni",
+			"location": "south korea",
+			"description": "향니 - 핫소스 MV",
+			"url": "https://t.co/6qAo1NdQRV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6qAo1NdQRV",
+							"expanded_url": "https://youtu.be/5X5jE4MjZCs",
+							"display_url": "youtu.be/5X5jE4MjZCs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941,
+			"friends_count": 232,
+			"listed_count": 11,
+			"created_at": "Wed Sep 29 12:34:33 +0000 2010",
+			"favourites_count": 404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197856466637443078/ed0B_rlD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197856466637443078/ed0B_rlD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196570704/1574426214",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 61,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] 향니 (hyangni) - 핫소스 / Official Music Video https://t.co/PXx9j8rIi2 via @YouTube\n\n핫소스 뮤직비디오 40만회가 넘었어요!\n뮤직비디오를 감상해주신 분들, 람다람 작가님 정말 감사합니다. 멋지고 재밌는 일이에요!"
+	},
+	{
+		"created_at": "Mon Apr 06 06:22:37 +0000 2020",
+		"id": 1246965302941741000,
+		"id_str": "1247047038409117701",
+		"full_text": "취소된 SXSW2020 영화제, 온라인으로 본다 https://t.co/Kd6lr4GFek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kd6lr4GFek",
+					"expanded_url": "http://www.bloter.net/archives/376857",
+					"display_url": "bloter.net/archives/376857",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55977,
+			"friends_count": 9,
+			"listed_count": 2501,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "취소된 SXSW2020 영화제, 온라인으로 본다 https://t.co/Kd6lr4GFek"
+	},
+	{
 		"created_at": "Mon Apr 06 05:57:31 +0000 2020",
 		"id": 1247040720676028400,
 		"id_str": "1247040720676028416",
