@@ -1,6 +1,929 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 12:25:18 +0000 2020",
+		"id": 1247138202051174400,
+		"id_str": "1247138311115649024",
+		"full_text": "믿고 보는 조합 ❤(여자)아이들 X 스튜디오춤❤ 보자마자 Oh my god! 외치게 될 역대급 퍼포먼스 #BE_ORIGINAL 이 찾아옵니다 Coming Soon😉 #여자아이들 #Ohmygod @G_I_DLE #GIDLE #Studio_CHOOM\n\n▶ https://t.co/Dn6fS7Y6NV https://t.co/lkBVvWQmKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "Ohmygod",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "Studio_CHOOM",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Dn6fS7Y6NV",
+					"expanded_url": "https://youtu.be/hBUPqzW3fXw",
+					"display_url": "youtu.be/hBUPqzW3fXw",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247138139690266600,
+					"id_str": "1247138139690266624",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EU65h8oUcAAGRNj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU65h8oUcAAGRNj.jpg",
+					"url": "https://t.co/lkBVvWQmKn",
+					"display_url": "pic.twitter.com/lkBVvWQmKn",
+					"expanded_url": "https://twitter.com/M2MPD/status/1247138202051174404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247138139690266600,
+					"id_str": "1247138139690266624",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EU65h8oUcAAGRNj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU65h8oUcAAGRNj.jpg",
+					"url": "https://t.co/lkBVvWQmKn",
+					"display_url": "pic.twitter.com/lkBVvWQmKn",
+					"expanded_url": "https://twitter.com/M2MPD/status/1247138202051174404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 988597,
+			"friends_count": 338,
+			"listed_count": 1618,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1526,
+		"favorite_count": 3201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "믿고 보는 조합 ❤(여자)아이들 X 스튜디오춤❤ 보자마자 Oh my god! 외치게 될 역대급 퍼포먼스 #BE_ORIGINAL 이 찾아옵니다 Coming Soon😉 #여자아이들 #Ohmygod @G_I_DLE #GIDLE #Studio_CHOOM\n\n▶ https://t.co/Dn6fS7Y6NV https://t.co/lkBVvWQmKn"
+	},
+	{
+		"created_at": "Mon Apr 06 12:22:17 +0000 2020",
+		"id": 1247137552340930600,
+		"id_str": "1247137552340930560",
+		"full_text": "아직 치느님 도착안했는데...😗😗😗 https://t.co/gVkxo39mC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gVkxo39mC2",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247135669408784386",
+					"display_url": "twitter.com/G_I_DLE/status…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247135669408784400,
+		"quoted_status_id_str": "1247135669408784386",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gVkxo39mC2",
+			"expanded": "https://twitter.com/G_I_DLE/status/1247135669408784386",
+			"display": "twitter.com/G_I_DLE/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 12:14:48 +0000 2020",
+			"id": 1247135669408784400,
+			"id_str": "1247135669408784386",
+			"full_text": "[📸] 20200406 @ (여자)아이들 X 같이먹어요 \n\n같이 먹을 준비 됐나요 네버랜드~?🍴\n잠시 후 아홉시 반에 만나요!❤💜\n\nhttps://t.co/i394eq2pwJ\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod\n#VLIVE #같이먹어요 https://t.co/H1Iu5zq0gr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "여자아이들",
+						"indices": [
+							99,
+							105
+						]
+					},
+					{
+						"text": "GIDLE",
+						"indices": [
+							106,
+							112
+						]
+					},
+					{
+						"text": "I_trust",
+						"indices": [
+							113,
+							121
+						]
+					},
+					{
+						"text": "Ohmygod",
+						"indices": [
+							122,
+							130
+						]
+					},
+					{
+						"text": "VLIVE",
+						"indices": [
+							131,
+							137
+						]
+					},
+					{
+						"text": "같이먹어요",
+						"indices": [
+							138,
+							144
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i394eq2pwJ",
+						"expanded_url": "https://www.vlive.tv/video/183260",
+						"display_url": "vlive.tv/video/183260",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1247135636072460300,
+						"id_str": "1247135636072460290",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EU63QN7UcAIGCV5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU63QN7UcAIGCV5.jpg",
+						"url": "https://t.co/H1Iu5zq0gr",
+						"display_url": "pic.twitter.com/H1Iu5zq0gr",
+						"expanded_url": "https://twitter.com/G_I_DLE/status/1247135669408784386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247135636072460300,
+						"id_str": "1247135636072460290",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EU63QN7UcAIGCV5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU63QN7UcAIGCV5.jpg",
+						"url": "https://t.co/H1Iu5zq0gr",
+						"display_url": "pic.twitter.com/H1Iu5zq0gr",
+						"expanded_url": "https://twitter.com/G_I_DLE/status/1247135669408784386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 967000437797761000,
+				"id_str": "967000437797761024",
+				"name": "(G)I-DLE·(여자)아이들",
+				"screen_name": "G_I_DLE",
+				"location": "",
+				"description": "#GIDLE Official Twitter",
+				"url": "https://t.co/vlOOsTe0LQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vlOOsTe0LQ",
+								"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+								"display_url": "cafe.daum.net/cube-g-i-dle",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 618960,
+				"friends_count": 28,
+				"listed_count": 2855,
+				"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+				"favourites_count": 79,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2688,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2248,
+			"favorite_count": 6300,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아직 치느님 도착안했는데...😗😗😗 https://t.co/gVkxo39mC2"
+	},
+	{
+		"created_at": "Mon Apr 06 12:21:00 +0000 2020",
+		"id": 1247135669408784400,
+		"id_str": "1247137228100235265",
+		"full_text": "[📸] 20200406 @ (여자)아이들 X 같이먹어요 \n\n같이 먹을 준비 됐나요 네버랜드~?🍴\n잠시 후 아홉시 반에 만나요!❤💜\n\nhttps://t.co/i394eq2pwJ\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod\n#VLIVE #같이먹어요 https://t.co/H1Iu5zq0gr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "Ohmygod",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "같이먹어요",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i394eq2pwJ",
+					"expanded_url": "https://www.vlive.tv/video/183260",
+					"display_url": "vlive.tv/video/183260",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247135636072460300,
+					"id_str": "1247135636072460290",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EU63QN7UcAIGCV5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU63QN7UcAIGCV5.jpg",
+					"url": "https://t.co/H1Iu5zq0gr",
+					"display_url": "pic.twitter.com/H1Iu5zq0gr",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247135669408784386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247135636072460300,
+					"id_str": "1247135636072460290",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EU63QN7UcAIGCV5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU63QN7UcAIGCV5.jpg",
+					"url": "https://t.co/H1Iu5zq0gr",
+					"display_url": "pic.twitter.com/H1Iu5zq0gr",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247135669408784386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618960,
+			"friends_count": 28,
+			"listed_count": 2855,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2248,
+		"favorite_count": 6300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] 20200406 @ (여자)아이들 X 같이먹어요 \n\n같이 먹을 준비 됐나요 네버랜드~?🍴\n잠시 후 아홉시 반에 만나요!❤💜\n\nhttps://t.co/i394eq2pwJ\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod\n#VLIVE #같이먹어요 https://t.co/H1Iu5zq0gr"
+	},
+	{
+		"created_at": "Mon Apr 06 12:07:10 +0000 2020",
+		"id": 1247133747624870000,
+		"id_str": "1247133747624869888",
+		"full_text": "@1theK 1) 레드벨벳 - 피카부\n2) 세븐틴 - 아주 NICE\n3) EXO - Obsession",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "1theK",
+					"name": "1theK(원더케이)",
+					"id": 568871711,
+					"id_str": "568871711",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1247131941972971500,
+		"in_reply_to_status_id_str": "1247131941972971520",
+		"in_reply_to_user_id": 568871711,
+		"in_reply_to_user_id_str": "568871711",
+		"in_reply_to_screen_name": "1theK",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@1theK 1) 레드벨벳 - 피카부\n2) 세븐틴 - 아주 NICE\n3) EXO - Obsession"
+	},
+	{
 		"created_at": "Mon Apr 06 11:43:49 +0000 2020",
 		"id": 1247127872365416400,
 		"id_str": "1247127872365416449",
