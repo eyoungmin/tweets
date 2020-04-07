@@ -1,6 +1,762 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 10:45:31 +0000 2020",
+		"id": 1247464176190013400,
+		"id_str": "1247475588148817920",
+		"full_text": "https://t.co/viX9XzPjme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247464154958409700,
+					"id_str": "1247464154958409729",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_iCiJUMAET2ea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_iCiJUMAET2ea.jpg",
+					"url": "https://t.co/viX9XzPjme",
+					"display_url": "pic.twitter.com/viX9XzPjme",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464176190013440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247464154958409700,
+					"id_str": "1247464154958409729",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_iCiJUMAET2ea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_iCiJUMAET2ea.jpg",
+					"url": "https://t.co/viX9XzPjme",
+					"display_url": "pic.twitter.com/viX9XzPjme",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464176190013440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247464155679867000,
+					"id_str": "1247464155679866880",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_iCk1UwAA8WXT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_iCk1UwAA8WXT.jpg",
+					"url": "https://t.co/viX9XzPjme",
+					"display_url": "pic.twitter.com/viX9XzPjme",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464176190013440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247464174059319300,
+		"in_reply_to_status_id_str": "1247464174059319296",
+		"in_reply_to_user_id": 128414082,
+		"in_reply_to_user_id_str": "128414082",
+		"in_reply_to_screen_name": "ContentKorea",
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19557,
+			"friends_count": 15485,
+			"listed_count": 414,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1581039286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/viX9XzPjme"
+	},
+	{
+		"created_at": "Tue Apr 07 10:45:16 +0000 2020",
+		"id": 1247464174059319300,
+		"id_str": "1247475521706840065",
+		"full_text": "https://t.co/2pjT2Om2n6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247464114013626400,
+					"id_str": "1247464114013626368",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_iAJnUYAAVZBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_iAJnUYAAVZBd.jpg",
+					"url": "https://t.co/2pjT2Om2n6",
+					"display_url": "pic.twitter.com/2pjT2Om2n6",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464174059319296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247464114013626400,
+					"id_str": "1247464114013626368",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_iAJnUYAAVZBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_iAJnUYAAVZBd.jpg",
+					"url": "https://t.co/2pjT2Om2n6",
+					"display_url": "pic.twitter.com/2pjT2Om2n6",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464174059319296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247464114592440300,
+					"id_str": "1247464114592440320",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_iALxUYAABBEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_iALxUYAABBEb.jpg",
+					"url": "https://t.co/2pjT2Om2n6",
+					"display_url": "pic.twitter.com/2pjT2Om2n6",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464174059319296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247464114915381200,
+					"id_str": "1247464114915381248",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_iAM-UEAAr_2P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_iAM-UEAAr_2P.jpg",
+					"url": "https://t.co/2pjT2Om2n6",
+					"display_url": "pic.twitter.com/2pjT2Om2n6",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464174059319296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247464171924361200,
+		"in_reply_to_status_id_str": "1247464171924361218",
+		"in_reply_to_user_id": 128414082,
+		"in_reply_to_user_id_str": "128414082",
+		"in_reply_to_screen_name": "ContentKorea",
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19557,
+			"friends_count": 15485,
+			"listed_count": 414,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1581039286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/2pjT2Om2n6"
+	},
+	{
+		"created_at": "Tue Apr 07 10:45:10 +0000 2020",
+		"id": 1247464171924361200,
+		"id_str": "1247475499191783424",
+		"full_text": "#CJENM #LG전자 와 함께\n콘텐츠 생태계를 혁신할 #스타트업 을 찾습니다!\n\nCJ ENM, LG전자와의 사업협력은 물론\n사업화 자금부터 투자 유치까지.\n지금 바로 확인하세요!\n\n📌신청기간 : ~ 5월 4일(월) 14시\n📌세부안내 : https://t.co/SiExFSBVXz\n\n#한국콘텐츠진흥원 #콘진원 #스타트업지원 #CONFINITY https://t.co/sa0y5dLAEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CJENM",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LG전자",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "콘진원",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "스타트업지원",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "CONFINITY",
+					"indices": [
+						181,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SiExFSBVXz",
+					"expanded_url": "https://vo.la/RYRr",
+					"display_url": "vo.la/RYRr",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247464053787615200,
+					"id_str": "1247464053787615232",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_h8pQUYAARGg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_h8pQUYAARGg3.jpg",
+					"url": "https://t.co/sa0y5dLAEz",
+					"display_url": "pic.twitter.com/sa0y5dLAEz",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464171924361218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247464053787615200,
+					"id_str": "1247464053787615232",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_h8pQUYAARGg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_h8pQUYAARGg3.jpg",
+					"url": "https://t.co/sa0y5dLAEz",
+					"display_url": "pic.twitter.com/sa0y5dLAEz",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1247464171924361218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19557,
+			"friends_count": 15485,
+			"listed_count": 414,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1581039286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CJENM #LG전자 와 함께\n콘텐츠 생태계를 혁신할 #스타트업 을 찾습니다!\n\nCJ ENM, LG전자와의 사업협력은 물론\n사업화 자금부터 투자 유치까지.\n지금 바로 확인하세요!\n\n📌신청기간 : ~ 5월 4일(월) 14시\n📌세부안내 : https://t.co/SiExFSBVXz\n\n#한국콘텐츠진흥원 #콘진원 #스타트업지원 #CONFINITY https://t.co/sa0y5dLAEz"
+	},
+	{
+		"created_at": "Tue Apr 07 10:44:31 +0000 2020",
+		"id": 1247475335865589800,
+		"id_str": "1247475335865589760",
+		"full_text": "스트레스가 쌓인다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스트레스가 쌓인다..."
+	},
+	{
 		"created_at": "Tue Apr 07 09:05:22 +0000 2020",
 		"id": 1247450381367607300,
 		"id_str": "1247450381367607296",
