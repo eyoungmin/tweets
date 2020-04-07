@@ -1,6 +1,1096 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 11:56:00 +0000 2020",
+		"id": 1247472096008999000,
+		"id_str": "1247493325868826625",
+		"full_text": "[📽] 즐거웠던 트위터 블루룸 라이브!\n\n#여자아이들 #GIDLE\n#수진 #슈화 #SOOJIN #SHUHUA \n#TwitterBlueroom\n#TwitterMirror 360 https://t.co/I4zIsiXkbr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "수진",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "슈화",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "SOOJIN",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "SHUHUA",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"text": "TwitterMirror",
+					"indices": [
+						79,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247472045006307300,
+					"id_str": "1247472045006307333",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247472045006307333/pu/img/ln1r244Ufs5OJARM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247472045006307333/pu/img/ln1r244Ufs5OJARM.jpg",
+					"url": "https://t.co/I4zIsiXkbr",
+					"display_url": "pic.twitter.com/I4zIsiXkbr",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247472096008998912/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247472045006307300,
+					"id_str": "1247472045006307333",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247472045006307333/pu/img/ln1r244Ufs5OJARM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247472045006307333/pu/img/ln1r244Ufs5OJARM.jpg",
+					"url": "https://t.co/I4zIsiXkbr",
+					"display_url": "pic.twitter.com/I4zIsiXkbr",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247472096008998912/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15692,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1247472045006307333/pu/pl/vWRGkQPcRU1wdOEE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247472045006307333/pu/vid/320x320/0H3v-9OQQcwhTcJV.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247472045006307333/pu/vid/720x720/i46U-EjhrddqENiS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247472045006307333/pu/vid/480x480/Hc2Yg3wGAbH_TNrf.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625742,
+			"friends_count": 28,
+			"listed_count": 2865,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3620,
+		"favorite_count": 8814,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] 즐거웠던 트위터 블루룸 라이브!\n\n#여자아이들 #GIDLE\n#수진 #슈화 #SOOJIN #SHUHUA \n#TwitterBlueroom\n#TwitterMirror 360 https://t.co/I4zIsiXkbr"
+	},
+	{
+		"created_at": "Tue Apr 07 11:55:58 +0000 2020",
+		"id": 1247471952291188700,
+		"id_str": "1247493315894730752",
+		"full_text": "[📽] 즐거웠던 트위터 블루룸 라이브!\n\n#여자아이들 #GIDLE\n#미연 #우기 #MIYEON #YUQI \n#TwitterBlueroom\n#TwitterMirror 360 https://t.co/u846jDxMVm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "우기",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "MIYEON",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "YUQI",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"text": "TwitterMirror",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247471884209275000,
+					"id_str": "1247471884209274882",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247471884209274882/pu/img/uP-687u3Km-VJ_8A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247471884209274882/pu/img/uP-687u3Km-VJ_8A.jpg",
+					"url": "https://t.co/u846jDxMVm",
+					"display_url": "pic.twitter.com/u846jDxMVm",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247471952291188736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247471884209275000,
+					"id_str": "1247471884209274882",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247471884209274882/pu/img/uP-687u3Km-VJ_8A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247471884209274882/pu/img/uP-687u3Km-VJ_8A.jpg",
+					"url": "https://t.co/u846jDxMVm",
+					"display_url": "pic.twitter.com/u846jDxMVm",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247471952291188736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20358,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247471884209274882/pu/vid/320x320/mxYhceTZKP7DXchm.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247471884209274882/pu/vid/480x480/xqobcYeQNMdeOarF.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247471884209274882/pu/vid/720x720/ZBwi_6jkQ6rDO8V6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1247471884209274882/pu/pl/3FcMSUeyg88-Hsjo.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625742,
+			"friends_count": 28,
+			"listed_count": 2865,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3131,
+		"favorite_count": 7904,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] 즐거웠던 트위터 블루룸 라이브!\n\n#여자아이들 #GIDLE\n#미연 #우기 #MIYEON #YUQI \n#TwitterBlueroom\n#TwitterMirror 360 https://t.co/u846jDxMVm"
+	},
+	{
+		"created_at": "Tue Apr 07 11:29:17 +0000 2020",
+		"id": 1247471807872913400,
+		"id_str": "1247486600621117441",
+		"full_text": "[📽] 즐거웠던 트위터 블루룸 라이브!\n\n#여자아이들 #GIDLE\n#민니 #소연 #MINNIE #SOYEON\n#TwitterBlueroom\n#TwitterMirror 360 https://t.co/MhT9Mqoh7t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "민니",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "MINNIE",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "SOYEON",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"text": "TwitterMirror",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247471763572711400,
+					"id_str": "1247471763572711426",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247471763572711426/pu/img/4ElRUOq5KOQ_dxjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247471763572711426/pu/img/4ElRUOq5KOQ_dxjn.jpg",
+					"url": "https://t.co/MhT9Mqoh7t",
+					"display_url": "pic.twitter.com/MhT9Mqoh7t",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247471807872913410/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247471763572711400,
+					"id_str": "1247471763572711426",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247471763572711426/pu/img/4ElRUOq5KOQ_dxjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247471763572711426/pu/img/4ElRUOq5KOQ_dxjn.jpg",
+					"url": "https://t.co/MhT9Mqoh7t",
+					"display_url": "pic.twitter.com/MhT9Mqoh7t",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1247471807872913410/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11910,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1247471763572711426/pu/pl/T3Lwm814YC3zurwc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247471763572711426/pu/vid/720x720/6iiheY0pKXdjPlzi.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247471763572711426/pu/vid/480x480/URp06f2iJ_y8m1rj.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247471763572711426/pu/vid/320x320/rlcCSSsYQjhsATQz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625742,
+			"friends_count": 28,
+			"listed_count": 2865,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2633,
+		"favorite_count": 6971,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] 즐거웠던 트위터 블루룸 라이브!\n\n#여자아이들 #GIDLE\n#민니 #소연 #MINNIE #SOYEON\n#TwitterBlueroom\n#TwitterMirror 360 https://t.co/MhT9Mqoh7t"
+	},
+	{
+		"created_at": "Tue Apr 07 11:29:04 +0000 2020",
+		"id": 1247486546741276700,
+		"id_str": "1247486546741276672",
+		"full_text": "#대한민국 #보건복지부\n[요약] 4월7일14시10│코로나 19 혈장치료 지침 완성 예정 치료 체계 마련│정부브리핑\nhttps://t.co/bi8HgYqpps\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bi8HgYqpps",
+					"expanded_url": "https://www.youtube.com/watch?v=5O4WVN1Wiao",
+					"display_url": "youtube.com/watch?v=5O4WVN…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 4월7일14시10│코로나 19 혈장치료 지침 완성 예정 치료 체계 마련│정부브리핑\nhttps://t.co/bi8HgYqpps\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Tue Apr 07 11:29:03 +0000 2020",
+		"id": 1247486544128159700,
+		"id_str": "1247486544128159746",
+		"full_text": "#대한민국 #보건복지부\n[요약] 4월7일11시│온라인 개학 준비사항│정부브리핑\nhttps://t.co/VzHyiiwfDa\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VzHyiiwfDa",
+					"expanded_url": "https://www.youtube.com/watch?v=HvhcMUN2RFA",
+					"display_url": "youtube.com/watch?v=HvhcMU…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 4월7일11시│온라인 개학 준비사항│정부브리핑\nhttps://t.co/VzHyiiwfDa\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Tue Apr 07 10:45:31 +0000 2020",
 		"id": 1247464176190013400,
 		"id_str": "1247475588148817920",
