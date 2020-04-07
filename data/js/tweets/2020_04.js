@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 15:57:46 +0000 2020",
+		"id": 1247471789191524400,
+		"id_str": "1247554168941760512",
+		"full_text": "여기서 의문은 고객으로부터 매달 받는 인터넷 이용요금은 대체 어디다가 쓰는 걸까요? 망 사업자가 자사망 고객이 이용하고자 하는 콘텐츠 사업자에게 망 비용까지 받겠다고 한다면 대체 자사망 고객에게 인터넷 이용 요금은 왜 받는지 의문입니다. 망 품질 관리 책임은 망 사업자에게 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247469529317249000,
+		"in_reply_to_status_id_str": "1247469529317249026",
+		"in_reply_to_user_id": 701825105538646000,
+		"in_reply_to_user_id_str": "701825105538646016",
+		"in_reply_to_screen_name": "netflixkr_up",
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68968,
+			"friends_count": 38,
+			"listed_count": 299,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여기서 의문은 고객으로부터 매달 받는 인터넷 이용요금은 대체 어디다가 쓰는 걸까요? 망 사업자가 자사망 고객이 이용하고자 하는 콘텐츠 사업자에게 망 비용까지 받겠다고 한다면 대체 자사망 고객에게 인터넷 이용 요금은 왜 받는지 의문입니다. 망 품질 관리 책임은 망 사업자에게 있습니다."
+	},
+	{
+		"created_at": "Tue Apr 07 15:57:45 +0000 2020",
+		"id": 1247469529317249000,
+		"id_str": "1247554164210585601",
+		"full_text": "그런데 소비자는 인터넷망을 선택할 수 있습니다. 매달 내 돈 내고 굳이 느려터진 인터넷망 때문에 스트레스 받을 필요는 없지요. 속도 빠른 망으로 갈아타면 그만입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247468919893323800,
+		"in_reply_to_status_id_str": "1247468919893323777",
+		"in_reply_to_user_id": 701825105538646000,
+		"in_reply_to_user_id_str": "701825105538646016",
+		"in_reply_to_screen_name": "netflixkr_up",
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68968,
+			"friends_count": 38,
+			"listed_count": 299,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런데 소비자는 인터넷망을 선택할 수 있습니다. 매달 내 돈 내고 굳이 느려터진 인터넷망 때문에 스트레스 받을 필요는 없지요. 속도 빠른 망으로 갈아타면 그만입니다."
+	},
+	{
 		"created_at": "Tue Apr 07 15:11:14 +0000 2020",
 		"id": 1247542458558197800,
 		"id_str": "1247542458558197761",
