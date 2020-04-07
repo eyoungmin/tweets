@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 13:54:36 +0000 2020",
+		"id": 1247520163924070400,
+		"id_str": "1247523169885286400",
+		"full_text": "BEST BIRTHDAY EVER.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339755472,
+			"id_str": "339755472",
+			"name": "ANNE-MARIE",
+			"screen_name": "AnneMarie",
+			"location": "My own head",
+			"description": "HER is out NOW https://t.co/vo6s9Y0xEs & BIRTHDAY is out NOW too 🎈 https://t.co/tKDzXjRkRN",
+			"url": "https://t.co/Wq2Jn4Yv4k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wq2Jn4Yv4k",
+							"expanded_url": "http://iamannemarie.com",
+							"display_url": "iamannemarie.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vo6s9Y0xEs",
+							"expanded_url": "https://ad.gt/Her",
+							"display_url": "ad.gt/Her",
+							"indices": [
+								15,
+								38
+							]
+						},
+						{
+							"url": "https://t.co/tKDzXjRkRN",
+							"expanded_url": "https://ad.gt/BIRTHDAY",
+							"display_url": "ad.gt/BIRTHDAY",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 700523,
+			"friends_count": 742,
+			"listed_count": 1028,
+			"created_at": "Thu Jul 21 16:14:57 +0000 2011",
+			"favourites_count": 18722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221812030438625287/34mSR8iE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221812030438625287/34mSR8iE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339755472/1581066286",
+			"profile_link_color": "8BBAD8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 1543,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BEST BIRTHDAY EVER."
+	},
+	{
+		"created_at": "Tue Apr 07 13:29:53 +0000 2020",
+		"id": 1247428172947181600,
+		"id_str": "1247516949946327040",
+		"full_text": "혹시나 싶어 그 회사 아는 분께 사전에 물어봤는데 \"등골만 빼먹고 튀는 경우가 많아요\" 했는데, 공짜로 탑재시켜줬으면 등골만 빼먹혔을 거라는 킹리적 갓심...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247427787700367400,
+		"in_reply_to_status_id_str": "1247427787700367365",
+		"in_reply_to_user_id": 1023072296,
+		"in_reply_to_user_id_str": "1023072296",
+		"in_reply_to_screen_name": "intoTEUS",
+		"user": {
+			"id": 1023072296,
+			"id_str": "1023072296",
+			"name": "ᏴᏞᏬ𝝣𝝶ᏞᏆᏤ𝝣🎗🦋民主香港加油🇭🇰",
+			"screen_name": "intoTEUS",
+			"location": "ıllıllı anoтнer place ıllıllı",
+			"description": "007덕, 닭나덕, 앱등이, iTrans, 메모장2-mod, LibreELEC, 노빠, 文派, 여당권리당원, 공수처 신설, 180919전쟁없는한반도, #remember140416 내마음은지지않아, 民主香港加油🇭🇰",
+			"url": "https://t.co/LbN33sd6mX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LbN33sd6mX",
+							"expanded_url": "http://TEUS.me",
+							"display_url": "TEUS.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3158,
+			"friends_count": 960,
+			"listed_count": 44,
+			"created_at": "Wed Dec 19 23:05:43 +0000 2012",
+			"favourites_count": 1542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 233823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245564189025828864/IYLWEnyT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245564189025828864/IYLWEnyT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023072296/1491824851",
+			"profile_link_color": "2970A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "627E91",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 306,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "혹시나 싶어 그 회사 아는 분께 사전에 물어봤는데 \"등골만 빼먹고 튀는 경우가 많아요\" 했는데, 공짜로 탑재시켜줬으면 등골만 빼먹혔을 거라는 킹리적 갓심..."
+	},
+	{
 		"created_at": "Tue Apr 07 12:05:09 +0000 2020",
 		"id": 1247494330949853200,
 		"id_str": "1247495628680298496",
