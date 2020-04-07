@@ -1,6 +1,2114 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 03:46:25 +0000 2020",
+		"id": 1247365331464515600,
+		"id_str": "1247370118239113218",
+		"full_text": "‘코로나19’에 넷플릭스 사용자 22%↑ “역대 최대” https://t.co/w0BPf8XFsb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w0BPf8XFsb",
+					"expanded_url": "http://www.bloter.net/archives/377024",
+					"display_url": "bloter.net/archives/377024",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55976,
+			"friends_count": 9,
+			"listed_count": 2502,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘코로나19’에 넷플릭스 사용자 22%↑ “역대 최대” https://t.co/w0BPf8XFsb"
+	},
+	{
+		"created_at": "Tue Apr 07 03:45:23 +0000 2020",
+		"id": 1247368279498223600,
+		"id_str": "1247369857793798144",
+		"full_text": "DMZ Peace Train Music Festival  디엠지 피스트레인 뮤직 페스티벌 홈페이지에 글을 썼습니다. 코로나 시대에는 행사가 없으니 기고 요청이 귀하고 고마워요✍🏻\n\nhttps://t.co/wSmuPQsffL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wSmuPQsffL",
+					"expanded_url": "https://dmzpeacetrain.imweb.me/contents/?bmode=view&idx=3632455&back_url=&t=board&page=1",
+					"display_url": "dmzpeacetrain.imweb.me/contents/?bmod…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "🔥의뢰|문의 📧 info.langlee@gmail.com \n📧日本の仕事は info.sweetdreams@gmail.com \nSTAFF @info_langlee ☺︎마켓컬리 추천인ID: gonglang",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30912,
+			"friends_count": 936,
+			"listed_count": 228,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DMZ Peace Train Music Festival  디엠지 피스트레인 뮤직 페스티벌 홈페이지에 글을 썼습니다. 코로나 시대에는 행사가 없으니 기고 요청이 귀하고 고마워요✍🏻\n\nhttps://t.co/wSmuPQsffL"
+	},
+	{
+		"created_at": "Tue Apr 07 03:39:04 +0000 2020",
+		"id": 1247368266483486700,
+		"id_str": "1247368266483486725",
+		"full_text": "#팩트체크 #SNU팩트체크\n디지털 성착취 피해자들만 세금 5천만 원 지원 받는다\n▶ 대체로 사실이 아님\nhttps://t.co/2Pp3HZlUBd\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						84,
+						95
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Pp3HZlUBd",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2212",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n디지털 성착취 피해자들만 세금 5천만 원 지원 받는다\n▶ 대체로 사실이 아님\nhttps://t.co/2Pp3HZlUBd\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Tue Apr 07 03:24:38 +0000 2020",
+		"id": 1247354525809180700,
+		"id_str": "1247364633654067200",
+		"full_text": "#슬로워크의_일 &lt;한국양성평등교육진흥원 권력과 젠더&gt;\n사회초년생 대상의 폭력예방교육 ‘권력과 젠더’의 PPT강의안과 강의지침서를 제작했습니다. 평등을 상징하는 바형태의 CI 그래픽 모티브를 활용하여 시각적 연관성을 주고, 시뮬레이션 게임 컨셉에 맞춰 디자인했습니다.\nhttps://t.co/fTpKc41ker",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로워크의_일",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fTpKc41ker",
+					"expanded_url": "https://slowalk.co.kr/archives/portfolio/%ed%95%9c%ea%b5%ad%ec%96%91%ec%84%b1%ed%8f%89%eb%93%b1%ea%b5%90%ec%9c%a1%ec%a7%84%ed%9d%a5%ec%9b%90-%ea%b6%8c%eb%a0%a5%ea%b3%bc-%ec%a0%a0%eb%8d%94-%ea%b0%95%ec%9d%98-%ec%9e%90%eb%a3%8c",
+					"display_url": "slowalk.co.kr/archives/portf…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4924,
+			"friends_count": 3429,
+			"listed_count": 225,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬로워크의_일 &lt;한국양성평등교육진흥원 권력과 젠더&gt;\n사회초년생 대상의 폭력예방교육 ‘권력과 젠더’의 PPT강의안과 강의지침서를 제작했습니다. 평등을 상징하는 바형태의 CI 그래픽 모티브를 활용하여 시각적 연관성을 주고, 시뮬레이션 게임 컨셉에 맞춰 디자인했습니다.\nhttps://t.co/fTpKc41ker"
+	},
+	{
+		"created_at": "Tue Apr 07 03:16:53 +0000 2020",
+		"id": 1247360327550816300,
+		"id_str": "1247362686020497408",
+		"full_text": "일렉트로닉 프로듀서 겸 DJ 예지(@kraeji)의 'WHEN I GROW UP'의 리릭 비디오가 공개되었습니다. 'WHEN I GROW UP'가 수록된 예지의 첫 정규 앨범이자 새 믹스테이프 'WHAT WE DREW' 우리가 그려왔던'은 지난 2일 발매되었습니다. https://t.co/mTp2xxfFg8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kraeji",
+					"name": "Yaeji",
+					"id": 2846309177,
+					"id_str": "2846309177",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247360155810852900,
+					"id_str": "1247360155810852865",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-Dc_IU8AEAY5s.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU-Dc_IU8AEAY5s.png",
+					"url": "https://t.co/mTp2xxfFg8",
+					"display_url": "pic.twitter.com/mTp2xxfFg8",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1247360327550816256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 405,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 773,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247360155810852900,
+					"id_str": "1247360155810852865",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-Dc_IU8AEAY5s.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU-Dc_IU8AEAY5s.png",
+					"url": "https://t.co/mTp2xxfFg8",
+					"display_url": "pic.twitter.com/mTp2xxfFg8",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1247360327550816256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 405,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 773,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22072,
+			"friends_count": 17,
+			"listed_count": 82,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일렉트로닉 프로듀서 겸 DJ 예지(@kraeji)의 'WHEN I GROW UP'의 리릭 비디오가 공개되었습니다. 'WHEN I GROW UP'가 수록된 예지의 첫 정규 앨범이자 새 믹스테이프 'WHAT WE DREW' 우리가 그려왔던'은 지난 2일 발매되었습니다. https://t.co/mTp2xxfFg8"
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:05 +0000 2020",
+		"id": 1247137419096285200,
+		"id_str": "1247361225903632384",
+		"full_text": "\"임원들은 모르는 `업무효율 앱`…한국2030 수십만명이 쓰죠\" https://t.co/HHjLZYIh7P 매경 신현규 특파원의 노션 샌프란시스코 본사 방문기. 노션의 한국유저가 이렇게 많았는지 몰랐다. https://t.co/LoOyTYLtEu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HHjLZYIh7P",
+					"expanded_url": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=009&aid=0004551078",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247137400494493700,
+					"id_str": "1247137400494493696",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EU64266UEAAB77u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU64266UEAAB77u.jpg",
+					"url": "https://t.co/LoOyTYLtEu",
+					"display_url": "pic.twitter.com/LoOyTYLtEu",
+					"expanded_url": "https://twitter.com/estima7/status/1247137419096285184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247137400494493700,
+					"id_str": "1247137400494493696",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EU64266UEAAB77u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU64266UEAAB77u.jpg",
+					"url": "https://t.co/LoOyTYLtEu",
+					"display_url": "pic.twitter.com/LoOyTYLtEu",
+					"expanded_url": "https://twitter.com/estima7/status/1247137419096285184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376672,
+			"friends_count": 2289,
+			"listed_count": 4757,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 84,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"임원들은 모르는 `업무효율 앱`…한국2030 수십만명이 쓰죠\" https://t.co/HHjLZYIh7P 매경 신현규 특파원의 노션 샌프란시스코 본사 방문기. 노션의 한국유저가 이렇게 많았는지 몰랐다. https://t.co/LoOyTYLtEu"
+	},
+	{
+		"created_at": "Tue Apr 07 03:10:37 +0000 2020",
+		"id": 1247313843094782000,
+		"id_str": "1247361108496662528",
+		"full_text": "코로나 바이러스 사태로 인해 3월 11일 이후 정리해고된 업체와 날짜,사무실 위치 및 인원수 등을 공유하는 트래커 https://t.co/iMMGjgyTQW 사이트. 대략의 스타트업 상황을 인더스트리별로 확인해볼 수 있는데 스타트업 상황도 투자 동결 등으로 매우 어려운 상황 https://t.co/XmkBwYWWNl https://t.co/zLvXn3hG7T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iMMGjgyTQW",
+					"expanded_url": "http://Layoffs.fyi",
+					"display_url": "Layoffs.fyi",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/XmkBwYWWNl",
+					"expanded_url": "https://layoffs.fyi/tracker/",
+					"display_url": "layoffs.fyi/tracker/",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247313840938893300,
+					"id_str": "1247313840938893313",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9ZVGyXQAELs6T.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU9ZVGyXQAELs6T.png",
+					"url": "https://t.co/zLvXn3hG7T",
+					"display_url": "pic.twitter.com/zLvXn3hG7T",
+					"expanded_url": "https://twitter.com/minist/status/1247313843094781953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247313840938893300,
+					"id_str": "1247313840938893313",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9ZVGyXQAELs6T.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU9ZVGyXQAELs6T.png",
+					"url": "https://t.co/zLvXn3hG7T",
+					"display_url": "pic.twitter.com/zLvXn3hG7T",
+					"expanded_url": "https://twitter.com/minist/status/1247313843094781953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64156,
+			"friends_count": 727,
+			"listed_count": 924,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나 바이러스 사태로 인해 3월 11일 이후 정리해고된 업체와 날짜,사무실 위치 및 인원수 등을 공유하는 트래커 https://t.co/iMMGjgyTQW 사이트. 대략의 스타트업 상황을 인더스트리별로 확인해볼 수 있는데 스타트업 상황도 투자 동결 등으로 매우 어려운 상황 https://t.co/XmkBwYWWNl https://t.co/zLvXn3hG7T"
+	},
+	{
+		"created_at": "Tue Apr 07 03:09:58 +0000 2020",
+		"id": 1247309152990478300,
+		"id_str": "1247360944872624129",
+		"full_text": "구글 알파벳의 생명공학 자회사인 베릴리(Verily)가 모기로 인한 전염병 퇴치를 위해 개발한 수컷 모기가 대량으로 방사되며 큰 성과. 수컷 모기에 Wolbachia 박테리아를 감염시키면 이 모기와 교미한 암컷의 알이 부화하지 못하게 만들어. 2년전부터 매월 8만 마리씩 방사중 https://t.co/p3mnx6VQmx https://t.co/YQCTMC3YkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p3mnx6VQmx",
+					"expanded_url": "https://www.msn.com/en-us/news/other/a-google-plan-to-wipe-out-mosquitoes-appears-to-be-working/ar-BB12ejxB",
+					"display_url": "msn.com/en-us/news/oth…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247309150243172400,
+					"id_str": "1247309150243172352",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9VEElWsAASEzF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9VEElWsAASEzF.jpg",
+					"url": "https://t.co/YQCTMC3YkF",
+					"display_url": "pic.twitter.com/YQCTMC3YkF",
+					"expanded_url": "https://twitter.com/minist/status/1247309152990478336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247309150243172400,
+					"id_str": "1247309150243172352",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9VEElWsAASEzF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9VEElWsAASEzF.jpg",
+					"url": "https://t.co/YQCTMC3YkF",
+					"display_url": "pic.twitter.com/YQCTMC3YkF",
+					"expanded_url": "https://twitter.com/minist/status/1247309152990478336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64156,
+			"friends_count": 727,
+			"listed_count": 924,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 알파벳의 생명공학 자회사인 베릴리(Verily)가 모기로 인한 전염병 퇴치를 위해 개발한 수컷 모기가 대량으로 방사되며 큰 성과. 수컷 모기에 Wolbachia 박테리아를 감염시키면 이 모기와 교미한 암컷의 알이 부화하지 못하게 만들어. 2년전부터 매월 8만 마리씩 방사중 https://t.co/p3mnx6VQmx https://t.co/YQCTMC3YkF"
+	},
+	{
+		"created_at": "Tue Apr 07 03:07:53 +0000 2020",
+		"id": 1247355838567612400,
+		"id_str": "1247360418877558785",
+		"full_text": "안테나 뮤직은 릴레이 라이브 스트리밍 'Everything Is OK, with Antenna'으로 코로나19 바이러스 감염증으로 지친 밤에 위로를 전할 예정입니다. 안테나의 모든 아티스트가 참여할 이 랜선 페스티벌은 오는 11일과 12일, 18일과 19일 작은 녹음실 안에서 진행될 예정입니다. @antennamusic https://t.co/R5XQxghnDl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "antennamusic",
+					"name": "안테나 Antenna",
+					"id": 266004552,
+					"id_str": "266004552",
+					"indices": [
+						166,
+						179
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247354841191436300,
+					"id_str": "1247354841191436288",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9-nooUUAAb8Ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9-nooUUAAb8Ky.jpg",
+					"url": "https://t.co/R5XQxghnDl",
+					"display_url": "pic.twitter.com/R5XQxghnDl",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1247355838567612416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 688,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247354841191436300,
+					"id_str": "1247354841191436288",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9-nooUUAAb8Ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9-nooUUAAb8Ky.jpg",
+					"url": "https://t.co/R5XQxghnDl",
+					"display_url": "pic.twitter.com/R5XQxghnDl",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1247355838567612416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 688,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22072,
+			"friends_count": 17,
+			"listed_count": 82,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안테나 뮤직은 릴레이 라이브 스트리밍 'Everything Is OK, with Antenna'으로 코로나19 바이러스 감염증으로 지친 밤에 위로를 전할 예정입니다. 안테나의 모든 아티스트가 참여할 이 랜선 페스티벌은 오는 11일과 12일, 18일과 19일 작은 녹음실 안에서 진행될 예정입니다. @antennamusic https://t.co/R5XQxghnDl"
+	},
+	{
+		"created_at": "Tue Apr 07 03:07:10 +0000 2020",
+		"id": 1247354083528200200,
+		"id_str": "1247360239206195202",
+		"full_text": "어렵게 극장 개봉을 결정한 다큐멘터리 역시, 더 많은 관객 여러분과 만나지 못해 아쉽기만 합니다. 극장에 가시지 못하더라도 ‘개봉큐!’ 소식에 많은 응원의 메시지를 부탁드립니다. 다큐멘터리 감독님들께 큰 힘이 될 것이라고 믿습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247354081867268000,
+		"in_reply_to_status_id_str": "1247354081867268096",
+		"in_reply_to_user_id": 152891471,
+		"in_reply_to_user_id_str": "152891471",
+		"in_reply_to_screen_name": "DMZDocs",
+		"user": {
+			"id": 152891471,
+			"id_str": "152891471",
+			"name": "dmzdocs",
+			"screen_name": "DMZDocs",
+			"location": "Gyeonggi-do",
+			"description": "DMZ International Documentary Film Festival  2020. 9.17-24.",
+			"url": "http://t.co/FUFnJqYU5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FUFnJqYU5a",
+							"expanded_url": "http://www.facebook.com/dmzdocs",
+							"display_url": "facebook.com/dmzdocs",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4106,
+			"friends_count": 1667,
+			"listed_count": 121,
+			"created_at": "Mon Jun 07 04:06:43 +0000 2010",
+			"favourites_count": 62,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EF4036",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752662309210722305/sjmSGEHd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752662309210722305/sjmSGEHd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152891471/1586147900",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어렵게 극장 개봉을 결정한 다큐멘터리 역시, 더 많은 관객 여러분과 만나지 못해 아쉽기만 합니다. 극장에 가시지 못하더라도 ‘개봉큐!’ 소식에 많은 응원의 메시지를 부탁드립니다. 다큐멘터리 감독님들께 큰 힘이 될 것이라고 믿습니다."
+	},
+	{
+		"created_at": "Tue Apr 07 03:07:08 +0000 2020",
+		"id": 1247354081867268000,
+		"id_str": "1247360229555048454",
+		"full_text": "DMZ국제다큐멘터리영화제의 개봉 다큐멘터리 소식, 개봉큐!\n\nDMZ국제다큐멘터리영화제가 개봉 다큐멘터리를 응원하는 SNS 컨텐츠, ‘개봉큐!’를 오픈합니다.3월에 예정되어 있던 많은 다큐멘터리들이 코로나 때문에 개봉을 연기하고 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152891471,
+			"id_str": "152891471",
+			"name": "dmzdocs",
+			"screen_name": "DMZDocs",
+			"location": "Gyeonggi-do",
+			"description": "DMZ International Documentary Film Festival  2020. 9.17-24.",
+			"url": "http://t.co/FUFnJqYU5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FUFnJqYU5a",
+							"expanded_url": "http://www.facebook.com/dmzdocs",
+							"display_url": "facebook.com/dmzdocs",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4106,
+			"friends_count": 1667,
+			"listed_count": 121,
+			"created_at": "Mon Jun 07 04:06:43 +0000 2010",
+			"favourites_count": 62,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EF4036",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752662309210722305/sjmSGEHd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752662309210722305/sjmSGEHd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152891471/1586147900",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "DMZ국제다큐멘터리영화제의 개봉 다큐멘터리 소식, 개봉큐!\n\nDMZ국제다큐멘터리영화제가 개봉 다큐멘터리를 응원하는 SNS 컨텐츠, ‘개봉큐!’를 오픈합니다.3월에 예정되어 있던 많은 다큐멘터리들이 코로나 때문에 개봉을 연기하고 있습니다."
+	},
+	{
+		"created_at": "Tue Apr 07 03:06:12 +0000 2020",
+		"id": 1247326854945452000,
+		"id_str": "1247359995529715713",
+		"full_text": "이름·생일·배송지까지…스타일쉐어, 개인정보 유출 https://t.co/JDbEdwycGl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JDbEdwycGl",
+					"expanded_url": "http://www.bloter.net/archives/376978",
+					"display_url": "bloter.net/archives/376978",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55976,
+			"friends_count": 9,
+			"listed_count": 2502,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이름·생일·배송지까지…스타일쉐어, 개인정보 유출 https://t.co/JDbEdwycGl"
+	},
+	{
+		"created_at": "Tue Apr 07 03:06:01 +0000 2020",
+		"id": 1247336908423757800,
+		"id_str": "1247359951149776897",
+		"full_text": "L ⠀I ⠀VE NATION과 함께 해요\n-\n#LoveOfLive #TogetherApart #TogetherAtHome #사회적거리두기 #SocialDistancing https://t.co/GUIjCioGLW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LoveOfLive",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"text": "TogetherApart",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"text": "TogetherAtHome",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"text": "사회적거리두기",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "SocialDistancing",
+					"indices": [
+						77,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247336897174573000,
+					"id_str": "1247336897174573056",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9uTJ9UEAAehRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9uTJ9UEAAehRx.jpg",
+					"url": "https://t.co/GUIjCioGLW",
+					"display_url": "pic.twitter.com/GUIjCioGLW",
+					"expanded_url": "https://twitter.com/livenationkr/status/1247336908423757826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1020,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1020,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247336897174573000,
+					"id_str": "1247336897174573056",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9uTJ9UEAAehRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9uTJ9UEAAehRx.jpg",
+					"url": "https://t.co/GUIjCioGLW",
+					"display_url": "pic.twitter.com/GUIjCioGLW",
+					"expanded_url": "https://twitter.com/livenationkr/status/1247336908423757826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1020,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1020,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7013,
+			"friends_count": 234,
+			"listed_count": 34,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "L ⠀I ⠀VE NATION과 함께 해요\n-\n#LoveOfLive #TogetherApart #TogetherAtHome #사회적거리두기 #SocialDistancing https://t.co/GUIjCioGLW"
+	},
+	{
+		"created_at": "Tue Apr 07 03:05:10 +0000 2020",
+		"id": 1247358436007788500,
+		"id_str": "1247359735235477507",
+		"full_text": "[1theK Dance Cover Contest] #이달의소녀 #LOONA (@loonatheworld) 'So What' Winner Announcement🏆\n\n참여해주신 모든 분들께 감사드립니다🙌\nAll winners please e-mail your name, address and phone number at 1thek@kakao-m.com https://t.co/FxhstyGjxP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						43,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247040280777216000,
+					"id_str": "1247040280777216000",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1247040280777216000/img/fiR72jByCD-bdhni.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1247040280777216000/img/fiR72jByCD-bdhni.jpg",
+					"url": "https://t.co/FxhstyGjxP",
+					"display_url": "pic.twitter.com/FxhstyGjxP",
+					"expanded_url": "https://twitter.com/1theK/status/1247358436007788544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247040280777216000,
+					"id_str": "1247040280777216000",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1247040280777216000/img/fiR72jByCD-bdhni.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1247040280777216000/img/fiR72jByCD-bdhni.jpg",
+					"url": "https://t.co/FxhstyGjxP",
+					"display_url": "pic.twitter.com/FxhstyGjxP",
+					"expanded_url": "https://twitter.com/1theK/status/1247358436007788544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 265958,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1247040280777216000/pl/8y1cBee51f9YIk63.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247040280777216000/vid/1280x720/l9jFsl-tQ2YWqx9j.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247040280777216000/vid/480x270/492wdgJ9bEcJL5fF.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247040280777216000/vid/640x360/UDUDV2P1WydGHNV-.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[Winner Announcement] 1theK Dance Cover Contest 'LOONA - So What'",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/OQAUaZrHnDI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1862213,
+			"friends_count": 814,
+			"listed_count": 2785,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 902,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1theK Dance Cover Contest] #이달의소녀 #LOONA (@loonatheworld) 'So What' Winner Announcement🏆\n\n참여해주신 모든 분들께 감사드립니다🙌\nAll winners please e-mail your name, address and phone number at 1thek@kakao-m.com https://t.co/FxhstyGjxP"
+	},
+	{
 		"created_at": "Tue Apr 07 03:01:59 +0000 2020",
 		"id": 1246963172428238800,
 		"id_str": "1247358935838806016",
