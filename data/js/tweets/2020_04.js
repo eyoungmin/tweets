@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 12:05:09 +0000 2020",
+		"id": 1247494330949853200,
+		"id_str": "1247495628680298496",
+		"full_text": "아이돌 춤동작 보고 노래 맞히기 QUIZ! #돌춤잘알 정답!\n레드벨벳, 세븐틴, 엑소 커버댄스 by #드림노트 메댄즈 유아이&amp;수민 👍🏻\n\n#RedVelvet #SEVENTEEN #EXO COVER DANCE by #DreamNote\nHow many correct answers did you get?🤔 https://t.co/tkufaELZMH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "돌춤잘알",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "드림노트",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "SEVENTEEN",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "DreamNote",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247366065258025000,
+					"id_str": "1247366065258024962",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_92xOVAAEhV2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_92xOVAAEhV2d.jpg",
+					"url": "https://t.co/tkufaELZMH",
+					"display_url": "pic.twitter.com/tkufaELZMH",
+					"expanded_url": "https://twitter.com/1theK/status/1247494330949853185/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247366065258025000,
+					"id_str": "1247366065258024962",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_92xOVAAEhV2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_92xOVAAEhV2d.jpg",
+					"url": "https://t.co/tkufaELZMH",
+					"display_url": "pic.twitter.com/tkufaELZMH",
+					"expanded_url": "https://twitter.com/1theK/status/1247494330949853185/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 97542,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247366065258024962/vid/720x1280/mN1nz3M_eEJWV4NE.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247366065258024962/vid/360x640/EtOeyfRy-ZF9GL49.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247366065258024962/vid/320x568/H6SXqD_cgz886V8j.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1247366065258024962/pl/b_gb-ILbbAQrhwQC.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/j_5QyOGcdd8"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1862521,
+			"friends_count": 814,
+			"listed_count": 2783,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이돌 춤동작 보고 노래 맞히기 QUIZ! #돌춤잘알 정답!\n레드벨벳, 세븐틴, 엑소 커버댄스 by #드림노트 메댄즈 유아이&amp;수민 👍🏻\n\n#RedVelvet #SEVENTEEN #EXO COVER DANCE by #DreamNote\nHow many correct answers did you get?🤔 https://t.co/tkufaELZMH"
+	},
+	{
 		"created_at": "Tue Apr 07 11:56:00 +0000 2020",
 		"id": 1247472096008999000,
 		"id_str": "1247493325868826625",
