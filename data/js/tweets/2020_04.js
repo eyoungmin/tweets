@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 12:24:32 +0000 2020",
+		"id": 1247086645305700400,
+		"id_str": "1247862891245645825",
+		"full_text": "오빛들~ 오래 기다리셨죠?? 드디어! 예쁘고, 귀엽고, 상큼하고, 걸크미까지! 매력만 오백만가지인 #이달의소녀 의 히든트랙2 생중계가 딱! 이틀 남았어요❤️ #안보면 #후회할걸 😂\n\n4월 8일 (수) pm 9:00 #히든트랙2 이달소편\n오빛들 모여라 #Seezn\n\nLive 보러가기 : https://t.co/jRYwEw6MJ1 https://t.co/2utwhPdHot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "안보면",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "후회할걸",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "히든트랙2",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						140,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jRYwEw6MJ1",
+					"expanded_url": "http://bit.ly/seeznlive",
+					"display_url": "bit.ly/seeznlive",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247044562213695500,
+					"id_str": "1247044562213695488",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5kbBXUcAA4-8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5kbBXUcAA4-8L.jpg",
+					"url": "https://t.co/2utwhPdHot",
+					"display_url": "pic.twitter.com/2utwhPdHot",
+					"expanded_url": "https://twitter.com/HiddenTrack8/status/1247086645305700352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247044562213695500,
+					"id_str": "1247044562213695488",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5kbBXUcAA4-8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5kbBXUcAA4-8L.jpg",
+					"url": "https://t.co/2utwhPdHot",
+					"display_url": "pic.twitter.com/2utwhPdHot",
+					"expanded_url": "https://twitter.com/HiddenTrack8/status/1247086645305700352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1169838951663669200,
+			"id_str": "1169838951663669249",
+			"name": "히든트랙2(Hidden Track2)",
+			"screen_name": "HiddenTrack8",
+			"location": "",
+			"description": "팬심 저격 뮤직 라이브 토크쇼",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1513,
+			"friends_count": 15,
+			"listed_count": 7,
+			"created_at": "Fri Sep 06 05:05:24 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169838951663669249/1584509892",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1177,
+		"favorite_count": 2818,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛들~ 오래 기다리셨죠?? 드디어! 예쁘고, 귀엽고, 상큼하고, 걸크미까지! 매력만 오백만가지인 #이달의소녀 의 히든트랙2 생중계가 딱! 이틀 남았어요❤️ #안보면 #후회할걸 😂\n\n4월 8일 (수) pm 9:00 #히든트랙2 이달소편\n오빛들 모여라 #Seezn\n\nLive 보러가기 : https://t.co/jRYwEw6MJ1 https://t.co/2utwhPdHot"
+	},
+	{
 		"created_at": "Wed Apr 08 11:43:25 +0000 2020",
 		"id": 1247852543570358300,
 		"id_str": "1247852543570358274",
