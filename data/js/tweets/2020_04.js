@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 14:05:10 +0000 2020",
+		"id": 1247886528694464500,
+		"id_str": "1247888217598087170",
+		"full_text": "생방송 긴장따위! #텐션_UP \n\n11명의 소녀들😍 11가지 매력을 보여주고 간 #이달의소녀\n어쩜좋아...얼굴도 예쁜데 재미도 있어 #다가졌네_다가졌어\n\n#히든트랙2 도 이달의 소녀에게 #입덕\n#오빛 되어 갑니다❤\n\nps 떡볶이 맛있게 먹어요 (고원아 축하해 넌 오빛바라기🎁) https://t.co/DnVbHZFNXb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "텐션_UP",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "다가졌네_다가졌어",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "히든트랙2",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "입덕",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						108,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247886507383206000,
+					"id_str": "1247886507383205888",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFiKriUMAAyGWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFiKriUMAAyGWN.jpg",
+					"url": "https://t.co/DnVbHZFNXb",
+					"display_url": "pic.twitter.com/DnVbHZFNXb",
+					"expanded_url": "https://twitter.com/HiddenTrack8/status/1247886528694464513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247886507383206000,
+					"id_str": "1247886507383205888",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFiKriUMAAyGWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFiKriUMAAyGWN.jpg",
+					"url": "https://t.co/DnVbHZFNXb",
+					"display_url": "pic.twitter.com/DnVbHZFNXb",
+					"expanded_url": "https://twitter.com/HiddenTrack8/status/1247886528694464513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1169838951663669200,
+			"id_str": "1169838951663669249",
+			"name": "히든트랙2(Hidden Track2)",
+			"screen_name": "HiddenTrack8",
+			"location": "",
+			"description": "팬심 저격 뮤직 라이브 토크쇼",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1526,
+			"friends_count": 15,
+			"listed_count": 6,
+			"created_at": "Fri Sep 06 05:05:24 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169838951663669249/1584509892",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 744,
+		"favorite_count": 1073,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "생방송 긴장따위! #텐션_UP \n\n11명의 소녀들😍 11가지 매력을 보여주고 간 #이달의소녀\n어쩜좋아...얼굴도 예쁜데 재미도 있어 #다가졌네_다가졌어\n\n#히든트랙2 도 이달의 소녀에게 #입덕\n#오빛 되어 갑니다❤\n\nps 떡볶이 맛있게 먹어요 (고원아 축하해 넌 오빛바라기🎁) https://t.co/DnVbHZFNXb"
+	},
+	{
 		"created_at": "Wed Apr 08 13:14:21 +0000 2020",
 		"id": 1247875430985629700,
 		"id_str": "1247875430985629696",
