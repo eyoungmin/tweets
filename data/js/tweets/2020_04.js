@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 10:10:15 +0000 2020",
+		"id": 1248148622924861400,
+		"id_str": "1248191486924951553",
+		"full_text": "[최정윤] 'Silly Love Song' Release💕\n\nOfficial Video\n🎬 https://t.co/u8hV2uOR0v\n\n#최정윤 #Silly_Love_Song #실리럽송 https://t.co/eHkR1ZAEUy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최정윤",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "Silly_Love_Song",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"text": "실리럽송",
+					"indices": [
+						98,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u8hV2uOR0v",
+					"expanded_url": "https://youtu.be/FNCcCGz444g",
+					"display_url": "youtu.be/FNCcCGz444g",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248147698177343500,
+					"id_str": "1248147698177343488",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248147698177343488/pu/img/x4Ghhxe4JicyG2W_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248147698177343488/pu/img/x4Ghhxe4JicyG2W_.jpg",
+					"url": "https://t.co/eHkR1ZAEUy",
+					"display_url": "pic.twitter.com/eHkR1ZAEUy",
+					"expanded_url": "https://twitter.com/msbsound/status/1248148622924861440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248147698177343500,
+					"id_str": "1248147698177343488",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248147698177343488/pu/img/x4Ghhxe4JicyG2W_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248147698177343488/pu/img/x4Ghhxe4JicyG2W_.jpg",
+					"url": "https://t.co/eHkR1ZAEUy",
+					"display_url": "pic.twitter.com/eHkR1ZAEUy",
+					"expanded_url": "https://twitter.com/msbsound/status/1248148622924861440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 102792,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248147698177343488/pu/vid/960x720/xqCuUk87zIG6EQsY.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248147698177343488/pu/vid/480x360/RPimoPJBxQdJwE9K.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248147698177343488/pu/vid/360x270/cd-hA12cHxMlximK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248147698177343488/pu/pl/7JalCSP3OOuseRWj.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8199,
+			"friends_count": 6506,
+			"listed_count": 109,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "[최정윤] 'Silly Love Song' Release💕\n\nOfficial Video\n🎬 https://t.co/u8hV2uOR0v\n\n#최정윤 #Silly_Love_Song #실리럽송 https://t.co/eHkR1ZAEUy"
+	},
+	{
 		"created_at": "Thu Apr 09 10:01:37 +0000 2020",
 		"id": 1248189313982124000,
 		"id_str": "1248189313982124033",
