@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 16:20:08 +0000 2020",
+		"id": 1248264578347069400,
+		"id_str": "1248284572749463552",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video\n\n#여자아이들 #GIDLE\n#I_trust #사랑해\n\n▶️ https://t.co/caFUrjOqDJ https://t.co/ilV986SIw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "사랑해",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/caFUrjOqDJ",
+					"expanded_url": "https://youtu.be/TzepUKHa9lg",
+					"display_url": "youtu.be/TzepUKHa9lg",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248264568633057300,
+					"id_str": "1248264568633057281",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EVK6AvcUYAEPYVa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVK6AvcUYAEPYVa.jpg",
+					"url": "https://t.co/ilV986SIw5",
+					"display_url": "pic.twitter.com/ilV986SIw5",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1248264578347069440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248264568633057300,
+					"id_str": "1248264568633057281",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EVK6AvcUYAEPYVa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVK6AvcUYAEPYVa.jpg",
+					"url": "https://t.co/ilV986SIw5",
+					"display_url": "pic.twitter.com/ilV986SIw5",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1248264578347069440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 633199,
+			"friends_count": 32,
+			"listed_count": 2881,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1750,
+		"favorite_count": 5177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video\n\n#여자아이들 #GIDLE\n#I_trust #사랑해\n\n▶️ https://t.co/caFUrjOqDJ https://t.co/ilV986SIw5"
+	},
+	{
 		"created_at": "Thu Apr 09 15:14:58 +0000 2020",
 		"id": 1248268169975914500,
 		"id_str": "1248268169975914497",
