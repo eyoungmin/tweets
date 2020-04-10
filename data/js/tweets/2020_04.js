@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 15:37:17 +0000 2020",
+		"id": 1248435797369344000,
+		"id_str": "1248636176702922752",
+		"full_text": "금토일 안방1열 공연 총정리! 볼쇼이발레 호두까기인형, 로열발레 피터와 늑대, 뮤지컬 지저스 크라이스트 슈퍼스타 등등. 이것도 공연기자가 쓸만한 글이라 생각해 매일 매달리고 있는데, 많은 분들이 보시면 좋겠어요.    \nhttps://t.co/TLYQCklesr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLYQCklesr",
+					"expanded_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005740565",
+					"display_url": "news.sbs.co.kr/news/endPage.d…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119338446,
+			"id_str": "119338446",
+			"name": "김수현(Soo-Hyun KIM)",
+			"screen_name": "100curtaincalls",
+			"location": "",
+			"description": "SBS기자/BTS도 조성진도 씁니다/'천재들의 유엔 TED', '나도 가끔은 커튼콜을 꿈꾼다' 저자/호기심 많아 청춘/배우 아닙니다.^^. \nJournalist/Arts & Culture/SBS",
+			"url": "https://t.co/eORymVreNN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eORymVreNN",
+							"expanded_url": "http://twtkr.com/100curtaincalls",
+							"display_url": "twtkr.com/100curtaincalls",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22417,
+			"friends_count": 710,
+			"listed_count": 206,
+			"created_at": "Wed Mar 03 10:15:29 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944764017645465600/SOH4Z4el_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944764017645465600/SOH4Z4el_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119338446/1514084214",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금토일 안방1열 공연 총정리! 볼쇼이발레 호두까기인형, 로열발레 피터와 늑대, 뮤지컬 지저스 크라이스트 슈퍼스타 등등. 이것도 공연기자가 쓸만한 글이라 생각해 매일 매달리고 있는데, 많은 분들이 보시면 좋겠어요.    \nhttps://t.co/TLYQCklesr"
+	},
+	{
 		"created_at": "Fri Apr 10 13:00:20 +0000 2020",
 		"id": 1248596675930644500,
 		"id_str": "1248596675930644481",
