@@ -1,6 +1,2361 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 10:27:15 +0000 2020",
+		"id": 1248558155417694200,
+		"id_str": "1248558155417694210",
+		"full_text": "[작곡가 클라쓰] 작곡가들이 음악 영화를 본다면? / 1부 \"비긴 어게인\", \"이프 온리\" 편\nhttps://t.co/PRBUEnZeol\n#MonoTree #모노트리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonoTree",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						87,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PRBUEnZeol",
+					"expanded_url": "https://youtu.be/1KfhssiW6qM",
+					"display_url": "youtu.be/1KfhssiW6qM",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[작곡가 클라쓰] 작곡가들이 음악 영화를 본다면? / 1부 \"비긴 어게인\", \"이프 온리\" 편\nhttps://t.co/PRBUEnZeol\n#MonoTree #모노트리"
+	},
+	{
+		"created_at": "Fri Apr 10 10:24:33 +0000 2020",
+		"id": 1248557475566997500,
+		"id_str": "1248557475566997509",
+		"full_text": "좋은 노래가 브랜딩 때문에 너무 신경이 쓰이는데 다시 할 생각은 없으신가요? https://t.co/qlKvwBQDuB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qlKvwBQDuB",
+					"expanded_url": "https://twitter.com/cignature_J9/status/1248551390957338624",
+					"display_url": "twitter.com/cignature_J9/s…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248551390957338600,
+		"quoted_status_id_str": "1248551390957338624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qlKvwBQDuB",
+			"expanded": "https://twitter.com/cignature_J9/status/1248551390957338624",
+			"display": "twitter.com/cignature_J9/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 10:00:23 +0000 2020",
+			"id": 1248551390957338600,
+			"id_str": "1248551390957338624",
+			"full_text": "[영상]\n시그니처(cignature) - '아싸 (ASSA)' Performance Video\n\nYoutube\n▶ https://t.co/GHjmhdzGZx\nV Live\n▶ https://t.co/WdKdFO58iE\n\n#시그니처 #cignature #채솔 #지원 #예아 #선 #셀린 #벨 #세미 #아싸 #ASSA https://t.co/oeZf8vp7Ps",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "시그니처",
+						"indices": [
+							122,
+							127
+						]
+					},
+					{
+						"text": "cignature",
+						"indices": [
+							128,
+							138
+						]
+					},
+					{
+						"text": "채솔",
+						"indices": [
+							139,
+							142
+						]
+					},
+					{
+						"text": "지원",
+						"indices": [
+							143,
+							146
+						]
+					},
+					{
+						"text": "예아",
+						"indices": [
+							147,
+							150
+						]
+					},
+					{
+						"text": "선",
+						"indices": [
+							151,
+							153
+						]
+					},
+					{
+						"text": "셀린",
+						"indices": [
+							154,
+							157
+						]
+					},
+					{
+						"text": "벨",
+						"indices": [
+							158,
+							160
+						]
+					},
+					{
+						"text": "세미",
+						"indices": [
+							161,
+							164
+						]
+					},
+					{
+						"text": "아싸",
+						"indices": [
+							165,
+							168
+						]
+					},
+					{
+						"text": "ASSA",
+						"indices": [
+							169,
+							174
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GHjmhdzGZx",
+						"expanded_url": "https://youtu.be/by7bbpp6jP0",
+						"display_url": "youtu.be/by7bbpp6jP0",
+						"indices": [
+							64,
+							87
+						]
+					},
+					{
+						"url": "https://t.co/WdKdFO58iE",
+						"expanded_url": "https://www.vlive.tv/video/184907",
+						"display_url": "vlive.tv/video/184907",
+						"indices": [
+							97,
+							120
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1248550839637004300,
+						"id_str": "1248550839637004289",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EVO-X6CUUAEuvVi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVO-X6CUUAEuvVi.jpg",
+						"url": "https://t.co/oeZf8vp7Ps",
+						"display_url": "pic.twitter.com/oeZf8vp7Ps",
+						"expanded_url": "https://twitter.com/cignature_J9/status/1248551390957338624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248550839637004300,
+						"id_str": "1248550839637004289",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EVO-X6CUUAEuvVi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVO-X6CUUAEuvVi.jpg",
+						"url": "https://t.co/oeZf8vp7Ps",
+						"display_url": "pic.twitter.com/oeZf8vp7Ps",
+						"expanded_url": "https://twitter.com/cignature_J9/status/1248551390957338624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1172348346192711700,
+				"id_str": "1172348346192711680",
+				"name": "cignature",
+				"screen_name": "cignature_J9",
+				"location": "",
+				"description": "J9Entertainment ‘cignature’ Official Twitter",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30608,
+				"friends_count": 1,
+				"listed_count": 460,
+				"created_at": "Fri Sep 13 03:17:02 +0000 2019",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 567,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216737087170334726/-stO2n4c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216737087170334726/-stO2n4c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1172348346192711680/1585225528",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 257,
+			"favorite_count": 609,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "좋은 노래가 브랜딩 때문에 너무 신경이 쓰이는데 다시 할 생각은 없으신가요? https://t.co/qlKvwBQDuB"
+	},
+	{
+		"created_at": "Fri Apr 10 10:23:44 +0000 2020",
+		"id": 1248551390957338600,
+		"id_str": "1248557267470835714",
+		"full_text": "[영상]\n시그니처(cignature) - '아싸 (ASSA)' Performance Video\n\nYoutube\n▶ https://t.co/GHjmhdzGZx\nV Live\n▶ https://t.co/WdKdFO58iE\n\n#시그니처 #cignature #채솔 #지원 #예아 #선 #셀린 #벨 #세미 #아싸 #ASSA https://t.co/oeZf8vp7Ps",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시그니처",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "cignature",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "채솔",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "지원",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "예아",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "선",
+					"indices": [
+						151,
+						153
+					]
+				},
+				{
+					"text": "셀린",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "벨",
+					"indices": [
+						158,
+						160
+					]
+				},
+				{
+					"text": "세미",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "아싸",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "ASSA",
+					"indices": [
+						169,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GHjmhdzGZx",
+					"expanded_url": "https://youtu.be/by7bbpp6jP0",
+					"display_url": "youtu.be/by7bbpp6jP0",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/WdKdFO58iE",
+					"expanded_url": "https://www.vlive.tv/video/184907",
+					"display_url": "vlive.tv/video/184907",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248550839637004300,
+					"id_str": "1248550839637004289",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EVO-X6CUUAEuvVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVO-X6CUUAEuvVi.jpg",
+					"url": "https://t.co/oeZf8vp7Ps",
+					"display_url": "pic.twitter.com/oeZf8vp7Ps",
+					"expanded_url": "https://twitter.com/cignature_J9/status/1248551390957338624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248550839637004300,
+					"id_str": "1248550839637004289",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EVO-X6CUUAEuvVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVO-X6CUUAEuvVi.jpg",
+					"url": "https://t.co/oeZf8vp7Ps",
+					"display_url": "pic.twitter.com/oeZf8vp7Ps",
+					"expanded_url": "https://twitter.com/cignature_J9/status/1248551390957338624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1172348346192711700,
+			"id_str": "1172348346192711680",
+			"name": "cignature",
+			"screen_name": "cignature_J9",
+			"location": "",
+			"description": "J9Entertainment ‘cignature’ Official Twitter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30608,
+			"friends_count": 1,
+			"listed_count": 460,
+			"created_at": "Fri Sep 13 03:17:02 +0000 2019",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216737087170334726/-stO2n4c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216737087170334726/-stO2n4c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1172348346192711680/1585225528",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 609,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[영상]\n시그니처(cignature) - '아싸 (ASSA)' Performance Video\n\nYoutube\n▶ https://t.co/GHjmhdzGZx\nV Live\n▶ https://t.co/WdKdFO58iE\n\n#시그니처 #cignature #채솔 #지원 #예아 #선 #셀린 #벨 #세미 #아싸 #ASSA https://t.co/oeZf8vp7Ps"
+	},
+	{
+		"created_at": "Fri Apr 10 10:16:41 +0000 2020",
+		"id": 1248555492248391700,
+		"id_str": "1248555492248391681",
+		"full_text": "(여자)아이들의 [I trust]는\n\n바로 대답하긴 어렵지만 결국 대답하게 될 앨범이지 않나 생각함. https://t.co/pEDRX50Xu1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pEDRX50Xu1",
+					"expanded_url": "https://twitter.com/romanflare/status/1248552638276198405",
+					"display_url": "twitter.com/romanflare/sta…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248552638276198400,
+		"quoted_status_id_str": "1248552638276198405",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pEDRX50Xu1",
+			"expanded": "https://twitter.com/romanflare/status/1248552638276198405",
+			"display": "twitter.com/romanflare/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 10:05:20 +0000 2020",
+			"id": 1248552638276198400,
+			"id_str": "1248552638276198405",
+			"full_text": "[I trust]가 지금까지 (여자)아이들의 최고작이냐고 묻는다면 바로 대답하기 어렵겠지만 (여자)아이들 앨범 가운데 가장 미쳐있느냐고 물어본다면 1초안에 대문자 YES를 들어올리겠습니다. 자세한 이야기는 오늘 밤 9시 캐스퍼라디오 베뉴팝에서. https://t.co/XdLvW3PNJr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XdLvW3PNJr",
+						"expanded_url": "http://www.vlive.tv/channels/E1C3AD",
+						"display_url": "vlive.tv/channels/E1C3AD",
+						"indices": [
+							137,
+							160
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 113674917,
+				"id_str": "113674917",
+				"name": "김윤하 kim yoonha",
+				"screen_name": "romanflare",
+				"location": "Seoul",
+				"description": "듣고 쓰는 김윤하입니다. 최신근로현황은 인스타그램 https://t.co/th0TvZ5GOI 에 간헐적 업데이트.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/th0TvZ5GOI",
+								"expanded_url": "https://instagram.com/kimyoonha_works?igshid=39hxdnoodf7p",
+								"display_url": "instagram.com/kimyoonha_work…",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5370,
+				"friends_count": 1250,
+				"listed_count": 89,
+				"created_at": "Fri Feb 12 16:43:39 +0000 2010",
+				"favourites_count": 12984,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85048,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947511488163352577/2VohovFS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947511488163352577/2VohovFS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/113674917/1514739319",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(여자)아이들의 [I trust]는\n\n바로 대답하긴 어렵지만 결국 대답하게 될 앨범이지 않나 생각함. https://t.co/pEDRX50Xu1"
+	},
+	{
+		"created_at": "Fri Apr 10 10:15:06 +0000 2020",
+		"id": 1248552638276198400,
+		"id_str": "1248555094993301506",
+		"full_text": "[I trust]가 지금까지 (여자)아이들의 최고작이냐고 묻는다면 바로 대답하기 어렵겠지만 (여자)아이들 앨범 가운데 가장 미쳐있느냐고 물어본다면 1초안에 대문자 YES를 들어올리겠습니다. 자세한 이야기는 오늘 밤 9시 캐스퍼라디오 베뉴팝에서. https://t.co/XdLvW3PNJr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XdLvW3PNJr",
+					"expanded_url": "http://www.vlive.tv/channels/E1C3AD",
+					"display_url": "vlive.tv/channels/E1C3AD",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113674917,
+			"id_str": "113674917",
+			"name": "김윤하 kim yoonha",
+			"screen_name": "romanflare",
+			"location": "Seoul",
+			"description": "듣고 쓰는 김윤하입니다. 최신근로현황은 인스타그램 https://t.co/th0TvZ5GOI 에 간헐적 업데이트.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/th0TvZ5GOI",
+							"expanded_url": "https://instagram.com/kimyoonha_works?igshid=39hxdnoodf7p",
+							"display_url": "instagram.com/kimyoonha_work…",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5370,
+			"friends_count": 1250,
+			"listed_count": 89,
+			"created_at": "Fri Feb 12 16:43:39 +0000 2010",
+			"favourites_count": 12984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947511488163352577/2VohovFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947511488163352577/2VohovFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113674917/1514739319",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[I trust]가 지금까지 (여자)아이들의 최고작이냐고 묻는다면 바로 대답하기 어렵겠지만 (여자)아이들 앨범 가운데 가장 미쳐있느냐고 물어본다면 1초안에 대문자 YES를 들어올리겠습니다. 자세한 이야기는 오늘 밤 9시 캐스퍼라디오 베뉴팝에서. https://t.co/XdLvW3PNJr"
+	},
+	{
+		"created_at": "Fri Apr 10 10:14:18 +0000 2020",
+		"id": 1248553070629355500,
+		"id_str": "1248554896388808704",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Original : 답변완료 from 앤-마리 (Anne-Marie)\nhttps://t.co/tTuKeKqEsD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				},
+				{
+					"text": "Team워너",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tTuKeKqEsD",
+					"expanded_url": "https://youtu.be/s_1OzObJlHE",
+					"display_url": "youtu.be/s_1OzObJlHE",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Original : 답변완료 from 앤-마리 (Anne-Marie)\nhttps://t.co/tTuKeKqEsD"
+	},
+	{
+		"created_at": "Fri Apr 10 10:14:13 +0000 2020",
+		"id": 1247860364609384400,
+		"id_str": "1248554873240424453",
+		"full_text": "𝑻𝑯𝑬 𝑼𝑵𝑺𝑬𝑬𝑵\n❤️🖤🔥\n#TAEYEON #태연 #소녀시대 #GirlsGeneration https://t.co/nfDNKE9AKi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						35,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247860124527411200,
+					"id_str": "1247860124527411206",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFKK_vUwAYzVJ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFKK_vUwAYzVJ_.jpg",
+					"url": "https://t.co/nfDNKE9AKi",
+					"display_url": "pic.twitter.com/nfDNKE9AKi",
+					"expanded_url": "https://twitter.com/raisondetre309/status/1247860364609384449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247860124527411200,
+					"id_str": "1247860124527411206",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFKK_vUwAYzVJ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFKK_vUwAYzVJ_.jpg",
+					"url": "https://t.co/nfDNKE9AKi",
+					"display_url": "pic.twitter.com/nfDNKE9AKi",
+					"expanded_url": "https://twitter.com/raisondetre309/status/1247860364609384449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247860124527390700,
+					"id_str": "1247860124527390721",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFKK_vUcAEbIgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFKK_vUcAEbIgd.jpg",
+					"url": "https://t.co/nfDNKE9AKi",
+					"display_url": "pic.twitter.com/nfDNKE9AKi",
+					"expanded_url": "https://twitter.com/raisondetre309/status/1247860364609384449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1032287231325560800,
+			"id_str": "1032287231325560833",
+			"name": "raison d'être",
+			"screen_name": "raisondetre309",
+			"location": "",
+			"description": "-존재의 이유-",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5639,
+			"friends_count": 1,
+			"listed_count": 304,
+			"created_at": "Wed Aug 22 15:23:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186829109332078593/_-Hq30uI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186829109332078593/_-Hq30uI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1032287231325560833/1578923303",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1828,
+		"favorite_count": 2911,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝑻𝑯𝑬 𝑼𝑵𝑺𝑬𝑬𝑵\n❤️🖤🔥\n#TAEYEON #태연 #소녀시대 #GirlsGeneration https://t.co/nfDNKE9AKi"
+	},
+	{
+		"created_at": "Fri Apr 10 10:12:50 +0000 2020",
+		"id": 1248554524752507000,
+		"id_str": "1248554524752506882",
+		"full_text": "이 파란색 트렌치 뭐지...? https://t.co/y1oLskW4VC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y1oLskW4VC",
+					"expanded_url": "https://twitter.com/TVXQ/status/1248553436305448961",
+					"display_url": "twitter.com/TVXQ/status/12…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248553436305449000,
+		"quoted_status_id_str": "1248553436305448961",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y1oLskW4VC",
+			"expanded": "https://twitter.com/TVXQ/status/1248553436305448961",
+			"display": "twitter.com/TVXQ/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 10:08:30 +0000 2020",
+			"id": 1248553436305449000,
+			"id_str": "1248553436305448961",
+			"full_text": "최강창민의 솔로 데뷔 무대를 응원하러 온 유노윤호!🥳🎉\n#창민아_솔로데뷔축하한다아악\n\n#MAX #최강창민 #U_Know #유노윤호 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate https://t.co/VFkbNJKzLB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "창민아_솔로데뷔축하한다아악",
+						"indices": [
+							31,
+							46
+						]
+					},
+					{
+						"text": "MAX",
+						"indices": [
+							48,
+							52
+						]
+					},
+					{
+						"text": "최강창민",
+						"indices": [
+							53,
+							58
+						]
+					},
+					{
+						"text": "U_Know",
+						"indices": [
+							59,
+							66
+						]
+					},
+					{
+						"text": "유노윤호",
+						"indices": [
+							67,
+							72
+						]
+					},
+					{
+						"text": "TVXQ",
+						"indices": [
+							73,
+							78
+						]
+					},
+					{
+						"text": "동방신기",
+						"indices": [
+							80,
+							85
+						]
+					},
+					{
+						"text": "東方神起",
+						"indices": [
+							86,
+							91
+						]
+					},
+					{
+						"text": "MAX_Chocolate",
+						"indices": [
+							92,
+							106
+						]
+					},
+					{
+						"text": "최강창민_Chocolate",
+						"indices": [
+							107,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248553311751426000,
+						"id_str": "1248553311751426049",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EVPAnzYU0AE49cv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVPAnzYU0AE49cv.jpg",
+						"url": "https://t.co/VFkbNJKzLB",
+						"display_url": "pic.twitter.com/VFkbNJKzLB",
+						"expanded_url": "https://twitter.com/TVXQ/status/1248553436305448961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248553311751426000,
+						"id_str": "1248553311751426049",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EVPAnzYU0AE49cv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVPAnzYU0AE49cv.jpg",
+						"url": "https://t.co/VFkbNJKzLB",
+						"display_url": "pic.twitter.com/VFkbNJKzLB",
+						"expanded_url": "https://twitter.com/TVXQ/status/1248553436305448961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1248553376574361600,
+						"id_str": "1248553376574361601",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EVPArk3UUAEDwEY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVPArk3UUAEDwEY.jpg",
+						"url": "https://t.co/VFkbNJKzLB",
+						"display_url": "pic.twitter.com/VFkbNJKzLB",
+						"expanded_url": "https://twitter.com/TVXQ/status/1248553436305448961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 893325893988302800,
+				"id_str": "893325893988302849",
+				"name": "TVXQ!",
+				"screen_name": "TVXQ",
+				"location": "",
+				"description": "동방신기(TVXQ!) Official",
+				"url": "https://t.co/yvbA1T3bOt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yvbA1T3bOt",
+								"expanded_url": "http://tvxq.smtown.com",
+								"display_url": "tvxq.smtown.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 267464,
+				"friends_count": 1,
+				"listed_count": 934,
+				"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+				"favourites_count": 32,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 561,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4206,
+			"favorite_count": 7665,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 파란색 트렌치 뭐지...? https://t.co/y1oLskW4VC"
+	},
+	{
+		"created_at": "Fri Apr 10 10:12:29 +0000 2020",
+		"id": 1248553436305449000,
+		"id_str": "1248554435984248832",
+		"full_text": "최강창민의 솔로 데뷔 무대를 응원하러 온 유노윤호!🥳🎉\n#창민아_솔로데뷔축하한다아악\n\n#MAX #최강창민 #U_Know #유노윤호 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate https://t.co/VFkbNJKzLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "창민아_솔로데뷔축하한다아악",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"text": "MAX",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "U_Know",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						92,
+						106
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248553311751426000,
+					"id_str": "1248553311751426049",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPAnzYU0AE49cv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPAnzYU0AE49cv.jpg",
+					"url": "https://t.co/VFkbNJKzLB",
+					"display_url": "pic.twitter.com/VFkbNJKzLB",
+					"expanded_url": "https://twitter.com/TVXQ/status/1248553436305448961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248553311751426000,
+					"id_str": "1248553311751426049",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPAnzYU0AE49cv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPAnzYU0AE49cv.jpg",
+					"url": "https://t.co/VFkbNJKzLB",
+					"display_url": "pic.twitter.com/VFkbNJKzLB",
+					"expanded_url": "https://twitter.com/TVXQ/status/1248553436305448961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248553376574361600,
+					"id_str": "1248553376574361601",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPArk3UUAEDwEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPArk3UUAEDwEY.jpg",
+					"url": "https://t.co/VFkbNJKzLB",
+					"display_url": "pic.twitter.com/VFkbNJKzLB",
+					"expanded_url": "https://twitter.com/TVXQ/status/1248553436305448961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267464,
+			"friends_count": 1,
+			"listed_count": 934,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4206,
+		"favorite_count": 7665,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최강창민의 솔로 데뷔 무대를 응원하러 온 유노윤호!🥳🎉\n#창민아_솔로데뷔축하한다아악\n\n#MAX #최강창민 #U_Know #유노윤호 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate https://t.co/VFkbNJKzLB"
+	},
+	{
+		"created_at": "Fri Apr 10 10:10:48 +0000 2020",
+		"id": 1248554015584997400,
+		"id_str": "1248554015584997376",
+		"full_text": "이런 카더라성 정보에 이미 사실인양 믿으며 자신의 정치적 표현의 도구로 쓰는 사람을 경계해야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1248552682974924800,
+		"in_reply_to_status_id_str": "1248552682974924800",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이런 카더라성 정보에 이미 사실인양 믿으며 자신의 정치적 표현의 도구로 쓰는 사람을 경계해야."
+	},
+	{
+		"created_at": "Fri Apr 10 10:08:39 +0000 2020",
+		"id": 1248553471885717500,
+		"id_str": "1248553471885717504",
+		"full_text": "선관위가 당사자에게 확인하고 확인되지 않은 사실이면 법적대응 한다고 하면 될 일.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1248552682974924800,
+		"in_reply_to_status_id_str": "1248552682974924800",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "선관위가 당사자에게 확인하고 확인되지 않은 사실이면 법적대응 한다고 하면 될 일."
+	},
+	{
 		"created_at": "Fri Apr 10 10:01:24 +0000 2020",
 		"id": 1248551646206005200,
 		"id_str": "1248551646206005248",
