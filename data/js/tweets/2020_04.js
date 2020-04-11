@@ -1,6 +1,2346 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 23:58:20 +0000 2020",
+		"id": 1248704962802200600,
+		"id_str": "1248762268726071297",
+		"full_text": "𝐇𝐄𝐀𝐃𝐋𝐈𝐍𝐄: \"@G_I_DLE Detail How Their Group ‘Contrast’ Is Shown With New ‘I Trust’ EP\"\n\nREAD via @Forbes ↓\nhttps://t.co/XFJLaNx5p0 https://t.co/szWAoD37jW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XFJLaNx5p0",
+					"expanded_url": "https://soo.nr/TvPa",
+					"display_url": "soo.nr/TvPa",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248704825887522800,
+					"id_str": "1248704825887522817",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EVRKbFhXgAEJfsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVRKbFhXgAEJfsV.jpg",
+					"url": "https://t.co/szWAoD37jW",
+					"display_url": "pic.twitter.com/szWAoD37jW",
+					"expanded_url": "https://twitter.com/RepublicRecords/status/1248704962802200578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248704825887522800,
+					"id_str": "1248704825887522817",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EVRKbFhXgAEJfsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVRKbFhXgAEJfsV.jpg",
+					"url": "https://t.co/szWAoD37jW",
+					"display_url": "pic.twitter.com/szWAoD37jW",
+					"expanded_url": "https://twitter.com/RepublicRecords/status/1248704962802200578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148425368,
+			"id_str": "148425368",
+			"name": "Republic Records",
+			"screen_name": "RepublicRecords",
+			"location": "New York City",
+			"description": "🏆 Home to an all-star roster of multi-platinum, award-winning legends and developing superstar artists.",
+			"url": "https://t.co/CZx6VBzngS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZx6VBzngS",
+							"expanded_url": "http://www.republicrecords.com",
+							"display_url": "republicrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173984,
+			"friends_count": 487,
+			"listed_count": 1364,
+			"created_at": "Wed May 26 17:24:35 +0000 2010",
+			"favourites_count": 27703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145693559770832896/7Np6jp3D_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145693559770832896/7Np6jp3D_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148425368/1565201393",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "494A4F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 1564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝐇𝐄𝐀𝐃𝐋𝐈𝐍𝐄: \"@G_I_DLE Detail How Their Group ‘Contrast’ Is Shown With New ‘I Trust’ EP\"\n\nREAD via @Forbes ↓\nhttps://t.co/XFJLaNx5p0 https://t.co/szWAoD37jW"
+	},
+	{
+		"created_at": "Fri Apr 10 23:54:34 +0000 2020",
+		"id": 1248345210779832300,
+		"id_str": "1248761321220231168",
+		"full_text": ".@G_I_DLE has officially signed with @RepublicRecords in the U.S. https://t.co/QhcIC9Ffx6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"screen_name": "RepublicRecords",
+					"name": "Republic Records",
+					"id": 148425368,
+					"id_str": "148425368",
+					"indices": [
+						37,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QhcIC9Ffx6",
+					"expanded_url": "http://blbrd.cm/VDbEDaX",
+					"display_url": "blbrd.cm/VDbEDaX",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8577760,
+			"friends_count": 3199,
+			"listed_count": 25787,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 247413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1584028138",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 885,
+		"favorite_count": 4428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@G_I_DLE has officially signed with @RepublicRecords in the U.S. https://t.co/QhcIC9Ffx6"
+	},
+	{
+		"created_at": "Fri Apr 10 23:50:36 +0000 2020",
+		"id": 1248408428864659500,
+		"id_str": "1248760322258661376",
+		"full_text": "- 녹화 및 통화 저장 기능 포함\n- 구글 CEO 순다 피차이, 신규 Meet 사용자 매일 200만명씩 추가\n- 또한 1억명 이상 학생/교사 구글 클라스룸 사용하고 있어\n- 구글의 Meet 무료 사용 연장 조치, Zoom이 보안 문제로 큰 어려움 겪고 있는 중에 나온 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1248408427740557300,
+		"in_reply_to_status_id_str": "1248408427740557312",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45576,
+			"friends_count": 217,
+			"listed_count": 294,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 녹화 및 통화 저장 기능 포함\n- 구글 CEO 순다 피차이, 신규 Meet 사용자 매일 200만명씩 추가\n- 또한 1억명 이상 학생/교사 구글 클라스룸 사용하고 있어\n- 구글의 Meet 무료 사용 연장 조치, Zoom이 보안 문제로 큰 어려움 겪고 있는 중에 나온 것"
+	},
+	{
+		"created_at": "Fri Apr 10 23:50:33 +0000 2020",
+		"id": 1248408427740557300,
+		"id_str": "1248760309667385344",
+		"full_text": "구글 Meet 프리미엄 기능, 이제 9월 30일까지 무료 제공\n- 구글, 이 회상회의 도구의 무료 액세스 연장\n- 새로 명칭이 바뀐 구글 Meet, 이제 모든 G 스위트 고객에게 9월 30일까지 오픈\n- 프리미엄 기능, 최대 250명까지 통화 참여/실시간 스트리밍 10만명까지 시청 포함 https://t.co/tdt8L3pU5v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tdt8L3pU5v",
+					"expanded_url": "https://www.engadget.com/google-extends-free-access-to-google-meet-230402977.html",
+					"display_url": "engadget.com/google-extends…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45576,
+			"friends_count": 217,
+			"listed_count": 294,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 Meet 프리미엄 기능, 이제 9월 30일까지 무료 제공\n- 구글, 이 회상회의 도구의 무료 액세스 연장\n- 새로 명칭이 바뀐 구글 Meet, 이제 모든 G 스위트 고객에게 9월 30일까지 오픈\n- 프리미엄 기능, 최대 250명까지 통화 참여/실시간 스트리밍 10만명까지 시청 포함 https://t.co/tdt8L3pU5v"
+	},
+	{
+		"created_at": "Fri Apr 10 23:49:42 +0000 2020",
+		"id": 1248574448036278300,
+		"id_str": "1248760097146146816",
+		"full_text": "#뷰티쁠_스타 \n지나가는 #레베럽 다들 모이세요.🙌🏻 뷰티쁠 5월호 커버의 주인공이 바로 #레드벨벳 #조이 라는 소식! 뷰티쁠과 에스쁘아, 그리고 조이가 함께한 화보는 뷰티쁠 5월호에서 확인하실 수 있습니다. 많은 기대 부탁드려요! ❤️\n\n#뷰티쁠 #beautypl #에스쁘아 #espoir #joy #RedVelvetᅠ https://t.co/6nr14tSFFx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티쁠_스타",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "레베럽",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "뷰티쁠",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "beautypl",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "에스쁘아",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "espoir",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "joy",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "RedVelvetᅠ",
+					"indices": [
+						168,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248574383485890600,
+					"id_str": "1248574383485890561",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248574383485890561/pu/img/xa55RlY4-G4A_au7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248574383485890561/pu/img/xa55RlY4-G4A_au7.jpg",
+					"url": "https://t.co/6nr14tSFFx",
+					"display_url": "pic.twitter.com/6nr14tSFFx",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1248574448036278272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248574383485890600,
+					"id_str": "1248574383485890561",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248574383485890561/pu/img/xa55RlY4-G4A_au7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248574383485890561/pu/img/xa55RlY4-G4A_au7.jpg",
+					"url": "https://t.co/6nr14tSFFx",
+					"display_url": "pic.twitter.com/6nr14tSFFx",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1248574448036278272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12127,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248574383485890561/pu/pl/ay4nVJAygmEAvv5n.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248574383485890561/pu/vid/320x320/CrPTM_lStWUtZ6wZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248574383485890561/pu/vid/720x720/wgjC7xi8-Lq64q3L.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248574383485890561/pu/vid/480x480/oUS1jaceoUrYNHyG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245726999,
+			"id_str": "245726999",
+			"name": "뷰티쁠  BEAUTY+",
+			"screen_name": "beautyplmania",
+			"location": "Korea",
+			"description": "독자와 함께 만드는 SNS 뷰티 매거진 뷰티쁠입니다. 코스메틱 브랜드의 신제품과 행사, 이벤트 소식을 매일 매일 업데이트하고 잘 나가는 뷰티 에디터들의 뷰티 노하우를 폭풍 전수합니다.",
+			"url": "https://t.co/kSUQZnUqY7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kSUQZnUqY7",
+							"expanded_url": "http://www.beautypl.co.kr/",
+							"display_url": "beautypl.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18057,
+			"friends_count": 6908,
+			"listed_count": 109,
+			"created_at": "Tue Feb 01 10:13:18 +0000 2011",
+			"favourites_count": 1222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241953307846782976/gSihhmCs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241953307846782976/gSihhmCs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245726999/1584939719",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1129,
+		"favorite_count": 1679,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뷰티쁠_스타 \n지나가는 #레베럽 다들 모이세요.🙌🏻 뷰티쁠 5월호 커버의 주인공이 바로 #레드벨벳 #조이 라는 소식! 뷰티쁠과 에스쁘아, 그리고 조이가 함께한 화보는 뷰티쁠 5월호에서 확인하실 수 있습니다. 많은 기대 부탁드려요! ❤️\n\n#뷰티쁠 #beautypl #에스쁘아 #espoir #joy #RedVelvetᅠ https://t.co/6nr14tSFFx"
+	},
+	{
+		"created_at": "Fri Apr 10 23:46:13 +0000 2020",
+		"id": 1248490898557554700,
+		"id_str": "1248759221308407811",
+		"full_text": "버려진 플라스틱 대란으로 몸살을 앓는 지구를 구할 구세주가 등장했습니다.\n\nhttps://t.co/ijYm2u5D73",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ijYm2u5D73",
+					"expanded_url": "http://www.hankookilbo.com/News/Npath/202004091646044420?did=tw",
+					"display_url": "hankookilbo.com/News/Npath/202…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134371459,
+			"id_str": "134371459",
+			"name": "한국일보",
+			"screen_name": "hankookilbo",
+			"location": "Seoul,KOREA",
+			"description": "세상을 보는 균형, 한국일보 공식 트위터입니다. 한국일보가 여러분에게 눈과 귀를 열고 있습니다. 제보 02)724-2114 \nhkilbo@hankookilbo.com  https://t.co/bUvgBdr41j",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bUvgBdr41j",
+							"expanded_url": "http://www.facebook.com/hkilbo",
+							"display_url": "facebook.com/hkilbo",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 172035,
+			"friends_count": 43908,
+			"listed_count": 2547,
+			"created_at": "Sun Apr 18 06:43:33 +0000 2010",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134371459/1439279203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3977,
+		"favorite_count": 1238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "버려진 플라스틱 대란으로 몸살을 앓는 지구를 구할 구세주가 등장했습니다.\n\nhttps://t.co/ijYm2u5D73"
+	},
+	{
+		"created_at": "Fri Apr 10 23:46:08 +0000 2020",
+		"id": 1248352079137124400,
+		"id_str": "1248759199061827585",
+		"full_text": "넷플릭스가 5000만명 구독자 돌파에 7년 5개월 걸린 것에 비해 디즈니+는 단 5개월만에 5000만명 구독자 돌파. 무서운 성장세. 아마도 디즈니의 방대한 콘텐츠 파워와 전세계적으로 코로나바이러스 팬데믹으로 아이들이 집에 격리된 것도 한몫 거둔 듯... https://t.co/3M8UaY9fEe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248341767264575500,
+					"id_str": "1248341767264575494",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248341767264575494/pu/img/5gO21Gxf0Faq9aVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248341767264575494/pu/img/5gO21Gxf0Faq9aVl.jpg",
+					"url": "https://t.co/3M8UaY9fEe",
+					"display_url": "pic.twitter.com/3M8UaY9fEe",
+					"expanded_url": "https://twitter.com/JonErlichman/status/1248341803356565508/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1248341803356565500,
+					"source_status_id_str": "1248341803356565508",
+					"source_user_id": 164425558,
+					"source_user_id_str": "164425558"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248341767264575500,
+					"id_str": "1248341767264575494",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248341767264575494/pu/img/5gO21Gxf0Faq9aVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248341767264575494/pu/img/5gO21Gxf0Faq9aVl.jpg",
+					"url": "https://t.co/3M8UaY9fEe",
+					"display_url": "pic.twitter.com/3M8UaY9fEe",
+					"expanded_url": "https://twitter.com/JonErlichman/status/1248341803356565508/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1248341803356565500,
+					"source_status_id_str": "1248341803356565508",
+					"source_user_id": 164425558,
+					"source_user_id_str": "164425558",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38639,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248341767264575494/pu/vid/640x360/lOpVyZCwbxdKeIQm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248341767264575494/pu/pl/wASM9odnUoz6ZVzr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248341767264575494/pu/vid/480x270/QCjSN7adiy228YPD.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248341767264575494/pu/vid/1280x720/jH9mwMc9UOFXGBLe.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 164425558,
+							"id_str": "164425558",
+							"name": "Jon Erlichman",
+							"screen_name": "JonErlichman",
+							"location": "IG: @jonerlichman",
+							"description": "Anchor, “The Open” @BNNBloomberg 8:30am to 11am. @CTVNationalNews correspondent & fill-in anchor. Host, @CTV celebrity entrepreneur show “Sidelines\"",
+							"url": "https://t.co/mMXSmkvudj",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/mMXSmkvudj",
+											"expanded_url": "https://blog.twitter.com/official/en_ca/topics/insights/2018/Jon_Erlichman_talks_Twitter.html",
+											"display_url": "blog.twitter.com/official/en_ca…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 128373,
+							"friends_count": 125,
+							"listed_count": 2039,
+							"created_at": "Thu Jul 08 21:17:18 +0000 2010",
+							"favourites_count": 14684,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 22727,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/836626755951726593/n4i54n4l_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/836626755951726593/n4i54n4l_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/164425558/1568886702",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "EEEEEE",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45576,
+			"friends_count": 217,
+			"listed_count": 294,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스가 5000만명 구독자 돌파에 7년 5개월 걸린 것에 비해 디즈니+는 단 5개월만에 5000만명 구독자 돌파. 무서운 성장세. 아마도 디즈니의 방대한 콘텐츠 파워와 전세계적으로 코로나바이러스 팬데믹으로 아이들이 집에 격리된 것도 한몫 거둔 듯... https://t.co/3M8UaY9fEe"
+	},
+	{
+		"created_at": "Fri Apr 10 23:46:02 +0000 2020",
+		"id": 1248429250786365400,
+		"id_str": "1248759174944534528",
+		"full_text": "Cloudflare, 구글 reCAPTCHA에서 hCaptcha로 변경 https://t.co/iWlGDSczEn \n- 클라우드플레어는 봇들의 공격을 차단하기 위해 다양한 방어수단의 하나로 캡챠를 사용\n- 구글 reCAPTCHA가 개인정보 이슈,중국 사용불가,비용을 부과하기 시작해서 hCaptcha로 변경\n1) 개인 정보 보호 우수\n2) 성능...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iWlGDSczEn",
+					"expanded_url": "https://j.mp/2XqjD9Y",
+					"display_url": "j.mp/2XqjD9Y",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2676,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Cloudflare, 구글 reCAPTCHA에서 hCaptcha로 변경 https://t.co/iWlGDSczEn \n- 클라우드플레어는 봇들의 공격을 차단하기 위해 다양한 방어수단의 하나로 캡챠를 사용\n- 구글 reCAPTCHA가 개인정보 이슈,중국 사용불가,비용을 부과하기 시작해서 hCaptcha로 변경\n1) 개인 정보 보호 우수\n2) 성능..."
+	},
+	{
+		"created_at": "Fri Apr 10 23:45:34 +0000 2020",
+		"id": 1248759057906729000,
+		"id_str": "1248759057906728961",
+		"full_text": "지구 구할 '퇴비 효소' 개발… 페트병 10시간 내 90% 분해\nhttps://t.co/9sb9TLOZ8B #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9sb9TLOZ8B",
+					"expanded_url": "http://www.hankookilbo.com/News/Npath/202004091646044420",
+					"display_url": "hankookilbo.com/News/Npath/202…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지구 구할 '퇴비 효소' 개발… 페트병 10시간 내 90% 분해\nhttps://t.co/9sb9TLOZ8B #minfav"
+	},
+	{
+		"created_at": "Fri Apr 10 23:44:39 +0000 2020",
+		"id": 1247147046886240300,
+		"id_str": "1248758826796331009",
+		"full_text": "Starting this week, enjoy an all-new original Disney Animation digital series with everyone’s favorite snowman, Olaf. #AtHomeWithOlaf created at home by Hyrum Osmond.  Voiced from home by Josh Gad. #DisneyMagicMoments https://t.co/gFFuHE8mev",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AtHomeWithOlaf",
+					"indices": [
+						118,
+						133
+					]
+				},
+				{
+					"text": "DisneyMagicMoments",
+					"indices": [
+						198,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247140528082145300,
+					"id_str": "1247140528082145281",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EU68u5hU8AMLJgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU68u5hU8AMLJgF.jpg",
+					"url": "https://t.co/gFFuHE8mev",
+					"display_url": "pic.twitter.com/gFFuHE8mev",
+					"expanded_url": "https://twitter.com/DisneyAnimation/status/1247147046886240256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 878,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247140528082145300,
+					"id_str": "1247140528082145281",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EU68u5hU8AMLJgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU68u5hU8AMLJgF.jpg",
+					"url": "https://t.co/gFFuHE8mev",
+					"display_url": "pic.twitter.com/gFFuHE8mev",
+					"expanded_url": "https://twitter.com/DisneyAnimation/status/1247147046886240256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 878,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41333,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247140528082145281/vid/640x360/EYjWF9Agfxw_aMwM.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247140528082145281/vid/480x270/7WRUJIaHq-KZO6oz.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247140528082145281/vid/1280x720/YvlfcSiMil6aivtV.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1247140528082145281/pl/rrewroCSYwe-hnR8.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63296944,
+			"id_str": "63296944",
+			"name": "Disney Animation",
+			"screen_name": "DisneyAnimation",
+			"location": "Burbank, CA",
+			"description": "The official Twitter page of Walt Disney Animation Studios.",
+			"url": "https://t.co/mzmipOGOJT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mzmipOGOJT",
+							"expanded_url": "https://www.disneyanimation.com/",
+							"display_url": "disneyanimation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3275856,
+			"friends_count": 181,
+			"listed_count": 6487,
+			"created_at": "Wed Aug 05 23:36:49 +0000 2009",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875480669031284736/6fSUEh5I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875480669031284736/6fSUEh5I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63296944/1584150840",
+			"profile_link_color": "5186B8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEAE40",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1914,
+		"favorite_count": 5994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting this week, enjoy an all-new original Disney Animation digital series with everyone’s favorite snowman, Olaf. #AtHomeWithOlaf created at home by Hyrum Osmond.  Voiced from home by Josh Gad. #DisneyMagicMoments https://t.co/gFFuHE8mev"
+	},
+	{
+		"created_at": "Fri Apr 10 23:44:36 +0000 2020",
+		"id": 1248385150179668000,
+		"id_str": "1248758812984504321",
+		"full_text": "디즈니 애니메이션이 겨울왕국/Frozen의 올라프를 주인공으로한 짧은 단편 애니메이션 연작을 하루에 하나씩 무료 공개중. 모두 격리중 집에서 제작/녹음된 것으로 아주 짧지만 귀여운 작품들. 현재 Fun with Snow, Alone in the Forest, Fishin’., Leaves 등 네 편 공개 중 https://t.co/uVny6s3Y5f https://t.co/gP2D1aL57e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uVny6s3Y5f",
+					"expanded_url": "https://www.youtube.com/channel/UC_976xMxPgzIa290Hqtk-9g",
+					"display_url": "youtube.com/channel/UC_976…",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"url": "https://t.co/gP2D1aL57e",
+					"expanded_url": "https://twitter.com/DisneyAnimation/status/1247147046886240256",
+					"display_url": "twitter.com/DisneyAnimatio…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64141,
+			"friends_count": 725,
+			"listed_count": 923,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247147046886240300,
+		"quoted_status_id_str": "1247147046886240256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gP2D1aL57e",
+			"expanded": "https://twitter.com/DisneyAnimation/status/1247147046886240256",
+			"display": "twitter.com/DisneyAnimatio…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 13:00:01 +0000 2020",
+			"id": 1247147046886240300,
+			"id_str": "1247147046886240256",
+			"full_text": "Starting this week, enjoy an all-new original Disney Animation digital series with everyone’s favorite snowman, Olaf. #AtHomeWithOlaf created at home by Hyrum Osmond.  Voiced from home by Josh Gad. #DisneyMagicMoments https://t.co/gFFuHE8mev",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AtHomeWithOlaf",
+						"indices": [
+							118,
+							133
+						]
+					},
+					{
+						"text": "DisneyMagicMoments",
+						"indices": [
+							198,
+							217
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247140528082145300,
+						"id_str": "1247140528082145281",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/EU68u5hU8AMLJgF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU68u5hU8AMLJgF.jpg",
+						"url": "https://t.co/gFFuHE8mev",
+						"display_url": "pic.twitter.com/gFFuHE8mev",
+						"expanded_url": "https://twitter.com/DisneyAnimation/status/1247147046886240256/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 878,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 291,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247140528082145300,
+						"id_str": "1247140528082145281",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/EU68u5hU8AMLJgF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU68u5hU8AMLJgF.jpg",
+						"url": "https://t.co/gFFuHE8mev",
+						"display_url": "pic.twitter.com/gFFuHE8mev",
+						"expanded_url": "https://twitter.com/DisneyAnimation/status/1247147046886240256/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 878,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 291,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 41333,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1247140528082145281/vid/640x360/EYjWF9Agfxw_aMwM.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1247140528082145281/vid/480x270/7WRUJIaHq-KZO6oz.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1247140528082145281/vid/1280x720/YvlfcSiMil6aivtV.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1247140528082145281/pl/rrewroCSYwe-hnR8.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63296944,
+				"id_str": "63296944",
+				"name": "Disney Animation",
+				"screen_name": "DisneyAnimation",
+				"location": "Burbank, CA",
+				"description": "The official Twitter page of Walt Disney Animation Studios.",
+				"url": "https://t.co/mzmipOGOJT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mzmipOGOJT",
+								"expanded_url": "https://www.disneyanimation.com/",
+								"display_url": "disneyanimation.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3275856,
+				"friends_count": 181,
+				"listed_count": 6487,
+				"created_at": "Wed Aug 05 23:36:49 +0000 2009",
+				"favourites_count": 477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4289,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875480669031284736/6fSUEh5I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875480669031284736/6fSUEh5I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63296944/1584150840",
+				"profile_link_color": "5186B8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEAE40",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1914,
+			"favorite_count": 5994,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 33,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디즈니 애니메이션이 겨울왕국/Frozen의 올라프를 주인공으로한 짧은 단편 애니메이션 연작을 하루에 하나씩 무료 공개중. 모두 격리중 집에서 제작/녹음된 것으로 아주 짧지만 귀여운 작품들. 현재 Fun with Snow, Alone in the Forest, Fishin’., Leaves 등 네 편 공개 중 https://t.co/uVny6s3Y5f https://t.co/gP2D1aL57e"
+	},
+	{
+		"created_at": "Fri Apr 10 23:44:30 +0000 2020",
+		"id": 1248647523478188000,
+		"id_str": "1248758788468797440",
+		"full_text": "[INSTAGRAM STORY VIDEO] yoona__lim: 우리 탱언니💜\n내친구 종현이💚 https://t.co/JikCe4xkcr #yoongstagram https://t.co/s505pIPt1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yoongstagram",
+					"indices": [
+						77,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JikCe4xkcr",
+					"expanded_url": "https://scontent-mia3-2.cdninstagram.com/v/t50.12441-16/92254862_247058036479726_6936821393136973906_n.mp4?_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=VOI_2aSsUgQAX_W_ENj&oe=5E931CAF&oh=c650978abe8e0ba471a5c8a170cd0739",
+					"display_url": "scontent-mia3-2.cdninstagram.com/v/t50.12441-16…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248647501051117600,
+					"id_str": "1248647501051117568",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248647501051117568/pu/img/pwyYLT9agGwjDDS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248647501051117568/pu/img/pwyYLT9agGwjDDS_.jpg",
+					"url": "https://t.co/s505pIPt1o",
+					"display_url": "pic.twitter.com/s505pIPt1o",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1248647523478188038/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248647501051117600,
+					"id_str": "1248647501051117568",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248647501051117568/pu/img/pwyYLT9agGwjDDS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248647501051117568/pu/img/pwyYLT9agGwjDDS_.jpg",
+					"url": "https://t.co/s505pIPt1o",
+					"display_url": "pic.twitter.com/s505pIPt1o",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1248647523478188038/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248647501051117568/pu/vid/360x638/6_hFJdOPwNVUHEFX.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248647501051117568/pu/vid/320x568/7YtX9NPcaiZDl74d.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248647501051117568/pu/vid/640x1136/LUks_AONXFmYeKHx.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248647501051117568/pu/pl/XEJnjGiWJ_p5UwQZ.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://yoona.soshistagram.com\" rel=\"nofollow\">Yoongstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2446652564,
+			"id_str": "2446652564",
+			"name": "Yoongstagram",
+			"screen_name": "yoongstagrm",
+			"location": "",
+			"description": "Bot tweeting Yoona's updates and comments on Instagram. Built by @thegoguma. Also @yulstagrm @seostagrm @miyoungstagram @syoungstagram @sicafeed",
+			"url": "https://t.co/4tDvSU72JC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4tDvSU72JC",
+							"expanded_url": "https://yoongstagrm.tumblr.com/",
+							"display_url": "yoongstagrm.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39341,
+			"friends_count": 0,
+			"listed_count": 729,
+			"created_at": "Wed Apr 16 06:13:24 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2647,
+		"favorite_count": 2325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM STORY VIDEO] yoona__lim: 우리 탱언니💜\n내친구 종현이💚 https://t.co/JikCe4xkcr #yoongstagram https://t.co/s505pIPt1o"
+	},
+	{
+		"created_at": "Fri Apr 10 23:44:01 +0000 2020",
+		"id": 1248552006656000000,
+		"id_str": "1248758666775298048",
+		"full_text": "”한솔을 에이전시라고 생각해라. 한솔이 너에게 도움이 되는 방향으로 하지 절대 나쁘게 안하니 믿어라. “  그들은 자신들을 믿으라했고 그 믿음에 대한 댓가는 가혹했다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1248551154847322000,
+		"in_reply_to_status_id_str": "1248551154847322115",
+		"in_reply_to_user_id": 226401917,
+		"in_reply_to_user_id_str": "226401917",
+		"in_reply_to_screen_name": "heenastory",
+		"user": {
+			"id": 226401917,
+			"id_str": "226401917",
+			"name": "백희나 Heena Baek",
+			"screen_name": "heenastory",
+			"location": "Seoul",
+			"description": "한솔교육 변재용 회장님, 한솔수북 조은희 사장님  16년 전에 낳은 제 아이 구름빵을 이제는 돌려주세요. 작가에게 창작물은 자식과 같습니다.",
+			"url": "https://t.co/bIFFztMTep",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bIFFztMTep",
+							"expanded_url": "http://www.storybowl.com",
+							"display_url": "storybowl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10390,
+			"friends_count": 191,
+			"listed_count": 71,
+			"created_at": "Tue Dec 14 02:26:48 +0000 2010",
+			"favourites_count": 707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1707813475/heenastory_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1707813475/heenastory_normal.jpg",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1559,
+		"favorite_count": 604,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "”한솔을 에이전시라고 생각해라. 한솔이 너에게 도움이 되는 방향으로 하지 절대 나쁘게 안하니 믿어라. “  그들은 자신들을 믿으라했고 그 믿음에 대한 댓가는 가혹했다"
+	},
+	{
+		"created_at": "Fri Apr 10 23:43:59 +0000 2020",
+		"id": 1248551154847322000,
+		"id_str": "1248758658260807680",
+		"full_text": "그리고 그들은 실제로 그렇게 했다. 내가 만들지도 않은 수많은 책이 내 이름을 달고 쏟아져 나왔으니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1248549983587954700,
+		"in_reply_to_status_id_str": "1248549983587954695",
+		"in_reply_to_user_id": 226401917,
+		"in_reply_to_user_id_str": "226401917",
+		"in_reply_to_screen_name": "heenastory",
+		"user": {
+			"id": 226401917,
+			"id_str": "226401917",
+			"name": "백희나 Heena Baek",
+			"screen_name": "heenastory",
+			"location": "Seoul",
+			"description": "한솔교육 변재용 회장님, 한솔수북 조은희 사장님  16년 전에 낳은 제 아이 구름빵을 이제는 돌려주세요. 작가에게 창작물은 자식과 같습니다.",
+			"url": "https://t.co/bIFFztMTep",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bIFFztMTep",
+							"expanded_url": "http://www.storybowl.com",
+							"display_url": "storybowl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10390,
+			"friends_count": 191,
+			"listed_count": 71,
+			"created_at": "Tue Dec 14 02:26:48 +0000 2010",
+			"favourites_count": 707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1707813475/heenastory_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1707813475/heenastory_normal.jpg",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2180,
+		"favorite_count": 720,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 그들은 실제로 그렇게 했다. 내가 만들지도 않은 수많은 책이 내 이름을 달고 쏟아져 나왔으니까."
+	},
+	{
 		"created_at": "Fri Apr 10 18:47:04 +0000 2020",
 		"id": 1248683935472717800,
 		"id_str": "1248683935472717825",
