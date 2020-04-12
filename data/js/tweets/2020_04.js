@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 04:52:49 +0000 2020",
+		"id": 1248999022188064800,
+		"id_str": "1249198766558674947",
+		"full_text": "오늘자 부부의 세계 후깈ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋhttps://t.co/NKppQUoShL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248997978871705600,
+					"id_str": "1248997978871705603",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248997978871705603/pu/img/DG0ca3zI5fl7OcYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248997978871705603/pu/img/DG0ca3zI5fl7OcYK.jpg",
+					"url": "https://t.co/NKppQUoShL",
+					"display_url": "pic.twitter.com/NKppQUoShL",
+					"expanded_url": "https://twitter.com/loget_/status/1248998012250017794/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1248998012250017800,
+					"source_status_id_str": "1248998012250017794",
+					"source_user_id": 1245122094645444600,
+					"source_user_id_str": "1245122094645444609"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248997978871705600,
+					"id_str": "1248997978871705603",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248997978871705603/pu/img/DG0ca3zI5fl7OcYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248997978871705603/pu/img/DG0ca3zI5fl7OcYK.jpg",
+					"url": "https://t.co/NKppQUoShL",
+					"display_url": "pic.twitter.com/NKppQUoShL",
+					"expanded_url": "https://twitter.com/loget_/status/1248998012250017794/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1248998012250017800,
+					"source_status_id_str": "1248998012250017794",
+					"source_user_id": 1245122094645444600,
+					"source_user_id_str": "1245122094645444609",
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 7975,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248997978871705603/pu/vid/582x270/mpnW_PUVzraZHlxM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248997978871705603/pu/vid/778x360/Wa6YcVp2dL6CcOyN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248997978871705603/pu/pl/p6cDAhZqHf0B3HWI.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248997978871705603/pu/vid/1280x592/zKLBJfOhBqFOLZga.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1245122094645444600,
+							"id_str": "1245122094645444609",
+							"name": "시니",
+							"screen_name": "loget_",
+							"location": "영신 본체 위주",
+							"description": "예쁘게 우는 사람한테 집착 많음",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 20,
+							"friends_count": 13,
+							"listed_count": 0,
+							"created_at": "Tue Mar 31 22:53:48 +0000 2020",
+							"favourites_count": 236,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 244,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1247463628980105216/p5CpYU-H_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247463628980105216/p5CpYU-H_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1245122094645444609/1586299163",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1037305443415015400,
+			"id_str": "1037305443415015424",
+			"name": "할미👵🏻",
+			"screen_name": "noonebut_PSH",
+			"location": "탈다름하자",
+			"description": "🖤💜💙💚💛🧡❤️ 백승호 ❤🧡💛💚💙💜🖤",
+			"url": "https://t.co/DXagrxTUBc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DXagrxTUBc",
+							"expanded_url": "http://asked.kr/noonebutPSH",
+							"display_url": "asked.kr/noonebutPSH",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1165,
+			"friends_count": 358,
+			"listed_count": 0,
+			"created_at": "Wed Sep 05 11:44:24 +0000 2018",
+			"favourites_count": 21686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246893322112626688/fvcZh7X8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246893322112626688/fvcZh7X8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1037305443415015424/1585719377",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4890,
+		"favorite_count": 2306,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘자 부부의 세계 후깈ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋhttps://t.co/NKppQUoShL"
+	},
+	{
+		"created_at": "Sun Apr 12 04:16:44 +0000 2020",
+		"id": 1249160344125288400,
+		"id_str": "1249189683688624128",
+		"full_text": "웨이브-NBC유니버설, 글로벌 OTT 동맹…한류 콘텐츠 협력 https://t.co/cENIVavRpb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cENIVavRpb",
+					"expanded_url": "http://www.bloter.net/archives/377601",
+					"display_url": "bloter.net/archives/377601",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55960,
+			"friends_count": 9,
+			"listed_count": 2498,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웨이브-NBC유니버설, 글로벌 OTT 동맹…한류 콘텐츠 협력 https://t.co/cENIVavRpb"
+	},
+	{
 		"created_at": "Sun Apr 12 03:51:31 +0000 2020",
 		"id": 1249009435252412400,
 		"id_str": "1249183339598303232",
