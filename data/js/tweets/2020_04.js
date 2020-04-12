@@ -1,6 +1,1034 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 12:47:41 +0000 2020",
+		"id": 1249249403421913000,
+		"id_str": "1249318271515373569",
+		"full_text": "‘최강창민’의 치명적이고 달콤한 변신♥ ‘INTRO + Chocolate’ (출처 : SBS 인기가요 | 네이버TV)\n\n👉https://t.co/TPMIi5sGaA\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						123,
+						137
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						138,
+						153
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						154,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TPMIi5sGaA",
+					"expanded_url": "http://naver.me/555sKfzf",
+					"display_url": "naver.me/555sKfzf",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267927,
+			"friends_count": 1,
+			"listed_count": 932,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2690,
+		"favorite_count": 5322,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘최강창민’의 치명적이고 달콤한 변신♥ ‘INTRO + Chocolate’ (출처 : SBS 인기가요 | 네이버TV)\n\n👉https://t.co/TPMIi5sGaA\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate"
+	},
+	{
+		"created_at": "Sun Apr 12 12:39:28 +0000 2020",
+		"id": 1249316200561004500,
+		"id_str": "1249316200561004544",
+		"full_text": "부활절에 오마이갓이라니 😋",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "부활절에 오마이갓이라니 😋"
+	},
+	{
+		"created_at": "Sun Apr 12 12:38:34 +0000 2020",
+		"id": 1249240679244394500,
+		"id_str": "1249315974806827008",
+		"full_text": "#여자아이들 이 있다면 그 곳이 바로 파르테논 신전 아니겠습니까🏛 #Ohmygod 을 저절로 외치게 된다는 바로 그 무대🤍 #안방1열직캠 #GIDLE @G_I_DLE #오늘_진짜_역대급입니다\n\n👉https://t.co/htCqEHK2wn https://t.co/ly2wWMjGyO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ohmygod",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "오늘_진짜_역대급입니다",
+					"indices": [
+						93,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/htCqEHK2wn",
+					"expanded_url": "http://youtu.be/3dB_jpF5MaE",
+					"display_url": "youtu.be/3dB_jpF5MaE",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249239160352731100,
+					"id_str": "1249239160352731141",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EVYwZchU8AU0Tvz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVYwZchU8AU0Tvz.jpg",
+					"url": "https://t.co/ly2wWMjGyO",
+					"display_url": "pic.twitter.com/ly2wWMjGyO",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1249240679244394496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249239160352731100,
+					"id_str": "1249239160352731141",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EVYwZchU8AU0Tvz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVYwZchU8AU0Tvz.jpg",
+					"url": "https://t.co/ly2wWMjGyO",
+					"display_url": "pic.twitter.com/ly2wWMjGyO",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1249240679244394496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ _ SBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25055,
+			"friends_count": 64,
+			"listed_count": 85,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1586165360",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1955,
+		"favorite_count": 4878,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#여자아이들 이 있다면 그 곳이 바로 파르테논 신전 아니겠습니까🏛 #Ohmygod 을 저절로 외치게 된다는 바로 그 무대🤍 #안방1열직캠 #GIDLE @G_I_DLE #오늘_진짜_역대급입니다\n\n👉https://t.co/htCqEHK2wn https://t.co/ly2wWMjGyO"
+	},
+	{
+		"created_at": "Sun Apr 12 12:30:10 +0000 2020",
+		"id": 1249313860198121500,
+		"id_str": "1249313860198121472",
+		"full_text": "진라면을 싼 맛에 먹는다니? 진라면, 열라면, 진비빔면, 진짬뽕 구비하고 먹음. 진라면, 열라면 리뉴얼 하고 농심 라면 먹을 일 없음. 그냥 먹어도 좋고 재료 추가해도 좋고 다른 방식으로 조리해도 좋고. 사리면으로도 좋음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "진라면을 싼 맛에 먹는다니? 진라면, 열라면, 진비빔면, 진짬뽕 구비하고 먹음. 진라면, 열라면 리뉴얼 하고 농심 라면 먹을 일 없음. 그냥 먹어도 좋고 재료 추가해도 좋고 다른 방식으로 조리해도 좋고. 사리면으로도 좋음."
+	},
+	{
+		"created_at": "Sun Apr 12 12:24:41 +0000 2020",
+		"id": 1248789606444576800,
+		"id_str": "1249312480972566529",
+		"full_text": "텔레그램 n번방에 연루된 거제시 공무원을 '파면'했습니다. 사법부의 법적 처벌과는 별개입니다. 반사회적, 반인권적 범죄를 저지른 공무원에 대해서는 법령에서 정한 가장 강력한 처벌을 한다는 것이 경남도 기본 입장입니다. 그 어떤 관용도 있을 수 없습니다. https://t.co/zJUxY7Z8tu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zJUxY7Z8tu",
+					"expanded_url": "https://news.v.daum.net/v/20200410204200915",
+					"display_url": "news.v.daum.net/v/202004102042…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133690878,
+			"id_str": "133690878",
+			"name": "김경수",
+			"screen_name": "opensky86",
+			"location": "경상남도",
+			"description": "경남도지사 김경수 입니다. 함께 만드는 완전히 새로운 경남, 나라다운 나라, 정의로운 대한민국... 꿈이 있는 사람들이 내일을 열어갑니다.",
+			"url": "https://t.co/gkxfUsYGUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gkxfUsYGUs",
+							"expanded_url": "https://www.facebook.com/opensky86",
+							"display_url": "facebook.com/opensky86",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105225,
+			"friends_count": 30730,
+			"listed_count": 1357,
+			"created_at": "Fri Apr 16 11:42:44 +0000 2010",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000140825928417282/DBvhscQC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000140825928417282/DBvhscQC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133690878/1525701752",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13712,
+		"favorite_count": 8447,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텔레그램 n번방에 연루된 거제시 공무원을 '파면'했습니다. 사법부의 법적 처벌과는 별개입니다. 반사회적, 반인권적 범죄를 저지른 공무원에 대해서는 법령에서 정한 가장 강력한 처벌을 한다는 것이 경남도 기본 입장입니다. 그 어떤 관용도 있을 수 없습니다. https://t.co/zJUxY7Z8tu"
+	},
+	{
+		"created_at": "Sun Apr 12 12:24:32 +0000 2020",
+		"id": 1249305119939637200,
+		"id_str": "1249312443345616896",
+		"full_text": "환상소곡집op.2에 수록되었던\n단편 '바다 위의 두 사람'이 \n카카오페이지에 업데이트 되었습니다!👏총 8화로 갈무리 되어 있고 전편 무료로 읽으실 수 있어요.\n제가 보낸 작은 선물이라 생각하고 \n기쁘게 받아주셨으면.많이 보고싶어요😊\n#심규선 #환상소곡집op2 #바다위의두사람 #단편 #카카오페이지 https://t.co/JYkERbtpHq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "환상소곡집op2",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "바다위의두사람",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "단편",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "카카오페이지",
+					"indices": [
+						158,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249305079259132000,
+					"id_str": "1249305079259131904",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsWblU8AAbArq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsWblU8AAbArq.jpg",
+					"url": "https://t.co/JYkERbtpHq",
+					"display_url": "pic.twitter.com/JYkERbtpHq",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1249305119939637248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249305079259132000,
+					"id_str": "1249305079259131904",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsWblU8AAbArq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsWblU8AAbArq.jpg",
+					"url": "https://t.co/JYkERbtpHq",
+					"display_url": "pic.twitter.com/JYkERbtpHq",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1249305119939637248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249305091888140300,
+					"id_str": "1249305091888140289",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsXKoUUAE8FMJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsXKoUUAE8FMJ.jpg",
+					"url": "https://t.co/JYkERbtpHq",
+					"display_url": "pic.twitter.com/JYkERbtpHq",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1249305119939637248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249305099731488800,
+					"id_str": "1249305099731488768",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsXn2UUAAo2rr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsXn2UUAAo2rr.jpg",
+					"url": "https://t.co/JYkERbtpHq",
+					"display_url": "pic.twitter.com/JYkERbtpHq",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1249305119939637248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249305110426996700,
+					"id_str": "1249305110426996738",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsYPsU0AIYfJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsYPsU0AIYfJ4.jpg",
+					"url": "https://t.co/JYkERbtpHq",
+					"display_url": "pic.twitter.com/JYkERbtpHq",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1249305119939637248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1873,
+							"h": 1873,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "환상소곡집 op.2 ARIA 10/2 발매",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10825,
+			"friends_count": 169,
+			"listed_count": 178,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177474724164591616/AyTeBxXd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177474724164591616/AyTeBxXd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1570345723",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "환상소곡집op.2에 수록되었던\n단편 '바다 위의 두 사람'이 \n카카오페이지에 업데이트 되었습니다!👏총 8화로 갈무리 되어 있고 전편 무료로 읽으실 수 있어요.\n제가 보낸 작은 선물이라 생각하고 \n기쁘게 받아주셨으면.많이 보고싶어요😊\n#심규선 #환상소곡집op2 #바다위의두사람 #단편 #카카오페이지 https://t.co/JYkERbtpHq"
+	},
+	{
 		"created_at": "Sun Apr 12 08:14:21 +0000 2020",
 		"id": 1249249482497237000,
 		"id_str": "1249249482497236992",
