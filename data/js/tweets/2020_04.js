@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 13:31:40 +0000 2020",
+		"id": 1249318579675082800,
+		"id_str": "1249329341130915840",
+		"full_text": "190419 BLACKPINK 제니 직캠 - SOLO coachella https://t.co/rd7WEvWnUo - @YouTube\n\n❗️Please DO NOT Re-Edit and upload this content anywhere on instagram, YouTube and other media.\n\n#PinkChella1year https://t.co/kGaZkhlCst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PinkChella1year",
+					"indices": [
+						173,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rd7WEvWnUo",
+					"expanded_url": "https://youtu.be/McwKePm8SLA",
+					"display_url": "youtu.be/McwKePm8SLA",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249318302762987500,
+					"id_str": "1249318302762987523",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249318302762987523/pu/img/acQttyvtO4LqxeFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249318302762987523/pu/img/acQttyvtO4LqxeFK.jpg",
+					"url": "https://t.co/kGaZkhlCst",
+					"display_url": "pic.twitter.com/kGaZkhlCst",
+					"expanded_url": "https://twitter.com/PaintItBlack_JN/status/1249318579675082753/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249318302762987500,
+					"id_str": "1249318302762987523",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249318302762987523/pu/img/acQttyvtO4LqxeFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249318302762987523/pu/img/acQttyvtO4LqxeFK.jpg",
+					"url": "https://t.co/kGaZkhlCst",
+					"display_url": "pic.twitter.com/kGaZkhlCst",
+					"expanded_url": "https://twitter.com/PaintItBlack_JN/status/1249318579675082753/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 62129,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1249318302762987523/pu/pl/3fir2T31r1W7tgkW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249318302762987523/pu/vid/720x720/yFeTHLEfv_kFkT3c.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249318302762987523/pu/vid/320x320/V-3_jHwgkSSy_NLY.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249318302762987523/pu/vid/480x480/qpygPDTIXzisLJA7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864816088353194000,
+			"id_str": "864816088353193984",
+			"name": "Paint It Black",
+			"screen_name": "PaintItBlack_JN",
+			"location": "hq = 🖤",
+			"description": "#블랙핑크 #제니 #BLACKPINK #JENNIE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138779,
+			"friends_count": 3,
+			"listed_count": 3043,
+			"created_at": "Wed May 17 12:13:17 +0000 2017",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061923617028468736/NyDgCNgK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061923617028468736/NyDgCNgK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864816088353193984/1539887488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1796,
+		"favorite_count": 2899,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "190419 BLACKPINK 제니 직캠 - SOLO coachella https://t.co/rd7WEvWnUo - @YouTube\n\n❗️Please DO NOT Re-Edit and upload this content anywhere on instagram, YouTube and other media.\n\n#PinkChella1year https://t.co/kGaZkhlCst"
+	},
+	{
 		"created_at": "Sun Apr 12 12:47:41 +0000 2020",
 		"id": 1249249403421913000,
 		"id_str": "1249318271515373569",
