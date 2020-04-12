@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 03:51:31 +0000 2020",
+		"id": 1249009435252412400,
+		"id_str": "1249183339598303232",
+		"full_text": "we launched a fancy noise suppression feature (in beta) for desktop to keep your voice crisp and clear while removing unwanted background noises like...\n\nkeyboard click clanks\npotato chip lip smacks \ncar alarm asmr\n\nthe future is loud and clear: https://t.co/v3LKNoEE9Y https://t.co/gS5F1ZRq9z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v3LKNoEE9Y",
+					"expanded_url": "http://dis.gd/noisecancellation",
+					"display_url": "dis.gd/noisecancellat…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249009300057424000,
+					"id_str": "1249009300057423872",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EVVfV0MVAAAWav1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVVfV0MVAAAWav1.jpg",
+					"url": "https://t.co/gS5F1ZRq9z",
+					"display_url": "pic.twitter.com/gS5F1ZRq9z",
+					"expanded_url": "https://twitter.com/discord/status/1249009435252412421/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249009300057424000,
+					"id_str": "1249009300057423872",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EVVfV0MVAAAWav1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVVfV0MVAAAWav1.jpg",
+					"url": "https://t.co/gS5F1ZRq9z",
+					"display_url": "pic.twitter.com/gS5F1ZRq9z",
+					"expanded_url": "https://twitter.com/discord/status/1249009435252412421/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discord",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/vBo0wJuUlu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBo0wJuUlu",
+							"expanded_url": "http://dis.gd/website",
+							"display_url": "dis.gd/website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1848167,
+			"friends_count": 1048,
+			"listed_count": 2458,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 32872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 440021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1586197726",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1383,
+		"favorite_count": 13453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we launched a fancy noise suppression feature (in beta) for desktop to keep your voice crisp and clear while removing unwanted background noises like...\n\nkeyboard click clanks\npotato chip lip smacks \ncar alarm asmr\n\nthe future is loud and clear: https://t.co/v3LKNoEE9Y https://t.co/gS5F1ZRq9z"
+	},
+	{
+		"created_at": "Sun Apr 12 03:50:33 +0000 2020",
+		"id": 1219228949810536400,
+		"id_str": "1249183096945233921",
+		"full_text": "프라이버시와 신뢰는 같이 간다. 믿을 수 있을 때 사적 비밀도 나눈다. 공유경제는 뒤집는다. 중간 플랫폼 통한 집/차량/물품 이용 과정에서 개인정보 요구. 투명성 내세우지만 정보 조회/추적/감시 체계로 사회적 신뢰 기반 대체한다. 감시망에서 이탈하면 불신 대상이 된다. https://t.co/2GnsUCDacb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2GnsUCDacb",
+					"expanded_url": "https://www.nytimes.com/2020/01/18/opinion/sunday/privacy-trust.html",
+					"display_url": "nytimes.com/2020/01/18/opi…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102121,
+			"friends_count": 2427,
+			"listed_count": 397,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 107,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프라이버시와 신뢰는 같이 간다. 믿을 수 있을 때 사적 비밀도 나눈다. 공유경제는 뒤집는다. 중간 플랫폼 통한 집/차량/물품 이용 과정에서 개인정보 요구. 투명성 내세우지만 정보 조회/추적/감시 체계로 사회적 신뢰 기반 대체한다. 감시망에서 이탈하면 불신 대상이 된다. https://t.co/2GnsUCDacb"
+	},
+	{
+		"created_at": "Sun Apr 12 03:24:40 +0000 2020",
+		"id": 1249170811421896700,
+		"id_str": "1249176580817129473",
+		"full_text": "요새 한창 이슈인 배달의 민족. 아니 뭐가 아쉬워서 수수료를 붙이려 했던거죠? ”단순 플랫폼 독점으로 통행세 받는 기업\" 이라던데, 아니 이거 보니까 작년에 360억원쯤 손실을 봤네요? 통행세만 받으면 될건데 어디서 돈을 그렇게 썼을까요? 이바닥늬우스에서 파봤습니다. \n\nhttps://t.co/U7dUXw8SxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U7dUXw8SxZ",
+					"expanded_url": "https://ebadak.news/2020/04/08/baemin-2019-financial-results/",
+					"display_url": "ebadak.news/2020/04/08/bae…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114700851778449400,
+			"id_str": "1114700851778449408",
+			"name": "이바닥늬우스",
+			"screen_name": "ebadaknews",
+			"location": "",
+			"description": "찰지고 신나는 테크바닥 늬우스",
+			"url": "https://t.co/L0rYnRELas",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L0rYnRELas",
+							"expanded_url": "https://ebadak.news",
+							"display_url": "ebadak.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 616,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Sun Apr 07 01:26:07 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114700851778449408/1555415622",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요새 한창 이슈인 배달의 민족. 아니 뭐가 아쉬워서 수수료를 붙이려 했던거죠? ”단순 플랫폼 독점으로 통행세 받는 기업\" 이라던데, 아니 이거 보니까 작년에 360억원쯤 손실을 봤네요? 통행세만 받으면 될건데 어디서 돈을 그렇게 썼을까요? 이바닥늬우스에서 파봤습니다. \n\nhttps://t.co/U7dUXw8SxZ"
+	},
+	{
 		"created_at": "Sun Apr 12 03:00:21 +0000 2020",
 		"id": 1249170462569042000,
 		"id_str": "1249170462569041920",
