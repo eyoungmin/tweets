@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 11:24:31 +0000 2020",
+		"id": 1249623980593406000,
+		"id_str": "1249659730085261314",
+		"full_text": "유수의 최애 고양이 종은? 현진은 최근에 뭘 샀을까? 소윤이 직접 꼽은 자신의 매력 포인트는!? #새소년 (@se_so_neon)과 함께한 비적응 인터뷰, 마리끌레르 유튜브에서 확인하세요.🚂  \n -  \n https://t.co/H2X2kv9lS1\n - \n Non-adaptation interview with SE SO NEON. https://t.co/5pGks3la3a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						54,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "se_so_neon",
+					"name": "새소년 SE SO NEON",
+					"id": 718392164741472300,
+					"id_str": "718392164741472256",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H2X2kv9lS1",
+					"expanded_url": "https://youtu.be/ET172_4vAMM",
+					"display_url": "youtu.be/ET172_4vAMM",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249623954823643100,
+					"id_str": "1249623954823643136",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVeOXboVAAAhA8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVeOXboVAAAhA8M.jpg",
+					"url": "https://t.co/5pGks3la3a",
+					"display_url": "pic.twitter.com/5pGks3la3a",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1249623980593405953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249623954823643100,
+					"id_str": "1249623954823643136",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVeOXboVAAAhA8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVeOXboVAAAhA8M.jpg",
+					"url": "https://t.co/5pGks3la3a",
+					"display_url": "pic.twitter.com/5pGks3la3a",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1249623980593405953/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVeOXboVAAAhA8M.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/A65jIiHpAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A65jIiHpAu",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93818,
+			"friends_count": 1,
+			"listed_count": 322,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1585702713",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유수의 최애 고양이 종은? 현진은 최근에 뭘 샀을까? 소윤이 직접 꼽은 자신의 매력 포인트는!? #새소년 (@se_so_neon)과 함께한 비적응 인터뷰, 마리끌레르 유튜브에서 확인하세요.🚂  \n -  \n https://t.co/H2X2kv9lS1\n - \n Non-adaptation interview with SE SO NEON. https://t.co/5pGks3la3a"
+	},
+	{
 		"created_at": "Mon Apr 13 10:24:32 +0000 2020",
 		"id": 1249631677678096400,
 		"id_str": "1249644631563870210",
