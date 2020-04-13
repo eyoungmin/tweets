@@ -1,6 +1,882 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 07:44:01 +0000 2020",
+		"id": 1249604239560716300,
+		"id_str": "1249604239560716289",
+		"full_text": "#대한민국 #보건복지부\n[요약] 4월13일11시│근거 없는 보도에 강한 유감│정부브리핑\nhttps://t.co/pqHfpAeM1U\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pqHfpAeM1U",
+					"expanded_url": "https://www.youtube.com/watch?v=7260DII0UnQ",
+					"display_url": "youtube.com/watch?v=7260DI…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 4월13일11시│근거 없는 보도에 강한 유감│정부브리핑\nhttps://t.co/pqHfpAeM1U\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Mon Apr 13 07:18:36 +0000 2020",
+		"id": 1249508566454513700,
+		"id_str": "1249597841829294080",
+		"full_text": "[#따스아리] 생활방역 국민 궁금증 &amp; 제안💡\n\n☝참여방법\n① 설문조사 링크 바로가기\n▶ https://t.co/f4ZQlYPx15\n② 생활방역 수칙에 대한 궁금증&amp;제안 남기기\n③ 개인정보 입력하면 참여 완료\n친구 소환, 게시물 공유 시 당첨확률 up!\n\n기간 2020.4.12.~4.26. / 발표 4.29. /\n아메리카노(1,000명) https://t.co/RjIzCz9rYU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "따스아리",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f4ZQlYPx15",
+					"expanded_url": "http://bitly.kr/vAaTwiqv",
+					"display_url": "bitly.kr/vAaTwiqv",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249505893084885000,
+					"id_str": "1249505893084884992",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EVci_VYU8AA6R99.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVci_VYU8AA6R99.png",
+					"url": "https://t.co/RjIzCz9rYU",
+					"display_url": "pic.twitter.com/RjIzCz9rYU",
+					"expanded_url": "https://twitter.com/mohwpr/status/1249508566454513665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249505893084885000,
+					"id_str": "1249505893084884992",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EVci_VYU8AA6R99.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVci_VYU8AA6R99.png",
+					"url": "https://t.co/RjIzCz9rYU",
+					"display_url": "pic.twitter.com/RjIzCz9rYU",
+					"expanded_url": "https://twitter.com/mohwpr/status/1249508566454513665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90584054,
+			"id_str": "90584054",
+			"name": "보건복지부(따스아리)",
+			"screen_name": "mohwpr",
+			"location": "seoul, korea",
+			"description": "보건복지부가 트위터를 통해 국민께 다가가고자 합니다. 여러분 요구에 대해 따뜻한 응답을 드리겠습니다.mohw.go.kr",
+			"url": "https://t.co/za73A2zuEa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/za73A2zuEa",
+							"expanded_url": "http://blog.naver.com/mohw2016",
+							"display_url": "blog.naver.com/mohw2016",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78503,
+			"friends_count": 64202,
+			"listed_count": 1351,
+			"created_at": "Tue Nov 17 07:38:43 +0000 2009",
+			"favourites_count": 3221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103575806696026112/Y5Tg6aur_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103575806696026112/Y5Tg6aur_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90584054/1583289729",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#따스아리] 생활방역 국민 궁금증 &amp; 제안💡\n\n☝참여방법\n① 설문조사 링크 바로가기\n▶ https://t.co/f4ZQlYPx15\n② 생활방역 수칙에 대한 궁금증&amp;제안 남기기\n③ 개인정보 입력하면 참여 완료\n친구 소환, 게시물 공유 시 당첨확률 up!\n\n기간 2020.4.12.~4.26. / 발표 4.29. /\n아메리카노(1,000명) https://t.co/RjIzCz9rYU"
+	},
+	{
+		"created_at": "Mon Apr 13 07:11:48 +0000 2020",
+		"id": 1249576465839960000,
+		"id_str": "1249596132268761089",
+		"full_text": "PC방·노래방 10곳 중 1곳 '방역수칙 위반'…영업제한·고발 예정 https://t.co/fuBFx9AnSr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fuBFx9AnSr",
+					"expanded_url": "http://news.jtbc.joins.com/html/769/NB11944769.html",
+					"display_url": "news.jtbc.joins.com/html/769/NB119…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 611009,
+			"friends_count": 45152,
+			"listed_count": 2381,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586752587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "PC방·노래방 10곳 중 1곳 '방역수칙 위반'…영업제한·고발 예정 https://t.co/fuBFx9AnSr"
+	},
+	{
+		"created_at": "Mon Apr 13 07:11:28 +0000 2020",
+		"id": 1249595679921455000,
+		"id_str": "1249596045266321409",
+		"full_text": "Oh god.. 어찌 저에게 7시까지 릴댄 기다리라는 시험을 줬나요 Is it a call from hell? 잠시 후 7시! (여자)아이들의 미친 듯이 아름답고 다시 봐도 아름다운 #릴레이댄스 최초공개😈 #여자아이들 #Ohmygod @G_I_DLE #GIDLE #RelayDance\n\n▶ https://t.co/HEe68kHzYv https://t.co/2rQxTlWdup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "릴레이댄스",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "Ohmygod",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "RelayDance",
+					"indices": [
+						147,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HEe68kHzYv",
+					"expanded_url": "https://youtu.be/fz-neE6VYgs",
+					"display_url": "youtu.be/fz-neE6VYgs",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249592973613887500,
+					"id_str": "1249592973613887488",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdyMFoUcAA0kAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdyMFoUcAA0kAD.jpg",
+					"url": "https://t.co/2rQxTlWdup",
+					"display_url": "pic.twitter.com/2rQxTlWdup",
+					"expanded_url": "https://twitter.com/M2MPD/status/1249595679921455107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249592973613887500,
+					"id_str": "1249592973613887488",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdyMFoUcAA0kAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdyMFoUcAA0kAD.jpg",
+					"url": "https://t.co/2rQxTlWdup",
+					"display_url": "pic.twitter.com/2rQxTlWdup",
+					"expanded_url": "https://twitter.com/M2MPD/status/1249595679921455107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 990842,
+			"friends_count": 339,
+			"listed_count": 1616,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1561,
+		"favorite_count": 3359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Oh god.. 어찌 저에게 7시까지 릴댄 기다리라는 시험을 줬나요 Is it a call from hell? 잠시 후 7시! (여자)아이들의 미친 듯이 아름답고 다시 봐도 아름다운 #릴레이댄스 최초공개😈 #여자아이들 #Ohmygod @G_I_DLE #GIDLE #RelayDance\n\n▶ https://t.co/HEe68kHzYv https://t.co/2rQxTlWdup"
+	},
+	{
+		"created_at": "Mon Apr 13 07:11:10 +0000 2020",
+		"id": 1249594097649631200,
+		"id_str": "1249595969118687233",
+		"full_text": "공연기획사 프라이빗커브는 코로나19로 인해 다음 달 열릴 예정이던 서울재즈 페스티벌을 올가을에 개최하기로 결정했습니다. @SeoulJazzFest @privatecurve https://t.co/6TZUnjlazH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SeoulJazzFest",
+					"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+					"id": 2324658823,
+					"id_str": "2324658823",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "privatecurve",
+					"name": "PRIVATE CURVE",
+					"id": 116748623,
+					"id_str": "116748623",
+					"indices": [
+						82,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249593653384769500,
+					"id_str": "1249593653384769537",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdyzp-U8AEFb8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdyzp-U8AEFb8j.jpg",
+					"url": "https://t.co/6TZUnjlazH",
+					"display_url": "pic.twitter.com/6TZUnjlazH",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1249594097649631235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249593653384769500,
+					"id_str": "1249593653384769537",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdyzp-U8AEFb8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdyzp-U8AEFb8j.jpg",
+					"url": "https://t.co/6TZUnjlazH",
+					"display_url": "pic.twitter.com/6TZUnjlazH",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1249594097649631235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25751,
+			"friends_count": 17,
+			"listed_count": 83,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연기획사 프라이빗커브는 코로나19로 인해 다음 달 열릴 예정이던 서울재즈 페스티벌을 올가을에 개최하기로 결정했습니다. @SeoulJazzFest @privatecurve https://t.co/6TZUnjlazH"
+	},
+	{
 		"created_at": "Mon Apr 13 06:46:22 +0000 2020",
 		"id": 1249582042041344000,
 		"id_str": "1249589730410287106",
