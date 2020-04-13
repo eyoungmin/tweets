@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 06:46:22 +0000 2020",
+		"id": 1249582042041344000,
+		"id_str": "1249589730410287106",
+		"full_text": "[아이돌-릭]으로 (여자)아이들의 인터뷰를 만나보세요. 멤버들의 말투가 생생히 녹아있는 짧은 인터뷰가 [I trust]라는 앨범의 타이틀에 담긴 의미와 앨범에 쏟은 멤버들의 진심을 보여줄 거예요. #VIBE #네이버 #아이돌릭 #여자아이들 https://t.co/w5IYs6cRqP https://t.co/DoTcQumgF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIBE",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "아이돌릭",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w5IYs6cRqP",
+					"expanded_url": "http://naver.me/G6ZlMQ9e",
+					"display_url": "naver.me/G6ZlMQ9e",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249582018834223000,
+					"id_str": "1249582018834223106",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdoOb5UUAIT-eI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdoOb5UUAIT-eI.jpg",
+					"url": "https://t.co/DoTcQumgF6",
+					"display_url": "pic.twitter.com/DoTcQumgF6",
+					"expanded_url": "https://twitter.com/muse_at/status/1249582042041344002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249582018834223000,
+					"id_str": "1249582018834223106",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdoOb5UUAIT-eI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdoOb5UUAIT-eI.jpg",
+					"url": "https://t.co/DoTcQumgF6",
+					"display_url": "pic.twitter.com/DoTcQumgF6",
+					"expanded_url": "https://twitter.com/muse_at/status/1249582042041344002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249582031857520600,
+					"id_str": "1249582031857520640",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdoPMaUEAA0azn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdoPMaUEAA0azn.jpg",
+					"url": "https://t.co/DoTcQumgF6",
+					"display_url": "pic.twitter.com/DoTcQumgF6",
+					"expanded_url": "https://twitter.com/muse_at/status/1249582042041344002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "박희아의 STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 타의로 사용하는 호칭이며, 저는 아이돌/문화 전문 기자이자, 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2952,
+			"friends_count": 140,
+			"listed_count": 22,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248048412253024256/0Ei84nfE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248048412253024256/0Ei84nfE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아이돌-릭]으로 (여자)아이들의 인터뷰를 만나보세요. 멤버들의 말투가 생생히 녹아있는 짧은 인터뷰가 [I trust]라는 앨범의 타이틀에 담긴 의미와 앨범에 쏟은 멤버들의 진심을 보여줄 거예요. #VIBE #네이버 #아이돌릭 #여자아이들 https://t.co/w5IYs6cRqP https://t.co/DoTcQumgF6"
+	},
+	{
+		"created_at": "Mon Apr 13 06:45:38 +0000 2020",
+		"id": 1249584864996683800,
+		"id_str": "1249589544740982784",
+		"full_text": "스타트업의 코로나 생존전략 (번역) https://t.co/13y9r2aRmT \n린 스타트업의 시초, 스티브 블랭크의 벤처비트 기고글\n스스로 해봐야 할 질문\n1. 번 레이트와 런웨이는 얼마인가?\n2. 새로 도입해야 할 비즈니스 모델은 어떤 것인가?\n3. 지금 비상상황은 얼마나 갈 것인가 – 3개월, 1년, 아니면...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/13y9r2aRmT",
+					"expanded_url": "https://j.mp/2xpndGG",
+					"display_url": "j.mp/2xpndGG",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2693,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스타트업의 코로나 생존전략 (번역) https://t.co/13y9r2aRmT \n린 스타트업의 시초, 스티브 블랭크의 벤처비트 기고글\n스스로 해봐야 할 질문\n1. 번 레이트와 런웨이는 얼마인가?\n2. 새로 도입해야 할 비즈니스 모델은 어떤 것인가?\n3. 지금 비상상황은 얼마나 갈 것인가 – 3개월, 1년, 아니면..."
+	},
+	{
 		"created_at": "Mon Apr 13 05:24:34 +0000 2020",
 		"id": 1249565337936257000,
 		"id_str": "1249569146150555648",
