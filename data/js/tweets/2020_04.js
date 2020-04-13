@@ -1,6 +1,1045 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 03:51:38 +0000 2020",
+		"id": 1249533356116607000,
+		"id_str": "1249545756190461954",
+		"full_text": "제14회 서울재즈페스티벌 2020 공지 1차 - 개최 일정 연기 및 티켓 관련 안내\n\n'서재페2020'을 관심과 애정으로 기다려 주신 여러분께 깊이 감사드리며 코로나19로 인한 현재까지의 진행 상황을 알려드립니다. 자세한 사항은 아래의 링크에서 확인해주십시오.\n\n▶https://t.co/yBOctRX1Tl https://t.co/FqHW6FqnEa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yBOctRX1Tl",
+					"expanded_url": "https://bit.ly/2xhpCmS",
+					"display_url": "bit.ly/2xhpCmS",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249531132862840800,
+					"id_str": "1249531132862840832",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc58e4UwAATORU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc58e4UwAATORU.jpg",
+					"url": "https://t.co/FqHW6FqnEa",
+					"display_url": "pic.twitter.com/FqHW6FqnEa",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1249533356116606977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249531132862840800,
+					"id_str": "1249531132862840832",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc58e4UwAATORU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc58e4UwAATORU.jpg",
+					"url": "https://t.co/FqHW6FqnEa",
+					"display_url": "pic.twitter.com/FqHW6FqnEa",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1249533356116606977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3692,
+			"friends_count": 40,
+			"listed_count": 36,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1582081596",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제14회 서울재즈페스티벌 2020 공지 1차 - 개최 일정 연기 및 티켓 관련 안내\n\n'서재페2020'을 관심과 애정으로 기다려 주신 여러분께 깊이 감사드리며 코로나19로 인한 현재까지의 진행 상황을 알려드립니다. 자세한 사항은 아래의 링크에서 확인해주십시오.\n\n▶https://t.co/yBOctRX1Tl https://t.co/FqHW6FqnEa"
+	},
+	{
+		"created_at": "Mon Apr 13 03:50:22 +0000 2020",
+		"id": 1249539428340637700,
+		"id_str": "1249545437196849154",
+		"full_text": "#PrivateCurve #프라이빗커브\n[SJF ANNOUNCEMENT] 제14회 서울재즈페스티벌 2020 1차 공지 - 개최 일정 연기 및 티켓 관련 안내\nhttps://t.co/QAiuoCqNzk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrivateCurve",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QAiuoCqNzk",
+					"expanded_url": "https://bit.ly/2JZxmwj",
+					"display_url": "bit.ly/2JZxmwj",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PrivateCurve #프라이빗커브\n[SJF ANNOUNCEMENT] 제14회 서울재즈페스티벌 2020 1차 공지 - 개최 일정 연기 및 티켓 관련 안내\nhttps://t.co/QAiuoCqNzk"
+	},
+	{
+		"created_at": "Mon Apr 13 03:47:52 +0000 2020",
+		"id": 1249541393598394400,
+		"id_str": "1249544810869846016",
+		"full_text": "#내한 #단독콘서트 #페스티벌 #아이돌콘서트 #북토크 #영화제 #티켓 #콘서트티켓 #현장구매 #KPOP콘서트 #원가양도 #플미아웃 #연극 #뮤지컬 #연뮤양도 #굿즈양도 #티켓거래\n\n많은 사람이 볼 수 있도록 RT 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내한",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "아이돌콘서트",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "북토크",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "영화제",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "티켓",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "콘서트티켓",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "현장구매",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "KPOP콘서트",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "원가양도",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "플미아웃",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "연극",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "뮤지컬",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "연뮤양도",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "굿즈양도",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "티켓거래",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249541391526408200,
+		"in_reply_to_status_id_str": "1249541391526408197",
+		"in_reply_to_user_id": 881516922294067200,
+		"in_reply_to_user_id_str": "881516922294067201",
+		"in_reply_to_screen_name": "TicketOpen",
+		"user": {
+			"id": 881516922294067200,
+			"id_str": "881516922294067201",
+			"name": "티켓오픈 봇",
+			"screen_name": "TicketOpen",
+			"location": "",
+			"description": "#티켓오픈\n#하나티켓 #티켓링크 #위메프공연티켓\n\n* 예매처와 어떤 이해관계도 없습니다.\n\n인터파크 티켓 @InterTicketOpen\n예스24 티켓 @YES24TicketOpen\n멜론 티켓 @MelonTicketOpen\n\n▶ 참가하기\nhttps://t.co/mr16mdiyD3",
+			"url": "https://t.co/jjKHK7qmS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jjKHK7qmS0",
+							"expanded_url": "https://twitter.com/SOLPLPARTY/lists/ticket",
+							"display_url": "twitter.com/SOLPLPARTY/lis…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Sun Jul 02 14:16:26 +0000 2017",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881516922294067201/1586083867",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#내한 #단독콘서트 #페스티벌 #아이돌콘서트 #북토크 #영화제 #티켓 #콘서트티켓 #현장구매 #KPOP콘서트 #원가양도 #플미아웃 #연극 #뮤지컬 #연뮤양도 #굿즈양도 #티켓거래\n\n많은 사람이 볼 수 있도록 RT 부탁드립니다."
+	},
+	{
+		"created_at": "Mon Apr 13 03:35:08 +0000 2020",
+		"id": 1249541391526408200,
+		"id_str": "1249541604446093319",
+		"full_text": "티켓 가이드(TICKET GUIDE)\nhttps://t.co/DZ0Wf5mh9P\n\n티켓 사기 예방법, 티켓 양도 주의사항 수록.\n티켓 양도 및 거래 전 반드시 정독하세요.\n공연기획사, 매니지먼트, 아티스트, 소비자 필독.\n\n#티켓양도 #양도 #대리구매 \n#공연안내 #공연소식 #티켓오픈 #스케줄\n#안전거래 #티켓가이드 https://t.co/uHZQqnqaPR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티켓양도",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "양도",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "대리구매",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "공연안내",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "공연소식",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "티켓오픈",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "안전거래",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "티켓가이드",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DZ0Wf5mh9P",
+					"expanded_url": "https://solplparty.com/transfer",
+					"display_url": "solplparty.com/transfer",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249540283366174700,
+					"id_str": "1249540283366174722",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdCRHKU8AIAGhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdCRHKU8AIAGhK.jpg",
+					"url": "https://t.co/uHZQqnqaPR",
+					"display_url": "pic.twitter.com/uHZQqnqaPR",
+					"expanded_url": "https://twitter.com/TicketOpen/status/1249541391526408197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249540283366174700,
+					"id_str": "1249540283366174722",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdCRHKU8AIAGhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdCRHKU8AIAGhK.jpg",
+					"url": "https://t.co/uHZQqnqaPR",
+					"display_url": "pic.twitter.com/uHZQqnqaPR",
+					"expanded_url": "https://twitter.com/TicketOpen/status/1249541391526408197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 881516922294067200,
+			"id_str": "881516922294067201",
+			"name": "티켓오픈 봇",
+			"screen_name": "TicketOpen",
+			"location": "",
+			"description": "#티켓오픈\n#하나티켓 #티켓링크 #위메프공연티켓\n\n* 예매처와 어떤 이해관계도 없습니다.\n\n인터파크 티켓 @InterTicketOpen\n예스24 티켓 @YES24TicketOpen\n멜론 티켓 @MelonTicketOpen\n\n▶ 참가하기\nhttps://t.co/mr16mdiyD3",
+			"url": "https://t.co/jjKHK7qmS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jjKHK7qmS0",
+							"expanded_url": "https://twitter.com/SOLPLPARTY/lists/ticket",
+							"display_url": "twitter.com/SOLPLPARTY/lis…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Sun Jul 02 14:16:26 +0000 2017",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881516922294067201/1586083867",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "티켓 가이드(TICKET GUIDE)\nhttps://t.co/DZ0Wf5mh9P\n\n티켓 사기 예방법, 티켓 양도 주의사항 수록.\n티켓 양도 및 거래 전 반드시 정독하세요.\n공연기획사, 매니지먼트, 아티스트, 소비자 필독.\n\n#티켓양도 #양도 #대리구매 \n#공연안내 #공연소식 #티켓오픈 #스케줄\n#안전거래 #티켓가이드 https://t.co/uHZQqnqaPR"
+	},
+	{
+		"created_at": "Mon Apr 13 03:24:36 +0000 2020",
+		"id": 1249532868985901000,
+		"id_str": "1249538955437117442",
+		"full_text": "[이달의소녀킼킼 #188]\n#현진 이에게 응답하라 애옹😿\n\n#이달의소녀 #LOONA #LOONAKick #HyunJin https://t.co/z0v1LW3I11",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현진",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249532804292948000,
+					"id_str": "1249532804292947970",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249532804292947970/pu/img/XiiTSzLALL1wb3yF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249532804292947970/pu/img/XiiTSzLALL1wb3yF.jpg",
+					"url": "https://t.co/z0v1LW3I11",
+					"display_url": "pic.twitter.com/z0v1LW3I11",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1249532868985901057/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249532804292948000,
+					"id_str": "1249532804292947970",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249532804292947970/pu/img/XiiTSzLALL1wb3yF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249532804292947970/pu/img/XiiTSzLALL1wb3yF.jpg",
+					"url": "https://t.co/z0v1LW3I11",
+					"display_url": "pic.twitter.com/z0v1LW3I11",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1249532868985901057/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 16524,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249532804292947970/pu/vid/960x720/OoT1ivq-IOtyAncU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1249532804292947970/pu/pl/ifsZ7bsUD06BzeLf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249532804292947970/pu/vid/480x360/EW2VUNgPLu5-09Jp.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249532804292947970/pu/vid/360x270/VqDkBefZFSi98CCy.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 446474,
+			"friends_count": 0,
+			"listed_count": 6303,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5060,
+		"favorite_count": 12432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #188]\n#현진 이에게 응답하라 애옹😿\n\n#이달의소녀 #LOONA #LOONAKick #HyunJin https://t.co/z0v1LW3I11"
+	},
+	{
 		"created_at": "Mon Apr 13 03:00:36 +0000 2020",
 		"id": 1249532912271229000,
 		"id_str": "1249532912271228928",
