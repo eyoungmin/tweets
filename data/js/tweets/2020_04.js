@@ -1,6 +1,709 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 05:47:02 +0000 2020",
+		"id": 1249934487129129000,
+		"id_str": "1249937187505721351",
+		"full_text": "#SMTOWN #SMTOWN_News\nSM엔터테인먼트 x NAVER, 글로벌 엔터테인먼트 플랫폼 경쟁력 확대를 위한 MOU 체결\nhttps://t.co/8mMEqfl7y3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "SMTOWN_News",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8mMEqfl7y3",
+					"expanded_url": "https://www.smtown.com/news/detail/222",
+					"display_url": "smtown.com/news/detail/222",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1393499124,
+			"id_str": "1393499124",
+			"name": "SMTOWN NEWS",
+			"screen_name": "SMTOWN_SUPPORT",
+			"location": "",
+			"description": "OFFICIAL ACCOUNT @SMTOWNGLOBAL\n\n#SMTOWN_Notice #SMTOWN_News #SMTOWN_Musician\n#SMTOWN_YouTube #SMTOWN_Facebook #SMTOWN_Instagram #SMTOWN_Weibo",
+			"url": "https://t.co/PBjUBLZCl7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PBjUBLZCl7",
+							"expanded_url": "https://www.smtown.com/artist/news/1",
+							"display_url": "smtown.com/artist/news/1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 751,
+			"friends_count": 52,
+			"listed_count": 12,
+			"created_at": "Wed May 01 01:28:14 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246854111145779201/SOLjHvGJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246854111145779201/SOLjHvGJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1393499124/1586108489",
+			"profile_link_color": "F28AA5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #SMTOWN_News\nSM엔터테인먼트 x NAVER, 글로벌 엔터테인먼트 플랫폼 경쟁력 확대를 위한 MOU 체결\nhttps://t.co/8mMEqfl7y3"
+	},
+	{
+		"created_at": "Tue Apr 14 05:46:42 +0000 2020",
+		"id": 1249905943975882800,
+		"id_str": "1249937104076804099",
+		"full_text": "#SMEntertainment &amp; #NAVER joined hands to lead the culture of digital concerts in the rising ‘non-face-to-face’ trends!\nStay tuned for their live concert streaming service '#Beyond_LIVE’, starting out with #SuperM’s performance on April 26th at 3PM KST on Naver V Live!\n\n@superm https://t.co/4sI0KRdyIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						210,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "superm",
+					"name": "SuperM",
+					"id": 1135806843773542400,
+					"id_str": "1135806843773542401",
+					"indices": [
+						275,
+						282
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249900638353293300,
+					"id_str": "1249900638353293312",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EViKAiGVAAAOuhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViKAiGVAAAOuhO.jpg",
+					"url": "https://t.co/4sI0KRdyIb",
+					"display_url": "pic.twitter.com/4sI0KRdyIb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1249905943975882753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 831,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 879,
+							"h": 1269,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249900638353293300,
+					"id_str": "1249900638353293312",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EViKAiGVAAAOuhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViKAiGVAAAOuhO.jpg",
+					"url": "https://t.co/4sI0KRdyIb",
+					"display_url": "pic.twitter.com/4sI0KRdyIb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1249905943975882753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 831,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 879,
+							"h": 1269,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8092343,
+			"friends_count": 49,
+			"listed_count": 10093,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7383,
+		"favorite_count": 12263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "#SMEntertainment &amp; #NAVER joined hands to lead the culture of digital concerts in the rising ‘non-face-to-face’ trends!\nStay tuned for their live concert streaming service '#Beyond_LIVE’, starting out with #SuperM’s performance on April 26th at 3PM KST on Naver V Live!\n\n@superm https://t.co/4sI0KRdyIb"
+	},
+	{
+		"created_at": "Tue Apr 14 05:39:16 +0000 2020",
+		"id": 1249935229806051300,
+		"id_str": "1249935229806051330",
+		"full_text": "#BBC코리아\n코로나19: 사회 정상화를 시작하는 나라들... 한국은 언제쯤 일상으로 돌아갈까?\nhttps://t.co/QTFLIJLtF1\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QTFLIJLtF1",
+					"expanded_url": "https://www.bbc.com/korean/news-52277210",
+					"display_url": "bbc.com/korean/news-52…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 사회 정상화를 시작하는 나라들... 한국은 언제쯤 일상으로 돌아갈까?\nhttps://t.co/QTFLIJLtF1\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Tue Apr 14 05:31:13 +0000 2020",
+		"id": 1249933206805188600,
+		"id_str": "1249933206805188611",
+		"full_text": "#SMTOWN #News\nSM엔터테인먼트 x NAVER, 글로벌 엔터테인먼트 플랫폼 경쟁력 확대를 위한 MOU 체결\nhttps://t.co/sYIkJNd9EL\n#SM엔터테인먼트 #minfav https://t.co/HCenbGZqj3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sYIkJNd9EL",
+					"expanded_url": "https://www.smtown.com/news/detail/222",
+					"display_url": "smtown.com/news/detail/222",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249933205928624000,
+					"id_str": "1249933205928624128",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EVinoNxXQAAKmIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVinoNxXQAAKmIy.jpg",
+					"url": "https://t.co/HCenbGZqj3",
+					"display_url": "pic.twitter.com/HCenbGZqj3",
+					"expanded_url": "https://twitter.com/fromminn/status/1249933206805188611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249933205928624000,
+					"id_str": "1249933205928624128",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EVinoNxXQAAKmIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVinoNxXQAAKmIy.jpg",
+					"url": "https://t.co/HCenbGZqj3",
+					"display_url": "pic.twitter.com/HCenbGZqj3",
+					"expanded_url": "https://twitter.com/fromminn/status/1249933206805188611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #News\nSM엔터테인먼트 x NAVER, 글로벌 엔터테인먼트 플랫폼 경쟁력 확대를 위한 MOU 체결\nhttps://t.co/sYIkJNd9EL\n#SM엔터테인먼트 #minfav https://t.co/HCenbGZqj3"
+	},
+	{
 		"created_at": "Tue Apr 14 04:42:24 +0000 2020",
 		"id": 1249916502137958400,
 		"id_str": "1249920922364137473",
