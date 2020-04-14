@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 13:28:25 +0000 2020",
+		"id": 1249977237593452500,
+		"id_str": "1250053297915871232",
+		"full_text": "https://t.co/TZphd5MUE5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249977210343055400,
+					"id_str": "1249977210343055360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPpm_U4AAUMZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPpm_U4AAUMZC.jpg",
+					"url": "https://t.co/TZphd5MUE5",
+					"display_url": "pic.twitter.com/TZphd5MUE5",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977237593452549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249977210343055400,
+					"id_str": "1249977210343055360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPpm_U4AAUMZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPpm_U4AAUMZC.jpg",
+					"url": "https://t.co/TZphd5MUE5",
+					"display_url": "pic.twitter.com/TZphd5MUE5",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977237593452549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249977221365694500,
+					"id_str": "1249977221365694464",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPqQDVAAAFtuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPqQDVAAAFtuR.jpg",
+					"url": "https://t.co/TZphd5MUE5",
+					"display_url": "pic.twitter.com/TZphd5MUE5",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977237593452549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249977232015032300,
+					"id_str": "1249977232015032320",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPq3uVAAARQrW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPq3uVAAARQrW.jpg",
+					"url": "https://t.co/TZphd5MUE5",
+					"display_url": "pic.twitter.com/TZphd5MUE5",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977237593452549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249977057376792600,
+		"in_reply_to_status_id_str": "1249977057376792577",
+		"in_reply_to_user_id": 116351905,
+		"in_reply_to_user_id_str": "116351905",
+		"in_reply_to_screen_name": "GREENPLUGGED",
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12255,
+			"friends_count": 161,
+			"listed_count": 256,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/TZphd5MUE5"
+	},
+	{
+		"created_at": "Tue Apr 14 13:28:22 +0000 2020",
+		"id": 1249977057376792600,
+		"id_str": "1250053284213080064",
+		"full_text": "[페스티벌 연기 공지]\n\n안녕하세요, 그린플러그드 서울입니다.\n깊은 고민 끝에 확산 방지 및 관객과 아티스트, 스태프 모두의 안전을 고려하여 페스티벌 일정을 연기하기로 결정하게 되었습니다. 자세한 사항은 이미지 내용을 통해 확인 부탁드립니다. 감사합니다. https://t.co/aCgFuwh4Gz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249976499572101000,
+					"id_str": "1249976499572101120",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPAPKU0AAzYFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPAPKU0AAzYFg.jpg",
+					"url": "https://t.co/aCgFuwh4Gz",
+					"display_url": "pic.twitter.com/aCgFuwh4Gz",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977057376792577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249976499572101000,
+					"id_str": "1249976499572101120",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPAPKU0AAzYFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPAPKU0AAzYFg.jpg",
+					"url": "https://t.co/aCgFuwh4Gz",
+					"display_url": "pic.twitter.com/aCgFuwh4Gz",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977057376792577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249976511953662000,
+					"id_str": "1249976511953661952",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPA9SUcAAwGKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPA9SUcAAwGKs.jpg",
+					"url": "https://t.co/aCgFuwh4Gz",
+					"display_url": "pic.twitter.com/aCgFuwh4Gz",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977057376792577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249976527443222500,
+					"id_str": "1249976527443222529",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPB2_UYAERzs9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPB2_UYAERzs9.jpg",
+					"url": "https://t.co/aCgFuwh4Gz",
+					"display_url": "pic.twitter.com/aCgFuwh4Gz",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977057376792577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249976548850954200,
+					"id_str": "1249976548850954241",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjPDGvUcAEAPFn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjPDGvUcAEAPFn.jpg",
+					"url": "https://t.co/aCgFuwh4Gz",
+					"display_url": "pic.twitter.com/aCgFuwh4Gz",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1249977057376792577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12255,
+			"friends_count": 161,
+			"listed_count": 256,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[페스티벌 연기 공지]\n\n안녕하세요, 그린플러그드 서울입니다.\n깊은 고민 끝에 확산 방지 및 관객과 아티스트, 스태프 모두의 안전을 고려하여 페스티벌 일정을 연기하기로 결정하게 되었습니다. 자세한 사항은 이미지 내용을 통해 확인 부탁드립니다. 감사합니다. https://t.co/aCgFuwh4Gz"
+	},
+	{
 		"created_at": "Tue Apr 14 12:14:03 +0000 2020",
 		"id": 1250034581799125000,
 		"id_str": "1250034581799124994",
