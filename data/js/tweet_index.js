@@ -3,7 +3,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2020_04.js",
 		"year": 2020,
 		"var_name": "tweets_2020_04",
-		"tweet_count": 696,
+		"tweet_count": 697,
 		"month": 4
 	},
 	{
