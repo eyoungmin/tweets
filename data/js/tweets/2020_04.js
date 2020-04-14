@@ -1,6 +1,914 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 09:45:03 +0000 2020",
+		"id": 1249997086176604200,
+		"id_str": "1249997086176604161",
+		"full_text": "❝ 어느 때 가장 불행을 느끼시냐 불합리한 프로세스로 무너졌을 때 그때 굉장히 자괴감과 우울감을 느낀다는 거예요 \nhttps://t.co/2MNgOkV8jX\n\n#조직문화 #리더십 #김성준 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조직문화",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "리더십",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "김성준",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2MNgOkV8jX",
+					"expanded_url": "https://youtu.be/69_97VXsYfQ",
+					"display_url": "youtu.be/69_97VXsYfQ",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝ 어느 때 가장 불행을 느끼시냐 불합리한 프로세스로 무너졌을 때 그때 굉장히 자괴감과 우울감을 느낀다는 거예요 \nhttps://t.co/2MNgOkV8jX\n\n#조직문화 #리더십 #김성준 #minfav"
+	},
+	{
+		"created_at": "Tue Apr 14 09:38:22 +0000 2020",
+		"id": 1249995402025279500,
+		"id_str": "1249995402025279488",
+		"full_text": "#BBC코리아\n코로나19: 유럽 내 봉쇄조치로 가정폭력 피해 급증...한국의 경우는? \nhttps://t.co/qHLRbmf5nQ\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qHLRbmf5nQ",
+					"expanded_url": "https://www.bbc.com/korean/features-52279331",
+					"display_url": "bbc.com/korean/feature…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 유럽 내 봉쇄조치로 가정폭력 피해 급증...한국의 경우는? \nhttps://t.co/qHLRbmf5nQ\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Tue Apr 14 09:37:44 +0000 2020",
+		"id": 1249995243014852600,
+		"id_str": "1249995243014852608",
+		"full_text": "❝ 어떤 스타트업은 일단 첫 번째, 시스템, 환경을 먼저 봐요. 우리가 어떻게 협업했으면 문제가 발생하지 않았을까 그러면서 업무 프로세스를 바꾸거나 소프트웨어를 뜯어 고치거나.\nhttps://t.co/2MNgOkV8jX\n\n#조직문화 #리더십 #김성준",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조직문화",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "리더십",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "김성준",
+					"indices": [
+						135,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2MNgOkV8jX",
+					"expanded_url": "https://youtu.be/69_97VXsYfQ",
+					"display_url": "youtu.be/69_97VXsYfQ",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝ 어떤 스타트업은 일단 첫 번째, 시스템, 환경을 먼저 봐요. 우리가 어떻게 협업했으면 문제가 발생하지 않았을까 그러면서 업무 프로세스를 바꾸거나 소프트웨어를 뜯어 고치거나.\nhttps://t.co/2MNgOkV8jX\n\n#조직문화 #리더십 #김성준"
+	},
+	{
+		"created_at": "Tue Apr 14 09:24:36 +0000 2020",
+		"id": 1249990801498591200,
+		"id_str": "1249991937383378944",
+		"full_text": "백예린이 피처링으로 참여한 루피(Loopy) 정규앨범 [NO FEAR] 'NEO SEOUL LOVE' (Feat. 백예린)'가 발매되었습니다.\n지금 바로 모든 음원 사이트에서 감상하실 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249990692937457700,
+		"in_reply_to_status_id_str": "1249990692937457664",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek_bv",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9864,
+			"friends_count": 0,
+			"listed_count": 82,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "백예린이 피처링으로 참여한 루피(Loopy) 정규앨범 [NO FEAR] 'NEO SEOUL LOVE' (Feat. 백예린)'가 발매되었습니다.\n지금 바로 모든 음원 사이트에서 감상하실 수 있습니다."
+	},
+	{
+		"created_at": "Tue Apr 14 09:24:32 +0000 2020",
+		"id": 1249990692937457700,
+		"id_str": "1249991919964426240",
+		"full_text": "[Release] 루피 (Loopy) [NO FEAR] 'NEO SEOUL LOVE (Feat. 백예린)'\n\nLoopy’s 'NEO SEOUL LOVE (Feat. Yerin Baek)' is now available on all streaming sites!\n\n#백예린 #yerinbaek https://t.co/ev5lnp1nVr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ev5lnp1nVr",
+					"expanded_url": "https://twitter.com/MKITRAIN/status/1249987818731917313",
+					"display_url": "twitter.com/MKITRAIN/statu…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9864,
+			"friends_count": 0,
+			"listed_count": 82,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249987818731917300,
+		"quoted_status_id_str": "1249987818731917313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ev5lnp1nVr",
+			"expanded": "https://twitter.com/MKITRAIN/status/1249987818731917313",
+			"display": "twitter.com/MKITRAIN/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 14 09:08:14 +0000 2020",
+			"id": 1249987818731917300,
+			"id_str": "1249987818731917313",
+			"full_text": "LOOPY LP [NO FEAR] OUT NOW!\n\nhttps://t.co/kaXBcOrlqc\n\n▶Bugs - https://t.co/0GvnaHVbHU\n▶Melon - https://t.co/4GsXBiITFJ\n▶Naver Music - https://t.co/hzfv8LRPgp\n▶genie - https://t.co/n57ZMfBcBO\n▶FLO - https://t.co/fhU731dnOa\n\n#LOOPY\n#NOFEAR #LP\n#MKITRAIN https://t.co/Ivg0Lpgt6w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LOOPY",
+						"indices": [
+							223,
+							229
+						]
+					},
+					{
+						"text": "NOFEAR",
+						"indices": [
+							230,
+							237
+						]
+					},
+					{
+						"text": "LP",
+						"indices": [
+							238,
+							241
+						]
+					},
+					{
+						"text": "MKITRAIN",
+						"indices": [
+							242,
+							251
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kaXBcOrlqc",
+						"expanded_url": "http://MKITRAIN.COM/LOOPY",
+						"display_url": "MKITRAIN.COM/LOOPY",
+						"indices": [
+							29,
+							52
+						]
+					},
+					{
+						"url": "https://t.co/0GvnaHVbHU",
+						"expanded_url": "http://bit.ly/2RzYbLW",
+						"display_url": "bit.ly/2RzYbLW",
+						"indices": [
+							62,
+							85
+						]
+					},
+					{
+						"url": "https://t.co/4GsXBiITFJ",
+						"expanded_url": "http://bit.ly/2XywLcV",
+						"display_url": "bit.ly/2XywLcV",
+						"indices": [
+							95,
+							118
+						]
+					},
+					{
+						"url": "https://t.co/hzfv8LRPgp",
+						"expanded_url": "http://bit.ly/34DvH9s",
+						"display_url": "bit.ly/34DvH9s",
+						"indices": [
+							134,
+							157
+						]
+					},
+					{
+						"url": "https://t.co/n57ZMfBcBO",
+						"expanded_url": "http://bit.ly/3en5BvB",
+						"display_url": "bit.ly/3en5BvB",
+						"indices": [
+							167,
+							190
+						]
+					},
+					{
+						"url": "https://t.co/fhU731dnOa",
+						"expanded_url": "http://bit.ly/2K0yNdR",
+						"display_url": "bit.ly/2K0yNdR",
+						"indices": [
+							198,
+							221
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1249987800314728400,
+						"id_str": "1249987800314728451",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/EVjZSBtU0AMI3je.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVjZSBtU0AMI3je.jpg",
+						"url": "https://t.co/Ivg0Lpgt6w",
+						"display_url": "pic.twitter.com/Ivg0Lpgt6w",
+						"expanded_url": "https://twitter.com/MKITRAIN/status/1249987818731917313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249987800314728400,
+						"id_str": "1249987800314728451",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/EVjZSBtU0AMI3je.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVjZSBtU0AMI3je.jpg",
+						"url": "https://t.co/Ivg0Lpgt6w",
+						"display_url": "pic.twitter.com/Ivg0Lpgt6w",
+						"expanded_url": "https://twitter.com/MKITRAIN/status/1249987818731917313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3242889247,
+				"id_str": "3242889247",
+				"name": "MKIT RAIN",
+				"screen_name": "MKITRAIN",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/awrDWPQ2Nk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/awrDWPQ2Nk",
+								"expanded_url": "http://mkitrain.com/",
+								"display_url": "mkitrain.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8602,
+				"friends_count": 6,
+				"listed_count": 74,
+				"created_at": "Fri Jun 12 02:48:34 +0000 2015",
+				"favourites_count": 85,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 572,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071430909994233856/rMf_C8T6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071430909994233856/rMf_C8T6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3242889247/1574741666",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 79,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 128,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Release] 루피 (Loopy) [NO FEAR] 'NEO SEOUL LOVE (Feat. 백예린)'\n\nLoopy’s 'NEO SEOUL LOVE (Feat. Yerin Baek)' is now available on all streaming sites!\n\n#백예린 #yerinbaek https://t.co/ev5lnp1nVr"
+	},
+	{
 		"created_at": "Tue Apr 14 08:44:18 +0000 2020",
 		"id": 1249981796198027300,
 		"id_str": "1249981796198027264",
