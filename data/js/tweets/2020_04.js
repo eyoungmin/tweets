@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 10:00:14 +0000 2020",
+		"id": 1250363295128789000,
+		"id_str": "1250363295128788992",
+		"full_text": "#DreamMaker #드림메이커\n입사 n년차 무대 감독님이 직접 소개해주는 공연 소품.zip 콘서트 고인물 인증 클래스가 개설되었습니다🎖️ │ 드림메이커 스페셜 (eng sub)\nhttps://t.co/yPrH7WKK2I\n#SM엔터테인먼트 #공연기획사 #뮤직비지니스 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamMaker",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "드림메이커",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yPrH7WKK2I",
+					"expanded_url": "https://youtu.be/dUJTkCF1w9o",
+					"display_url": "youtu.be/dUJTkCF1w9o",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#DreamMaker #드림메이커\n입사 n년차 무대 감독님이 직접 소개해주는 공연 소품.zip 콘서트 고인물 인증 클래스가 개설되었습니다🎖️ │ 드림메이커 스페셜 (eng sub)\nhttps://t.co/yPrH7WKK2I\n#SM엔터테인먼트 #공연기획사 #뮤직비지니스 #minfav"
+	},
+	{
+		"created_at": "Wed Apr 15 09:24:36 +0000 2020",
+		"id": 1250349943782396000,
+		"id_str": "1250354326733643776",
+		"full_text": "에어비앤비가 모든 마케팅을 중단했습니다. 10% 육박하는 고금리로 2조 원이 넘는 자금을 급히 끌어왔습니다. 기업가치는 3년 전 대비 42% 하락했습니다. 그럼에도 불구하고, 여전히 상황은 좋지 않습니다. \n\nhttps://t.co/4qeG0reLze",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4qeG0reLze",
+					"expanded_url": "https://ebadak.news/2020/04/15/airbnb-18billion/",
+					"display_url": "ebadak.news/2020/04/15/air…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114700851778449400,
+			"id_str": "1114700851778449408",
+			"name": "이바닥늬우스",
+			"screen_name": "ebadaknews",
+			"location": "",
+			"description": "찰지고 신나는 테크바닥 늬우스",
+			"url": "https://t.co/L0rYnRELas",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L0rYnRELas",
+							"expanded_url": "https://ebadak.news",
+							"display_url": "ebadak.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Sun Apr 07 01:26:07 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114700851778449408/1555415622",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에어비앤비가 모든 마케팅을 중단했습니다. 10% 육박하는 고금리로 2조 원이 넘는 자금을 급히 끌어왔습니다. 기업가치는 3년 전 대비 42% 하락했습니다. 그럼에도 불구하고, 여전히 상황은 좋지 않습니다. \n\nhttps://t.co/4qeG0reLze"
+	},
+	{
+		"created_at": "Wed Apr 15 09:24:32 +0000 2020",
+		"id": 1250348156862095400,
+		"id_str": "1250354309285339138",
+		"full_text": "#진솔 이의 첫 OST 도전! 드라마 ‘어서와’ OST Part.8 ‘시간은 한 바퀴 돌아’가 공개되었어요🤗 음원사이트를 통해 확인해 주세요, 오빛!💙\n⠀\n#이달의소녀 #LOONA #JinSoul https://t.co/013qDZ5fGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250348144543453200,
+					"id_str": "1250348144543453187",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EVohA0kU0AM0lDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVohA0kU0AM0lDL.jpg",
+					"url": "https://t.co/013qDZ5fGF",
+					"display_url": "pic.twitter.com/013qDZ5fGF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1250348156862095363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250348144543453200,
+					"id_str": "1250348144543453187",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EVohA0kU0AM0lDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVohA0kU0AM0lDL.jpg",
+					"url": "https://t.co/013qDZ5fGF",
+					"display_url": "pic.twitter.com/013qDZ5fGF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1250348156862095363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250348144555995100,
+					"id_str": "1250348144555995136",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EVohA0nUMAA6-nB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVohA0nUMAA6-nB.jpg",
+					"url": "https://t.co/013qDZ5fGF",
+					"display_url": "pic.twitter.com/013qDZ5fGF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1250348156862095363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447638,
+			"friends_count": 0,
+			"listed_count": 6318,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6202,
+		"favorite_count": 12283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#진솔 이의 첫 OST 도전! 드라마 ‘어서와’ OST Part.8 ‘시간은 한 바퀴 돌아’가 공개되었어요🤗 음원사이트를 통해 확인해 주세요, 오빛!💙\n⠀\n#이달의소녀 #LOONA #JinSoul https://t.co/013qDZ5fGF"
+	},
+	{
 		"created_at": "Wed Apr 15 08:01:21 +0000 2020",
 		"id": 1250333376172548000,
 		"id_str": "1250333376172548104",
