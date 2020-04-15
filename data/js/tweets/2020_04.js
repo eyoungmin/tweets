@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 12:24:36 +0000 2020",
+		"id": 1250222385392844800,
+		"id_str": "1250399625900511233",
+		"full_text": "\"곧 망할 것\" 예상 뒤엎은 쿠팡…'한국판 아마존' 희망 보였다 https://t.co/tbNFyJWzqW 쿠팡이 지난해 어떻게 적자규모를 크게 줄일 수 있었을까. 고정비 통제의 성공, 로켓와우 유료회원제 등을 그 이유로 꼽은 기사. 적자에도 불구하고 이 정도 성장세면 나스닥상장도 가시권. https://t.co/dx1IdaSNoQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tbNFyJWzqW",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=015&aid=0004324241",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250222376081490000,
+					"id_str": "1250222376081489920",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVmuoIiVAAADUlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVmuoIiVAAADUlv.jpg",
+					"url": "https://t.co/dx1IdaSNoQ",
+					"display_url": "pic.twitter.com/dx1IdaSNoQ",
+					"expanded_url": "https://twitter.com/estima7/status/1250222385392844800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250222376081490000,
+					"id_str": "1250222376081489920",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVmuoIiVAAADUlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVmuoIiVAAADUlv.jpg",
+					"url": "https://t.co/dx1IdaSNoQ",
+					"display_url": "pic.twitter.com/dx1IdaSNoQ",
+					"expanded_url": "https://twitter.com/estima7/status/1250222385392844800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376261,
+			"friends_count": 2288,
+			"listed_count": 4745,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"곧 망할 것\" 예상 뒤엎은 쿠팡…'한국판 아마존' 희망 보였다 https://t.co/tbNFyJWzqW 쿠팡이 지난해 어떻게 적자규모를 크게 줄일 수 있었을까. 고정비 통제의 성공, 로켓와우 유료회원제 등을 그 이유로 꼽은 기사. 적자에도 불구하고 이 정도 성장세면 나스닥상장도 가시권. https://t.co/dx1IdaSNoQ"
+	},
+	{
 		"created_at": "Wed Apr 15 10:00:14 +0000 2020",
 		"id": 1250363295128789000,
 		"id_str": "1250363295128788992",
