@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 06:18:45 +0000 2020",
+		"id": 1250297713582723000,
+		"id_str": "1250307555122753536",
+		"full_text": "레이디 가가와 WHO, Global Citizen이 코로나19에 맞서고 있는 의료 종사자들을 응원하고 기금을 모으기 위해 온라인 콘서트 'One World: Together at Home'를 주최합니다. 이 이벤트에는 테일러 스위프트, 숀 멘데스, 제니퍼 로페즈 그리고 SuperM 등이 참여할 예정입니다.\nhttps://t.co/ycY5oFh9fj https://t.co/7WP3eeKSlA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ycY5oFh9fj",
+					"expanded_url": "https://www.billboard.com/articles/news/9357753/one-world-together-at-home",
+					"display_url": "billboard.com/articles/news/…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250297372682272800,
+					"id_str": "1250297372682272770",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EVny1gpUwAIE-gJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVny1gpUwAIE-gJ.jpg",
+					"url": "https://t.co/7WP3eeKSlA",
+					"display_url": "pic.twitter.com/7WP3eeKSlA",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1250297713582723072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250297372682272800,
+					"id_str": "1250297372682272770",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EVny1gpUwAIE-gJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVny1gpUwAIE-gJ.jpg",
+					"url": "https://t.co/7WP3eeKSlA",
+					"display_url": "pic.twitter.com/7WP3eeKSlA",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1250297713582723072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26341,
+			"friends_count": 18,
+			"listed_count": 81,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레이디 가가와 WHO, Global Citizen이 코로나19에 맞서고 있는 의료 종사자들을 응원하고 기금을 모으기 위해 온라인 콘서트 'One World: Together at Home'를 주최합니다. 이 이벤트에는 테일러 스위프트, 숀 멘데스, 제니퍼 로페즈 그리고 SuperM 등이 참여할 예정입니다.\nhttps://t.co/ycY5oFh9fj https://t.co/7WP3eeKSlA"
+	},
+	{
 		"created_at": "Wed Apr 15 05:05:10 +0000 2020",
 		"id": 1250280792011374600,
 		"id_str": "1250289035823603712",
