@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 04:57:11 +0000 2020",
+		"id": 1250070556130652200,
+		"id_str": "1250287027938975745",
+		"full_text": "https://t.co/WzuyyCoaeF 여러분, 완전 멋진 앱을 가져왔습니다! 전세계 여러 트레일을 가상으로 걸을 수 있는 앱. 오늘 걷는 거리만큼 어디에서 어디까지 갔는지가 표시돼요. 예를 들어 미대륙 횡단을 설정해놓으면 오늘 어느 도시에서 어느도시만큼 갔다가 나옵니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WzuyyCoaeF",
+					"expanded_url": "https://worldwalking.org/",
+					"display_url": "worldwalking.org",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50716132,
+			"id_str": "50716132",
+			"name": "Soo Yun Kim",
+			"screen_name": "fairytalelady",
+			"location": "City of Angels",
+			"description": "I solemnly swear that I am up to no good. ヾ(｡ꏿ﹏ꏿ)ﾉﾞ",
+			"url": "https://t.co/v7nSOYVeQz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v7nSOYVeQz",
+							"expanded_url": "https://ko-fi.com/sooyunkim",
+							"display_url": "ko-fi.com/sooyunkim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 815,
+			"listed_count": 54,
+			"created_at": "Thu Jun 25 17:56:47 +0000 2009",
+			"favourites_count": 3498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 104259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "275F7D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058950546273402880/cEb6x7vb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058950546273402880/cEb6x7vb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50716132/1541308749",
+			"profile_link_color": "A3C6D6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7AB317",
+			"profile_text_color": "0B2E59",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 811,
+		"favorite_count": 1110,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/WzuyyCoaeF 여러분, 완전 멋진 앱을 가져왔습니다! 전세계 여러 트레일을 가상으로 걸을 수 있는 앱. 오늘 걷는 거리만큼 어디에서 어디까지 갔는지가 표시돼요. 예를 들어 미대륙 횡단을 설정해놓으면 오늘 어느 도시에서 어느도시만큼 갔다가 나옵니다."
+	},
+	{
 		"created_at": "Wed Apr 15 04:01:49 +0000 2020",
 		"id": 1250273096554053600,
 		"id_str": "1250273096554053637",
