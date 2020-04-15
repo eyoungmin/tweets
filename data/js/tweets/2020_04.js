@@ -1,6 +1,884 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 20:20:08 +0000 2020",
+		"id": 1250519298121973800,
+		"id_str": "1250519298121973761",
+		"full_text": "금융상품 통합 비교공시 시스템\nhttps://t.co/GEG2D533gN\n\n#금감원 #예금 #적금 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "금감원",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "예금",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "적금",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GEG2D533gN",
+					"expanded_url": "http://finlife.fss.or.kr/installment/selectinstallment.do?menuId=2000101",
+					"display_url": "finlife.fss.or.kr/installment/se…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금융상품 통합 비교공시 시스템\nhttps://t.co/GEG2D533gN\n\n#금감원 #예금 #적금 #minfav"
+	},
+	{
+		"created_at": "Wed Apr 15 20:17:20 +0000 2020",
+		"id": 1250409948384841700,
+		"id_str": "1250518591230767104",
+		"full_text": "https://t.co/VfkNG9Pbpn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250409946597986300,
+					"id_str": "1250409946597986306",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EVpZOLKWkAIvEnX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVpZOLKWkAIvEnX.jpg",
+					"url": "https://t.co/VfkNG9Pbpn",
+					"display_url": "pic.twitter.com/VfkNG9Pbpn",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1250409948384841728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1126,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250409946597986300,
+					"id_str": "1250409946597986306",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EVpZOLKWkAIvEnX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVpZOLKWkAIvEnX.jpg",
+					"url": "https://t.co/VfkNG9Pbpn",
+					"display_url": "pic.twitter.com/VfkNG9Pbpn",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1250409948384841728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1126,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://yoona.soshistagram.com\" rel=\"nofollow\">Yoongstagram</a>",
+		"in_reply_to_status_id": 1250409943787876400,
+		"in_reply_to_status_id_str": "1250409943787876356",
+		"in_reply_to_user_id": 2446652564,
+		"in_reply_to_user_id_str": "2446652564",
+		"in_reply_to_screen_name": "yoongstagrm",
+		"user": {
+			"id": 2446652564,
+			"id_str": "2446652564",
+			"name": "Yoongstagram",
+			"screen_name": "yoongstagrm",
+			"location": "",
+			"description": "Bot tweeting Yoona's updates and comments on Instagram. Built by @thegoguma. Also @yulstagrm @seostagrm @miyoungstagram @syoungstagram @sicafeed",
+			"url": "https://t.co/4tDvSU72JC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4tDvSU72JC",
+							"expanded_url": "https://yoongstagrm.tumblr.com/",
+							"display_url": "yoongstagrm.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39435,
+			"friends_count": 0,
+			"listed_count": 733,
+			"created_at": "Wed Apr 16 06:13:24 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 509,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/VfkNG9Pbpn"
+	},
+	{
+		"created_at": "Wed Apr 15 20:17:18 +0000 2020",
+		"id": 1250409943787876400,
+		"id_str": "1250518581697105920",
+		"full_text": "[INSTAGRAM CAROUSEL] yoona__lim: The best homemade pizza bread ever made😝\n#피자빵 👩🏻‍🍳 https://t.co/JxBN8JqQGZ (1P+1V) #yoongstagram https://t.co/FdhCgZPduM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "피자빵",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "yoongstagram",
+					"indices": [
+						116,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JxBN8JqQGZ",
+					"expanded_url": "https://www.instagram.com/p/B_AKbjQH4l0/",
+					"display_url": "instagram.com/p/B_AKbjQH4l0/",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250409908052377600,
+					"id_str": "1250409908052377601",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250409908052377601/pu/img/IffVUuV6gvgu4N0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250409908052377601/pu/img/IffVUuV6gvgu4N0f.jpg",
+					"url": "https://t.co/FdhCgZPduM",
+					"display_url": "pic.twitter.com/FdhCgZPduM",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1250409943787876356/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250409908052377600,
+					"id_str": "1250409908052377601",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250409908052377601/pu/img/IffVUuV6gvgu4N0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250409908052377601/pu/img/IffVUuV6gvgu4N0f.jpg",
+					"url": "https://t.co/FdhCgZPduM",
+					"display_url": "pic.twitter.com/FdhCgZPduM",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1250409943787876356/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24467,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250409908052377601/pu/vid/480x480/2AU5OQFChZL2dEJa.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250409908052377601/pu/vid/720x720/r9hzdnaYp0fOBM1K.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250409908052377601/pu/vid/320x320/ri--kAD5ZsmQUJgx.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250409908052377601/pu/pl/Ksmr_riY7nij8CyA.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://yoona.soshistagram.com\" rel=\"nofollow\">Yoongstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2446652564,
+			"id_str": "2446652564",
+			"name": "Yoongstagram",
+			"screen_name": "yoongstagrm",
+			"location": "",
+			"description": "Bot tweeting Yoona's updates and comments on Instagram. Built by @thegoguma. Also @yulstagrm @seostagrm @miyoungstagram @syoungstagram @sicafeed",
+			"url": "https://t.co/4tDvSU72JC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4tDvSU72JC",
+							"expanded_url": "https://yoongstagrm.tumblr.com/",
+							"display_url": "yoongstagrm.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39435,
+			"friends_count": 0,
+			"listed_count": 733,
+			"created_at": "Wed Apr 16 06:13:24 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1658,
+		"favorite_count": 1426,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[INSTAGRAM CAROUSEL] yoona__lim: The best homemade pizza bread ever made😝\n#피자빵 👩🏻‍🍳 https://t.co/JxBN8JqQGZ (1P+1V) #yoongstagram https://t.co/FdhCgZPduM"
+	},
+	{
+		"created_at": "Wed Apr 15 20:16:53 +0000 2020",
+		"id": 1250393435250364400,
+		"id_str": "1250518480337506304",
+		"full_text": "세월호 참사 6주기를 맞아 경기도교육청이 희생 학생과 교원을 추모하는 사이렌을 1분간 울립니다. #KBS뉴스 #KBS https://t.co/kvmQXVabtQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						61,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kvmQXVabtQ",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=4425557",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418156,
+			"friends_count": 108977,
+			"listed_count": 4842,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249945643478466560/9ZNS67RX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249945643478466560/9ZNS67RX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1586845561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5753,
+		"favorite_count": 1096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세월호 참사 6주기를 맞아 경기도교육청이 희생 학생과 교원을 추모하는 사이렌을 1분간 울립니다. #KBS뉴스 #KBS https://t.co/kvmQXVabtQ"
+	},
+	{
+		"created_at": "Wed Apr 15 20:13:38 +0000 2020",
+		"id": 1250438872799907800,
+		"id_str": "1250517660627955714",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nMV Player ver. group teaser\n \nComing Soon 2020. 04. 27\n \n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/y1YVOT8QLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250438860552601600,
+					"id_str": "1250438860552601605",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EVpzhMCVAAUEALo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVpzhMCVAAUEALo.jpg",
+					"url": "https://t.co/y1YVOT8QLP",
+					"display_url": "pic.twitter.com/y1YVOT8QLP",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1250438872799907846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250438860552601600,
+					"id_str": "1250438860552601605",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EVpzhMCVAAUEALo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVpzhMCVAAUEALo.jpg",
+					"url": "https://t.co/y1YVOT8QLP",
+					"display_url": "pic.twitter.com/y1YVOT8QLP",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1250438872799907846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128147,
+			"friends_count": 3,
+			"listed_count": 1698,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11342,
+		"favorite_count": 15719,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nMV Player ver. group teaser\n \nComing Soon 2020. 04. 27\n \n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/y1YVOT8QLP"
+	},
+	{
 		"created_at": "Wed Apr 15 15:07:37 +0000 2020",
 		"id": 1250440649083510800,
 		"id_str": "1250440649083510792",
