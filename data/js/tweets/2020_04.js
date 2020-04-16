@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 09:57:53 +0000 2020",
+		"id": 1250710523324190700,
+		"id_str": "1250725089173139457",
+		"full_text": "#히든트랙2 #이달의소녀 편 \n이보다 멋있을 순 없다! 무대 뿌셔!!!! #So_What #위성\n\n걸크러쉬한 매력으로 오빛들의 마음을 설레게 한 이달소! #안보면…#후회할껄?😈\n\n히든트랙2 'So What&amp;위성' 무대 보러가기 : https://t.co/rmFOZkgB01\nhttps://t.co/FWO0O8kIAW\n\n※ #Seezn 앱에서도 시청 가능!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "히든트랙2",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "So_What",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "위성",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "안보면",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "후회할껄",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						184,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rmFOZkgB01",
+					"expanded_url": "https://youtu.be/6SANSckYSes",
+					"display_url": "youtu.be/6SANSckYSes",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/FWO0O8kIAW",
+					"expanded_url": "https://youtu.be/21p3A5Ra_o4",
+					"display_url": "youtu.be/21p3A5Ra_o4",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1169838951663669200,
+			"id_str": "1169838951663669249",
+			"name": "히든트랙2(Hidden Track2)",
+			"screen_name": "HiddenTrack8",
+			"location": "",
+			"description": "팬심 저격 뮤직 라이브 토크쇼",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 15,
+			"listed_count": 8,
+			"created_at": "Fri Sep 06 05:05:24 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169838951663669249/1584509892",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#히든트랙2 #이달의소녀 편 \n이보다 멋있을 순 없다! 무대 뿌셔!!!! #So_What #위성\n\n걸크러쉬한 매력으로 오빛들의 마음을 설레게 한 이달소! #안보면…#후회할껄?😈\n\n히든트랙2 'So What&amp;위성' 무대 보러가기 : https://t.co/rmFOZkgB01\nhttps://t.co/FWO0O8kIAW\n\n※ #Seezn 앱에서도 시청 가능!"
+	},
+	{
+		"created_at": "Thu Apr 16 09:57:52 +0000 2020",
+		"id": 1250710522384855000,
+		"id_str": "1250725084563517441",
+		"full_text": "#오빛 분들! #이달소 히든트랙2 재미있게 보셨나요? 이달소가 히든트랙을 뿌시고 갔죠?😜\n\n혹시 못 본 오빛들을 위해 준비했어요~\n갠소각 이달소 예능감 모음 zip\n\n#히든트랙2 이달의 소녀 편 하이라이트 보러가기 : https://t.co/doVtfNne22\n\n※ #Seezn 앱에서도 시청 가능!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오빛",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "히든트랙2",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/doVtfNne22",
+					"expanded_url": "https://youtu.be/3q1ixI8Z92A",
+					"display_url": "youtu.be/3q1ixI8Z92A",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1169838951663669200,
+			"id_str": "1169838951663669249",
+			"name": "히든트랙2(Hidden Track2)",
+			"screen_name": "HiddenTrack8",
+			"location": "",
+			"description": "팬심 저격 뮤직 라이브 토크쇼",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 15,
+			"listed_count": 8,
+			"created_at": "Fri Sep 06 05:05:24 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169838951663669249/1584509892",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오빛 분들! #이달소 히든트랙2 재미있게 보셨나요? 이달소가 히든트랙을 뿌시고 갔죠?😜\n\n혹시 못 본 오빛들을 위해 준비했어요~\n갠소각 이달소 예능감 모음 zip\n\n#히든트랙2 이달의 소녀 편 하이라이트 보러가기 : https://t.co/doVtfNne22\n\n※ #Seezn 앱에서도 시청 가능!"
+	},
+	{
+		"created_at": "Thu Apr 16 09:57:10 +0000 2020",
+		"id": 1250724910223196200,
+		"id_str": "1250724910223196160",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 2019 코첼라 풀영상 공개…”레전드 무대”\nhttps://t.co/SBqEyAPrly\n#블랙핑크 #BLACKPINK https://t.co/JNRsoIcCnv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SBqEyAPrly",
+					"expanded_url": "https://yg-life.com/archives/154157?lang=ko",
+					"display_url": "yg-life.com/archives/15415…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250724908818104300,
+					"id_str": "1250724908818104326",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EVt3rY3WAAYLNu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVt3rY3WAAYLNu6.jpg",
+					"url": "https://t.co/JNRsoIcCnv",
+					"display_url": "pic.twitter.com/JNRsoIcCnv",
+					"expanded_url": "https://twitter.com/fromminn/status/1250724910223196160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 807,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250724908818104300,
+					"id_str": "1250724908818104326",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EVt3rY3WAAYLNu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVt3rY3WAAYLNu6.jpg",
+					"url": "https://t.co/JNRsoIcCnv",
+					"display_url": "pic.twitter.com/JNRsoIcCnv",
+					"expanded_url": "https://twitter.com/fromminn/status/1250724910223196160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 807,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 915,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 2019 코첼라 풀영상 공개…”레전드 무대”\nhttps://t.co/SBqEyAPrly\n#블랙핑크 #BLACKPINK https://t.co/JNRsoIcCnv"
+	},
+	{
 		"created_at": "Thu Apr 16 08:36:10 +0000 2020",
 		"id": 1250704523401867300,
 		"id_str": "1250704523401867266",
