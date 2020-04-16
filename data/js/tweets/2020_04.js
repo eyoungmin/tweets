@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 05:58:49 +0000 2020",
+		"id": 1250605837342498800,
+		"id_str": "1250664926730792962",
+		"full_text": "한 번 보면 누구나 반하는, 2020년 제품 디자인 트렌드\nhttps://t.co/HGtRjP5HjN\n\n5. 맥시멀리즘과 무거워진 디자인 패키징\n\n“사람들은 언제나 약간의 사치와 아름다움을 원합니다. 시대가 어려워지면, 이런 경향이 더욱 강하게 나타납니다.” https://t.co/iduEoVSjyD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGtRjP5HjN",
+					"expanded_url": "http://ppss.kr/archives/215223",
+					"display_url": "ppss.kr/archives/215223",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250605827787899000,
+					"id_str": "1250605827787898880",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsLX9dUwAArwlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsLX9dUwAArwlw.jpg",
+					"url": "https://t.co/iduEoVSjyD",
+					"display_url": "pic.twitter.com/iduEoVSjyD",
+					"expanded_url": "https://twitter.com/ppsskr/status/1250605837342498821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250605827787899000,
+					"id_str": "1250605827787898880",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsLX9dUwAArwlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsLX9dUwAArwlw.jpg",
+					"url": "https://t.co/iduEoVSjyD",
+					"display_url": "pic.twitter.com/iduEoVSjyD",
+					"expanded_url": "https://twitter.com/ppsskr/status/1250605837342498821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992831082,
+			"id_str": "992831082",
+			"name": "ㅍㅍㅅㅅ",
+			"screen_name": "ppsskr",
+			"location": "",
+			"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+			"url": "http://t.co/22eKl3pLgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/22eKl3pLgd",
+							"expanded_url": "http://ppss.kr",
+							"display_url": "ppss.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237336,
+			"friends_count": 111,
+			"listed_count": 492,
+			"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+			"favourites_count": 1778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 72,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 번 보면 누구나 반하는, 2020년 제품 디자인 트렌드\nhttps://t.co/HGtRjP5HjN\n\n5. 맥시멀리즘과 무거워진 디자인 패키징\n\n“사람들은 언제나 약간의 사치와 아름다움을 원합니다. 시대가 어려워지면, 이런 경향이 더욱 강하게 나타납니다.” https://t.co/iduEoVSjyD"
+	},
+	{
+		"created_at": "Thu Apr 16 05:57:11 +0000 2020",
+		"id": 1250596531058565000,
+		"id_str": "1250664515550670848",
+		"full_text": "flip - 웹용 플립 시계 &amp; 카운터 라이브러리 https://t.co/2kbFoRavn8 \n- 숫자가 떨어지는 플립시계 플러그인\n- 카운트 다운, 시계등에 사용\n- 의존성 없음, 반응형/모바일, 빠른 애니메이션\n- 서버 시간 동기화\n- 초당 여러번 변경 및 겹치기 가능\n- 타이머 알고리듬이 JS setInterval d...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2kbFoRavn8",
+					"expanded_url": "https://j.mp/2Vd0iax",
+					"display_url": "j.mp/2Vd0iax",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2719,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "flip - 웹용 플립 시계 &amp; 카운터 라이브러리 https://t.co/2kbFoRavn8 \n- 숫자가 떨어지는 플립시계 플러그인\n- 카운트 다운, 시계등에 사용\n- 의존성 없음, 반응형/모바일, 빠른 애니메이션\n- 서버 시간 동기화\n- 초당 여러번 변경 및 겹치기 가능\n- 타이머 알고리듬이 JS setInterval d..."
+	},
+	{
 		"created_at": "Thu Apr 16 04:44:11 +0000 2020",
 		"id": 1250646143790248000,
 		"id_str": "1250646143790247937",
