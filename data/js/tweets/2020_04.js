@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 13:51:11 +0000 2020",
+		"id": 1249873285879390200,
+		"id_str": "1250783800927219715",
+		"full_text": "만 이틀간 1,989명의 동의를 얻은 최종 성명서를 게시합니다. \n하이라이트 팬 일동은 허위사실을 유포한 국민의당에게 책임감 있는 태도를 강력히 요구합니다.\n\n@ent_aroundus @HIGHLIGHT_AUent\n#하이라이트 #윤두준 #양요섭 #이기광 #손동운 https://t.co/l79HG7FbZl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하이라이트",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "윤두준",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "양요섭",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "손동운",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ent_aroundus",
+					"name": "Around US Ent.",
+					"id": 1060078451862855700,
+					"id_str": "1060078451862855680",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						103,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249873024146440200,
+					"id_str": "1249873024146440197",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVhw5LKXgAUoFOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVhw5LKXgAUoFOg.jpg",
+					"url": "https://t.co/l79HG7FbZl",
+					"display_url": "pic.twitter.com/l79HG7FbZl",
+					"expanded_url": "https://twitter.com/FanOfHL/status/1249873285879390209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1293,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249873024146440200,
+					"id_str": "1249873024146440197",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVhw5LKXgAUoFOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVhw5LKXgAUoFOg.jpg",
+					"url": "https://t.co/l79HG7FbZl",
+					"display_url": "pic.twitter.com/l79HG7FbZl",
+					"expanded_url": "https://twitter.com/FanOfHL/status/1249873285879390209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1293,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1248966087594647600,
+			"id_str": "1248966087594647561",
+			"name": "하이라이트 팬 일동",
+			"screen_name": "FanOfHL",
+			"location": "허위사실을 유포한 국민의당에 책임 있는 태도를 요구한다",
+			"description": "위드기광 울기광 하이라이트갤러리 이기광달글  하이라이트달글과 연대합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Sat Apr 11 13:28:34 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248972306778591232/8h5M5iIQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248972306778591232/8h5M5iIQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1248966087594647561/1586613177",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 535,
+		"favorite_count": 287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "만 이틀간 1,989명의 동의를 얻은 최종 성명서를 게시합니다. \n하이라이트 팬 일동은 허위사실을 유포한 국민의당에게 책임감 있는 태도를 강력히 요구합니다.\n\n@ent_aroundus @HIGHLIGHT_AUent\n#하이라이트 #윤두준 #양요섭 #이기광 #손동운 https://t.co/l79HG7FbZl"
+	},
+	{
 		"created_at": "Thu Apr 16 12:52:03 +0000 2020",
 		"id": 1250768918991581200,
 		"id_str": "1250768918991581184",
