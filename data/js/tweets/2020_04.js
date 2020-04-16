@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 11:41:42 +0000 2020",
+		"id": 1250732941262520300,
+		"id_str": "1250751215161368578",
+		"full_text": "그리고 음원 소개글 쓸 때는 자기 멋대로 쓰지 말고 진짜로 아무 것도 모르는 이가 음악과 소개글을 보고 끌릴 수 있는지 생각하고 쓰세요. 조금이라도 듣는 사람이 흥미를 갖고 공감할 수 있는 표현을 사용하고 음악에 정말 자신 있다면 조금의 과장도 괜찮습니다. 일단 듣게 만들어야 하잖아요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1250731360005714000,
+		"in_reply_to_status_id_str": "1250731360005713920",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5161,
+			"friends_count": 1207,
+			"listed_count": 96,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 7241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 음원 소개글 쓸 때는 자기 멋대로 쓰지 말고 진짜로 아무 것도 모르는 이가 음악과 소개글을 보고 끌릴 수 있는지 생각하고 쓰세요. 조금이라도 듣는 사람이 흥미를 갖고 공감할 수 있는 표현을 사용하고 음악에 정말 자신 있다면 조금의 과장도 괜찮습니다. 일단 듣게 만들어야 하잖아요."
+	},
+	{
 		"created_at": "Thu Apr 16 10:54:04 +0000 2020",
 		"id": 1250739227744141300,
 		"id_str": "1250739227744141313",
