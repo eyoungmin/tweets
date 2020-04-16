@@ -1,6 +1,1733 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 15:00:45 +0000 2020",
+		"id": 1250801309587894300,
+		"id_str": "1250801309587894274",
+		"full_text": "최강창민 솔로에 대해 코멘트를 하고 싶은데 어떻게 표현해야할지 어떤 부분인지 정확하기 꼬집어 말하기 어려웠는데 이번에 올라온 유튜브 영상을 보니 알겠다. 그리고 스엠이 뭘 해보고 싶었는지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 915,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "최강창민 솔로에 대해 코멘트를 하고 싶은데 어떻게 표현해야할지 어떤 부분인지 정확하기 꼬집어 말하기 어려웠는데 이번에 올라온 유튜브 영상을 보니 알겠다. 그리고 스엠이 뭘 해보고 싶었는지."
+	},
+	{
+		"created_at": "Thu Apr 16 14:51:25 +0000 2020",
+		"id": 1250272815787307000,
+		"id_str": "1250798959393599488",
+		"full_text": "This is what you need 🍫\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/EUyukElNrP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250219380845056000,
+					"id_str": "1250219380845056000",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EVmr5yaUEAAWB5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVmr5yaUEAAWB5j.jpg",
+					"url": "https://t.co/EUyukElNrP",
+					"display_url": "pic.twitter.com/EUyukElNrP",
+					"expanded_url": "https://twitter.com/TVXQ/status/1250272815787307008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250219380845056000,
+					"id_str": "1250219380845056000",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EVmr5yaUEAAWB5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVmr5yaUEAAWB5j.jpg",
+					"url": "https://t.co/EUyukElNrP",
+					"display_url": "pic.twitter.com/EUyukElNrP",
+					"expanded_url": "https://twitter.com/TVXQ/status/1250272815787307008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250219382023680000,
+					"id_str": "1250219382023680000",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EVmr52zUcAAgfr1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVmr52zUcAAgfr1.jpg",
+					"url": "https://t.co/EUyukElNrP",
+					"display_url": "pic.twitter.com/EUyukElNrP",
+					"expanded_url": "https://twitter.com/TVXQ/status/1250272815787307008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250219385156857900,
+					"id_str": "1250219385156857856",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EVmr6CeU8AAntjm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVmr6CeU8AAntjm.jpg",
+					"url": "https://t.co/EUyukElNrP",
+					"display_url": "pic.twitter.com/EUyukElNrP",
+					"expanded_url": "https://twitter.com/TVXQ/status/1250272815787307008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268927,
+			"friends_count": 1,
+			"listed_count": 942,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4162,
+		"favorite_count": 10261,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what you need 🍫\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/EUyukElNrP"
+	},
+	{
+		"created_at": "Thu Apr 16 14:51:15 +0000 2020",
+		"id": 1250016006530928600,
+		"id_str": "1250798917622497280",
+		"full_text": "[Focus Cam] MAX 최강창민 'Chocolate' (Spy Ver.) @ MAX THE STAGE\n\n👉🏻https://t.co/WYifNkMo3o\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						133,
+						148
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WYifNkMo3o",
+					"expanded_url": "https://youtu.be/yX3rjpOywXE",
+					"display_url": "youtu.be/yX3rjpOywXE",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268927,
+			"friends_count": 1,
+			"listed_count": 942,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2422,
+		"favorite_count": 4869,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Focus Cam] MAX 최강창민 'Chocolate' (Spy Ver.) @ MAX THE STAGE\n\n👉🏻https://t.co/WYifNkMo3o\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate"
+	},
+	{
+		"created_at": "Thu Apr 16 14:51:13 +0000 2020",
+		"id": 1250016177859883000,
+		"id_str": "1250798908202119168",
+		"full_text": "[Focus Cam] MAX 최강창민 'Chocolate' (Lupin Ver.) @ MAX THE STAGE\n\n👉🏻https://t.co/buY3vDjpIZ\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						135,
+						150
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/buY3vDjpIZ",
+					"expanded_url": "https://youtu.be/l97aIqU1BSM",
+					"display_url": "youtu.be/l97aIqU1BSM",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268927,
+			"friends_count": 1,
+			"listed_count": 942,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2292,
+		"favorite_count": 4546,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Focus Cam] MAX 최강창민 'Chocolate' (Lupin Ver.) @ MAX THE STAGE\n\n👉🏻https://t.co/buY3vDjpIZ\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate"
+	},
+	{
+		"created_at": "Thu Apr 16 14:51:02 +0000 2020",
+		"id": 1250016427743932400,
+		"id_str": "1250798862538641408",
+		"full_text": "[Eye Contact Cam] MAX 최강창민 'Chocolate' (Lupin Ver.) @ MAX THE STAGE\n\n👉🏻https://t.co/PhXO8PxWYn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						126,
+						140
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						141,
+						156
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						157,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PhXO8PxWYn",
+					"expanded_url": "https://youtu.be/wv3ewNklUzg",
+					"display_url": "youtu.be/wv3ewNklUzg",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268927,
+			"friends_count": 1,
+			"listed_count": 942,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2466,
+		"favorite_count": 4904,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Eye Contact Cam] MAX 최강창민 'Chocolate' (Lupin Ver.) @ MAX THE STAGE\n\n👉🏻https://t.co/PhXO8PxWYn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate"
+	},
+	{
+		"created_at": "Thu Apr 16 14:51:00 +0000 2020",
+		"id": 1250016350006886400,
+		"id_str": "1250798853466451968",
+		"full_text": "[Eye Contact Cam] MAX 최강창민 'Chocolate' (Spy Ver.) @ MAX THE STAGE\n\n👉🏻https://t.co/8IiVDr54HV\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						124,
+						138
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						155,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8IiVDr54HV",
+					"expanded_url": "https://youtu.be/wIABn2DK3lo",
+					"display_url": "youtu.be/wIABn2DK3lo",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268927,
+			"friends_count": 1,
+			"listed_count": 942,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2416,
+		"favorite_count": 4783,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Eye Contact Cam] MAX 최강창민 'Chocolate' (Spy Ver.) @ MAX THE STAGE\n\n👉🏻https://t.co/8IiVDr54HV\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate"
+	},
+	{
+		"created_at": "Thu Apr 16 14:49:01 +0000 2020",
+		"id": 1250528521878794200,
+		"id_str": "1250798355640225793",
+		"full_text": "재발 금지 3법:\n-성적 촬영물을 이용해 협박하는 행위를 형법상 특수협박죄로 처벌하고 상습범 가중처벌\n-불법 촬영물/복제물을 스마트폰 등 휴대용 단말기/컴퓨터에 다운로드받거나 본인의 의사에 반해 유포할 경우 처벌\n-불법 촬영물에 조치를 취하지 않은 정보통신서비스 제공자 처벌.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1250528057246363600,
+		"in_reply_to_status_id_str": "1250528057246363649",
+		"in_reply_to_user_id": 132167437,
+		"in_reply_to_user_id_str": "132167437",
+		"in_reply_to_screen_name": "mediapark1999",
+		"user": {
+			"id": 132167437,
+			"id_str": "132167437",
+			"name": "박병호 (Byungho Park)",
+			"screen_name": "mediapark1999",
+			"location": "Seoul, Korea",
+			"description": "KAIST 경영대학 교수 (& 문화기술대학원 겸임교수)\n연구분야:경영심리학,뉴로마케팅,광고&홍보\n* KAIST 경영대학은 서울(홍릉;고려대&경희대 사이)에 위치.",
+			"url": "https://t.co/kG9PjYxrRw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kG9PjYxrRw",
+							"expanded_url": "http://sites.google.com/site/mediapark70/Home",
+							"display_url": "sites.google.com/site/mediapark…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 3513,
+			"listed_count": 190,
+			"created_at": "Mon Apr 12 13:27:20 +0000 2010",
+			"favourites_count": 21738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124784264/ByunghoPark_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124784264/ByunghoPark_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1254,
+		"favorite_count": 228,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "재발 금지 3법:\n-성적 촬영물을 이용해 협박하는 행위를 형법상 특수협박죄로 처벌하고 상습범 가중처벌\n-불법 촬영물/복제물을 스마트폰 등 휴대용 단말기/컴퓨터에 다운로드받거나 본인의 의사에 반해 유포할 경우 처벌\n-불법 촬영물에 조치를 취하지 않은 정보통신서비스 제공자 처벌."
+	},
+	{
+		"created_at": "Thu Apr 16 14:48:52 +0000 2020",
+		"id": 1250528057246363600,
+		"id_str": "1250798318923313158",
+		"full_text": "민주당 여성 의원들은 \"n번방 사건 재발금지 3법 발의를 선언한다\"고 밝혔다. \n이들은 \"20대 국회의 마지막 책무라고 생각하고 국회 통과를 강력히 촉구하고 이끌어내겠다\"라며 법안을 20대 국회 안에 처리하겠다고 밝혔다.\n→ 민주당 여성의원들 'n번방 3법' 발의 https://t.co/DUf45u1y0f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DUf45u1y0f",
+					"expanded_url": "http://www.womennews.co.kr/news/articleView.html?idxno=197400",
+					"display_url": "womennews.co.kr/news/articleVi…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132167437,
+			"id_str": "132167437",
+			"name": "박병호 (Byungho Park)",
+			"screen_name": "mediapark1999",
+			"location": "Seoul, Korea",
+			"description": "KAIST 경영대학 교수 (& 문화기술대학원 겸임교수)\n연구분야:경영심리학,뉴로마케팅,광고&홍보\n* KAIST 경영대학은 서울(홍릉;고려대&경희대 사이)에 위치.",
+			"url": "https://t.co/kG9PjYxrRw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kG9PjYxrRw",
+							"expanded_url": "http://sites.google.com/site/mediapark70/Home",
+							"display_url": "sites.google.com/site/mediapark…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 3513,
+			"listed_count": 190,
+			"created_at": "Mon Apr 12 13:27:20 +0000 2010",
+			"favourites_count": 21738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124784264/ByunghoPark_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124784264/ByunghoPark_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9240,
+		"favorite_count": 2148,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "민주당 여성 의원들은 \"n번방 사건 재발금지 3법 발의를 선언한다\"고 밝혔다. \n이들은 \"20대 국회의 마지막 책무라고 생각하고 국회 통과를 강력히 촉구하고 이끌어내겠다\"라며 법안을 20대 국회 안에 처리하겠다고 밝혔다.\n→ 민주당 여성의원들 'n번방 3법' 발의 https://t.co/DUf45u1y0f"
+	},
+	{
+		"created_at": "Thu Apr 16 14:40:42 +0000 2020",
+		"id": 1250257645161681000,
+		"id_str": "1250796264049922048",
+		"full_text": "MAX 최강창민 'Me, Myself &amp; I' Special Video\n\n👉 https://t.co/rfKgSE3BSv\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						117,
+						132
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						133,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rfKgSE3BSv",
+					"expanded_url": "https://youtu.be/o6AYn9RHoj4",
+					"display_url": "youtu.be/o6AYn9RHoj4",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268927,
+			"friends_count": 1,
+			"listed_count": 942,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3363,
+		"favorite_count": 6053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 'Me, Myself &amp; I' Special Video\n\n👉 https://t.co/rfKgSE3BSv\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate"
+	},
+	{
+		"created_at": "Thu Apr 16 14:40:28 +0000 2020",
+		"id": 1250796203375239200,
+		"id_str": "1250796203375239170",
+		"full_text": "우효 OOHYO - 민들레 Dandelion Cover Event\nhttps://t.co/VuymBzqDi2\n#우효 #OOHYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우효",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "OOHYO",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VuymBzqDi2",
+					"expanded_url": "https://youtu.be/h_x4r8eutEE",
+					"display_url": "youtu.be/h_x4r8eutEE",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 915,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우효 OOHYO - 민들레 Dandelion Cover Event\nhttps://t.co/VuymBzqDi2\n#우효 #OOHYO"
+	},
+	{
+		"created_at": "Thu Apr 16 14:20:25 +0000 2020",
+		"id": 1248053088876986400,
+		"id_str": "1250791157350588426",
+		"full_text": "『이수정 이다혜의 범죄 영화 프로파일』이 출간되었습니다. 범죄 심리학자 이수정 박사는 “범죄를 엔터테인먼트로 소비하는 매체는 관심 없습니다. 여성이나 아동 같은 피해자의 입장에서 범죄 영화를 다룬다면 모르겠습니다만.”라고 말하며 방송의 방향성을 '피해자 중심’으로 확고히 했습니다. https://t.co/sTx6rsY5To",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248053084133130200,
+					"id_str": "1248053084133130242",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EVH5quSWAAIB6O8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVH5quSWAAIB6O8.jpg",
+					"url": "https://t.co/sTx6rsY5To",
+					"display_url": "pic.twitter.com/sTx6rsY5To",
+					"expanded_url": "https://twitter.com/minumsa_books/status/1248053088876986368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1969,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248053084133130200,
+					"id_str": "1248053084133130242",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EVH5quSWAAIB6O8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVH5quSWAAIB6O8.jpg",
+					"url": "https://t.co/sTx6rsY5To",
+					"display_url": "pic.twitter.com/sTx6rsY5To",
+					"expanded_url": "https://twitter.com/minumsa_books/status/1248053088876986368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1969,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132053058,
+			"id_str": "132053058",
+			"name": "minumsa_books",
+			"screen_name": "minumsa_books",
+			"location": "Shinsa-dong, Seoul",
+			"description": "민음사 공식 트위터. 세상을 지혜롭게 만드는 좋은 책을 함께 꿈꾸고 싶습니다.",
+			"url": "https://t.co/2qU63WgYGK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2qU63WgYGK",
+							"expanded_url": "http://youtube.com/c/minumsaTV",
+							"display_url": "youtube.com/c/minumsaTV",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421005,
+			"friends_count": 28375,
+			"listed_count": 1727,
+			"created_at": "Mon Apr 12 04:22:47 +0000 2010",
+			"favourites_count": 620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875543854836875264/vciIP0Qb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875543854836875264/vciIP0Qb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132053058/1586326513",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 292,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "『이수정 이다혜의 범죄 영화 프로파일』이 출간되었습니다. 범죄 심리학자 이수정 박사는 “범죄를 엔터테인먼트로 소비하는 매체는 관심 없습니다. 여성이나 아동 같은 피해자의 입장에서 범죄 영화를 다룬다면 모르겠습니다만.”라고 말하며 방송의 방향성을 '피해자 중심’으로 확고히 했습니다. https://t.co/sTx6rsY5To"
+	},
+	{
 		"created_at": "Thu Apr 16 13:51:11 +0000 2020",
 		"id": 1249873285879390200,
 		"id_str": "1250783800927219715",
