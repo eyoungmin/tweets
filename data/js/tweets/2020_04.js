@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 03:26:36 +0000 2020",
+		"id": 1250988361264672800,
+		"id_str": "1250989008785600514",
+		"full_text": "Kanboard - 오픈소스 칸반  https://t.co/qRiKkz4vAy \n- PHP + Sqlite|MySQL|Postgres \n- Task,SubTask,파일 첨부 및 코멘트 \n- Drag&amp;Drop,검색/필터링 \n- LDAP/AD 또는 OAuth2(구글,깃헙,깃랩등) 멀티 인증 백엔드 지원\n- 한국어 및 30개언어 지원\n- 다양한 플러그인 : S3,캘린더,채팅,깃...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qRiKkz4vAy",
+					"expanded_url": "https://j.mp/34FR0qS",
+					"display_url": "j.mp/34FR0qS",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2723,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Kanboard - 오픈소스 칸반  https://t.co/qRiKkz4vAy \n- PHP + Sqlite|MySQL|Postgres \n- Task,SubTask,파일 첨부 및 코멘트 \n- Drag&amp;Drop,검색/필터링 \n- LDAP/AD 또는 OAuth2(구글,깃헙,깃랩등) 멀티 인증 백엔드 지원\n- 한국어 및 30개언어 지원\n- 다양한 플러그인 : S3,캘린더,채팅,깃..."
+	},
+	{
+		"created_at": "Fri Apr 17 03:18:06 +0000 2020",
+		"id": 1250986871116542000,
+		"id_str": "1250986871116541952",
+		"full_text": "@seoulrain 좋은데 멀티디바이스 지원이 아쉽네요. 샌드애니웨어나 푸시불렛, 편하기는 텔레그램으로 그룹하나 만들어서 파일로 보내는게 젤 나은 것 같아요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoulrain",
+					"name": "서울비",
+					"id": 14941102,
+					"id_str": "14941102",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1250977293394161700,
+		"in_reply_to_status_id_str": "1250977293394161666",
+		"in_reply_to_user_id": 14941102,
+		"in_reply_to_user_id_str": "14941102",
+		"in_reply_to_screen_name": "seoulrain",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 915,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@seoulrain 좋은데 멀티디바이스 지원이 아쉽네요. 샌드애니웨어나 푸시불렛, 편하기는 텔레그램으로 그룹하나 만들어서 파일로 보내는게 젤 나은 것 같아요."
+	},
+	{
+		"created_at": "Fri Apr 17 03:15:20 +0000 2020",
+		"id": 1250665303115251700,
+		"id_str": "1250986173498978310",
+		"full_text": "\"엔번방이라는 처참한 사건의 경우, 불특정 가해자들에게 성적으로 착취당한 이들에게 언젠가는 당신들도 반드시 회복될 것이란 진심 어린 응원을 보내고 싶어요. 꼭 믿어주면 좋겠습니다.” https://t.co/Cbs73B5iED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cbs73B5iED",
+					"expanded_url": "http://ow.ly/InMn50zfsYM",
+					"display_url": "ow.ly/InMn50zfsYM",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132053058,
+			"id_str": "132053058",
+			"name": "minumsa_books",
+			"screen_name": "minumsa_books",
+			"location": "Shinsa-dong, Seoul",
+			"description": "민음사 공식 트위터. 세상을 지혜롭게 만드는 좋은 책을 함께 꿈꾸고 싶습니다.",
+			"url": "https://t.co/2qU63WgYGK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2qU63WgYGK",
+							"expanded_url": "http://youtube.com/c/minumsaTV",
+							"display_url": "youtube.com/c/minumsaTV",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420968,
+			"friends_count": 28370,
+			"listed_count": 1725,
+			"created_at": "Mon Apr 12 04:22:47 +0000 2010",
+			"favourites_count": 621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875543854836875264/vciIP0Qb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875543854836875264/vciIP0Qb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132053058/1586326513",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1195,
+		"favorite_count": 602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"엔번방이라는 처참한 사건의 경우, 불특정 가해자들에게 성적으로 착취당한 이들에게 언젠가는 당신들도 반드시 회복될 것이란 진심 어린 응원을 보내고 싶어요. 꼭 믿어주면 좋겠습니다.” https://t.co/Cbs73B5iED"
+	},
+	{
 		"created_at": "Fri Apr 17 03:00:18 +0000 2020",
 		"id": 1250982391348367400,
 		"id_str": "1250982391348367361",
