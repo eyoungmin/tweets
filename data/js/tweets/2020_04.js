@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 08:24:32 +0000 2020",
+		"id": 1251057977118748700,
+		"id_str": "1251063983752253440",
+		"full_text": "#슬로워크의_일 &lt;서울신용보증재단 브랜드 북&gt;\n창립 20주년을 맞이한 재단의 과거와 현재를 정리하고, 새로운 비전에 맞는 정체성과 전략을 개발, 브랜드 아이덴티티로 확장시켜 재단 구성원과 소기업·소상공인이 서로 이해하고 공감할 수 있는 브랜드 북을 제작하였습니다.\nhttps://t.co/0JTJFE4tVG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로워크의_일",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0JTJFE4tVG",
+					"expanded_url": "https://slowalk.co.kr/archives/portfolio/30",
+					"display_url": "slowalk.co.kr/archives/portf…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4909,
+			"friends_count": 3414,
+			"listed_count": 225,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬로워크의_일 &lt;서울신용보증재단 브랜드 북&gt;\n창립 20주년을 맞이한 재단의 과거와 현재를 정리하고, 새로운 비전에 맞는 정체성과 전략을 개발, 브랜드 아이덴티티로 확장시켜 재단 구성원과 소기업·소상공인이 서로 이해하고 공감할 수 있는 브랜드 북을 제작하였습니다.\nhttps://t.co/0JTJFE4tVG"
+	},
+	{
 		"created_at": "Fri Apr 17 07:56:10 +0000 2020",
 		"id": 1251056848343642000,
 		"id_str": "1251056848343642112",
