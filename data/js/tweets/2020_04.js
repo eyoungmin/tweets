@@ -1,6 +1,1146 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 04:42:39 +0000 2020",
+		"id": 1251370534941540400,
+		"id_str": "1251370534941540352",
+		"full_text": "좋은 매니저는 누구인가\nhttps://t.co/MMmWUwQYn5\n\n#임백준 #테크니컬매니저\n#스타트업 #기업문화 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임백준",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "테크니컬매니저",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "기업문화",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MMmWUwQYn5",
+					"expanded_url": "https://m.hanbit.co.kr//channel/category/category_view.html?cms_code=CMS6281688150",
+					"display_url": "m.hanbit.co.kr//channel/categ…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 915,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "좋은 매니저는 누구인가\nhttps://t.co/MMmWUwQYn5\n\n#임백준 #테크니컬매니저\n#스타트업 #기업문화 #minfav"
+	},
+	{
+		"created_at": "Sat Apr 18 04:40:39 +0000 2020",
+		"id": 1251327114369855500,
+		"id_str": "1251370031696363521",
+		"full_text": "구글의 야심만만 핀테크 시나리오…”스마트 직불카드까지 개발” https://t.co/v486TNylPF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v486TNylPF",
+					"expanded_url": "http://www.bloter.net/archives/378285",
+					"display_url": "bloter.net/archives/378285",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55916,
+			"friends_count": 9,
+			"listed_count": 2490,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글의 야심만만 핀테크 시나리오…”스마트 직불카드까지 개발” https://t.co/v486TNylPF"
+	},
+	{
+		"created_at": "Sat Apr 18 04:28:18 +0000 2020",
+		"id": 1251361813549027300,
+		"id_str": "1251366924472053761",
+		"full_text": "44BITS의 '도커(Docker) 입문편: 컨테이너 기초부터 서버 배포까지' 2020년 현재 기준으로 리뉴얼하였습니다. #link #44bits #remind\nhttps://t.co/PWz3aJ88Q2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "link",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "44bits",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "remind",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PWz3aJ88Q2",
+					"expanded_url": "https://www.44bits.io/ko/post/easy-deploy-with-docker",
+					"display_url": "44bits.io/ko/post/easy-d…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166651117,
+			"id_str": "166651117",
+			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"screen_name": "fortyfourbits",
+			"location": "Republic of Korea",
+			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
+			"url": "https://t.co/9Ou3Dtkocu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Ou3Dtkocu",
+							"expanded_url": "https://www.44bits.io/ko",
+							"display_url": "44bits.io/ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1993,
+			"friends_count": 87,
+			"listed_count": 33,
+			"created_at": "Wed Jul 14 17:46:41 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "44BITS의 '도커(Docker) 입문편: 컨테이너 기초부터 서버 배포까지' 2020년 현재 기준으로 리뉴얼하였습니다. #link #44bits #remind\nhttps://t.co/PWz3aJ88Q2"
+	},
+	{
+		"created_at": "Sat Apr 18 04:17:24 +0000 2020",
+		"id": 1251155188963872800,
+		"id_str": "1251364178985533440",
+		"full_text": "추미애 법무부 장관, ‘성착취와의 전쟁’ 선포\n\n미성년자 의제강간 연령 13→16세 상향\n성범죄 모의만 해도 처벌 추진\n‘스토킹처벌법’·‘인신매매법’ 제정 추진\n아동·청소년 성착취물 소지도 신상공개\n\nhttps://t.co/lJbm5U3mRs https://t.co/qfh9aNqkA1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lJbm5U3mRs",
+					"expanded_url": "http://www.womennews.co.kr/news/198329",
+					"display_url": "womennews.co.kr/news/198329",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251155055467573200,
+					"id_str": "1251155055467573249",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EVz-5OAUMAEm4Ew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVz-5OAUMAEm4Ew.jpg",
+					"url": "https://t.co/qfh9aNqkA1",
+					"display_url": "pic.twitter.com/qfh9aNqkA1",
+					"expanded_url": "https://twitter.com/wnewskr/status/1251155188963872769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251155055467573200,
+					"id_str": "1251155055467573249",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EVz-5OAUMAEm4Ew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVz-5OAUMAEm4Ew.jpg",
+					"url": "https://t.co/qfh9aNqkA1",
+					"display_url": "pic.twitter.com/qfh9aNqkA1",
+					"expanded_url": "https://twitter.com/wnewskr/status/1251155188963872769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196608,
+			"friends_count": 3564,
+			"listed_count": 369,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9331,
+		"favorite_count": 2957,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추미애 법무부 장관, ‘성착취와의 전쟁’ 선포\n\n미성년자 의제강간 연령 13→16세 상향\n성범죄 모의만 해도 처벌 추진\n‘스토킹처벌법’·‘인신매매법’ 제정 추진\n아동·청소년 성착취물 소지도 신상공개\n\nhttps://t.co/lJbm5U3mRs https://t.co/qfh9aNqkA1"
+	},
+	{
+		"created_at": "Sat Apr 18 04:17:05 +0000 2020",
+		"id": 1251364100900221000,
+		"id_str": "1251364100900220930",
+		"full_text": "❝ 지난해 9월 소속사를 상대로 전속계약 효력정지 가처분 신청을 냈고, 신청이 기각된 후에도 활동 지원 소홀 및 수익금 배분 문제 등을 거론하며 본안소송을 진행하겠다는 의사를 밝힌 바 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1251363897241567200,
+		"in_reply_to_status_id_str": "1251363897241567234",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 915,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 지난해 9월 소속사를 상대로 전속계약 효력정지 가처분 신청을 냈고, 신청이 기각된 후에도 활동 지원 소홀 및 수익금 배분 문제 등을 거론하며 본안소송을 진행하겠다는 의사를 밝힌 바 있다."
+	},
+	{
+		"created_at": "Sat Apr 18 04:16:16 +0000 2020",
+		"id": 1251363897241567200,
+		"id_str": "1251363897241567234",
+		"full_text": "❝ 걸그룹 투애니원(2NE1) 출신 공민지가 전속계약을 둘러싼 소속사 더뮤직웍스와의 법적 분쟁을 마무리했다고 밝혔다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 915,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 걸그룹 투애니원(2NE1) 출신 공민지가 전속계약을 둘러싼 소속사 더뮤직웍스와의 법적 분쟁을 마무리했다고 밝혔다."
+	},
+	{
+		"created_at": "Sat Apr 18 04:12:06 +0000 2020",
+		"id": 1250953827500486700,
+		"id_str": "1251362846413172736",
+		"full_text": "앞으로는 공민지라는 이름에 어울리게 무대 위에서 더 밝고 당당한 모습으로 인사드리겠습니다. \n언제나 관심갖고 응원해주시는 팬 분들과도 \n더 자주 소통하겠습니다!! 감사합니다^^ https://t.co/OKQ6h4ohpN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250953810358317000,
+					"id_str": "1250953810358317057",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EVxH3NjUMAEIyQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVxH3NjUMAEIyQS.jpg",
+					"url": "https://t.co/OKQ6h4ohpN",
+					"display_url": "pic.twitter.com/OKQ6h4ohpN",
+					"expanded_url": "https://twitter.com/mingkki21/status/1250953827500486656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1392,
+							"h": 928,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250953810358317000,
+					"id_str": "1250953810358317057",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EVxH3NjUMAEIyQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVxH3NjUMAEIyQS.jpg",
+					"url": "https://t.co/OKQ6h4ohpN",
+					"display_url": "pic.twitter.com/OKQ6h4ohpN",
+					"expanded_url": "https://twitter.com/mingkki21/status/1250953827500486656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1392,
+							"h": 928,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1250953805174169600,
+		"in_reply_to_status_id_str": "1250953805174169600",
+		"in_reply_to_user_id": 239394793,
+		"in_reply_to_user_id_str": "239394793",
+		"in_reply_to_screen_name": "mingkki21",
+		"user": {
+			"id": 239394793,
+			"id_str": "239394793",
+			"name": "Minzy",
+			"screen_name": "mingkki21",
+			"location": "",
+			"description": "vlog season 🔽",
+			"url": "https://t.co/Mv3ivShdYK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mv3ivShdYK",
+							"expanded_url": "https://m.youtube.com/c/minzytv",
+							"display_url": "m.youtube.com/c/minzytv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2446889,
+			"friends_count": 127,
+			"listed_count": 6523,
+			"created_at": "Mon Jan 17 14:36:56 +0000 2011",
+			"favourites_count": 525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058040325564858370/-zX3i58-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058040325564858370/-zX3i58-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239394793/1543617362",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2558,
+		"favorite_count": 6892,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앞으로는 공민지라는 이름에 어울리게 무대 위에서 더 밝고 당당한 모습으로 인사드리겠습니다. \n언제나 관심갖고 응원해주시는 팬 분들과도 \n더 자주 소통하겠습니다!! 감사합니다^^ https://t.co/OKQ6h4ohpN"
+	},
+	{
+		"created_at": "Sat Apr 18 04:12:05 +0000 2020",
+		"id": 1250953805174169600,
+		"id_str": "1251362841795289088",
+		"full_text": "새 출발합니다. 오늘부로 소속사를 떠나서 자유를 얻었습니다. 늘 지지해주시는 팬 분들을 위해서라도 소속사와 협상해서 분쟁을 빨리 끝냈습니다. 최근 몇년간 활발히 활동하는 모습을 못 보여드려 마음 한켠에 늘 아쉬움이 있었는데 지금부터는 더 자주, 더 멋진 모습 보여드릴 수 있게 되었습니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239394793,
+			"id_str": "239394793",
+			"name": "Minzy",
+			"screen_name": "mingkki21",
+			"location": "",
+			"description": "vlog season 🔽",
+			"url": "https://t.co/Mv3ivShdYK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mv3ivShdYK",
+							"expanded_url": "https://m.youtube.com/c/minzytv",
+							"display_url": "m.youtube.com/c/minzytv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2446889,
+			"friends_count": 127,
+			"listed_count": 6523,
+			"created_at": "Mon Jan 17 14:36:56 +0000 2011",
+			"favourites_count": 525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058040325564858370/-zX3i58-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058040325564858370/-zX3i58-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239394793/1543617362",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9029,
+		"favorite_count": 17878,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "새 출발합니다. 오늘부로 소속사를 떠나서 자유를 얻었습니다. 늘 지지해주시는 팬 분들을 위해서라도 소속사와 협상해서 분쟁을 빨리 끝냈습니다. 최근 몇년간 활발히 활동하는 모습을 못 보여드려 마음 한켠에 늘 아쉬움이 있었는데 지금부터는 더 자주, 더 멋진 모습 보여드릴 수 있게 되었습니다!"
+	},
+	{
+		"created_at": "Sat Apr 18 04:06:55 +0000 2020",
+		"id": 1251361540772491300,
+		"id_str": "1251361540772491264",
+		"full_text": "집콘을 해줘서 좋긴한데 직접 콘서트에 가서 그 현장에서 오는 다양한 느낌과 여러 감정이 없으니 아쉽다. 이미 갔다온 콘서트나 갔던 적 있는 아티스트의 공연은 그런 기억과 감정이 살아나 일부라도 느낄 수 있지만 그마저도 없는 공연은 잘 찾지 않게 된다. 빨리 공연 보러 가고 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 915,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "집콘을 해줘서 좋긴한데 직접 콘서트에 가서 그 현장에서 오는 다양한 느낌과 여러 감정이 없으니 아쉽다. 이미 갔다온 콘서트나 갔던 적 있는 아티스트의 공연은 그런 기억과 감정이 살아나 일부라도 느낄 수 있지만 그마저도 없는 공연은 잘 찾지 않게 된다. 빨리 공연 보러 가고 싶다."
+	},
+	{
 		"created_at": "Sat Apr 18 03:56:36 +0000 2020",
 		"id": 1251329692327501800,
 		"id_str": "1251358947669229569",
