@@ -1,6 +1,1151 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 15:00:59 +0000 2020",
+		"id": 1251888531095433200,
+		"id_str": "1251888531095433218",
+		"full_text": "직캠 자체가 따로 따로 따더라도 일부는 이 과정에 지미집도 걸리고 걸리지 말아야 할 것도 걸릴 수 있음. 줌을 땡겨 찍어도 화각이 안나올 수 있으니까. 같은 곡인데 다른 위치에서 안무를 하는 것도 아니고. 그리고 멤버수가 다수면 고려해야할 변수가 많음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1251885837345632300,
+		"in_reply_to_status_id_str": "1251885837345632256",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 916,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "직캠 자체가 따로 따로 따더라도 일부는 이 과정에 지미집도 걸리고 걸리지 말아야 할 것도 걸릴 수 있음. 줌을 땡겨 찍어도 화각이 안나올 수 있으니까. 같은 곡인데 다른 위치에서 안무를 하는 것도 아니고. 그리고 멤버수가 다수면 고려해야할 변수가 많음."
+	},
+	{
+		"created_at": "Sun Apr 19 14:50:17 +0000 2020",
+		"id": 1251885837345632300,
+		"id_str": "1251885837345632256",
+		"full_text": "방송사 직캠이 어느순간 자리를 잡으면서 특정 멤버만 올린다는 루머에 방송사마다 이렇게 공지를 하고 있는데 여전히 계속되고 이중에는 악플도 달려있음. #뮤직비지니스 https://t.co/Kwcl4EdzZm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kwcl4EdzZm",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1251804492451872769",
+					"display_url": "twitter.com/kpop_sbs/statu…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 916,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251804492451872800,
+		"quoted_status_id_str": "1251804492451872769",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kwcl4EdzZm",
+			"expanded": "https://twitter.com/kpop_sbs/status/1251804492451872769",
+			"display": "twitter.com/kpop_sbs/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 19 09:27:03 +0000 2020",
+			"id": 1251804492451872800,
+			"id_str": "1251804492451872769",
+			"full_text": "안녕하세요 스브스케이팝/SBSKPOP 입니다\n\n저희는 직캠 이외에도 여러 앵글을 통해 아티스트의 멋진 모습을 다양하게 보여드리려 하고 있습니다.\n그럼에도 불구하고 이미 촬영된 영상에 문제가 있다고 생각될 경우, 영상을 부득이하게 공개하지 않고 있습니다\n팬 여러분들의 많은 양해 부탁드립니다😥",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1251798345695105000,
+			"in_reply_to_status_id_str": "1251798345695105025",
+			"in_reply_to_user_id": 1131475077650772000,
+			"in_reply_to_user_id_str": "1131475077650771968",
+			"in_reply_to_screen_name": "kpop_sbs",
+			"user": {
+				"id": 1131475077650772000,
+				"id_str": "1131475077650771968",
+				"name": "스브스케이팝 / SBS KPOP",
+				"screen_name": "kpop_sbs",
+				"location": "",
+				"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+				"url": "https://t.co/qapZ7nOCns",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qapZ7nOCns",
+								"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+								"display_url": "youtube.com/user/SBSMusic1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29142,
+				"friends_count": 68,
+				"listed_count": 88,
+				"created_at": "Thu May 23 08:20:55 +0000 2019",
+				"favourites_count": 727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 640,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1586789422",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 182,
+			"favorite_count": 275,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방송사 직캠이 어느순간 자리를 잡으면서 특정 멤버만 올린다는 루머에 방송사마다 이렇게 공지를 하고 있는데 여전히 계속되고 이중에는 악플도 달려있음. #뮤직비지니스 https://t.co/Kwcl4EdzZm"
+	},
+	{
+		"created_at": "Sun Apr 19 14:48:05 +0000 2020",
+		"id": 1251885286922973200,
+		"id_str": "1251885286922973187",
+		"full_text": "미디어나 공식계정에서 어떤 추가적인 코멘트가 없는 단순 언급에도 리트윗을 하면 타임라인을 전부 구독하는 입장에서나 주도적으로 정보를 습득하려는 입장에서는 불편할 수 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1251884763167600600,
+		"in_reply_to_status_id_str": "1251884763167600640",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 916,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "미디어나 공식계정에서 어떤 추가적인 코멘트가 없는 단순 언급에도 리트윗을 하면 타임라인을 전부 구독하는 입장에서나 주도적으로 정보를 습득하려는 입장에서는 불편할 수 있음."
+	},
+	{
+		"created_at": "Sun Apr 19 14:46:01 +0000 2020",
+		"id": 1251884763167600600,
+		"id_str": "1251884763167600640",
+		"full_text": "이바닥늬우스 콘텐츠 좋아서 놓치지 않고 읽으려고 자동 리트윗 설정해두었는데 갑자기 서치로 언급된 트윗 리트윗 해서 풀었다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 916,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이바닥늬우스 콘텐츠 좋아서 놓치지 않고 읽으려고 자동 리트윗 설정해두었는데 갑자기 서치로 언급된 트윗 리트윗 해서 풀었다..."
+	},
+	{
+		"created_at": "Sun Apr 19 14:41:27 +0000 2020",
+		"id": 1251519879825457200,
+		"id_str": "1251883617162125313",
+		"full_text": "마스크 착용의 중요성을 쉽게 이해할 수 있게 만든 아주 단순한 그래픽\n- 감염자가 마스크를 착용하지 않고 주변 사람이 착용한 경우 70% 감염\n- 감염자가 마스크를 착용하고 주변 사람이 미착용한 경우 5% 감염\n- 감염자와 주변 사람 들 다 마스크 착용할 경우 1.5% 감염\nhttps://t.co/xiWKnZZUoU https://t.co/E0SWNNUyex",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xiWKnZZUoU",
+					"expanded_url": "https://twitter.com/ThomasMD/status/1251381120677171206",
+					"display_url": "twitter.com/ThomasMD/statu…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251519770006085600,
+					"id_str": "1251519770006085632",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EV5KmZiXYAAXBr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV5KmZiXYAAXBr7.jpg",
+					"url": "https://t.co/E0SWNNUyex",
+					"display_url": "pic.twitter.com/E0SWNNUyex",
+					"expanded_url": "https://twitter.com/wkchoi/status/1251519879825457153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 730,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 730,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251519770006085600,
+					"id_str": "1251519770006085632",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EV5KmZiXYAAXBr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV5KmZiXYAAXBr7.jpg",
+					"url": "https://t.co/E0SWNNUyex",
+					"display_url": "pic.twitter.com/E0SWNNUyex",
+					"expanded_url": "https://twitter.com/wkchoi/status/1251519879825457153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 730,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 730,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45609,
+			"friends_count": 217,
+			"listed_count": 293,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251381120677171200,
+		"quoted_status_id_str": "1251381120677171206",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xiWKnZZUoU",
+			"expanded": "https://twitter.com/ThomasMD/status/1251381120677171206",
+			"display": "twitter.com/ThomasMD/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 18 05:24:43 +0000 2020",
+			"id": 1251381120677171200,
+			"id_str": "1251381120677171206",
+			"full_text": "If everyone wears masks, contagion probability drops to 1.5%. https://t.co/4SasRCuugl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1251381114171768800,
+						"id_str": "1251381114171768832",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/EV3MfkTXQAAdAco.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV3MfkTXQAAdAco.jpg",
+						"url": "https://t.co/4SasRCuugl",
+						"display_url": "pic.twitter.com/4SasRCuugl",
+						"expanded_url": "https://twitter.com/ThomasMD/status/1251381120677171206/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 730,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 730,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 517,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1251381114171768800,
+						"id_str": "1251381114171768832",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/EV3MfkTXQAAdAco.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV3MfkTXQAAdAco.jpg",
+						"url": "https://t.co/4SasRCuugl",
+						"display_url": "pic.twitter.com/4SasRCuugl",
+						"expanded_url": "https://twitter.com/ThomasMD/status/1251381120677171206/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 730,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 730,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 517,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59028627,
+				"id_str": "59028627",
+				"name": "Michael D. Thomas",
+				"screen_name": "ThomasMD",
+				"location": "Upper Peninsula of Michigan",
+				"description": "Copywriter and former designer in a marketing director wrapper. Unrepentant tea drinker. Current weapon of choice: iPad.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 692,
+				"friends_count": 1160,
+				"listed_count": 20,
+				"created_at": "Wed Jul 22 04:01:31 +0000 2009",
+				"favourites_count": 13006,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10948,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247023667277692928/W7I1a0N7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247023667277692928/W7I1a0N7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59028627/1586148551",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1559,
+			"favorite_count": 2897,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1152,
+		"favorite_count": 329,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마스크 착용의 중요성을 쉽게 이해할 수 있게 만든 아주 단순한 그래픽\n- 감염자가 마스크를 착용하지 않고 주변 사람이 착용한 경우 70% 감염\n- 감염자가 마스크를 착용하고 주변 사람이 미착용한 경우 5% 감염\n- 감염자와 주변 사람 들 다 마스크 착용할 경우 1.5% 감염\nhttps://t.co/xiWKnZZUoU https://t.co/E0SWNNUyex"
+	},
+	{
+		"created_at": "Sun Apr 19 14:41:23 +0000 2020",
+		"id": 1251381120677171200,
+		"id_str": "1251883597411180544",
+		"full_text": "If everyone wears masks, contagion probability drops to 1.5%. https://t.co/4SasRCuugl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251381114171768800,
+					"id_str": "1251381114171768832",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EV3MfkTXQAAdAco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV3MfkTXQAAdAco.jpg",
+					"url": "https://t.co/4SasRCuugl",
+					"display_url": "pic.twitter.com/4SasRCuugl",
+					"expanded_url": "https://twitter.com/ThomasMD/status/1251381120677171206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 730,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 730,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251381114171768800,
+					"id_str": "1251381114171768832",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EV3MfkTXQAAdAco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV3MfkTXQAAdAco.jpg",
+					"url": "https://t.co/4SasRCuugl",
+					"display_url": "pic.twitter.com/4SasRCuugl",
+					"expanded_url": "https://twitter.com/ThomasMD/status/1251381120677171206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 730,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 730,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59028627,
+			"id_str": "59028627",
+			"name": "Michael D. Thomas",
+			"screen_name": "ThomasMD",
+			"location": "Upper Peninsula of Michigan",
+			"description": "Copywriter and former designer in a marketing director wrapper. Unrepentant tea drinker. Current weapon of choice: iPad.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 692,
+			"friends_count": 1160,
+			"listed_count": 20,
+			"created_at": "Wed Jul 22 04:01:31 +0000 2009",
+			"favourites_count": 13006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247023667277692928/W7I1a0N7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247023667277692928/W7I1a0N7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59028627/1586148551",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1559,
+		"favorite_count": 2897,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If everyone wears masks, contagion probability drops to 1.5%. https://t.co/4SasRCuugl"
+	},
+	{
+		"created_at": "Sun Apr 19 14:24:31 +0000 2020",
+		"id": 1251859443936972800,
+		"id_str": "1251879355501985792",
+		"full_text": "“나쁜 일이 일어났을 때, 당신에게는 세 가지 선택지가 있습니다. 그것이 당신을 정의하게 하거나, 무너뜨리도록 둘 수 있습니다. 아니면 그것으로 인해 당신이 더욱 강해질 수도 있습니다.” - 닥터수스(Theodor Seuss Geisel)\n\n목요일에 공개된 아마존 주주서한 중에서. \n\nhttps://t.co/M7HDZ6CQjx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M7HDZ6CQjx",
+					"expanded_url": "https://ebadak.news/2020/04/18/jeff-bezos-letter-2019/?fbclid=IwAR0sJKMnCPOaYPbbK1tNQvIUKWIQCXhLccl5Mm4Cv-mzUvotgvZm6EO0TQw",
+					"display_url": "ebadak.news/2020/04/18/jef…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067401196,
+			"id_str": "1067401196",
+			"name": "박소령 | Soryoung Park",
+			"screen_name": "January19_",
+			"location": "",
+			"description": "일하는 사람들의 콘텐츠 플랫폼, 퍼블리를 만듭니다. 트위터에서는 일하는 사람들과 일하는 마인드에 대한 이야기를 주로 소개합니다. 그리고 재밌는 콘텐츠 추천도. -:) CEO of PUBLY @publy_",
+			"url": "https://t.co/BPqHYGGmHS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BPqHYGGmHS",
+							"expanded_url": "http://publy.co",
+							"display_url": "publy.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17107,
+			"friends_count": 29,
+			"listed_count": 153,
+			"created_at": "Mon Jan 07 04:10:56 +0000 2013",
+			"favourites_count": 6761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239182499323904001/xjiGA7-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239182499323904001/xjiGA7-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067401196/1578142251",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“나쁜 일이 일어났을 때, 당신에게는 세 가지 선택지가 있습니다. 그것이 당신을 정의하게 하거나, 무너뜨리도록 둘 수 있습니다. 아니면 그것으로 인해 당신이 더욱 강해질 수도 있습니다.” - 닥터수스(Theodor Seuss Geisel)\n\n목요일에 공개된 아마존 주주서한 중에서. \n\nhttps://t.co/M7HDZ6CQjx"
+	},
+	{
 		"created_at": "Sun Apr 19 12:36:06 +0000 2020",
 		"id": 1251852071873249300,
 		"id_str": "1251852071873249285",
