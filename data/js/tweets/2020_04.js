@@ -1,6 +1,2537 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 15:37:59 +0000 2020",
+		"id": 1251888325968846800,
+		"id_str": "1251897841791889409",
+		"full_text": "CHUNG HA\nPRE-RELEASE SINGLE #1\n[ Stay Tonight ]\n\nPHOTO TEASER 1\n2020. 04. 27. 6PM (KST)\n\n#청하 #CHUNGHA\n#StayTonight https://t.co/eMqWVKise9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251884057635348500,
+					"id_str": "1251884057635348482",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-V6utUYAI3ZAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-V6utUYAI3ZAb.jpg",
+					"url": "https://t.co/eMqWVKise9",
+					"display_url": "pic.twitter.com/eMqWVKise9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1251888325968846853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251884057635348500,
+					"id_str": "1251884057635348482",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-V6utUYAI3ZAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-V6utUYAI3ZAb.jpg",
+					"url": "https://t.co/eMqWVKise9",
+					"display_url": "pic.twitter.com/eMqWVKise9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1251888325968846853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251884057656307700,
+					"id_str": "1251884057656307713",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-V6uyUMAEF4AI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-V6uyUMAEF4AI.jpg",
+					"url": "https://t.co/eMqWVKise9",
+					"display_url": "pic.twitter.com/eMqWVKise9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1251888325968846853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236748,
+			"friends_count": 0,
+			"listed_count": 1831,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1586703635",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12086,
+		"favorite_count": 24589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nPRE-RELEASE SINGLE #1\n[ Stay Tonight ]\n\nPHOTO TEASER 1\n2020. 04. 27. 6PM (KST)\n\n#청하 #CHUNGHA\n#StayTonight https://t.co/eMqWVKise9"
+	},
+	{
+		"created_at": "Sun Apr 19 15:37:45 +0000 2020",
+		"id": 1251890845235572700,
+		"id_str": "1251897785630068737",
+		"full_text": "CHUNG HA\nPRE-RELEASE SINGLE #1\n[ Stay Tonight ]\n\nCONCEPT CLIP #1 “NOBLE”\n2020. 04. 27. 6PM (KST)\n\n#청하 #CHUNGHA\n#StayTonight https://t.co/UrNfJ396Aq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						111,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251884143119495200,
+					"id_str": "1251884143119495168",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251884143119495168/pu/img/aGSwzCU9dQjA3Sus.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251884143119495168/pu/img/aGSwzCU9dQjA3Sus.jpg",
+					"url": "https://t.co/UrNfJ396Aq",
+					"display_url": "pic.twitter.com/UrNfJ396Aq",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1251890845235572736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251884143119495200,
+					"id_str": "1251884143119495168",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251884143119495168/pu/img/aGSwzCU9dQjA3Sus.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251884143119495168/pu/img/aGSwzCU9dQjA3Sus.jpg",
+					"url": "https://t.co/UrNfJ396Aq",
+					"display_url": "pic.twitter.com/UrNfJ396Aq",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1251890845235572736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 21104,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251884143119495168/pu/vid/638x360/b3WR8O8z3fN5nOBT.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251884143119495168/pu/vid/1278x720/DCvo5lrRvOR11hJq.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251884143119495168/pu/vid/478x270/pc5U96RVHT_DC_qP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251884143119495168/pu/pl/2svCO-ooKj6hoBSr.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236748,
+			"friends_count": 0,
+			"listed_count": 1831,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1586703635",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8316,
+		"favorite_count": 14684,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nPRE-RELEASE SINGLE #1\n[ Stay Tonight ]\n\nCONCEPT CLIP #1 “NOBLE”\n2020. 04. 27. 6PM (KST)\n\n#청하 #CHUNGHA\n#StayTonight https://t.co/UrNfJ396Aq"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:32 +0000 2020",
+		"id": 1251888812273221600,
+		"id_str": "1251897227376685057",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어\n#미미 #지호 #Mimi #JiHo https://t.co/ylzJzXdVgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "미미",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "지호",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "Mimi",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "JiHo",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888804064985000,
+					"id_str": "1251888804064985094",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aPAiVAAYnVKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aPAiVAAYnVKe.jpg",
+					"url": "https://t.co/ylzJzXdVgq",
+					"display_url": "pic.twitter.com/ylzJzXdVgq",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888812273221634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888804064985000,
+					"id_str": "1251888804064985094",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aPAiVAAYnVKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aPAiVAAYnVKe.jpg",
+					"url": "https://t.co/ylzJzXdVgq",
+					"display_url": "pic.twitter.com/ylzJzXdVgq",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888812273221634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3494,
+		"favorite_count": 5304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어\n#미미 #지호 #Mimi #JiHo https://t.co/ylzJzXdVgq"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:28 +0000 2020",
+		"id": 1251888772037267500,
+		"id_str": "1251897209756348417",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어\n#유아 #승희 #YooA #SeungHee https://t.co/yobj2XHHlL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "승희",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "YooA",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "SeungHee",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888764726567000,
+					"id_str": "1251888764726566913",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aMt_UYAE0idF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aMt_UYAE0idF.jpg",
+					"url": "https://t.co/yobj2XHHlL",
+					"display_url": "pic.twitter.com/yobj2XHHlL",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888772037267457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888764726567000,
+					"id_str": "1251888764726566913",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aMt_UYAE0idF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aMt_UYAE0idF.jpg",
+					"url": "https://t.co/yobj2XHHlL",
+					"display_url": "pic.twitter.com/yobj2XHHlL",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888772037267457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3787,
+		"favorite_count": 5500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어\n#유아 #승희 #YooA #SeungHee https://t.co/yobj2XHHlL"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:26 +0000 2020",
+		"id": 1251888715502239700,
+		"id_str": "1251897201804013568",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어\n#효정 #비니 #아린 #Hyojung #Binnie #Arin https://t.co/TSbH6iq3zG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "효정",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "비니",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "아린",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "Hyojung",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "Binnie",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "Arin",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888706048233500,
+					"id_str": "1251888706048233474",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aJTZUEAIHtGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aJTZUEAIHtGR.jpg",
+					"url": "https://t.co/TSbH6iq3zG",
+					"display_url": "pic.twitter.com/TSbH6iq3zG",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888715502239744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888706048233500,
+					"id_str": "1251888706048233474",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aJTZUEAIHtGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aJTZUEAIHtGR.jpg",
+					"url": "https://t.co/TSbH6iq3zG",
+					"display_url": "pic.twitter.com/TSbH6iq3zG",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888715502239744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3411,
+		"favorite_count": 4839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어\n#효정 #비니 #아린 #Hyojung #Binnie #Arin https://t.co/TSbH6iq3zG"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:25 +0000 2020",
+		"id": 1251888661114744800,
+		"id_str": "1251897195034406913",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#아린 #Arin #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/gdykuszARe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아린",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "Arin",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888652071760000,
+					"id_str": "1251888652071759872",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aGKUUcAAwIpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aGKUUcAAwIpO.jpg",
+					"url": "https://t.co/gdykuszARe",
+					"display_url": "pic.twitter.com/gdykuszARe",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888661114744833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888652071760000,
+					"id_str": "1251888652071759872",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aGKUUcAAwIpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aGKUUcAAwIpO.jpg",
+					"url": "https://t.co/gdykuszARe",
+					"display_url": "pic.twitter.com/gdykuszARe",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888661114744833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3365,
+		"favorite_count": 5048,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#아린 #Arin #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/gdykuszARe"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:23 +0000 2020",
+		"id": 1251888622237696000,
+		"id_str": "1251897187937607684",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#비니 #Binnie #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/q520zfKo1t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비니",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "Binnie",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						151,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888613786181600,
+					"id_str": "1251888613786181632",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aD7sU4AArUMl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aD7sU4AArUMl.jpg",
+					"url": "https://t.co/q520zfKo1t",
+					"display_url": "pic.twitter.com/q520zfKo1t",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888622237696006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888613786181600,
+					"id_str": "1251888613786181632",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-aD7sU4AArUMl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-aD7sU4AArUMl.jpg",
+					"url": "https://t.co/q520zfKo1t",
+					"display_url": "pic.twitter.com/q520zfKo1t",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888622237696006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3119,
+		"favorite_count": 4692,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#비니 #Binnie #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/q520zfKo1t"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:21 +0000 2020",
+		"id": 1251888543036608500,
+		"id_str": "1251897179473510400",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#지호 #JiHo #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/KPxtlmR63E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지호",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "JiHo",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888529715499000,
+					"id_str": "1251888529715499009",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-Z_CgUEAExX2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-Z_CgUEAExX2m.jpg",
+					"url": "https://t.co/KPxtlmR63E",
+					"display_url": "pic.twitter.com/KPxtlmR63E",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888543036608514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888529715499000,
+					"id_str": "1251888529715499009",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-Z_CgUEAExX2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-Z_CgUEAExX2m.jpg",
+					"url": "https://t.co/KPxtlmR63E",
+					"display_url": "pic.twitter.com/KPxtlmR63E",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888543036608514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3202,
+		"favorite_count": 4676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#지호 #JiHo #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/KPxtlmR63E"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:19 +0000 2020",
+		"id": 1251888486673600500,
+		"id_str": "1251897172771041280",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#승희 #SeungHee #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/jhZRMU7Ac6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "승희",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "SeungHee",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888477710385200,
+					"id_str": "1251888477710385154",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-Z8AxVAAIGKKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-Z8AxVAAIGKKW.jpg",
+					"url": "https://t.co/jhZRMU7Ac6",
+					"display_url": "pic.twitter.com/jhZRMU7Ac6",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888486673600512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888477710385200,
+					"id_str": "1251888477710385154",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-Z8AxVAAIGKKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-Z8AxVAAIGKKW.jpg",
+					"url": "https://t.co/jhZRMU7Ac6",
+					"display_url": "pic.twitter.com/jhZRMU7Ac6",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888486673600512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3392,
+		"favorite_count": 5392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#승희 #SeungHee #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/jhZRMU7Ac6"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:18 +0000 2020",
+		"id": 1251888424971169800,
+		"id_str": "1251897165745549312",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#유아 #YooA #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/SPc1nI8ktE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유아",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "YooA",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888415714324500,
+					"id_str": "1251888415714324480",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-Z4Z0UMAAF5a0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-Z4Z0UMAAF5a0.jpg",
+					"url": "https://t.co/SPc1nI8ktE",
+					"display_url": "pic.twitter.com/SPc1nI8ktE",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888424971169792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888415714324500,
+					"id_str": "1251888415714324480",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-Z4Z0UMAAF5a0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-Z4Z0UMAAF5a0.jpg",
+					"url": "https://t.co/SPc1nI8ktE",
+					"display_url": "pic.twitter.com/SPc1nI8ktE",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888424971169792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3222,
+		"favorite_count": 4842,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#유아 #YooA #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/SPc1nI8ktE"
+	},
+	{
+		"created_at": "Sun Apr 19 15:35:16 +0000 2020",
+		"id": 1251888355148619800,
+		"id_str": "1251897158049001477",
+		"full_text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#미미 #Mimi #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/1KuxKhpgmH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미미",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "Mimi",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251888345421983700,
+					"id_str": "1251888345421983746",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-Z0T9UMAIJqXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-Z0T9UMAIJqXb.jpg",
+					"url": "https://t.co/1KuxKhpgmH",
+					"display_url": "pic.twitter.com/1KuxKhpgmH",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888355148619777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251888345421983700,
+					"id_str": "1251888345421983746",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EV-Z0T9UMAIJqXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV-Z0T9UMAIJqXb.jpg",
+					"url": "https://t.co/1KuxKhpgmH",
+					"display_url": "pic.twitter.com/1KuxKhpgmH",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1251888355148619777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132552,
+			"friends_count": 3,
+			"listed_count": 1745,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1564501447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2915,
+		"favorite_count": 4471,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH MY GIRL 7TH MINI ALBUM [NONSTOP]\nSecret zone 도착🎲👉 OMG vs 🐻 match ver. teaser\n \nComing Soon 2020. 04. 27\n \n#미미 #Mimi #오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/1KuxKhpgmH"
+	},
+	{
 		"created_at": "Sun Apr 19 15:19:44 +0000 2020",
 		"id": 1251893251184844800,
 		"id_str": "1251893251184844800",
