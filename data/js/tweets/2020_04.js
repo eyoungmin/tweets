@@ -1,6 +1,1079 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 06:41:16 +0000 2020",
+		"id": 1251748525672562700,
+		"id_str": "1251762774062927872",
+		"full_text": "“ 무대도 조명도 대본도 없는 릴레이 라이브 스트리밍⠀\n⠀⠀ ⠀ [Everything is OK, with Antenna] “\n\n[Day 4] Live Streaming URL\n👉🏻 https://t.co/kTztrt1IGv\n\n#EverythingIsOK #withAntenna \n#안테나 #Antenna #권진아 #루시드폴 #페퍼톤스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EverythingIsOK",
+					"indices": [
+						127,
+						142
+					]
+				},
+				{
+					"text": "withAntenna",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kTztrt1IGv",
+					"expanded_url": "https://youtu.be/KfSboj7HI0U",
+					"display_url": "youtu.be/KfSboj7HI0U",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34429,
+			"friends_count": 11,
+			"listed_count": 410,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1585732158",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“ 무대도 조명도 대본도 없는 릴레이 라이브 스트리밍⠀\n⠀⠀ ⠀ [Everything is OK, with Antenna] “\n\n[Day 4] Live Streaming URL\n👉🏻 https://t.co/kTztrt1IGv\n\n#EverythingIsOK #withAntenna \n#안테나 #Antenna #권진아 #루시드폴 #페퍼톤스"
+	},
+	{
+		"created_at": "Sun Apr 19 06:27:28 +0000 2020",
+		"id": 1251632235574227000,
+		"id_str": "1251759301846118400",
+		"full_text": "한국 코로나 대응이 타국에 비해 상대적으로 성공한 이유 중 하나로 등장하는게 \"사회적 신뢰\". 그런데 한국은 사회자본/신뢰가 부족해서 문제인 사회라고 지금까지 마구 비판. 없던 사회적 자본과 신뢰가 코로나 사태 속에 갑자기 뿅하고 나타난 이유는? 이문덕? 1/ https://t.co/HDRTCe3O9e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HDRTCe3O9e",
+					"expanded_url": "https://sovidence.tistory.com/1052",
+					"display_url": "sovidence.tistory.com/1052",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2750,
+			"friends_count": 332,
+			"listed_count": 21,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 653,
+		"favorite_count": 587,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국 코로나 대응이 타국에 비해 상대적으로 성공한 이유 중 하나로 등장하는게 \"사회적 신뢰\". 그런데 한국은 사회자본/신뢰가 부족해서 문제인 사회라고 지금까지 마구 비판. 없던 사회적 자본과 신뢰가 코로나 사태 속에 갑자기 뿅하고 나타난 이유는? 이문덕? 1/ https://t.co/HDRTCe3O9e"
+	},
+	{
+		"created_at": "Sun Apr 19 06:26:19 +0000 2020",
+		"id": 1251759013248692200,
+		"id_str": "1251759013248692224",
+		"full_text": "Billie Eilish &amp; Finneas perform \"Sunny\" | One World: Together At Home\nhttps://t.co/pNBy4guK0G\n\n#BillieEilish #빌리아일리시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillieEilish",
+					"indices": [
+						99,
+						112
+					]
+				},
+				{
+					"text": "빌리아일리시",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pNBy4guK0G",
+					"expanded_url": "https://youtu.be/IJuHn8JzhP0",
+					"display_url": "youtu.be/IJuHn8JzhP0",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 916,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish &amp; Finneas perform \"Sunny\" | One World: Together At Home\nhttps://t.co/pNBy4guK0G\n\n#BillieEilish #빌리아일리시"
+	},
+	{
+		"created_at": "Sun Apr 19 06:21:50 +0000 2020",
+		"id": 1251718105337864200,
+		"id_str": "1251757882418192384",
+		"full_text": "Billie singing “Sunny” by Bobby Hebb at the #TogetherAtHome benefit concert today https://t.co/NHrtjC6xUi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TogetherAtHome",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251689617390284800,
+					"id_str": "1251689617390284801",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251689617390284801/pu/img/6dwj1ZzMM3rRK40c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251689617390284801/pu/img/6dwj1ZzMM3rRK40c.jpg",
+					"url": "https://t.co/NHrtjC6xUi",
+					"display_url": "pic.twitter.com/NHrtjC6xUi",
+					"expanded_url": "https://twitter.com/eilishsunshine/status/1251690056433176577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1251690056433176600,
+					"source_status_id_str": "1251690056433176577",
+					"source_user_id": 1175401452161970200,
+					"source_user_id_str": "1175401452161970176"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251689617390284800,
+					"id_str": "1251689617390284801",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251689617390284801/pu/img/6dwj1ZzMM3rRK40c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251689617390284801/pu/img/6dwj1ZzMM3rRK40c.jpg",
+					"url": "https://t.co/NHrtjC6xUi",
+					"display_url": "pic.twitter.com/NHrtjC6xUi",
+					"expanded_url": "https://twitter.com/eilishsunshine/status/1251690056433176577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1251690056433176600,
+					"source_status_id_str": "1251690056433176577",
+					"source_user_id": 1175401452161970200,
+					"source_user_id_str": "1175401452161970176",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140020,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251689617390284801/pu/vid/640x360/wMigPJcuE1tIPaeL.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251689617390284801/pu/pl/zaIiABQ6-d2SDfXc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251689617390284801/pu/vid/1280x720/inIufBGfplBx3ZfM.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251689617390284801/pu/vid/480x270/ja0Qbm1Y74Zi6oE9.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1175401452161970200,
+							"id_str": "1175401452161970176",
+							"name": "lívia 👼 🅴 | 🧢",
+							"screen_name": "eilishsunshine",
+							"location": "ela/dela",
+							"description": "𝒅𝒆𝒎𝒐𝒓𝒐𝒖 𝒎𝒂𝒔 𝒆𝒖 𝒄𝒉𝒆𝒈𝒖𝒆𝒊 || fan acc",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3555,
+							"friends_count": 2727,
+							"listed_count": 70,
+							"created_at": "Sat Sep 21 13:28:47 +0000 2019",
+							"favourites_count": 9566,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 6900,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1251167429503471617/mZlgP7Fv_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251167429503471617/mZlgP7Fv_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1175401452161970176/1586606840",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 876036646529101800,
+			"id_str": "876036646529101824",
+			"name": "Billie Eilish Updates",
+			"screen_name": "eilishupdates",
+			"location": "",
+			"description": "— The latest updates on 5x GRAMMY Award winner Billie Eilish. BACKUP: @eilishupdates2 (fan account, all content used as fair use)",
+			"url": "https://t.co/ggMJFmAYeG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ggMJFmAYeG",
+							"expanded_url": "http://instagram.com/eilishupd8s",
+							"display_url": "instagram.com/eilishupd8s",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132827,
+			"friends_count": 22,
+			"listed_count": 188,
+			"created_at": "Sat Jun 17 11:19:47 +0000 2017",
+			"favourites_count": 45158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203417958686613504/c50MsBZE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203417958686613504/c50MsBZE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/876036646529101824/1584033680",
+			"profile_link_color": "889977",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 516,
+		"favorite_count": 2122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie singing “Sunny” by Bobby Hebb at the #TogetherAtHome benefit concert today https://t.co/NHrtjC6xUi"
+	},
+	{
+		"created_at": "Sun Apr 19 06:13:39 +0000 2020",
+		"id": 1251692132932317200,
+		"id_str": "1251755821601439744",
+		"full_text": "Day 2 of #BANGBANGCON will begin soon at noon (KST)! \nAre you ready to have a blast again?! 🔎🔎\n\nYour own protip for how to enjoy BANG BANG CON!💡\nShare with the world how you're getting ready to party with the hashtag #방방곡곡방방콘! #StayConnected\n\n(https://t.co/CnyQtOg0A9) https://t.co/1eUHFsPtOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BANGBANGCON",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"text": "방방곡곡방방콘",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"text": "StayConnected",
+					"indices": [
+						227,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CnyQtOg0A9",
+					"expanded_url": "https://youtu.be/r_dDKrx-aKc",
+					"display_url": "youtu.be/r_dDKrx-aKc",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251688546672341000,
+					"id_str": "1251688546672340992",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EV7kGfnUcAAwuqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV7kGfnUcAAwuqg.jpg",
+					"url": "https://t.co/1eUHFsPtOv",
+					"display_url": "pic.twitter.com/1eUHFsPtOv",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1251692132932317184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251688546672341000,
+					"id_str": "1251688546672340992",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EV7kGfnUcAAwuqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV7kGfnUcAAwuqg.jpg",
+					"url": "https://t.co/1eUHFsPtOv",
+					"display_url": "pic.twitter.com/1eUHFsPtOv",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1251692132932317184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1251692127509045200,
+		"in_reply_to_status_id_str": "1251692127509045255",
+		"in_reply_to_user_id": 1409798257,
+		"in_reply_to_user_id_str": "1409798257",
+		"in_reply_to_screen_name": "bts_bighit",
+		"user": {
+			"id": 1409798257,
+			"id_str": "1409798257",
+			"name": "BTS_official",
+			"screen_name": "bts_bighit",
+			"location": "http://cafe.daum.net/BANGTAN",
+			"description": "#방탄소년단 공식 트위터 입니다.",
+			"url": "https://t.co/UKFREoHhAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKFREoHhAr",
+							"expanded_url": "http://bts.ibighit.com",
+							"display_url": "bts.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19905909,
+			"friends_count": 21,
+			"listed_count": 29845,
+			"created_at": "Tue May 07 09:13:05 +0000 2013",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F69A95",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227608752095813634/gbGy_uWK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227608752095813634/gbGy_uWK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409798257/1581519710",
+			"profile_link_color": "F69A95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47081,
+		"favorite_count": 150534,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 2 of #BANGBANGCON will begin soon at noon (KST)! \nAre you ready to have a blast again?! 🔎🔎\n\nYour own protip for how to enjoy BANG BANG CON!💡\nShare with the world how you're getting ready to party with the hashtag #방방곡곡방방콘! #StayConnected\n\n(https://t.co/CnyQtOg0A9) https://t.co/1eUHFsPtOv"
+	},
+	{
+		"created_at": "Sun Apr 19 06:13:36 +0000 2020",
+		"id": 1251692127509045200,
+		"id_str": "1251755811736453120",
+		"full_text": "잠시 후 정오(KST)부터 #방에서즐기는방탄소년단콘서트 #방방콘 2일차 공연이 시작됩니다.\n오늘도 신나게 놀 준비가 되었나요?! 🔎🔎\n\n방방콘을 신나게 즐기기 위한 나만의 꿀팁!💡\n방방콘을 준비 중인 아미들의 모습을 해시태그 #방방곡곡방방콘 과 함께 공유해주세요!\n(https://t.co/CnyQtOg0A9) https://t.co/E1HfixR4AR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방에서즐기는방탄소년단콘서트",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "방방콘",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "방방곡곡방방콘",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CnyQtOg0A9",
+					"expanded_url": "https://youtu.be/r_dDKrx-aKc",
+					"display_url": "youtu.be/r_dDKrx-aKc",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251688515227672600,
+					"id_str": "1251688515227672578",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EV7kEqeU4AIl3dC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV7kEqeU4AIl3dC.jpg",
+					"url": "https://t.co/E1HfixR4AR",
+					"display_url": "pic.twitter.com/E1HfixR4AR",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1251692127509045255/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251688515227672600,
+					"id_str": "1251688515227672578",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EV7kEqeU4AIl3dC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV7kEqeU4AIl3dC.jpg",
+					"url": "https://t.co/E1HfixR4AR",
+					"display_url": "pic.twitter.com/E1HfixR4AR",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1251692127509045255/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1409798257,
+			"id_str": "1409798257",
+			"name": "BTS_official",
+			"screen_name": "bts_bighit",
+			"location": "http://cafe.daum.net/BANGTAN",
+			"description": "#방탄소년단 공식 트위터 입니다.",
+			"url": "https://t.co/UKFREoHhAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKFREoHhAr",
+							"expanded_url": "http://bts.ibighit.com",
+							"display_url": "bts.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19905909,
+			"friends_count": 21,
+			"listed_count": 29845,
+			"created_at": "Tue May 07 09:13:05 +0000 2013",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F69A95",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227608752095813634/gbGy_uWK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227608752095813634/gbGy_uWK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409798257/1581519710",
+			"profile_link_color": "F69A95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102890,
+		"favorite_count": 328107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 정오(KST)부터 #방에서즐기는방탄소년단콘서트 #방방콘 2일차 공연이 시작됩니다.\n오늘도 신나게 놀 준비가 되었나요?! 🔎🔎\n\n방방콘을 신나게 즐기기 위한 나만의 꿀팁!💡\n방방콘을 준비 중인 아미들의 모습을 해시태그 #방방곡곡방방콘 과 함께 공유해주세요!\n(https://t.co/CnyQtOg0A9) https://t.co/E1HfixR4AR"
+	},
+	{
 		"created_at": "Sun Apr 19 05:49:24 +0000 2020",
 		"id": 1251749719572766700,
 		"id_str": "1251749719572766720",
