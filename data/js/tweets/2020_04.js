@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 11:24:35 +0000 2020",
+		"id": 1251827770302185500,
+		"id_str": "1251834070503501830",
+		"full_text": "아마존 제프 베조스의 2019년 연례 주주 서한 (번역) https://t.co/7s2icGB1Nl 수준이 다른 아마존의 주주서한(2019 Letter to Shareholders). 올해는 코로나19로 더욱 특별한 이야기가 들어있다. 기업의 책무란 무엇인가? #아마존닷컴경제학",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마존닷컴경제학",
+					"indices": [
+						146,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7s2icGB1Nl",
+					"expanded_url": "https://ebadak.news/2020/04/18/jeff-bezos-letter-2019/",
+					"display_url": "ebadak.news/2020/04/18/jef…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53242170,
+			"id_str": "53242170",
+			"name": "류영호",
+			"screen_name": "pageraum",
+			"location": "Seoul, Korea",
+			"description": "책방사람(@교보문고), 출판평론, ROTCian, 저서: 《아마존닷컴 경제학》, 《출판혁신전략》, 《세계 전자책 시장은 어떻게 움직이는가》, 《출판 혁명》",
+			"url": "https://t.co/EB8RX5jlki",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EB8RX5jlki",
+							"expanded_url": "http://about.me/pageraum75",
+							"display_url": "about.me/pageraum75",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5507,
+			"friends_count": 1865,
+			"listed_count": 321,
+			"created_at": "Fri Jul 03 00:41:30 +0000 2009",
+			"favourites_count": 4281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189574579758329857/TbfcUZft_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189574579758329857/TbfcUZft_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53242170/1550972136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마존 제프 베조스의 2019년 연례 주주 서한 (번역) https://t.co/7s2icGB1Nl 수준이 다른 아마존의 주주서한(2019 Letter to Shareholders). 올해는 코로나19로 더욱 특별한 이야기가 들어있다. 기업의 책무란 무엇인가? #아마존닷컴경제학"
+	},
+	{
 		"created_at": "Sun Apr 19 10:24:31 +0000 2020",
 		"id": 1251813933339443200,
 		"id_str": "1251818957952241664",
