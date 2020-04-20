@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 23:24:31 +0000 2020",
+		"id": 1252009114525331500,
+		"id_str": "1252015250968379393",
+		"full_text": "#BLACKPINK 'Kill This Love' M/V HITS 800 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n'Kill This Love' M/V\n🎥 https://t.co/Lo1d6beMak\n\n#블랙핑크 #KILLTHISLOVE #MV #800MILLION #YOUTUBE #YG https://t.co/f9ZK7KOF5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "KILLTHISLOVE",
+					"indices": [
+						156,
+						169
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "800MILLION",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						195,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Lo1d6beMak",
+					"expanded_url": "https://youtu.be/2S24-y0Ij3Y",
+					"display_url": "youtu.be/2S24-y0Ij3Y",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252004217012678700,
+					"id_str": "1252004217012678656",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EWADM7RU8AAE7o_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWADM7RU8AAE7o_.jpg",
+					"url": "https://t.co/f9ZK7KOF5U",
+					"display_url": "pic.twitter.com/f9ZK7KOF5U",
+					"expanded_url": "https://twitter.com/ygent_official/status/1252009114525331458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252004217012678700,
+					"id_str": "1252004217012678656",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EWADM7RU8AAE7o_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWADM7RU8AAE7o_.jpg",
+					"url": "https://t.co/f9ZK7KOF5U",
+					"display_url": "pic.twitter.com/f9ZK7KOF5U",
+					"expanded_url": "https://twitter.com/ygent_official/status/1252009114525331458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5871797,
+			"friends_count": 38,
+			"listed_count": 7939,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5577,
+		"favorite_count": 18526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Kill This Love' M/V HITS 800 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n'Kill This Love' M/V\n🎥 https://t.co/Lo1d6beMak\n\n#블랙핑크 #KILLTHISLOVE #MV #800MILLION #YOUTUBE #YG https://t.co/f9ZK7KOF5U"
+	},
+	{
 		"created_at": "Sun Apr 19 15:37:59 +0000 2020",
 		"id": 1251888325968846800,
 		"id_str": "1251897841791889409",
