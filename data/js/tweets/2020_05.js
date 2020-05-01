@@ -1,6 +1,1103 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 01 11:43:12 +0000 2020",
+		"id": 1256187413879156700,
+		"id_str": "1256187413879156738",
+		"full_text": "[Notion] 노션 공개 페이지에 도메인 연결하기\nhttps://t.co/BcfK9WtjI6\n\n노션 커스텀 도메인 설정 한국어 설명\n\n#Notion #노션 #Domain #도메인 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notion",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "노션",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "Domain",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "도메인",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BcfK9WtjI6",
+					"expanded_url": "https://www.clien.net/service/board/lecture/14536593",
+					"display_url": "clien.net/service/board/…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256176005766496300,
+		"in_reply_to_status_id_str": "1256176005766496257",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Notion] 노션 공개 페이지에 도메인 연결하기\nhttps://t.co/BcfK9WtjI6\n\n노션 커스텀 도메인 설정 한국어 설명\n\n#Notion #노션 #Domain #도메인 #minfav"
+	},
+	{
+		"created_at": "Fri May 01 11:26:44 +0000 2020",
+		"id": 1256182574667292700,
+		"id_str": "1256183268765863936",
+		"full_text": "5월 1일 #StudioK 직캠 공지!\n\n#여자아이들 #GIDLE #사랑해 #LuvU @G_I_DLE \n\n[6K Full] ▶ https://t.co/UyfC8y6mvj\n[개인캠] ▶ https://t.co/Gdsu4j7exp https://t.co/Ob8K2MdF4k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StudioK",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "사랑해",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "LuvU",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UyfC8y6mvj",
+					"expanded_url": "https://youtu.be/BQdvLF4IsAI",
+					"display_url": "youtu.be/BQdvLF4IsAI",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/Gdsu4j7exp",
+					"expanded_url": "https://youtube.com/user/KBSKpop",
+					"display_url": "youtube.com/user/KBSKpop",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256182344320340000,
+					"id_str": "1256182344320339969",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EW7bL8ZU0AEiaHe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW7bL8ZU0AEiaHe.jpg",
+					"url": "https://t.co/Ob8K2MdF4k",
+					"display_url": "pic.twitter.com/Ob8K2MdF4k",
+					"expanded_url": "https://twitter.com/StudioK_twit/status/1256182574667292672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256182344320340000,
+					"id_str": "1256182344320339969",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EW7bL8ZU0AEiaHe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW7bL8ZU0AEiaHe.jpg",
+					"url": "https://t.co/Ob8K2MdF4k",
+					"display_url": "pic.twitter.com/Ob8K2MdF4k",
+					"expanded_url": "https://twitter.com/StudioK_twit/status/1256182574667292672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166598765425430500,
+			"id_str": "1166598765425430528",
+			"name": "StudioK",
+			"screen_name": "StudioK_twit",
+			"location": "Seoul KBS",
+			"description": "아이돌 합니다. [KBSKPOP Official Account]",
+			"url": "https://t.co/fJgUFfHG28",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJgUFfHG28",
+							"expanded_url": "https://www.youtube.com/user/KBSKpop",
+							"display_url": "youtube.com/user/KBSKpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12490,
+			"friends_count": 90,
+			"listed_count": 69,
+			"created_at": "Wed Aug 28 06:30:08 +0000 2019",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174587215558651905/yrvQmJ23_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174587215558651905/yrvQmJ23_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166598765425430528/1575600947",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 486,
+		"favorite_count": 1523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5월 1일 #StudioK 직캠 공지!\n\n#여자아이들 #GIDLE #사랑해 #LuvU @G_I_DLE \n\n[6K Full] ▶ https://t.co/UyfC8y6mvj\n[개인캠] ▶ https://t.co/Gdsu4j7exp https://t.co/Ob8K2MdF4k"
+	},
+	{
+		"created_at": "Fri May 01 11:24:58 +0000 2020",
+		"id": 1256182824912040000,
+		"id_str": "1256182824912039939",
+		"full_text": "카툰처럼 바꿔주는 사진 필터 앱을 사용하는 것이 프로필로 사용하려는 사람들에게도 더 좋을 듯하다. 앱스토어에 검색하면 많이 나온다. 이 사이트는 256x256px 제공이라 아쉽다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256181962273742800,
+		"in_reply_to_status_id_str": "1256181962273742848",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "카툰처럼 바꿔주는 사진 필터 앱을 사용하는 것이 프로필로 사용하려는 사람들에게도 더 좋을 듯하다. 앱스토어에 검색하면 많이 나온다. 이 사이트는 256x256px 제공이라 아쉽다."
+	},
+	{
+		"created_at": "Fri May 01 11:21:33 +0000 2020",
+		"id": 1256181962273742800,
+		"id_str": "1256181962273742848",
+		"full_text": "연예인 화보사진은 변환된 이미지도 깔끔한데 아마 배경처리가 되어 있고 얼굴 경계가 뚜렷하게 화장/편집과정을 거쳐서인 듯하다. 셀카는 배경 때문인지 경계가 모호해서인지 얼굴이 뭉개져서 나와서 아쉽다. https://t.co/CJdj1ikdYB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CJdj1ikdYB",
+					"expanded_url": "https://twitter.com/minist/status/1256105679678517248",
+					"display_url": "twitter.com/minist/status/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256105679678517200,
+		"quoted_status_id_str": "1256105679678517248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CJdj1ikdYB",
+			"expanded": "https://twitter.com/minist/status/1256105679678517248",
+			"display": "twitter.com/minist/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 01 06:18:26 +0000 2020",
+			"id": 1256105679678517200,
+			"id_str": "1256105679678517248",
+			"full_text": "셀피나 인물사진을 업로드하면 AI로 일본 아니메풍 이미지로 변환해주는 Waifu 서비스가 크게 인기. 제 사진으로 테스트했는데 결과가 별로라 아이유 님 사진으로 테스트를 해보니 역시 제 사진이 문제였던 것 같습니다; 전/후 사진을 트윗하는게 유행이라네요 #IU #waifu https://t.co/8yspMBvMDq https://t.co/U16FQGvSaD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IU",
+						"indices": [
+							142,
+							145
+						]
+					},
+					{
+						"text": "waifu",
+						"indices": [
+							146,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8yspMBvMDq",
+						"expanded_url": "https://waifu.lofiu.com/index.html",
+						"display_url": "waifu.lofiu.com/index.html",
+						"indices": [
+							153,
+							176
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1256105678067859500,
+						"id_str": "1256105678067859456",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/EW6VdYWWAAAmM39.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW6VdYWWAAAmM39.jpg",
+						"url": "https://t.co/U16FQGvSaD",
+						"display_url": "pic.twitter.com/U16FQGvSaD",
+						"expanded_url": "https://twitter.com/minist/status/1256105679678517248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 281,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 281,
+								"h": 308,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 281,
+								"h": 308,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1256105678067859500,
+						"id_str": "1256105678067859456",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/EW6VdYWWAAAmM39.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW6VdYWWAAAmM39.jpg",
+						"url": "https://t.co/U16FQGvSaD",
+						"display_url": "pic.twitter.com/U16FQGvSaD",
+						"expanded_url": "https://twitter.com/minist/status/1256105679678517248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 281,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 281,
+								"h": 308,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 281,
+								"h": 308,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1256105678286008300,
+						"id_str": "1256105678286008320",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/EW6VdZKWsAACAtf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW6VdZKWsAACAtf.jpg",
+						"url": "https://t.co/U16FQGvSaD",
+						"display_url": "pic.twitter.com/U16FQGvSaD",
+						"expanded_url": "https://twitter.com/minist/status/1256105679678517248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13113612,
+				"id_str": "13113612",
+				"name": "박수민 / Soomin Park",
+				"screen_name": "minist",
+				"location": "Seattle, WA, USA",
+				"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+				"url": "https://t.co/3cxweHYPJO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3cxweHYPJO",
+								"expanded_url": "https://minist.kr",
+								"display_url": "minist.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63910,
+				"friends_count": 725,
+				"listed_count": 924,
+				"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+				"favourites_count": 774,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22391,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "402021",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+				"profile_link_color": "260D03",
+				"profile_sidebar_border_color": "8A7167",
+				"profile_sidebar_fill_color": "8A7167",
+				"profile_text_color": "341617",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10452,
+			"favorite_count": 4378,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연예인 화보사진은 변환된 이미지도 깔끔한데 아마 배경처리가 되어 있고 얼굴 경계가 뚜렷하게 화장/편집과정을 거쳐서인 듯하다. 셀카는 배경 때문인지 경계가 모호해서인지 얼굴이 뭉개져서 나와서 아쉽다. https://t.co/CJdj1ikdYB"
+	},
+	{
+		"created_at": "Fri May 01 11:20:42 +0000 2020",
+		"id": 1256181751241511000,
+		"id_str": "1256181751241510914",
+		"full_text": "@minist https://t.co/RnueYNvObR 배경제거 서비스를 이용하고나서 하면 얼굴이 뭉개지는 현상이 줄어듭니다.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "minist",
+					"name": "박수민 / Soomin Park",
+					"id": 13113612,
+					"id_str": "13113612",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RnueYNvObR",
+					"expanded_url": "https://www.remove.bg/ko/upload",
+					"display_url": "remove.bg/ko/upload",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256105679678517200,
+		"in_reply_to_status_id_str": "1256105679678517248",
+		"in_reply_to_user_id": 13113612,
+		"in_reply_to_user_id_str": "13113612",
+		"in_reply_to_screen_name": "minist",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@minist https://t.co/RnueYNvObR 배경제거 서비스를 이용하고나서 하면 얼굴이 뭉개지는 현상이 줄어듭니다."
+	},
+	{
+		"created_at": "Fri May 01 11:07:39 +0000 2020",
+		"id": 1256178465566363600,
+		"id_str": "1256178465566363648",
+		"full_text": "https://t.co/tVX3oG2gAa\n당근마켓 팀 소개 페이지도 리다이렉팅으로 넘긴 것. 노션이 C NAME 설정으로 커스텀 도메인 설정만 허용해주고 글 주소 원하는데로만 바꿀 수 있으면 더 높은 옵션으로 변경할 의지가 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tVX3oG2gAa",
+					"expanded_url": "http://team.daangn.com",
+					"display_url": "team.daangn.com",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256177859615322000,
+		"in_reply_to_status_id_str": "1256177859615322112",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/tVX3oG2gAa\n당근마켓 팀 소개 페이지도 리다이렉팅으로 넘긴 것. 노션이 C NAME 설정으로 커스텀 도메인 설정만 허용해주고 글 주소 원하는데로만 바꿀 수 있으면 더 높은 옵션으로 변경할 의지가 있음."
+	},
+	{
 		"created_at": "Fri May 01 10:58:56 +0000 2020",
 		"id": 1256176271047843800,
 		"id_str": "1256176271047843841",
