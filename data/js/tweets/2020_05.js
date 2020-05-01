@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 01 22:48:03 +0000 2020",
+		"id": 1256237171813441500,
+		"id_str": "1256354726502752256",
+		"full_text": "⠀IU Digital Single\n&lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt;\nMoving Teaser\n⠀\n#IUxSUGA #아이유 #eight #에잇 https://t.co/pwfVrYtNjs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IUxSUGA",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "eight",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "에잇",
+					"indices": [
+						98,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256237119359590400,
+					"id_str": "1256237119359590401",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256237119359590401/pu/img/PdVS0FXFYx0dQ5sj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256237119359590401/pu/img/PdVS0FXFYx0dQ5sj.jpg",
+					"url": "https://t.co/pwfVrYtNjs",
+					"display_url": "pic.twitter.com/pwfVrYtNjs",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1256237171813441536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256237119359590400,
+					"id_str": "1256237119359590401",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256237119359590401/pu/img/PdVS0FXFYx0dQ5sj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256237119359590401/pu/img/PdVS0FXFYx0dQ5sj.jpg",
+					"url": "https://t.co/pwfVrYtNjs",
+					"display_url": "pic.twitter.com/pwfVrYtNjs",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1256237171813441536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 17792,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256237119359590401/pu/vid/478x270/d7HqD86P5lRPsDWS.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256237119359590401/pu/vid/852x480/rCduBBzvvK2iu6cr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256237119359590401/pu/vid/638x360/xkX5S5JLNois4u4B.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1256237119359590401/pu/pl/e9ydvF06X__A8NXa.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 459919,
+			"friends_count": 0,
+			"listed_count": 1098,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196356951333957632/kxrWyUzJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196356951333957632/kxrWyUzJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123792,
+		"favorite_count": 218442,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⠀IU Digital Single\n&lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt;\nMoving Teaser\n⠀\n#IUxSUGA #아이유 #eight #에잇 https://t.co/pwfVrYtNjs"
+	},
+	{
+		"created_at": "Fri May 01 22:17:31 +0000 2020",
+		"id": 1256236942586331100,
+		"id_str": "1256347040931438592",
+		"full_text": "Released on the 7th October 1991. The 7\"\" single version of Caribbean Blue is now available digitally for the first time.\n\nStream now: https://t.co/d79yV2hhed https://t.co/JiHwJxbX4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d79yV2hhed",
+					"expanded_url": "https://lnk.to/CaribbeanBlueSingle",
+					"display_url": "lnk.to/CaribbeanBlueS…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256213101369794600,
+					"id_str": "1256213101369794562",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256213101369794562/pu/img/4INr1QXEv3oVVDJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256213101369794562/pu/img/4INr1QXEv3oVVDJ4.jpg",
+					"url": "https://t.co/JiHwJxbX4H",
+					"display_url": "pic.twitter.com/JiHwJxbX4H",
+					"expanded_url": "https://twitter.com/official_enya/status/1256236942586331136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256213101369794600,
+					"id_str": "1256213101369794562",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256213101369794562/pu/img/4INr1QXEv3oVVDJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256213101369794562/pu/img/4INr1QXEv3oVVDJ4.jpg",
+					"url": "https://t.co/JiHwJxbX4H",
+					"display_url": "pic.twitter.com/JiHwJxbX4H",
+					"expanded_url": "https://twitter.com/official_enya/status/1256236942586331136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31560,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256213101369794562/pu/vid/320x320/Ski6xoNzd7rVxWJe.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256213101369794562/pu/vid/480x480/sbQ2Apxq1dri0bry.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256213101369794562/pu/vid/720x720/MRNgxRx9Qf5HAnLC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1256213101369794562/pu/pl/y1_JAwAFsMq5iuzq.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3448722142,
+			"id_str": "3448722142",
+			"name": "Enya",
+			"screen_name": "official_enya",
+			"location": "",
+			"description": "Official Twitter account for Enya.",
+			"url": "http://t.co/kxjXNSRtn4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/kxjXNSRtn4",
+							"expanded_url": "http://www.enya.com",
+							"display_url": "enya.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24915,
+			"friends_count": 0,
+			"listed_count": 233,
+			"created_at": "Wed Aug 26 16:26:49 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/652071385959919616/hPcFD9AT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/652071385959919616/hPcFD9AT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3448722142/1584628564",
+			"profile_link_color": "1A3C69",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 406,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Released on the 7th October 1991. The 7\"\" single version of Caribbean Blue is now available digitally for the first time.\n\nStream now: https://t.co/d79yV2hhed https://t.co/JiHwJxbX4H"
+	},
+	{
+		"created_at": "Fri May 01 22:15:42 +0000 2020",
+		"id": 1256251461610221600,
+		"id_str": "1256346587334238208",
+		"full_text": "Bandcamp’s Covid-19 fundraiser is going on right now. Here’s a list of artists and labels offering exclusive releases, merch, and more https://t.co/J7a98YYytR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J7a98YYytR",
+					"expanded_url": "https://daily.bandcamp.com/features/artists-and-labels-offering-donations-special-merch-and-more-this-friday",
+					"display_url": "daily.bandcamp.com/features/artis…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16705752,
+			"id_str": "16705752",
+			"name": "bandcamp",
+			"screen_name": "Bandcamp",
+			"location": "",
+			"description": "We're Bandcamp, a publishing platform for musicians.\n🎧 Got a question? Email us here: https://t.co/RApgzr6Mba",
+			"url": "http://t.co/l1v7r0YCHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l1v7r0YCHl",
+							"expanded_url": "http://bandcamp.com",
+							"display_url": "bandcamp.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RApgzr6Mba",
+							"expanded_url": "http://bandcamp.com/contact",
+							"display_url": "bandcamp.com/contact",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 146303,
+			"friends_count": 352,
+			"listed_count": 3026,
+			"created_at": "Sun Oct 12 07:27:04 +0000 2008",
+			"favourites_count": 9334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108067366343270402/_sA2eYRA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108067366343270402/_sA2eYRA_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16705752/1553018855",
+			"profile_link_color": "1DA0C3",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 475,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bandcamp’s Covid-19 fundraiser is going on right now. Here’s a list of artists and labels offering exclusive releases, merch, and more https://t.co/J7a98YYytR"
+	},
+	{
 		"created_at": "Fri May 01 16:37:24 +0000 2020",
 		"id": 1255505946824056800,
 		"id_str": "1256261448315006978",
