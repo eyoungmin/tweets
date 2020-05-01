@@ -1,6 +1,1205 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 01 12:49:33 +0000 2020",
+		"id": 1256204108572143600,
+		"id_str": "1256204108572143617",
+		"full_text": "노션으로 미니멀리즘 블로그 세팅하기 How to set up Notion as Blog Tutorial\nhttps://t.co/PaEgQSxz9f\n\n#Notion #노션 #Domain #도메인 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notion",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "노션",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "Domain",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "도메인",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PaEgQSxz9f",
+					"expanded_url": "https://www.sungchulblog.com/How-to-set-up-Notion-as-Blog-Tutorial-a9dbb28cf2db4db8a54e71ee14f42c98",
+					"display_url": "sungchulblog.com/How-to-set-up-…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256187413879156700,
+		"in_reply_to_status_id_str": "1256187413879156738",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노션으로 미니멀리즘 블로그 세팅하기 How to set up Notion as Blog Tutorial\nhttps://t.co/PaEgQSxz9f\n\n#Notion #노션 #Domain #도메인 #minfav"
+	},
+	{
+		"created_at": "Fri May 01 12:26:55 +0000 2020",
+		"id": 1256196513484509200,
+		"id_str": "1256198415278469126",
+		"full_text": "다음주 월요일 #어벤걸스 에 #오마이걸 이 완전체로 옵니다❤️ 살짝 설렌 마음으로🥰 오마이걸에게 궁금한 질문! 사소한 TMI! 하고 싶은 이야기! 문자번호 #7117 로 보내주세요👏🏻 (정보이용료 100원) 5월 4일 밤 10시🌙 NOW. FEST 2020 스페셜 보쇼로 만나욤 #NOW온에어 #OHMYGIRL https://t.co/iVlsvqdtWC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어벤걸스",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256196507084091400,
+					"id_str": "1256196507084091394",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EW7oEUzVcAI-pzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW7oEUzVcAI-pzb.jpg",
+					"url": "https://t.co/iVlsvqdtWC",
+					"display_url": "pic.twitter.com/iVlsvqdtWC",
+					"expanded_url": "https://twitter.com/kr_now/status/1256196513484509186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256196507084091400,
+					"id_str": "1256196507084091394",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EW7oEUzVcAI-pzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW7oEUzVcAI-pzb.jpg",
+					"url": "https://t.co/iVlsvqdtWC",
+					"display_url": "pic.twitter.com/iVlsvqdtWC",
+					"expanded_url": "https://twitter.com/kr_now/status/1256196513484509186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33062,
+			"friends_count": 0,
+			"listed_count": 68,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다음주 월요일 #어벤걸스 에 #오마이걸 이 완전체로 옵니다❤️ 살짝 설렌 마음으로🥰 오마이걸에게 궁금한 질문! 사소한 TMI! 하고 싶은 이야기! 문자번호 #7117 로 보내주세요👏🏻 (정보이용료 100원) 5월 4일 밤 10시🌙 NOW. FEST 2020 스페셜 보쇼로 만나욤 #NOW온에어 #OHMYGIRL https://t.co/iVlsvqdtWC"
+	},
+	{
+		"created_at": "Fri May 01 12:25:59 +0000 2020",
+		"id": 1256198177658560500,
+		"id_str": "1256198177658560520",
+		"full_text": "아이폰 이용자들은 노트 앱에 텍스트를 적고 캡쳐로 텍스트를 이미지화 하는 것 같다.\n\n트위터나 인스타그램에 에버노트/원노트/블로그 URL 공유보다 캡쳐 공유를 더 많이함. 인스타그램의 경우 URL 하이퍼링크가 안 걸리기 때문.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1256196573064646700,
+		"in_reply_to_status_id_str": "1256196573064646657",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아이폰 이용자들은 노트 앱에 텍스트를 적고 캡쳐로 텍스트를 이미지화 하는 것 같다.\n\n트위터나 인스타그램에 에버노트/원노트/블로그 URL 공유보다 캡쳐 공유를 더 많이함. 인스타그램의 경우 URL 하이퍼링크가 안 걸리기 때문."
+	},
+	{
+		"created_at": "Fri May 01 12:19:36 +0000 2020",
+		"id": 1256196573064646700,
+		"id_str": "1256196573064646657",
+		"full_text": "텍스트 이미지는 타이포라 내보내기 이미지확장자를 쓰고 있다. 내가 쓰는 폰트를 그대로 보여줘서 좋음. 해외 카드뉴스 툴을 쓸 경우 국내폰트가 별로 없어서 가독성이 떨어짐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1256195714478043100,
+		"in_reply_to_status_id_str": "1256195714478043137",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "텍스트 이미지는 타이포라 내보내기 이미지확장자를 쓰고 있다. 내가 쓰는 폰트를 그대로 보여줘서 좋음. 해외 카드뉴스 툴을 쓸 경우 국내폰트가 별로 없어서 가독성이 떨어짐."
+	},
+	{
+		"created_at": "Fri May 01 12:16:11 +0000 2020",
+		"id": 1256195714478043100,
+		"id_str": "1256195714478043137",
+		"full_text": "대통령 글 원래 텍스트 이미지로 제공되었는데 지금은 이미지인데 청와대 낙관도 들어가고 텍스처도 적용되어 있다. 폰트도 세리프로 바뀌었다. 무슨 폰트인지 포토샵으로 편집하는 것인지 따로 에디터가 있는 것인지 궁금하다. https://t.co/HU54UHVnJF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HU54UHVnJF",
+					"expanded_url": "https://twitter.com/moonriver365/status/1255995357957206016",
+					"display_url": "twitter.com/moonriver365/s…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255995357957206000,
+		"quoted_status_id_str": "1255995357957206016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HU54UHVnJF",
+			"expanded": "https://twitter.com/moonriver365/status/1255995357957206016",
+			"display": "twitter.com/moonriver365/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 30 23:00:03 +0000 2020",
+			"id": 1255995357957206000,
+			"id_str": "1255995357957206016",
+			"full_text": "노동절을 맞아, \n다시 한번 불의의 사고 앞에 \n숙연한 마음으로 명복을 빌며 \n이 땅 모든 노동자들의 수고에 \n경의를 표합니다. https://t.co/ZYkropWpCu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1255995119930445800,
+						"id_str": "1255995119930445824",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/EW4w6DMUEAAm7I9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW4w6DMUEAAm7I9.jpg",
+						"url": "https://t.co/ZYkropWpCu",
+						"display_url": "pic.twitter.com/ZYkropWpCu",
+						"expanded_url": "https://twitter.com/moonriver365/status/1255995357957206016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1020,
+								"h": 1566,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 782,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 443,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1255995119930445800,
+						"id_str": "1255995119930445824",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/EW4w6DMUEAAm7I9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW4w6DMUEAAm7I9.jpg",
+						"url": "https://t.co/ZYkropWpCu",
+						"display_url": "pic.twitter.com/ZYkropWpCu",
+						"expanded_url": "https://twitter.com/moonriver365/status/1255995357957206016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1020,
+								"h": 1566,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 782,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 443,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1255995133461315600,
+						"id_str": "1255995133461315584",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/EW4w61mUwAAZW1Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW4w61mUwAAZW1Q.jpg",
+						"url": "https://t.co/ZYkropWpCu",
+						"display_url": "pic.twitter.com/ZYkropWpCu",
+						"expanded_url": "https://twitter.com/moonriver365/status/1255995357957206016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 442,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 780,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1018,
+								"h": 1566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 444465942,
+				"id_str": "444465942",
+				"name": "문재인",
+				"screen_name": "moonriver365",
+				"location": "대한민국",
+				"description": "대한민국 대통령 문재인입니다. President of the Republic of Korea. 나라다운 나라를 만들기 위해 국민여러분과 함께 하겠습니다. @thebluehousekr @TheBlueHouseENG",
+				"url": "https://t.co/FAKWOwyhHd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FAKWOwyhHd",
+								"expanded_url": "http://www.president.go.kr",
+								"display_url": "president.go.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1769944,
+				"friends_count": 145814,
+				"listed_count": 8237,
+				"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+				"favourites_count": 726,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3365,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1583716608",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6042,
+			"favorite_count": 9161,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대통령 글 원래 텍스트 이미지로 제공되었는데 지금은 이미지인데 청와대 낙관도 들어가고 텍스처도 적용되어 있다. 폰트도 세리프로 바뀌었다. 무슨 폰트인지 포토샵으로 편집하는 것인지 따로 에디터가 있는 것인지 궁금하다. https://t.co/HU54UHVnJF"
+	},
+	{
+		"created_at": "Fri May 01 12:10:06 +0000 2020",
+		"id": 1256194182844047400,
+		"id_str": "1256194182844047360",
+		"full_text": "모 방송 어플리케이션은 푸시 설정이 아예 소용이 없어서 시스템설정으로 껐다... 프로필변경도 로그인도 푸시 설정도 제대로 되는 것이 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "모 방송 어플리케이션은 푸시 설정이 아예 소용이 없어서 시스템설정으로 껐다... 프로필변경도 로그인도 푸시 설정도 제대로 되는 것이 없다."
+	},
+	{
+		"created_at": "Fri May 01 12:08:06 +0000 2020",
+		"id": 1255995357957206000,
+		"id_str": "1256193677027758080",
+		"full_text": "노동절을 맞아, \n다시 한번 불의의 사고 앞에 \n숙연한 마음으로 명복을 빌며 \n이 땅 모든 노동자들의 수고에 \n경의를 표합니다. https://t.co/ZYkropWpCu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255995119930445800,
+					"id_str": "1255995119930445824",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EW4w6DMUEAAm7I9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW4w6DMUEAAm7I9.jpg",
+					"url": "https://t.co/ZYkropWpCu",
+					"display_url": "pic.twitter.com/ZYkropWpCu",
+					"expanded_url": "https://twitter.com/moonriver365/status/1255995357957206016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1020,
+							"h": 1566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255995119930445800,
+					"id_str": "1255995119930445824",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EW4w6DMUEAAm7I9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW4w6DMUEAAm7I9.jpg",
+					"url": "https://t.co/ZYkropWpCu",
+					"display_url": "pic.twitter.com/ZYkropWpCu",
+					"expanded_url": "https://twitter.com/moonriver365/status/1255995357957206016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1020,
+							"h": 1566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1255995133461315600,
+					"id_str": "1255995133461315584",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EW4w61mUwAAZW1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW4w61mUwAAZW1Q.jpg",
+					"url": "https://t.co/ZYkropWpCu",
+					"display_url": "pic.twitter.com/ZYkropWpCu",
+					"expanded_url": "https://twitter.com/moonriver365/status/1255995357957206016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 442,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1566,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444465942,
+			"id_str": "444465942",
+			"name": "문재인",
+			"screen_name": "moonriver365",
+			"location": "대한민국",
+			"description": "대한민국 대통령 문재인입니다. President of the Republic of Korea. 나라다운 나라를 만들기 위해 국민여러분과 함께 하겠습니다. @thebluehousekr @TheBlueHouseENG",
+			"url": "https://t.co/FAKWOwyhHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FAKWOwyhHd",
+							"expanded_url": "http://www.president.go.kr",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1769944,
+			"friends_count": 145814,
+			"listed_count": 8237,
+			"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+			"favourites_count": 726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1583716608",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6042,
+		"favorite_count": 9161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노동절을 맞아, \n다시 한번 불의의 사고 앞에 \n숙연한 마음으로 명복을 빌며 \n이 땅 모든 노동자들의 수고에 \n경의를 표합니다. https://t.co/ZYkropWpCu"
+	},
+	{
 		"created_at": "Fri May 01 11:43:12 +0000 2020",
 		"id": 1256187413879156700,
 		"id_str": "1256187413879156738",
