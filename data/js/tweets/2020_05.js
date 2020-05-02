@@ -1,6 +1,2650 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 08:31:26 +0000 2020",
+		"id": 1256468664343117800,
+		"id_str": "1256501540946276357",
+		"full_text": "판도라뮤직 창업자인 팀 웨스터그렌이 '세션스’라는 새로운 뮤직플랫폼을 시작 https://t.co/eZ4C6OoFE3 \n\n뮤지션들을 위한 무료 라이브스트리밍 플랫폼. 온라인 청중들은 팁으로 응원할 수 있다고. 역시 포스트코로나시대에 맞는 새로운 서비스. https://t.co/MJMx95YCkl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eZ4C6OoFE3",
+					"expanded_url": "https://sessionslive.com/",
+					"display_url": "sessionslive.com",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256468648471851000,
+					"id_str": "1256468648471851008",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EW_flCeUcAA-OhY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW_flCeUcAA-OhY.jpg",
+					"url": "https://t.co/MJMx95YCkl",
+					"display_url": "pic.twitter.com/MJMx95YCkl",
+					"expanded_url": "https://twitter.com/estima7/status/1256468664343117824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1776,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256468648471851000,
+					"id_str": "1256468648471851008",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EW_flCeUcAA-OhY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW_flCeUcAA-OhY.jpg",
+					"url": "https://t.co/MJMx95YCkl",
+					"display_url": "pic.twitter.com/MJMx95YCkl",
+					"expanded_url": "https://twitter.com/estima7/status/1256468664343117824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1776,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374298,
+			"friends_count": 2283,
+			"listed_count": 4721,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "판도라뮤직 창업자인 팀 웨스터그렌이 '세션스’라는 새로운 뮤직플랫폼을 시작 https://t.co/eZ4C6OoFE3 \n\n뮤지션들을 위한 무료 라이브스트리밍 플랫폼. 온라인 청중들은 팁으로 응원할 수 있다고. 역시 포스트코로나시대에 맞는 새로운 서비스. https://t.co/MJMx95YCkl"
+	},
+	{
+		"created_at": "Sat May 02 08:23:22 +0000 2020",
+		"id": 1256418131737743400,
+		"id_str": "1256499510953435138",
+		"full_text": "[쇼챔직캠 4K] (여자)아이들 - 사랑해 ((G)I-DLE - Luv U)\n\n아이들 당장 인간 무형문화재 안 만들고 뭐 해,,,\n아이들이 하는 게 콘셉트고 부르는 노래가 다 타이틀이다\n\n📹https://t.co/5aJ03smZCQ\n\n#쇼챔피언 #여자아이들 #G_I_DLE #LuvU @G_I_DLE https://t.co/zUX34prFBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "G_I_DLE",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "LuvU",
+					"indices": [
+						153,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5aJ03smZCQ",
+					"expanded_url": "https://youtu.be/HPQGGISN5EU",
+					"display_url": "youtu.be/HPQGGISN5EU",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256372960908112000,
+					"id_str": "1256372960908111873",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-IjShVcAE8BvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW-IjShVcAE8BvU.jpg",
+					"url": "https://t.co/zUX34prFBt",
+					"display_url": "pic.twitter.com/zUX34prFBt",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1256418131737743360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256372960908112000,
+					"id_str": "1256372960908111873",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-IjShVcAE8BvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW-IjShVcAE8BvU.jpg",
+					"url": "https://t.co/zUX34prFBt",
+					"display_url": "pic.twitter.com/zUX34prFBt",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1256418131737743360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31718,
+			"friends_count": 4797,
+			"listed_count": 229,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 816,
+		"favorite_count": 3184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쇼챔직캠 4K] (여자)아이들 - 사랑해 ((G)I-DLE - Luv U)\n\n아이들 당장 인간 무형문화재 안 만들고 뭐 해,,,\n아이들이 하는 게 콘셉트고 부르는 노래가 다 타이틀이다\n\n📹https://t.co/5aJ03smZCQ\n\n#쇼챔피언 #여자아이들 #G_I_DLE #LuvU @G_I_DLE https://t.co/zUX34prFBt"
+	},
+	{
+		"created_at": "Sat May 02 08:23:18 +0000 2020",
+		"id": 1256482246506082300,
+		"id_str": "1256499494234935296",
+		"full_text": "[📺] #여자아이들 - #사랑해 , ('#GIDLE' -#LuvU) (출처 : 쇼! #음악중심 | 네이버TV) https://t.co/Ev5HziGr15",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "사랑해",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "LuvU",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "음악중심",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ev5HziGr15",
+					"expanded_url": "http://naver.me/5cZEG1FG",
+					"display_url": "naver.me/5cZEG1FG",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691968,
+			"friends_count": 36,
+			"listed_count": 3045,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1613,
+		"favorite_count": 4559,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺] #여자아이들 - #사랑해 , ('#GIDLE' -#LuvU) (출처 : 쇼! #음악중심 | 네이버TV) https://t.co/Ev5HziGr15"
+	},
+	{
+		"created_at": "Sat May 02 08:22:59 +0000 2020",
+		"id": 1256499415595905000,
+		"id_str": "1256499415595905024",
+		"full_text": "오마이걸 @8_OHMYGIRL 돌핀 👍🏻",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "8_OHMYGIRL",
+					"name": "OHMYGIRL_official",
+					"id": 3737955853,
+					"id_str": "3737955853",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오마이걸 @8_OHMYGIRL 돌핀 👍🏻"
+	},
+	{
+		"created_at": "Sat May 02 08:22:34 +0000 2020",
+		"id": 1256488502989951000,
+		"id_str": "1256499309635235842",
+		"full_text": "오마이걸 -살짝 설렜어 (OH MY GIRL -Nonstop) (출처 : 쇼! 음악중심 | 네이버TV) \n(https://t.co/M3iofpt5lQ)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M3iofpt5lQ",
+					"expanded_url": "http://naver.me/GltDqJFj",
+					"display_url": "naver.me/GltDqJFj",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143267,
+			"friends_count": 3,
+			"listed_count": 1812,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 592,
+		"favorite_count": 1217,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오마이걸 -살짝 설렜어 (OH MY GIRL -Nonstop) (출처 : 쇼! 음악중심 | 네이버TV) \n(https://t.co/M3iofpt5lQ)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP"
+	},
+	{
+		"created_at": "Sat May 02 08:22:32 +0000 2020",
+		"id": 1256488336690045000,
+		"id_str": "1256499301984788482",
+		"full_text": "오마이걸 -돌핀 (OH MY GIRL -Dolphin) (출처 : 쇼! 음악중심 | 네이버TV) \n(https://t.co/EmCx2GqnqU)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EmCx2GqnqU",
+					"expanded_url": "http://naver.me/Gur5QdA8",
+					"display_url": "naver.me/Gur5QdA8",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143267,
+			"friends_count": 3,
+			"listed_count": 1812,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 596,
+		"favorite_count": 1117,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오마이걸 -돌핀 (OH MY GIRL -Dolphin) (출처 : 쇼! 음악중심 | 네이버TV) \n(https://t.co/EmCx2GqnqU)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP"
+	},
+	{
+		"created_at": "Sat May 02 08:22:23 +0000 2020",
+		"id": 1256156649208705000,
+		"id_str": "1256499262256373762",
+		"full_text": "살짝 설렜어(Non＜x＞stop) - 오마이걸(OH MY GIRL) (출처 : 뮤직뱅크 | 네이버TV)\n(https://t.co/GbgSF3kU60)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						113,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GbgSF3kU60",
+					"expanded_url": "http://naver.me/5AeOA1qT",
+					"display_url": "naver.me/5AeOA1qT",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143267,
+			"friends_count": 3,
+			"listed_count": 1812,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 748,
+		"favorite_count": 1784,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "살짝 설렜어(Non＜x＞stop) - 오마이걸(OH MY GIRL) (출처 : 뮤직뱅크 | 네이버TV)\n(https://t.co/GbgSF3kU60)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP"
+	},
+	{
+		"created_at": "Sat May 02 08:22:21 +0000 2020",
+		"id": 1256156461308063700,
+		"id_str": "1256499252211019778",
+		"full_text": "Dolphin - 오마이걸(OH MY GIRL) (출처 : 뮤직뱅크 | 네이버TV) \n(https://t.co/0XsayZ5Cbi)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0XsayZ5Cbi",
+					"expanded_url": "http://naver.me/G6Yno6Jg",
+					"display_url": "naver.me/G6Yno6Jg",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143267,
+			"friends_count": 3,
+			"listed_count": 1812,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 902,
+		"favorite_count": 2238,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Dolphin - 오마이걸(OH MY GIRL) (출처 : 뮤직뱅크 | 네이버TV) \n(https://t.co/0XsayZ5Cbi)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP"
+	},
+	{
+		"created_at": "Sat May 02 08:22:18 +0000 2020",
+		"id": 1256150961963233300,
+		"id_str": "1256499242262134785",
+		"full_text": "5월 1일 #StudioK 직캠 공지!\n\n#오마이걸 #Ohmygirl #NONSTOP #살짝설렜어 @WM_OHMYGIRL \n\n[6K Full] ▶ https://t.co/Fd8ycFbjOZ\n[개인캠] ▶ https://t.co/Gdsu4j7exp https://t.co/gSjQZINRlF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StudioK",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "Ohmygirl",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						48,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WM_OHMYGIRL",
+					"name": "오마이걸 (OH MY GIRL)",
+					"id": 3115548145,
+					"id_str": "3115548145",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fd8ycFbjOZ",
+					"expanded_url": "https://youtu.be/EWpEmJFhaH4",
+					"display_url": "youtu.be/EWpEmJFhaH4",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/Gdsu4j7exp",
+					"expanded_url": "https://youtube.com/user/KBSKpop",
+					"display_url": "youtube.com/user/KBSKpop",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256138541064581000,
+					"id_str": "1256138541064581120",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EW6zWQjU8AAHn4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW6zWQjU8AAHn4M.jpg",
+					"url": "https://t.co/gSjQZINRlF",
+					"display_url": "pic.twitter.com/gSjQZINRlF",
+					"expanded_url": "https://twitter.com/StudioK_twit/status/1256150961963233281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256138541064581000,
+					"id_str": "1256138541064581120",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EW6zWQjU8AAHn4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW6zWQjU8AAHn4M.jpg",
+					"url": "https://t.co/gSjQZINRlF",
+					"display_url": "pic.twitter.com/gSjQZINRlF",
+					"expanded_url": "https://twitter.com/StudioK_twit/status/1256150961963233281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166598765425430500,
+			"id_str": "1166598765425430528",
+			"name": "StudioK",
+			"screen_name": "StudioK_twit",
+			"location": "Seoul KBS",
+			"description": "아이돌 합니다. [KBSKPOP Official Account]",
+			"url": "https://t.co/fJgUFfHG28",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJgUFfHG28",
+							"expanded_url": "https://www.youtube.com/user/KBSKpop",
+							"display_url": "youtube.com/user/KBSKpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12654,
+			"friends_count": 90,
+			"listed_count": 71,
+			"created_at": "Wed Aug 28 06:30:08 +0000 2019",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174587215558651905/yrvQmJ23_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174587215558651905/yrvQmJ23_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166598765425430528/1575600947",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 905,
+		"favorite_count": 2037,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5월 1일 #StudioK 직캠 공지!\n\n#오마이걸 #Ohmygirl #NONSTOP #살짝설렜어 @WM_OHMYGIRL \n\n[6K Full] ▶ https://t.co/Fd8ycFbjOZ\n[개인캠] ▶ https://t.co/Gdsu4j7exp https://t.co/gSjQZINRlF"
+	},
+	{
+		"created_at": "Sat May 02 08:21:59 +0000 2020",
+		"id": 1255817648656375800,
+		"id_str": "1256499163061092352",
+		"full_text": "′최초 공개′ 힙한 요정돌 ′오마이걸′의 ′살짝 설렜어(Nonstop)′ 무대 (출처 : 엠카운트다운 | 네이버TV) \n(https://t.co/gfcUqqGsDO)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gfcUqqGsDO",
+					"expanded_url": "http://naver.me/5aI7Qftg",
+					"display_url": "naver.me/5aI7Qftg",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143267,
+			"friends_count": 3,
+			"listed_count": 1812,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1218,
+		"favorite_count": 2802,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "′최초 공개′ 힙한 요정돌 ′오마이걸′의 ′살짝 설렜어(Nonstop)′ 무대 (출처 : 엠카운트다운 | 네이버TV) \n(https://t.co/gfcUqqGsDO)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP"
+	},
+	{
+		"created_at": "Sat May 02 08:21:55 +0000 2020",
+		"id": 1255815187086536700,
+		"id_str": "1256499145705054209",
+		"full_text": "˙최초 공개˙ ♡러블리♡ ˙오마이걸˙의 ˙Dolphin˙ 무대 (출처 : 엠카운트다운 | 네이버TV)\n(https://t.co/nygj1FFFH1)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nygj1FFFH1",
+					"expanded_url": "http://naver.me/xT7pf6cK",
+					"display_url": "naver.me/xT7pf6cK",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143267,
+			"friends_count": 3,
+			"listed_count": 1812,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 985,
+		"favorite_count": 2375,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "˙최초 공개˙ ♡러블리♡ ˙오마이걸˙의 ˙Dolphin˙ 무대 (출처 : 엠카운트다운 | 네이버TV)\n(https://t.co/nygj1FFFH1)\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP"
+	},
+	{
+		"created_at": "Sat May 02 08:20:54 +0000 2020",
+		"id": 1255814326847287300,
+		"id_str": "1256498889323999232",
+		"full_text": "오마이걸(OH MY GIRL)_살짝 설렜어 (NONSTOP) Jacket Making Film\n\nYoutube: https://t.co/0yRsFz1h8K\nVlive: https://t.co/f6y8xuyKog\n\n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/5X9JwaHDVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0yRsFz1h8K",
+					"expanded_url": "http://youtu.be/J1KWnsSlWlc",
+					"display_url": "youtu.be/J1KWnsSlWlc",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/f6y8xuyKog",
+					"expanded_url": "http://vlive.tv/video/188758",
+					"display_url": "vlive.tv/video/188758",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255814318504861700,
+					"id_str": "1255814318504861697",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EW2MeBZU4AEbV9D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW2MeBZU4AEbV9D.jpg",
+					"url": "https://t.co/5X9JwaHDVU",
+					"display_url": "pic.twitter.com/5X9JwaHDVU",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1255814326847287296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255814318504861700,
+					"id_str": "1255814318504861697",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EW2MeBZU4AEbV9D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW2MeBZU4AEbV9D.jpg",
+					"url": "https://t.co/5X9JwaHDVU",
+					"display_url": "pic.twitter.com/5X9JwaHDVU",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1255814326847287296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143267,
+			"friends_count": 3,
+			"listed_count": 1812,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 939,
+		"favorite_count": 2378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오마이걸(OH MY GIRL)_살짝 설렜어 (NONSTOP) Jacket Making Film\n\nYoutube: https://t.co/0yRsFz1h8K\nVlive: https://t.co/f6y8xuyKog\n\n#오마이걸 #OHMYGIRL #OMG #NONSTOP #살짝설렜어 https://t.co/5X9JwaHDVU"
+	},
+	{
+		"created_at": "Sat May 02 08:20:19 +0000 2020",
+		"id": 1256236970533097500,
+		"id_str": "1256498744054345734",
+		"full_text": "[OH MY GIRL SKETCHBOOK 2] EP.09 '살짝 설렜어' MV Reaction\n\nYoutube: https://t.co/UYn8pDg2Pl\nVlive: https://t.co/xeyesD2THo\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP https://t.co/xKs05v7qvS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						147,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UYn8pDg2Pl",
+					"expanded_url": "http://youtu.be/-Kuekj4pYIQ",
+					"display_url": "youtu.be/-Kuekj4pYIQ",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/xeyesD2THo",
+					"expanded_url": "http://vlive.tv/video/189039",
+					"display_url": "vlive.tv/video/189039",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256236963625140200,
+					"id_str": "1256236963625140224",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EW8M3NKXgAAlpJm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW8M3NKXgAAlpJm.jpg",
+					"url": "https://t.co/xKs05v7qvS",
+					"display_url": "pic.twitter.com/xKs05v7qvS",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1256236970533097474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256236963625140200,
+					"id_str": "1256236963625140224",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EW8M3NKXgAAlpJm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW8M3NKXgAAlpJm.jpg",
+					"url": "https://t.co/xKs05v7qvS",
+					"display_url": "pic.twitter.com/xKs05v7qvS",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1256236970533097474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143267,
+			"friends_count": 3,
+			"listed_count": 1812,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 855,
+		"favorite_count": 2266,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[OH MY GIRL SKETCHBOOK 2] EP.09 '살짝 설렜어' MV Reaction\n\nYoutube: https://t.co/UYn8pDg2Pl\nVlive: https://t.co/xeyesD2THo\n\n#오마이걸 #OHMYGIRL #OMG #살짝설렜어 #NONSTOP https://t.co/xKs05v7qvS"
+	},
+	{
+		"created_at": "Sat May 02 08:20:12 +0000 2020",
+		"id": 1256482082747891700,
+		"id_str": "1256498713742082049",
+		"full_text": "이 영상 보고 살짝만 설렐 수 있는 강철 심장 구합니다🤖 크리들 마음에 폭풍 물보라를 일으킬 #BE_ORIGINAL 💜오늘 밤 9시 최초공개💜 #오마이걸 #살짝설렜어 #OHMYGIRL #NONSTOP @8_OHMYGIRL #Studio_CHOOM \n\n▶ https://t.co/oEdKskIzZr https://t.co/cQ97sRjGeB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						52,
+						64
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "살짝설렜어",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "NONSTOP",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "Studio_CHOOM",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "8_OHMYGIRL",
+					"name": "OHMYGIRL_official",
+					"id": 3737955853,
+					"id_str": "3737955853",
+					"indices": [
+						112,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oEdKskIzZr",
+					"expanded_url": "https://youtu.be/rmqcWggCqeU",
+					"display_url": "youtu.be/rmqcWggCqeU",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256482005383934000,
+					"id_str": "1256482005383933953",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EW_rug2UcAEasBX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW_rug2UcAEasBX.jpg",
+					"url": "https://t.co/cQ97sRjGeB",
+					"display_url": "pic.twitter.com/cQ97sRjGeB",
+					"expanded_url": "https://twitter.com/M2MPD/status/1256482082747891712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256482005383934000,
+					"id_str": "1256482005383933953",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EW_rug2UcAEasBX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW_rug2UcAEasBX.jpg",
+					"url": "https://t.co/cQ97sRjGeB",
+					"display_url": "pic.twitter.com/cQ97sRjGeB",
+					"expanded_url": "https://twitter.com/M2MPD/status/1256482082747891712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 996539,
+			"friends_count": 343,
+			"listed_count": 1628,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 806,
+		"favorite_count": 1371,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 영상 보고 살짝만 설렐 수 있는 강철 심장 구합니다🤖 크리들 마음에 폭풍 물보라를 일으킬 #BE_ORIGINAL 💜오늘 밤 9시 최초공개💜 #오마이걸 #살짝설렜어 #OHMYGIRL #NONSTOP @8_OHMYGIRL #Studio_CHOOM \n\n▶ https://t.co/oEdKskIzZr https://t.co/cQ97sRjGeB"
+	},
+	{
+		"created_at": "Sat May 02 08:19:57 +0000 2020",
+		"id": 1256237010181927000,
+		"id_str": "1256498650303234053",
+		"full_text": "(여자)아이들 데뷔 2주년을 축하합니다 ! \n(G)I-DLE 2ND ANNIVERSARY-!  \n#여자아이들 #GIDLE #데뷔2주년 #축하합니다 https://t.co/s0fCkmejWo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "데뷔2주년",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "축하합니다",
+					"indices": [
+						75,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256236998978920400,
+					"id_str": "1256236998978920449",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EW8M5Q3XYAE376k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW8M5Q3XYAE376k.jpg",
+					"url": "https://t.co/s0fCkmejWo",
+					"display_url": "pic.twitter.com/s0fCkmejWo",
+					"expanded_url": "https://twitter.com/cubeunited/status/1256237010181926918/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 867,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256236998978920400,
+					"id_str": "1256236998978920449",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EW8M5Q3XYAE376k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW8M5Q3XYAE376k.jpg",
+					"url": "https://t.co/s0fCkmejWo",
+					"display_url": "pic.twitter.com/s0fCkmejWo",
+					"expanded_url": "https://twitter.com/cubeunited/status/1256237010181926918/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 867,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 346604946,
+			"id_str": "346604946",
+			"name": "CUBE ENTERTAINMENT",
+			"screen_name": "cubeunited",
+			"location": "",
+			"description": "CUBE ENTERTAINMENT OFFICIAL TWITTER",
+			"url": "https://t.co/yJXDfh2dYe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yJXDfh2dYe",
+							"expanded_url": "https://youtu.be/MY4qnUGwWIU",
+							"display_url": "youtu.be/MY4qnUGwWIU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1048133,
+			"friends_count": 24,
+			"listed_count": 3262,
+			"created_at": "Mon Aug 01 14:58:08 +0000 2011",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/499811462953443328/8pAwAGpe_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/499811462953443328/8pAwAGpe_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/346604946/1585668511",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7388,
+		"favorite_count": 15516,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(여자)아이들 데뷔 2주년을 축하합니다 ! \n(G)I-DLE 2ND ANNIVERSARY-!  \n#여자아이들 #GIDLE #데뷔2주년 #축하합니다 https://t.co/s0fCkmejWo"
+	},
+	{
 		"created_at": "Sat May 02 06:05:31 +0000 2020",
 		"id": 1256464818967543800,
 		"id_str": "1256464818967543808",
