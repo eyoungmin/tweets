@@ -1,6 +1,809 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 03 14:55:53 +0000 2020",
+		"id": 1256947543042216000,
+		"id_str": "1256960675982635009",
+		"full_text": "💌From. #YURI\n5일 동안 저와 함께한 '꿈꾸는 라디오' 즐거우셨나요?\n청취해 주신 모든 분들 너무 감사드려요!🥰\n조만간 우리 또 만나요~❤💜💛\n\n#KWONYURI #권유리 #유리 #소녀시대 #GirlsGeneration #꿈꾸는라디오 https://t.co/pe2TXQEWav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YURI",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "꿈꾸는라디오",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256935134940418000,
+					"id_str": "1256935134940418048",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1256935134940418048/img/G91dxb7rtC4exQus.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1256935134940418048/img/G91dxb7rtC4exQus.jpg",
+					"url": "https://t.co/pe2TXQEWav",
+					"display_url": "pic.twitter.com/pe2TXQEWav",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1256947543042215942/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256935134940418000,
+					"id_str": "1256935134940418048",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1256935134940418048/img/G91dxb7rtC4exQus.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1256935134940418048/img/G91dxb7rtC4exQus.jpg",
+					"url": "https://t.co/pe2TXQEWav",
+					"display_url": "pic.twitter.com/pe2TXQEWav",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1256947543042215942/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 25833,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1256935134940418048/pl/caI4njs5ZmamgGD6.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1256935134940418048/vid/960x720/9mRD-0a4u9oQnIqM.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1256935134940418048/vid/360x270/Lk06tsknDVYYTBU9.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1256935134940418048/vid/480x360/Td6eCKIQ8nOFLrpM.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3559840,
+			"friends_count": 4,
+			"listed_count": 6072,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2556,
+		"favorite_count": 4871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "💌From. #YURI\n5일 동안 저와 함께한 '꿈꾸는 라디오' 즐거우셨나요?\n청취해 주신 모든 분들 너무 감사드려요!🥰\n조만간 우리 또 만나요~❤💜💛\n\n#KWONYURI #권유리 #유리 #소녀시대 #GirlsGeneration #꿈꾸는라디오 https://t.co/pe2TXQEWav"
+	},
+	{
+		"created_at": "Sun May 03 14:54:29 +0000 2020",
+		"id": 1256909663422959600,
+		"id_str": "1256960327192727554",
+		"full_text": "기술 대기업의 문제는 사회에 미치는 막대한 권력과 그에 따른 책임의 비대칭. 코로나 직전까지 규제 위기 몰렸으나 락다운 거치며 반전. 자본력 덕에 경제위기가 이들에겐 격차 더 벌일 호기. 주가도 상승. 배달, 방역추적, 온라인활동 편익과 함께 데이터 지배 구조 더 강화 https://t.co/mmOvkGqyVZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mmOvkGqyVZ",
+					"expanded_url": "https://www.nytimes.com/2020/05/01/opinion/tech-companies-coronavirus.html",
+					"display_url": "nytimes.com/2020/05/01/opi…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101617,
+			"friends_count": 2411,
+			"listed_count": 393,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기술 대기업의 문제는 사회에 미치는 막대한 권력과 그에 따른 책임의 비대칭. 코로나 직전까지 규제 위기 몰렸으나 락다운 거치며 반전. 자본력 덕에 경제위기가 이들에겐 격차 더 벌일 호기. 주가도 상승. 배달, 방역추적, 온라인활동 편익과 함께 데이터 지배 구조 더 강화 https://t.co/mmOvkGqyVZ"
+	},
+	{
+		"created_at": "Sun May 03 14:51:12 +0000 2020",
+		"id": 1256908864538046500,
+		"id_str": "1256959501065805824",
+		"full_text": "뮤지컬 &lt;리지&gt; 속 인물은 남성 중심 사회에서 스스로 벗어나 자유를 얻는다. 2030 여성 관객이 &lt;리지&gt;에 환호하는 현실은 ‘여성 관객은 남성 배우를 좋아할 것’이라는 오랜 선입견의 뮤지컬·연극계에 시사하는 바가 크다.\nhttps://t.co/l0ljf8r6O5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l0ljf8r6O5",
+					"expanded_url": "http://www.hani.co.kr/arti/culture/culture_general/943458.html",
+					"display_url": "hani.co.kr/arti/culture/c…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문, 한겨레 공식 트위터입니다. https://t.co/gaFSERTpRb",
+			"url": "https://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gaFSERTpRb",
+							"expanded_url": "http://youtube.com/hanitv",
+							"display_url": "youtube.com/hanitv",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 553172,
+			"friends_count": 140108,
+			"listed_count": 7562,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 568,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤지컬 &lt;리지&gt; 속 인물은 남성 중심 사회에서 스스로 벗어나 자유를 얻는다. 2030 여성 관객이 &lt;리지&gt;에 환호하는 현실은 ‘여성 관객은 남성 배우를 좋아할 것’이라는 오랜 선입견의 뮤지컬·연극계에 시사하는 바가 크다.\nhttps://t.co/l0ljf8r6O5"
+	},
+	{
+		"created_at": "Sun May 03 14:49:53 +0000 2020",
+		"id": 1256910963325853700,
+		"id_str": "1256959169489276929",
+		"full_text": "[민수]\n\n민수의(ineed_water)의 새로운 싱글 &lt;미니홈피&gt; 가 5월 10일 저녁 6시에 발매됩니다. \n\n2020.05.10 6pm (KST) Release\n\n#MSB #매스사 #매직스트로베리사운드⠀\n#민수 #미니홈피 #5월10일 https://t.co/zT7lpsWYLu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSB",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"text": "민수",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "미니홈피",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "5월10일",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256910951783129000,
+					"id_str": "1256910951783129088",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFx2etU4AAb-2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFx2etU4AAb-2U.jpg",
+					"url": "https://t.co/zT7lpsWYLu",
+					"display_url": "pic.twitter.com/zT7lpsWYLu",
+					"expanded_url": "https://twitter.com/msbsound/status/1256910963325853702/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256910951783129000,
+					"id_str": "1256910951783129088",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFx2etU4AAb-2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFx2etU4AAb-2U.jpg",
+					"url": "https://t.co/zT7lpsWYLu",
+					"display_url": "pic.twitter.com/zT7lpsWYLu",
+					"expanded_url": "https://twitter.com/msbsound/status/1256910963325853702/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8195,
+			"friends_count": 6458,
+			"listed_count": 111,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[민수]\n\n민수의(ineed_water)의 새로운 싱글 &lt;미니홈피&gt; 가 5월 10일 저녁 6시에 발매됩니다. \n\n2020.05.10 6pm (KST) Release\n\n#MSB #매스사 #매직스트로베리사운드⠀\n#민수 #미니홈피 #5월10일 https://t.co/zT7lpsWYLu"
+	},
+	{
+		"created_at": "Sun May 03 14:38:01 +0000 2020",
+		"id": 1256548273562677200,
+		"id_str": "1256956181274230784",
+		"full_text": "《단독🔥》 피해자를 통해 성착취물 30개를 만들어낸 남성. 그 방식이 'n번방' 수법과 똑같았지만, 징역 1년이 선고됐습니다. 이유는 피해자가 성인이었기 때문. 향후 ‘n번방’ 성인 피해자들에게도 똑같이 나타날 수 있는 문제입니다. 원인이 무엇인지 분석해봤습니다. \n\nhttps://t.co/TqGLAGYDRK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TqGLAGYDRK",
+					"expanded_url": "https://news.lawtalk.co.kr/judgement/2179",
+					"display_url": "news.lawtalk.co.kr/judgement/2179",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1119142506665373700,
+			"id_str": "1119142506665373696",
+			"name": "로톡뉴스",
+			"screen_name": "lawtalknews",
+			"location": "",
+			"description": "⚖️ 법, 누구나 쉽게 알 수 있도록. \n일상 속 법률팁부터 뉴스 속 숨은 법까지, \n로톡뉴스가 취재하고 전합니다.",
+			"url": "https://t.co/QUqSQY6E1w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QUqSQY6E1w",
+							"expanded_url": "https://news.lawtalk.co.kr",
+							"display_url": "news.lawtalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1737,
+			"friends_count": 152,
+			"listed_count": 24,
+			"created_at": "Fri Apr 19 07:35:41 +0000 2019",
+			"favourites_count": 730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244812976038666241/6tqFFVsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244812976038666241/6tqFFVsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1119142506665373696/1587383432",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 802,
+		"favorite_count": 136,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "《단독🔥》 피해자를 통해 성착취물 30개를 만들어낸 남성. 그 방식이 'n번방' 수법과 똑같았지만, 징역 1년이 선고됐습니다. 이유는 피해자가 성인이었기 때문. 향후 ‘n번방’ 성인 피해자들에게도 똑같이 나타날 수 있는 문제입니다. 원인이 무엇인지 분석해봤습니다. \n\nhttps://t.co/TqGLAGYDRK"
+	},
+	{
 		"created_at": "Sun May 03 12:37:23 +0000 2020",
 		"id": 1256925823770263600,
 		"id_str": "1256925823770263558",
