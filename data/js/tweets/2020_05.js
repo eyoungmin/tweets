@@ -1,6 +1,1366 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 03 16:00:35 +0000 2020",
+		"id": 1256976959331905500,
+		"id_str": "1256976959331905543",
+		"full_text": "칸, 베니스 등 참여, 유튜브 온라인 영화제 'We Are One' 개최\nhttps://t.co/HFihihpycw\n\n#StayHome #영화 #영화제 #WeAreOne\n#칸영화제 #베니스영화제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StayHome",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "영화제",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "WeAreOne",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "칸영화제",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "베니스영화제",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HFihihpycw",
+					"expanded_url": "https://www.google.com/amp/s/hypebeast.kr/2020/4/youtube-we-are-one-virtual-film-festival-cannes-tribeca-sundance-covid-19",
+					"display_url": "google.com/amp/s/hypebeas…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "칸, 베니스 등 참여, 유튜브 온라인 영화제 'We Are One' 개최\nhttps://t.co/HFihihpycw\n\n#StayHome #영화 #영화제 #WeAreOne\n#칸영화제 #베니스영화제"
+	},
+	{
+		"created_at": "Sun May 03 15:57:31 +0000 2020",
+		"id": 984209261738713100,
+		"id_str": "1256976188171358208",
+		"full_text": "당신이 누군가에게 화를 낼 때는 그들의 행동을 바꾸고 싶다고 생각할 겁니다. 그러나 당신이 아무리 높은 자리에 있어도 다른 사람의 머리 속까지 컨트롤할 수는 없습니다. 화를 내도 그들의 행동은 달라지지 않습니다.\nhttps://t.co/SkyzdM5nLM 사상 최악의 공장을 변화시킨 간단한 가르침",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SkyzdM5nLM",
+					"expanded_url": "http://isao76.egloos.com/2361269",
+					"display_url": "isao76.egloos.com/2361269",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104677542,
+			"id_str": "104677542",
+			"name": "Taewook Eom (엄 태욱)",
+			"screen_name": "taewooke",
+			"location": "대한민국.분당.삼성역",
+			"description": "to be REAL Data Programmer, think DATA & Service together\n미래의 나에게 쓰는 생각/정보 조각 정리",
+			"url": "https://t.co/aMc6Zx5ktO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMc6Zx5ktO",
+							"expanded_url": "http://kr.linkedin.com/in/taewookeom",
+							"display_url": "kr.linkedin.com/in/taewookeom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2804,
+			"friends_count": 189,
+			"listed_count": 133,
+			"created_at": "Thu Jan 14 01:58:19 +0000 2010",
+			"favourites_count": 11509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/533839630739595264/-90ZDBav_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/533839630739595264/-90ZDBav_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104677542/1424592941",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신이 누군가에게 화를 낼 때는 그들의 행동을 바꾸고 싶다고 생각할 겁니다. 그러나 당신이 아무리 높은 자리에 있어도 다른 사람의 머리 속까지 컨트롤할 수는 없습니다. 화를 내도 그들의 행동은 달라지지 않습니다.\nhttps://t.co/SkyzdM5nLM 사상 최악의 공장을 변화시킨 간단한 가르침"
+	},
+	{
+		"created_at": "Sun May 03 15:55:28 +0000 2020",
+		"id": 1256975671743574000,
+		"id_str": "1256975671743574017",
+		"full_text": "Korean Movie Night at Home  — Korean Cultural Center New York\nhttps://t.co/yP4bqh1llM\n\n#뉴욕한국문화원 무료 한국 영화 10편 제공.\n4월 27일부터 6월 30일까지 제공.\n\n말모이\n청년경찰\n지금 만나러 갑니다\n봉오동전투\n내부자들\n럭키\n퍼펙트맨\n사도\n가려진 시간\n검사외전\n\n#StayHome #영화",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴욕한국문화원",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "StayHome",
+					"indices": [
+						191,
+						200
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						201,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yP4bqh1llM",
+					"expanded_url": "http://www.koreanculture.org/films/kmovieathome?fbclid=IwAR2S7tFMn9vEm2MVbgZu-NAZxx6NEA4wUntBCi1cxjYehZoqJbImJK9rRTk",
+					"display_url": "koreanculture.org/films/kmovieat…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Korean Movie Night at Home  — Korean Cultural Center New York\nhttps://t.co/yP4bqh1llM\n\n#뉴욕한국문화원 무료 한국 영화 10편 제공.\n4월 27일부터 6월 30일까지 제공.\n\n말모이\n청년경찰\n지금 만나러 갑니다\n봉오동전투\n내부자들\n럭키\n퍼펙트맨\n사도\n가려진 시간\n검사외전\n\n#StayHome #영화"
+	},
+	{
+		"created_at": "Sun May 03 15:50:47 +0000 2020",
+		"id": 1255072786982166500,
+		"id_str": "1256974494704340992",
+		"full_text": "UX의 과제 중 하나가 사용자를 불편하게 한 ‘말과 글’을 다듬는 일, 즉 ‘UX라이팅(글쓰기)’입니다. 전문가도, 가이드라인도 없는 상황이라면 생각보다 어려운 일인데요. 그래서 쉽게 따라 할 수 있는 UX 글쓰기 팁을 준비했습니다.\nhttps://t.co/DZ8rLFYZ8v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DZ8rLFYZ8v",
+					"expanded_url": "https://outstanding.kr/uxwriting20200428/",
+					"display_url": "outstanding.kr/uxwriting20200…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46096,
+			"friends_count": 444,
+			"listed_count": 134,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "UX의 과제 중 하나가 사용자를 불편하게 한 ‘말과 글’을 다듬는 일, 즉 ‘UX라이팅(글쓰기)’입니다. 전문가도, 가이드라인도 없는 상황이라면 생각보다 어려운 일인데요. 그래서 쉽게 따라 할 수 있는 UX 글쓰기 팁을 준비했습니다.\nhttps://t.co/DZ8rLFYZ8v"
+	},
+	{
+		"created_at": "Sun May 03 15:47:33 +0000 2020",
+		"id": 1256973680334172200,
+		"id_str": "1256973680334172160",
+		"full_text": "폰트 저작권 분쟁이 심했던 시절이 있었는데... 라이센스 구분해서 읽기도 어렵고 법률 말하면서  고소협박 들어오면 일반 유저 입장에서는 당황하기 쉬운 것이 현실. 오픈넷에서도 이 부분을 지적하고 개선하라 요구 했던 걸로 기억함. 세세한 라이센스 폐지한 것은 박수쳐야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "폰트 저작권 분쟁이 심했던 시절이 있었는데... 라이센스 구분해서 읽기도 어렵고 법률 말하면서  고소협박 들어오면 일반 유저 입장에서는 당황하기 쉬운 것이 현실. 오픈넷에서도 이 부분을 지적하고 개선하라 요구 했던 걸로 기억함. 세세한 라이센스 폐지한 것은 박수쳐야."
+	},
+	{
+		"created_at": "Sun May 03 15:41:36 +0000 2020",
+		"id": 1255031668483616800,
+		"id_str": "1256972184083247104",
+		"full_text": "“저작권 소송 걱정 그만” 산돌, 200여개 라이선스 구분 ‘전면 폐지’ https://t.co/ELdxP2IsTk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ELdxP2IsTk",
+					"expanded_url": "http://www.bloter.net/archives/379387",
+					"display_url": "bloter.net/archives/379387",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55826,
+			"friends_count": 9,
+			"listed_count": 2470,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“저작권 소송 걱정 그만” 산돌, 200여개 라이선스 구분 ‘전면 폐지’ https://t.co/ELdxP2IsTk"
+	},
+	{
+		"created_at": "Sun May 03 15:41:28 +0000 2020",
+		"id": 1255030784949248000,
+		"id_str": "1256972151275454466",
+		"full_text": "‘당근마켓’ 일 사용자, 11번가·위메프 넘어섰다 https://t.co/U2F6b59uci",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U2F6b59uci",
+					"expanded_url": "http://www.bloter.net/archives/379366",
+					"display_url": "bloter.net/archives/379366",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55826,
+			"friends_count": 9,
+			"listed_count": 2470,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘당근마켓’ 일 사용자, 11번가·위메프 넘어섰다 https://t.co/U2F6b59uci"
+	},
+	{
+		"created_at": "Sun May 03 15:39:22 +0000 2020",
+		"id": 1254689239784132600,
+		"id_str": "1256971621572608001",
+		"full_text": "#주민등록등본, 언제 어디서나 모바일로 발급받고 제출하는 법!📱\n주민센터에서 대기하거나 공인인증하느라 번거로우셨죠? 이제는 스마트폰에 증명서 저장하고 필요할 때마다 간편하게 꺼내쓰세요!🤳\n#정부24 앱 #전자문서지갑 을 활용하면 필요한 증명서를 보다 손쉽게 발급받을 수 있습니다. https://t.co/qr9lguikVP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주민등록등본",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "정부24",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "전자문서지갑",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1254673491128750000,
+					"id_str": "1254673491128750081",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EWmA17wVAAM2Ae-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWmA17wVAAM2Ae-.jpg",
+					"url": "https://t.co/qr9lguikVP",
+					"display_url": "pic.twitter.com/qr9lguikVP",
+					"expanded_url": "https://twitter.com/withyou3542/status/1254689239784132608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254673491128750000,
+					"id_str": "1254673491128750081",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EWmA17wVAAM2Ae-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWmA17wVAAM2Ae-.jpg",
+					"url": "https://t.co/qr9lguikVP",
+					"display_url": "pic.twitter.com/qr9lguikVP",
+					"expanded_url": "https://twitter.com/withyou3542/status/1254689239784132608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 195762,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1254673491128750081/vid/1280x720/y0qa5nNuZ4POlw1x.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1254673491128750081/vid/480x270/PPJsEiKXwii6byTW.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1254673491128750081/pl/evot31RrDPkhCpGY.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1254673491128750081/vid/640x360/-kVvIUAhozsaHFJh.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128160213,
+			"id_str": "128160213",
+			"name": "행정안전부",
+			"screen_name": "withyou3542",
+			"location": "KOREA",
+			"description": "행정안전부 공식 트위터입니다. 국민의 생명과 안전을 지키는 행정안전부의 뜨거운 열정, 따뜻한 마음, 알찬 소식을 타임라인에서 만나보세요!",
+			"url": "https://t.co/GEMaGNwSPB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GEMaGNwSPB",
+							"expanded_url": "http://www.mois.go.kr",
+							"display_url": "mois.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66363,
+			"friends_count": 49357,
+			"listed_count": 1266,
+			"created_at": "Wed Mar 31 08:15:41 +0000 2010",
+			"favourites_count": 4085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889782583969562624/SeTkbXLn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889782583969562624/SeTkbXLn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128160213/1586163237",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 271,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#주민등록등본, 언제 어디서나 모바일로 발급받고 제출하는 법!📱\n주민센터에서 대기하거나 공인인증하느라 번거로우셨죠? 이제는 스마트폰에 증명서 저장하고 필요할 때마다 간편하게 꺼내쓰세요!🤳\n#정부24 앱 #전자문서지갑 을 활용하면 필요한 증명서를 보다 손쉽게 발급받을 수 있습니다. https://t.co/qr9lguikVP"
+	},
+	{
+		"created_at": "Sun May 03 15:36:58 +0000 2020",
+		"id": 1254986332054491100,
+		"id_str": "1256971018536497152",
+		"full_text": "넷플릭스, 시각 장애인을 위한 화면 해설 적극 도입. 넷플릭스 내 모든 한국 오리지널 콘텐츠엔 화면 해설이 기본 적용돼 있습니다. 2015년 &lt;데어데블&gt;의 첫 화면 해설 적용 이후 현재 한국어를 포함해 최대 36개 언어로 지원하며 축적 분량만 총 1만 시간에 도달합니다.\n\nhttps://t.co/HlOMWChZWL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HlOMWChZWL",
+					"expanded_url": "https://news.v.daum.net/v/20200428105916009",
+					"display_url": "news.v.daum.net/v/202004281059…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15143,
+			"friends_count": 749,
+			"listed_count": 143,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994448983786336256/DZXGeDHk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994448983786336256/DZXGeDHk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1525930080",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스, 시각 장애인을 위한 화면 해설 적극 도입. 넷플릭스 내 모든 한국 오리지널 콘텐츠엔 화면 해설이 기본 적용돼 있습니다. 2015년 &lt;데어데블&gt;의 첫 화면 해설 적용 이후 현재 한국어를 포함해 최대 36개 언어로 지원하며 축적 분량만 총 1만 시간에 도달합니다.\n\nhttps://t.co/HlOMWChZWL"
+	},
+	{
+		"created_at": "Sun May 03 15:36:46 +0000 2020",
+		"id": 1254984639661265000,
+		"id_str": "1256970965231128577",
+		"full_text": "[똑똑한 AI 만드는 언어의 세계] 말 한 마디로 바뀌는 세상, 음성인식 기술 https://t.co/zCMqIjVY7H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zCMqIjVY7H",
+					"expanded_url": "https://www.mobiinside.co.kr/?p=49804",
+					"display_url": "mobiinside.co.kr/?p=49804",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3431827212,
+			"id_str": "3431827212",
+			"name": "Mobiinside",
+			"screen_name": "mobiinside",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Thu Sep 03 01:47:30 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/639254127076208640/vsXelQ58_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/639254127076208640/vsXelQ58_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[똑똑한 AI 만드는 언어의 세계] 말 한 마디로 바뀌는 세상, 음성인식 기술 https://t.co/zCMqIjVY7H"
+	},
+	{
+		"created_at": "Sun May 03 15:31:06 +0000 2020",
+		"id": 1254979070162395100,
+		"id_str": "1256969539222253569",
+		"full_text": "콘텐츠 시장을 재편하겠다며 등장한 퀴비! 그런데 초반 성적이 다소 지지부진한 모습입니다. 코로나 사태를 그 원인이란 분석이 나오는데요. 그게 유일한 이유는 아닐 겁니다.\n\nhttps://t.co/GDtx4Ywkll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GDtx4Ywkll",
+					"expanded_url": "https://outstanding.kr/quibi20200428/",
+					"display_url": "outstanding.kr/quibi20200428/",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46096,
+			"friends_count": 444,
+			"listed_count": 134,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "콘텐츠 시장을 재편하겠다며 등장한 퀴비! 그런데 초반 성적이 다소 지지부진한 모습입니다. 코로나 사태를 그 원인이란 분석이 나오는데요. 그게 유일한 이유는 아닐 겁니다.\n\nhttps://t.co/GDtx4Ywkll"
+	},
+	{
 		"created_at": "Sun May 03 15:12:47 +0000 2020",
 		"id": 1256964931007598600,
 		"id_str": "1256964931007598593",
