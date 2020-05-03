@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 03 03:46:14 +0000 2020",
+		"id": 1256780518785339400,
+		"id_str": "1256792154145296384",
+		"full_text": "[쇼챔개인직캠 4K] (여자)아이들 - 사랑해((G)I-DLE - Luv U)\n\n슈화 https://t.co/Q3720GJPaq\n수진 https://t.co/WLLZbMSKj7\n민니 https://t.co/eNejyFbgYF\n우기 https://t.co/kP1sBON2Ud\n미연 https://t.co/f5mVt2F9sZ\n소연 https://t.co/IqPO9lc2SX\n\n#쇼챔피언 #여자아이들 #G_I_DLE #LuvU @G_I_DLE https://t.co/078ssUPO9Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "G_I_DLE",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"text": "LuvU",
+					"indices": [
+						230,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						236,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q3720GJPaq",
+					"expanded_url": "https://youtu.be/-9WKbvPKsxY",
+					"display_url": "youtu.be/-9WKbvPKsxY",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/WLLZbMSKj7",
+					"expanded_url": "https://youtu.be/TATN31Hp0vY",
+					"display_url": "youtu.be/TATN31Hp0vY",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/eNejyFbgYF",
+					"expanded_url": "https://youtu.be/cGslxxddg9o",
+					"display_url": "youtu.be/cGslxxddg9o",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/kP1sBON2Ud",
+					"expanded_url": "https://youtu.be/hU5267NmCS0",
+					"display_url": "youtu.be/hU5267NmCS0",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/f5mVt2F9sZ",
+					"expanded_url": "https://youtu.be/jNsRA_SInQk",
+					"display_url": "youtu.be/jNsRA_SInQk",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/IqPO9lc2SX",
+					"expanded_url": "https://youtu.be/rtm8dDd4myg",
+					"display_url": "youtu.be/rtm8dDd4myg",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256379163289636900,
+					"id_str": "1256379163289636865",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-OMUMU0AE7KFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW-OMUMU0AE7KFp.jpg",
+					"url": "https://t.co/078ssUPO9Z",
+					"display_url": "pic.twitter.com/078ssUPO9Z",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1256780518785339395/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256379163289636900,
+					"id_str": "1256379163289636865",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-OMUMU0AE7KFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW-OMUMU0AE7KFp.jpg",
+					"url": "https://t.co/078ssUPO9Z",
+					"display_url": "pic.twitter.com/078ssUPO9Z",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1256780518785339395/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31791,
+			"friends_count": 4795,
+			"listed_count": 229,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 542,
+		"favorite_count": 1899,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쇼챔개인직캠 4K] (여자)아이들 - 사랑해((G)I-DLE - Luv U)\n\n슈화 https://t.co/Q3720GJPaq\n수진 https://t.co/WLLZbMSKj7\n민니 https://t.co/eNejyFbgYF\n우기 https://t.co/kP1sBON2Ud\n미연 https://t.co/f5mVt2F9sZ\n소연 https://t.co/IqPO9lc2SX\n\n#쇼챔피언 #여자아이들 #G_I_DLE #LuvU @G_I_DLE https://t.co/078ssUPO9Z"
+	},
+	{
 		"created_at": "Sun May 03 03:00:31 +0000 2020",
 		"id": 1256780651774324700,
 		"id_str": "1256780651774324742",
