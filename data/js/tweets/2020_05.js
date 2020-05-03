@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 23:38:54 +0000 2020",
+		"id": 1256544641077219300,
+		"id_str": "1256729912502673408",
+		"full_text": "24일부터 시작한 피크닉 전시회 '명상' 마음챙김(mindfulness)을 직접 체험할 수 있는 다양하고 흥미로운 기회들. 네이버로 미리 예약하고 가셔야. 가격은 1만 5천원. 당연히 전혀 아깝지 않습니다. https://t.co/wVrXBI9Nco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256544478791233500,
+					"id_str": "1256544478791233536",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EXAki8bUcAAb9s9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXAki8bUcAAb9s9.jpg",
+					"url": "https://t.co/wVrXBI9Nco",
+					"display_url": "pic.twitter.com/wVrXBI9Nco",
+					"expanded_url": "https://twitter.com/TellYouMore/status/1256544641077219328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256544478791233500,
+					"id_str": "1256544478791233536",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EXAki8bUcAAb9s9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXAki8bUcAAb9s9.jpg",
+					"url": "https://t.co/wVrXBI9Nco",
+					"display_url": "pic.twitter.com/wVrXBI9Nco",
+					"expanded_url": "https://twitter.com/TellYouMore/status/1256544641077219328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256544528476958700,
+					"id_str": "1256544528476958720",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EXAkl1hUcAAK0S0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXAkl1hUcAAK0S0.jpg",
+					"url": "https://t.co/wVrXBI9Nco",
+					"display_url": "pic.twitter.com/wVrXBI9Nco",
+					"expanded_url": "https://twitter.com/TellYouMore/status/1256544641077219328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256544597167050800,
+					"id_str": "1256544597167050752",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EXAkp1aUEAAsDcl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXAkp1aUEAAsDcl.jpg",
+					"url": "https://t.co/wVrXBI9Nco",
+					"display_url": "pic.twitter.com/wVrXBI9Nco",
+					"expanded_url": "https://twitter.com/TellYouMore/status/1256544641077219328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256544618037928000,
+					"id_str": "1256544618037927936",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EXAkrDKUYAANtqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXAkrDKUYAANtqg.jpg",
+					"url": "https://t.co/wVrXBI9Nco",
+					"display_url": "pic.twitter.com/wVrXBI9Nco",
+					"expanded_url": "https://twitter.com/TellYouMore/status/1256544641077219328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63476989,
+			"id_str": "63476989",
+			"name": "박태인(Taein Park)",
+			"screen_name": "TellYouMore",
+			"location": "Seoul",
+			"description": "중앙일보 기자. 좋은 글을 쓰겠습니다. ※트윗 인용 보도 금지 @mujschool graduate\nhttps://t.co/LISzgr3buo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LISzgr3buo",
+							"expanded_url": "http://brunch.co.kr/@taeinpark",
+							"display_url": "brunch.co.kr/@taeinpark",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21435,
+			"friends_count": 13955,
+			"listed_count": 659,
+			"created_at": "Thu Aug 06 15:30:08 +0000 2009",
+			"favourites_count": 15022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63476989/1411280422",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "24일부터 시작한 피크닉 전시회 '명상' 마음챙김(mindfulness)을 직접 체험할 수 있는 다양하고 흥미로운 기회들. 네이버로 미리 예약하고 가셔야. 가격은 1만 5천원. 당연히 전혀 아깝지 않습니다. https://t.co/wVrXBI9Nco"
+	},
+	{
+		"created_at": "Sat May 02 23:38:24 +0000 2020",
+		"id": 1256612370056536000,
+		"id_str": "1256729785977327616",
+		"full_text": "산중 가장 많이 언급된 산은 북한산(36), 그다음이 관악산(31), 북악산(13), 남한산(10), 불암산(8), 도봉산(7) 순.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1256611578985640000,
+		"in_reply_to_status_id_str": "1256611578985639936",
+		"in_reply_to_user_id": 161705484,
+		"in_reply_to_user_id_str": "161705484",
+		"in_reply_to_screen_name": "beingsince",
+		"user": {
+			"id": 161705484,
+			"id_str": "161705484",
+			"name": "since",
+			"screen_name": "beingsince",
+			"location": "dong-jak, seoul, south korea",
+			"description": "도시-데이터-정책 유관업무 종사자. 요즘은 이동에 집중하고 있습니다. concern about data policy in public / data for public policy. 문의는 beingsince.official@gmail.com",
+			"url": "https://t.co/VPq8RHcVYL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VPq8RHcVYL",
+							"expanded_url": "http://smilesl.tistory.com/",
+							"display_url": "smilesl.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 590,
+			"listed_count": 54,
+			"created_at": "Thu Jul 01 15:04:27 +0000 2010",
+			"favourites_count": 6882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887493792076488704/rTpCs6us_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887493792076488704/rTpCs6us_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161705484/1359488850",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "산중 가장 많이 언급된 산은 북한산(36), 그다음이 관악산(31), 북악산(13), 남한산(10), 불암산(8), 도봉산(7) 순."
+	},
+	{
 		"created_at": "Sat May 02 18:20:40 +0000 2020",
 		"id": 1256433231731273700,
 		"id_str": "1256649825988210689",
