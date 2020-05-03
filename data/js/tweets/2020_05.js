@@ -1,6 +1,1336 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 03 02:01:42 +0000 2020",
+		"id": 1256765848036864000,
+		"id_str": "1256765848036864001",
+		"full_text": "얼마 전에 이렇게 패치가 된 것 같다. 도입과정에서 2번도 표기가 되었다가 금방 수정된 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256765739165315000,
+		"in_reply_to_status_id_str": "1256765739165315072",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 924,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "얼마 전에 이렇게 패치가 된 것 같다. 도입과정에서 2번도 표기가 되었다가 금방 수정된 듯."
+	},
+	{
+		"created_at": "Sun May 03 02:01:16 +0000 2020",
+		"id": 1256765739165315000,
+		"id_str": "1256765739165315072",
+		"full_text": "#트위터리스트 #TwitterLists\n\n3. 비공개 계정 리스트 공개 : 상대 계정에 멤버란에 표기(상대가 볼 수 없음), 알림 감\n4. 비공개 계정 리스트 비공개 : 상대 계정 멤버란에 미표기, 알림 안 감",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트위터리스트",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "TwitterLists",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256765677899141000,
+		"in_reply_to_status_id_str": "1256765677899141121",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 924,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "#트위터리스트 #TwitterLists\n\n3. 비공개 계정 리스트 공개 : 상대 계정에 멤버란에 표기(상대가 볼 수 없음), 알림 감\n4. 비공개 계정 리스트 비공개 : 상대 계정 멤버란에 미표기, 알림 안 감"
+	},
+	{
+		"created_at": "Sun May 03 02:01:01 +0000 2020",
+		"id": 1256765677899141000,
+		"id_str": "1256765677899141121",
+		"full_text": "#트위터리스트 #TwitterLists\n\n1. 공개 계정 공개 리스트 : 상대 계정 리스트 멤버란에 표기, 알림 감\n2. 공개 계정 리스트 비공개 : 상대 계정 리스트 멤버란에 미표기, 알림 안 감",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트위터리스트",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "TwitterLists",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 924,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "#트위터리스트 #TwitterLists\n\n1. 공개 계정 공개 리스트 : 상대 계정 리스트 멤버란에 표기, 알림 감\n2. 공개 계정 리스트 비공개 : 상대 계정 리스트 멤버란에 미표기, 알림 안 감"
+	},
+	{
+		"created_at": "Sun May 03 01:42:47 +0000 2020",
+		"id": 1256761089359896600,
+		"id_str": "1256761089359896576",
+		"full_text": "@TwitterSupport 예를 들어 어그로, TRASH 같은 리스트명으로 넣어뒀다가 난감할 수가 있음. 세컨 계정 관리하시는 분도 주의 필요.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256760648479813600,
+		"in_reply_to_status_id_str": "1256760648479813634",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 924,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@TwitterSupport 예를 들어 어그로, TRASH 같은 리스트명으로 넣어뒀다가 난감할 수가 있음. 세컨 계정 관리하시는 분도 주의 필요."
+	},
+	{
+		"created_at": "Sun May 03 01:41:02 +0000 2020",
+		"id": 1256760648479813600,
+		"id_str": "1256760648479813634",
+		"full_text": "@TwitterSupport 원래는 공개 계정으로 비공개 리스트를 만들거나 비공개 계정으로 만든 리스트는 표기가 아예 안되었던 걸로 알고 있는데 최근 트위터 업데이트 이후부터인지 이렇게 뜬다. 내가 만든 리스트가 떠서 당황해서 설정을 보니까 사라졌음. 버그인지 테스트 중인 기능인지 확인이 필요함.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1256760075932188700,
+		"in_reply_to_status_id_str": "1256760075932188673",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 924,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@TwitterSupport 원래는 공개 계정으로 비공개 리스트를 만들거나 비공개 계정으로 만든 리스트는 표기가 아예 안되었던 걸로 알고 있는데 최근 트위터 업데이트 이후부터인지 이렇게 뜬다. 내가 만든 리스트가 떠서 당황해서 설정을 보니까 사라졌음. 버그인지 테스트 중인 기능인지 확인이 필요함."
+	},
+	{
+		"created_at": "Sun May 03 01:38:46 +0000 2020",
+		"id": 1256760075932188700,
+		"id_str": "1256760075932188673",
+		"full_text": "내 계정을 리스트에 추가한 계정인데 여기보면 비공개 계정이 만든 리스트 임에도 이렇게 뜬다. 클릭하면 https://t.co/EwoXxuCCzY 페이지로 연결됨. @TwitterSupport https://t.co/s8INV1qgCA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EwoXxuCCzY",
+					"expanded_url": "https://twitter.com/404",
+					"display_url": "twitter.com/404",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256759780296646700,
+					"id_str": "1256759780296646657",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EXDoXJCUYAExa7y.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXDoXJCUYAExa7y.png",
+					"url": "https://t.co/s8INV1qgCA",
+					"display_url": "pic.twitter.com/s8INV1qgCA",
+					"expanded_url": "https://twitter.com/fromminn/status/1256760075932188673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 751,
+							"h": 849,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256759780296646700,
+					"id_str": "1256759780296646657",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EXDoXJCUYAExa7y.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXDoXJCUYAExa7y.png",
+					"url": "https://t.co/s8INV1qgCA",
+					"display_url": "pic.twitter.com/s8INV1qgCA",
+					"expanded_url": "https://twitter.com/fromminn/status/1256760075932188673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 751,
+							"h": 849,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 924,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 계정을 리스트에 추가한 계정인데 여기보면 비공개 계정이 만든 리스트 임에도 이렇게 뜬다. 클릭하면 https://t.co/EwoXxuCCzY 페이지로 연결됨. @TwitterSupport https://t.co/s8INV1qgCA"
+	},
+	{
+		"created_at": "Sun May 03 01:29:21 +0000 2020",
+		"id": 1176225981067071500,
+		"id_str": "1256757708046254080",
+		"full_text": "On our list? Make lists even better for you! ✅\n\nNow on iOS, you can pin up to five lists, rearrange them, and swipe to access from home. https://t.co/gNdfNE1DCl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176225896941936600,
+					"id_str": "1176225896941936640",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFLLOKrW4AAN8Q0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFLLOKrW4AAN8Q0.jpg",
+					"url": "https://t.co/gNdfNE1DCl",
+					"display_url": "pic.twitter.com/gNdfNE1DCl",
+					"expanded_url": "https://twitter.com/Twitter/status/1176225981067071489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176225896941936600,
+					"id_str": "1176225896941936640",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFLLOKrW4AAN8Q0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFLLOKrW4AAN8Q0.jpg",
+					"url": "https://t.co/gNdfNE1DCl",
+					"display_url": "pic.twitter.com/gNdfNE1DCl",
+					"expanded_url": "https://twitter.com/Twitter/status/1176225981067071489/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EFLLOKrW4AAN8Q0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1149016022558683100,
+		"in_reply_to_status_id_str": "1149016022558683136",
+		"in_reply_to_user_id": 783214,
+		"in_reply_to_user_id_str": "783214",
+		"in_reply_to_screen_name": "Twitter",
+		"user": {
+			"id": 783214,
+			"id_str": "783214",
+			"name": "Twitter",
+			"screen_name": "Twitter",
+			"location": "Everywhere",
+			"description": "What’s happening?!",
+			"url": "https://t.co/TAXQpsHa5X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TAXQpsHa5X",
+							"expanded_url": "https://about.twitter.com/",
+							"display_url": "about.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57904217,
+			"friends_count": 1,
+			"listed_count": 90996,
+			"created_at": "Tue Feb 20 14:35:54 +0000 2007",
+			"favourites_count": 6404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1583158904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1147,
+		"favorite_count": 5133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On our list? Make lists even better for you! ✅\n\nNow on iOS, you can pin up to five lists, rearrange them, and swipe to access from home. https://t.co/gNdfNE1DCl"
+	},
+	{
+		"created_at": "Sun May 03 01:29:09 +0000 2020",
+		"id": 1149016022558683100,
+		"id_str": "1256757656250769408",
+		"full_text": "Ready for more customization? Now you can pick which lists will appear and pin them. Just don’t let your lists know you’re playing favorites. 🤫 https://t.co/loMPptRfzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149014683208343600,
+					"id_str": "1149014683208343555",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D_IexEJXYAMZk7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_IexEJXYAMZk7i.jpg",
+					"url": "https://t.co/loMPptRfzQ",
+					"display_url": "pic.twitter.com/loMPptRfzQ",
+					"expanded_url": "https://twitter.com/Twitter/status/1149016022558683136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149014683208343600,
+					"id_str": "1149014683208343555",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D_IexEJXYAMZk7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_IexEJXYAMZk7i.jpg",
+					"url": "https://t.co/loMPptRfzQ",
+					"display_url": "pic.twitter.com/loMPptRfzQ",
+					"expanded_url": "https://twitter.com/Twitter/status/1149016022558683136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1143624280401502200,
+		"in_reply_to_status_id_str": "1143624280401502208",
+		"in_reply_to_user_id": 783214,
+		"in_reply_to_user_id_str": "783214",
+		"in_reply_to_screen_name": "Twitter",
+		"user": {
+			"id": 783214,
+			"id_str": "783214",
+			"name": "Twitter",
+			"screen_name": "Twitter",
+			"location": "Everywhere",
+			"description": "What’s happening?!",
+			"url": "https://t.co/TAXQpsHa5X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TAXQpsHa5X",
+							"expanded_url": "https://about.twitter.com/",
+							"display_url": "about.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57904217,
+			"friends_count": 1,
+			"listed_count": 90996,
+			"created_at": "Tue Feb 20 14:35:54 +0000 2007",
+			"favourites_count": 6404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1583158904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 540,
+		"favorite_count": 3364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ready for more customization? Now you can pick which lists will appear and pin them. Just don’t let your lists know you’re playing favorites. 🤫 https://t.co/loMPptRfzQ"
+	},
+	{
+		"created_at": "Sun May 03 01:28:36 +0000 2020",
+		"id": 1143624280401502200,
+		"id_str": "1256757518061035520",
+		"full_text": "Customizable timelines that are easy to access? We’re thinking about ways to do this! One idea we had is for you to be able to swipe to your lists from home. If you're in the test tell us what you think! https://t.co/g5WMaNZ57N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143624045025513500,
+					"id_str": "1143624045025513475",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D974AoBXUAM14zq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D974AoBXUAM14zq.jpg",
+					"url": "https://t.co/g5WMaNZ57N",
+					"display_url": "pic.twitter.com/g5WMaNZ57N",
+					"expanded_url": "https://twitter.com/Twitter/status/1143624280401502208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143624045025513500,
+					"id_str": "1143624045025513475",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D974AoBXUAM14zq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D974AoBXUAM14zq.jpg",
+					"url": "https://t.co/g5WMaNZ57N",
+					"display_url": "pic.twitter.com/g5WMaNZ57N",
+					"expanded_url": "https://twitter.com/Twitter/status/1143624280401502208/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D974AoBXUAM14zq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783214,
+			"id_str": "783214",
+			"name": "Twitter",
+			"screen_name": "Twitter",
+			"location": "Everywhere",
+			"description": "What’s happening?!",
+			"url": "https://t.co/TAXQpsHa5X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TAXQpsHa5X",
+							"expanded_url": "https://about.twitter.com/",
+							"display_url": "about.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57904217,
+			"friends_count": 1,
+			"listed_count": 90996,
+			"created_at": "Tue Feb 20 14:35:54 +0000 2007",
+			"favourites_count": 6404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1583158904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2033,
+		"favorite_count": 11207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Customizable timelines that are easy to access? We’re thinking about ways to do this! One idea we had is for you to be able to swipe to your lists from home. If you're in the test tell us what you think! https://t.co/g5WMaNZ57N"
+	},
+	{
 		"created_at": "Sat May 02 23:38:54 +0000 2020",
 		"id": 1256544641077219300,
 		"id_str": "1256729912502673408",
