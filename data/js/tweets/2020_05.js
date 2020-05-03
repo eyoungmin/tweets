@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 03 15:12:47 +0000 2020",
+		"id": 1256964931007598600,
+		"id_str": "1256964931007598593",
+		"full_text": "가수 앞에 뜬 '영상 관객들'…비대면 공연도 '쌍방향' / SBS\nhttps://t.co/k7in9j4XZs\n\n관객, 팬과 소통하는 다양한 방법을 시도. 공연 아티스트나 기획자가 소통에 참여. @Beyond_LIVE\n\n#포스트코로나 #비대면 #언택트공연\n#예술경영 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포스트코로나",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "비대면",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "언택트공연",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Beyond_LIVE",
+					"name": "Beyond_LIVE",
+					"id": 1247789684672974800,
+					"id_str": "1247789684672974851",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k7in9j4XZs",
+					"expanded_url": "https://youtu.be/NBEbfvlBiiU",
+					"display_url": "youtu.be/NBEbfvlBiiU",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가수 앞에 뜬 '영상 관객들'…비대면 공연도 '쌍방향' / SBS\nhttps://t.co/k7in9j4XZs\n\n관객, 팬과 소통하는 다양한 방법을 시도. 공연 아티스트나 기획자가 소통에 참여. @Beyond_LIVE\n\n#포스트코로나 #비대면 #언택트공연\n#예술경영 #뮤직비지니스"
+	},
+	{
+		"created_at": "Sun May 03 15:09:16 +0000 2020",
+		"id": 1256964047444074500,
+		"id_str": "1256964047444074508",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n69] '마이너스 유가'와 선물의 세계 (f.고란 기자)\nhttps://t.co/LUsxrw7zJf\n팟티: https://t.co/eEQV0oZ6pq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LUsxrw7zJf",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1588244119174.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/eEQV0oZ6pq",
+					"expanded_url": "https://www.podty.me/episode/13251019",
+					"display_url": "podty.me/episode/132510…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n69] '마이너스 유가'와 선물의 세계 (f.고란 기자)\nhttps://t.co/LUsxrw7zJf\n팟티: https://t.co/eEQV0oZ6pq"
+	},
+	{
+		"created_at": "Sun May 03 15:09:15 +0000 2020",
+		"id": 1256964042926764000,
+		"id_str": "1256964042926764033",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n70] 원유 ETN에 베팅하는 개미 투자자 (f.고란 기자)\nhttps://t.co/5PcSmMVoed\n팟티: https://t.co/Bw9EEY8MNg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5PcSmMVoed",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1588244182658.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/Bw9EEY8MNg",
+					"expanded_url": "https://www.podty.me/episode/13252039",
+					"display_url": "podty.me/episode/132520…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n70] 원유 ETN에 베팅하는 개미 투자자 (f.고란 기자)\nhttps://t.co/5PcSmMVoed\n팟티: https://t.co/Bw9EEY8MNg"
+	},
+	{
+		"created_at": "Sun May 03 15:05:21 +0000 2020",
+		"id": 1256963058510868500,
+		"id_str": "1256963058510868482",
+		"full_text": "@kr_it_event 잘 보고 있습니다. 구글캘린더나 .ics로 제공해주시면 더 좋을 것 같습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_it_event",
+					"name": "IT 행사 안내",
+					"id": 4848848052,
+					"id_str": "4848848052",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 4848848052,
+		"in_reply_to_user_id_str": "4848848052",
+		"in_reply_to_screen_name": "kr_it_event",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@kr_it_event 잘 보고 있습니다. 구글캘린더나 .ics로 제공해주시면 더 좋을 것 같습니다."
+	},
+	{
 		"created_at": "Sun May 03 14:55:53 +0000 2020",
 		"id": 1256947543042216000,
 		"id_str": "1256960675982635009",
