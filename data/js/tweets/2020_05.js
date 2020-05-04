@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 12:47:42 +0000 2020",
+		"id": 1256904930687725600,
+		"id_str": "1257290805418405889",
+		"full_text": "안타깝게도 그가 그린 사도세자의 초상화와 영조의 어진이 남아있지 않다. 다만 정조가 변상벽이 그린 사도세자의 초상화를 보고 “아버님이 살아 돌아오신 듯하다”며 눈물을 지었다는 일화는 전해진다.\n\n변상벽은 자신의 강점인 세심한 관찰력과 정밀한 묘사를 열심히 갈고 닦았고, 최고가 되었다. https://t.co/NECXXVCa1L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256904423336370200,
+					"id_str": "1256904423336370177",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFr6eWU4AEJf2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFr6eWU4AEJf2M.jpg",
+					"url": "https://t.co/NECXXVCa1L",
+					"display_url": "pic.twitter.com/NECXXVCa1L",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256904930687725568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 406,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1257,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256904423336370200,
+					"id_str": "1256904423336370177",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFr6eWU4AEJf2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFr6eWU4AEJf2M.jpg",
+					"url": "https://t.co/NECXXVCa1L",
+					"display_url": "pic.twitter.com/NECXXVCa1L",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256904930687725568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 406,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1257,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256904423340531700,
+					"id_str": "1256904423340531717",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFr6eXUYAUAolq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFr6eXUYAUAolq.jpg",
+					"url": "https://t.co/NECXXVCa1L",
+					"display_url": "pic.twitter.com/NECXXVCa1L",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256904930687725568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 635,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 635,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256904423340564500,
+					"id_str": "1256904423340564482",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFr6eXU4AIQeok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFr6eXU4AIQeok.jpg",
+					"url": "https://t.co/NECXXVCa1L",
+					"display_url": "pic.twitter.com/NECXXVCa1L",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256904930687725568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1256895979858477000,
+		"in_reply_to_status_id_str": "1256895979858477058",
+		"in_reply_to_user_id": 1168394991934136300,
+		"in_reply_to_user_id_str": "1168394991934136320",
+		"in_reply_to_screen_name": "Cinnamonwith_U",
+		"user": {
+			"id": 1168394991934136300,
+			"id_str": "1168394991934136320",
+			"name": "시나몬cinnamon",
+			"screen_name": "Cinnamonwith_U",
+			"location": "By your side",
+			"description": "의식적, 무의식적 검열을 거친 \n나를 위한 기록",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 837,
+			"friends_count": 394,
+			"listed_count": 3,
+			"created_at": "Mon Sep 02 05:27:43 +0000 2019",
+			"favourites_count": 60392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168396557093232641/lCWUe3zu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168396557093232641/lCWUe3zu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168394991934136320/1579845810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안타깝게도 그가 그린 사도세자의 초상화와 영조의 어진이 남아있지 않다. 다만 정조가 변상벽이 그린 사도세자의 초상화를 보고 “아버님이 살아 돌아오신 듯하다”며 눈물을 지었다는 일화는 전해진다.\n\n변상벽은 자신의 강점인 세심한 관찰력과 정밀한 묘사를 열심히 갈고 닦았고, 최고가 되었다. https://t.co/NECXXVCa1L"
+	},
+	{
+		"created_at": "Mon May 04 12:47:27 +0000 2020",
+		"id": 1256895979858477000,
+		"id_str": "1257290745137885184",
+		"full_text": "그는 고양이 못지 않게 닭도 잘 그렸는데 변묘, 변계라 불릴 정도였다고 한다. 그리고 실력을 인정 받아 도화서에 소속이 되어 임금의 얼굴인 어진을 그리기도 했고, 화원에게 가장 명예로운 자리인 국수가 되었으며, 고양이와 닭 그림에서는 조선 제일로 칭송을 받게 되었다. https://t.co/pGd0hBGNY8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256895409282117600,
+					"id_str": "1256895409282117632",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFjtyYUcAAQBSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFjtyYUcAAQBSM.jpg",
+					"url": "https://t.co/pGd0hBGNY8",
+					"display_url": "pic.twitter.com/pGd0hBGNY8",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256895979858477058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 747,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256895409282117600,
+					"id_str": "1256895409282117632",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFjtyYUcAAQBSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFjtyYUcAAQBSM.jpg",
+					"url": "https://t.co/pGd0hBGNY8",
+					"display_url": "pic.twitter.com/pGd0hBGNY8",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256895979858477058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 747,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256895409298915300,
+					"id_str": "1256895409298915329",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFjtycUwAEyJpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFjtycUwAEyJpo.jpg",
+					"url": "https://t.co/pGd0hBGNY8",
+					"display_url": "pic.twitter.com/pGd0hBGNY8",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256895979858477058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 725,
+							"h": 1549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 318,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 562,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1256892725955227600,
+		"in_reply_to_status_id_str": "1256892725955227648",
+		"in_reply_to_user_id": 1168394991934136300,
+		"in_reply_to_user_id_str": "1168394991934136320",
+		"in_reply_to_screen_name": "Cinnamonwith_U",
+		"user": {
+			"id": 1168394991934136300,
+			"id_str": "1168394991934136320",
+			"name": "시나몬cinnamon",
+			"screen_name": "Cinnamonwith_U",
+			"location": "By your side",
+			"description": "의식적, 무의식적 검열을 거친 \n나를 위한 기록",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 837,
+			"friends_count": 394,
+			"listed_count": 3,
+			"created_at": "Mon Sep 02 05:27:43 +0000 2019",
+			"favourites_count": 60392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168396557093232641/lCWUe3zu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168396557093232641/lCWUe3zu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168394991934136320/1579845810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그는 고양이 못지 않게 닭도 잘 그렸는데 변묘, 변계라 불릴 정도였다고 한다. 그리고 실력을 인정 받아 도화서에 소속이 되어 임금의 얼굴인 어진을 그리기도 했고, 화원에게 가장 명예로운 자리인 국수가 되었으며, 고양이와 닭 그림에서는 조선 제일로 칭송을 받게 되었다. https://t.co/pGd0hBGNY8"
+	},
+	{
+		"created_at": "Mon May 04 12:47:25 +0000 2020",
+		"id": 1256892725955227600,
+		"id_str": "1257290734392143877",
+		"full_text": "“모습들에 익숙해지니 고양이의 생리가 내 마음에 있고, 그 모습이 내 눈에 있어 그 다음에는 고양이의 형태가 내 손을 닿아 나오게 됩디다.\n\n인간 세상에 있는 고양이도 수천 마리겠지만, 내 마음과 손에 있는 놈 또한 헤아릴 수 없지요. 이것이 내가 일세에 독보적인 존재가 된 까닭이라오.” https://t.co/zFNQYas8rm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256892636528431000,
+					"id_str": "1256892636528431104",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFhMZEU0AALOcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFhMZEU0AALOcJ.jpg",
+					"url": "https://t.co/zFNQYas8rm",
+					"display_url": "pic.twitter.com/zFNQYas8rm",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256892725955227648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 557,
+							"h": 915,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 557,
+							"h": 915,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256892636528431000,
+					"id_str": "1256892636528431104",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFhMZEU0AALOcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFhMZEU0AALOcJ.jpg",
+					"url": "https://t.co/zFNQYas8rm",
+					"display_url": "pic.twitter.com/zFNQYas8rm",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256892725955227648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 557,
+							"h": 915,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 557,
+							"h": 915,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1256892724034203600,
+		"in_reply_to_status_id_str": "1256892724034203650",
+		"in_reply_to_user_id": 1168394991934136300,
+		"in_reply_to_user_id_str": "1168394991934136320",
+		"in_reply_to_screen_name": "Cinnamonwith_U",
+		"user": {
+			"id": 1168394991934136300,
+			"id_str": "1168394991934136320",
+			"name": "시나몬cinnamon",
+			"screen_name": "Cinnamonwith_U",
+			"location": "By your side",
+			"description": "의식적, 무의식적 검열을 거친 \n나를 위한 기록",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 837,
+			"friends_count": 394,
+			"listed_count": 3,
+			"created_at": "Mon Sep 02 05:27:43 +0000 2019",
+			"favourites_count": 60392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168396557093232641/lCWUe3zu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168396557093232641/lCWUe3zu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168394991934136320/1579845810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“모습들에 익숙해지니 고양이의 생리가 내 마음에 있고, 그 모습이 내 눈에 있어 그 다음에는 고양이의 형태가 내 손을 닿아 나오게 됩디다.\n\n인간 세상에 있는 고양이도 수천 마리겠지만, 내 마음과 손에 있는 놈 또한 헤아릴 수 없지요. 이것이 내가 일세에 독보적인 존재가 된 까닭이라오.” https://t.co/zFNQYas8rm"
+	},
+	{
+		"created_at": "Mon May 04 12:47:22 +0000 2020",
+		"id": 1256892724034203600,
+		"id_str": "1257290724065677312",
+		"full_text": "그가 남긴 말은 시사하는 바가 크다.\n\n“재주란 넓으면서도 조잡한 것보다는 차라리 한 가지에 정밀하여 이름을 이루는 것이 낫다고 생각하오. 나 또한 산수화를 배웠지만, 지금의 화가를 압도하여 그 위로 올라설 수 없다는 것을 알았기에 사물을 골라서 연습했지요.” https://t.co/OTFbugH7hG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256892601489219600,
+					"id_str": "1256892601489219585",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFhKWiU4AEw19o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFhKWiU4AEw19o.jpg",
+					"url": "https://t.co/OTFbugH7hG",
+					"display_url": "pic.twitter.com/OTFbugH7hG",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256892724034203650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 606,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256892601489219600,
+					"id_str": "1256892601489219585",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFhKWiU4AEw19o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFhKWiU4AEw19o.jpg",
+					"url": "https://t.co/OTFbugH7hG",
+					"display_url": "pic.twitter.com/OTFbugH7hG",
+					"expanded_url": "https://twitter.com/Cinnamonwith_U/status/1256892724034203650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 606,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1256891124565733400,
+		"in_reply_to_status_id_str": "1256891124565733376",
+		"in_reply_to_user_id": 1168394991934136300,
+		"in_reply_to_user_id_str": "1168394991934136320",
+		"in_reply_to_screen_name": "Cinnamonwith_U",
+		"user": {
+			"id": 1168394991934136300,
+			"id_str": "1168394991934136320",
+			"name": "시나몬cinnamon",
+			"screen_name": "Cinnamonwith_U",
+			"location": "By your side",
+			"description": "의식적, 무의식적 검열을 거친 \n나를 위한 기록",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 837,
+			"friends_count": 394,
+			"listed_count": 3,
+			"created_at": "Mon Sep 02 05:27:43 +0000 2019",
+			"favourites_count": 60392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168396557093232641/lCWUe3zu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168396557093232641/lCWUe3zu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168394991934136320/1579845810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그가 남긴 말은 시사하는 바가 크다.\n\n“재주란 넓으면서도 조잡한 것보다는 차라리 한 가지에 정밀하여 이름을 이루는 것이 낫다고 생각하오. 나 또한 산수화를 배웠지만, 지금의 화가를 압도하여 그 위로 올라설 수 없다는 것을 알았기에 사물을 골라서 연습했지요.” https://t.co/OTFbugH7hG"
+	},
+	{
 		"created_at": "Mon May 04 11:36:19 +0000 2020",
 		"id": 1257188643594109000,
 		"id_str": "1257272843139641344",
