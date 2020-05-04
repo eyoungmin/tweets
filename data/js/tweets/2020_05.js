@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 10:52:18 +0000 2020",
+		"id": 1257257543232974800,
+		"id_str": "1257261765068566530",
+		"full_text": "😊✋🏻✋🏻 https://t.co/YYIx4edm4Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257257540322070500,
+					"id_str": "1257257540322070528",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EXKtEloUEAAF3oJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXKtEloUEAAF3oJ.jpg",
+					"url": "https://t.co/YYIx4edm4Z",
+					"display_url": "pic.twitter.com/YYIx4edm4Z",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1257257543232974848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 564,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257257540322070500,
+					"id_str": "1257257540322070528",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EXKtEloUEAAF3oJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXKtEloUEAAF3oJ.jpg",
+					"url": "https://t.co/YYIx4edm4Z",
+					"display_url": "pic.twitter.com/YYIx4edm4Z",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1257257543232974848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 564,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 2,
+			"listed_count": 8,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😊✋🏻✋🏻 https://t.co/YYIx4edm4Z"
+	},
+	{
+		"created_at": "Mon May 04 10:52:13 +0000 2020",
+		"id": 1257248926274474000,
+		"id_str": "1257261743593738240",
+		"full_text": "テヨンの韓国新曲「Happy」が主要配信サービスで配信スタート♪ミュージックビデオも公開！ぜひチェックしてください✔️\n#テヨン #TAEYEON #태연 #Happy \n▼配信はこちら\nhttps://t.co/xv8TEnWNDq\n▼MVはこちら\nhttps://t.co/AS7qfweQkv\n▼詳細はこちら\nhttps://t.co/I1D0uhLRyf https://t.co/U095aouUQr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xv8TEnWNDq",
+					"expanded_url": "https://umj.lnk.to/tyhappy",
+					"display_url": "umj.lnk.to/tyhappy",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/AS7qfweQkv",
+					"expanded_url": "https://youtu.be/Raj-AuQgCTg",
+					"display_url": "youtu.be/Raj-AuQgCTg",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/I1D0uhLRyf",
+					"expanded_url": "http://taeyeon.girls-generation.jp/news/happy_release/",
+					"display_url": "taeyeon.girls-generation.jp/news/happy_rel…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257248873774329900,
+					"id_str": "1257248873774329856",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1257248873774329856/pu/img/AHC5ZJKg_b_L9IuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1257248873774329856/pu/img/AHC5ZJKg_b_L9IuC.jpg",
+					"url": "https://t.co/U095aouUQr",
+					"display_url": "pic.twitter.com/U095aouUQr",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1257248926274473985/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257248873774329900,
+					"id_str": "1257248873774329856",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1257248873774329856/pu/img/AHC5ZJKg_b_L9IuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1257248873774329856/pu/img/AHC5ZJKg_b_L9IuC.jpg",
+					"url": "https://t.co/U095aouUQr",
+					"display_url": "pic.twitter.com/U095aouUQr",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1257248926274473985/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19648,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1257248873774329856/pu/vid/640x360/lx9DRPywugO0dJS5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1257248873774329856/pu/pl/ogrdYjegmFRErrjy.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1257248873774329856/pu/vid/480x270/6WeJQrajBbayuq7f.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1257248873774329856/pu/vid/1280x720/ziw1iIYJdhN882Nu.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103103,
+			"friends_count": 0,
+			"listed_count": 565,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 741,
+		"favorite_count": 1038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨンの韓国新曲「Happy」が主要配信サービスで配信スタート♪ミュージックビデオも公開！ぜひチェックしてください✔️\n#テヨン #TAEYEON #태연 #Happy \n▼配信はこちら\nhttps://t.co/xv8TEnWNDq\n▼MVはこちら\nhttps://t.co/AS7qfweQkv\n▼詳細はこちら\nhttps://t.co/I1D0uhLRyf https://t.co/U095aouUQr"
+	},
+	{
 		"created_at": "Mon May 04 09:53:25 +0000 2020",
 		"id": 1257246947985031200,
 		"id_str": "1257246947985031171",
