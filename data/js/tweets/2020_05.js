@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 20:10:07 +0000 2020",
+		"id": 1257388649731313700,
+		"id_str": "1257402144006774790",
+		"full_text": "공식으로 인수 발표가 릴리즈. 인수가보다는 약간 낮은 9억불에 인수로 인텔의 모빌아이가 더 나은 모빌리티 서비스를 제공할 수 있게 되었다는 평가. 무빗은 2012년 이스라엘에서 시작된 회사 https://t.co/3QtsArCWhI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3QtsArCWhI",
+					"expanded_url": "https://newsroom.intel.com/editorials/mobileye-amnon-shashua-may-2020/",
+					"display_url": "newsroom.intel.com/editorials/mob…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1257076696882335700,
+		"in_reply_to_status_id_str": "1257076696882335744",
+		"in_reply_to_user_id": 13113612,
+		"in_reply_to_user_id_str": "13113612",
+		"in_reply_to_screen_name": "minist",
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": "https://t.co/3cxweHYPJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3cxweHYPJO",
+							"expanded_url": "https://minist.kr",
+							"display_url": "minist.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63937,
+			"friends_count": 725,
+			"listed_count": 921,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공식으로 인수 발표가 릴리즈. 인수가보다는 약간 낮은 9억불에 인수로 인텔의 모빌아이가 더 나은 모빌리티 서비스를 제공할 수 있게 되었다는 평가. 무빗은 2012년 이스라엘에서 시작된 회사 https://t.co/3QtsArCWhI"
+	},
+	{
+		"created_at": "Mon May 04 20:09:58 +0000 2020",
+		"id": 1257076696882335700,
+		"id_str": "1257402107386363913",
+		"full_text": "인텔이 AI와 빅데이터를 통해 트래픽을 트랙킹해 대중교통을 선택하게 제안해주는 전세계 8억 사용자의 이스라엘 스타트업 Moovit을 약 10억불에 인수하는 것으로 알려져. 무빗의 마지막 기업밸류는 5억불이었는데 우버에 최적 경로를 제공하도록 통합된 등 2년간 크게 성장 https://t.co/Gp8kc7Vdp5 https://t.co/iVLBjxGP2f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gp8kc7Vdp5",
+					"expanded_url": "https://techcrunch.com/2020/05/03/intel-to-buy-smart-urban-transit-startup-moovit-for-1b-to-boost-its-autonomous-car-division/",
+					"display_url": "techcrunch.com/2020/05/03/int…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257076695439495200,
+					"id_str": "1257076695439495168",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EXIImB8X0AA0VWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXIImB8X0AA0VWg.jpg",
+					"url": "https://t.co/iVLBjxGP2f",
+					"display_url": "pic.twitter.com/iVLBjxGP2f",
+					"expanded_url": "https://twitter.com/minist/status/1257076696882335744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 764,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257076695439495200,
+					"id_str": "1257076695439495168",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EXIImB8X0AA0VWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXIImB8X0AA0VWg.jpg",
+					"url": "https://t.co/iVLBjxGP2f",
+					"display_url": "pic.twitter.com/iVLBjxGP2f",
+					"expanded_url": "https://twitter.com/minist/status/1257076696882335744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 764,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": "https://t.co/3cxweHYPJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3cxweHYPJO",
+							"expanded_url": "https://minist.kr",
+							"display_url": "minist.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63937,
+			"friends_count": 725,
+			"listed_count": 921,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인텔이 AI와 빅데이터를 통해 트래픽을 트랙킹해 대중교통을 선택하게 제안해주는 전세계 8억 사용자의 이스라엘 스타트업 Moovit을 약 10억불에 인수하는 것으로 알려져. 무빗의 마지막 기업밸류는 5억불이었는데 우버에 최적 경로를 제공하도록 통합된 등 2년간 크게 성장 https://t.co/Gp8kc7Vdp5 https://t.co/iVLBjxGP2f"
+	},
+	{
 		"created_at": "Mon May 04 16:08:46 +0000 2020",
 		"id": 1257341407817281500,
 		"id_str": "1257341407817281537",
