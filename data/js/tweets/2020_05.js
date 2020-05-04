@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 06:52:13 +0000 2020",
+		"id": 1257130873712853000,
+		"id_str": "1257201345557340165",
+		"full_text": "2020년 5월 4일 (KST), \nGIRLS’ GENERATION bubble을 지금 시작합니다!\n\n최애 아티스트와 나만의 특별한 프라이빗 메시지! \n그 첫 번째 메시지를 놓치지 마세요🙂\n\n📱Android https://t.co/uRaEWZESjj\n📱iOS https://t.co/Ei9S0aVc5P\n\n#Dear_U_bubble #Lysn #디어유 #버블 \n#소녀시대 #GirlsGeneration https://t.co/iN7KpqbSpF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_bubble",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"text": "Lysn",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "디어유",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "버블",
+					"indices": [
+						196,
+						199
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						207,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uRaEWZESjj",
+					"expanded_url": "https://bit.ly/2RzesBM",
+					"display_url": "bit.ly/2RzesBM",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/Ei9S0aVc5P",
+					"expanded_url": "https://apple.co/2F9HnpN",
+					"display_url": "apple.co/2F9HnpN",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257130859498320000,
+					"id_str": "1257130859498319873",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXI52yyUMAE5LeM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXI52yyUMAE5LeM.jpg",
+					"url": "https://t.co/iN7KpqbSpF",
+					"display_url": "pic.twitter.com/iN7KpqbSpF",
+					"expanded_url": "https://twitter.com/lysn_official/status/1257130873712852992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257130859498320000,
+					"id_str": "1257130859498319873",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXI52yyUMAE5LeM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXI52yyUMAE5LeM.jpg",
+					"url": "https://t.co/iN7KpqbSpF",
+					"display_url": "pic.twitter.com/iN7KpqbSpF",
+					"expanded_url": "https://twitter.com/lysn_official/status/1257130873712852992/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EXI52yyUMAE5LeM.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "이 세상 어느 커뮤니티보다 내 관심사에 대해 자유롭게 이야기할 수 있는 공간. 당신은 어떤 이야기를 나누고 싶나요?",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5089,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1064,
+		"favorite_count": 1233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020년 5월 4일 (KST), \nGIRLS’ GENERATION bubble을 지금 시작합니다!\n\n최애 아티스트와 나만의 특별한 프라이빗 메시지! \n그 첫 번째 메시지를 놓치지 마세요🙂\n\n📱Android https://t.co/uRaEWZESjj\n📱iOS https://t.co/Ei9S0aVc5P\n\n#Dear_U_bubble #Lysn #디어유 #버블 \n#소녀시대 #GirlsGeneration https://t.co/iN7KpqbSpF"
+	},
+	{
 		"created_at": "Mon May 04 05:58:19 +0000 2020",
 		"id": 1257187782826606600,
 		"id_str": "1257187782826606593",
