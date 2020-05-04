@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 16:01:06 +0000 2020",
+		"id": 1257326688922300400,
+		"id_str": "1257339478856863744",
+		"full_text": "TAEYEON 태연 'Happy'\nOfficial Lyrics Eng\n\n#TAEYEON #태연 #소녀시대\n#GirlsGeneration #Happy\n\nhttps://t.co/ZmbKsmgkvi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZmbKsmgkvi",
+					"expanded_url": "https://youtu.be/7R_VGCYfpaI",
+					"display_url": "youtu.be/7R_VGCYfpaI",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 981102400814563300,
+			"id_str": "981102400814563328",
+			"name": "!t Live (잇라이브)",
+			"screen_name": "SMmakesitLive",
+			"location": "",
+			"description": "에스엠 엔터테인먼트가 만드는 실시간 멀티라이브 방송 채널 / Live broadcast by SM Entertainment",
+			"url": "https://t.co/R19mkV84d7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R19mkV84d7",
+							"expanded_url": "http://youtube.com/itlive",
+							"display_url": "youtube.com/itlive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140756,
+			"friends_count": 35,
+			"listed_count": 295,
+			"created_at": "Tue Apr 03 09:33:35 +0000 2018",
+			"favourites_count": 12281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981107047440687105/-v2C4fKZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981107047440687105/-v2C4fKZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/981102400814563328/1522750140",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 419,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "TAEYEON 태연 'Happy'\nOfficial Lyrics Eng\n\n#TAEYEON #태연 #소녀시대\n#GirlsGeneration #Happy\n\nhttps://t.co/ZmbKsmgkvi"
+	},
+	{
+		"created_at": "Mon May 04 15:54:09 +0000 2020",
+		"id": 1257337727256838100,
+		"id_str": "1257337727256838144",
+		"full_text": "참고) \n最新版Telegram無法替換字型 · Issue #59 · ysc3839/FontMod\nhttps://t.co/I8iZOSIrcG\n\n#텔레그램 #Telegram #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "텔레그램",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "Telegram",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I8iZOSIrcG",
+					"expanded_url": "https://github.com/ysc3839/FontMod/issues/59",
+					"display_url": "github.com/ysc3839/FontMo…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1257336543355814000,
+		"in_reply_to_status_id_str": "1257336543355813894",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 926,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "참고) \n最新版Telegram無法替換字型 · Issue #59 · ysc3839/FontMod\nhttps://t.co/I8iZOSIrcG\n\n#텔레그램 #Telegram #minfav"
+	},
+	{
+		"created_at": "Mon May 04 15:49:26 +0000 2020",
+		"id": 1257336543355814000,
+		"id_str": "1257336543355813894",
+		"full_text": "텔레그램 2.1.1 버전 한국어 폰트 문제 임시 해결방법\nhttps://t.co/WXajq8ebCZ\n\nC:\\Users\\사용자이름\\AppData\\Roaming\\Telegram Desktop 에 넣으세요.\n\n나눔고딕 대신 다른 폰트를 사용하고 싶으면 변경하세요.\n\n#텔레그램 #Telegram #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "텔레그램",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "Telegram",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WXajq8ebCZ",
+					"expanded_url": "https://drive.google.com/open?id=1TwR06s7v8eUKFZRsrL6D-oDugcC4ErKi",
+					"display_url": "drive.google.com/open?id=1TwR06…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 926,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텔레그램 2.1.1 버전 한국어 폰트 문제 임시 해결방법\nhttps://t.co/WXajq8ebCZ\n\nC:\\Users\\사용자이름\\AppData\\Roaming\\Telegram Desktop 에 넣으세요.\n\n나눔고딕 대신 다른 폰트를 사용하고 싶으면 변경하세요.\n\n#텔레그램 #Telegram #minfav"
+	},
+	{
 		"created_at": "Mon May 04 15:07:15 +0000 2020",
 		"id": 1257074959559598000,
 		"id_str": "1257325928339795971",
