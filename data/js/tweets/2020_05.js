@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 03:45:37 +0000 2020",
+		"id": 1257142888145670100,
+		"id_str": "1257154386616295425",
+		"full_text": "[이달의소녀킼킼 #194]\n#진솔 이는 포즈만 잡아도 명화고 조각이야💙\n\n#이달의소녀 #LOONA #LOONAKick #JinSoul https://t.co/vxmGkmVR8B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257139135212470300,
+					"id_str": "1257139135212470273",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1257139135212470273/pu/img/R9I01Ia8dP_imTIV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1257139135212470273/pu/img/R9I01Ia8dP_imTIV.jpg",
+					"url": "https://t.co/vxmGkmVR8B",
+					"display_url": "pic.twitter.com/vxmGkmVR8B",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1257142888145670145/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257139135212470300,
+					"id_str": "1257139135212470273",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1257139135212470273/pu/img/R9I01Ia8dP_imTIV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1257139135212470273/pu/img/R9I01Ia8dP_imTIV.jpg",
+					"url": "https://t.co/vxmGkmVR8B",
+					"display_url": "pic.twitter.com/vxmGkmVR8B",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1257142888145670145/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 4917,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1257139135212470273/pu/pl/ejBJ1uqUEsOKcpqm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1257139135212470273/pu/vid/384x480/jzef8WbrLGbuEH4f.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1257139135212470273/pu/vid/320x400/qQ6xwCXS4LHd2XPY.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 456284,
+			"friends_count": 0,
+			"listed_count": 6460,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6162,
+		"favorite_count": 15741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #194]\n#진솔 이는 포즈만 잡아도 명화고 조각이야💙\n\n#이달의소녀 #LOONA #LOONAKick #JinSoul https://t.co/vxmGkmVR8B"
+	},
+	{
 		"created_at": "Mon May 04 03:00:31 +0000 2020",
 		"id": 1257143037697949700,
 		"id_str": "1257143037697949698",
@@ -284,7 +520,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Mon May 04 02:22:01 +0000 2020",
 		"id": 1257114119632646100,
 		"id_str": "1257133347479773184",
-		"full_text": "지난 5일간 스페셜 DJ 권유리와 함께한 ‘꿈꾸는 라디오’ 즐거우셨나요~?📻💫\n\n“행복하고 의미 있는 시간이었고, 또 좋은 기회로 라디오에서 만났으면 좋겠다”는 권유리와 조만간 또 만나요!🙋🏻‍♀️\n \n#KWONYURI #권유리 #유리 #소녀시대 #GirlsGeneration #꿈꾸는라디오 https://t.co/4kwtkYh1nf",
+		"full_text": "지난 5일간 스페셜 DJ 권유리와 함께한 ‘꿈꾸는 라디오’ 즐거우셨나요~?📻💫\n\n“행복하고 의미 있는 시간이었고, 또 좋은 기회로 라디오에서 만났으면 좋겠다”는 권유리와 조만간 또 만나요!🙋🏻♀️\n \n#KWONYURI #권유리 #유리 #소녀시대 #GirlsGeneration #꿈꾸는라디오 https://t.co/4kwtkYh1nf",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -531,7 +767,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": true,
 		"lang": "ko",
-		"text": "지난 5일간 스페셜 DJ 권유리와 함께한 ‘꿈꾸는 라디오’ 즐거우셨나요~?📻💫\n\n“행복하고 의미 있는 시간이었고, 또 좋은 기회로 라디오에서 만났으면 좋겠다”는 권유리와 조만간 또 만나요!🙋🏻‍♀️\n \n#KWONYURI #권유리 #유리 #소녀시대 #GirlsGeneration #꿈꾸는라디오 https://t.co/4kwtkYh1nf"
+		"text": "지난 5일간 스페셜 DJ 권유리와 함께한 ‘꿈꾸는 라디오’ 즐거우셨나요~?📻💫\n\n“행복하고 의미 있는 시간이었고, 또 좋은 기회로 라디오에서 만났으면 좋겠다”는 권유리와 조만간 또 만나요!🙋🏻♀️\n \n#KWONYURI #권유리 #유리 #소녀시대 #GirlsGeneration #꿈꾸는라디오 https://t.co/4kwtkYh1nf"
 	},
 	{
 		"created_at": "Mon May 04 01:44:18 +0000 2020",
