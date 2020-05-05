@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 03:52:12 +0000 2020",
+		"id": 1257505957610811400,
+		"id_str": "1257518434340012037",
+		"full_text": "📸 [청하의 사진첩] Stay Tonight과 함께한 4월🍀\n\n☕️ https://t.co/SG6gg0qwZQ\n\n#청하 #CHUNGHA\n#StayTonight ✨\n#공식카페 #청하Diary https://t.co/6jdpexomHh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "공식카페",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "청하Diary",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SG6gg0qwZQ",
+					"expanded_url": "https://bit.ly/3c5fzjS",
+					"display_url": "bit.ly/3c5fzjS",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257505945497698300,
+					"id_str": "1257505945497698306",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EXOO_rBVAAI0Irp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXOO_rBVAAI0Irp.jpg",
+					"url": "https://t.co/6jdpexomHh",
+					"display_url": "pic.twitter.com/6jdpexomHh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1257505957610811392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257505945497698300,
+					"id_str": "1257505945497698306",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EXOO_rBVAAI0Irp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXOO_rBVAAI0Irp.jpg",
+					"url": "https://t.co/6jdpexomHh",
+					"display_url": "pic.twitter.com/6jdpexomHh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1257505957610811392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257115,
+			"friends_count": 0,
+			"listed_count": 1954,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 872,
+		"favorite_count": 4166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 [청하의 사진첩] Stay Tonight과 함께한 4월🍀\n\n☕️ https://t.co/SG6gg0qwZQ\n\n#청하 #CHUNGHA\n#StayTonight ✨\n#공식카페 #청하Diary https://t.co/6jdpexomHh"
+	},
+	{
 		"created_at": "Tue May 05 03:00:50 +0000 2020",
 		"id": 1257505505611780000,
 		"id_str": "1257505505611780099",
