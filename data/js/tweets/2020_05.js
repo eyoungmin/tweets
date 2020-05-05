@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 05:27:57 +0000 2020",
+		"id": 1257535493769576400,
+		"id_str": "1257542527445602304",
+		"full_text": "[애교MBTI] 고생 많았다...진심이야...\n\n현타와 싸우는 아이돌 자아(아이돌자아)(현ㅌr)(idol..☆)\n근데 민망해서 진저리치는게 더 귀여워벌임(ʃƪ ˘ ³˘)♡\n\n주접댓글과 함께보는 아이돌들의 현타가 와버린 애교송\n📽https://t.co/PRttbEXRy7\n\n#주간아이돌 #애교송 #MBTI #제노 #웬디 #채령 #미주 #형원 https://t.co/l2pCDsSHk4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "애교송",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "MBTI",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "제노",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "채령",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "형원",
+					"indices": [
+						186,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PRttbEXRy7",
+					"expanded_url": "https://youtu.be/8WIacCig0YE",
+					"display_url": "youtu.be/8WIacCig0YE",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257191254980354000,
+					"id_str": "1257191254980354048",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EXJwyRfU4AAVzx1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXJwyRfU4AAVzx1.jpg",
+					"url": "https://t.co/l2pCDsSHk4",
+					"display_url": "pic.twitter.com/l2pCDsSHk4",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1257535493769576451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257191254980354000,
+					"id_str": "1257191254980354048",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EXJwyRfU4AAVzx1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXJwyRfU4AAVzx1.jpg",
+					"url": "https://t.co/l2pCDsSHk4",
+					"display_url": "pic.twitter.com/l2pCDsSHk4",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1257535493769576451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32028,
+			"friends_count": 4795,
+			"listed_count": 230,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[애교MBTI] 고생 많았다...진심이야...\n\n현타와 싸우는 아이돌 자아(아이돌자아)(현ㅌr)(idol..☆)\n근데 민망해서 진저리치는게 더 귀여워벌임(ʃƪ ˘ ³˘)♡\n\n주접댓글과 함께보는 아이돌들의 현타가 와버린 애교송\n📽https://t.co/PRttbEXRy7\n\n#주간아이돌 #애교송 #MBTI #제노 #웬디 #채령 #미주 #형원 https://t.co/l2pCDsSHk4"
+	},
+	{
 		"created_at": "Tue May 05 03:52:12 +0000 2020",
 		"id": 1257505957610811400,
 		"id_str": "1257518434340012037",
