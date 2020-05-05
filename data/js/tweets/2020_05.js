@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 16:09:31 +0000 2020",
+		"id": 1257434475342057500,
+		"id_str": "1257703982459281408",
+		"full_text": "‘숙제인증’ 넣은 네이버 밴드, 온라인 개학 최종 승자 됐다 https://t.co/Mwnf0bdIKy 4월 밴드의 10대 신규 사용자가 4배 증가. 온라인 수업이 필요한 학교현장에 필요한 기능을 빠르게 추가한 순발력 덕분이라고. https://t.co/Mn9JeBt8By",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mwnf0bdIKy",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=025&aid=0002998074",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257434469486653400,
+					"id_str": "1257434469486653440",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EXNN_OIVcAAR0-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXNN_OIVcAAR0-w.jpg",
+					"url": "https://t.co/Mn9JeBt8By",
+					"display_url": "pic.twitter.com/Mn9JeBt8By",
+					"expanded_url": "https://twitter.com/estima7/status/1257434475342057474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 552,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 552,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257434469486653400,
+					"id_str": "1257434469486653440",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EXNN_OIVcAAR0-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXNN_OIVcAAR0-w.jpg",
+					"url": "https://t.co/Mn9JeBt8By",
+					"display_url": "pic.twitter.com/Mn9JeBt8By",
+					"expanded_url": "https://twitter.com/estima7/status/1257434475342057474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 552,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 552,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372938,
+			"friends_count": 2282,
+			"listed_count": 4715,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘숙제인증’ 넣은 네이버 밴드, 온라인 개학 최종 승자 됐다 https://t.co/Mwnf0bdIKy 4월 밴드의 10대 신규 사용자가 4배 증가. 온라인 수업이 필요한 학교현장에 필요한 기능을 빠르게 추가한 순발력 덕분이라고. https://t.co/Mn9JeBt8By"
+	},
+	{
 		"created_at": "Tue May 05 14:58:18 +0000 2020",
 		"id": 1257678189708656600,
 		"id_str": "1257686061313961984",
