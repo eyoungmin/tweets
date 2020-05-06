@@ -1,6 +1,1868 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 22:58:03 +0000 2020",
+		"id": 1257691153593442300,
+		"id_str": "1258169183692451841",
+		"full_text": "My threshold for \"when should I jump in?\" was pretty high: openly questioning skills, or behavior I would consider aggressive or rude if it were _at me_. As a man, it is safer for me to speak up, and I hope to use this new awareness to support people better.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257691152402329600,
+		"in_reply_to_status_id_str": "1257691152402329601",
+		"in_reply_to_user_id": 6472332,
+		"in_reply_to_user_id_str": "6472332",
+		"in_reply_to_screen_name": "grhmc",
+		"user": {
+			"id": 6472332,
+			"id_str": "6472332",
+			"name": "Graham Christensen",
+			"screen_name": "grhmc",
+			"location": "berkshires, ma",
+			"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+			"url": "https://t.co/568CEdJKs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/568CEdJKs4",
+							"expanded_url": "https://grahamc.com",
+							"display_url": "grahamc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 726,
+			"listed_count": 83,
+			"created_at": "Thu May 31 13:53:16 +0000 2007",
+			"favourites_count": 8771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 635,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My threshold for \"when should I jump in?\" was pretty high: openly questioning skills, or behavior I would consider aggressive or rude if it were _at me_. As a man, it is safer for me to speak up, and I hope to use this new awareness to support people better."
+	},
+	{
+		"created_at": "Wed May 06 22:58:00 +0000 2020",
+		"id": 1257691152402329600,
+		"id_str": "1258169172204285953",
+		"full_text": "I have a new appreciation for how tiring even slightly belittling comments can be. I think and hope I have long been a good ally, but I did not appreciate the significance of these nearly (to me) trivial comments when added up.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257691151366324200,
+		"in_reply_to_status_id_str": "1257691151366324226",
+		"in_reply_to_user_id": 6472332,
+		"in_reply_to_user_id_str": "6472332",
+		"in_reply_to_screen_name": "grhmc",
+		"user": {
+			"id": 6472332,
+			"id_str": "6472332",
+			"name": "Graham Christensen",
+			"screen_name": "grhmc",
+			"location": "berkshires, ma",
+			"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+			"url": "https://t.co/568CEdJKs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/568CEdJKs4",
+							"expanded_url": "https://grahamc.com",
+							"display_url": "grahamc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 726,
+			"listed_count": 83,
+			"created_at": "Thu May 31 13:53:16 +0000 2007",
+			"favourites_count": 8771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 780,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I have a new appreciation for how tiring even slightly belittling comments can be. I think and hope I have long been a good ally, but I did not appreciate the significance of these nearly (to me) trivial comments when added up."
+	},
+	{
+		"created_at": "Wed May 06 22:57:53 +0000 2020",
+		"id": 1257691151366324200,
+		"id_str": "1258169142282076160",
+		"full_text": "I think I saw only some of the facets of what not-men experience on the internet, and definitely didn't feel the depths of the cuts. For example, I never once had my identity or overall skills questioned. The full experience would take closer to a lifetime.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257691150355517400,
+		"in_reply_to_status_id_str": "1257691150355517446",
+		"in_reply_to_user_id": 6472332,
+		"in_reply_to_user_id_str": "6472332",
+		"in_reply_to_screen_name": "grhmc",
+		"user": {
+			"id": 6472332,
+			"id_str": "6472332",
+			"name": "Graham Christensen",
+			"screen_name": "grhmc",
+			"location": "berkshires, ma",
+			"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+			"url": "https://t.co/568CEdJKs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/568CEdJKs4",
+							"expanded_url": "https://grahamc.com",
+							"display_url": "grahamc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 726,
+			"listed_count": 83,
+			"created_at": "Thu May 31 13:53:16 +0000 2007",
+			"favourites_count": 8771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 570,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I think I saw only some of the facets of what not-men experience on the internet, and definitely didn't feel the depths of the cuts. For example, I never once had my identity or overall skills questioned. The full experience would take closer to a lifetime."
+	},
+	{
+		"created_at": "Wed May 06 22:57:47 +0000 2020",
+		"id": 1257691150355517400,
+		"id_str": "1258169117619523584",
+		"full_text": "It's hard to know if someone is being an asshole, or trying to help. As Ian put it, \"untold numbers of [...] interactions go where some well-meaning guy says something he thinks is funny or something and is then very confused when the woman he makes it to totally flips her shit\".",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257691148967182300,
+		"in_reply_to_status_id_str": "1257691148967182337",
+		"in_reply_to_user_id": 6472332,
+		"in_reply_to_user_id_str": "6472332",
+		"in_reply_to_screen_name": "grhmc",
+		"user": {
+			"id": 6472332,
+			"id_str": "6472332",
+			"name": "Graham Christensen",
+			"screen_name": "grhmc",
+			"location": "berkshires, ma",
+			"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+			"url": "https://t.co/568CEdJKs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/568CEdJKs4",
+							"expanded_url": "https://grahamc.com",
+							"display_url": "grahamc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 726,
+			"listed_count": 83,
+			"created_at": "Thu May 31 13:53:16 +0000 2007",
+			"favourites_count": 8771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 688,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It's hard to know if someone is being an asshole, or trying to help. As Ian put it, \"untold numbers of [...] interactions go where some well-meaning guy says something he thinks is funny or something and is then very confused when the woman he makes it to totally flips her shit\"."
+	},
+	{
+		"created_at": "Wed May 06 22:57:45 +0000 2020",
+		"id": 1257691148967182300,
+		"id_str": "1258169109100912640",
+		"full_text": "Engagement on my tweets was higher than before, and more likely to escape my social circle. This seems to make it more likely to have basic stuff badly explained at me.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257691147776000000,
+		"in_reply_to_status_id_str": "1257691147776000002",
+		"in_reply_to_user_id": 6472332,
+		"in_reply_to_user_id_str": "6472332",
+		"in_reply_to_screen_name": "grhmc",
+		"user": {
+			"id": 6472332,
+			"id_str": "6472332",
+			"name": "Graham Christensen",
+			"screen_name": "grhmc",
+			"location": "berkshires, ma",
+			"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+			"url": "https://t.co/568CEdJKs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/568CEdJKs4",
+							"expanded_url": "https://grahamc.com",
+							"display_url": "grahamc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 726,
+			"listed_count": 83,
+			"created_at": "Thu May 31 13:53:16 +0000 2007",
+			"favourites_count": 8771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 865,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Engagement on my tweets was higher than before, and more likely to escape my social circle. This seems to make it more likely to have basic stuff badly explained at me."
+	},
+	{
+		"created_at": "Wed May 06 22:57:43 +0000 2020",
+		"id": 1257691147776000000,
+		"id_str": "1258169097856012289",
+		"full_text": "Dick pics are super violating, and pictures of Richard Nixon and Dick Cheney aren't funny. I didn't get many, but I got a few. I knew this already, but it was different for me to actually receive them than just know it. I am grateful to have never sent one.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257691146710651000,
+		"in_reply_to_status_id_str": "1257691146710650880",
+		"in_reply_to_user_id": 6472332,
+		"in_reply_to_user_id_str": "6472332",
+		"in_reply_to_screen_name": "grhmc",
+		"user": {
+			"id": 6472332,
+			"id_str": "6472332",
+			"name": "Graham Christensen",
+			"screen_name": "grhmc",
+			"location": "berkshires, ma",
+			"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+			"url": "https://t.co/568CEdJKs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/568CEdJKs4",
+							"expanded_url": "https://grahamc.com",
+							"display_url": "grahamc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 726,
+			"listed_count": 83,
+			"created_at": "Thu May 31 13:53:16 +0000 2007",
+			"favourites_count": 8771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 693,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Dick pics are super violating, and pictures of Richard Nixon and Dick Cheney aren't funny. I didn't get many, but I got a few. I knew this already, but it was different for me to actually receive them than just know it. I am grateful to have never sent one."
+	},
+	{
+		"created_at": "Wed May 06 22:57:39 +0000 2020",
+		"id": 1257691146710651000,
+		"id_str": "1258169081141686273",
+		"full_text": "To start: the \"full effect\" takes a lifetime. Changing my name, bio, and photo for a few weeks is just a taste. The jerks and annoyances were like sandpaper: each rub worse. These are microaggressions, and I understand this differently now.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257691144290533400,
+		"in_reply_to_status_id_str": "1257691144290533377",
+		"in_reply_to_user_id": 6472332,
+		"in_reply_to_user_id_str": "6472332",
+		"in_reply_to_screen_name": "grhmc",
+		"user": {
+			"id": 6472332,
+			"id_str": "6472332",
+			"name": "Graham Christensen",
+			"screen_name": "grhmc",
+			"location": "berkshires, ma",
+			"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+			"url": "https://t.co/568CEdJKs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/568CEdJKs4",
+							"expanded_url": "https://grahamc.com",
+							"display_url": "grahamc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 726,
+			"listed_count": 83,
+			"created_at": "Thu May 31 13:53:16 +0000 2007",
+			"favourites_count": 8771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 876,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To start: the \"full effect\" takes a lifetime. Changing my name, bio, and photo for a few weeks is just a taste. The jerks and annoyances were like sandpaper: each rub worse. These are microaggressions, and I understand this differently now."
+	},
+	{
+		"created_at": "Wed May 06 22:57:35 +0000 2020",
+		"id": 1257691144290533400,
+		"id_str": "1258169067451543553",
+		"full_text": "About 2 weeks ago, @IanColdwater assigned me a lady avatar to get the \"full effect\" of being a woman on Twitter. Here are some things I learned. https://t.co/OTxVzDGa6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanColdwater",
+					"name": "Ian Coldwater 📦💥",
+					"id": 711367366756720600,
+					"id_str": "711367366756720640",
+					"indices": [
+						19,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257650949977510000,
+					"id_str": "1257650949977509891",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQS4CzXkAMLoL6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXQS4CzXkAMLoL6.jpg",
+					"url": "https://t.co/OTxVzDGa6p",
+					"display_url": "pic.twitter.com/OTxVzDGa6p",
+					"expanded_url": "https://twitter.com/grhmc/status/1257691144290533377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257650949977510000,
+					"id_str": "1257650949977509891",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQS4CzXkAMLoL6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXQS4CzXkAMLoL6.jpg",
+					"url": "https://t.co/OTxVzDGa6p",
+					"display_url": "pic.twitter.com/OTxVzDGa6p",
+					"expanded_url": "https://twitter.com/grhmc/status/1257691144290533377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1257651244442751000,
+					"id_str": "1257651244442750976",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQTJLxWkAAxec1.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXQTJLxWkAAxec1.png",
+					"url": "https://t.co/OTxVzDGa6p",
+					"display_url": "pic.twitter.com/OTxVzDGa6p",
+					"expanded_url": "https://twitter.com/grhmc/status/1257691144290533377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 858,
+							"h": 858,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 858,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6472332,
+			"id_str": "6472332",
+			"name": "Graham Christensen",
+			"screen_name": "grhmc",
+			"location": "berkshires, ma",
+			"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+			"url": "https://t.co/568CEdJKs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/568CEdJKs4",
+							"expanded_url": "https://grahamc.com",
+							"display_url": "grahamc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 726,
+			"listed_count": 83,
+			"created_at": "Thu May 31 13:53:16 +0000 2007",
+			"favourites_count": 8771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1453,
+		"favorite_count": 3841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "About 2 weeks ago, @IanColdwater assigned me a lady avatar to get the \"full effect\" of being a woman on Twitter. Here are some things I learned. https://t.co/OTxVzDGa6p"
+	},
+	{
+		"created_at": "Wed May 06 22:57:29 +0000 2020",
+		"id": 1257917544662360000,
+		"id_str": "1258169039727153153",
+		"full_text": "직접 인공지능이 생성한 이미지를 구현해보고 싶은 (training generative adversarial networks) 사람을 위한 소스 코드는 여기에: https://t.co/PDfBaYYYVY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PDfBaYYYVY",
+					"expanded_url": "https://github.com/NVlabs/stylegan2",
+					"display_url": "github.com/NVlabs/stylega…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257916601938006000,
+		"in_reply_to_status_id_str": "1257916601938006017",
+		"in_reply_to_user_id": 3308496509,
+		"in_reply_to_user_id_str": "3308496509",
+		"in_reply_to_screen_name": "ForesightAction",
+		"user": {
+			"id": 3308496509,
+			"id_str": "3308496509",
+			"name": "Foresight & Action @🏠| Wash Your Hands",
+			"screen_name": "ForesightAction",
+			"location": "NY, SF, OR & 🌎",
+			"description": "Founder of Women in Tech x Data Science (WiTxDS) / Data, Tech, Business, Health, and Culture / Blog: https://t.co/KeKS6FVtd1 / CS Tweets: @DebuggingToucan 🐤",
+			"url": "https://t.co/DkaICbc6P0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DkaICbc6P0",
+							"expanded_url": "https://www.linkedin.com/company/womenintechxds",
+							"display_url": "linkedin.com/company/womeni…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KeKS6FVtd1",
+							"expanded_url": "http://curiosity-map.tistory.com",
+							"display_url": "curiosity-map.tistory.com",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6591,
+			"friends_count": 5723,
+			"listed_count": 45,
+			"created_at": "Thu Jun 04 18:04:04 +0000 2015",
+			"favourites_count": 30202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246140902420045825/peRkhSKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246140902420045825/peRkhSKG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308496509/1586301551",
+			"profile_link_color": "C21A19",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 77,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "직접 인공지능이 생성한 이미지를 구현해보고 싶은 (training generative adversarial networks) 사람을 위한 소스 코드는 여기에: https://t.co/PDfBaYYYVY"
+	},
+	{
+		"created_at": "Wed May 06 22:57:27 +0000 2020",
+		"id": 1257916601938006000,
+		"id_str": "1258169029996363776",
+		"full_text": "실제 존재하지 않는 사람 이미지는 GAN (Generative Adversarial Network)를 이용해 만든 것인데, 아래 링크에 가면 랜덤으로 생성된 이미지를 확인할 수 있다.\n\n대부분의 결과물은 꽤 실감 나는 고퀄리티이지만, 종종 인풋 데이터의 문제로 에러가 난 결과물도 있다.\n\nhttps://t.co/Wzcz9AfBQy https://t.co/joX9E3l9I5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wzcz9AfBQy",
+					"expanded_url": "https://thispersondoesnotexist.com/",
+					"display_url": "thispersondoesnotexist.com",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257916425127096300,
+					"id_str": "1257916425127096322",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUEUuzUcAICJg5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUEUuzUcAICJg5.jpg",
+					"url": "https://t.co/joX9E3l9I5",
+					"display_url": "pic.twitter.com/joX9E3l9I5",
+					"expanded_url": "https://twitter.com/ForesightAction/status/1257916601938006017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257916425127096300,
+					"id_str": "1257916425127096322",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUEUuzUcAICJg5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUEUuzUcAICJg5.jpg",
+					"url": "https://t.co/joX9E3l9I5",
+					"display_url": "pic.twitter.com/joX9E3l9I5",
+					"expanded_url": "https://twitter.com/ForesightAction/status/1257916601938006017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1257916425135505400,
+					"id_str": "1257916425135505414",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUEUu1UwAY9Mh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUEUu1UwAY9Mh2.jpg",
+					"url": "https://t.co/joX9E3l9I5",
+					"display_url": "pic.twitter.com/joX9E3l9I5",
+					"expanded_url": "https://twitter.com/ForesightAction/status/1257916601938006017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257915230203441200,
+		"in_reply_to_status_id_str": "1257915230203441153",
+		"in_reply_to_user_id": 3308496509,
+		"in_reply_to_user_id_str": "3308496509",
+		"in_reply_to_screen_name": "ForesightAction",
+		"user": {
+			"id": 3308496509,
+			"id_str": "3308496509",
+			"name": "Foresight & Action @🏠| Wash Your Hands",
+			"screen_name": "ForesightAction",
+			"location": "NY, SF, OR & 🌎",
+			"description": "Founder of Women in Tech x Data Science (WiTxDS) / Data, Tech, Business, Health, and Culture / Blog: https://t.co/KeKS6FVtd1 / CS Tweets: @DebuggingToucan 🐤",
+			"url": "https://t.co/DkaICbc6P0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DkaICbc6P0",
+							"expanded_url": "https://www.linkedin.com/company/womenintechxds",
+							"display_url": "linkedin.com/company/womeni…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KeKS6FVtd1",
+							"expanded_url": "http://curiosity-map.tistory.com",
+							"display_url": "curiosity-map.tistory.com",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6591,
+			"friends_count": 5723,
+			"listed_count": 45,
+			"created_at": "Thu Jun 04 18:04:04 +0000 2015",
+			"favourites_count": 30202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246140902420045825/peRkhSKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246140902420045825/peRkhSKG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308496509/1586301551",
+			"profile_link_color": "C21A19",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 178,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실제 존재하지 않는 사람 이미지는 GAN (Generative Adversarial Network)를 이용해 만든 것인데, 아래 링크에 가면 랜덤으로 생성된 이미지를 확인할 수 있다.\n\n대부분의 결과물은 꽤 실감 나는 고퀄리티이지만, 종종 인풋 데이터의 문제로 에러가 난 결과물도 있다.\n\nhttps://t.co/Wzcz9AfBQy https://t.co/joX9E3l9I5"
+	},
+	{
+		"created_at": "Wed May 06 22:57:23 +0000 2020",
+		"id": 1257915230203441200,
+		"id_str": "1258169014863278081",
+		"full_text": "계정 주인(남자)이 AI가 만든 실제 존재하지 않는 사람(여자) 이미지로 프로필을 바꾼 후, 사람들 반응을 관찰하는 실험을 진행했는데, 그 결과는 꽤나 충격적:\n\n-성적인 메세지는 기본이고,\n-모르는 사람들이 와서 당연한 것을 설명하고(Mansplaining)\n-계정 주인의 전문성과 정체성을 의심하기 시작. https://t.co/TDpG2rrfAm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TDpG2rrfAm",
+					"expanded_url": "https://twitter.com/grhmc/status/1257691144290533377",
+					"display_url": "twitter.com/grhmc/status/1…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308496509,
+			"id_str": "3308496509",
+			"name": "Foresight & Action @🏠| Wash Your Hands",
+			"screen_name": "ForesightAction",
+			"location": "NY, SF, OR & 🌎",
+			"description": "Founder of Women in Tech x Data Science (WiTxDS) / Data, Tech, Business, Health, and Culture / Blog: https://t.co/KeKS6FVtd1 / CS Tweets: @DebuggingToucan 🐤",
+			"url": "https://t.co/DkaICbc6P0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DkaICbc6P0",
+							"expanded_url": "https://www.linkedin.com/company/womenintechxds",
+							"display_url": "linkedin.com/company/womeni…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KeKS6FVtd1",
+							"expanded_url": "http://curiosity-map.tistory.com",
+							"display_url": "curiosity-map.tistory.com",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6591,
+			"friends_count": 5723,
+			"listed_count": 45,
+			"created_at": "Thu Jun 04 18:04:04 +0000 2015",
+			"favourites_count": 30202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246140902420045825/peRkhSKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246140902420045825/peRkhSKG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308496509/1586301551",
+			"profile_link_color": "C21A19",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257691144290533400,
+		"quoted_status_id_str": "1257691144290533377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TDpG2rrfAm",
+			"expanded": "https://twitter.com/grhmc/status/1257691144290533377",
+			"display": "twitter.com/grhmc/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 05 15:18:30 +0000 2020",
+			"id": 1257691144290533400,
+			"id_str": "1257691144290533377",
+			"full_text": "About 2 weeks ago, @IanColdwater assigned me a lady avatar to get the \"full effect\" of being a woman on Twitter. Here are some things I learned. https://t.co/OTxVzDGa6p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IanColdwater",
+						"name": "Ian Coldwater 📦💥",
+						"id": 711367366756720600,
+						"id_str": "711367366756720640",
+						"indices": [
+							19,
+							32
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1257650949977510000,
+						"id_str": "1257650949977509891",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EXQS4CzXkAMLoL6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXQS4CzXkAMLoL6.jpg",
+						"url": "https://t.co/OTxVzDGa6p",
+						"display_url": "pic.twitter.com/OTxVzDGa6p",
+						"expanded_url": "https://twitter.com/grhmc/status/1257691144290533377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1257650949977510000,
+						"id_str": "1257650949977509891",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EXQS4CzXkAMLoL6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXQS4CzXkAMLoL6.jpg",
+						"url": "https://t.co/OTxVzDGa6p",
+						"display_url": "pic.twitter.com/OTxVzDGa6p",
+						"expanded_url": "https://twitter.com/grhmc/status/1257691144290533377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1257651244442751000,
+						"id_str": "1257651244442750976",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EXQTJLxWkAAxec1.png",
+						"media_url_https": "https://pbs.twimg.com/media/EXQTJLxWkAAxec1.png",
+						"url": "https://t.co/OTxVzDGa6p",
+						"display_url": "pic.twitter.com/OTxVzDGa6p",
+						"expanded_url": "https://twitter.com/grhmc/status/1257691144290533377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 858,
+								"h": 858,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 858,
+								"h": 858,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6472332,
+				"id_str": "6472332",
+				"name": "Graham Christensen",
+				"screen_name": "grhmc",
+				"location": "berkshires, ma",
+				"description": "Predictable and declarative deployment zealot. No fascism. graham@grahamc.com he/him",
+				"url": "https://t.co/568CEdJKs4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/568CEdJKs4",
+								"expanded_url": "https://grahamc.com",
+								"display_url": "grahamc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2150,
+				"friends_count": 726,
+				"listed_count": 83,
+				"created_at": "Thu May 31 13:53:16 +0000 2007",
+				"favourites_count": 8771,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4628,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257649834485600256/2ctWorq0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6472332/1357351977",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1453,
+			"favorite_count": 3841,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8101,
+		"favorite_count": 1858,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "계정 주인(남자)이 AI가 만든 실제 존재하지 않는 사람(여자) 이미지로 프로필을 바꾼 후, 사람들 반응을 관찰하는 실험을 진행했는데, 그 결과는 꽤나 충격적:\n\n-성적인 메세지는 기본이고,\n-모르는 사람들이 와서 당연한 것을 설명하고(Mansplaining)\n-계정 주인의 전문성과 정체성을 의심하기 시작. https://t.co/TDpG2rrfAm"
+	},
+	{
+		"created_at": "Wed May 06 22:41:24 +0000 2020",
+		"id": 1258130278922563600,
+		"id_str": "1258164994539053056",
+		"full_text": "마이크로소프트 To Do 앱, 분더리스트 단종과 동시에 새로운 기능으로 업데이트해\n- MS, 5년 전 인수한 분더리스트 앱, 마침내 오늘 단종시켜\n- 이제 To Do 앱은 오늘, 내일, 주간 태스크의 개관 및 모두와 완료됨 같은 분더리스트의 기능 일부 버전 2.17.158에 추가\nhttps://t.co/8RiZt1j7yG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8RiZt1j7yG",
+					"expanded_url": "https://www.androidpolice.com/2020/05/06/microsoft-to-do-new-features-wunderlist-goes-offline/",
+					"display_url": "androidpolice.com/2020/05/06/mic…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45397,
+			"friends_count": 228,
+			"listed_count": 296,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이크로소프트 To Do 앱, 분더리스트 단종과 동시에 새로운 기능으로 업데이트해\n- MS, 5년 전 인수한 분더리스트 앱, 마침내 오늘 단종시켜\n- 이제 To Do 앱은 오늘, 내일, 주간 태스크의 개관 및 모두와 완료됨 같은 분더리스트의 기능 일부 버전 2.17.158에 추가\nhttps://t.co/8RiZt1j7yG"
+	},
+	{
+		"created_at": "Wed May 06 22:27:12 +0000 2020",
+		"id": 1257939093624811500,
+		"id_str": "1258161421042380800",
+		"full_text": "검찰, 박사방 참가자 '유료회원' 아닌 '범행자금 제공자'로 명시\nhttps://t.co/N2pJMju9WA\n\n미성년자 등의 성 착취물을 제작·유포한 사건인 '박사방' 사건을 수사하는 검찰은 돈을 내고 텔레그램 대화방에 입장한 참가자들을 '유료회원'이 아닌 '범행자금 제공자'라고 명시했습니다 https://t.co/KFTDgZobY3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N2pJMju9WA",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200506127200004?input=tw",
+					"display_url": "yna.co.kr/view/AKR202005…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257939007926792200,
+					"id_str": "1257939007926792192",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUY3OSVcAAuqGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUY3OSVcAAuqGW.jpg",
+					"url": "https://t.co/KFTDgZobY3",
+					"display_url": "pic.twitter.com/KFTDgZobY3",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1257939093624811520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257939007926792200,
+					"id_str": "1257939007926792192",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUY3OSVcAAuqGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUY3OSVcAAuqGW.jpg",
+					"url": "https://t.co/KFTDgZobY3",
+					"display_url": "pic.twitter.com/KFTDgZobY3",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1257939093624811520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313115,
+			"friends_count": 70739,
+			"listed_count": 4755,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 211477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3893,
+		"favorite_count": 714,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검찰, 박사방 참가자 '유료회원' 아닌 '범행자금 제공자'로 명시\nhttps://t.co/N2pJMju9WA\n\n미성년자 등의 성 착취물을 제작·유포한 사건인 '박사방' 사건을 수사하는 검찰은 돈을 내고 텔레그램 대화방에 입장한 참가자들을 '유료회원'이 아닌 '범행자금 제공자'라고 명시했습니다 https://t.co/KFTDgZobY3"
+	},
+	{
 		"created_at": "Wed May 06 19:29:08 +0000 2020",
 		"id": 1257843783732875300,
 		"id_str": "1258116608830009345",
