@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 03:52:13 +0000 2020",
+		"id": 1257868042924511200,
+		"id_str": "1257880823153545222",
+		"full_text": "🌐LOONA🌐 ASIA RISING 𝑓𝑜𝑟𝑒𝑣𝑒𝑟 \n\nWe welcome the amazing @loonatheworld as special guest appearing on tomorrow’s global broadcast! \n\nDrop a 🌝 if you are excited for LOONA\n\ntomorrow on 88rising Twitter and YouTube | May 6th 9PM ET | May 7 AM Asia time !\n\n#AsiaRisingForever https://t.co/1hlpTgm9ER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AsiaRisingForever",
+					"indices": [
+						250,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						53,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257868036570140700,
+					"id_str": "1257868036570140672",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EXTYUJYU0AAVIvw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXTYUJYU0AAVIvw.jpg",
+					"url": "https://t.co/1hlpTgm9ER",
+					"display_url": "pic.twitter.com/1hlpTgm9ER",
+					"expanded_url": "https://twitter.com/88rising/status/1257868042924511232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257868036570140700,
+					"id_str": "1257868036570140672",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EXTYUJYU0AAVIvw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXTYUJYU0AAVIvw.jpg",
+					"url": "https://t.co/1hlpTgm9ER",
+					"display_url": "pic.twitter.com/1hlpTgm9ER",
+					"expanded_url": "https://twitter.com/88rising/status/1257868042924511232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising 🌙",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "the very best",
+			"url": "https://t.co/IsDCnizXhD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IsDCnizXhD",
+							"expanded_url": "http://88rising.lnk.to/GimmeLove",
+							"display_url": "88rising.lnk.to/GimmeLove",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426985,
+			"friends_count": 303,
+			"listed_count": 413,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 13233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257880386899763206/fEmLli3C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257880386899763206/fEmLli3C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1587010164",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5130,
+		"favorite_count": 12209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌐LOONA🌐 ASIA RISING 𝑓𝑜𝑟𝑒𝑣𝑒𝑟 \n\nWe welcome the amazing @loonatheworld as special guest appearing on tomorrow’s global broadcast! \n\nDrop a 🌝 if you are excited for LOONA\n\ntomorrow on 88rising Twitter and YouTube | May 6th 9PM ET | May 7 AM Asia time !\n\n#AsiaRisingForever https://t.co/1hlpTgm9ER"
+	},
+	{
 		"created_at": "Wed May 06 03:00:30 +0000 2020",
 		"id": 1257867808173625300,
 		"id_str": "1257867808173625349",
