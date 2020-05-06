@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 09:18:30 +0000 2020",
+		"id": 1257958813165957000,
+		"id_str": "1257962938393980928",
+		"full_text": "IU Digital Single\n&lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt; 발매 안내\nMelOn ☞ https://t.co/pdnvi00SFJ\n\n#IUxSUGA #아이유 #eight #에잇 https://t.co/95KQNwbddH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IUxSUGA",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "eight",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "에잇",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pdnvi00SFJ",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10426648",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257957954038362000,
+					"id_str": "1257957954038362113",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUqGCDVcAEIRJL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUqGCDVcAEIRJL.jpg",
+					"url": "https://t.co/95KQNwbddH",
+					"display_url": "pic.twitter.com/95KQNwbddH",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1257958813165957121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257957954038362000,
+					"id_str": "1257957954038362113",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUqGCDVcAEIRJL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUqGCDVcAEIRJL.jpg",
+					"url": "https://t.co/95KQNwbddH",
+					"display_url": "pic.twitter.com/95KQNwbddH",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1257958813165957121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501196,
+			"friends_count": 0,
+			"listed_count": 1152,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55615,
+		"favorite_count": 98611,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IU Digital Single\n&lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt; 발매 안내\nMelOn ☞ https://t.co/pdnvi00SFJ\n\n#IUxSUGA #아이유 #eight #에잇 https://t.co/95KQNwbddH"
+	},
+	{
+		"created_at": "Wed May 06 09:18:28 +0000 2020",
+		"id": 1257958533829542000,
+		"id_str": "1257962927652352001",
+		"full_text": "IU Digital Single\n&lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt; MV \n▶ https://t.co/s8kwRsL3Jc\n\n#IUxSUGA #아이유 #eight #에잇\nhttps://t.co/s8kwRsL3Jc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IUxSUGA",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "eight",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "에잇",
+					"indices": [
+						112,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s8kwRsL3Jc",
+					"expanded_url": "https://youtu.be/TgOu00Mf3kI",
+					"display_url": "youtu.be/TgOu00Mf3kI",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/s8kwRsL3Jc",
+					"expanded_url": "https://youtu.be/TgOu00Mf3kI",
+					"display_url": "youtu.be/TgOu00Mf3kI",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501196,
+			"friends_count": 0,
+			"listed_count": 1152,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65382,
+		"favorite_count": 95216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IU Digital Single\n&lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt; MV \n▶ https://t.co/s8kwRsL3Jc\n\n#IUxSUGA #아이유 #eight #에잇\nhttps://t.co/s8kwRsL3Jc"
+	},
+	{
+		"created_at": "Wed May 06 09:17:56 +0000 2020",
+		"id": 1257959230172049400,
+		"id_str": "1257962795565346819",
+		"full_text": "프라이버시가 중요하다고 말하는 사람은 많지만, 막상 챙기는 사람은 드뭅니다. 어렵고 복잡해서 사용하기 쉽지 않다는 생각 때문인데요. IT에 조예가 깊지 않더라도 편하게 이용할 수 있으면서 프라이버시에도 신경 쓴 툴들을 준비했습니다.\nhttps://t.co/l4PeUKzLtO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l4PeUKzLtO",
+					"expanded_url": "https://outstanding.kr/privacytools20200506/",
+					"display_url": "outstanding.kr/privacytools20…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45841,
+			"friends_count": 444,
+			"listed_count": 133,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프라이버시가 중요하다고 말하는 사람은 많지만, 막상 챙기는 사람은 드뭅니다. 어렵고 복잡해서 사용하기 쉽지 않다는 생각 때문인데요. IT에 조예가 깊지 않더라도 편하게 이용할 수 있으면서 프라이버시에도 신경 쓴 툴들을 준비했습니다.\nhttps://t.co/l4PeUKzLtO"
+	},
+	{
 		"created_at": "Wed May 06 08:46:14 +0000 2020",
 		"id": 1257954816967532500,
 		"id_str": "1257954816967532544",
