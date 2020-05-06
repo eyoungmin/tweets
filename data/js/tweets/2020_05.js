@@ -1,6 +1,1276 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 07:41:12 +0000 2020",
+		"id": 1257938451275690000,
+		"id_str": "1257938451275689986",
+		"full_text": "#EO\n구글과 중소벤처기업부가 손 잡고 밀어주는 스타트업 지원 사업 '창구 프로그램'\nhttps://t.co/x6xUaENIVm\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x6xUaENIVm",
+					"expanded_url": "https://youtu.be/efpIhATLWL4",
+					"display_url": "youtu.be/efpIhATLWL4",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n구글과 중소벤처기업부가 손 잡고 밀어주는 스타트업 지원 사업 '창구 프로그램'\nhttps://t.co/x6xUaENIVm\n#스타트업 #태용 #minfav"
+	},
+	{
+		"created_at": "Wed May 06 07:26:30 +0000 2020",
+		"id": 1257934750335078400,
+		"id_str": "1257934750335078401",
+		"full_text": "#팩트체크 #SNU팩트체크\n양육비 미지급한 '코피노' 아빠들, UN아동권리협약 근거로 형사처벌 가능하다.\n▶ 전혀 사실 아님\nhttps://t.co/zUV83D86ya\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zUV83D86ya",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2255",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n양육비 미지급한 '코피노' 아빠들, UN아동권리협약 근거로 형사처벌 가능하다.\n▶ 전혀 사실 아님\nhttps://t.co/zUV83D86ya\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Wed May 06 07:25:25 +0000 2020",
+		"id": 1257928083304181800,
+		"id_str": "1257934479735181313",
+		"full_text": "💕🌹🌷계절이 번져와 두드린 꿈일까🌷🌹💕 \n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/D8q1wcnQUv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257268753672269800,
+					"id_str": "1257268753672269825",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EXK4DSRU0AMcRJC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXK4DSRU0AMcRJC.jpg",
+					"url": "https://t.co/D8q1wcnQUv",
+					"display_url": "pic.twitter.com/D8q1wcnQUv",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1257928083304181761/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257268753672269800,
+					"id_str": "1257268753672269825",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EXK4DSRU0AMcRJC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXK4DSRU0AMcRJC.jpg",
+					"url": "https://t.co/D8q1wcnQUv",
+					"display_url": "pic.twitter.com/D8q1wcnQUv",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1257928083304181761/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54955,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257268753672269825/vid/480x270/awEOOYaCGGSB-gjW.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1257268753672269825/pl/4qePS0ChBorDHRG0.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257268753672269825/vid/1280x720/w_lA4JWmCIfJh6z8.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257268753672269825/vid/640x360/0i04SHlaVGRx7vdP.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3561258,
+			"friends_count": 4,
+			"listed_count": 6089,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4550,
+		"favorite_count": 6897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "💕🌹🌷계절이 번져와 두드린 꿈일까🌷🌹💕 \n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/D8q1wcnQUv"
+	},
+	{
+		"created_at": "Wed May 06 07:25:20 +0000 2020",
+		"id": 1257884727043743700,
+		"id_str": "1257934455844397061",
+		"full_text": "TAEYEON 태연 ‘Happy’\nMV Making Film\n\n#TAEYEON #태연 #소녀시대\n#GirlsGeneration #Happy\n\nhttps://t.co/JSVy2OgoTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						71,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JSVy2OgoTq",
+					"expanded_url": "https://youtu.be/0XJ4rTIyzoA",
+					"display_url": "youtu.be/0XJ4rTIyzoA",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 981102400814563300,
+			"id_str": "981102400814563328",
+			"name": "!t Live (잇라이브)",
+			"screen_name": "SMmakesitLive",
+			"location": "",
+			"description": "에스엠 엔터테인먼트가 만드는 실시간 멀티라이브 방송 채널 / Live broadcast by SM Entertainment",
+			"url": "https://t.co/R19mkV84d7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R19mkV84d7",
+							"expanded_url": "http://youtube.com/itlive",
+							"display_url": "youtube.com/itlive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140760,
+			"friends_count": 35,
+			"listed_count": 295,
+			"created_at": "Tue Apr 03 09:33:35 +0000 2018",
+			"favourites_count": 12311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981107047440687105/-v2C4fKZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981107047440687105/-v2C4fKZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/981102400814563328/1522750140",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 378,
+		"favorite_count": 570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "TAEYEON 태연 ‘Happy’\nMV Making Film\n\n#TAEYEON #태연 #소녀시대\n#GirlsGeneration #Happy\n\nhttps://t.co/JSVy2OgoTq"
+	},
+	{
+		"created_at": "Wed May 06 07:19:24 +0000 2020",
+		"id": 1257932965109211100,
+		"id_str": "1257932965109211136",
+		"full_text": "#대한민국 #보건복지부\n생활 속 거리 두기 캠페인송 (feat: 초통령 도티)\nhttps://t.co/xaieLeMhxQ\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xaieLeMhxQ",
+					"expanded_url": "https://www.youtube.com/watch?v=gvyA1Je16Cg",
+					"display_url": "youtube.com/watch?v=gvyA1J…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n생활 속 거리 두기 캠페인송 (feat: 초통령 도티)\nhttps://t.co/xaieLeMhxQ\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Wed May 06 07:19:24 +0000 2020",
+		"id": 1257932962676555800,
+		"id_str": "1257932962676555776",
+		"full_text": "#대한민국 #보건복지부\n'생활 속 거리두기 5대 수칙' 어떻게 하나요? I 대한민국 정부\nhttps://t.co/1tT2ugc5EX\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1tT2ugc5EX",
+					"expanded_url": "https://www.youtube.com/watch?v=UQtcXl0PMcQ",
+					"display_url": "youtube.com/watch?v=UQtcXl…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n'생활 속 거리두기 5대 수칙' 어떻게 하나요? I 대한민국 정부\nhttps://t.co/1tT2ugc5EX\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Wed May 06 07:09:16 +0000 2020",
+		"id": 1257930411667329000,
+		"id_str": "1257930411667329027",
+		"full_text": "#BBC코리아\n가나 '관짝소년단'의 코로나19 팬데믹 근황\nhttps://t.co/eYEXq4hucE\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eYEXq4hucE",
+					"expanded_url": "https://www.bbc.com/korean/52555627",
+					"display_url": "bbc.com/korean/52555627",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n가나 '관짝소년단'의 코로나19 팬데믹 근황\nhttps://t.co/eYEXq4hucE\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Wed May 06 07:09:15 +0000 2020",
+		"id": 1257930410102841300,
+		"id_str": "1257930410102841344",
+		"full_text": "#BBC코리아\n코로나19: 백악관이 코로나19 대응 TF팀을 해산할 계획이다\nhttps://t.co/hDOF3ymh7B\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hDOF3ymh7B",
+					"expanded_url": "https://www.bbc.com/korean/news-52554996",
+					"display_url": "bbc.com/korean/news-52…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 925,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 백악관이 코로나19 대응 TF팀을 해산할 계획이다\nhttps://t.co/hDOF3ymh7B\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Wed May 06 07:00:58 +0000 2020",
 		"id": 1257928323616968700,
 		"id_str": "1257928323616968705",
