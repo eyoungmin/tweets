@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 11:52:12 +0000 2020",
+		"id": 1257960071864086500,
+		"id_str": "1258001617963581440",
+		"full_text": "[#딩고봇] 무브렉 찢어놨던 갓청하 갓벽 퍼포먼스🔥 but 상상도 못한 비하인드가 숨겨져 있다는데⁉ 청하가 촬영장에서 주저앉아 눈물 흘린 이유는,,?ㅠㅠ\n@CHUNGHA_MNHent @uplusidollive\n\n&gt;&gt; MOVE REC._비하인드-청하 먼저보기🌟\nhttps://t.co/ctQG2WTAGS\n\n#딩고 #Dingo\n#청하 #CHUNGHA\n#StayTonight https://t.co/I94JBZZp0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고봇",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "딩고",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "Dingo",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						200,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						86,
+						101
+					]
+				},
+				{
+					"screen_name": "uplusidollive",
+					"name": "아이돌Live",
+					"id": 1093324810904432600,
+					"id_str": "1093324810904432640",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ctQG2WTAGS",
+					"expanded_url": "http://idollive.page.link/9yuZ",
+					"display_url": "idollive.page.link/9yuZ",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257957659736563700,
+					"id_str": "1257957659736563714",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUp05sUYAIRBjB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUp05sUYAIRBjB.jpg",
+					"url": "https://t.co/I94JBZZp0S",
+					"display_url": "pic.twitter.com/I94JBZZp0S",
+					"expanded_url": "https://twitter.com/dingo_official/status/1257960071864086530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257957659736563700,
+					"id_str": "1257957659736563714",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUp05sUYAIRBjB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUp05sUYAIRBjB.jpg",
+					"url": "https://t.co/I94JBZZp0S",
+					"display_url": "pic.twitter.com/I94JBZZp0S",
+					"expanded_url": "https://twitter.com/dingo_official/status/1257960071864086530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71153,
+			"friends_count": 0,
+			"listed_count": 169,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 9147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고봇] 무브렉 찢어놨던 갓청하 갓벽 퍼포먼스🔥 but 상상도 못한 비하인드가 숨겨져 있다는데⁉ 청하가 촬영장에서 주저앉아 눈물 흘린 이유는,,?ㅠㅠ\n@CHUNGHA_MNHent @uplusidollive\n\n&gt;&gt; MOVE REC._비하인드-청하 먼저보기🌟\nhttps://t.co/ctQG2WTAGS\n\n#딩고 #Dingo\n#청하 #CHUNGHA\n#StayTonight https://t.co/I94JBZZp0S"
+	},
+	{
 		"created_at": "Wed May 06 10:37:23 +0000 2020",
 		"id": 1257973281925169200,
 		"id_str": "1257982786037665792",
