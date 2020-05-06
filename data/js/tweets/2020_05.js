@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 19:29:08 +0000 2020",
+		"id": 1257843783732875300,
+		"id_str": "1258116608830009345",
+		"full_text": "Director of Engineering 은 무슨 일을 하나요 ? https://t.co/X11Q8ZwyAC \n보통 CTO에게 직보하는 DoE(기술이사)의 업무 범위 이야기\n- 피플 리더십\nㅤ→ 1대1 미팅 진행\nㅤ→ 리크루팅\nㅤ→ 기술 성장 로드맵 정의\nㅤ→ 핵심 가치 추구\nㅤ→ 미션 수행\n- 프로세스 관리\nㅤ→ Software De...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X11Q8ZwyAC",
+					"expanded_url": "https://j.mp/3cbvDAs",
+					"display_url": "j.mp/3cbvDAs",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2832,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Director of Engineering 은 무슨 일을 하나요 ? https://t.co/X11Q8ZwyAC \n보통 CTO에게 직보하는 DoE(기술이사)의 업무 범위 이야기\n- 피플 리더십\nㅤ→ 1대1 미팅 진행\nㅤ→ 리크루팅\nㅤ→ 기술 성장 로드맵 정의\nㅤ→ 핵심 가치 추구\nㅤ→ 미션 수행\n- 프로세스 관리\nㅤ→ Software De..."
+	},
+	{
 		"created_at": "Wed May 06 14:04:47 +0000 2020",
 		"id": 1257943181125210000,
 		"id_str": "1258034980246089728",
