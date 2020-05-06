@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 14:04:47 +0000 2020",
+		"id": 1257943181125210000,
+		"id_str": "1258034980246089728",
+		"full_text": "[Teaser]\n\n볼빨간사춘기 - 나비와 고양이 (Feat. 백현(BAEKHYUN))\n2020.05.07 (THU) 6PM Pre-Release\n\n📽 https://t.co/Osx7lKedMA\n\n#볼빨간사춘기 #나비와고양이 #사춘기집2 #꽃본나비 #BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/rKJqPVjr3e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "나비와고양이",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Osx7lKedMA",
+					"expanded_url": "https://youtu.be/JJtwERZLL08",
+					"display_url": "youtu.be/JJtwERZLL08",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257927301615849500,
+					"id_str": "1257927301615849472",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUON04UEAA0LGa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUON04UEAA0LGa.jpg",
+					"url": "https://t.co/rKJqPVjr3e",
+					"display_url": "pic.twitter.com/rKJqPVjr3e",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1257943181125210116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257927301615849500,
+					"id_str": "1257927301615849472",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUON04UEAA0LGa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUON04UEAA0LGa.jpg",
+					"url": "https://t.co/rKJqPVjr3e",
+					"display_url": "pic.twitter.com/rKJqPVjr3e",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1257943181125210116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27595,
+			"friends_count": 2,
+			"listed_count": 199,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15635,
+		"favorite_count": 13894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser]\n\n볼빨간사춘기 - 나비와 고양이 (Feat. 백현(BAEKHYUN))\n2020.05.07 (THU) 6PM Pre-Release\n\n📽 https://t.co/Osx7lKedMA\n\n#볼빨간사춘기 #나비와고양이 #사춘기집2 #꽃본나비 #BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/rKJqPVjr3e"
+	},
+	{
 		"created_at": "Wed May 06 13:31:03 +0000 2020",
 		"id": 1258026492384047000,
 		"id_str": "1258026492384047106",
