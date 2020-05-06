@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 10:37:23 +0000 2020",
+		"id": 1257973281925169200,
+		"id_str": "1257982786037665792",
+		"full_text": "‘넷플릭스법’에 네이버·카카오도 부글부글…왜? https://t.co/d11XqCtClS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d11XqCtClS",
+					"expanded_url": "http://www.bloter.net/archives/379942",
+					"display_url": "bloter.net/archives/379942",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55456,
+			"friends_count": 9,
+			"listed_count": 2471,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘넷플릭스법’에 네이버·카카오도 부글부글…왜? https://t.co/d11XqCtClS"
+	},
+	{
+		"created_at": "Wed May 06 10:35:38 +0000 2020",
+		"id": 1257973619340148700,
+		"id_str": "1257982346235531266",
+		"full_text": "[탬로그 6v6 📹] TAEMIN 태민 #비욘드라이브🕺\n\n👉🏻https://t.co/hoZnX9HuTL\n\n#TAEMIN #태민 #SHINee #샤이니 #SuperM_BeyondLIVE #Beyond_the_Future #Beyond_LIVE #BeyondLIVE #TAEM_LOG #탬로그",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "SuperM_BeyondLIVE",
+					"indices": [
+						84,
+						102
+					]
+				},
+				{
+					"text": "Beyond_the_Future",
+					"indices": [
+						103,
+						121
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"text": "TAEM_LOG",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "탬로그",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hoZnX9HuTL",
+					"expanded_url": "https://youtu.be/cMVFcNIjaT4",
+					"display_url": "youtu.be/cMVFcNIjaT4",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/NAMin5AzxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NAMin5AzxD",
+							"expanded_url": "https://www.youtube.com/watch?v=_E5JtAcc3cY",
+							"display_url": "youtube.com/watch?v=_E5JtA…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1173926,
+			"friends_count": 2,
+			"listed_count": 3625,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235407003884765184/YNAEKkPf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235407003884765184/YNAEKkPf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1583378958",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3311,
+		"favorite_count": 6184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[탬로그 6v6 📹] TAEMIN 태민 #비욘드라이브🕺\n\n👉🏻https://t.co/hoZnX9HuTL\n\n#TAEMIN #태민 #SHINee #샤이니 #SuperM_BeyondLIVE #Beyond_the_Future #Beyond_LIVE #BeyondLIVE #TAEM_LOG #탬로그"
+	},
+	{
+		"created_at": "Wed May 06 10:35:36 +0000 2020",
+		"id": 1257958281978364000,
+		"id_str": "1257982338354438144",
+		"full_text": "[탬로그 6v6 📹] TAEMIN 태민 #비욘드라이브🕺\n\n#지금이대로완벽할태민💎\n\n#TAEMIN #태민 #SHINee #샤이니 #SuperM_BeyondLIVE #Beyond_the_Future #Beyond_LIVE #BeyondLIVE #TAEM_LOG #탬로그 https://t.co/tRKtNvJGFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "지금이대로완벽할태민",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "SuperM_BeyondLIVE",
+					"indices": [
+						71,
+						89
+					]
+				},
+				{
+					"text": "Beyond_the_Future",
+					"indices": [
+						90,
+						108
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "TAEM_LOG",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "탬로그",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257939874411278300,
+					"id_str": "1257939874411278336",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUbioGVcAEoWfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUbioGVcAEoWfn.jpg",
+					"url": "https://t.co/tRKtNvJGFC",
+					"display_url": "pic.twitter.com/tRKtNvJGFC",
+					"expanded_url": "https://twitter.com/SHINee/status/1257958281978363905/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257939874411278300,
+					"id_str": "1257939874411278336",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUbioGVcAEoWfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUbioGVcAEoWfn.jpg",
+					"url": "https://t.co/tRKtNvJGFC",
+					"display_url": "pic.twitter.com/tRKtNvJGFC",
+					"expanded_url": "https://twitter.com/SHINee/status/1257958281978363905/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 94094,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257939874411278336/vid/640x360/Akm4A5sEYUnhTwqu.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257939874411278336/vid/480x270/Nv-Ylt-cPS8zY8mx.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257939874411278336/vid/1280x720/C5LrjeVlZqzvaVb4.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1257939874411278336/pl/4yf7djOS5L9OYTju.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/NAMin5AzxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NAMin5AzxD",
+							"expanded_url": "https://www.youtube.com/watch?v=_E5JtAcc3cY",
+							"display_url": "youtube.com/watch?v=_E5JtA…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1173926,
+			"friends_count": 2,
+			"listed_count": 3625,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235407003884765184/YNAEKkPf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235407003884765184/YNAEKkPf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1583378958",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7995,
+		"favorite_count": 14624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[탬로그 6v6 📹] TAEMIN 태민 #비욘드라이브🕺\n\n#지금이대로완벽할태민💎\n\n#TAEMIN #태민 #SHINee #샤이니 #SuperM_BeyondLIVE #Beyond_the_Future #Beyond_LIVE #BeyondLIVE #TAEM_LOG #탬로그 https://t.co/tRKtNvJGFC"
+	},
+	{
 		"created_at": "Wed May 06 09:18:30 +0000 2020",
 		"id": 1257958813165957000,
 		"id_str": "1257962938393980928",
