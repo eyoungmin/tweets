@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 21:52:13 +0000 2020",
+		"id": 1258268684998439000,
+		"id_str": "1258515001435803650",
+		"full_text": "CHUNG HA (@CHUNGHA_MNHent) の最新シングル \"Stay Tonight\" が配信中🎧\n\n#CHUNGHA の魅力が満載🔥🔥\n\nクールで妖艶な最新楽曲を今すぐチェックしよう👉https://t.co/OMID4oiFlo https://t.co/We2CUiGaKo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						57,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OMID4oiFlo",
+					"expanded_url": "https://spoti.fi/2YHaxWI",
+					"display_url": "spoti.fi/2YHaxWI",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258268429334675500,
+					"id_str": "1258268429334675458",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZEsDdUYAYGv23.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZEsDdUYAYGv23.jpg",
+					"url": "https://t.co/We2CUiGaKo",
+					"display_url": "pic.twitter.com/We2CUiGaKo",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1258268684998438912/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258268429334675500,
+					"id_str": "1258268429334675458",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZEsDdUYAYGv23.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZEsDdUYAYGv23.jpg",
+					"url": "https://t.co/We2CUiGaKo",
+					"display_url": "pic.twitter.com/We2CUiGaKo",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1258268684998438912/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11044,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1258268429334675458/pl/VbswXShEuwar2jTB.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258268429334675458/vid/320x320/bZdDCdnQ2tz4XIx1.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258268429334675458/vid/480x480/rPO20gQgUDyavwkp.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258268429334675458/vid/720x720/MX5oGs4i8U3IG5HD.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "🎧いつでも、どこでも、音楽を🎧 世界で2億8600万人以上の音楽ファンに選ばれている、無料でも聴ける公式 音楽・ポッドキャスト配信アプリSpotify (スポティファイ)。Listening Together #聴いてつながろう #聴いつな カスタマーサポート: @SpotifyCaresJP",
+			"url": "https://t.co/KwyTrhDr0X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KwyTrhDr0X",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169842,
+			"friends_count": 1538,
+			"listed_count": 911,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 8975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 93482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1587659513",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 1191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "CHUNG HA (@CHUNGHA_MNHent) の最新シングル \"Stay Tonight\" が配信中🎧\n\n#CHUNGHA の魅力が満載🔥🔥\n\nクールで妖艶な最新楽曲を今すぐチェックしよう👉https://t.co/OMID4oiFlo https://t.co/We2CUiGaKo"
+	},
+	{
 		"created_at": "Thu May 07 20:35:31 +0000 2020",
 		"id": 1258495702658961400,
 		"id_str": "1258495702658961408",
