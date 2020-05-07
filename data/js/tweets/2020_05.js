@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 06:52:13 +0000 2020",
+		"id": 1258275412641067000,
+		"id_str": "1258288510181703680",
+		"full_text": "📸 \"Stay Tonight\" 안무 영상.#SnapShot\n\n▶️ https://t.co/X34jpXZHiN\n✌🏻 https://t.co/x44Tv5aQ0V\n⚡️ https://t.co/F3gO8GScwZ\n\n#청하 #CHUNGHA\n#StayTonight ✨\n#DancePractice https://t.co/aasmSFPyfG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SnapShot",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "DancePractice",
+					"indices": [
+						144,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X34jpXZHiN",
+					"expanded_url": "https://bit.ly/3c6LH6z",
+					"display_url": "bit.ly/3c6LH6z",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/x44Tv5aQ0V",
+					"expanded_url": "https://bit.ly/2YBIckE",
+					"display_url": "bit.ly/2YBIckE",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/F3gO8GScwZ",
+					"expanded_url": "https://bit.ly/2SDTwsJ",
+					"display_url": "bit.ly/2SDTwsJ",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258275402151112700,
+					"id_str": "1258275402151112704",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZKz8bUMAAer9E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZKz8bUMAAer9E.jpg",
+					"url": "https://t.co/aasmSFPyfG",
+					"display_url": "pic.twitter.com/aasmSFPyfG",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1258275412641067008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258275402151112700,
+					"id_str": "1258275402151112704",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZKz8bUMAAer9E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZKz8bUMAAer9E.jpg",
+					"url": "https://t.co/aasmSFPyfG",
+					"display_url": "pic.twitter.com/aasmSFPyfG",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1258275412641067008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258275402151125000,
+					"id_str": "1258275402151124992",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZKz8bUYAAqXOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZKz8bUYAAqXOO.jpg",
+					"url": "https://t.co/aasmSFPyfG",
+					"display_url": "pic.twitter.com/aasmSFPyfG",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1258275412641067008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258275402151153700,
+					"id_str": "1258275402151153664",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZKz8bU0AA2FXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZKz8bU0AA2FXv.jpg",
+					"url": "https://t.co/aasmSFPyfG",
+					"display_url": "pic.twitter.com/aasmSFPyfG",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1258275412641067008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258275402184704000,
+					"id_str": "1258275402184704001",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZKz8jUwAEvs-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZKz8jUwAEvs-V.jpg",
+					"url": "https://t.co/aasmSFPyfG",
+					"display_url": "pic.twitter.com/aasmSFPyfG",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1258275412641067008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257902,
+			"friends_count": 0,
+			"listed_count": 1952,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 951,
+		"favorite_count": 3245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 \"Stay Tonight\" 안무 영상.#SnapShot\n\n▶️ https://t.co/X34jpXZHiN\n✌🏻 https://t.co/x44Tv5aQ0V\n⚡️ https://t.co/F3gO8GScwZ\n\n#청하 #CHUNGHA\n#StayTonight ✨\n#DancePractice https://t.co/aasmSFPyfG"
+	},
+	{
 		"created_at": "Thu May 07 05:52:13 +0000 2020",
 		"id": 1258271435123900400,
 		"id_str": "1258273410720899073",
