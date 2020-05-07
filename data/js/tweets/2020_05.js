@@ -1,6 +1,1516 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 09:20:09 +0000 2020",
+		"id": 1258200129661595600,
+		"id_str": "1258325741520908290",
+		"full_text": "Axiom - 코딩없이 브라우저 봇 만들기 https://t.co/ImPl7DqJIr \n- 클릭만으로 웹에서 반복작업/자동화 만들기 지원\n- 웹페이지 데이터 추출(멀티페이지), 데이터 자동 입력, 버튼/링크 클릭\nㅤ데이터 필터링 및 변환, 파일 다운로드/업로드, 구글 쉬트 읽고 쓰기\n- 데스크탑 (크롬확장+별도 실...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ImPl7DqJIr",
+					"expanded_url": "https://j.mp/35Cmhve",
+					"display_url": "j.mp/35Cmhve",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2840,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Axiom - 코딩없이 브라우저 봇 만들기 https://t.co/ImPl7DqJIr \n- 클릭만으로 웹에서 반복작업/자동화 만들기 지원\n- 웹페이지 데이터 추출(멀티페이지), 데이터 자동 입력, 버튼/링크 클릭\nㅤ데이터 필터링 및 변환, 파일 다운로드/업로드, 구글 쉬트 읽고 쓰기\n- 데스크탑 (크롬확장+별도 실..."
+	},
+	{
+		"created_at": "Thu May 07 09:20:00 +0000 2020",
+		"id": 1258290869536354300,
+		"id_str": "1258325701515571202",
+		"full_text": "아이유 &lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt;\n뮤직비디오 비하인드 영상🧡\n그 현장으로 함께 가시죠❗\n\nEDAM YouTube ▶▶ https://t.co/01PlptwIkB\n\n#IUXSUGA #아이유 #에잇 #eight\nhttps://t.co/01PlptwIkB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IUXSUGA",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "에잇",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "eight",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/01PlptwIkB",
+					"expanded_url": "https://youtu.be/bqkKcsohRKo",
+					"display_url": "youtu.be/bqkKcsohRKo",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/01PlptwIkB",
+					"expanded_url": "https://youtu.be/bqkKcsohRKo",
+					"display_url": "youtu.be/bqkKcsohRKo",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17584,
+			"friends_count": 1,
+			"listed_count": 45,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3719,
+		"favorite_count": 9325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유 &lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt;\n뮤직비디오 비하인드 영상🧡\n그 현장으로 함께 가시죠❗\n\nEDAM YouTube ▶▶ https://t.co/01PlptwIkB\n\n#IUXSUGA #아이유 #에잇 #eight\nhttps://t.co/01PlptwIkB"
+	},
+	{
+		"created_at": "Thu May 07 09:19:58 +0000 2020",
+		"id": 1258275729520726000,
+		"id_str": "1258325691294085121",
+		"full_text": "기쁘다🎶\n아이유 ‘에잇’ 오셨네🧡\n뮤직비디오 비하인드가 궁금하다면,\n여기로 여기로🐥☀\n▶ https://t.co/2FkCw9va32\n\n#IUXSUGA #아이유 #에잇 #eight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IUXSUGA",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "에잇",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "eight",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2FkCw9va32",
+					"expanded_url": "http://naver.me/51g6cG6O",
+					"display_url": "naver.me/51g6cG6O",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529532,
+			"friends_count": 0,
+			"listed_count": 1150,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10696,
+		"favorite_count": 34721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기쁘다🎶\n아이유 ‘에잇’ 오셨네🧡\n뮤직비디오 비하인드가 궁금하다면,\n여기로 여기로🐥☀\n▶ https://t.co/2FkCw9va32\n\n#IUXSUGA #아이유 #에잇 #eight"
+	},
+	{
+		"created_at": "Thu May 07 09:19:21 +0000 2020",
+		"id": 1258325538436976600,
+		"id_str": "1258325538436976642",
+		"full_text": "#대한민국 #보건복지부\n[KTV LIVE] 코로나바이러스감염증-19 보건복지부·질병관리본부 온라인 외신 브리핑\nhttps://t.co/qvYxuEIQNA\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qvYxuEIQNA",
+					"expanded_url": "https://www.youtube.com/watch?v=EfmGc-xAFE4",
+					"display_url": "youtube.com/watch?v=EfmGc-…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[KTV LIVE] 코로나바이러스감염증-19 보건복지부·질병관리본부 온라인 외신 브리핑\nhttps://t.co/qvYxuEIQNA\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Thu May 07 09:17:02 +0000 2020",
+		"id": 1258323306366681000,
+		"id_str": "1258324955751579649",
+		"full_text": "['나비와 고양이' 바로듣기]\n\n멜론 https://t.co/R6X9HjtfIU\n지니 https://t.co/Mq3qeB7S8l\n플로 https://t.co/sXj25GQxDc\n벅스 https://t.co/0mqzXD1HxP\n소리바다 https://t.co/AOhpMKuwe8\n네이버뮤직 https://t.co/NdkPidNJ6o\n\n#볼빨간사춘기 #BOL4 #나비와고양이 #백현",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "나비와고양이",
+					"indices": [
+						200,
+						207
+					]
+				},
+				{
+					"text": "백현",
+					"indices": [
+						208,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R6X9HjtfIU",
+					"expanded_url": "https://bit.ly/3cddXEM",
+					"display_url": "bit.ly/3cddXEM",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/Mq3qeB7S8l",
+					"expanded_url": "https://bit.ly/2W9m9A8",
+					"display_url": "bit.ly/2W9m9A8",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/sXj25GQxDc",
+					"expanded_url": "https://bit.ly/2zfCydq",
+					"display_url": "bit.ly/2zfCydq",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/0mqzXD1HxP",
+					"expanded_url": "https://bit.ly/3baxh47",
+					"display_url": "bit.ly/3baxh47",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/AOhpMKuwe8",
+					"expanded_url": "https://bit.ly/2LacyTz",
+					"display_url": "bit.ly/2LacyTz",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/NdkPidNJ6o",
+					"expanded_url": "https://bit.ly/2xHcbNb",
+					"display_url": "bit.ly/2xHcbNb",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258320670087397400,
+		"in_reply_to_status_id_str": "1258320670087397376",
+		"in_reply_to_user_id": 1082086076947132400,
+		"in_reply_to_user_id_str": "1082086076947132416",
+		"in_reply_to_screen_name": "BOL4_Official",
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28294,
+			"friends_count": 2,
+			"listed_count": 195,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 482,
+		"favorite_count": 603,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "['나비와 고양이' 바로듣기]\n\n멜론 https://t.co/R6X9HjtfIU\n지니 https://t.co/Mq3qeB7S8l\n플로 https://t.co/sXj25GQxDc\n벅스 https://t.co/0mqzXD1HxP\n소리바다 https://t.co/AOhpMKuwe8\n네이버뮤직 https://t.co/NdkPidNJ6o\n\n#볼빨간사춘기 #BOL4 #나비와고양이 #백현"
+	},
+	{
+		"created_at": "Thu May 07 09:17:00 +0000 2020",
+		"id": 1258320670087397400,
+		"id_str": "1258324946729619457",
+		"full_text": "[Release]\n\n볼빨간사춘기 '나비와 고양이 (feat. 백현 (BAEKHYUN))'\n\n [사춘기집Ⅱ 꽃 본 나비]의 첫 장을 열어줄 '나비와 고양이'를 지금 만나보세요!\n\n2020.05.07 Now Released\n\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 Release\n\n#볼빨간사춘기 #BOL4 #나비와고양이 #백현 #사춘기집2 https://t.co/4AFEI4BOjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "나비와고양이",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"text": "백현",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						198,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258280623778611200,
+					"id_str": "1258280623778611202",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZPj4gUwAIRSWU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZPj4gUwAIRSWU.jpg",
+					"url": "https://t.co/4AFEI4BOjV",
+					"display_url": "pic.twitter.com/4AFEI4BOjV",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1258320670087397376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258280623778611200,
+					"id_str": "1258280623778611202",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZPj4gUwAIRSWU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZPj4gUwAIRSWU.jpg",
+					"url": "https://t.co/4AFEI4BOjV",
+					"display_url": "pic.twitter.com/4AFEI4BOjV",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1258320670087397376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28294,
+			"friends_count": 2,
+			"listed_count": 195,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6828,
+		"favorite_count": 5870,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\n볼빨간사춘기 '나비와 고양이 (feat. 백현 (BAEKHYUN))'\n\n [사춘기집Ⅱ 꽃 본 나비]의 첫 장을 열어줄 '나비와 고양이'를 지금 만나보세요!\n\n2020.05.07 Now Released\n\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 Release\n\n#볼빨간사춘기 #BOL4 #나비와고양이 #백현 #사춘기집2 https://t.co/4AFEI4BOjV"
+	},
+	{
+		"created_at": "Thu May 07 09:16:54 +0000 2020",
+		"id": 1258320669688737800,
+		"id_str": "1258324923463819264",
+		"full_text": "[MV]\n\n볼빨간사춘기 - 나비와 고양이 (feat. 백현 (BAEKHYUN))\n2020.05.07 (THU) Now Released\n\n📽 https://t.co/zjKcdjW4KA\n\n#볼빨간사춘기 #BOL4 #나비와고양이 #백현 #Leo #사춘기집2 #꽃본나비 #ShofarMusic #쇼파르뮤직 https://t.co/xH2b3ZGrvq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "나비와고양이",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "백현",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "Leo",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zjKcdjW4KA",
+					"expanded_url": "https://youtu.be/IPol5_4Cnyg",
+					"display_url": "youtu.be/IPol5_4Cnyg",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258286058464141300,
+					"id_str": "1258286058464141312",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZUgOSU4AA3esn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZUgOSU4AA3esn.jpg",
+					"url": "https://t.co/xH2b3ZGrvq",
+					"display_url": "pic.twitter.com/xH2b3ZGrvq",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1258320669688737797/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258286058464141300,
+					"id_str": "1258286058464141312",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZUgOSU4AA3esn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZUgOSU4AA3esn.jpg",
+					"url": "https://t.co/xH2b3ZGrvq",
+					"display_url": "pic.twitter.com/xH2b3ZGrvq",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1258320669688737797/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28294,
+			"friends_count": 2,
+			"listed_count": 195,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10543,
+		"favorite_count": 8258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV]\n\n볼빨간사춘기 - 나비와 고양이 (feat. 백현 (BAEKHYUN))\n2020.05.07 (THU) Now Released\n\n📽 https://t.co/zjKcdjW4KA\n\n#볼빨간사춘기 #BOL4 #나비와고양이 #백현 #Leo #사춘기집2 #꽃본나비 #ShofarMusic #쇼파르뮤직 https://t.co/xH2b3ZGrvq"
+	},
+	{
+		"created_at": "Thu May 07 09:16:21 +0000 2020",
+		"id": 1258304297046925300,
+		"id_str": "1258324784170979328",
+		"full_text": "최근 동물의 숲에는 잡초를 대신 제거해주는 알바가 성행하고 있습니다. 헌데 페이스북이 이 잡초 거래 알바와 관련된 글을 삭제하고 있어서 화제입니다. 이유인즉슨 weed와 trade를 필터링 과정에서 마약 거래로 오해해서 생긴 일이네요\nhttps://t.co/zWv4qidLPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zWv4qidLPr",
+					"expanded_url": "https://www.gamemeca.com/view.php?gid=1630418",
+					"display_url": "gamemeca.com/view.php?gid=1…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130681816,
+			"id_str": "130681816",
+			"name": "게임메카/Gamemeca",
+			"screen_name": "game_meca",
+			"location": "South Korea",
+			"description": "인터넷신문협회 소속, 대한민국 대표 게임 전문지 게임메카입니다.",
+			"url": "http://t.co/GgZkMtElKg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GgZkMtElKg",
+							"expanded_url": "http://www.gamemeca.com",
+							"display_url": "gamemeca.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125953,
+			"friends_count": 2653,
+			"listed_count": 332,
+			"created_at": "Thu Apr 08 00:38:23 +0000 2010",
+			"favourites_count": 4273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126656155143393281/oGuDnRxX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126656155143393281/oGuDnRxX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130681816/1557883786",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 동물의 숲에는 잡초를 대신 제거해주는 알바가 성행하고 있습니다. 헌데 페이스북이 이 잡초 거래 알바와 관련된 글을 삭제하고 있어서 화제입니다. 이유인즉슨 weed와 trade를 필터링 과정에서 마약 거래로 오해해서 생긴 일이네요\nhttps://t.co/zWv4qidLPr"
+	},
+	{
+		"created_at": "Thu May 07 09:13:41 +0000 2020",
+		"id": 1258290470788063200,
+		"id_str": "1258324111798841344",
+		"full_text": "💚💐오랜 시간 속 둘만의 소원을 속삭여 봐💐💚 \n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/m6nVfZ2q6U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						64,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257268753672204300,
+					"id_str": "1257268753672204291",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXK4QNfUYAA-NSa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXK4QNfUYAA-NSa.jpg",
+					"url": "https://t.co/m6nVfZ2q6U",
+					"display_url": "pic.twitter.com/m6nVfZ2q6U",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1258290470788063233/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257268753672204300,
+					"id_str": "1257268753672204291",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXK4QNfUYAA-NSa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXK4QNfUYAA-NSa.jpg",
+					"url": "https://t.co/m6nVfZ2q6U",
+					"display_url": "pic.twitter.com/m6nVfZ2q6U",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1258290470788063233/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75642,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1257268753672204291/pl/a5AMxpj7P47IQsIU.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257268753672204291/vid/1280x720/9SZDYInTaVqgeh6D.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257268753672204291/vid/640x360/Fe0AEW-QPAKFeAI6.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257268753672204291/vid/480x270/se138eVFbxXbak1u.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560810,
+			"friends_count": 4,
+			"listed_count": 6022,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4444,
+		"favorite_count": 7766,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "💚💐오랜 시간 속 둘만의 소원을 속삭여 봐💐💚 \n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/m6nVfZ2q6U"
+	},
+	{
 		"created_at": "Thu May 07 08:19:29 +0000 2020",
 		"id": 1258310471507009500,
 		"id_str": "1258310471507009541",
