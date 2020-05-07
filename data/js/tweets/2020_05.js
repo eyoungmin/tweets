@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 17:05:02 +0000 2020",
+		"id": 1258356542304182300,
+		"id_str": "1258442730138566656",
+		"full_text": "안녕하세요. 유튜브에 갑수목장님의 동물 학대 행위를 비판하는 영상을 올렸던 사람입니다. ( *영상 링크 : https://t.co/GgXa5VGAwc ) 일이 이렇게 터지고 나니 그동안 제게 인신공격이나 도 넘은 비난, 다른 영상까지 와서 악플 시던 분들은 어떤 생각을 하고 계실 지 궁금하네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GgXa5VGAwc",
+					"expanded_url": "https://youtu.be/x0uqU_XLLSg",
+					"display_url": "youtu.be/x0uqU_XLLSg",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1044627432366518300,
+			"id_str": "1044627432366518272",
+			"name": "동글한 치치",
+			"screen_name": "ehdrmf0624",
+			"location": "대한민국 대전",
+			"description": "팔로는 편하게 동물은 귀하게\n/\n2018.6.24 ~ ing 동글🐹\n/\n오늘부터 제 닉넴은 치치입니다. 암튼 치치임.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 222,
+			"listed_count": 1,
+			"created_at": "Tue Sep 25 16:39:22 +0000 2018",
+			"favourites_count": 2564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044627618635476993/rTnWyHl5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044627618635476993/rTnWyHl5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044627432366518272/1538217983",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 681,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. 유튜브에 갑수목장님의 동물 학대 행위를 비판하는 영상을 올렸던 사람입니다. ( *영상 링크 : https://t.co/GgXa5VGAwc ) 일이 이렇게 터지고 나니 그동안 제게 인신공격이나 도 넘은 비난, 다른 영상까지 와서 악플 시던 분들은 어떤 생각을 하고 계실 지 궁금하네요."
+	},
+	{
 		"created_at": "Thu May 07 15:19:31 +0000 2020",
 		"id": 1258416178155982800,
 		"id_str": "1258416178155982849",
