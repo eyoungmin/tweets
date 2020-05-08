@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 06:52:33 +0000 2020",
+		"id": 1258643434237128700,
+		"id_str": "1258650982902366208",
+		"full_text": "💿 구매처 : 인터파크, YES24, 알라딘, 핫트랙스, 미디어신나라, 뮤직플랜트 등을 포함한 각종 온라인 음반사이트 / 오프라인 음반 판매처는 매장별로 보유 여부 및 수량, 판매 시작 시간이 상이합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258643432429346800,
+		"in_reply_to_status_id_str": "1258643432429346816",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek_bv",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10684,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💿 구매처 : 인터파크, YES24, 알라딘, 핫트랙스, 미디어신나라, 뮤직플랜트 등을 포함한 각종 온라인 음반사이트 / 오프라인 음반 판매처는 매장별로 보유 여부 및 수량, 판매 시작 시간이 상이합니다."
+	},
+	{
+		"created_at": "Fri May 08 06:52:31 +0000 2020",
+		"id": 1258643432429346800,
+		"id_str": "1258650974085959681",
+		"full_text": "💿 정식 발매 : 2020.05.11(월) 오전 11시부터(온라인 기준)\n💿 수량 : 전체 2,000장 중 선판매 수량 370장 제외한 나머지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258643430424502300,
+		"in_reply_to_status_id_str": "1258643430424502272",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek_bv",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10684,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💿 정식 발매 : 2020.05.11(월) 오전 11시부터(온라인 기준)\n💿 수량 : 전체 2,000장 중 선판매 수량 370장 제외한 나머지"
+	},
+	{
+		"created_at": "Fri May 08 06:52:24 +0000 2020",
+		"id": 1258643430424502300,
+		"id_str": "1258650944272773120",
+		"full_text": "[NOTICE]  백예린 정규 1집 'Every letter I sent you.' LP제작 과정을 담은 비하인드스토리가 블루바이닐 네이버포스트에 공개되었습니다. 작년부터 준비해오던 Blue Vinyl 제작기와 자세한 발매 일정을 지금 바로 확인하세요!\n\nhttps://t.co/fQVKPeiSVl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fQVKPeiSVl",
+					"expanded_url": "http://naver.me/GjWJh8KK",
+					"display_url": "naver.me/GjWJh8KK",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258643038479569000,
+		"in_reply_to_status_id_str": "1258643038479568896",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek_bv",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10684,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]  백예린 정규 1집 'Every letter I sent you.' LP제작 과정을 담은 비하인드스토리가 블루바이닐 네이버포스트에 공개되었습니다. 작년부터 준비해오던 Blue Vinyl 제작기와 자세한 발매 일정을 지금 바로 확인하세요!\n\nhttps://t.co/fQVKPeiSVl"
+	},
+	{
+		"created_at": "Fri May 08 06:52:19 +0000 2020",
+		"id": 1258643038479569000,
+		"id_str": "1258650922797989888",
+		"full_text": "💿 When : Starts 2020.05.11 (Mon) 11AM KST (Global shipping available)\n💿 Quantity : The rest of 2000 after the 370 for pre-sale\n💿 Where : Online retailers including Interpark, YES24, Aladin, Hottracks, Synnara, and Musicplant / Offline stores may have varying availability.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258643036113756200,
+		"in_reply_to_status_id_str": "1258643036113756161",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek_bv",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10684,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "💿 When : Starts 2020.05.11 (Mon) 11AM KST (Global shipping available)\n💿 Quantity : The rest of 2000 after the 370 for pre-sale\n💿 Where : Online retailers including Interpark, YES24, Aladin, Hottracks, Synnara, and Musicplant / Offline stores may have varying availability."
+	},
+	{
+		"created_at": "Fri May 08 06:52:16 +0000 2020",
+		"id": 1258643036113756200,
+		"id_str": "1258650909678190592",
+		"full_text": "[NOTICE]  The story behind the creation of #YerinBaek’s first album ‘Every letter I sent you.’ vinyl is now released on Blue Vinyl’s Naver Post. Find out how the vinyl came together and check out the release schedule now!\n\nhttps://t.co/fQVKPeiSVl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YerinBaek",
+					"indices": [
+						43,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fQVKPeiSVl",
+					"expanded_url": "http://naver.me/GjWJh8KK",
+					"display_url": "naver.me/GjWJh8KK",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10684,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[NOTICE]  The story behind the creation of #YerinBaek’s first album ‘Every letter I sent you.’ vinyl is now released on Blue Vinyl’s Naver Post. Find out how the vinyl came together and check out the release schedule now!\n\nhttps://t.co/fQVKPeiSVl"
+	},
+	{
+		"created_at": "Fri May 08 06:52:13 +0000 2020",
+		"id": 1258637922120593400,
+		"id_str": "1258650896646451200",
+		"full_text": "📹 [청하의 연습실] \"Stay Tonight\" 안무연습 비하인드\n\n▶️ https://t.co/Yjw90NVALs\n✌🏻 https://t.co/xeSpCo57tt\n\n#청하 #CHUNGHA\n#StayTonight 🖤 https://t.co/6itbtzsnym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						106,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yjw90NVALs",
+					"expanded_url": "https://bit.ly/2YGTLHg",
+					"display_url": "bit.ly/2YGTLHg",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/xeSpCo57tt",
+					"expanded_url": "https://bit.ly/3cfoEXo",
+					"display_url": "bit.ly/3cfoEXo",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258637838851039200,
+					"id_str": "1258637838851039232",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258637838851039232/pu/img/KESbLsA5wWQmzqdI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258637838851039232/pu/img/KESbLsA5wWQmzqdI.jpg",
+					"url": "https://t.co/6itbtzsnym",
+					"display_url": "pic.twitter.com/6itbtzsnym",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1258637922120593410/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258637838851039200,
+					"id_str": "1258637838851039232",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258637838851039232/pu/img/KESbLsA5wWQmzqdI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258637838851039232/pu/img/KESbLsA5wWQmzqdI.jpg",
+					"url": "https://t.co/6itbtzsnym",
+					"display_url": "pic.twitter.com/6itbtzsnym",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1258637922120593410/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258637838851039232/pu/vid/640x360/vZ7I3QIiEupLevc0.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258637838851039232/pu/vid/480x270/Qz8zdpsccl-TQxAC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1258637838851039232/pu/pl/apu053uQNYpA29OZ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258637838851039232/pu/vid/1280x720/RgC0uOtmu-Rs6RvB.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258264,
+			"friends_count": 0,
+			"listed_count": 1874,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 538,
+		"favorite_count": 1853,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📹 [청하의 연습실] \"Stay Tonight\" 안무연습 비하인드\n\n▶️ https://t.co/Yjw90NVALs\n✌🏻 https://t.co/xeSpCo57tt\n\n#청하 #CHUNGHA\n#StayTonight 🖤 https://t.co/6itbtzsnym"
+	},
+	{
 		"created_at": "Fri May 08 05:26:20 +0000 2020",
 		"id": 1258629286011056000,
 		"id_str": "1258629286011056128",
