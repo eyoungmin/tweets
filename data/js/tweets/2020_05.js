@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 15:44:44 +0000 2020",
+		"id": 1258735366762201000,
+		"id_str": "1258784912028491777",
+		"full_text": "갈수록 비인간화하는 환경과 외로움 속의 이별. 역병은 인간의 운명을 반복해서 상기시키는 전령, 삶은 가장 예기치 않은 방식으로 소멸된다는 증거, 지금 크게 살라는 교훈. 벌써 처음의 충격과 다짐도 희미해져 간다. 지금은 안개 같은 이 경험도 누군가 형상화할 것. 강추 https://t.co/eTNgfkPG3l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eTNgfkPG3l",
+					"expanded_url": "https://www.nytimes.com/2020/05/06/opinion/coronavirus-garcia-marquez.html",
+					"display_url": "nytimes.com/2020/05/06/opi…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1258735363868119000,
+		"in_reply_to_status_id_str": "1258735363868119040",
+		"in_reply_to_user_id": 27725896,
+		"in_reply_to_user_id_str": "27725896",
+		"in_reply_to_screen_name": "atmostbeautiful",
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101035,
+			"friends_count": 2410,
+			"listed_count": 376,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "갈수록 비인간화하는 환경과 외로움 속의 이별. 역병은 인간의 운명을 반복해서 상기시키는 전령, 삶은 가장 예기치 않은 방식으로 소멸된다는 증거, 지금 크게 살라는 교훈. 벌써 처음의 충격과 다짐도 희미해져 간다. 지금은 안개 같은 이 경험도 누군가 형상화할 것. 강추 https://t.co/eTNgfkPG3l"
+	},
+	{
 		"created_at": "Fri May 08 14:32:53 +0000 2020",
 		"id": 1258766831151575000,
 		"id_str": "1258766831151575041",
