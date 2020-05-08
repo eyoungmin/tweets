@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 08:45:37 +0000 2020",
+		"id": 1258668534403498000,
+		"id_str": "1258679434913230848",
+		"full_text": "[#최리 / #Choerry] 청량함 365리터 쏟아 부은 이달의 소녀의 무대 신나게 즐긴 오빛?손👋🏻 '아시아 라이징 포에버'를 통해 많은 아티스트분들과 함께 공연에 참여할 수 있어서 너무 영광이었어용! 다음에 또 이런 좋은 기회가 온다면 오빛과 함께 즐거운 마음으로 참여하고 싶습니당!!😝💜💞사랑해용🍒 https://t.co/WVlddR9nKH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258667918297952300,
+					"id_str": "1258667918297952256",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EXevzZBUcAAi4eu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXevzZBUcAAi4eu.jpg",
+					"url": "https://t.co/WVlddR9nKH",
+					"display_url": "pic.twitter.com/WVlddR9nKH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1258668534403497984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258667918297952300,
+					"id_str": "1258667918297952256",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EXevzZBUcAAi4eu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXevzZBUcAAi4eu.jpg",
+					"url": "https://t.co/WVlddR9nKH",
+					"display_url": "pic.twitter.com/WVlddR9nKH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1258668534403497984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460179,
+			"friends_count": 0,
+			"listed_count": 6201,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5142,
+		"favorite_count": 11821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최리 / #Choerry] 청량함 365리터 쏟아 부은 이달의 소녀의 무대 신나게 즐긴 오빛?손👋🏻 '아시아 라이징 포에버'를 통해 많은 아티스트분들과 함께 공연에 참여할 수 있어서 너무 영광이었어용! 다음에 또 이런 좋은 기회가 온다면 오빛과 함께 즐거운 마음으로 참여하고 싶습니당!!😝💜💞사랑해용🍒 https://t.co/WVlddR9nKH"
+	},
+	{
 		"created_at": "Fri May 08 07:54:03 +0000 2020",
 		"id": 1258666459573739500,
 		"id_str": "1258666459573739520",
