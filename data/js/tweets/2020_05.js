@@ -1,6 +1,1651 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 12:35:30 +0000 2020",
+		"id": 1258737287099068400,
+		"id_str": "1258737287099068417",
+		"full_text": "어쨌든 직원이 수동으로 추가하는 것이라면 어느순간 소홀해지지 않게 꾸준해야 할 것이라 생각. 소홀해져 의미없어진 팬덤 서비스를 많이봐왔기에.\n\n공식사이트 스케줄이나 음원발매 스케줄도 체크해서 넣어주는 것이 장점\n\n#음원차트 #조회수 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음원차트",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "조회수",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1258737285790445600,
+		"in_reply_to_status_id_str": "1258737285790445568",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어쨌든 직원이 수동으로 추가하는 것이라면 어느순간 소홀해지지 않게 꾸준해야 할 것이라 생각. 소홀해져 의미없어진 팬덤 서비스를 많이봐왔기에.\n\n공식사이트 스케줄이나 음원발매 스케줄도 체크해서 넣어주는 것이 장점\n\n#음원차트 #조회수 #뮤직비지니스"
+	},
+	{
+		"created_at": "Fri May 08 12:35:29 +0000 2020",
+		"id": 1258737285790445600,
+		"id_str": "1258737285790445568",
+		"full_text": "블립 @kpopradar_blip 은 유튜브 조회수를 기반으로 목표에 도달하면 뱃지를 붙이고 푸시메시지를 보내 알려준다. 또한 스케줄을 수동으로 추가하는 것인지 크롤링하여 자동화한 것인지 모르겠으나 내가 보기에는 전자같다.\n\n#음원차트 #조회수 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음원차트",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "조회수",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						137,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kpopradar_blip",
+					"name": "K-Pop Radar (케이팝 레이더)",
+					"id": 1157200608106967000,
+					"id_str": "1157200608106967040",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1258737284746145800,
+		"in_reply_to_status_id_str": "1258737284746145792",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "블립 @kpopradar_blip 은 유튜브 조회수를 기반으로 목표에 도달하면 뱃지를 붙이고 푸시메시지를 보내 알려준다. 또한 스케줄을 수동으로 추가하는 것인지 크롤링하여 자동화한 것인지 모르겠으나 내가 보기에는 전자같다.\n\n#음원차트 #조회수 #뮤직비지니스"
+	},
+	{
+		"created_at": "Fri May 08 12:35:29 +0000 2020",
+		"id": 1258737284746145800,
+		"id_str": "1258737284746145792",
+		"full_text": "방탄소년단 총공팀이랑 블립 팀이랑 아이돌 데이터 수집 능력은 둘다 대단한데 방탄소년단 총공팀은 모든 음원스트리밍 사이트 차트를 긁어 아티스트 차트로 활용하고 확인시켜준다. \n\n#음원차트 #조회수 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음원차트",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "조회수",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "방탄소년단 총공팀이랑 블립 팀이랑 아이돌 데이터 수집 능력은 둘다 대단한데 방탄소년단 총공팀은 모든 음원스트리밍 사이트 차트를 긁어 아티스트 차트로 활용하고 확인시켜준다. \n\n#음원차트 #조회수 #뮤직비지니스"
+	},
+	{
+		"created_at": "Fri May 08 12:20:19 +0000 2020",
+		"id": 1258659364564430800,
+		"id_str": "1258733465937174528",
+		"full_text": "오늘 자정부터 네이버 오디오 클립을 통해 애거서 크리스티의 대표적인 인기작 &lt;그리고 아무도 없었다&gt; 오디오북(완독 및 드라마 연기, 브금 포함) 무료 스트리밍 서비스됩니다. 이틀 동안 서비스되고요, 미리듣기 들어보시면 아시겠지만 내레이션이 최고입니다. https://t.co/a13Vs9LnUH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a13Vs9LnUH",
+					"expanded_url": "https://audioclip.naver.com/audiobooks/428CB1E8DC",
+					"display_url": "audioclip.naver.com/audiobooks/428…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262554617,
+			"id_str": "262554617",
+			"name": "황금가지편집장",
+			"screen_name": "goldenboughbook",
+			"location": "",
+			"description": "황금가지 출판사 편집부의 트위터입니다/  밀리언셀러 클럽(http://t.co/7BxU40UsP4) 이영도 카페(http://t.co/F4OiMc7b) 블랙로맨스클럽(http://t.co/zxdGsin1) 브릿G(https://t.co/lGr24ziDkY)",
+			"url": "http://t.co/RrQps9625e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RrQps9625e",
+							"expanded_url": "http://www.goldenbough.co.kr",
+							"display_url": "goldenbough.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/7BxU40UsP4",
+							"expanded_url": "http://cafe.naver.com/mscbook",
+							"display_url": "cafe.naver.com/mscbook",
+							"indices": [
+								32,
+								54
+							]
+						},
+						{
+							"url": "http://t.co/F4OiMc7b",
+							"expanded_url": "http://cafe.naver.com/bloodbird",
+							"display_url": "cafe.naver.com/bloodbird",
+							"indices": [
+								63,
+								83
+							]
+						},
+						{
+							"url": "http://t.co/zxdGsin1",
+							"expanded_url": "http://cafe.naver.com/brcbook",
+							"display_url": "cafe.naver.com/brcbook",
+							"indices": [
+								93,
+								113
+							]
+						},
+						{
+							"url": "https://t.co/lGr24ziDkY",
+							"expanded_url": "https://britg.kr/",
+							"display_url": "britg.kr",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6208,
+			"friends_count": 63,
+			"listed_count": 188,
+			"created_at": "Tue Mar 08 08:12:45 +0000 2011",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/486446920093544448/dbtjJMVf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/486446920093544448/dbtjJMVf_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1391,
+		"favorite_count": 507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 자정부터 네이버 오디오 클립을 통해 애거서 크리스티의 대표적인 인기작 &lt;그리고 아무도 없었다&gt; 오디오북(완독 및 드라마 연기, 브금 포함) 무료 스트리밍 서비스됩니다. 이틀 동안 서비스되고요, 미리듣기 들어보시면 아시겠지만 내레이션이 최고입니다. https://t.co/a13Vs9LnUH"
+	},
+	{
+		"created_at": "Fri May 08 12:17:01 +0000 2020",
+		"id": 1258653016648847400,
+		"id_str": "1258732635846660099",
+		"full_text": "100만달러 기금 조성한 어도비, 크리에이터 지원사격 나선다 https://t.co/Nl4T8I1G3v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nl4T8I1G3v",
+					"expanded_url": "http://www.bloter.net/archives/380086",
+					"display_url": "bloter.net/archives/380086",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55461,
+			"friends_count": 9,
+			"listed_count": 2455,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "100만달러 기금 조성한 어도비, 크리에이터 지원사격 나선다 https://t.co/Nl4T8I1G3v"
+	},
+	{
+		"created_at": "Fri May 08 12:08:32 +0000 2020",
+		"id": 1258730500824449000,
+		"id_str": "1258730500824449026",
+		"full_text": "#YG라이프 #YG엔터테인먼트\nYG “리사 신변 위협 인지, 선처 없이 강경대응”\nhttps://t.co/i40WfDVwG2\n#블랙핑크 #BLACKPINK https://t.co/hrj4lwjLXZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i40WfDVwG2",
+					"expanded_url": "https://yg-life.com/archives/154925?lang=ko",
+					"display_url": "yg-life.com/archives/15492…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258730499457069000,
+					"id_str": "1258730499457069056",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EXfouGAWsAAZMja.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXfouGAWsAAZMja.jpg",
+					"url": "https://t.co/hrj4lwjLXZ",
+					"display_url": "pic.twitter.com/hrj4lwjLXZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1258730500824449026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258730499457069000,
+					"id_str": "1258730499457069056",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EXfouGAWsAAZMja.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXfouGAWsAAZMja.jpg",
+					"url": "https://t.co/hrj4lwjLXZ",
+					"display_url": "pic.twitter.com/hrj4lwjLXZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1258730500824449026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\nYG “리사 신변 위협 인지, 선처 없이 강경대응”\nhttps://t.co/i40WfDVwG2\n#블랙핑크 #BLACKPINK https://t.co/hrj4lwjLXZ"
+	},
+	{
+		"created_at": "Fri May 08 12:04:41 +0000 2020",
+		"id": 1258597345542865000,
+		"id_str": "1258729535207399425",
+		"full_text": "@greenbe78177817 법 앞에서 내가 어떤 결과를 받게 될 지, 그리고 그 결과로 무얼해야하는지 고민하기 위해서는 우선 해보지 않으면 알 수 없으니까요.\n그리고 그냥 결혼 1주년이라 남들 다 하는거 해보고 싶었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greenbe78177817",
+					"name": "greenbean",
+					"id": 1258585457547284500,
+					"id_str": "1258585457547284481",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258597054642663400,
+		"in_reply_to_status_id_str": "1258597054642663424",
+		"in_reply_to_user_id": 1160334914811621400,
+		"in_reply_to_user_id_str": "1160334914811621377",
+		"in_reply_to_screen_name": "kyugenius",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 42,
+			"listed_count": 40,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@greenbe78177817 법 앞에서 내가 어떤 결과를 받게 될 지, 그리고 그 결과로 무얼해야하는지 고민하기 위해서는 우선 해보지 않으면 알 수 없으니까요.\n그리고 그냥 결혼 1주년이라 남들 다 하는거 해보고 싶었습니다."
+	},
+	{
+		"created_at": "Fri May 08 12:04:40 +0000 2020",
+		"id": 1258597054642663400,
+		"id_str": "1258729528442028033",
+		"full_text": "@greenbe78177817 1. 7년 전 일이고, 판결에도 \"변화된 시대상\" 언급이 있어 현재에도 동일할지 궁금했습니다\n2. 미국 결혼증명서가 있어 이게 영향을 줄 지 궁금했습니다\n3. 우편(김조광수 감독)이 아닌 대면 제출은 최초인데, 이 역시 궁금했습니다\n4. 다 떠나서 납세자로서 혼인신고서 제출 정도는 권리라 생각합니다",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greenbe78177817",
+					"name": "greenbean",
+					"id": 1258585457547284500,
+					"id_str": "1258585457547284481",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258596139546243000,
+		"in_reply_to_status_id_str": "1258596139546243072",
+		"in_reply_to_user_id": 1258585457547284500,
+		"in_reply_to_user_id_str": "1258585457547284481",
+		"in_reply_to_screen_name": "greenbe78177817",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 42,
+			"listed_count": 40,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 247,
+		"favorite_count": 242,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@greenbe78177817 1. 7년 전 일이고, 판결에도 \"변화된 시대상\" 언급이 있어 현재에도 동일할지 궁금했습니다\n2. 미국 결혼증명서가 있어 이게 영향을 줄 지 궁금했습니다\n3. 우편(김조광수 감독)이 아닌 대면 제출은 최초인데, 이 역시 궁금했습니다\n4. 다 떠나서 납세자로서 혼인신고서 제출 정도는 권리라 생각합니다"
+	},
+	{
+		"created_at": "Fri May 08 12:04:06 +0000 2020",
+		"id": 1258287750916132900,
+		"id_str": "1258729384736747522",
+		"full_text": "그래도 뭐라도 공식적인 답변을 받아서 개운합니다. 장기전인건 알고 있었으니까요. 앞으로가 더 중요한거겠죠? 요즘 휴먼... 너무 장수한다...\n\n일단 이런건 다 뒤로하고 집에 가서 편지 쓰고 꽃 사서 맛있는 저녁을 먹으러 가야겠어요 😛🥰",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258287479221678000,
+		"in_reply_to_status_id_str": "1258287479221678080",
+		"in_reply_to_user_id": 1160334914811621400,
+		"in_reply_to_user_id_str": "1160334914811621377",
+		"in_reply_to_screen_name": "kyugenius",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 42,
+			"listed_count": 40,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 889,
+		"favorite_count": 1912,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래도 뭐라도 공식적인 답변을 받아서 개운합니다. 장기전인건 알고 있었으니까요. 앞으로가 더 중요한거겠죠? 요즘 휴먼... 너무 장수한다...\n\n일단 이런건 다 뒤로하고 집에 가서 편지 쓰고 꽃 사서 맛있는 저녁을 먹으러 가야겠어요 😛🥰"
+	},
+	{
+		"created_at": "Fri May 08 12:04:01 +0000 2020",
+		"id": 1258287479221678000,
+		"id_str": "1258729365740740608",
+		"full_text": "가라앉은 마음으로 앉아있는데, 불수리 통지서를 받을 때 갑자기 뒤쪽에 계시던 중년의 직원분이 다가오셨어요.\n\n\"국회에서 법제화 노력 중인 사람들이 있으니 조금만 기다리세요. 죄송해요 저희는 공무원이라...\"\n\n다시 눈물이 왈칵 쏟아졌어요. 이 분이 이런 말을 해도 되는지 걱정이 되기도 하고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258279316070125600,
+		"in_reply_to_status_id_str": "1258279316070125568",
+		"in_reply_to_user_id": 1160334914811621400,
+		"in_reply_to_user_id_str": "1160334914811621377",
+		"in_reply_to_screen_name": "kyugenius",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 42,
+			"listed_count": 40,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4026,
+		"favorite_count": 3185,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가라앉은 마음으로 앉아있는데, 불수리 통지서를 받을 때 갑자기 뒤쪽에 계시던 중년의 직원분이 다가오셨어요.\n\n\"국회에서 법제화 노력 중인 사람들이 있으니 조금만 기다리세요. 죄송해요 저희는 공무원이라...\"\n\n다시 눈물이 왈칵 쏟아졌어요. 이 분이 이런 말을 해도 되는지 걱정이 되기도 하고."
+	},
+	{
+		"created_at": "Fri May 08 12:03:57 +0000 2020",
+		"id": 1258279316070125600,
+		"id_str": "1258729347537461250",
+		"full_text": "불수리가 되기까지 약 4시간이 걸렸고, 막내부터 민원실 최고참까지 열댓명이 이 건에 달라붙었습니다. 다들 너무 스트레스를 받아했어요. 미안했어요. 근데 혼인신고가 미안한 일은 아니잖아요? 비참했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258277790043914200,
+		"in_reply_to_status_id_str": "1258277790043914240",
+		"in_reply_to_user_id": 1160334914811621400,
+		"in_reply_to_user_id_str": "1160334914811621377",
+		"in_reply_to_screen_name": "kyugenius",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 42,
+			"listed_count": 40,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2280,
+		"favorite_count": 1726,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "불수리가 되기까지 약 4시간이 걸렸고, 막내부터 민원실 최고참까지 열댓명이 이 건에 달라붙었습니다. 다들 너무 스트레스를 받아했어요. 미안했어요. 근데 혼인신고가 미안한 일은 아니잖아요? 비참했습니다."
+	},
+	{
+		"created_at": "Fri May 08 12:03:39 +0000 2020",
+		"id": 1258277790043914200,
+		"id_str": "1258729275269627905",
+		"full_text": "법원에서 연락이 왔고, 접수 후 불수리가 되었습니다. 사유는 최초에는 \"헌법 제36조 1항 및 민법 제815조 1항\" 였습니다. 그런데 잘못 적었다고 다시 와달라고 하셔서 갔더니 \"현행법 상\" 수리할 수 없다고 수정해서 다시 주셨어요.\n\n규진: 헐 원래껄로 소송걸걸 그랬어요!!\n직원분들: 호호호 (긴장)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258261654548041700,
+		"in_reply_to_status_id_str": "1258261654548041728",
+		"in_reply_to_user_id": 1160334914811621400,
+		"in_reply_to_user_id_str": "1160334914811621377",
+		"in_reply_to_screen_name": "kyugenius",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 42,
+			"listed_count": 40,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1120,
+		"favorite_count": 887,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "법원에서 연락이 왔고, 접수 후 불수리가 되었습니다. 사유는 최초에는 \"헌법 제36조 1항 및 민법 제815조 1항\" 였습니다. 그런데 잘못 적었다고 다시 와달라고 하셔서 갔더니 \"현행법 상\" 수리할 수 없다고 수정해서 다시 주셨어요.\n\n규진: 헐 원래껄로 소송걸걸 그랬어요!!\n직원분들: 호호호 (긴장)"
+	},
+	{
+		"created_at": "Fri May 08 12:03:24 +0000 2020",
+		"id": 1258261654548041700,
+		"id_str": "1258729211461685248",
+		"full_text": "그런데 서류를 들고가면 또 접수 거부가 아닌지 문의드리니, 그렇지는 않지만 워낙 이례적인 케이스라 양해를 부탁하셨습니다. 사실 공무원분들이 무슨 잘못이 있겠어요 일을 하시는거지. 그래도 눈 앞에서 제 혼인이 성립되지 않는 이유를 조목조목 알려주시는건 저도 사람인지라 눈물이 나더랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258261652861931500,
+		"in_reply_to_status_id_str": "1258261652861931522",
+		"in_reply_to_user_id": 1160334914811621400,
+		"in_reply_to_user_id_str": "1160334914811621377",
+		"in_reply_to_screen_name": "kyugenius",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 42,
+			"listed_count": 40,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1154,
+		"favorite_count": 1260,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런데 서류를 들고가면 또 접수 거부가 아닌지 문의드리니, 그렇지는 않지만 워낙 이례적인 케이스라 양해를 부탁하셨습니다. 사실 공무원분들이 무슨 잘못이 있겠어요 일을 하시는거지. 그래도 눈 앞에서 제 혼인이 성립되지 않는 이유를 조목조목 알려주시는건 저도 사람인지라 눈물이 나더랍니다."
+	},
+	{
+		"created_at": "Fri May 08 12:03:22 +0000 2020",
+		"id": 1258237432765362200,
+		"id_str": "1258729201684721664",
+		"full_text": "죄송하지만 한국은 동성 간 혼인이 금지다(???)면서 서류를 돌려주려 하여 아니라고, 민법에는 동성혼에 대해 명시된 사항이 없다고 말씀 드렸습니다. 아니 접수 후 검토 및 결정을 하면 깔끔할텐데... 😂 접수 자체가 부담스러운 이유가 있을까요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258236255273246700,
+		"in_reply_to_status_id_str": "1258236255273246724",
+		"in_reply_to_user_id": 1160334914811621400,
+		"in_reply_to_user_id_str": "1160334914811621377",
+		"in_reply_to_screen_name": "kyugenius",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 42,
+			"listed_count": 40,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2737,
+		"favorite_count": 1826,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "죄송하지만 한국은 동성 간 혼인이 금지다(???)면서 서류를 돌려주려 하여 아니라고, 민법에는 동성혼에 대해 명시된 사항이 없다고 말씀 드렸습니다. 아니 접수 후 검토 및 결정을 하면 깔끔할텐데... 😂 접수 자체가 부담스러운 이유가 있을까요?"
+	},
+	{
 		"created_at": "Fri May 08 11:49:59 +0000 2020",
 		"id": 1258725834594021400,
 		"id_str": "1258725834594021376",
