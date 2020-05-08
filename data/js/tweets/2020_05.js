@@ -1,6 +1,745 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 03:56:03 +0000 2020",
+		"id": 1258606566116376600,
+		"id_str": "1258606566116376580",
+		"full_text": "#BBC코리아\n코로나19: 김정은이 중국의 방역 성과를 축하하는 친서를 보냈다\nhttps://t.co/wlAWojWzkl\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wlAWojWzkl",
+					"expanded_url": "https://www.bbc.com/korean/news-52585998",
+					"display_url": "bbc.com/korean/news-52…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 김정은이 중국의 방역 성과를 축하하는 친서를 보냈다\nhttps://t.co/wlAWojWzkl\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri May 08 03:52:22 +0000 2020",
+		"id": 1258592460206293000,
+		"id_str": "1258605637237432320",
+		"full_text": "[#대답자판기_새소년] Ask  #SESONEON anything ❕ 궁금한 모든 것 이름/닉네임 과 함께 답글 달아주세요! 새소년이 직.접. 이름 불러주고 답 해줍니닷 😉 @se_so_neon https://t.co/EBpxUJ0SaK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대답자판기_새소년",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "se_so_neon",
+					"name": "새소년 SE SO NEON",
+					"id": 718392164741472300,
+					"id_str": "718392164741472256",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258565872148308000,
+					"id_str": "1258565872148307975",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdS_hfUYAc8JGl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdS_hfUYAc8JGl.jpg",
+					"url": "https://t.co/EBpxUJ0SaK",
+					"display_url": "pic.twitter.com/EBpxUJ0SaK",
+					"expanded_url": "https://twitter.com/gems_genie/status/1258592460206292994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258565872148308000,
+					"id_str": "1258565872148307975",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdS_hfUYAc8JGl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdS_hfUYAc8JGl.jpg",
+					"url": "https://t.co/EBpxUJ0SaK",
+					"display_url": "pic.twitter.com/EBpxUJ0SaK",
+					"expanded_url": "https://twitter.com/gems_genie/status/1258592460206292994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258565872152535000,
+					"id_str": "1258565872152535040",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdS_hgU4AAQsX6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdS_hgU4AAQsX6.jpg",
+					"url": "https://t.co/EBpxUJ0SaK",
+					"display_url": "pic.twitter.com/EBpxUJ0SaK",
+					"expanded_url": "https://twitter.com/gems_genie/status/1258592460206292994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "Gems 잼스",
+			"screen_name": "gems_genie",
+			"location": "",
+			"description": "Here's Genie Media Studio’s Official twitter 💙\nEnjoy the kpop breaking news and exclusive contents",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6680,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1569811208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#대답자판기_새소년] Ask  #SESONEON anything ❕ 궁금한 모든 것 이름/닉네임 과 함께 답글 달아주세요! 새소년이 직.접. 이름 불러주고 답 해줍니닷 😉 @se_so_neon https://t.co/EBpxUJ0SaK"
+	},
+	{
+		"created_at": "Fri May 08 03:49:13 +0000 2020",
+		"id": 1258604843314405400,
+		"id_str": "1258604843314405377",
+		"full_text": "달로그 #1 (LOONA LOG #1) 진솔 #1 (JinSoul #1)\nhttps://t.co/B3I3qr1nVc\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B3I3qr1nVc",
+					"expanded_url": "https://youtu.be/2BHMvPO-7kI",
+					"display_url": "youtu.be/2BHMvPO-7kI",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "달로그 #1 (LOONA LOG #1) 진솔 #1 (JinSoul #1)\nhttps://t.co/B3I3qr1nVc\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Fri May 08 03:45:37 +0000 2020",
+		"id": 1258592511431282700,
+		"id_str": "1258603937550217216",
+		"full_text": "[달로그 #1] 진솔이의 'So What' 활동 브이로그가 지금 공개되는 이유는?\n이달의 소녀 공식 유튜브 채널에서 달로그를 확인하세요!\n⠀\n▶️ https://t.co/nVEa3XgBY9\n⠀\n#이달의소녀 #달로그 #진솔 #LOONA #LOONALOG #JinSoul https://t.co/paxmlzuHPn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "달로그",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "LOONALOG",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						141,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nVEa3XgBY9",
+					"expanded_url": "https://youtu.be/2BHMvPO-7kI",
+					"display_url": "youtu.be/2BHMvPO-7kI",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258591833615069200,
+					"id_str": "1258591833615069189",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdqmrfVcAUai0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdqmrfVcAUai0_.jpg",
+					"url": "https://t.co/paxmlzuHPn",
+					"display_url": "pic.twitter.com/paxmlzuHPn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1258592511431282689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258591833615069200,
+					"id_str": "1258591833615069189",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdqmrfVcAUai0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdqmrfVcAUai0_.jpg",
+					"url": "https://t.co/paxmlzuHPn",
+					"display_url": "pic.twitter.com/paxmlzuHPn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1258592511431282689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460038,
+			"friends_count": 0,
+			"listed_count": 6249,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4325,
+		"favorite_count": 10029,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[달로그 #1] 진솔이의 'So What' 활동 브이로그가 지금 공개되는 이유는?\n이달의 소녀 공식 유튜브 채널에서 달로그를 확인하세요!\n⠀\n▶️ https://t.co/nVEa3XgBY9\n⠀\n#이달의소녀 #달로그 #진솔 #LOONA #LOONALOG #JinSoul https://t.co/paxmlzuHPn"
+	},
+	{
 		"created_at": "Fri May 08 03:00:29 +0000 2020",
 		"id": 1258592579542831000,
 		"id_str": "1258592579542831104",
