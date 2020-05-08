@@ -1,6 +1,2271 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 01:52:17 +0000 2020",
+		"id": 1258574583176650800,
+		"id_str": "1258575417163886598",
+		"full_text": "오렌지레터X사랑의열매(@nanumin)가 우리 사회의 코로나19 대응 활동 사례를 모으고 있어요🥰 코로나19 위기 극복에 동참한 히어로들의 이야기를 제보해주세요!👉https://t.co/ZAfcuUC1Py\n(*링크가 열리지 않는다면 orange@slowalk.co.kr 또는 webmaster@chest.co.kr로 사례와 관련 링크를 보내주세요)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nanumin",
+					"name": "사랑의열매 사회복지공동모금회",
+					"id": 87880315,
+					"id_str": "87880315",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZAfcuUC1Py",
+					"expanded_url": "https://slo.ms/covid-19out",
+					"display_url": "slo.ms/covid-19out",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4874,
+			"friends_count": 3391,
+			"listed_count": 219,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오렌지레터X사랑의열매(@nanumin)가 우리 사회의 코로나19 대응 활동 사례를 모으고 있어요🥰 코로나19 위기 극복에 동참한 히어로들의 이야기를 제보해주세요!👉https://t.co/ZAfcuUC1Py\n(*링크가 열리지 않는다면 orange@slowalk.co.kr 또는 webmaster@chest.co.kr로 사례와 관련 링크를 보내주세요)"
+	},
+	{
+		"created_at": "Fri May 08 01:52:13 +0000 2020",
+		"id": 1258570308438462500,
+		"id_str": "1258575399887482880",
+		"full_text": "#BLACKPINK '불장난 (PLAYING WITH FIRE)' M/V HITS 500 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n‘불장난' M/V\n🎥 https://t.co/mb3uKbUahb\n\n#블랙핑크 #PLAYINGWITHFIRE #불장난 #MV #500MILLION #YOUTUBE #YG https://t.co/l02zkPOUs7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "PLAYINGWITHFIRE",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "불장난",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "500MILLION",
+					"indices": [
+						180,
+						191
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						201,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mb3uKbUahb",
+					"expanded_url": "https://youtu.be/9pdj4iJD08s",
+					"display_url": "youtu.be/9pdj4iJD08s",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258569754039611400,
+					"id_str": "1258569754039611392",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdWheqU8AAriDv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdWheqU8AAriDv.jpg",
+					"url": "https://t.co/l02zkPOUs7",
+					"display_url": "pic.twitter.com/l02zkPOUs7",
+					"expanded_url": "https://twitter.com/ygent_official/status/1258570308438462472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258569754039611400,
+					"id_str": "1258569754039611392",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdWheqU8AAriDv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdWheqU8AAriDv.jpg",
+					"url": "https://t.co/l02zkPOUs7",
+					"display_url": "pic.twitter.com/l02zkPOUs7",
+					"expanded_url": "https://twitter.com/ygent_official/status/1258570308438462472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5942081,
+			"friends_count": 38,
+			"listed_count": 7699,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6170,
+		"favorite_count": 16594,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK '불장난 (PLAYING WITH FIRE)' M/V HITS 500 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n‘불장난' M/V\n🎥 https://t.co/mb3uKbUahb\n\n#블랙핑크 #PLAYINGWITHFIRE #불장난 #MV #500MILLION #YOUTUBE #YG https://t.co/l02zkPOUs7"
+	},
+	{
+		"created_at": "Fri May 08 01:44:17 +0000 2020",
+		"id": 1258573403461566500,
+		"id_str": "1258573403461566464",
+		"full_text": "플랫폼 마케팅으로 아이디어도 좋고 세밀하게 잘 짠 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1258573212507463700,
+		"in_reply_to_status_id_str": "1258573212507463680",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "플랫폼 마케팅으로 아이디어도 좋고 세밀하게 잘 짠 듯."
+	},
+	{
+		"created_at": "Fri May 08 01:43:31 +0000 2020",
+		"id": 1258573212507463700,
+		"id_str": "1258573212507463680",
+		"full_text": "❝ 티켓팅 이벤트 참여 후 U+프로야구 앱에서 생중계 영상을 시청한 고객에게는 추첨을 통해 ‘아이패드 프로 4세대'(12.9인치 256기가 와이파이 모델, 1명), ‘아이폰SE 2세대'(2명)를 증정한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1258573096203595800,
+		"in_reply_to_status_id_str": "1258573096203595776",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 티켓팅 이벤트 참여 후 U+프로야구 앱에서 생중계 영상을 시청한 고객에게는 추첨을 통해 ‘아이패드 프로 4세대'(12.9인치 256기가 와이파이 모델, 1명), ‘아이폰SE 2세대'(2명)를 증정한다."
+	},
+	{
+		"created_at": "Fri May 08 01:43:03 +0000 2020",
+		"id": 1258573096203595800,
+		"id_str": "1258573096203595776",
+		"full_text": "❝ 티켓팅 이벤트 페이지에 응원 선수 삼행시를 댓글로 남기고 베스트 댓글로 선정된 9명에게는 모바일 치킨 교환권을 제공한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1258572993766109200,
+		"in_reply_to_status_id_str": "1258572993766109184",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 티켓팅 이벤트 페이지에 응원 선수 삼행시를 댓글로 남기고 베스트 댓글로 선정된 9명에게는 모바일 치킨 교환권을 제공한다."
+	},
+	{
+		"created_at": "Fri May 08 01:42:39 +0000 2020",
+		"id": 1258572993766109200,
+		"id_str": "1258572993766109184",
+		"full_text": "❝ 또 다양한 경품 이벤트도 진행된다. 좌석을 선택하면 (생략) 숨겨진 경품이 등장해 당첨 여부를 바로 확인할 수 있다. 기간 내 티켓팅 이벤트에 가장 많이 참여한 구단의 응모자에게는 ‘LG 그램 노트북’(3명)과 구단 공식 유니폼(6명)을 증정한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1258572472795857000,
+		"in_reply_to_status_id_str": "1258572472795856897",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 또 다양한 경품 이벤트도 진행된다. 좌석을 선택하면 (생략) 숨겨진 경품이 등장해 당첨 여부를 바로 확인할 수 있다. 기간 내 티켓팅 이벤트에 가장 많이 참여한 구단의 응모자에게는 ‘LG 그램 노트북’(3명)과 구단 공식 유니폼(6명)을 증정한다."
+	},
+	{
+		"created_at": "Fri May 08 01:40:35 +0000 2020",
+		"id": 1258572472795857000,
+		"id_str": "1258572472795856897",
+		"full_text": "❝ 참여 방법은 간단하다. 통신사 관계없이 U+프로야구 앱을 통해 가상 모바일 티켓팅 이벤트에 참여할 수 있다. 2만석 규모 야구장 좌석을 직접 선택하고 예매할 수 있으며, 좌석을 예매하면 응원하는 구단 색으로 좌석 색상을 바꿀 수 있어 응원의 재미를 더했다. https://t.co/kmv49YbLwq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kmv49YbLwq",
+					"expanded_url": "https://twitter.com/bloter_news/status/1258571494205960192",
+					"display_url": "twitter.com/bloter_news/st…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258571494205960200,
+		"quoted_status_id_str": "1258571494205960192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kmv49YbLwq",
+			"expanded": "https://twitter.com/bloter_news/status/1258571494205960192",
+			"display": "twitter.com/bloter_news/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 01:36:42 +0000 2020",
+			"id": 1258571494205960200,
+			"id_str": "1258571494205960192",
+			"full_text": "LGU+, KBO와 가상 야구장 티켓팅 행사 연다 https://t.co/kzQdOhw2rl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kzQdOhw2rl",
+						"expanded_url": "http://www.bloter.net/archives/380094",
+						"display_url": "bloter.net/archives/380094",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123416413,
+				"id_str": "123416413",
+				"name": "블로터",
+				"screen_name": "bloter_news",
+				"location": "Seoul",
+				"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+				"url": "http://t.co/iWgIfBB6mF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iWgIfBB6mF",
+								"expanded_url": "http://bloter.net",
+								"display_url": "bloter.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55461,
+				"friends_count": 9,
+				"listed_count": 2460,
+				"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23666,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝ 참여 방법은 간단하다. 통신사 관계없이 U+프로야구 앱을 통해 가상 모바일 티켓팅 이벤트에 참여할 수 있다. 2만석 규모 야구장 좌석을 직접 선택하고 예매할 수 있으며, 좌석을 예매하면 응원하는 구단 색으로 좌석 색상을 바꿀 수 있어 응원의 재미를 더했다. https://t.co/kmv49YbLwq"
+	},
+	{
+		"created_at": "Fri May 08 01:38:53 +0000 2020",
+		"id": 1258571494205960200,
+		"id_str": "1258572047308820480",
+		"full_text": "LGU+, KBO와 가상 야구장 티켓팅 행사 연다 https://t.co/kzQdOhw2rl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kzQdOhw2rl",
+					"expanded_url": "http://www.bloter.net/archives/380094",
+					"display_url": "bloter.net/archives/380094",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55461,
+			"friends_count": 9,
+			"listed_count": 2460,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LGU+, KBO와 가상 야구장 티켓팅 행사 연다 https://t.co/kzQdOhw2rl"
+	},
+	{
+		"created_at": "Fri May 08 01:37:51 +0000 2020",
+		"id": 1258571580935831600,
+		"id_str": "1258571784720277505",
+		"full_text": "Sequoia의 제품 가격 결정 가이드 https://t.co/IMaVzwEfnY \n\"가격은 수학 문제가 아니라 판단의 문제\"\n\n- 인식 가치 올리기 : 가격과 (고객이 생각하는) 가치의 갭을 고려\nㅤ→ 에버노트는 국가별로 프리미엄 가격을 다르게 설정 ( 소득 수준이 다르므로, 가치의 기준이 다름 )\nㅤ→...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IMaVzwEfnY",
+					"expanded_url": "https://j.mp/2xJsbhH",
+					"display_url": "j.mp/2xJsbhH",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2848,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Sequoia의 제품 가격 결정 가이드 https://t.co/IMaVzwEfnY \n\"가격은 수학 문제가 아니라 판단의 문제\"\n\n- 인식 가치 올리기 : 가격과 (고객이 생각하는) 가치의 갭을 고려\nㅤ→ 에버노트는 국가별로 프리미엄 가격을 다르게 설정 ( 소득 수준이 다르므로, 가치의 기준이 다름 )\nㅤ→..."
+	},
+	{
+		"created_at": "Fri May 08 01:36:14 +0000 2020",
+		"id": 1258568284917526500,
+		"id_str": "1258571377717547008",
+		"full_text": "마켓컬리, 2000억원 규모 추가 투자 유치…물류 등에 집중 투자 https://t.co/pIqEGcoBKf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pIqEGcoBKf",
+					"expanded_url": "http://www.bloter.net/archives/380095",
+					"display_url": "bloter.net/archives/380095",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55461,
+			"friends_count": 9,
+			"listed_count": 2460,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마켓컬리, 2000억원 규모 추가 투자 유치…물류 등에 집중 투자 https://t.co/pIqEGcoBKf"
+	},
+	{
+		"created_at": "Fri May 08 01:36:09 +0000 2020",
+		"id": 1258311203006247000,
+		"id_str": "1258571359589814272",
+		"full_text": "최근 감사보고서 발표시즌과 맞물려 2019년 비상장기업들의 실적 및 재무상태가 공개됐습니다. 이에 주요 스타트업 120곳의 실적을 업종별로 모아봤습니다. \n\nhttps://t.co/oubWXdWS18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oubWXdWS18",
+					"expanded_url": "https://outstanding.kr/result20200507/",
+					"display_url": "outstanding.kr/result20200507/",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45841,
+			"friends_count": 444,
+			"listed_count": 130,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 감사보고서 발표시즌과 맞물려 2019년 비상장기업들의 실적 및 재무상태가 공개됐습니다. 이에 주요 스타트업 120곳의 실적을 업종별로 모아봤습니다. \n\nhttps://t.co/oubWXdWS18"
+	},
+	{
+		"created_at": "Fri May 08 01:34:29 +0000 2020",
+		"id": 1258334450108100600,
+		"id_str": "1258570940054568962",
+		"full_text": "텐센트, 위챗페이 활용법 한국어 버전으로 공개 https://t.co/oMcNLbM7rC 위챗페이 글로벌 사업부에서 한국인을 대상으로 위챗페이와 식당에서 도입했을 때의 효과와 인센티브 등에 대해서 소개. 중국어로 설명하지만 한글자료와 자막을 제공. https://t.co/YUW45D93EC https://t.co/SVwVdFfR0c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oMcNLbM7rC",
+					"expanded_url": "https://platum.kr/archives/140890",
+					"display_url": "platum.kr/archives/140890",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/YUW45D93EC",
+					"expanded_url": "https://pay.weixin.qq.com/wechatpay_h5/pages/video_SouthKorea.html",
+					"display_url": "pay.weixin.qq.com/wechatpay_h5/p…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258334442914902000,
+					"id_str": "1258334442914902016",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EXaAgkaU8AAqMbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXaAgkaU8AAqMbD.jpg",
+					"url": "https://t.co/SVwVdFfR0c",
+					"display_url": "pic.twitter.com/SVwVdFfR0c",
+					"expanded_url": "https://twitter.com/estima7/status/1258334450108100608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 579,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258334442914902000,
+					"id_str": "1258334442914902016",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EXaAgkaU8AAqMbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXaAgkaU8AAqMbD.jpg",
+					"url": "https://t.co/SVwVdFfR0c",
+					"display_url": "pic.twitter.com/SVwVdFfR0c",
+					"expanded_url": "https://twitter.com/estima7/status/1258334450108100608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 579,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372906,
+			"friends_count": 2281,
+			"listed_count": 4681,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텐센트, 위챗페이 활용법 한국어 버전으로 공개 https://t.co/oMcNLbM7rC 위챗페이 글로벌 사업부에서 한국인을 대상으로 위챗페이와 식당에서 도입했을 때의 효과와 인센티브 등에 대해서 소개. 중국어로 설명하지만 한글자료와 자막을 제공. https://t.co/YUW45D93EC https://t.co/SVwVdFfR0c"
+	},
+	{
+		"created_at": "Fri May 08 01:30:49 +0000 2020",
+		"id": 1258393811744522200,
+		"id_str": "1258570016586207232",
+		"full_text": "스타트업 맵 업데이트 https://t.co/WbOFgHsBeH 국내 스타트업 생태계에서 주목할 만한 스타트업들을 한 눈에 볼 수 있는 자료. 10억원 이상의 VC투자를 받은 스타트업을 소개하기 시작했는데 어느덧 7백개사 이상. 누적 100억원이상 투자받은 회사도 233개사. https://t.co/3uwXc1XP6m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WbOFgHsBeH",
+					"expanded_url": "https://brunch.co.kr/@startupalliance/183",
+					"display_url": "brunch.co.kr/@startupallian…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258393797261586400,
+					"id_str": "1258393797261586433",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EXa2fclU8AEEmJg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXa2fclU8AEEmJg.jpg",
+					"url": "https://t.co/3uwXc1XP6m",
+					"display_url": "pic.twitter.com/3uwXc1XP6m",
+					"expanded_url": "https://twitter.com/estima7/status/1258393811744522242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 755,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1266,
+							"h": 796,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258393797261586400,
+					"id_str": "1258393797261586433",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EXa2fclU8AEEmJg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXa2fclU8AEEmJg.jpg",
+					"url": "https://t.co/3uwXc1XP6m",
+					"display_url": "pic.twitter.com/3uwXc1XP6m",
+					"expanded_url": "https://twitter.com/estima7/status/1258393811744522242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 755,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1266,
+							"h": 796,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372906,
+			"friends_count": 2281,
+			"listed_count": 4681,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스타트업 맵 업데이트 https://t.co/WbOFgHsBeH 국내 스타트업 생태계에서 주목할 만한 스타트업들을 한 눈에 볼 수 있는 자료. 10억원 이상의 VC투자를 받은 스타트업을 소개하기 시작했는데 어느덧 7백개사 이상. 누적 100억원이상 투자받은 회사도 233개사. https://t.co/3uwXc1XP6m"
+	},
+	{
+		"created_at": "Fri May 08 01:26:23 +0000 2020",
+		"id": 1258348890752823300,
+		"id_str": "1258568898137387008",
+		"full_text": "넷플릭스 vs. SK브로드밴드. 세게 붙었습니다.  \n망중립성? 통신사 주장 '역차별론'은 허구라고? \n그나저나 우리나라 인터넷 접속료는 왜 이리 비싸?!?\n\nhttps://t.co/gLq91Q7o0c BY 박경신 #망중립성 #넷플릭스 #SKB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "망중립성",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "SKB",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gLq91Q7o0c",
+					"expanded_url": "https://slownews.kr/76227",
+					"display_url": "slownews.kr/76227",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532161219,
+			"id_str": "532161219",
+			"name": "슬로우뉴스",
+			"screen_name": "slownewskr",
+			"location": "",
+			"description": "Fast is good, slow is better. 느리지만 꼼꼼한 뉴스, 슬로우뉴스입니다. \n기고 문의: editor@slownews.kr",
+			"url": "http://t.co/hUa0sZzIii",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/hUa0sZzIii",
+							"expanded_url": "http://slownews.kr",
+							"display_url": "slownews.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24213,
+			"friends_count": 0,
+			"listed_count": 432,
+			"created_at": "Wed Mar 21 09:27:25 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532161219/1398608454",
+			"profile_link_color": "947F15",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스 vs. SK브로드밴드. 세게 붙었습니다.  \n망중립성? 통신사 주장 '역차별론'은 허구라고? \n그나저나 우리나라 인터넷 접속료는 왜 이리 비싸?!?\n\nhttps://t.co/gLq91Q7o0c BY 박경신 #망중립성 #넷플릭스 #SKB"
+	},
+	{
+		"created_at": "Fri May 08 01:24:47 +0000 2020",
+		"id": 1258503087494496300,
+		"id_str": "1258568498097188865",
+		"full_text": "Zoom이 메시징 및 파일 공유 보안 전문회사 Keybase를 인수. Zoom의 첫 인수사례로 Zoom이 약속한 화상회의 보안 강화 90일 계획의 일환. Keybase 같은 전문 그룹이 참여하면 그동안의 보안 이슈 해결에 큰 도움이 될 듯. Keybase는 2014년 창업해 현재까지 1,100만불 증자 https://t.co/Ek0xE50S9n https://t.co/hpbsTbdnV6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ek0xE50S9n",
+					"expanded_url": "https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/",
+					"display_url": "blog.zoom.us/wordpress/2020…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258503086181691400,
+					"id_str": "1258503086181691397",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EXcZ45iXsAU6U7j.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXcZ45iXsAU6U7j.png",
+					"url": "https://t.co/hpbsTbdnV6",
+					"display_url": "pic.twitter.com/hpbsTbdnV6",
+					"expanded_url": "https://twitter.com/minist/status/1258503087494496256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258503086181691400,
+					"id_str": "1258503086181691397",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EXcZ45iXsAU6U7j.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXcZ45iXsAU6U7j.png",
+					"url": "https://t.co/hpbsTbdnV6",
+					"display_url": "pic.twitter.com/hpbsTbdnV6",
+					"expanded_url": "https://twitter.com/minist/status/1258503087494496256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": "https://t.co/3cxweHYPJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3cxweHYPJO",
+							"expanded_url": "https://minist.kr",
+							"display_url": "minist.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63634,
+			"friends_count": 725,
+			"listed_count": 909,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Zoom이 메시징 및 파일 공유 보안 전문회사 Keybase를 인수. Zoom의 첫 인수사례로 Zoom이 약속한 화상회의 보안 강화 90일 계획의 일환. Keybase 같은 전문 그룹이 참여하면 그동안의 보안 이슈 해결에 큰 도움이 될 듯. Keybase는 2014년 창업해 현재까지 1,100만불 증자 https://t.co/Ek0xE50S9n https://t.co/hpbsTbdnV6"
+	},
+	{
+		"created_at": "Fri May 08 01:19:29 +0000 2020",
+		"id": 1258567165118156800,
+		"id_str": "1258567165118156802",
+		"full_text": "#대한민국 #보건복지부\n[요약] 5월7일14시10분│이번 어버이날, 요양병원 면회 자제 부탁│정부브리핑\nhttps://t.co/Qx1yyFxyTK\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qx1yyFxyTK",
+					"expanded_url": "https://www.youtube.com/watch?v=EVjwHy3udbM",
+					"display_url": "youtube.com/watch?v=EVjwHy…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 5월7일14시10분│이번 어버이날, 요양병원 면회 자제 부탁│정부브리핑\nhttps://t.co/Qx1yyFxyTK\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Fri May 08 00:45:31 +0000 2020",
 		"id": 1258558614177853400,
 		"id_str": "1258558614177853442",
