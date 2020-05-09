@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 23:53:34 +0000 2020",
+		"id": 1258657347024466000,
+		"id_str": "1258907928200794112",
+		"full_text": "초상화, 인물화 공유 SNS. 다양한 스타일을 찾아 볼수 있고, 가입 후 그리는 과정의 공유도 가능. 월정료 4.99 체험판3일 무료. #iPhone #iPad https://t.co/1hgQnOMKG8 https://t.co/MUiEj5VJFF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iPhone",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "iPad",
+					"indices": [
+						84,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1hgQnOMKG8",
+					"expanded_url": "https://apps.apple.com/us/app/sktchy/id594661327",
+					"display_url": "apps.apple.com/us/app/sktchy/…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258657338904305700,
+					"id_str": "1258657338904305669",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EXemLltUYAUtMGX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXemLltUYAUtMGX.png",
+					"url": "https://t.co/MUiEj5VJFF",
+					"display_url": "pic.twitter.com/MUiEj5VJFF",
+					"expanded_url": "https://twitter.com/iPhoneArt_/status/1258657347024465920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258657338904305700,
+					"id_str": "1258657338904305669",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EXemLltUYAUtMGX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXemLltUYAUtMGX.png",
+					"url": "https://t.co/MUiEj5VJFF",
+					"display_url": "pic.twitter.com/MUiEj5VJFF",
+					"expanded_url": "https://twitter.com/iPhoneArt_/status/1258657347024465920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20834715,
+			"id_str": "20834715",
+			"name": "iPhoneArt",
+			"screen_name": "iPhoneArt_",
+			"location": "Seoul",
+			"description": "iPhone App Reviewer. Love Art, love Mac",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6277,
+			"friends_count": 265,
+			"listed_count": 614,
+			"created_at": "Sat Feb 14 06:27:08 +0000 2009",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245949506593546241/CpOgJSpd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245949506593546241/CpOgJSpd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20834715/1375843930",
+			"profile_link_color": "0E8DC4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "초상화, 인물화 공유 SNS. 다양한 스타일을 찾아 볼수 있고, 가입 후 그리는 과정의 공유도 가능. 월정료 4.99 체험판3일 무료. #iPhone #iPad https://t.co/1hgQnOMKG8 https://t.co/MUiEj5VJFF"
+	},
+	{
+		"created_at": "Fri May 08 23:51:32 +0000 2020",
+		"id": 1258680505311965200,
+		"id_str": "1258907418773184514",
+		"full_text": "이번주는 경향신문에 글을 실었습니다. 마침 어린이의 ‘놀기’에 대해 썼는데 클럽 다니는 어른들 뉴스를 보니 뭐라고 해야 할지 모르겠네요🤧 어린이 좀 놉시다! 어린이부터 놉시다!  https://t.co/rJvqD0Ct1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rJvqD0Ct1B",
+					"expanded_url": "https://m.khan.co.kr/view.html?art_id=202005081620005&code=940100#c2b",
+					"display_url": "m.khan.co.kr/view.html?art_…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 243553848,
+			"id_str": "243553848",
+			"name": "지나가는개🎗",
+			"screen_name": "sohosays",
+			"location": "",
+			"description": "[어린이책 읽는 법] [말하기 독서법] 그리고 멍멍멍",
+			"url": "https://t.co/rxNQDeAY5O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rxNQDeAY5O",
+							"expanded_url": "http://blog.naver.com/sohosays",
+							"display_url": "blog.naver.com/sohosays",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3174,
+			"friends_count": 202,
+			"listed_count": 20,
+			"created_at": "Thu Jan 27 09:03:53 +0000 2011",
+			"favourites_count": 26011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073069705710071808/iS5lgYeT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073069705710071808/iS5lgYeT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/243553848/1544674731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 594,
+		"favorite_count": 424,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주는 경향신문에 글을 실었습니다. 마침 어린이의 ‘놀기’에 대해 썼는데 클럽 다니는 어른들 뉴스를 보니 뭐라고 해야 할지 모르겠네요🤧 어린이 좀 놉시다! 어린이부터 놉시다!  https://t.co/rJvqD0Ct1B"
+	},
+	{
 		"created_at": "Fri May 08 21:34:00 +0000 2020",
 		"id": 1258872805346676700,
 		"id_str": "1258872805346676737",
