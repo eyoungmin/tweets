@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 04:00:21 +0000 2020",
+		"id": 1258968700054536200,
+		"id_str": "1258970034702962691",
+		"full_text": "마인크래프트 청와대 맵 베드락 에디션(BE) 플레이 방법 (+추가) : 클리앙 https://t.co/kUmIGK3Fto #lk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lk",
+					"indices": [
+						68,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kUmIGK3Fto",
+					"expanded_url": "https://m.clien.net/service/board/lecture/14939010",
+					"display_url": "m.clien.net/service/board/…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14941102,
+			"id_str": "14941102",
+			"name": "서울비",
+			"screen_name": "seoulrain",
+			"location": "Seoul, South Korea",
+			"description": "개인취향 자료수집 계정입니다. 텔레그램 채널로 수시발행: https://t.co/nLevlm8cEH",
+			"url": "https://t.co/CmzdLuGwGe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CmzdLuGwGe",
+							"expanded_url": "http://seoulrain.net",
+							"display_url": "seoulrain.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nLevlm8cEH",
+							"expanded_url": "http://t.me/ththlink",
+							"display_url": "t.me/ththlink",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4177,
+			"friends_count": 3992,
+			"listed_count": 180,
+			"created_at": "Thu May 29 04:50:30 +0000 2008",
+			"favourites_count": 26966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ECCE74",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745020971975860224/ZR9BJxCb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745020971975860224/ZR9BJxCb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14941102/1469005647",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마인크래프트 청와대 맵 베드락 에디션(BE) 플레이 방법 (+추가) : 클리앙 https://t.co/kUmIGK3Fto #lk"
+	},
+	{
+		"created_at": "Sat May 09 03:41:40 +0000 2020",
+		"id": 1258945486523732000,
+		"id_str": "1258965332384858113",
+		"full_text": "\"요즘 누가 현금 써요?\"…디지털 화폐 가속 https://t.co/LkS3o1jJPH \"현금 사용은 진짜 기억도 안 날 만큼 좀 오래됐고 요즘 지갑도 잘 안 갖고 다녀가지고…\" - 이제 누구나 마찬가지. 지폐를 만지는 것 자체가 좀 비위생적이란 생각까지 듦.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LkS3o1jJPH",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=422&aid=0000427711",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372882,
+			"friends_count": 2281,
+			"listed_count": 4650,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"요즘 누가 현금 써요?\"…디지털 화폐 가속 https://t.co/LkS3o1jJPH \"현금 사용은 진짜 기억도 안 날 만큼 좀 오래됐고 요즘 지갑도 잘 안 갖고 다녀가지고…\" - 이제 누구나 마찬가지. 지폐를 만지는 것 자체가 좀 비위생적이란 생각까지 듦."
+	},
+	{
 		"created_at": "Sat May 09 03:01:02 +0000 2020",
 		"id": 1258955107288432600,
 		"id_str": "1258955107288432642",
