@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 04:24:19 +0000 2020",
+		"id": 1258715138124681200,
+		"id_str": "1258976064493113349",
+		"full_text": "'KT, 결국 넷플릭스 제휴로 가닥을 잡은 것으로 알려져' \n\n'넷플릭스 순 이용자수 481만명으로 독보적. 넷플릭스와 독점 제휴한 LG유플러스가 IPTV 부분 사상 처음으로 매출 1조원 돌파한 것도 자극제. 시장 4위 LG유플러스는 M&amp;A와 넷플릭스 효과로 2위로 올라서며 KT위협'\nhttps://t.co/rBuwdsrG0Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rBuwdsrG0Y",
+					"expanded_url": "https://news.v.daum.net/v/20200508174221723",
+					"display_url": "news.v.daum.net/v/202005081742…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 70788,
+			"friends_count": 42,
+			"listed_count": 284,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 516,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'KT, 결국 넷플릭스 제휴로 가닥을 잡은 것으로 알려져' \n\n'넷플릭스 순 이용자수 481만명으로 독보적. 넷플릭스와 독점 제휴한 LG유플러스가 IPTV 부분 사상 처음으로 매출 1조원 돌파한 것도 자극제. 시장 4위 LG유플러스는 M&amp;A와 넷플릭스 효과로 2위로 올라서며 KT위협'\nhttps://t.co/rBuwdsrG0Y"
+	},
+	{
+		"created_at": "Sat May 09 04:23:58 +0000 2020",
+		"id": 1258975979608764400,
+		"id_str": "1258975979608764416",
+		"full_text": "페스티벌만 봐도 더러운 상태의 손으로 폰 만지고 또 음식만들고 하는데 그리고 그럼 카드쓰면 되지 않나 하는데 계약해서 모바일페이 강제한 곳도 있고 특정 카드 사용 강제한 곳도 있다는 점을 간과하면 안 됨. 기술은 발전해도 인식이 발전하지 않으면 다를 것이 없음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1258975978350510000,
+		"in_reply_to_status_id_str": "1258975978350510082",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "페스티벌만 봐도 더러운 상태의 손으로 폰 만지고 또 음식만들고 하는데 그리고 그럼 카드쓰면 되지 않나 하는데 계약해서 모바일페이 강제한 곳도 있고 특정 카드 사용 강제한 곳도 있다는 점을 간과하면 안 됨. 기술은 발전해도 인식이 발전하지 않으면 다를 것이 없음."
+	},
+	{
+		"created_at": "Sat May 09 04:23:58 +0000 2020",
+		"id": 1258975978350510000,
+		"id_str": "1258975978350510082",
+		"full_text": "삼성페이 직접 찍도록 포스기 밖에 위치 시켰으면 좋겠는데 이부분이 해결이 안 됨. 이미 삼성 고객커뮤니티에도 여러차례 올라왔고 결제 시 직원이 떨어뜨려 파손 되었는데 과실비율 어떻게 따져야 하냐는 이야기도 볼 수 있는데 아직도 음식점, 미용실 등은 직접 안 찍는 곳이 꽤 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "삼성페이 직접 찍도록 포스기 밖에 위치 시켰으면 좋겠는데 이부분이 해결이 안 됨. 이미 삼성 고객커뮤니티에도 여러차례 올라왔고 결제 시 직원이 떨어뜨려 파손 되었는데 과실비율 어떻게 따져야 하냐는 이야기도 볼 수 있는데 아직도 음식점, 미용실 등은 직접 안 찍는 곳이 꽤 있음."
+	},
+	{
 		"created_at": "Sat May 09 04:00:21 +0000 2020",
 		"id": 1258968700054536200,
 		"id_str": "1258970034702962691",
