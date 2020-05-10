@@ -1,6 +1,1802 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 11:52:22 +0000 2020",
+		"id": 1259402582142914600,
+		"id_str": "1259451208432906242",
+		"full_text": "[INSTAGRAM STORY VIDEO] sooyoungchoi:  https://t.co/dfymsr281j https://t.co/2fHJkaDnJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dfymsr281j",
+					"expanded_url": "https://scontent-dfw5-1.cdninstagram.com/v/t72.14836-16/76754501_188694702187275_2448380389244069858_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5zdG9yeSJ9&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_ohc=u9DV2zJCHPEAX9qehm4&vs=17910677881436962_2926053137&_nc_vs=HBksFQAYJEdFVXVrd1FMNDdIb25hc0FBT0xuN08tOVpQb2hidlE1QUFBRhUAAsgBABUAGCRHUG9DTkFVQTRRRVNnQklEQUpseC1hU3NLdnhRYnZRNUFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAABgAFsTj9pHU6tA%2FFQIoAkMzLBdAIGZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB16AcA&_nc_rid=13e88d5232&oe=5EB9CA2E&oh=19a445d7b0e2062284b1239d762acca8",
+					"display_url": "scontent-dfw5-1.cdninstagram.com/v/t72.14836-16…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259402557862150100,
+					"id_str": "1259402557862150144",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259402557862150144/pu/img/iZmEesJ3RT9GSLJA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259402557862150144/pu/img/iZmEesJ3RT9GSLJA.jpg",
+					"url": "https://t.co/2fHJkaDnJM",
+					"display_url": "pic.twitter.com/2fHJkaDnJM",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1259402582142914560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259402557862150100,
+					"id_str": "1259402557862150144",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259402557862150144/pu/img/iZmEesJ3RT9GSLJA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259402557862150144/pu/img/iZmEesJ3RT9GSLJA.jpg",
+					"url": "https://t.co/2fHJkaDnJM",
+					"display_url": "pic.twitter.com/2fHJkaDnJM",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1259402582142914560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 8200,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402557862150144/pu/vid/720x1280/kblKQLvmWyzSyqXr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259402557862150144/pu/pl/WjvWqH1Wfy5e0mtf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402557862150144/pu/vid/320x568/CmqytgLThPQ0QxIN.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402557862150144/pu/vid/360x640/rdLhDgvbhylrmdk1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://soo.soshistagram.com\" rel=\"nofollow\">Syoungstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2345049169,
+			"id_str": "2345049169",
+			"name": "Syoungstagram",
+			"screen_name": "syoungstagram",
+			"location": "Sooyoung's phone",
+			"description": "Bot tweeting Sooyoung's updates & comments on Instagram & Weibo. Built by @thegoguma. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @sicafeed",
+			"url": "https://t.co/WNNnY2W84j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNNnY2W84j",
+							"expanded_url": "https://syoungstagram.tumblr.com/",
+							"display_url": "syoungstagram.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38483,
+			"friends_count": 0,
+			"listed_count": 680,
+			"created_at": "Sat Feb 15 12:17:41 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11285,
+		"favorite_count": 8910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[INSTAGRAM STORY VIDEO] sooyoungchoi:  https://t.co/dfymsr281j https://t.co/2fHJkaDnJM"
+	},
+	{
+		"created_at": "Sun May 10 11:52:19 +0000 2020",
+		"id": 1259402591211073500,
+		"id_str": "1259451196433027072",
+		"full_text": "[INSTAGRAM STORY VIDEO] sooyoungchoi: 축가인데 \n왜때문에 \n가스펠느낌이야 \n애들아 https://t.co/uAuNkoZ0lK https://t.co/DExFJBna1g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uAuNkoZ0lK",
+					"expanded_url": "https://scontent-dfw5-1.cdninstagram.com/v/t50.12441-16/97147345_620404032160369_3874898679795401147_n.mp4?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101&_nc_ohc=B2uHQuoFB9gAX90bjoK&oe=5EB9F030&oh=40f16bd502ac46bd122e6a836f54c19a",
+					"display_url": "scontent-dfw5-1.cdninstagram.com/v/t50.12441-16…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259402555144224800,
+					"id_str": "1259402555144224768",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259402555144224768/pu/img/UIqh0YIQcCDc_3bE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259402555144224768/pu/img/UIqh0YIQcCDc_3bE.jpg",
+					"url": "https://t.co/DExFJBna1g",
+					"display_url": "pic.twitter.com/DExFJBna1g",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1259402591211073536/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259402555144224800,
+					"id_str": "1259402555144224768",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259402555144224768/pu/img/UIqh0YIQcCDc_3bE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259402555144224768/pu/img/UIqh0YIQcCDc_3bE.jpg",
+					"url": "https://t.co/DExFJBna1g",
+					"display_url": "pic.twitter.com/DExFJBna1g",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1259402591211073536/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402555144224768/pu/vid/640x1136/6Vuj3w7QOuUKfHOo.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402555144224768/pu/vid/360x638/6-sr1RQdfCUL7rDI.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402555144224768/pu/vid/320x568/R2mIAf-bc7boE-0Q.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259402555144224768/pu/pl/Ix6BCSdX6QGAwN-m.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://soo.soshistagram.com\" rel=\"nofollow\">Syoungstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2345049169,
+			"id_str": "2345049169",
+			"name": "Syoungstagram",
+			"screen_name": "syoungstagram",
+			"location": "Sooyoung's phone",
+			"description": "Bot tweeting Sooyoung's updates & comments on Instagram & Weibo. Built by @thegoguma. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @sicafeed",
+			"url": "https://t.co/WNNnY2W84j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNNnY2W84j",
+							"expanded_url": "https://syoungstagram.tumblr.com/",
+							"display_url": "syoungstagram.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38483,
+			"friends_count": 0,
+			"listed_count": 680,
+			"created_at": "Sat Feb 15 12:17:41 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8732,
+		"favorite_count": 7087,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM STORY VIDEO] sooyoungchoi: 축가인데 \n왜때문에 \n가스펠느낌이야 \n애들아 https://t.co/uAuNkoZ0lK https://t.co/DExFJBna1g"
+	},
+	{
+		"created_at": "Sun May 10 11:52:07 +0000 2020",
+		"id": 1259408603632619500,
+		"id_str": "1259451146113974274",
+		"full_text": "[INSTAGRAM CAROUSEL] 515sunnyday: #소녀시대 #GG4EVA 성우오빠 결혼 축하해요!!!!! https://t.co/sLQviqfJbd (2P) #sunnystagram https://t.co/ZwyF1eD7i2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "sunnystagram",
+					"indices": [
+						95,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sLQviqfJbd",
+					"expanded_url": "https://www.instagram.com/p/CAAGgx8jFGZ/",
+					"display_url": "instagram.com/p/CAAGgx8jFGZ/",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259408599077568500,
+					"id_str": "1259408599077568513",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpRcr8XQAEx2wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpRcr8XQAEx2wc.jpg",
+					"url": "https://t.co/ZwyF1eD7i2",
+					"display_url": "pic.twitter.com/ZwyF1eD7i2",
+					"expanded_url": "https://twitter.com/sunnystagram/status/1259408603632619520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259408599077568500,
+					"id_str": "1259408599077568513",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpRcr8XQAEx2wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpRcr8XQAEx2wc.jpg",
+					"url": "https://t.co/ZwyF1eD7i2",
+					"display_url": "pic.twitter.com/ZwyF1eD7i2",
+					"expanded_url": "https://twitter.com/sunnystagram/status/1259408603632619520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259408601719943200,
+					"id_str": "1259408601719943173",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpRc1yWsAU1j6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpRc1yWsAU1j6K.jpg",
+					"url": "https://t.co/ZwyF1eD7i2",
+					"display_url": "pic.twitter.com/ZwyF1eD7i2",
+					"expanded_url": "https://twitter.com/sunnystagram/status/1259408603632619520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.sunnystagram.com\" rel=\"nofollow\">Sunnystagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1574442308,
+			"id_str": "1574442308",
+			"name": "Sunnystagram.com",
+			"screen_name": "sunnystagram",
+			"location": "Sunny's cupcake",
+			"description": "Bot tweeting Sunny's Instagram updates and comments. Built by @thegoguma. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @sicafeed @syoungstagram",
+			"url": "https://t.co/GtgSAZhAPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GtgSAZhAPu",
+							"expanded_url": "https://sunnystagramcom.tumblr.com/",
+							"display_url": "sunnystagramcom.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37354,
+			"friends_count": 2,
+			"listed_count": 548,
+			"created_at": "Sun Jul 07 06:07:40 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000613069510/5e5f6ea2c7906a0e49d8c837338ab7c0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000613069510/5e5f6ea2c7906a0e49d8c837338ab7c0_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4294,
+		"favorite_count": 3335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM CAROUSEL] 515sunnyday: #소녀시대 #GG4EVA 성우오빠 결혼 축하해요!!!!! https://t.co/sLQviqfJbd (2P) #sunnystagram https://t.co/ZwyF1eD7i2"
+	},
+	{
+		"created_at": "Sun May 10 11:48:55 +0000 2020",
+		"id": 1259412844203765800,
+		"id_str": "1259450339494785024",
+		"full_text": "[민수]\n⠀\n민수의 새 싱글 ‘미니홈피’ 가 발매되었습니다. 각종 음원 사이트에서 들어보세요!\n\n#매스사 #민수 #미니홈피 #5월10일 https://t.co/Uk3w1XOwPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매스사",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "민수",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "미니홈피",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "5월10일",
+					"indices": [
+						69,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259412831205654500,
+					"id_str": "1259412831205654528",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpVTB2VAAAB7_w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpVTB2VAAAB7_w.jpg",
+					"url": "https://t.co/Uk3w1XOwPj",
+					"display_url": "pic.twitter.com/Uk3w1XOwPj",
+					"expanded_url": "https://twitter.com/msbsound/status/1259412844203765760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259412831205654500,
+					"id_str": "1259412831205654528",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpVTB2VAAAB7_w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpVTB2VAAAB7_w.jpg",
+					"url": "https://t.co/Uk3w1XOwPj",
+					"display_url": "pic.twitter.com/Uk3w1XOwPj",
+					"expanded_url": "https://twitter.com/msbsound/status/1259412844203765760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8169,
+			"friends_count": 6446,
+			"listed_count": 105,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[민수]\n⠀\n민수의 새 싱글 ‘미니홈피’ 가 발매되었습니다. 각종 음원 사이트에서 들어보세요!\n\n#매스사 #민수 #미니홈피 #5월10일 https://t.co/Uk3w1XOwPj"
+	},
+	{
+		"created_at": "Sun May 10 11:48:10 +0000 2020",
+		"id": 1259317399402111000,
+		"id_str": "1259450152386850822",
+		"full_text": "해고/퇴사의 경우 복직보다는 사유를 변경해 실업급여 수령이 가능하게 화해하는 편이 나을 수도 있습니다. 지금까지 노동변호사로 일해온 제가 이렇게 말할 정도의 상황이라는 것을 ㅠㅠ 인지하시고, 화해를 거듭 권하면 그쪽도 고려해 보세요. 그리고 노조 있는 사업장이면 꼭 미리 노조가입을...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259315425478733800,
+		"in_reply_to_status_id_str": "1259315425478733826",
+		"in_reply_to_user_id": 4318226714,
+		"in_reply_to_user_id_str": "4318226714",
+		"in_reply_to_screen_name": "sy876",
+		"user": {
+			"id": 4318226714,
+			"id_str": "4318226714",
+			"name": "정소연",
+			"screen_name": "sy876",
+			"location": "여의도, 서울",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"url": "https://t.co/p43kC6e82H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p43kC6e82H",
+							"expanded_url": "http://bodalaw.net",
+							"display_url": "bodalaw.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14954,
+			"friends_count": 481,
+			"listed_count": 108,
+			"created_at": "Sun Nov 22 02:11:55 +0000 2015",
+			"favourites_count": 2817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4318226714/1577366031",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 686,
+		"favorite_count": 232,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "해고/퇴사의 경우 복직보다는 사유를 변경해 실업급여 수령이 가능하게 화해하는 편이 나을 수도 있습니다. 지금까지 노동변호사로 일해온 제가 이렇게 말할 정도의 상황이라는 것을 ㅠㅠ 인지하시고, 화해를 거듭 권하면 그쪽도 고려해 보세요. 그리고 노조 있는 사업장이면 꼭 미리 노조가입을..."
+	},
+	{
+		"created_at": "Sun May 10 11:48:09 +0000 2020",
+		"id": 1259315425478733800,
+		"id_str": "1259450146774855682",
+		"full_text": "역사가 길거나 작년까지 사업이 잘 되어 확장일로에 있었거나 직원이 50명 이상으로 그럭저럭 안정적이었던 회사라도 망하는 건 한순간입니다. 사용자가 개인 돈을 집어넣어도 현금화가 충분히 빠르지 못하면 대책없습니다(예:집을 팔아 현금 확보하려고 해도 부동산이 도무지 안 팔리면 부도).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259314257436438500,
+		"in_reply_to_status_id_str": "1259314257436438528",
+		"in_reply_to_user_id": 4318226714,
+		"in_reply_to_user_id_str": "4318226714",
+		"in_reply_to_screen_name": "sy876",
+		"user": {
+			"id": 4318226714,
+			"id_str": "4318226714",
+			"name": "정소연",
+			"screen_name": "sy876",
+			"location": "여의도, 서울",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"url": "https://t.co/p43kC6e82H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p43kC6e82H",
+							"expanded_url": "http://bodalaw.net",
+							"display_url": "bodalaw.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14954,
+			"friends_count": 481,
+			"listed_count": 108,
+			"created_at": "Sun Nov 22 02:11:55 +0000 2015",
+			"favourites_count": 2817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4318226714/1577366031",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 341,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "역사가 길거나 작년까지 사업이 잘 되어 확장일로에 있었거나 직원이 50명 이상으로 그럭저럭 안정적이었던 회사라도 망하는 건 한순간입니다. 사용자가 개인 돈을 집어넣어도 현금화가 충분히 빠르지 못하면 대책없습니다(예:집을 팔아 현금 확보하려고 해도 부동산이 도무지 안 팔리면 부도)."
+	},
+	{
+		"created_at": "Sun May 10 11:48:02 +0000 2020",
+		"id": 1259314257436438500,
+		"id_str": "1259450117322452995",
+		"full_text": "지금은 일반적인 시국이 아닙니다. 예를 들어 해외투자를 받던 기업들은 일단 대부분 어렵습니다. 출입국이 막힌데다 홍보루트였던 컨벤션 등이 전부 취소되었기 때문입니다. 제조업이든 연구업이든 설비투자를 했으면 투자금 회수 일정이 틀어졌을 겁니다. 요식업 등은 말할 것도 없고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259313707152072700,
+		"in_reply_to_status_id_str": "1259313707152072704",
+		"in_reply_to_user_id": 4318226714,
+		"in_reply_to_user_id_str": "4318226714",
+		"in_reply_to_screen_name": "sy876",
+		"user": {
+			"id": 4318226714,
+			"id_str": "4318226714",
+			"name": "정소연",
+			"screen_name": "sy876",
+			"location": "여의도, 서울",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"url": "https://t.co/p43kC6e82H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p43kC6e82H",
+							"expanded_url": "http://bodalaw.net",
+							"display_url": "bodalaw.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14954,
+			"friends_count": 481,
+			"listed_count": 108,
+			"created_at": "Sun Nov 22 02:11:55 +0000 2015",
+			"favourites_count": 2817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4318226714/1577366031",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 463,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금은 일반적인 시국이 아닙니다. 예를 들어 해외투자를 받던 기업들은 일단 대부분 어렵습니다. 출입국이 막힌데다 홍보루트였던 컨벤션 등이 전부 취소되었기 때문입니다. 제조업이든 연구업이든 설비투자를 했으면 투자금 회수 일정이 틀어졌을 겁니다. 요식업 등은 말할 것도 없고요."
+	},
+	{
+		"created_at": "Sun May 10 11:47:59 +0000 2020",
+		"id": 1259313707152072700,
+		"id_str": "1259450105804906496",
+		"full_text": "상당히 규모가 크고 탄탄해 보이는 기업들도 유동성 문제를 겪고 있습니다. 비상장인 경우 특히 그렇습니다. 기업이 정말 부도 언저리에서 버티는 중이면, 버티기 위해 이를 알리지 않습니다. 노동자는 회사/대표는 돈이 있을 거라고 생각했는데 확인해 보면 이미 폐업절차 진행 중이기도 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259312364601487400,
+		"in_reply_to_status_id_str": "1259312364601487360",
+		"in_reply_to_user_id": 4318226714,
+		"in_reply_to_user_id_str": "4318226714",
+		"in_reply_to_screen_name": "sy876",
+		"user": {
+			"id": 4318226714,
+			"id_str": "4318226714",
+			"name": "정소연",
+			"screen_name": "sy876",
+			"location": "여의도, 서울",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"url": "https://t.co/p43kC6e82H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p43kC6e82H",
+							"expanded_url": "http://bodalaw.net",
+							"display_url": "bodalaw.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14954,
+			"friends_count": 481,
+			"listed_count": 108,
+			"created_at": "Sun Nov 22 02:11:55 +0000 2015",
+			"favourites_count": 2817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4318226714/1577366031",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 520,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "상당히 규모가 크고 탄탄해 보이는 기업들도 유동성 문제를 겪고 있습니다. 비상장인 경우 특히 그렇습니다. 기업이 정말 부도 언저리에서 버티는 중이면, 버티기 위해 이를 알리지 않습니다. 노동자는 회사/대표는 돈이 있을 거라고 생각했는데 확인해 보면 이미 폐업절차 진행 중이기도 합니다."
+	},
+	{
+		"created_at": "Sun May 10 11:47:58 +0000 2020",
+		"id": 1259312364601487400,
+		"id_str": "1259450101010796546",
+		"full_text": "혹시 회사와 징계취소, 부당해고, 임금체불(특히 수당과 퇴직금)을 다투고 있는데 조사관이 일부 금전 수령 조건 화해를 강력히 권하는 경우, 조사관이 노동자 편 안 들고 일 쉽게 끝내려고 화해시키려 든다고 생각지 마시고, 회사가 망하기 전에 도와주려고 하고 있을 가능성을 꼭 생각하세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4318226714,
+			"id_str": "4318226714",
+			"name": "정소연",
+			"screen_name": "sy876",
+			"location": "여의도, 서울",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"url": "https://t.co/p43kC6e82H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p43kC6e82H",
+							"expanded_url": "http://bodalaw.net",
+							"display_url": "bodalaw.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14954,
+			"friends_count": 481,
+			"listed_count": 108,
+			"created_at": "Sun Nov 22 02:11:55 +0000 2015",
+			"favourites_count": 2817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4318226714/1577366031",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2312,
+		"favorite_count": 830,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "혹시 회사와 징계취소, 부당해고, 임금체불(특히 수당과 퇴직금)을 다투고 있는데 조사관이 일부 금전 수령 조건 화해를 강력히 권하는 경우, 조사관이 노동자 편 안 들고 일 쉽게 끝내려고 화해시키려 든다고 생각지 마시고, 회사가 망하기 전에 도와주려고 하고 있을 가능성을 꼭 생각하세요."
+	},
+	{
+		"created_at": "Sun May 10 11:47:07 +0000 2020",
+		"id": 1259409111336095700,
+		"id_str": "1259449887424344070",
+		"full_text": "[새소년 Single ‘난춘(亂春)’ D-Day]\n새소년의 싱글 난춘(亂春)이 오후 6시 발매되었습니다. \n주요 스트리밍 서비스에서 들으실 수 있으며, 뮤직비디오 풀버전은 유튜브에서 확인하세요.\n더 많은 사람들이 함께 들어주셨으면 좋겠습니다\n\nhttps://t.co/5LF434CSvN - @YouTube https://t.co/OKdoVIHGcU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						162,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5LF434CSvN",
+					"expanded_url": "https://youtu.be/5lb6gckhvlM",
+					"display_url": "youtu.be/5lb6gckhvlM",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259409032017703000,
+					"id_str": "1259409032017702912",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259409032017702912/pu/img/88YSzyUreRKIPZd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259409032017702912/pu/img/88YSzyUreRKIPZd4.jpg",
+					"url": "https://t.co/OKdoVIHGcU",
+					"display_url": "pic.twitter.com/OKdoVIHGcU",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1259409111336095744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259409032017703000,
+					"id_str": "1259409032017702912",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259409032017702912/pu/img/88YSzyUreRKIPZd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259409032017702912/pu/img/88YSzyUreRKIPZd4.jpg",
+					"url": "https://t.co/OKdoVIHGcU",
+					"display_url": "pic.twitter.com/OKdoVIHGcU",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1259409111336095744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259409032017702912/pu/pl/iq7qd3lrLRu6aSts.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259409032017702912/pu/vid/854x480/ReNzGH2Tg2fQvbG0.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259409032017702912/pu/vid/640x360/ufOEq0kOj6R5-37a.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259409032017702912/pu/vid/480x270/7XzyW7sf8sgDKPie.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8771,
+			"friends_count": 15,
+			"listed_count": 53,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 778,
+		"favorite_count": 484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[새소년 Single ‘난춘(亂春)’ D-Day]\n새소년의 싱글 난춘(亂春)이 오후 6시 발매되었습니다. \n주요 스트리밍 서비스에서 들으실 수 있으며, 뮤직비디오 풀버전은 유튜브에서 확인하세요.\n더 많은 사람들이 함께 들어주셨으면 좋겠습니다\n\nhttps://t.co/5LF434CSvN - @YouTube https://t.co/OKdoVIHGcU"
+	},
+	{
+		"created_at": "Sun May 10 11:44:57 +0000 2020",
+		"id": 1258253533641498600,
+		"id_str": "1259449344270274560",
+		"full_text": "야광토끼 3집 앨범 [kosmos] :: 텀블벅 https://t.co/pjR7l16EmO via @tumblbug 정말 오랫동안 준비한 앨범 펀딩 오늘 부터 시작 합니다 ! 많은 응원 부탁 드립니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tumblbug",
+					"name": "텀블벅",
+					"id": 241848832,
+					"id_str": "241848832",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pjR7l16EmO",
+					"expanded_url": "https://www.tumblbug.com/neonbunny/?utm_source=twitter&utm_medium=share",
+					"display_url": "tumblbug.com/neonbunny/?utm…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1359504589,
+			"id_str": "1359504589",
+			"name": "Neon Bunny",
+			"screen_name": "Beonnunny",
+			"location": "Seoul,South Korea",
+			"description": "No Bunny loves you like I do. beonnunny@gmail.com",
+			"url": "https://t.co/n0FXYNyEMX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n0FXYNyEMX",
+							"expanded_url": "https://www.facebook.com/neonbunnymusic",
+							"display_url": "facebook.com/neonbunnymusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2683,
+			"friends_count": 123,
+			"listed_count": 42,
+			"created_at": "Wed Apr 17 13:57:52 +0000 2013",
+			"favourites_count": 1311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856285567364898817/PQX8aC6N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856285567364898817/PQX8aC6N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1359504589/1447831689",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 101,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야광토끼 3집 앨범 [kosmos] :: 텀블벅 https://t.co/pjR7l16EmO via @tumblbug 정말 오랫동안 준비한 앨범 펀딩 오늘 부터 시작 합니다 ! 많은 응원 부탁 드립니다"
+	},
+	{
+		"created_at": "Sun May 10 11:44:27 +0000 2020",
+		"id": 1259427062718148600,
+		"id_str": "1259449219292655617",
+		"full_text": "‘싱글벙글쇼’ ‘거리의 만찬’ 논란은 명백한 시대 역행이며, 대중의 요구에 반한 결과다. 그저 ‘잘못 걸렸다’고 치부하고, 여전히 시대와 대중의 요구를 모른 체 한다면 김용민·정영진 사태는 몇번이고 반복될 것이다.\nhttps://t.co/kecfurjlTG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kecfurjlTG",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202005101540001&code=960100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 730114,
+			"friends_count": 78949,
+			"listed_count": 6186,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘싱글벙글쇼’ ‘거리의 만찬’ 논란은 명백한 시대 역행이며, 대중의 요구에 반한 결과다. 그저 ‘잘못 걸렸다’고 치부하고, 여전히 시대와 대중의 요구를 모른 체 한다면 김용민·정영진 사태는 몇번이고 반복될 것이다.\nhttps://t.co/kecfurjlTG"
+	},
+	{
 		"created_at": "Sun May 10 09:58:16 +0000 2020",
 		"id": 1259422495091949600,
 		"id_str": "1259422495091949574",
