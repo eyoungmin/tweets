@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 23:53:11 +0000 2020",
+		"id": 1258334634523324400,
+		"id_str": "1259270220801138689",
+		"full_text": "[2020 #서울라이브] 서울문화재단 인디음악 생태계 활성화 지원사업 「서울라이브」 의 최종 선정자가 홈페이지를 통해 공지되었습니다. 다시 한번 2020 서울라이브에 지원해주신 모든 분들께 감사드립니다.\n\n🔍공지사항 바로가기 ▶️ https://t.co/HeBzDL6HbJ\n📎 첨부파일 통해 명단 확인 가능 https://t.co/BPybcObbvS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울라이브",
+					"indices": [
+						6,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HeBzDL6HbJ",
+					"expanded_url": "http://bitly.kr/UWBFVWCmB",
+					"display_url": "bitly.kr/UWBFVWCmB",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258334265328058400,
+					"id_str": "1258334265328058368",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EXaAWO2UwAAnSGf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXaAWO2UwAAnSGf.png",
+					"url": "https://t.co/BPybcObbvS",
+					"display_url": "pic.twitter.com/BPybcObbvS",
+					"expanded_url": "https://twitter.com/seogyo/status/1258334634523324416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258334265328058400,
+					"id_str": "1258334265328058368",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EXaAWO2UwAAnSGf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXaAWO2UwAAnSGf.png",
+					"url": "https://t.co/BPybcObbvS",
+					"display_url": "pic.twitter.com/BPybcObbvS",
+					"expanded_url": "https://twitter.com/seogyo/status/1258334634523324416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 261116900,
+			"id_str": "261116900",
+			"name": "서교예술실험센터",
+			"screen_name": "seogyo",
+			"location": "서교예술실험센터",
+			"description": "언제나 열려있는 서울시 창작공간 서교예술실험센터 공식 트위터입니다.\n\n※ 코로나19 확산 방지를 위한 공간 임시휴관중(추후 일정 공지)\n※ 서교예술실험센터 운영사무실 운영시간 10:00-19:00\n\n※휴관일 : '매주 월요일, 국가공휴일, 서울문화재단이 지정하는 날'은 휴무입니다!",
+			"url": "http://t.co/pFuyuKbf9a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pFuyuKbf9a",
+							"expanded_url": "http://cafe.naver.com/seoulartspace/",
+							"display_url": "cafe.naver.com/seoulartspace/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7660,
+			"friends_count": 2963,
+			"listed_count": 85,
+			"created_at": "Sat Mar 05 08:03:55 +0000 2011",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250728313720500225/iIVXoFiO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250728313720500225/iIVXoFiO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/261116900/1403671501",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "121112",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 #서울라이브] 서울문화재단 인디음악 생태계 활성화 지원사업 「서울라이브」 의 최종 선정자가 홈페이지를 통해 공지되었습니다. 다시 한번 2020 서울라이브에 지원해주신 모든 분들께 감사드립니다.\n\n🔍공지사항 바로가기 ▶️ https://t.co/HeBzDL6HbJ\n📎 첨부파일 통해 명단 확인 가능 https://t.co/BPybcObbvS"
+	},
+	{
 		"created_at": "Sat May 09 21:45:54 +0000 2020",
 		"id": 1259105310716817400,
 		"id_str": "1259238187634843648",
@@ -751,7 +943,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Sat May 09 21:22:30 +0000 2020",
 		"id": 1258955315443187700,
 		"id_str": "1259232302258782209",
-		"full_text": "있~잖~아~ 사랑이면 단번에 바로 볼 수가 있는 원테이크 NO EDIT 버전을 봐줘야한대🧚‍♀️💜  #BE_ORIGINAL #오마이걸 #살짝설렜어 #OHMYGIRL #NONSTOP @8_OHMYGIRL #Studio_CHOOM\n\n▶️ https://t.co/FczUTR1Koz https://t.co/hmylbXu4Xb",
+		"full_text": "있~잖~아~ 사랑이면 단번에 바로 볼 수가 있는 원테이크 NO EDIT 버전을 봐줘야한대🧚♀️💜  #BE_ORIGINAL #오마이걸 #살짝설렜어 #OHMYGIRL #NONSTOP @8_OHMYGIRL #Studio_CHOOM\n\n▶️ https://t.co/FczUTR1Koz https://t.co/hmylbXu4Xb",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -983,7 +1175,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "있~잖~아~ 사랑이면 단번에 바로 볼 수가 있는 원테이크 NO EDIT 버전을 봐줘야한대🧚‍♀️💜  #BE_ORIGINAL #오마이걸 #살짝설렜어 #OHMYGIRL #NONSTOP @8_OHMYGIRL #Studio_CHOOM\n\n▶️ https://t.co/FczUTR1Koz https://t.co/hmylbXu4Xb"
+		"text": "있~잖~아~ 사랑이면 단번에 바로 볼 수가 있는 원테이크 NO EDIT 버전을 봐줘야한대🧚♀️💜  #BE_ORIGINAL #오마이걸 #살짝설렜어 #OHMYGIRL #NONSTOP @8_OHMYGIRL #Studio_CHOOM\n\n▶️ https://t.co/FczUTR1Koz https://t.co/hmylbXu4Xb"
 	},
 	{
 		"created_at": "Sat May 09 21:22:12 +0000 2020",
@@ -1886,7 +2078,7 @@ Grailbird.data.tweets_2020_05 =
 		"user": {
 			"id": 166651117,
 			"id_str": "166651117",
-			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"name": "44BITS 기술 블로그 👩💻👨💻",
 			"screen_name": "fortyfourbits",
 			"location": "Republic of Korea",
 			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
