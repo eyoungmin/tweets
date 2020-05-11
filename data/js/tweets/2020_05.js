@@ -1,6 +1,805 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 21:59:36 +0000 2020",
+		"id": 1259842772800020500,
+		"id_str": "1259966411075514368",
+		"full_text": "내 글이 좀 불친절한 것 같아서, 설정하는 방법을 조금 더 자세히 적어 보았다.\n\nhttps://t.co/NatdcxQSi7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NatdcxQSi7",
+					"expanded_url": "https://johngrib.github.io/wiki/fortune-cmd/#%EC%9D%91%EC%9A%A9-bashrc%EC%97%90-%EB%84%A3%EC%96%B4-%ED%84%B0%EB%AF%B8%EB%84%90%EC%9D%84-%EC%97%B4-%EB%95%8C%EB%A7%88%EB%8B%A4-%EA%B2%A9%EC%96%B8%EC%9D%84-%EB%B3%B4%EC%97%AC%EC%A3%BC%EC%9E%90",
+					"display_url": "johngrib.github.io/wiki/fortune-c…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259837047868620800,
+		"in_reply_to_status_id_str": "1259837047868620801",
+		"in_reply_to_user_id": 732911923,
+		"in_reply_to_user_id_str": "732911923",
+		"in_reply_to_screen_name": "John_Grib",
+		"user": {
+			"id": 732911923,
+			"id_str": "732911923",
+			"name": "기계인간 John Grib",
+			"screen_name": "John_Grib",
+			"location": "기하학의 이념",
+			"description": "유물론자.",
+			"url": "https://t.co/7YPkFr8iLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YPkFr8iLb",
+							"expanded_url": "https://johngrib.github.io",
+							"display_url": "johngrib.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5695,
+			"friends_count": 370,
+			"listed_count": 45,
+			"created_at": "Thu Aug 02 14:16:06 +0000 2012",
+			"favourites_count": 8458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732911923/1472973825",
+			"profile_link_color": "45619D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 글이 좀 불친절한 것 같아서, 설정하는 방법을 조금 더 자세히 적어 보았다.\n\nhttps://t.co/NatdcxQSi7"
+	},
+	{
+		"created_at": "Mon May 11 21:59:32 +0000 2020",
+		"id": 1259837047868620800,
+		"id_str": "1259966397624356864",
+		"full_text": "케빈 켈리의 68가지 조언을 읽어보았고, 너무 좋아서 fortune 명령어로 사용할 수 있게 vim 매크로로 작업해서 로컬 저장소에 넣어뒀다.\n\n이제 터미널 열 때마다 케빈 켈리의 조언도 나온다.\n\nhttps://t.co/8fKAit8lL5 https://t.co/t0QCkPJqkL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8fKAit8lL5",
+					"expanded_url": "https://johngrib.github.io/wiki/fortune-cmd/",
+					"display_url": "johngrib.github.io/wiki/fortune-c…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259836894931595300,
+					"id_str": "1259836894931595264",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EXvW-yVUMAAl3jG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXvW-yVUMAAl3jG.jpg",
+					"url": "https://t.co/t0QCkPJqkL",
+					"display_url": "pic.twitter.com/t0QCkPJqkL",
+					"expanded_url": "https://twitter.com/John_Grib/status/1259837047868620801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1306,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 179,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259836894931595300,
+					"id_str": "1259836894931595264",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EXvW-yVUMAAl3jG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXvW-yVUMAAl3jG.jpg",
+					"url": "https://t.co/t0QCkPJqkL",
+					"display_url": "pic.twitter.com/t0QCkPJqkL",
+					"expanded_url": "https://twitter.com/John_Grib/status/1259837047868620801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1306,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 179,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732911923,
+			"id_str": "732911923",
+			"name": "기계인간 John Grib",
+			"screen_name": "John_Grib",
+			"location": "기하학의 이념",
+			"description": "유물론자.",
+			"url": "https://t.co/7YPkFr8iLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YPkFr8iLb",
+							"expanded_url": "https://johngrib.github.io",
+							"display_url": "johngrib.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5695,
+			"friends_count": 370,
+			"listed_count": 45,
+			"created_at": "Thu Aug 02 14:16:06 +0000 2012",
+			"favourites_count": 8458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732911923/1472973825",
+			"profile_link_color": "45619D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "케빈 켈리의 68가지 조언을 읽어보았고, 너무 좋아서 fortune 명령어로 사용할 수 있게 vim 매크로로 작업해서 로컬 저장소에 넣어뒀다.\n\n이제 터미널 열 때마다 케빈 켈리의 조언도 나온다.\n\nhttps://t.co/8fKAit8lL5 https://t.co/t0QCkPJqkL"
+	},
+	{
+		"created_at": "Mon May 11 21:56:04 +0000 2020",
+		"id": 1259704148129276000,
+		"id_str": "1259965524332523520",
+		"full_text": "지난주에 발표된 퓰리처상 수장작 중에 앤 보이어의 «언다잉»(Undying)이 포함되어 있습니다(일반 논픽션 부문). 기쁘게도 얼마 전 리시올/플레이타임에서 계약을 맺은 책입니다💐 양미래 번역가의 번역으로 2021년 출간할 계획입니다. https://t.co/dZ4azogpsc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dZ4azogpsc",
+					"expanded_url": "https://twitter.com/PulitzerPrizes/status/1257389586755588102",
+					"display_url": "twitter.com/PulitzerPrizes…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 838656742359642100,
+			"id_str": "838656742359642112",
+			"name": "리시올 / 플레이타임",
+			"screen_name": "luciolesptime",
+			"location": "",
+			"description": "출판사 리시올/플레이타임의 공식 계정입니다.  2020년 들어 오쓰카 에이지의 «감정화하는 사회»와 후쿠시마 료타의 «부흥 문화론»을 출간했습니다.",
+			"url": "https://t.co/T53x4lmOJH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T53x4lmOJH",
+							"expanded_url": "https://playtime.blog/",
+							"display_url": "playtime.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006,
+			"friends_count": 523,
+			"listed_count": 9,
+			"created_at": "Mon Mar 06 07:45:23 +0000 2017",
+			"favourites_count": 4332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/890245366284550144/9UUCNgpu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/890245366284550144/9UUCNgpu_normal.jpg",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257389586755588000,
+		"quoted_status_id_str": "1257389586755588102",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dZ4azogpsc",
+			"expanded": "https://twitter.com/PulitzerPrizes/status/1257389586755588102",
+			"display": "twitter.com/PulitzerPrizes…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 04 19:20:13 +0000 2020",
+			"id": 1257389586755588000,
+			"id_str": "1257389586755588102",
+			"full_text": "Congratulations to Anne Boyer, @fsgbooks and @KCArtInstitute. #Pulitzer https://t.co/fQvqHtjDxh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Pulitzer",
+						"indices": [
+							62,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "fsgbooks",
+						"name": "Farrar,Straus&Giroux",
+						"id": 19402584,
+						"id_str": "19402584",
+						"indices": [
+							31,
+							40
+						]
+					},
+					{
+						"screen_name": "KCArtInstitute",
+						"name": "KCAI",
+						"id": 50306877,
+						"id_str": "50306877",
+						"indices": [
+							45,
+							60
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1257389571236659200,
+						"id_str": "1257389571236659203",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/EXMlJzHXgAMqrZk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXMlJzHXgAMqrZk.jpg",
+						"url": "https://t.co/fQvqHtjDxh",
+						"display_url": "pic.twitter.com/fQvqHtjDxh",
+						"expanded_url": "https://twitter.com/PulitzerPrizes/status/1257389586755588102/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1257389571236659200,
+						"id_str": "1257389571236659203",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/EXMlJzHXgAMqrZk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXMlJzHXgAMqrZk.jpg",
+						"url": "https://t.co/fQvqHtjDxh",
+						"display_url": "pic.twitter.com/fQvqHtjDxh",
+						"expanded_url": "https://twitter.com/PulitzerPrizes/status/1257389586755588102/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2909713155,
+				"id_str": "2909713155",
+				"name": "The Pulitzer Prizes",
+				"screen_name": "PulitzerPrizes",
+				"location": "New York, NY",
+				"description": "It's our 104th year honoring excellence in journalism and the arts. Visit us on https://t.co/BQwd3mR2wG #Pulitzer",
+				"url": "https://t.co/svcBTH9EFQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/svcBTH9EFQ",
+								"expanded_url": "http://Pulitzer.org",
+								"display_url": "Pulitzer.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BQwd3mR2wG",
+								"expanded_url": "http://pulitzer.org",
+								"display_url": "pulitzer.org",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 72791,
+				"friends_count": 903,
+				"listed_count": 850,
+				"created_at": "Sun Dec 07 19:36:54 +0000 2014",
+				"favourites_count": 21050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10682,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/685174334726475776/q701tUCU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/685174334726475776/q701tUCU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2909713155/1491408179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 340,
+			"favorite_count": 1506,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난주에 발표된 퓰리처상 수장작 중에 앤 보이어의 «언다잉»(Undying)이 포함되어 있습니다(일반 논픽션 부문). 기쁘게도 얼마 전 리시올/플레이타임에서 계약을 맺은 책입니다💐 양미래 번역가의 번역으로 2021년 출간할 계획입니다. https://t.co/dZ4azogpsc"
+	},
+	{
+		"created_at": "Mon May 11 21:52:13 +0000 2020",
+		"id": 1259954311783571500,
+		"id_str": "1259964555108782080",
+		"full_text": "5월 11일 24시 기준, 서울지역 미세먼지(PM-10) 주의보가 해제 되었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4198,
+			"friends_count": 941,
+			"listed_count": 39,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "5월 11일 24시 기준, 서울지역 미세먼지(PM-10) 주의보가 해제 되었습니다."
+	},
+	{
+		"created_at": "Mon May 11 21:20:57 +0000 2020",
+		"id": 1259827502442115000,
+		"id_str": "1259956685373755392",
+		"full_text": "\"성소수자 이동 경로니 적극 대응해달라\"는 박능후 장관의 발언에 김경수 경남지사가 \"박 장관의 성소수자 인식이 걱정된다\"며 우려를 드러냈습니다. 차별적 발언이란 지적입니다. 김 지사의 텔레그램이 언론에 그대로 찍혔습니다. 방역이란 차원에서도 틀린 말이 없습니다. https://t.co/aM6Z4EogZe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aM6Z4EogZe",
+					"expanded_url": "https://mnews.joins.com/article/23774028",
+					"display_url": "mnews.joins.com/article/237740…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63476989,
+			"id_str": "63476989",
+			"name": "박태인(Taein Park)",
+			"screen_name": "TellYouMore",
+			"location": "Seoul",
+			"description": "중앙일보 기자. 좋은 글을 쓰겠습니다. ※트윗 인용 보도 금지 @mujschool graduate\nhttps://t.co/LISzgr3buo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LISzgr3buo",
+							"expanded_url": "http://brunch.co.kr/@taeinpark",
+							"display_url": "brunch.co.kr/@taeinpark",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21377,
+			"friends_count": 13942,
+			"listed_count": 620,
+			"created_at": "Thu Aug 06 15:30:08 +0000 2009",
+			"favourites_count": 15043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63476989/1411280422",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"성소수자 이동 경로니 적극 대응해달라\"는 박능후 장관의 발언에 김경수 경남지사가 \"박 장관의 성소수자 인식이 걱정된다\"며 우려를 드러냈습니다. 차별적 발언이란 지적입니다. 김 지사의 텔레그램이 언론에 그대로 찍혔습니다. 방역이란 차원에서도 틀린 말이 없습니다. https://t.co/aM6Z4EogZe"
+	},
+	{
 		"created_at": "Mon May 11 16:52:26 +0000 2020",
 		"id": 1259889112707981300,
 		"id_str": "1259889112707981318",
