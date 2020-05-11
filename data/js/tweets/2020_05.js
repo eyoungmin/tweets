@@ -1,6 +1,737 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 23:53:05 +0000 2020",
+		"id": 1259272697529331700,
+		"id_str": "1259632585963012096",
+		"full_text": "Fast or Slow - 웹사이트 속도 측정 도구 https://t.co/15Hw0FOH6T \n- 전셰계 10개 위치에서 웹사이트의 FCP,FMP,TBT,TTI,RTT 등을 측정\nㅤ→ US SE/NE/NW/Central,영국,독일,네덜란드,일본,호주,브라질\n- 측정 결과에 이메일 주소 입력하면 정기 모니터링 가능\n- 결과는 약 90일간 저장되고, 예...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/15Hw0FOH6T",
+					"expanded_url": "https://j.mp/2T6Lol1",
+					"display_url": "j.mp/2T6Lol1",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2859,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Fast or Slow - 웹사이트 속도 측정 도구 https://t.co/15Hw0FOH6T \n- 전셰계 10개 위치에서 웹사이트의 FCP,FMP,TBT,TTI,RTT 등을 측정\nㅤ→ US SE/NE/NW/Central,영국,독일,네덜란드,일본,호주,브라질\n- 측정 결과에 이메일 주소 입력하면 정기 모니터링 가능\n- 결과는 약 90일간 저장되고, 예..."
+	},
+	{
+		"created_at": "Sun May 10 23:52:38 +0000 2020",
+		"id": 1259615054711799800,
+		"id_str": "1259632471018139648",
+		"full_text": "'시총 35조' 네이버의 부활…그뒤엔 '한국 뺄셈 해외 덧셈'전략 https://t.co/3ynudFHEM1 요즘 신고가인 네이버에 대한 중앙의 분석기사. 경제섹션 커버기사인데 지면에는 안나온 다양한 도표그래픽을 온라인기사에 담았다. https://t.co/AvIPvwXTEP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3ynudFHEM1",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=025&aid=0002999534",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259615034931507200,
+					"id_str": "1259615034931507201",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsNM1bVcAE-RFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsNM1bVcAE-RFx.jpg",
+					"url": "https://t.co/AvIPvwXTEP",
+					"display_url": "pic.twitter.com/AvIPvwXTEP",
+					"expanded_url": "https://twitter.com/estima7/status/1259615054711799808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259615034931507200,
+					"id_str": "1259615034931507201",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsNM1bVcAE-RFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsNM1bVcAE-RFx.jpg",
+					"url": "https://t.co/AvIPvwXTEP",
+					"display_url": "pic.twitter.com/AvIPvwXTEP",
+					"expanded_url": "https://twitter.com/estima7/status/1259615054711799808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259615036038803500,
+					"id_str": "1259615036038803456",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsNM5jVcAAejZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsNM5jVcAAejZm.jpg",
+					"url": "https://t.co/AvIPvwXTEP",
+					"display_url": "pic.twitter.com/AvIPvwXTEP",
+					"expanded_url": "https://twitter.com/estima7/status/1259615054711799808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259615037137645600,
+					"id_str": "1259615037137645568",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsNM9pUcAAKpAU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsNM9pUcAAKpAU.jpg",
+					"url": "https://t.co/AvIPvwXTEP",
+					"display_url": "pic.twitter.com/AvIPvwXTEP",
+					"expanded_url": "https://twitter.com/estima7/status/1259615054711799808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 559,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 798,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372840,
+			"friends_count": 2280,
+			"listed_count": 4602,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'시총 35조' 네이버의 부활…그뒤엔 '한국 뺄셈 해외 덧셈'전략 https://t.co/3ynudFHEM1 요즘 신고가인 네이버에 대한 중앙의 분석기사. 경제섹션 커버기사인데 지면에는 안나온 다양한 도표그래픽을 온라인기사에 담았다. https://t.co/AvIPvwXTEP"
+	},
+	{
+		"created_at": "Sun May 10 23:52:35 +0000 2020",
+		"id": 1259612369711329300,
+		"id_str": "1259632457004924928",
+		"full_text": "사드로 시작해 코로나로 끝나나…중국 한한령 해제 가시화 https://t.co/idX8hZHcOG 지드래곤의 음료수 광고가 중국 전역을 강타. 한류스타의 광고가 중국에 나온 것은 4년만. 후난TV가 한중 번역가를 채용하는 등 중국에서 한한령이 해제되는 듯한 분위기가 감지된다는 기사. https://t.co/C8E27bY3pf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/idX8hZHcOG",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=025&aid=0002999508",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259612359401721900,
+					"id_str": "1259612359401721857",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsKxGTU0AEZ_Ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsKxGTU0AEZ_Ed.jpg",
+					"url": "https://t.co/C8E27bY3pf",
+					"display_url": "pic.twitter.com/C8E27bY3pf",
+					"expanded_url": "https://twitter.com/estima7/status/1259612369711329282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 559,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259612359401721900,
+					"id_str": "1259612359401721857",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsKxGTU0AEZ_Ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsKxGTU0AEZ_Ed.jpg",
+					"url": "https://t.co/C8E27bY3pf",
+					"display_url": "pic.twitter.com/C8E27bY3pf",
+					"expanded_url": "https://twitter.com/estima7/status/1259612369711329282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 559,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372840,
+			"friends_count": 2280,
+			"listed_count": 4602,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사드로 시작해 코로나로 끝나나…중국 한한령 해제 가시화 https://t.co/idX8hZHcOG 지드래곤의 음료수 광고가 중국 전역을 강타. 한류스타의 광고가 중국에 나온 것은 4년만. 후난TV가 한중 번역가를 채용하는 등 중국에서 한한령이 해제되는 듯한 분위기가 감지된다는 기사. https://t.co/C8E27bY3pf"
+	},
+	{
+		"created_at": "Sun May 10 23:52:12 +0000 2020",
+		"id": 1259619113548169200,
+		"id_str": "1259632363694407682",
+		"full_text": "미국 대선, 오늘 치러진다면 승자는? - https://t.co/yj59OkknP6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yj59OkknP6",
+					"expanded_url": "https://newspeppermint.com/2020/05/10/sorting-american-voters-into-380000-distinct-groups/",
+					"display_url": "newspeppermint.com/2020/05/10/sor…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97582,
+			"friends_count": 0,
+			"listed_count": 716,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 대선, 오늘 치러진다면 승자는? - https://t.co/yj59OkknP6"
+	},
+	{
+		"created_at": "Sun May 10 23:52:03 +0000 2020",
+		"id": 1259611835197616000,
+		"id_str": "1259632322522963968",
+		"full_text": "‘전체답장 폭탄’ 막는다…MS, 방지 기능 추가 https://t.co/wQckD2WdD6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wQckD2WdD6",
+					"expanded_url": "http://www.bloter.net/archives/380179",
+					"display_url": "bloter.net/archives/380179",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55486,
+			"friends_count": 9,
+			"listed_count": 2429,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘전체답장 폭탄’ 막는다…MS, 방지 기능 추가 https://t.co/wQckD2WdD6"
+	},
+	{
 		"created_at": "Sun May 10 22:04:49 +0000 2020",
 		"id": 1259604508721606700,
 		"id_str": "1259605337964863489",
