@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 22:04:38 +0000 2020",
+		"id": 1259739862887956500,
+		"id_str": "1259967678954926080",
+		"full_text": "TVXQ! &amp;  SUPER JUNIOR join the lineup of #Beyond_LIVE ! 🔴🔵\n\n📅 ‘Beyond LIVE’ Concerts schdule\n#NCT127 : 5/17 SUN 3PM (KST)\n#TVXQ! : 5/24 3PM (KST)\n#SUPERJUNIOR : 5/31 3PM (KST)\n\nStay tuned for the concert with 3D graphics, AR effects &amp; interactive com… https://t.co/THKqWGwvog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						150,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259731761488998400,
+					"id_str": "1259731761488998407",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EXt3XNvUMAcNYVk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXt3XNvUMAcNYVk.jpg",
+					"url": "https://t.co/THKqWGwvog",
+					"display_url": "pic.twitter.com/THKqWGwvog",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1259736930503122944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1420,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1259736930503123000,
+					"source_status_id_str": "1259736930503122944",
+					"source_user_id": 884378714,
+					"source_user_id_str": "884378714"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259731761488998400,
+					"id_str": "1259731761488998407",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EXt3XNvUMAcNYVk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXt3XNvUMAcNYVk.jpg",
+					"url": "https://t.co/THKqWGwvog",
+					"display_url": "pic.twitter.com/THKqWGwvog",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1259736930503122944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1420,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1259736930503123000,
+					"source_status_id_str": "1259736930503122944",
+					"source_user_id": 884378714,
+					"source_user_id_str": "884378714"
+				},
+				{
+					"id": 1259731761497440300,
+					"id_str": "1259731761497440256",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EXt3XNxVAAAzJag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXt3XNxVAAAzJag.jpg",
+					"url": "https://t.co/THKqWGwvog",
+					"display_url": "pic.twitter.com/THKqWGwvog",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1259736930503122944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1259736930503123000,
+					"source_status_id_str": "1259736930503122944",
+					"source_user_id": 884378714,
+					"source_user_id_str": "884378714"
+				},
+				{
+					"id": 1259731761501622300,
+					"id_str": "1259731761501622274",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EXt3XNyU0AInWdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXt3XNyU0AInWdj.jpg",
+					"url": "https://t.co/THKqWGwvog",
+					"display_url": "pic.twitter.com/THKqWGwvog",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1259736930503122944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1259736930503123000,
+					"source_status_id_str": "1259736930503122944",
+					"source_user_id": 884378714,
+					"source_user_id_str": "884378714"
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916876459,
+			"id_str": "916876459",
+			"name": "SMTOUWN GLOBAL",
+			"screen_name": "SMTOUWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group unOfficial Twitter Page",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 7,
+			"listed_count": 1,
+			"created_at": "Wed Oct 31 13:17:22 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946576556427591682/qaG6mmIa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946576556427591682/qaG6mmIa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916876459/1514516433",
+			"profile_link_color": "FF6699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TVXQ! &amp;  SUPER JUNIOR join the lineup of #Beyond_LIVE ! 🔴🔵\n\n📅 ‘Beyond LIVE’ Concerts schdule\n#NCT127 : 5/17 SUN 3PM (KST)\n#TVXQ! : 5/24 3PM (KST)\n#SUPERJUNIOR : 5/31 3PM (KST)\n\nStay tuned for the concert with 3D graphics, AR effects &amp; interactive com… https://t.co/THKqWGwvog"
+	},
+	{
 		"created_at": "Mon May 11 21:59:36 +0000 2020",
 		"id": 1259842772800020500,
 		"id_str": "1259966411075514368",
