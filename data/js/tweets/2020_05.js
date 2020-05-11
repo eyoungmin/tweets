@@ -1,10 +1,270 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 07:27:57 +0000 2020",
+		"id": 1259740073894928400,
+		"id_str": "1259747052977819648",
+		"full_text": "[#재밌SM당] 집순이 #아이린 의 하루 일과 모아보기\n👉https://t.co/vbE3o5aMIN\n\n집순이들이라면 공감할~\n아이린의 슬기로운 하루 일과♥ \n\n✔️#레벨업프로젝트3 Full Version 보기\n👉https://t.co/U4VOGROGOe\n\n#LevelUpProject3 #레드벨벳 #RedVelvet #IRENE #SMCC_Studio https://t.co/L0SCbn4Cmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재밌SM당",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "레벨업프로젝트3",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "LevelUpProject3",
+					"indices": [
+						143,
+						159
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "SMCC_Studio",
+					"indices": [
+						184,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vbE3o5aMIN",
+					"expanded_url": "https://youtu.be/_AX6Tts4gNE",
+					"display_url": "youtu.be/_AX6Tts4gNE",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/U4VOGROGOe",
+					"expanded_url": "https://bit.ly/2VjMSby",
+					"display_url": "bit.ly/2VjMSby",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259726714541756400,
+					"id_str": "1259726714541756416",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EXtyxcZU0AAOJSa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXtyxcZU0AAOJSa.jpg",
+					"url": "https://t.co/L0SCbn4Cmk",
+					"display_url": "pic.twitter.com/L0SCbn4Cmk",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1259740073894928385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259726714541756400,
+					"id_str": "1259726714541756416",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EXtyxcZU0AAOJSa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXtyxcZU0AAOJSa.jpg",
+					"url": "https://t.co/L0SCbn4Cmk",
+					"display_url": "pic.twitter.com/L0SCbn4Cmk",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1259740073894928385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C Studio",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C Studio Official Twitter Page\n🐰심포유 - 수호 편 👉🏻 https://t.co/rqUoXwWDAh",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rqUoXwWDAh",
+							"expanded_url": "http://channels.vlive.tv/DE441D/home",
+							"display_url": "channels.vlive.tv/DE441D/home",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4827,
+			"friends_count": 0,
+			"listed_count": 28,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 424,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#재밌SM당] 집순이 #아이린 의 하루 일과 모아보기\n👉https://t.co/vbE3o5aMIN\n\n집순이들이라면 공감할~\n아이린의 슬기로운 하루 일과♥ \n\n✔️#레벨업프로젝트3 Full Version 보기\n👉https://t.co/U4VOGROGOe\n\n#LevelUpProject3 #레드벨벳 #RedVelvet #IRENE #SMCC_Studio https://t.co/L0SCbn4Cmk"
+	},
+	{
 		"created_at": "Mon May 11 06:52:12 +0000 2020",
 		"id": 1259729994953064400,
 		"id_str": "1259738060025204736",
-		"full_text": "'이 얘기하면 분위기를 망치겠지?'\n'왜 이해가 달랐지?'\n'목표가 명확했는데 하면 할 수록 모호해지네?'\n'이 일은 00이 하는건가, 내가 하는건가?'\n\n커뮤니티 활동 하며 이런 생각이 든 적 있나요? 🤷🏻‍♀️\n어떻게 하면 이런 혼란을 어떻게 줄여볼 수 있을까요? \n　\n https://t.co/128QsHaf6J",
+		"full_text": "'이 얘기하면 분위기를 망치겠지?'\n'왜 이해가 달랐지?'\n'목표가 명확했는데 하면 할 수록 모호해지네?'\n'이 일은 00이 하는건가, 내가 하는건가?'\n\n커뮤니티 활동 하며 이런 생각이 든 적 있나요? 🤷🏻♀️\n어떻게 하면 이런 혼란을 어떻게 줄여볼 수 있을까요? \n　\n https://t.co/128QsHaf6J",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -104,7 +364,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "'이 얘기하면 분위기를 망치겠지?'\n'왜 이해가 달랐지?'\n'목표가 명확했는데 하면 할 수록 모호해지네?'\n'이 일은 00이 하는건가, 내가 하는건가?'\n\n커뮤니티 활동 하며 이런 생각이 든 적 있나요? 🤷🏻‍♀️\n어떻게 하면 이런 혼란을 어떻게 줄여볼 수 있을까요? \n　\n https://t.co/128QsHaf6J"
+		"text": "'이 얘기하면 분위기를 망치겠지?'\n'왜 이해가 달랐지?'\n'목표가 명확했는데 하면 할 수록 모호해지네?'\n'이 일은 00이 하는건가, 내가 하는건가?'\n\n커뮤니티 활동 하며 이런 생각이 든 적 있나요? 🤷🏻♀️\n어떻게 하면 이런 혼란을 어떻게 줄여볼 수 있을까요? \n　\n https://t.co/128QsHaf6J"
 	},
 	{
 		"created_at": "Mon May 11 06:32:03 +0000 2020",
