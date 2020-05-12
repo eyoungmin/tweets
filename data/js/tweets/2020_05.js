@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 10:45:37 +0000 2020",
+		"id": 1260146181805506600,
+		"id_str": "1260159185347579904",
+		"full_text": "이달의 소녀 이브 춤 이브다😍\n태민 Drip Drop + So What\n\nYves (LOONA) COVER TAEMIN Drip Drop\n\n@loonatheworld\n\nhttps://t.co/AZEhdlWr5u\n#LOONA #이브 #Yves #태민 #TAEMIN https://t.co/a42LpRKUAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						139,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AZEhdlWr5u",
+					"expanded_url": "https://youtu.be/1UyMNRtXDXE",
+					"display_url": "youtu.be/1UyMNRtXDXE",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260146164604657700,
+					"id_str": "1260146164604657668",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzwQppU4AQIhxu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzwQppU4AQIhxu.jpg",
+					"url": "https://t.co/a42LpRKUAU",
+					"display_url": "pic.twitter.com/a42LpRKUAU",
+					"expanded_url": "https://twitter.com/factinstar/status/1260146181805506560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260146164604657700,
+					"id_str": "1260146164604657668",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzwQppU4AQIhxu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzwQppU4AQIhxu.jpg",
+					"url": "https://t.co/a42LpRKUAU",
+					"display_url": "pic.twitter.com/a42LpRKUAU",
+					"expanded_url": "https://twitter.com/factinstar/status/1260146181805506560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260146173496619000,
+					"id_str": "1260146173496619008",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzwRKxVcAA5DCA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzwRKxVcAA5DCA.jpg",
+					"url": "https://t.co/a42LpRKUAU",
+					"display_url": "pic.twitter.com/a42LpRKUAU",
+					"expanded_url": "https://twitter.com/factinstar/status/1260146181805506560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "TBS오픈스튜디오 서울 마포구 매봉산로 31 에스플렉스센터 1층 /유튜브 (금) 저녁 9시 선공개 / TBS TV (일) 오전 10시 본방송",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3589,
+			"friends_count": 2853,
+			"listed_count": 33,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110724701301596161/iWGyhDeZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110724701301596161/iWGyhDeZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1576025828",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀 이브 춤 이브다😍\n태민 Drip Drop + So What\n\nYves (LOONA) COVER TAEMIN Drip Drop\n\n@loonatheworld\n\nhttps://t.co/AZEhdlWr5u\n#LOONA #이브 #Yves #태민 #TAEMIN https://t.co/a42LpRKUAU"
+	},
+	{
 		"created_at": "Tue May 12 09:27:56 +0000 2020",
 		"id": 1260134262906347500,
 		"id_str": "1260139639417028609",
