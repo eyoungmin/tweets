@@ -1,6 +1,2439 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 14:57:28 +0000 2020",
+		"id": 1260222566339186700,
+		"id_str": "1260222566339186693",
+		"full_text": "@simdyang 세대라뇨.... 😂😂😂",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simdyang",
+					"name": "심댱😷",
+					"id": 714336278079086600,
+					"id_str": "714336278079086592",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260221646520021000,
+		"in_reply_to_status_id_str": "1260221646520020995",
+		"in_reply_to_user_id": 714336278079086600,
+		"in_reply_to_user_id_str": "714336278079086592",
+		"in_reply_to_screen_name": "simdyang",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@simdyang 세대라뇨.... 😂😂😂"
+	},
+	{
+		"created_at": "Tue May 12 14:56:31 +0000 2020",
+		"id": 1260222327234506800,
+		"id_str": "1260222327234506752",
+		"full_text": "민감한 트윗 봇이 자동으로 걸러내서 불편해.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "민감한 트윗 봇이 자동으로 걸러내서 불편해."
+	},
+	{
+		"created_at": "Tue May 12 14:56:09 +0000 2020",
+		"id": 1260172767082643500,
+		"id_str": "1260222234066550785",
+		"full_text": "[#굿걸] Watch Out, Mnet! I GOOD GIRL 선전포고\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n5월 14일 (목) 밤 9시 30분 첫 방송\n\n#Mnet #엠넷 #HYOYEON #효연 #CHEETAH #치타 #AILEE #에일리 #JAMIE #제이미 https://t.co/dk5R8XWWt0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "CHEETAH",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "AILEE",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "에일리",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "JAMIE",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						148,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260172758194913300,
+					"id_str": "1260172758194913281",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmfVAAEI8SV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmfVAAEI8SV.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260172758194913300,
+					"id_str": "1260172758194913281",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmfVAAEI8SV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmfVAAEI8SV.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260172758190747600,
+					"id_str": "1260172758190747653",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmeVcAU9bUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmeVcAU9bUW.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260172758194913300,
+					"id_str": "1260172758194913280",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmfVAAAJYt9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmfVAAAJYt9.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260172758199054300,
+					"id_str": "1260172758199054338",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmgUMAIGDBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmgUMAIGDBb.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n-\n5월 14일 (목) 밤 9시 30분 첫 방송 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196741,
+			"friends_count": 2553,
+			"listed_count": 222,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1587977697",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 846,
+		"favorite_count": 1116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸] Watch Out, Mnet! I GOOD GIRL 선전포고\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n5월 14일 (목) 밤 9시 30분 첫 방송\n\n#Mnet #엠넷 #HYOYEON #효연 #CHEETAH #치타 #AILEE #에일리 #JAMIE #제이미 https://t.co/dk5R8XWWt0"
+	},
+	{
+		"created_at": "Tue May 12 14:55:58 +0000 2020",
+		"id": 1259773530486435800,
+		"id_str": "1260222189791371268",
+		"full_text": "* 아돌라 CAM / IDOL RADIO STAGE CAM\n(5/11 MON) #달수빈 #나띠 #하진\n(5/12 TUE) #NCTDREAM\n(5/13 WED) #레이든 #소녀시대 #효연 #DJ펌킨 #DJ웨건\n(5/14 THU) #우아!\n(5/15 FRI) #엘리스\n\n* 보라돌 / BORA-DOL\n(5/14 THU 정희) #아스트로\n\n#MBC라디오 #아이돌플래닛 #아이돌라디오 #정오의희망곡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "달수빈",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "나띠",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "하진",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "DJ펌킨",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "DJ웨건",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "우아",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "엘리스",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "MBC라디오",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "아이돌플래닛",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						203,
+						210
+					]
+				},
+				{
+					"text": "정오의희망곡",
+					"indices": [
+						211,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259773528821215200,
+		"in_reply_to_status_id_str": "1259773528821215235",
+		"in_reply_to_user_id": 145925496,
+		"in_reply_to_user_id_str": "145925496",
+		"in_reply_to_screen_name": "radiombc",
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "IDOL PLANET",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO with K-POP IDOL😍 #MBC라디오 #아이돌플래닛",
+			"url": "https://t.co/UeCqZJeLS4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeCqZJeLS4",
+							"expanded_url": "https://www.youtube.com/c/idolplanet",
+							"display_url": "youtube.com/c/idolplanet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73267,
+			"friends_count": 44,
+			"listed_count": 616,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214119624360357888/3gXs-HLn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214119624360357888/3gXs-HLn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1578303673",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 439,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 아돌라 CAM / IDOL RADIO STAGE CAM\n(5/11 MON) #달수빈 #나띠 #하진\n(5/12 TUE) #NCTDREAM\n(5/13 WED) #레이든 #소녀시대 #효연 #DJ펌킨 #DJ웨건\n(5/14 THU) #우아!\n(5/15 FRI) #엘리스\n\n* 보라돌 / BORA-DOL\n(5/14 THU 정희) #아스트로\n\n#MBC라디오 #아이돌플래닛 #아이돌라디오 #정오의희망곡"
+	},
+	{
+		"created_at": "Tue May 12 14:55:50 +0000 2020",
+		"id": 1259653769626677200,
+		"id_str": "1260222156799012864",
+		"full_text": "[#아이돌라디오 핫차트 #아핫!] \n5월 1주\n\n#IDOLRADIO #에이프릴 #APRIL #엑소 #EXO #위너 #강승윤 #나띠 #NATTY #태연 #TAEYEON #아이유 #IU #방탄소년단 #BTS #슈가 #SUGA #볼빨간사춘기 #BOL4 #백현 #갓세븐 #GOT7 #영재 #네이처 #NATURE #마마무 #MAMAMOO #휘인 #아스트로 #ASTRO #NCTDREAM https://t.co/OOyUSZPaIQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "아핫",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "IDOLRADIO",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "APRIL",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "위너",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "강승윤",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "나띠",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "NATTY",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "슈가",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "SUGA",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "백현",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "갓세븐",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "GOT7",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "영재",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "네이처",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "NATURE",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "휘인",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						194,
+						200
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						201,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259653026337353700,
+					"id_str": "1259653026337353729",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsvwOcVcAEkBsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsvwOcVcAEkBsk.jpg",
+					"url": "https://t.co/OOyUSZPaIQ",
+					"display_url": "pic.twitter.com/OOyUSZPaIQ",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1259653769626677249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259653026337353700,
+					"id_str": "1259653026337353729",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsvwOcVcAEkBsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsvwOcVcAEkBsk.jpg",
+					"url": "https://t.co/OOyUSZPaIQ",
+					"display_url": "pic.twitter.com/OOyUSZPaIQ",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1259653769626677249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/weA2TATSpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/weA2TATSpl",
+							"expanded_url": "http://www.vlive.tv/channels/C6571B",
+							"display_url": "vlive.tv/channels/C6571B",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66893,
+			"friends_count": 3,
+			"listed_count": 188,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 797,
+		"favorite_count": 1154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌라디오 핫차트 #아핫!] \n5월 1주\n\n#IDOLRADIO #에이프릴 #APRIL #엑소 #EXO #위너 #강승윤 #나띠 #NATTY #태연 #TAEYEON #아이유 #IU #방탄소년단 #BTS #슈가 #SUGA #볼빨간사춘기 #BOL4 #백현 #갓세븐 #GOT7 #영재 #네이처 #NATURE #마마무 #MAMAMOO #휘인 #아스트로 #ASTRO #NCTDREAM https://t.co/OOyUSZPaIQ"
+	},
+	{
+		"created_at": "Tue May 12 14:55:27 +0000 2020",
+		"id": 1259053288118317000,
+		"id_str": "1260222060598452224",
+		"full_text": "5/11 ~ 5/17 #아이돌라디오 출연진\n\n11(월) 달수빈, 하진, 나띠\n12(화) NCT DREAM \n13(수) 소녀시대 효연, 레이든, DJ 펌킨, DJ 웨건\n14(목) 우아!\n15(금) 엘리스\n16(토) 우주소녀 수빈&amp;엑시\n17(일) 우주소녀 수빈&amp;엑시 https://t.co/QeM5ZywjxG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259053280698630100,
+					"id_str": "1259053280698630145",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkOSb1VAAE_28M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkOSb1VAAE_28M.jpg",
+					"url": "https://t.co/QeM5ZywjxG",
+					"display_url": "pic.twitter.com/QeM5ZywjxG",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1259053288118317056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 597,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259053280698630100,
+					"id_str": "1259053280698630145",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkOSb1VAAE_28M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkOSb1VAAE_28M.jpg",
+					"url": "https://t.co/QeM5ZywjxG",
+					"display_url": "pic.twitter.com/QeM5ZywjxG",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1259053288118317056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 597,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/weA2TATSpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/weA2TATSpl",
+							"expanded_url": "http://www.vlive.tv/channels/C6571B",
+							"display_url": "vlive.tv/channels/C6571B",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66893,
+			"friends_count": 3,
+			"listed_count": 188,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3726,
+		"favorite_count": 2588,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5/11 ~ 5/17 #아이돌라디오 출연진\n\n11(월) 달수빈, 하진, 나띠\n12(화) NCT DREAM \n13(수) 소녀시대 효연, 레이든, DJ 펌킨, DJ 웨건\n14(목) 우아!\n15(금) 엘리스\n16(토) 우주소녀 수빈&amp;엑시\n17(일) 우주소녀 수빈&amp;엑시 https://t.co/QeM5ZywjxG"
+	},
+	{
+		"created_at": "Tue May 12 14:52:16 +0000 2020",
+		"id": 1260213560107384800,
+		"id_str": "1260221258123423750",
+		"full_text": "📸 [청하BEHIND] Stay Tonight 퍼포먼스 영상 촬영 현장✨\n\n🔗 https://t.co/7pJqa6QDIL\n\n#청하 #CHUNGHA\n@M2MPD 💙 @MuFully 🤍\n@dingo_official ✨ https://t.co/up8OARNKbO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M2MPD",
+					"name": "MPD(엠피디)",
+					"id": 589808615,
+					"id_str": "589808615",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"screen_name": "MuFully",
+					"name": "mu:fully (뮤플리)",
+					"id": 1112618601356226600,
+					"id_str": "1112618601356226561",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"screen_name": "dingo_official",
+					"name": "dingo(딩고)",
+					"id": 936446104136065000,
+					"id_str": "936446104136065024",
+					"indices": [
+						102,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7pJqa6QDIL",
+					"expanded_url": "https://bit.ly/2Lso24J",
+					"display_url": "bit.ly/2Lso24J",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260213548732440600,
+					"id_str": "1260213548732440576",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ti7FU4AAt-P0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ti7FU4AAt-P0.jpg",
+					"url": "https://t.co/up8OARNKbO",
+					"display_url": "pic.twitter.com/up8OARNKbO",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260213560107384832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260213548732440600,
+					"id_str": "1260213548732440576",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ti7FU4AAt-P0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ti7FU4AAt-P0.jpg",
+					"url": "https://t.co/up8OARNKbO",
+					"display_url": "pic.twitter.com/up8OARNKbO",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260213560107384832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260213548728217600,
+					"id_str": "1260213548728217600",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ti7EUcAAYEWt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ti7EUcAAYEWt.jpg",
+					"url": "https://t.co/up8OARNKbO",
+					"display_url": "pic.twitter.com/up8OARNKbO",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260213560107384832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260213548770160600,
+					"id_str": "1260213548770160640",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ti7OUcAAGnLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ti7OUcAAGnLs.jpg",
+					"url": "https://t.co/up8OARNKbO",
+					"display_url": "pic.twitter.com/up8OARNKbO",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260213560107384832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259241,
+			"friends_count": 0,
+			"listed_count": 1642,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 814,
+		"favorite_count": 3292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 [청하BEHIND] Stay Tonight 퍼포먼스 영상 촬영 현장✨\n\n🔗 https://t.co/7pJqa6QDIL\n\n#청하 #CHUNGHA\n@M2MPD 💙 @MuFully 🤍\n@dingo_official ✨ https://t.co/up8OARNKbO"
+	},
+	{
+		"created_at": "Tue May 12 14:52:13 +0000 2020",
+		"id": 1260208109005484000,
+		"id_str": "1260221244873588736",
+		"full_text": "비하인드로 다시 한번 즐기는 청하의 레전드 #스튜디오춤 소문난 우리 술과 댄서분들의 케미! 지금 바로 만나보세요🖤 #BE_ORIGINAL #청하 #StayTonight #CHUNGHA @CHUNGHA_MNHent #Studio_CHOOM\n\n▶ https://t.co/LXK6ktcqor https://t.co/tjHHrvCol4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스튜디오춤",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "Studio_CHOOM",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LXK6ktcqor",
+					"expanded_url": "https://youtu.be/hFX0fl8Vo1I",
+					"display_url": "youtu.be/hFX0fl8Vo1I",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260146314634883000,
+					"id_str": "1260146314634883073",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzwZYjUcAEexhU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzwZYjUcAEexhU.jpg",
+					"url": "https://t.co/tjHHrvCol4",
+					"display_url": "pic.twitter.com/tjHHrvCol4",
+					"expanded_url": "https://twitter.com/M2MPD/status/1260208109005484032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260146314634883000,
+					"id_str": "1260146314634883073",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzwZYjUcAEexhU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzwZYjUcAEexhU.jpg",
+					"url": "https://t.co/tjHHrvCol4",
+					"display_url": "pic.twitter.com/tjHHrvCol4",
+					"expanded_url": "https://twitter.com/M2MPD/status/1260208109005484032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997133,
+			"friends_count": 344,
+			"listed_count": 1226,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 1449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비하인드로 다시 한번 즐기는 청하의 레전드 #스튜디오춤 소문난 우리 술과 댄서분들의 케미! 지금 바로 만나보세요🖤 #BE_ORIGINAL #청하 #StayTonight #CHUNGHA @CHUNGHA_MNHent #Studio_CHOOM\n\n▶ https://t.co/LXK6ktcqor https://t.co/tjHHrvCol4"
+	},
+	{
+		"created_at": "Tue May 12 14:38:21 +0000 2020",
+		"id": 1260011810637385700,
+		"id_str": "1260217754453307398",
+		"full_text": "Notion에서는 노션 팀에서 노션을 활용하는 방법에 대해서 공개했습니다. 사내위키, 태스크 관리, 노트까지 개밥먹기의 끝판왕이라고 할 수 있네요. 🐶🍽️\n#link #notion #blog\nhttps://t.co/u3fb1GNpcP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "link",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "notion",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "blog",
+					"indices": [
+						101,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u3fb1GNpcP",
+					"expanded_url": "https://www.notion.so/notion/How-Notion-Uses-Notion-616f41d2f5124f3185cf1c36d267c07e",
+					"display_url": "notion.so/notion/How-Not…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166651117,
+			"id_str": "166651117",
+			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"screen_name": "fortyfourbits",
+			"location": "Republic of Korea",
+			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
+			"url": "https://t.co/9Ou3Dtkocu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Ou3Dtkocu",
+							"expanded_url": "https://www.44bits.io/ko",
+							"display_url": "44bits.io/ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2123,
+			"friends_count": 86,
+			"listed_count": 29,
+			"created_at": "Wed Jul 14 17:46:41 +0000 2010",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Notion에서는 노션 팀에서 노션을 활용하는 방법에 대해서 공개했습니다. 사내위키, 태스크 관리, 노트까지 개밥먹기의 끝판왕이라고 할 수 있네요. 🐶🍽️\n#link #notion #blog\nhttps://t.co/u3fb1GNpcP"
+	},
+	{
+		"created_at": "Tue May 12 14:36:05 +0000 2020",
+		"id": 1260162807036653600,
+		"id_str": "1260217187819642882",
+		"full_text": "역도를 취미로 하는 사람들이 있다는 것, 알고 계셨나요? ‘역도에 푹 빠졌다’는 김경민 종로구역도연맹 회장과 이예진씨, 정연진씨는 입을 모아 역도를 하고부터 아름다운 몸에 대한 기준이 바뀌었다고 말합니다. 나이도, 체격도, 사연도 제각각인 이들의 이야기를 만나 보세요.\n#역도 #여자역도 https://t.co/FTrFMHkOGR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "역도",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "여자역도",
+					"indices": [
+						155,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260123925201080300,
+					"id_str": "1260123925201080320",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzgNPvUwAAWw1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzgNPvUwAAWw1Z.jpg",
+					"url": "https://t.co/FTrFMHkOGR",
+					"display_url": "pic.twitter.com/FTrFMHkOGR",
+					"expanded_url": "https://twitter.com/kyunghyang/status/1260162807036653568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 968,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 968,
+							"h": 545,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260123925201080300,
+					"id_str": "1260123925201080320",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzgNPvUwAAWw1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzgNPvUwAAWw1Z.jpg",
+					"url": "https://t.co/FTrFMHkOGR",
+					"display_url": "pic.twitter.com/FTrFMHkOGR",
+					"expanded_url": "https://twitter.com/kyunghyang/status/1260162807036653568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 968,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 968,
+							"h": 545,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 532999,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260123925201080320/vid/640x360/7j4Wo35R5AtYwkrK.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260123925201080320/vid/1280x720/Aqo1rngDY6HGliX_.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260123925201080320/vid/480x270/5VVcbG-JUBcAZUwG.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1260123925201080320/pl/btoP1tLPcj_2_oRi.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://bit.ly/3eSPEO4"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 729980,
+			"friends_count": 78927,
+			"listed_count": 6072,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1522,
+		"favorite_count": 993,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역도를 취미로 하는 사람들이 있다는 것, 알고 계셨나요? ‘역도에 푹 빠졌다’는 김경민 종로구역도연맹 회장과 이예진씨, 정연진씨는 입을 모아 역도를 하고부터 아름다운 몸에 대한 기준이 바뀌었다고 말합니다. 나이도, 체격도, 사연도 제각각인 이들의 이야기를 만나 보세요.\n#역도 #여자역도 https://t.co/FTrFMHkOGR"
+	},
+	{
+		"created_at": "Tue May 12 14:32:06 +0000 2020",
+		"id": 1260092704437923800,
+		"id_str": "1260216182273003521",
+		"full_text": "[Welcome to JENTLE HOME]\nOn May 13, 'JENTLE HOME' pop-up space will be opened to the public. The dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n📍Address: 22 Apgujeong-ro 10-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea https://t.co/JqUDAvqaNA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260092404394123300,
+					"id_str": "1260092404394123264",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy_XZQUYAAhdaS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy_XZQUYAAhdaS.jpg",
+					"url": "https://t.co/JqUDAvqaNA",
+					"display_url": "pic.twitter.com/JqUDAvqaNA",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260092704437923840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 864,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260092404394123300,
+					"id_str": "1260092404394123264",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy_XZQUYAAhdaS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy_XZQUYAAhdaS.jpg",
+					"url": "https://t.co/JqUDAvqaNA",
+					"display_url": "pic.twitter.com/JqUDAvqaNA",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260092704437923840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 864,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3566,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2240,
+		"favorite_count": 4646,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Welcome to JENTLE HOME]\nOn May 13, 'JENTLE HOME' pop-up space will be opened to the public. The dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n📍Address: 22 Apgujeong-ro 10-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea https://t.co/JqUDAvqaNA"
+	},
+	{
 		"created_at": "Tue May 12 12:54:33 +0000 2020",
 		"id": 1260161699732009000,
 		"id_str": "1260191636362952711",
