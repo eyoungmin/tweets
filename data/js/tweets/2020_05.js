@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 20:45:49 +0000 2020",
+		"id": 1260132768199045000,
+		"id_str": "1260310234381209600",
+		"full_text": "코로나19 이후 스타트업 환경변화 ‘부정보단 긍정 전망’, 유망 산업은 ‘의료, 교육, 소비 분야’ https://t.co/Bsh3kQWGfR 중기벤처부가 492개 스타트업을 대상으로 설문조사. 어려운 상황에서도 한국의 스타트업들은 미래에 대해 상당히 긍정적인 편. https://t.co/Xgx8NJVcww",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bsh3kQWGfR",
+					"expanded_url": "https://platum.kr/archives/141146",
+					"display_url": "platum.kr/archives/141146",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260132744006209500,
+					"id_str": "1260132744006209536",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzkDeBUEAAU56n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzkDeBUEAAU56n.jpg",
+					"url": "https://t.co/Xgx8NJVcww",
+					"display_url": "pic.twitter.com/Xgx8NJVcww",
+					"expanded_url": "https://twitter.com/estima7/status/1260132768199045122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 245,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1129,
+							"h": 406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1129,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260132744006209500,
+					"id_str": "1260132744006209536",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzkDeBUEAAU56n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzkDeBUEAAU56n.jpg",
+					"url": "https://t.co/Xgx8NJVcww",
+					"display_url": "pic.twitter.com/Xgx8NJVcww",
+					"expanded_url": "https://twitter.com/estima7/status/1260132768199045122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 245,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1129,
+							"h": 406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1129,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260132745105207300,
+					"id_str": "1260132745105207296",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzkDiHVcAAmS3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzkDiHVcAAmS3F.jpg",
+					"url": "https://t.co/Xgx8NJVcww",
+					"display_url": "pic.twitter.com/Xgx8NJVcww",
+					"expanded_url": "https://twitter.com/estima7/status/1260132768199045122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1138,
+							"h": 386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 231,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1138,
+							"h": 386,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260132746208309200,
+					"id_str": "1260132746208309248",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzkDmOVcAASEO9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzkDmOVcAASEO9.jpg",
+					"url": "https://t.co/Xgx8NJVcww",
+					"display_url": "pic.twitter.com/Xgx8NJVcww",
+					"expanded_url": "https://twitter.com/estima7/status/1260132768199045122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 206,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260132747328098300,
+					"id_str": "1260132747328098305",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzkDqZUEAEOCet.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzkDqZUEAEOCet.jpg",
+					"url": "https://t.co/Xgx8NJVcww",
+					"display_url": "pic.twitter.com/Xgx8NJVcww",
+					"expanded_url": "https://twitter.com/estima7/status/1260132768199045122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 488,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 488,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 488,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372791,
+			"friends_count": 2280,
+			"listed_count": 4559,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 이후 스타트업 환경변화 ‘부정보단 긍정 전망’, 유망 산업은 ‘의료, 교육, 소비 분야’ https://t.co/Bsh3kQWGfR 중기벤처부가 492개 스타트업을 대상으로 설문조사. 어려운 상황에서도 한국의 스타트업들은 미래에 대해 상당히 긍정적인 편. https://t.co/Xgx8NJVcww"
+	},
+	{
 		"created_at": "Tue May 12 19:26:04 +0000 2020",
 		"id": 1236533175414714400,
 		"id_str": "1260290162098966528",
