@@ -1,6 +1,1581 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 11:28:12 +0000 2020",
+		"id": 1260088359243747300,
+		"id_str": "1260169904667234305",
+		"full_text": "[속보] 서울고법 정준영, 최종훈 일부 감형.\n(1)정준영=징역 5년 (1심 6년에서 1년 감형) 피해자와 합의되지 않았지만, 진지한 반성한다는 취지 고려.\n\n(2) 최종훈=징역 2년 6월(1심 5년에서 3년 4월 감형) 피해자와 합의했지만 최종훈 일부 혐의 부인하는 점 볼 때 반성 조건 부족.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63476989,
+			"id_str": "63476989",
+			"name": "박태인(Taein Park)",
+			"screen_name": "TellYouMore",
+			"location": "Seoul",
+			"description": "중앙일보 기자. 좋은 글을 쓰겠습니다. ※트윗 인용 보도 금지 @mujschool graduate\nhttps://t.co/LISzgr3buo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LISzgr3buo",
+							"expanded_url": "http://brunch.co.kr/@taeinpark",
+							"display_url": "brunch.co.kr/@taeinpark",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21375,
+			"friends_count": 13942,
+			"listed_count": 613,
+			"created_at": "Thu Aug 06 15:30:08 +0000 2009",
+			"favourites_count": 15043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63476989/1411280422",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1183,
+		"favorite_count": 56,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[속보] 서울고법 정준영, 최종훈 일부 감형.\n(1)정준영=징역 5년 (1심 6년에서 1년 감형) 피해자와 합의되지 않았지만, 진지한 반성한다는 취지 고려.\n\n(2) 최종훈=징역 2년 6월(1심 5년에서 3년 4월 감형) 피해자와 합의했지만 최종훈 일부 혐의 부인하는 점 볼 때 반성 조건 부족."
+	},
+	{
+		"created_at": "Tue May 12 11:27:23 +0000 2020",
+		"id": 1260162484566028300,
+		"id_str": "1260169696562700288",
+		"full_text": "영상 사인회, 유행병이 도래한 시대에 K팝 산업이 기획할 수밖에 없는 마케팅. 기획사들의 자구책이라 할 수 있는 새로운 마케팅 방식은 그동안 우리가 마주했던 '앨범 판매량'이 이 산업을 어떤 식으로 지탱해줬는지 적나라하게 드러낸다. https://t.co/5VrLMnATIz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5VrLMnATIz",
+					"expanded_url": "http://www.gqkorea.co.kr/2020/05/11/%ec%bd%94%eb%a1%9c%eb%82%9819%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ed%8c%ac-%ec%82%ac%ec%9d%b8%ed%9a%8c%ec%99%80-%ec%9d%8c%eb%b0%98-%ec%88%98%ec%9d%b5%ec%9d%98-%ec%83%81%ea%b4%80%ea%b4%80%ea%b3%84/",
+					"display_url": "gqkorea.co.kr/2020/05/11/%ec…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 타의로 사용하는 호칭이며, 저는 아이돌/문화 전문 기자이자, 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2968,
+			"friends_count": 139,
+			"listed_count": 15,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248048412253024256/0Ei84nfE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248048412253024256/0Ei84nfE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영상 사인회, 유행병이 도래한 시대에 K팝 산업이 기획할 수밖에 없는 마케팅. 기획사들의 자구책이라 할 수 있는 새로운 마케팅 방식은 그동안 우리가 마주했던 '앨범 판매량'이 이 산업을 어떤 식으로 지탱해줬는지 적나라하게 드러낸다. https://t.co/5VrLMnATIz"
+	},
+	{
+		"created_at": "Tue May 12 11:23:37 +0000 2020",
+		"id": 1260022891153768400,
+		"id_str": "1260168750751338498",
+		"full_text": "Figma를 사용하는 소프트웨어 팀을 위한 협업 공간 픽셀릭(Pixelic) https://t.co/qdjSEVUCOv \n안녕하세요! Pixelic 공동창업자 Chris 입니다.\n오늘 얼리어답터 커뮤니티인 Product Hunt에 저희 제품인 Pixelic for Figma를 런칭해서 하다 뉴스에도 공유를 하면 더 많은 분들께 피드백을 들을 수 ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qdjSEVUCOv",
+					"expanded_url": "https://j.mp/2LjzUX1",
+					"display_url": "j.mp/2LjzUX1",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2876,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Figma를 사용하는 소프트웨어 팀을 위한 협업 공간 픽셀릭(Pixelic) https://t.co/qdjSEVUCOv \n안녕하세요! Pixelic 공동창업자 Chris 입니다.\n오늘 얼리어답터 커뮤니티인 Product Hunt에 저희 제품인 Pixelic for Figma를 런칭해서 하다 뉴스에도 공유를 하면 더 많은 분들께 피드백을 들을 수 ..."
+	},
+	{
+		"created_at": "Tue May 12 11:20:39 +0000 2020",
+		"id": 1260147709136171000,
+		"id_str": "1260168004999901184",
+		"full_text": "#에잇 나오자마자 멜론 리뷰창에 본인등판한 #아이유?!😮 아이유를 놀라게 한 팬들의 저세상 주접부터 다시 보는 레전드 뭐가살쪄‼ 까지!\n아이유의 #본인등판 지금 확인하세요👩‍💻 #IU #LookMeUp @_IUofficial\n\nWatch Now! 👉 https://t.co/xmKLIZ47wn https://t.co/hNYO9YpqOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에잇",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "본인등판",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "LookMeUp",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_IUofficial",
+					"name": "아이유(IU) 공식 트위터",
+					"id": 1024486566096326700,
+					"id_str": "1024486566096326656",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xmKLIZ47wn",
+					"expanded_url": "https://youtu.be/O9e2oZXEKW8",
+					"display_url": "youtu.be/O9e2oZXEKW8",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260143469189709800,
+					"id_str": "1260143469189709824",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EXztzwcUwAA6bAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXztzwcUwAA6bAd.jpg",
+					"url": "https://t.co/hNYO9YpqOP",
+					"display_url": "pic.twitter.com/hNYO9YpqOP",
+					"expanded_url": "https://twitter.com/1theK/status/1260147709136171008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260143469189709800,
+					"id_str": "1260143469189709824",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EXztzwcUwAA6bAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXztzwcUwAA6bAd.jpg",
+					"url": "https://t.co/hNYO9YpqOP",
+					"display_url": "pic.twitter.com/hNYO9YpqOP",
+					"expanded_url": "https://twitter.com/1theK/status/1260147709136171008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1902837,
+			"friends_count": 813,
+			"listed_count": 1921,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1589278041",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3331,
+		"favorite_count": 9325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#에잇 나오자마자 멜론 리뷰창에 본인등판한 #아이유?!😮 아이유를 놀라게 한 팬들의 저세상 주접부터 다시 보는 레전드 뭐가살쪄‼ 까지!\n아이유의 #본인등판 지금 확인하세요👩‍💻 #IU #LookMeUp @_IUofficial\n\nWatch Now! 👉 https://t.co/xmKLIZ47wn https://t.co/hNYO9YpqOP"
+	},
+	{
+		"created_at": "Tue May 12 11:18:28 +0000 2020",
+		"id": 1260097389815197700,
+		"id_str": "1260167452542959616",
+		"full_text": "앞으로 성인이 만 16세 미만 미성년자와 성관계를 하면 합의 유무와 관계없이 형사처벌 합니다. #KBS뉴스 #KBS\nhttps://t.co/affVp8kQTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						60,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/affVp8kQTH",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=4444257",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416648,
+			"friends_count": 108255,
+			"listed_count": 4625,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250591183543271424/fK5Hq8NW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250591183543271424/fK5Hq8NW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1586999471",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4924,
+		"favorite_count": 982,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앞으로 성인이 만 16세 미만 미성년자와 성관계를 하면 합의 유무와 관계없이 형사처벌 합니다. #KBS뉴스 #KBS\nhttps://t.co/affVp8kQTH"
+	},
+	{
+		"created_at": "Tue May 12 11:17:57 +0000 2020",
+		"id": 1260081171142041600,
+		"id_str": "1260167325749178371",
+		"full_text": "“평면 웹툰은 그만”… 다음웹툰, ‘ALIVE’로 생동감 준다 https://t.co/Fe4HUmlHsU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fe4HUmlHsU",
+					"expanded_url": "http://www.bloter.net/archives/380462",
+					"display_url": "bloter.net/archives/380462",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55478,
+			"friends_count": 9,
+			"listed_count": 2415,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“평면 웹툰은 그만”… 다음웹툰, ‘ALIVE’로 생동감 준다 https://t.co/Fe4HUmlHsU"
+	},
+	{
+		"created_at": "Tue May 12 11:17:51 +0000 2020",
+		"id": 1260132609528561700,
+		"id_str": "1260167299845066753",
+		"full_text": "[Album Preview]\n⠀\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) 6PM Release\n⠀\n📽 https://t.co/Kqm6MxPPEm\n⠀\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/eKz4tJ8sOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kqm6MxPPEm",
+					"expanded_url": "https://youtu.be/O2f_6i6y5jo",
+					"display_url": "youtu.be/O2f_6i6y5jo",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260120347891781600,
+					"id_str": "1260120347891781637",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzYx65U0AUOpNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzYx65U0AUOpNq.jpg",
+					"url": "https://t.co/eKz4tJ8sOs",
+					"display_url": "pic.twitter.com/eKz4tJ8sOs",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260132609528561666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260120347891781600,
+					"id_str": "1260120347891781637",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzYx65U0AUOpNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzYx65U0AUOpNq.jpg",
+					"url": "https://t.co/eKz4tJ8sOs",
+					"display_url": "pic.twitter.com/eKz4tJ8sOs",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260132609528561666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29657,
+			"friends_count": 2,
+			"listed_count": 176,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 883,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Album Preview]\n⠀\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) 6PM Release\n⠀\n📽 https://t.co/Kqm6MxPPEm\n⠀\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/eKz4tJ8sOs"
+	},
+	{
+		"created_at": "Tue May 12 11:17:49 +0000 2020",
+		"id": 1260087310801989600,
+		"id_str": "1260167291536175106",
+		"full_text": "[Official Photo #5]\n⠀\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) 6PM Release\n\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#민들레 #BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/ITUQtBmzvh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "민들레",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260078516122423300,
+					"id_str": "1260078516122423296",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXyyu_aUEAA4EGt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXyyu_aUEAA4EGt.jpg",
+					"url": "https://t.co/ITUQtBmzvh",
+					"display_url": "pic.twitter.com/ITUQtBmzvh",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260087310801989635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260078516122423300,
+					"id_str": "1260078516122423296",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXyyu_aUEAA4EGt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXyyu_aUEAA4EGt.jpg",
+					"url": "https://t.co/ITUQtBmzvh",
+					"display_url": "pic.twitter.com/ITUQtBmzvh",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260087310801989635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29657,
+			"friends_count": 2,
+			"listed_count": 176,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 555,
+		"favorite_count": 1763,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Official Photo #5]\n⠀\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) 6PM Release\n\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#민들레 #BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/ITUQtBmzvh"
+	},
+	{
+		"created_at": "Tue May 12 11:17:24 +0000 2020",
+		"id": 1260150654225363000,
+		"id_str": "1260167187119005696",
+		"full_text": "[Trip to K-POP] 집콕으로 지친 모두를 위로할 즐거운 랜선음악여행이 찾아옵니다!\n\n📍5월 19일~21일 19시\n📍#한국콘텐츠진흥원 유튜브, 네이버 VLIVE, U+아이돌Live 및 SBS MTV, SBS FiL 생중계\n📍#아이콘, #오마이걸, #김재환, #에이프릴, #데이브레이크 등 다양한 뮤지션 12팀, 특별MC #산들 까지! https://t.co/LXDuB3gy6L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "아이콘",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "김재환",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "데이브레이크",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "산들",
+					"indices": [
+						183,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260149983036072000,
+					"id_str": "1260149983036071936",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzzu6aUYAAU4pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzzu6aUYAAU4pj.jpg",
+					"url": "https://t.co/LXDuB3gy6L",
+					"display_url": "pic.twitter.com/LXDuB3gy6L",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1260150654225362945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260149983036072000,
+					"id_str": "1260149983036071936",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzzu6aUYAAU4pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzzu6aUYAAU4pj.jpg",
+					"url": "https://t.co/LXDuB3gy6L",
+					"display_url": "pic.twitter.com/LXDuB3gy6L",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1260150654225362945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19297,
+			"friends_count": 15335,
+			"listed_count": 395,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1581039286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1630,
+		"favorite_count": 1189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Trip to K-POP] 집콕으로 지친 모두를 위로할 즐거운 랜선음악여행이 찾아옵니다!\n\n📍5월 19일~21일 19시\n📍#한국콘텐츠진흥원 유튜브, 네이버 VLIVE, U+아이돌Live 및 SBS MTV, SBS FiL 생중계\n📍#아이콘, #오마이걸, #김재환, #에이프릴, #데이브레이크 등 다양한 뮤지션 12팀, 특별MC #산들 까지! https://t.co/LXDuB3gy6L"
+	},
+	{
+		"created_at": "Tue May 12 11:08:14 +0000 2020",
+		"id": 1260164879476015000,
+		"id_str": "1260164879476015104",
+		"full_text": "#대한민국 #보건복지부\n[요약] 5월12일14시10분│코로나19 진단검사 익명검사 실시│정부브리핑\nhttps://t.co/hRmgNSnGtE\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hRmgNSnGtE",
+					"expanded_url": "https://www.youtube.com/watch?v=sg54poGqDPg",
+					"display_url": "youtube.com/watch?v=sg54po…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 5월12일14시10분│코로나19 진단검사 익명검사 실시│정부브리핑\nhttps://t.co/hRmgNSnGtE\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Tue May 12 10:45:37 +0000 2020",
 		"id": 1260146181805506600,
 		"id_str": "1260159185347579904",
