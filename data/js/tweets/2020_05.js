@@ -1,6 +1,809 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 19:26:04 +0000 2020",
+		"id": 1236533175414714400,
+		"id_str": "1260290162098966528",
+		"full_text": "평냉초보의 평냉 정복기나 모아보자 내입에 제일 좋은건  학동역 진미평양냉면 평냉계의 샤넬이야 이건 ㅠㅠㅋㅋ https://t.co/Z3FYK0yePo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236533160797601800,
+					"id_str": "1236533160797601793",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/ESkMW7pVAAE65iV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESkMW7pVAAE65iV.jpg",
+					"url": "https://t.co/Z3FYK0yePo",
+					"display_url": "pic.twitter.com/Z3FYK0yePo",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1236533175414714373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236533160797601800,
+					"id_str": "1236533160797601793",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/ESkMW7pVAAE65iV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESkMW7pVAAE65iV.jpg",
+					"url": "https://t.co/Z3FYK0yePo",
+					"display_url": "pic.twitter.com/Z3FYK0yePo",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1236533175414714373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1236533160822722600,
+					"id_str": "1236533160822722560",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/ESkMW7vUUAA9SQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESkMW7vUUAA9SQZ.jpg",
+					"url": "https://t.co/Z3FYK0yePo",
+					"display_url": "pic.twitter.com/Z3FYK0yePo",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1236533175414714373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1236533160973754400,
+					"id_str": "1236533160973754369",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/ESkMW8TU4AEv7D8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESkMW8TU4AEv7D8.jpg",
+					"url": "https://t.co/Z3FYK0yePo",
+					"display_url": "pic.twitter.com/Z3FYK0yePo",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1236533175414714373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1236533161695137800,
+					"id_str": "1236533161695137792",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/ESkMW-_UUAA2NpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESkMW-_UUAA2NpK.jpg",
+					"url": "https://t.co/Z3FYK0yePo",
+					"display_url": "pic.twitter.com/Z3FYK0yePo",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1236533175414714373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 987925438356897800,
+			"id_str": "987925438356897792",
+			"name": "김고수",
+			"screen_name": "iamkimgosu",
+			"location": "",
+			"description": "조용히 지나가세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5583,
+			"friends_count": 193,
+			"listed_count": 17,
+			"created_at": "Sun Apr 22 05:25:54 +0000 2018",
+			"favourites_count": 4943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252449186571640833/VuEmjgyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252449186571640833/VuEmjgyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/987925438356897792/1588373849",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 218,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "평냉초보의 평냉 정복기나 모아보자 내입에 제일 좋은건  학동역 진미평양냉면 평냉계의 샤넬이야 이건 ㅠㅠㅋㅋ https://t.co/Z3FYK0yePo"
+	},
+	{
+		"created_at": "Tue May 12 19:24:41 +0000 2020",
+		"id": 1260228940469284900,
+		"id_str": "1260289816639401985",
+		"full_text": "- 따라서 유투브뮤직, 올해 말 구글플레이뮤직 단종되면 회사에서 제공하는 유일한 스트리밍 뮤직 옵션이 돼\n- 구글플레이뮤직 라이브러리 이전은 완전 백그라운드로 진행되고 이 이전 과정 동안 사용자는 유투브뮤직 사용할 수 있어\nhttps://t.co/nmOgnTKpRo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nmOgnTKpRo",
+					"expanded_url": "https://www.theverge.com/2020/5/12/21254378/youtube-music-google-play-library-transfer-announced",
+					"display_url": "theverge.com/2020/5/12/2125…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1260228939869495300,
+		"in_reply_to_status_id_str": "1260228939869495301",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45452,
+			"friends_count": 228,
+			"listed_count": 274,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 따라서 유투브뮤직, 올해 말 구글플레이뮤직 단종되면 회사에서 제공하는 유일한 스트리밍 뮤직 옵션이 돼\n- 구글플레이뮤직 라이브러리 이전은 완전 백그라운드로 진행되고 이 이전 과정 동안 사용자는 유투브뮤직 사용할 수 있어\nhttps://t.co/nmOgnTKpRo"
+	},
+	{
+		"created_at": "Tue May 12 19:24:37 +0000 2020",
+		"id": 1260228939869495300,
+		"id_str": "1260289798977150976",
+		"full_text": "유투브뮤직, 마침내 구글플레이뮤직 라이브러리 가져와 업로드할 수 있어\n- 구글, 최신 유투브뮤직 서비스를 밀기 위해 구글플레이뮤직 단종 위한 선제조치 취해\n- 이제 아티스트, 앨범, 곡, 재생목록, 구매 곡, 개인 업로드, 추천 등 전체 구글플레이뮤직 라이브러리를 유투브뮤직으로 이전할 수 있어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45452,
+			"friends_count": 228,
+			"listed_count": 274,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "유투브뮤직, 마침내 구글플레이뮤직 라이브러리 가져와 업로드할 수 있어\n- 구글, 최신 유투브뮤직 서비스를 밀기 위해 구글플레이뮤직 단종 위한 선제조치 취해\n- 이제 아티스트, 앨범, 곡, 재생목록, 구매 곡, 개인 업로드, 추천 등 전체 구글플레이뮤직 라이브러리를 유투브뮤직으로 이전할 수 있어"
+	},
+	{
+		"created_at": "Tue May 12 19:24:16 +0000 2020",
+		"id": 1260239252798894000,
+		"id_str": "1260289709973987328",
+		"full_text": "Today we’re sharing new ways to control your Instagram experience. ❤️\n \nNow you can delete multiple comments and block or restrict multiple people at once. You can also manage who tags or mentions you on Instagram.\n \nFind out more 👉https://t.co/Ubhfr4IsPs https://t.co/n6zKEa4Zju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ubhfr4IsPs",
+					"expanded_url": "https://about.instagram.com/blog/announcements/continuing-our-work-to-fight-online-bullying/",
+					"display_url": "about.instagram.com/blog/announcem…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260238605546479600,
+					"id_str": "1260238605546479616",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EX1EVa_U4AAJ4po.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX1EVa_U4AAJ4po.jpg",
+					"url": "https://t.co/n6zKEa4Zju",
+					"display_url": "pic.twitter.com/n6zKEa4Zju",
+					"expanded_url": "https://twitter.com/instagram/status/1260239252798894080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1010,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260238605546479600,
+					"id_str": "1260238605546479616",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EX1EVa_U4AAJ4po.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX1EVa_U4AAJ4po.jpg",
+					"url": "https://t.co/n6zKEa4Zju",
+					"display_url": "pic.twitter.com/n6zKEa4Zju",
+					"expanded_url": "https://twitter.com/instagram/status/1260239252798894080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1010,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180505807,
+			"id_str": "180505807",
+			"name": "Instagram",
+			"screen_name": "instagram",
+			"location": "",
+			"description": "Bringing you closer to the people and things you love. ❤",
+			"url": "https://t.co/9VHxYebEx2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9VHxYebEx2",
+							"expanded_url": "https://about.instagram.com/",
+							"display_url": "about.instagram.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35706617,
+			"friends_count": 146,
+			"listed_count": 31963,
+			"created_at": "Thu Aug 19 20:11:11 +0000 2010",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126625068564402176/VV114FWs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126625068564402176/VV114FWs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180505807/1462974771",
+			"profile_link_color": "ED4956",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 327,
+		"favorite_count": 1123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we’re sharing new ways to control your Instagram experience. ❤️\n \nNow you can delete multiple comments and block or restrict multiple people at once. You can also manage who tags or mentions you on Instagram.\n \nFind out more 👉https://t.co/Ubhfr4IsPs https://t.co/n6zKEa4Zju"
+	},
+	{
+		"created_at": "Tue May 12 19:22:12 +0000 2020",
+		"id": 1260277887070097400,
+		"id_str": "1260289189146316800",
+		"full_text": "- 업데이트 후, 사용자는 로직과 거라지밴드 간 직접 라이브 루프 전송 가능\n- 로직의 스텝 시퀜스, 거라지밴드의 비트 시퀜서보다 더 많은 옵션 제공\n- 이 업데이트, 또한 수십년 간 사용해 온 로직의 샘플링 도구에 대한 주요 수정 포함\n- 신규 고객 $199.99에 구매 가능하고 기존 고객은 무료임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1260277886386344000,
+		"in_reply_to_status_id_str": "1260277886386343937",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45452,
+			"friends_count": 228,
+			"listed_count": 274,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 업데이트 후, 사용자는 로직과 거라지밴드 간 직접 라이브 루프 전송 가능\n- 로직의 스텝 시퀜스, 거라지밴드의 비트 시퀜서보다 더 많은 옵션 제공\n- 이 업데이트, 또한 수십년 간 사용해 온 로직의 샘플링 도구에 대한 주요 수정 포함\n- 신규 고객 $199.99에 구매 가능하고 기존 고객은 무료임"
+	},
+	{
+		"created_at": "Tue May 12 19:22:10 +0000 2020",
+		"id": 1260277886386344000,
+		"id_str": "1260289179281272832",
+		"full_text": "애플, 라이브 루프와 비트 시퀜서와 개선된 샘플링 도구 포함 로직 프로 X 메이저 업데이트 배포\n- 애플, 2013년 로직 프로 X 론칭 후 \"가장 큰 업데이트\"로 불러\n- 이 업데이트, 거라지밴드에 수년 간 있었던 2개의 음악창작 도구 라이브 루프와 비트 시퀜서 추가\nhttps://t.co/pn2egiL1Nn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pn2egiL1Nn",
+					"expanded_url": "https://www.theverge.com/2020/5/12/21255731/logic-pro-x-apple-live-loops-step-sequencer-sampler-exs24-update",
+					"display_url": "theverge.com/2020/5/12/2125…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45452,
+			"friends_count": 228,
+			"listed_count": 274,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애플, 라이브 루프와 비트 시퀜서와 개선된 샘플링 도구 포함 로직 프로 X 메이저 업데이트 배포\n- 애플, 2013년 로직 프로 X 론칭 후 \"가장 큰 업데이트\"로 불러\n- 이 업데이트, 거라지밴드에 수년 간 있었던 2개의 음악창작 도구 라이브 루프와 비트 시퀜서 추가\nhttps://t.co/pn2egiL1Nn"
+	},
+	{
 		"created_at": "Tue May 12 18:37:18 +0000 2020",
 		"id": 1260277889112641500,
 		"id_str": "1260277889112641536",
