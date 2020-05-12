@@ -1,6 +1,1075 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 15:13:31 +0000 2020",
+		"id": 1260226605147816000,
+		"id_str": "1260226605147815936",
+		"full_text": "젠틀몬스터는 정가제 원칙 확고하게 지키는 브랜드라서 젠틀홈 구경하고 맘에 들면 사면 될 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "젠틀몬스터는 정가제 원칙 확고하게 지키는 브랜드라서 젠틀홈 구경하고 맘에 들면 사면 될 듯."
+	},
+	{
+		"created_at": "Tue May 12 15:10:59 +0000 2020",
+		"id": 1260225968536350700,
+		"id_str": "1260225968536350722",
+		"full_text": "한재영 네이버 리더님 이 트윗을 봐주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260225497453064200,
+		"in_reply_to_status_id_str": "1260225497453064192",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "한재영 네이버 리더님 이 트윗을 봐주세요."
+	},
+	{
+		"created_at": "Tue May 12 15:09:41 +0000 2020",
+		"id": 1260224993041866800,
+		"id_str": "1260225641342857217",
+		"full_text": "Hey @GooglePlayMusic users 👋 Starting today, you can seamlessly transfer your audio library and personal taste preferences to #YouTubeMusic with a single click. Access is rolling out now, welcome to your new home for music. More info here → https://t.co/DaHaKrXGYI https://t.co/9mnLTT0Z3p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YouTubeMusic",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GooglePlayMusic",
+					"name": "Google Play Music",
+					"id": 3307218826,
+					"id_str": "3307218826",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DaHaKrXGYI",
+					"expanded_url": "https://yt.be/NJiv",
+					"display_url": "yt.be/NJiv",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260223035895758800,
+					"id_str": "1260223035895758850",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260223035895758850/pu/img/p5Q_ePOdr6qVqCvA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260223035895758850/pu/img/p5Q_ePOdr6qVqCvA.jpg",
+					"url": "https://t.co/9mnLTT0Z3p",
+					"display_url": "pic.twitter.com/9mnLTT0Z3p",
+					"expanded_url": "https://twitter.com/youtubemusic/status/1260224993041866752/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260223035895758800,
+					"id_str": "1260223035895758850",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260223035895758850/pu/img/p5Q_ePOdr6qVqCvA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260223035895758850/pu/img/p5Q_ePOdr6qVqCvA.jpg",
+					"url": "https://t.co/9mnLTT0Z3p",
+					"display_url": "pic.twitter.com/9mnLTT0Z3p",
+					"expanded_url": "https://twitter.com/youtubemusic/status/1260224993041866752/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260223035895758850/pu/vid/1280x720/t8Q0aInmugt3hO-B.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260223035895758850/pu/vid/640x360/AAu3kuOtyo7VAsrA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260223035895758850/pu/pl/-unnDPEN20LYkLL6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260223035895758850/pu/vid/480x270/WezK4vCW-P2kN8Ze.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880142286176231400,
+			"id_str": "880142286176231425",
+			"name": "YouTube Music",
+			"screen_name": "youtubemusic",
+			"location": "",
+			"description": "Jam #WithMe",
+			"url": "https://t.co/IbuEE7qT88",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IbuEE7qT88",
+							"expanded_url": "http://yt.be/music/JamWithMe",
+							"display_url": "yt.be/music/JamWithMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586137,
+			"friends_count": 476,
+			"listed_count": 1161,
+			"created_at": "Wed Jun 28 19:14:08 +0000 2017",
+			"favourites_count": 2650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240735512345726976/z3FZUlIX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240735512345726976/z3FZUlIX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880142286176231425/1551395352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey @GooglePlayMusic users 👋 Starting today, you can seamlessly transfer your audio library and personal taste preferences to #YouTubeMusic with a single click. Access is rolling out now, welcome to your new home for music. More info here → https://t.co/DaHaKrXGYI https://t.co/9mnLTT0Z3p"
+	},
+	{
+		"created_at": "Tue May 12 15:09:07 +0000 2020",
+		"id": 1260225497453064200,
+		"id_str": "1260225497453064192",
+		"full_text": "이미 바이브 6개월 무료 페이백 해주고 있고 여기에 나우 다시듣기 제공하고 브이앱 오리지널 콘텐츠 개별판매 하던 거 함께 제공하던지 3개정도 선택제공하던지 하면 점유율 좀 오를텐데... 유튜브 오리지널처럼.\n\n#포털사이트 #네이버플러스 #네이버나우 #NOW #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포털사이트",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "네이버플러스",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						144,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260224798233251800,
+		"in_reply_to_status_id_str": "1260224798233251842",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이미 바이브 6개월 무료 페이백 해주고 있고 여기에 나우 다시듣기 제공하고 브이앱 오리지널 콘텐츠 개별판매 하던 거 함께 제공하던지 3개정도 선택제공하던지 하면 점유율 좀 오를텐데... 유튜브 오리지널처럼.\n\n#포털사이트 #네이버플러스 #네이버나우 #NOW #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue May 12 15:06:20 +0000 2020",
+		"id": 1260224798233251800,
+		"id_str": "1260224798233251842",
+		"full_text": "나우 라이브스트림 누가 따주면 좋겠다. 찾아보니 아직 없는 것 같음. 케이팝/아이돌이 아니면 누가 녹화/녹음 하는 일도 적어서 놓치는 경우가 있음. 이런 콘텐츠를 유료화 해서 팔란말이야. 내가 구입할게. \n\n#포털사이트 #네이버나우 #NOW #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포털사이트",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260224187215392800,
+		"in_reply_to_status_id_str": "1260224187215392770",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나우 라이브스트림 누가 따주면 좋겠다. 찾아보니 아직 없는 것 같음. 케이팝/아이돌이 아니면 누가 녹화/녹음 하는 일도 적어서 놓치는 경우가 있음. 이런 콘텐츠를 유료화 해서 팔란말이야. 내가 구입할게. \n\n#포털사이트 #네이버나우 #NOW #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue May 12 15:03:54 +0000 2020",
+		"id": 1260224187215392800,
+		"id_str": "1260224187215392770",
+		"full_text": "마음에 드는 혜택 4 가지를 선택해 이용할 수 있다. 선택한 디지털 콘텐츠는 월 단위로 변경이 가능하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260224154063605800,
+		"in_reply_to_status_id_str": "1260224154063605762",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "마음에 드는 혜택 4 가지를 선택해 이용할 수 있다. 선택한 디지털 콘텐츠는 월 단위로 변경이 가능하다."
+	},
+	{
+		"created_at": "Tue May 12 15:03:46 +0000 2020",
+		"id": 1260224154063605800,
+		"id_str": "1260224154063605762",
+		"full_text": "네이버플러스 멤버십 회원은 ▲네이버웹툰/시리즈 쿠키 20개(웹툰 미리보기 10편 상당) ▲VIBE 음원 300회 듣기 ▲시리즈On 영화/방송 감상용 캐쉬 3300원(최신 드라마 2편 상당) ▲네이버 클라우드 100GB 이용권 ▲오디오북 대여 할인 쿠폰 중",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260223832129822700,
+		"in_reply_to_status_id_str": "1260223832129822721",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "네이버플러스 멤버십 회원은 ▲네이버웹툰/시리즈 쿠키 20개(웹툰 미리보기 10편 상당) ▲VIBE 음원 300회 듣기 ▲시리즈On 영화/방송 감상용 캐쉬 3300원(최신 드라마 2편 상당) ▲네이버 클라우드 100GB 이용권 ▲오디오북 대여 할인 쿠폰 중"
+	},
+	{
+		"created_at": "Tue May 12 15:02:40 +0000 2020",
+		"id": 1260223873863364600,
+		"id_str": "1260223873863364612",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n74]정치적 지상시점/20대 국회의 기쁨과 슬픔(f.법안 통과)\nhttps://t.co/htSfh77jgE\n팟티: https://t.co/lPpJ5xJfF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/htSfh77jgE",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1589284948859.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/lPpJ5xJfF6",
+					"expanded_url": "https://www.podty.me/episode/13310097",
+					"display_url": "podty.me/episode/133100…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n74]정치적 지상시점/20대 국회의 기쁨과 슬픔(f.법안 통과)\nhttps://t.co/htSfh77jgE\n팟티: https://t.co/lPpJ5xJfF6"
+	},
+	{
 		"created_at": "Tue May 12 14:57:28 +0000 2020",
 		"id": 1260222566339186700,
 		"id_str": "1260222566339186693",
@@ -1114,7 +2183,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/weA2TATSpl",
 			"entities": {
 				"url": {
@@ -1296,7 +2365,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/weA2TATSpl",
 			"entities": {
 				"url": {
@@ -1961,7 +3030,7 @@ Grailbird.data.tweets_2020_05 =
 		"user": {
 			"id": 166651117,
 			"id_str": "166651117",
-			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"name": "44BITS 기술 블로그 👩💻👨💻",
 			"screen_name": "fortyfourbits",
 			"location": "Republic of Korea",
 			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
