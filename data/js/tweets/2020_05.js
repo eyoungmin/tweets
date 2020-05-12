@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 09:27:56 +0000 2020",
+		"id": 1260134262906347500,
+		"id_str": "1260139639417028609",
+		"full_text": "Dear U letter로 만나는 #웬디\n매달 웬디의 손편지가 우리 집 우체통으로 찾아옵니다.\n지금 바로 신청하세요!\n⠀\n첫 번째 WENDY letter 구독 마감 D-4 (~5/16)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #디어유레터 #레드벨벳 #WENDY #WENDY_letter #ウェンディ https://t.co/0ud6207J60",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "Dear_U_letter",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "디어유레터",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "WENDY_letter",
+					"indices": [
+						175,
+						188
+					]
+				},
+				{
+					"text": "ウェンディ",
+					"indices": [
+						189,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKW0yElQZV",
+					"expanded_url": "http://dear-u.lysn.com",
+					"display_url": "dear-u.lysn.com",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260134183889825800,
+					"id_str": "1260134183889825792",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzlXSAUcAAVeYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzlXSAUcAAVeYj.jpg",
+					"url": "https://t.co/0ud6207J60",
+					"display_url": "pic.twitter.com/0ud6207J60",
+					"expanded_url": "https://twitter.com/lysn_official/status/1260134262906347521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260134183889825800,
+					"id_str": "1260134183889825792",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzlXSAUcAAVeYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzlXSAUcAAVeYj.jpg",
+					"url": "https://t.co/0ud6207J60",
+					"display_url": "pic.twitter.com/0ud6207J60",
+					"expanded_url": "https://twitter.com/lysn_official/status/1260134262906347521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "이 세상 어느 커뮤니티보다 내 관심사에 대해 자유롭게 이야기할 수 있는 공간. 당신은 어떤 이야기를 나누고 싶나요?",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5653,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Dear U letter로 만나는 #웬디\n매달 웬디의 손편지가 우리 집 우체통으로 찾아옵니다.\n지금 바로 신청하세요!\n⠀\n첫 번째 WENDY letter 구독 마감 D-4 (~5/16)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #디어유레터 #레드벨벳 #WENDY #WENDY_letter #ウェンディ https://t.co/0ud6207J60"
+	},
+	{
 		"created_at": "Tue May 12 08:02:03 +0000 2020",
 		"id": 1260118023203102700,
 		"id_str": "1260118023203102721",
