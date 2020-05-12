@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 22:37:51 +0000 2020",
+		"id": 1260337690735599600,
+		"id_str": "1260338427037282305",
+		"full_text": "트위터 CEO “코로나19 끝나도 재택근무 계속” https://t.co/ySckKRfGY7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ySckKRfGY7",
+					"expanded_url": "http://www.bloter.net/archives/380507",
+					"display_url": "bloter.net/archives/380507",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55442,
+			"friends_count": 9,
+			"listed_count": 2408,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 CEO “코로나19 끝나도 재택근무 계속” https://t.co/ySckKRfGY7"
+	},
+	{
 		"created_at": "Tue May 12 20:45:49 +0000 2020",
 		"id": 1260132768199045000,
 		"id_str": "1260310234381209600",
