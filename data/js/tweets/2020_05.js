@@ -1,6 +1,985 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 08:02:03 +0000 2020",
+		"id": 1260118023203102700,
+		"id_str": "1260118023203102721",
+		"full_text": "#BBC코리아\n코로나19: 나이지리아 당국이 봉쇄령 위반 혐의로 호텔을 철거했다\nhttps://t.co/SPmpzzrchO\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SPmpzzrchO",
+					"expanded_url": "https://www.bbc.com/korean/news-52630471",
+					"display_url": "bbc.com/korean/news-52…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 나이지리아 당국이 봉쇄령 위반 혐의로 호텔을 철거했다\nhttps://t.co/SPmpzzrchO\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Tue May 12 07:52:27 +0000 2020",
+		"id": 1260097268234911700,
+		"id_str": "1260115607514685440",
+		"full_text": "빠띠 미니 공론장 🏫 \n❝온라인 개학, 별별 이야기를 들려주세요(~5/30)❞\n\n🤳🏻 참여 방법\n　1. 빠띠 타운홀(https://t.co/rU5rw565ES) 로그인\n　2. '온라인 개학, 별별 이야기를 들려주세요' 토론에 입장\n　3. 5가지 항목에 자유롭게 의견 남기면 끝! https://t.co/CMATS1CFyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rU5rw565ES",
+					"expanded_url": "https://townhall.kr/m/798",
+					"display_url": "townhall.kr/m/798",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260096900650250200,
+					"id_str": "1260096900650250240",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzDdHHUMAAOsoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzDdHHUMAAOsoq.jpg",
+					"url": "https://t.co/CMATS1CFyE",
+					"display_url": "pic.twitter.com/CMATS1CFyE",
+					"expanded_url": "https://twitter.com/parti_coop/status/1260097268234911746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260096900650250200,
+					"id_str": "1260096900650250240",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzDdHHUMAAOsoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzDdHHUMAAOsoq.jpg",
+					"url": "https://t.co/CMATS1CFyE",
+					"display_url": "pic.twitter.com/CMATS1CFyE",
+					"expanded_url": "https://twitter.com/parti_coop/status/1260097268234911746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260096900654456800,
+					"id_str": "1260096900654456832",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzDdHIUYAAIbRc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzDdHIUYAAIbRc.jpg",
+					"url": "https://t.co/CMATS1CFyE",
+					"display_url": "pic.twitter.com/CMATS1CFyE",
+					"expanded_url": "https://twitter.com/parti_coop/status/1260097268234911746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260096900985806800,
+					"id_str": "1260096900985806849",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzDdIXUYAERNMU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzDdIXUYAERNMU.jpg",
+					"url": "https://t.co/CMATS1CFyE",
+					"display_url": "pic.twitter.com/CMATS1CFyE",
+					"expanded_url": "https://twitter.com/parti_coop/status/1260097268234911746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260096901644341200,
+					"id_str": "1260096901644341248",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzDdK0U0AA7uS6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzDdK0U0AA7uS6.jpg",
+					"url": "https://t.co/CMATS1CFyE",
+					"display_url": "pic.twitter.com/CMATS1CFyE",
+					"expanded_url": "https://twitter.com/parti_coop/status/1260097268234911746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 105,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠띠 미니 공론장 🏫 \n❝온라인 개학, 별별 이야기를 들려주세요(~5/30)❞\n\n🤳🏻 참여 방법\n　1. 빠띠 타운홀(https://t.co/rU5rw565ES) 로그인\n　2. '온라인 개학, 별별 이야기를 들려주세요' 토론에 입장\n　3. 5가지 항목에 자유롭게 의견 남기면 끝! https://t.co/CMATS1CFyE"
+	},
+	{
+		"created_at": "Tue May 12 07:52:22 +0000 2020",
+		"id": 1260096524169572400,
+		"id_str": "1260115586090184704",
+		"full_text": "[#예술경영 웹진 : 사람읽기] \n\n&lt;피어 커뮤니티, 예술인 증명과 인정 사이 그 어딘가에&gt;\n\n444호 사람읽기 읽으러가기👇\nhttps://t.co/Fro7U1NjaE\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/xSiPKYNoAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fro7U1NjaE",
+					"expanded_url": "http://www.gokams.or.kr/webzine/wNew/column/column_view.asp?idx=2331&page=1&c_idx=89&searchString=&c_idx_2=",
+					"display_url": "gokams.or.kr/webzine/wNew/c…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260096471929512000,
+					"id_str": "1260096471929511936",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzDEKAU4AABTeT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXzDEKAU4AABTeT.png",
+					"url": "https://t.co/xSiPKYNoAu",
+					"display_url": "pic.twitter.com/xSiPKYNoAu",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1260096524169572356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 326,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260096471929512000,
+					"id_str": "1260096471929511936",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzDEKAU4AABTeT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXzDEKAU4AABTeT.png",
+					"url": "https://t.co/xSiPKYNoAu",
+					"display_url": "pic.twitter.com/xSiPKYNoAu",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1260096524169572356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 326,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6726,
+			"friends_count": 3050,
+			"listed_count": 105,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 사람읽기] \n\n&lt;피어 커뮤니티, 예술인 증명과 인정 사이 그 어딘가에&gt;\n\n444호 사람읽기 읽으러가기👇\nhttps://t.co/Fro7U1NjaE\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/xSiPKYNoAu"
+	},
+	{
+		"created_at": "Tue May 12 07:52:13 +0000 2020",
+		"id": 1260087505463857200,
+		"id_str": "1260115547884269568",
+		"full_text": "📸 광고 촬영 #SnapShot\n\n✨💖✨ @dolcegabbana\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티\n#DGBeauty https://t.co/jzEte4OGx1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SnapShot",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "돌체앤가바나뷰티",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "DGBeauty",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dolcegabbana",
+					"name": "Dolce & Gabbana",
+					"id": 85772748,
+					"id_str": "85772748",
+					"indices": [
+						23,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260087402007167000,
+					"id_str": "1260087402007166976",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy60N6VAAAsJXs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy60N6VAAAsJXs.jpg",
+					"url": "https://t.co/jzEte4OGx1",
+					"display_url": "pic.twitter.com/jzEte4OGx1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260087505463857152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260087402007167000,
+					"id_str": "1260087402007166976",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy60N6VAAAsJXs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy60N6VAAAsJXs.jpg",
+					"url": "https://t.co/jzEte4OGx1",
+					"display_url": "pic.twitter.com/jzEte4OGx1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260087505463857152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260087402007158800,
+					"id_str": "1260087402007158785",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy60N6U4AE5Wr6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy60N6U4AE5Wr6.jpg",
+					"url": "https://t.co/jzEte4OGx1",
+					"display_url": "pic.twitter.com/jzEte4OGx1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260087505463857152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260087402007130000,
+					"id_str": "1260087402007130112",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy60N6UcAAoel2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy60N6UcAAoel2.jpg",
+					"url": "https://t.co/jzEte4OGx1",
+					"display_url": "pic.twitter.com/jzEte4OGx1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260087505463857152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260087401998737400,
+					"id_str": "1260087401998737414",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy60N4UYAYUOxA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy60N4UYAYUOxA.jpg",
+					"url": "https://t.co/jzEte4OGx1",
+					"display_url": "pic.twitter.com/jzEte4OGx1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260087505463857152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259188,
+			"friends_count": 0,
+			"listed_count": 1673,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1599,
+		"favorite_count": 6296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 광고 촬영 #SnapShot\n\n✨💖✨ @dolcegabbana\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티\n#DGBeauty https://t.co/jzEte4OGx1"
+	},
+	{
 		"created_at": "Tue May 12 05:42:11 +0000 2020",
 		"id": 1260082826113962000,
 		"id_str": "1260082826113961984",
