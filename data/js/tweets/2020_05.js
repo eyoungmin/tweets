@@ -1,6 +1,1397 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 12:54:33 +0000 2020",
+		"id": 1260161699732009000,
+		"id_str": "1260191636362952711",
+		"full_text": "[Welcome to JENTLE HOME]\n'JENTLE HOME' pop-up space will be opened to the public tomorrow.💕\nThe dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/TkGXTIcQFR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						196,
+						217
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						218,
+						229
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						230,
+						244
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						245,
+						252
+					]
+				},
+				{
+					"text": "JentleHomeIsComing",
+					"indices": [
+						253,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260161691725164500,
+					"id_str": "1260161691725164546",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YcrVcAIwxOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YcrVcAIwxOX.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260161691725164500,
+					"id_str": "1260161691725164546",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YcrVcAIwxOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YcrVcAIwxOX.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260161691733516300,
+					"id_str": "1260161691733516288",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YctU4AASFvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YctU4AASFvC.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260161691733508000,
+					"id_str": "1260161691733508096",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YctUwAA800I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YctUwAA800I.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260161691741941800,
+					"id_str": "1260161691741941761",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YcvVcAEzjLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YcvVcAEzjLz.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3474,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1177,
+		"favorite_count": 2157,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Welcome to JENTLE HOME]\n'JENTLE HOME' pop-up space will be opened to the public tomorrow.💕\nThe dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/TkGXTIcQFR"
+	},
+	{
+		"created_at": "Tue May 12 12:54:27 +0000 2020",
+		"id": 1260191607178948600,
+		"id_str": "1260191607178948609",
+		"full_text": "제니홈이 아니라 젠틀홈.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260191219361046500,
+		"in_reply_to_status_id_str": "1260191219361046536",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "제니홈이 아니라 젠틀홈."
+	},
+	{
+		"created_at": "Tue May 12 12:52:54 +0000 2020",
+		"id": 1260191219361046500,
+		"id_str": "1260191219361046536",
+		"full_text": "제니가 애완견 쿠마에서 따서 만든 콜라보 제품. '제니 - 쿠쿠 01'\nhttps://t.co/tmkvp29aVq https://t.co/yGAuiGjZeu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tmkvp29aVq",
+					"expanded_url": "https://www.gentlemonster.com/shop/ver1_detail.php?it_id=1586330069&cata=g0",
+					"display_url": "gentlemonster.com/shop/ver1_deta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260191082769309700,
+					"id_str": "1260191082769309697",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ZHO2UYAEwADH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ZHO2UYAEwADH.jpg",
+					"url": "https://t.co/yGAuiGjZeu",
+					"display_url": "pic.twitter.com/yGAuiGjZeu",
+					"expanded_url": "https://twitter.com/fromminn/status/1260191219361046536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260191082769309700,
+					"id_str": "1260191082769309697",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ZHO2UYAEwADH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ZHO2UYAEwADH.jpg",
+					"url": "https://t.co/yGAuiGjZeu",
+					"display_url": "pic.twitter.com/yGAuiGjZeu",
+					"expanded_url": "https://twitter.com/fromminn/status/1260191219361046536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260191118500585500,
+					"id_str": "1260191118500585473",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ZJT9UYAEsdpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ZJT9UYAEsdpo.jpg",
+					"url": "https://t.co/yGAuiGjZeu",
+					"display_url": "pic.twitter.com/yGAuiGjZeu",
+					"expanded_url": "https://twitter.com/fromminn/status/1260191219361046536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260191152419963000,
+					"id_str": "1260191152419962881",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ZLSUVAAEWO7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ZLSUVAAEWO7h.jpg",
+					"url": "https://t.co/yGAuiGjZeu",
+					"display_url": "pic.twitter.com/yGAuiGjZeu",
+					"expanded_url": "https://twitter.com/fromminn/status/1260191219361046536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260191185227796500,
+					"id_str": "1260191185227796480",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0ZNMiU0AAc7P0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0ZNMiU0AAc7P0.jpg",
+					"url": "https://t.co/yGAuiGjZeu",
+					"display_url": "pic.twitter.com/yGAuiGjZeu",
+					"expanded_url": "https://twitter.com/fromminn/status/1260191219361046536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1647,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260188838971846700,
+		"in_reply_to_status_id_str": "1260188838971846656",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니가 애완견 쿠마에서 따서 만든 콜라보 제품. '제니 - 쿠쿠 01'\nhttps://t.co/tmkvp29aVq https://t.co/yGAuiGjZeu"
+	},
+	{
+		"created_at": "Tue May 12 12:43:27 +0000 2020",
+		"id": 1260188838971846700,
+		"id_str": "1260188838971846656",
+		"full_text": "젠틀몬스터 x 블랙핑크 제니 협업한 제니홈이 뭔가 하고 들어가 봤는데 챗봇을 활용해 마케팅 하는구나. 사이트 들어가면 제니한테 메시지 도착했다고 챗봇이 알려줌.\n\nhttps://t.co/1JccufLHGH\n\n#챗봇 #Chatbot #마케팅 #스타마케팅 #minfav https://t.co/dZqkZB7h9F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "챗봇",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "Chatbot",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "마케팅",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "스타마케팅",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1JccufLHGH",
+					"expanded_url": "https://www.gentlemonster.com/stories/jentle-home/",
+					"display_url": "gentlemonster.com/stories/jentle…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260188736140177400,
+					"id_str": "1260188736140177408",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0W-o-VcAAv74O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0W-o-VcAAv74O.jpg",
+					"url": "https://t.co/dZqkZB7h9F",
+					"display_url": "pic.twitter.com/dZqkZB7h9F",
+					"expanded_url": "https://twitter.com/fromminn/status/1260188838971846656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 903,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260188736140177400,
+					"id_str": "1260188736140177408",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0W-o-VcAAv74O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0W-o-VcAAv74O.jpg",
+					"url": "https://t.co/dZqkZB7h9F",
+					"display_url": "pic.twitter.com/dZqkZB7h9F",
+					"expanded_url": "https://twitter.com/fromminn/status/1260188838971846656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 903,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "젠틀몬스터 x 블랙핑크 제니 협업한 제니홈이 뭔가 하고 들어가 봤는데 챗봇을 활용해 마케팅 하는구나. 사이트 들어가면 제니한테 메시지 도착했다고 챗봇이 알려줌.\n\nhttps://t.co/1JccufLHGH\n\n#챗봇 #Chatbot #마케팅 #스타마케팅 #minfav https://t.co/dZqkZB7h9F"
+	},
+	{
+		"created_at": "Tue May 12 12:41:15 +0000 2020",
+		"id": 1260139313318125600,
+		"id_str": "1260188287206961155",
+		"full_text": "200512 JENTLE HOME #블랙핑크 #제니 #BLACKPINK #JENNIE \n\n#DesignerJennieDay #0512JentleHomeWithJennie https://t.co/ugZBMUUPEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "DesignerJennieDay",
+					"indices": [
+						50,
+						68
+					]
+				},
+				{
+					"text": "0512JentleHomeWithJennie",
+					"indices": [
+						69,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260139260780265500,
+					"id_str": "1260139260780265472",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzp-y5UwAATYl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzp-y5UwAATYl2.jpg",
+					"url": "https://t.co/ugZBMUUPEF",
+					"display_url": "pic.twitter.com/ugZBMUUPEF",
+					"expanded_url": "https://twitter.com/PaintItBlack_JN/status/1260139313318125575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260139260780265500,
+					"id_str": "1260139260780265472",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzp-y5UwAATYl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzp-y5UwAATYl2.jpg",
+					"url": "https://t.co/ugZBMUUPEF",
+					"display_url": "pic.twitter.com/ugZBMUUPEF",
+					"expanded_url": "https://twitter.com/PaintItBlack_JN/status/1260139313318125575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260139245726863400,
+					"id_str": "1260139245726863361",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzp960UEAEYBVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzp960UEAEYBVX.jpg",
+					"url": "https://t.co/ugZBMUUPEF",
+					"display_url": "pic.twitter.com/ugZBMUUPEF",
+					"expanded_url": "https://twitter.com/PaintItBlack_JN/status/1260139313318125575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260139226231791600,
+					"id_str": "1260139226231791616",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzp8yMU4AAyWce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzp8yMU4AAyWce.jpg",
+					"url": "https://t.co/ugZBMUUPEF",
+					"display_url": "pic.twitter.com/ugZBMUUPEF",
+					"expanded_url": "https://twitter.com/PaintItBlack_JN/status/1260139313318125575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260139238021927000,
+					"id_str": "1260139238021926913",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzp9eHUEAECRNt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzp9eHUEAECRNt.jpg",
+					"url": "https://t.co/ugZBMUUPEF",
+					"display_url": "pic.twitter.com/ugZBMUUPEF",
+					"expanded_url": "https://twitter.com/PaintItBlack_JN/status/1260139313318125575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864816088353194000,
+			"id_str": "864816088353193984",
+			"name": "Paint It Black",
+			"screen_name": "PaintItBlack_JN",
+			"location": "hq = 🖤",
+			"description": "#블랙핑크 #제니 #BLACKPINK #JENNIE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141047,
+			"friends_count": 3,
+			"listed_count": 2510,
+			"created_at": "Wed May 17 12:13:17 +0000 2017",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061923617028468736/NyDgCNgK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061923617028468736/NyDgCNgK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864816088353193984/1539887488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6805,
+		"favorite_count": 10610,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "200512 JENTLE HOME #블랙핑크 #제니 #BLACKPINK #JENNIE \n\n#DesignerJennieDay #0512JentleHomeWithJennie https://t.co/ugZBMUUPEF"
+	},
+	{
+		"created_at": "Tue May 12 12:32:29 +0000 2020",
+		"id": 1260186080189444000,
+		"id_str": "1260186080189444097",
+		"full_text": "당신이 그 사람에게 끌리는 이유\nhttps://t.co/jq5Dy5lwh0 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						42,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jq5Dy5lwh0",
+					"expanded_url": "https://youtu.be/TRUgdnZhVYI",
+					"display_url": "youtu.be/TRUgdnZhVYI",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신이 그 사람에게 끌리는 이유\nhttps://t.co/jq5Dy5lwh0 #minfav"
+	},
+	{
 		"created_at": "Tue May 12 11:28:12 +0000 2020",
 		"id": 1260088359243747300,
 		"id_str": "1260169904667234305",
@@ -307,7 +1698,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Tue May 12 11:20:39 +0000 2020",
 		"id": 1260147709136171000,
 		"id_str": "1260168004999901184",
-		"full_text": "#에잇 나오자마자 멜론 리뷰창에 본인등판한 #아이유?!😮 아이유를 놀라게 한 팬들의 저세상 주접부터 다시 보는 레전드 뭐가살쪄‼ 까지!\n아이유의 #본인등판 지금 확인하세요👩‍💻 #IU #LookMeUp @_IUofficial\n\nWatch Now! 👉 https://t.co/xmKLIZ47wn https://t.co/hNYO9YpqOP",
+		"full_text": "#에잇 나오자마자 멜론 리뷰창에 본인등판한 #아이유?!😮 아이유를 놀라게 한 팬들의 저세상 주접부터 다시 보는 레전드 뭐가살쪄‼ 까지!\n아이유의 #본인등판 지금 확인하세요👩💻 #IU #LookMeUp @_IUofficial\n\nWatch Now! 👉 https://t.co/xmKLIZ47wn https://t.co/hNYO9YpqOP",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -532,7 +1923,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#에잇 나오자마자 멜론 리뷰창에 본인등판한 #아이유?!😮 아이유를 놀라게 한 팬들의 저세상 주접부터 다시 보는 레전드 뭐가살쪄‼ 까지!\n아이유의 #본인등판 지금 확인하세요👩‍💻 #IU #LookMeUp @_IUofficial\n\nWatch Now! 👉 https://t.co/xmKLIZ47wn https://t.co/hNYO9YpqOP"
+		"text": "#에잇 나오자마자 멜론 리뷰창에 본인등판한 #아이유?!😮 아이유를 놀라게 한 팬들의 저세상 주접부터 다시 보는 레전드 뭐가살쪄‼ 까지!\n아이유의 #본인등판 지금 확인하세요👩💻 #IU #LookMeUp @_IUofficial\n\nWatch Now! 👉 https://t.co/xmKLIZ47wn https://t.co/hNYO9YpqOP"
 	},
 	{
 		"created_at": "Tue May 12 11:18:28 +0000 2020",
