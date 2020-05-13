@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 14:14:44 +0000 2020",
+		"id": 1260505608605712400,
+		"id_str": "1260574202710687744",
+		"full_text": "“로봇이 배달하고, 순찰하는 세상”…ICT 규제 샌드박스 8건 처리 https://t.co/yP79pLgdUe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yP79pLgdUe",
+					"expanded_url": "http://www.bloter.net/archives/380714",
+					"display_url": "bloter.net/archives/380714",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55376,
+			"friends_count": 9,
+			"listed_count": 2404,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“로봇이 배달하고, 순찰하는 세상”…ICT 규제 샌드박스 8건 처리 https://t.co/yP79pLgdUe"
+	},
+	{
+		"created_at": "Wed May 13 14:12:44 +0000 2020",
+		"id": 1260573695615041500,
+		"id_str": "1260573695615041543",
+		"full_text": "Reading time of terms of service compared to books (infographic)\nhttps://t.co/xN7aqV0Jnl\n#Policy #사용자약관 #이용약관 #정책 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Policy",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "사용자약관",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "이용약관",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "정책",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xN7aqV0Jnl",
+					"expanded_url": "https://ebookfriendly.com/reading-time-of-terms-of-service-compared-to-books-infographic/",
+					"display_url": "ebookfriendly.com/reading-time-o…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reading time of terms of service compared to books (infographic)\nhttps://t.co/xN7aqV0Jnl\n#Policy #사용자약관 #이용약관 #정책 #minfav"
+	},
+	{
+		"created_at": "Wed May 13 14:11:44 +0000 2020",
+		"id": 1260573445244571600,
+		"id_str": "1260573445244571653",
+		"full_text": "뉴스레터의 시대: 뉴스레터를 2년 동안 구독하며 알게 된 것들\nhttps://t.co/Qh2wATO2cH\n나도 뉴스레터 모아보고 있지만 몰랐던 것도 있어서 추가함.\n#뉴스레터 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴스레터",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qh2wATO2cH",
+					"expanded_url": "https://startupnchill.com/b/Ghx",
+					"display_url": "startupnchill.com/b/Ghx",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴스레터의 시대: 뉴스레터를 2년 동안 구독하며 알게 된 것들\nhttps://t.co/Qh2wATO2cH\n나도 뉴스레터 모아보고 있지만 몰랐던 것도 있어서 추가함.\n#뉴스레터 #minfav"
+	},
+	{
+		"created_at": "Wed May 13 14:05:05 +0000 2020",
+		"id": 1260562817578565600,
+		"id_str": "1260571770937057284",
+		"full_text": "#매직스트로베리사운드 #MSBSOUND #매스사\n[PLAYLIST] 민수에 빠진 게 죄는 아니잖아\nhttps://t.co/ctCTIVehBE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MSBSOUND",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						22,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ctCTIVehBE",
+					"expanded_url": "https://youtu.be/gIyrpklxOUc",
+					"display_url": "youtu.be/gIyrpklxOUc",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254890453033312300,
+			"id_str": "1254890453033312256",
+			"name": "포크라노스 봇",
+			"screen_name": "POCLANOS",
+			"location": "",
+			"description": "인디음악 유통사 포크라노스 비공식 봇\n\n현재의 가장 새롭고 신선한 음악들을 소개하는 뮤직 딜리버리 브랜드, 포크라노스\nPoclanos is a music delivery brand that introduces fresh, new music of the current moment.",
+			"url": "https://t.co/WpmlZLoC0J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpmlZLoC0J",
+							"expanded_url": "http://poclanos.com/",
+							"display_url": "poclanos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Mon Apr 27 21:49:55 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254891553669046272/MEzZ8KBM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254891553669046272/MEzZ8KBM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254890453033312256/1588024437",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MSBSOUND #매스사\n[PLAYLIST] 민수에 빠진 게 죄는 아니잖아\nhttps://t.co/ctCTIVehBE"
+	},
+	{
+		"created_at": "Wed May 13 14:04:48 +0000 2020",
+		"id": 1260464714091462700,
+		"id_str": "1260571702175707140",
+		"full_text": "N번방 개설자 '갓갓'의 신상정보가 공개됐다. 문형욱이며 24세다. \n\n현재까지 공개된 텔레그램 성착취 사건 피의자는 '박사방'을 운영한 '박사' 조주빈(24)과 조씨를 도운 박사방 공범 '부따' 강훈(19), '이기야' 이원호(19), '갓갓' 문형욱(24)이다.\nhttps://t.co/0AKaLxmKEb https://t.co/vj98erurKG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0AKaLxmKEb",
+					"expanded_url": "http://naver.me/52gLvxYg",
+					"display_url": "naver.me/52gLvxYg",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260464708253081600,
+					"id_str": "1260464708253081606",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4R-VNXYAYgHkF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4R-VNXYAYgHkF.jpg",
+					"url": "https://t.co/vj98erurKG",
+					"display_url": "pic.twitter.com/vj98erurKG",
+					"expanded_url": "https://twitter.com/wnewskr/status/1260464714091462656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 128,
+							"h": 128,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260464708253081600,
+					"id_str": "1260464708253081606",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4R-VNXYAYgHkF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4R-VNXYAYgHkF.jpg",
+					"url": "https://t.co/vj98erurKG",
+					"display_url": "pic.twitter.com/vj98erurKG",
+					"expanded_url": "https://twitter.com/wnewskr/status/1260464714091462656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 128,
+							"h": 128,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195060,
+			"friends_count": 3549,
+			"listed_count": 290,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1156,
+		"favorite_count": 161,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "N번방 개설자 '갓갓'의 신상정보가 공개됐다. 문형욱이며 24세다. \n\n현재까지 공개된 텔레그램 성착취 사건 피의자는 '박사방'을 운영한 '박사' 조주빈(24)과 조씨를 도운 박사방 공범 '부따' 강훈(19), '이기야' 이원호(19), '갓갓' 문형욱(24)이다.\nhttps://t.co/0AKaLxmKEb https://t.co/vj98erurKG"
+	},
+	{
 		"created_at": "Wed May 13 13:46:23 +0000 2020",
 		"id": 1260567064768581600,
 		"id_str": "1260567064768581637",
