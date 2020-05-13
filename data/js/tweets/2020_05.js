@@ -1,10 +1,5536 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 12:52:13 +0000 2020",
+		"id": 1260551013917847600,
+		"id_str": "1260553433821708288",
+		"full_text": "[📸] 200513 'Carnival' Showcase\n\n새로운 축제가 시작되었습니다❗️\n영원히 반짝일 오늘을 즐겨주세요☺️\n\n축제는 오늘부터 시작입니다💕\n\n@CHUNGHA_MNHent \n\n#BVNDIT #밴디트\n#Carnival #JUNGLE\n#BVNDIT_COMEBACK https://t.co/Q6W4ZT4CCq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BVNDIT",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "밴디트",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "Carnival",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "JUNGLE",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "BVNDIT_COMEBACK",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						88,
+						103
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260550996268183600,
+					"id_str": "1260550996268183552",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EX5gc9HUcAAixCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX5gc9HUcAAixCg.jpg",
+					"url": "https://t.co/Q6W4ZT4CCq",
+					"display_url": "pic.twitter.com/Q6W4ZT4CCq",
+					"expanded_url": "https://twitter.com/BVNDIT_official/status/1260551013917847552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260550996268183600,
+					"id_str": "1260550996268183552",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EX5gc9HUcAAixCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX5gc9HUcAAixCg.jpg",
+					"url": "https://t.co/Q6W4ZT4CCq",
+					"display_url": "pic.twitter.com/Q6W4ZT4CCq",
+					"expanded_url": "https://twitter.com/BVNDIT_official/status/1260551013917847552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260550996268159000,
+					"id_str": "1260550996268158976",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EX5gc9HUEAAN7zb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX5gc9HUEAAN7zb.jpg",
+					"url": "https://t.co/Q6W4ZT4CCq",
+					"display_url": "pic.twitter.com/Q6W4ZT4CCq",
+					"expanded_url": "https://twitter.com/BVNDIT_official/status/1260551013917847552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1124,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260550996276637700,
+					"id_str": "1260550996276637696",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EX5gc9JVcAAuAno.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX5gc9JVcAAuAno.jpg",
+					"url": "https://t.co/Q6W4ZT4CCq",
+					"display_url": "pic.twitter.com/Q6W4ZT4CCq",
+					"expanded_url": "https://twitter.com/BVNDIT_official/status/1260551013917847552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260550996284944400,
+					"id_str": "1260550996284944387",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EX5gc9LUMAMWtQ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX5gc9LUMAMWtQ5.jpg",
+					"url": "https://t.co/Q6W4ZT4CCq",
+					"display_url": "pic.twitter.com/Q6W4ZT4CCq",
+					"expanded_url": "https://twitter.com/BVNDIT_official/status/1260551013917847552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1095272409211387900,
+			"id_str": "1095272409211387905",
+			"name": "BVNDIT",
+			"screen_name": "BVNDIT_official",
+			"location": "",
+			"description": "BVNDIT(밴디트) Official Twitter",
+			"url": "https://t.co/JUWQ4Mu5NR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JUWQ4Mu5NR",
+							"expanded_url": "http://cafe.daum.net/MNH-BVNDIT",
+							"display_url": "cafe.daum.net/MNH-BVNDIT",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37703,
+			"friends_count": 2,
+			"listed_count": 723,
+			"created_at": "Tue Feb 12 10:44:26 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257691603440766979/Xm8wOdDl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257691603440766979/Xm8wOdDl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095272409211387905/1588692021",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 1125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] 200513 'Carnival' Showcase\n\n새로운 축제가 시작되었습니다❗️\n영원히 반짝일 오늘을 즐겨주세요☺️\n\n축제는 오늘부터 시작입니다💕\n\n@CHUNGHA_MNHent \n\n#BVNDIT #밴디트\n#Carnival #JUNGLE\n#BVNDIT_COMEBACK https://t.co/Q6W4ZT4CCq"
+	},
+	{
+		"created_at": "Wed May 13 12:24:58 +0000 2020",
+		"id": 1260546576302268400,
+		"id_str": "1260546576302268416",
+		"full_text": "트위터 로딩 문제 해결 언제쯤 될까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 로딩 문제 해결 언제쯤 될까?"
+	},
+	{
+		"created_at": "Wed May 13 12:22:47 +0000 2020",
+		"id": 1260460931907289000,
+		"id_str": "1260546029587316736",
+		"full_text": "TVXQ! LIVE - Beyond the T\n\n5/24 SUN 3PM (KST/JST)\n5/23 SAT 11PM (PDT)\n5/24 SUN 2AM (EST)\n\n🎟Tickets\nKor) https://t.co/1h9kGuHV3a\nEng) https://t.co/vR7XiWVhwS\nJP) https://t.co/dCyLJqVHAn\n\n#TVXQ_BeyondLIVE #동방신기 #TVXQ! #東方神起 #Beyond_LIVE #Beyond_the_T #NAVER #VLIVE https://t.co/ub0LPuEnMy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TVXQ_BeyondLIVE",
+					"indices": [
+						186,
+						202
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						209,
+						214
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						222,
+						234
+					]
+				},
+				{
+					"text": "Beyond_the_T",
+					"indices": [
+						235,
+						248
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						249,
+						255
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						256,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1h9kGuHV3a",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000166?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/vR7XiWVhwS",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000166?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/dCyLJqVHAn",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000166?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260448990501486600,
+					"id_str": "1260448990501486594",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4DrcBXQAIAai6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4DrcBXQAIAai6.jpg",
+					"url": "https://t.co/ub0LPuEnMy",
+					"display_url": "pic.twitter.com/ub0LPuEnMy",
+					"expanded_url": "https://twitter.com/TVXQ/status/1260460931907289089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1421,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260448990501486600,
+					"id_str": "1260448990501486594",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4DrcBXQAIAai6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4DrcBXQAIAai6.jpg",
+					"url": "https://t.co/ub0LPuEnMy",
+					"display_url": "pic.twitter.com/ub0LPuEnMy",
+					"expanded_url": "https://twitter.com/TVXQ/status/1260460931907289089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1421,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272877,
+			"friends_count": 1,
+			"listed_count": 765,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3079,
+		"favorite_count": 5541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TVXQ! LIVE - Beyond the T\n\n5/24 SUN 3PM (KST/JST)\n5/23 SAT 11PM (PDT)\n5/24 SUN 2AM (EST)\n\n🎟Tickets\nKor) https://t.co/1h9kGuHV3a\nEng) https://t.co/vR7XiWVhwS\nJP) https://t.co/dCyLJqVHAn\n\n#TVXQ_BeyondLIVE #동방신기 #TVXQ! #東方神起 #Beyond_LIVE #Beyond_the_T #NAVER #VLIVE https://t.co/ub0LPuEnMy"
+	},
+	{
+		"created_at": "Wed May 13 12:21:32 +0000 2020",
+		"id": 1260545712086909000,
+		"id_str": "1260545712086908928",
+		"full_text": "젠틀홈은 팝업스토어, 챗봇, 스타마케팅, 콜라보까지 흐름을 잘 아는 것 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "젠틀홈은 팝업스토어, 챗봇, 스타마케팅, 콜라보까지 흐름을 잘 아는 것 같다."
+	},
+	{
+		"created_at": "Wed May 13 12:20:30 +0000 2020",
+		"id": 1260213553274818600,
+		"id_str": "1260545452115550210",
+		"full_text": "[Welcome to JENTLE HOME]\n'JENTLE HOME' pop-up space will be opened to the public on May 13.💕\nThe dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeByJennie https://t.co/sXvfPkFXN1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						197,
+						218
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						219,
+						230
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						231,
+						245
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						246,
+						253
+					]
+				},
+				{
+					"text": "JentleHomeByJennie",
+					"indices": [
+						254,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260213338727788500,
+					"id_str": "1260213338727788547",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0tWswUMAMIpDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0tWswUMAMIpDY.jpg",
+					"url": "https://t.co/sXvfPkFXN1",
+					"display_url": "pic.twitter.com/sXvfPkFXN1",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260213553274818563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260213338727788500,
+					"id_str": "1260213338727788547",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0tWswUMAMIpDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0tWswUMAMIpDY.jpg",
+					"url": "https://t.co/sXvfPkFXN1",
+					"display_url": "pic.twitter.com/sXvfPkFXN1",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260213553274818563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260213338727780400,
+					"id_str": "1260213338727780352",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0tWswUEAAzw4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0tWswUEAAzw4D.jpg",
+					"url": "https://t.co/sXvfPkFXN1",
+					"display_url": "pic.twitter.com/sXvfPkFXN1",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260213553274818563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260213338731982800,
+					"id_str": "1260213338731982848",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0tWsxUMAAPAu-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0tWsxUMAAPAu-.jpg",
+					"url": "https://t.co/sXvfPkFXN1",
+					"display_url": "pic.twitter.com/sXvfPkFXN1",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260213553274818563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260213338727805000,
+					"id_str": "1260213338727804928",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0tWswUcAAi9BT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0tWswUcAAi9BT.jpg",
+					"url": "https://t.co/sXvfPkFXN1",
+					"display_url": "pic.twitter.com/sXvfPkFXN1",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260213553274818563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6337,
+		"favorite_count": 11849,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Welcome to JENTLE HOME]\n'JENTLE HOME' pop-up space will be opened to the public on May 13.💕\nThe dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeByJennie https://t.co/sXvfPkFXN1"
+	},
+	{
+		"created_at": "Wed May 13 12:20:26 +0000 2020",
+		"id": 1260161699732009000,
+		"id_str": "1260545435472506881",
+		"full_text": "[Welcome to JENTLE HOME]\n'JENTLE HOME' pop-up space will be opened to the public tomorrow.💕\nThe dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/TkGXTIcQFR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						196,
+						217
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						218,
+						229
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						230,
+						244
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						245,
+						252
+					]
+				},
+				{
+					"text": "JentleHomeIsComing",
+					"indices": [
+						253,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260161691725164500,
+					"id_str": "1260161691725164546",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YcrVcAIwxOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YcrVcAIwxOX.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260161691725164500,
+					"id_str": "1260161691725164546",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YcrVcAIwxOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YcrVcAIwxOX.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260161691733516300,
+					"id_str": "1260161691733516288",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YctU4AASFvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YctU4AASFvC.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260161691733508000,
+					"id_str": "1260161691733508096",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YctUwAA800I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YctUwAA800I.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260161691741941800,
+					"id_str": "1260161691741941761",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXz-YcvVcAEzjLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXz-YcvVcAEzjLz.jpg",
+					"url": "https://t.co/TkGXTIcQFR",
+					"display_url": "pic.twitter.com/TkGXTIcQFR",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260161699732008960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2458,
+		"favorite_count": 5556,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Welcome to JENTLE HOME]\n'JENTLE HOME' pop-up space will be opened to the public tomorrow.💕\nThe dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/TkGXTIcQFR"
+	},
+	{
+		"created_at": "Wed May 13 12:20:22 +0000 2020",
+		"id": 1260126293535756300,
+		"id_str": "1260545418863054848",
+		"full_text": "[Welcome to JENTLE HOME]\n제니와 젠틀몬스터가 재현한 판타지의 세계, ‘JENTLE HOME’의 내부를 공개합니다. 5월 13일에 오픈하는 ‘JENTLE HOME’에서 제니의 판타지를 직접 만나보세요.\n⠀\n장소: 서울특별시 강남구 압구정로 10길 22\n운영 기간: 2020년 5월 13일 - 9월 12일\n운영 시간: 12:00 - 21:00 https://t.co/gQwXnuvmR9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260126231548158000,
+					"id_str": "1260126231548157953",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260126231548157953/pu/img/QZYAc9FiLhW6j6Oc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260126231548157953/pu/img/QZYAc9FiLhW6j6Oc.jpg",
+					"url": "https://t.co/gQwXnuvmR9",
+					"display_url": "pic.twitter.com/gQwXnuvmR9",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260126293535756289/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260126231548158000,
+					"id_str": "1260126231548157953",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260126231548157953/pu/img/QZYAc9FiLhW6j6Oc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260126231548157953/pu/img/QZYAc9FiLhW6j6Oc.jpg",
+					"url": "https://t.co/gQwXnuvmR9",
+					"display_url": "pic.twitter.com/gQwXnuvmR9",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260126293535756289/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 20103,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260126231548157953/pu/vid/360x450/S41lD6e9mrViObw9.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260126231548157953/pu/vid/720x900/6BfKOXRz5lH9jS9M.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260126231548157953/pu/pl/AEmnkd5u6jv0qlpn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260126231548157953/pu/vid/320x400/Vq1UxM6LfCmGdCyd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 883,
+		"favorite_count": 1937,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Welcome to JENTLE HOME]\n제니와 젠틀몬스터가 재현한 판타지의 세계, ‘JENTLE HOME’의 내부를 공개합니다. 5월 13일에 오픈하는 ‘JENTLE HOME’에서 제니의 판타지를 직접 만나보세요.\n⠀\n장소: 서울특별시 강남구 압구정로 10길 22\n운영 기간: 2020년 5월 13일 - 9월 12일\n운영 시간: 12:00 - 21:00 https://t.co/gQwXnuvmR9"
+	},
+	{
+		"created_at": "Wed May 13 12:20:19 +0000 2020",
+		"id": 1260125902400192500,
+		"id_str": "1260545404971540481",
+		"full_text": "[Welcome to JENTLE HOME]\n5월 13일 젠틀몬스터와 블랙핑크 제니가 함께 꿈 꾼 판타지 세계를 구현한 ‘JENTLE HOME’ 콜라보레이션 팝업 공간을 오픈합니다.\n⠀\n장소: 서울특별시 강남구 압구정로 10길 22\n운영 기간: 2020년 5월 13일 - 9월 12일 https://t.co/YfFO6tDrs2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260125539676741600,
+					"id_str": "1260125539676741634",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260125539676741634/pu/img/KQM3AHrRaG_meR6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260125539676741634/pu/img/KQM3AHrRaG_meR6E.jpg",
+					"url": "https://t.co/YfFO6tDrs2",
+					"display_url": "pic.twitter.com/YfFO6tDrs2",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260125902400192515/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260125539676741600,
+					"id_str": "1260125539676741634",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260125539676741634/pu/img/KQM3AHrRaG_meR6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260125539676741634/pu/img/KQM3AHrRaG_meR6E.jpg",
+					"url": "https://t.co/YfFO6tDrs2",
+					"display_url": "pic.twitter.com/YfFO6tDrs2",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260125902400192515/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 19042,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260125539676741634/pu/vid/360x450/V2RBsepjjL_5YOOy.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260125539676741634/pu/vid/720x900/nMLsJiWr5O4O7f8s.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260125539676741634/pu/pl/-ZpAVJ68kxobFZ8y.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260125539676741634/pu/vid/320x400/p8pZ5vQpQXdwEESs.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1041,
+		"favorite_count": 2473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Welcome to JENTLE HOME]\n5월 13일 젠틀몬스터와 블랙핑크 제니가 함께 꿈 꾼 판타지 세계를 구현한 ‘JENTLE HOME’ 콜라보레이션 팝업 공간을 오픈합니다.\n⠀\n장소: 서울특별시 강남구 압구정로 10길 22\n운영 기간: 2020년 5월 13일 - 9월 12일 https://t.co/YfFO6tDrs2"
+	},
+	{
+		"created_at": "Wed May 13 12:20:14 +0000 2020",
+		"id": 1260124398004179000,
+		"id_str": "1260545384943808512",
+		"full_text": "[Welcome to JENTLE HOME]\nOn May 13, 'JENTLE HOME' pop-up space will be opened to the public.\nFind out more information now on https://t.co/B46HHpv3j4 ⠀\n\nAddress: 22 Apgujeong-ro 10-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea\nDate: May 13th 2020 – September 12th 2020 https://t.co/BqJnXg8TAS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B46HHpv3j4",
+					"expanded_url": "http://gentlemonster.com",
+					"display_url": "gentlemonster.com",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260124342416863200,
+					"id_str": "1260124342416863232",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzcabqUcAAo5Re.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzcabqUcAAo5Re.jpg",
+					"url": "https://t.co/BqJnXg8TAS",
+					"display_url": "pic.twitter.com/BqJnXg8TAS",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260124398004178945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260124342416863200,
+					"id_str": "1260124342416863232",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzcabqUcAAo5Re.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzcabqUcAAo5Re.jpg",
+					"url": "https://t.co/BqJnXg8TAS",
+					"display_url": "pic.twitter.com/BqJnXg8TAS",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260124398004178945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260124342412734500,
+					"id_str": "1260124342412734465",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzcabpVcAE7KZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzcabpVcAE7KZb.jpg",
+					"url": "https://t.co/BqJnXg8TAS",
+					"display_url": "pic.twitter.com/BqJnXg8TAS",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260124398004178945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260124342416863200,
+					"id_str": "1260124342416863233",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzcabqUcAE7ev1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzcabqUcAE7ev1.jpg",
+					"url": "https://t.co/BqJnXg8TAS",
+					"display_url": "pic.twitter.com/BqJnXg8TAS",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260124398004178945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260124342416887800,
+					"id_str": "1260124342416887808",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzcabqU0AAeWb6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzcabqU0AAeWb6.jpg",
+					"url": "https://t.co/BqJnXg8TAS",
+					"display_url": "pic.twitter.com/BqJnXg8TAS",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260124398004178945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 844,
+		"favorite_count": 1917,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Welcome to JENTLE HOME]\nOn May 13, 'JENTLE HOME' pop-up space will be opened to the public.\nFind out more information now on https://t.co/B46HHpv3j4 ⠀\n\nAddress: 22 Apgujeong-ro 10-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea\nDate: May 13th 2020 – September 12th 2020 https://t.co/BqJnXg8TAS"
+	},
+	{
+		"created_at": "Wed May 13 12:20:10 +0000 2020",
+		"id": 1260123664843804700,
+		"id_str": "1260545369647116289",
+		"full_text": "[Welcome to JENTLE HOME]\nVisit ‘JENTLE HOME' on May 13, where the magnificent world unfolds, created by Gentle Monster and BlackPink ‘Jennie’.\n⠀\nAddress: 22 Apgujeong-ro 10-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea\nDate: May 13th 2020 – September 12th 2020 https://t.co/ZYAnvVqo7F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260123589019201500,
+					"id_str": "1260123589019201536",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzbulCUcAA1LD7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzbulCUcAA1LD7.jpg",
+					"url": "https://t.co/ZYAnvVqo7F",
+					"display_url": "pic.twitter.com/ZYAnvVqo7F",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260123664843804678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260123589019201500,
+					"id_str": "1260123589019201536",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzbulCUcAA1LD7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzbulCUcAA1LD7.jpg",
+					"url": "https://t.co/ZYAnvVqo7F",
+					"display_url": "pic.twitter.com/ZYAnvVqo7F",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260123664843804678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260123588788514800,
+					"id_str": "1260123588788514816",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzbukLUcAAp24M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzbukLUcAAp24M.jpg",
+					"url": "https://t.co/ZYAnvVqo7F",
+					"display_url": "pic.twitter.com/ZYAnvVqo7F",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260123664843804678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260123588792705000,
+					"id_str": "1260123588792705025",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzbukMUYAEsII_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzbukMUYAEsII_.jpg",
+					"url": "https://t.co/ZYAnvVqo7F",
+					"display_url": "pic.twitter.com/ZYAnvVqo7F",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260123664843804678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260123588784341000,
+					"id_str": "1260123588784340998",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzbukKUwAYO4rD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzbukKUwAYO4rD.jpg",
+					"url": "https://t.co/ZYAnvVqo7F",
+					"display_url": "pic.twitter.com/ZYAnvVqo7F",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260123664843804678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1411,
+		"favorite_count": 3400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Welcome to JENTLE HOME]\nVisit ‘JENTLE HOME' on May 13, where the magnificent world unfolds, created by Gentle Monster and BlackPink ‘Jennie’.\n⠀\nAddress: 22 Apgujeong-ro 10-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea\nDate: May 13th 2020 – September 12th 2020 https://t.co/ZYAnvVqo7F"
+	},
+	{
+		"created_at": "Wed May 13 12:20:07 +0000 2020",
+		"id": 1260092704437923800,
+		"id_str": "1260545356661534720",
+		"full_text": "[Welcome to JENTLE HOME]\nOn May 13, 'JENTLE HOME' pop-up space will be opened to the public. The dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n📍Address: 22 Apgujeong-ro 10-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea https://t.co/JqUDAvqaNA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260092404394123300,
+					"id_str": "1260092404394123264",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy_XZQUYAAhdaS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy_XZQUYAAhdaS.jpg",
+					"url": "https://t.co/JqUDAvqaNA",
+					"display_url": "pic.twitter.com/JqUDAvqaNA",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260092704437923840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 864,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260092404394123300,
+					"id_str": "1260092404394123264",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy_XZQUYAAhdaS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy_XZQUYAAhdaS.jpg",
+					"url": "https://t.co/JqUDAvqaNA",
+					"display_url": "pic.twitter.com/JqUDAvqaNA",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1260092704437923840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 864,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2394,
+		"favorite_count": 5160,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Welcome to JENTLE HOME]\nOn May 13, 'JENTLE HOME' pop-up space will be opened to the public. The dreamy space embodies the fantasy world Gentle Monster and BlackPink ‘Jennie’ dreamed of together.\n📍Address: 22 Apgujeong-ro 10-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea https://t.co/JqUDAvqaNA"
+	},
+	{
+		"created_at": "Wed May 13 12:20:01 +0000 2020",
+		"id": 1250707409665790000,
+		"id_str": "1260545332191981568",
+		"full_text": "[JENTLE HOME]\n4월 21일 12:00 PM, 젠틀몬스터와 제니가 함께한 'Jentle Home' 컬렉션이 젠틀몬스터 매장과 https://t.co/B46HHpdrUu에서 전세계 동시 출시됩니다.\n⠀\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/1IT0pzZAvS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						117,
+						138
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "JentleHomeIsComing",
+					"indices": [
+						174,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B46HHpdrUu",
+					"expanded_url": "http://gentlemonster.com",
+					"display_url": "gentlemonster.com",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250707391949095000,
+					"id_str": "1250707391949094912",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EVtnvxcUwAAljDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVtnvxcUwAAljDD.jpg",
+					"url": "https://t.co/1IT0pzZAvS",
+					"display_url": "pic.twitter.com/1IT0pzZAvS",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1250707409665789953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1327,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250707391949095000,
+					"id_str": "1250707391949094912",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EVtnvxcUwAAljDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVtnvxcUwAAljDD.jpg",
+					"url": "https://t.co/1IT0pzZAvS",
+					"display_url": "pic.twitter.com/1IT0pzZAvS",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1250707409665789953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1327,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1957,
+		"favorite_count": 4099,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[JENTLE HOME]\n4월 21일 12:00 PM, 젠틀몬스터와 제니가 함께한 'Jentle Home' 컬렉션이 젠틀몬스터 매장과 https://t.co/B46HHpdrUu에서 전세계 동시 출시됩니다.\n⠀\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/1IT0pzZAvS"
+	},
+	{
+		"created_at": "Wed May 13 12:19:59 +0000 2020",
+		"id": 1250695106992074800,
+		"id_str": "1260545323186843650",
+		"full_text": "[JENTLE HOME]\nOn April 21, 12:00 PM (GMT+9)\n'Jentle Home' collection with @jennierubyjane of BLACKPINK will be released worldwide at Gentle Monster stores and https://t.co/B46HHpdrUu.\n⠀\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/97dJ2qyeDa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						186,
+						207
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						220,
+						234
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						235,
+						242
+					]
+				},
+				{
+					"text": "JentleHomeIsComing",
+					"indices": [
+						243,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennierubyjane",
+					"name": "Jennie.",
+					"id": 5086311,
+					"id_str": "5086311",
+					"indices": [
+						74,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B46HHpdrUu",
+					"expanded_url": "http://gentlemonster.com",
+					"display_url": "gentlemonster.com",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250695044320747500,
+					"id_str": "1250695044320747520",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EVtchC8UYAA91-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVtchC8UYAA91-w.jpg",
+					"url": "https://t.co/97dJ2qyeDa",
+					"display_url": "pic.twitter.com/97dJ2qyeDa",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1250695106992074752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250695044320747500,
+					"id_str": "1250695044320747520",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EVtchC8UYAA91-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVtchC8UYAA91-w.jpg",
+					"url": "https://t.co/97dJ2qyeDa",
+					"display_url": "pic.twitter.com/97dJ2qyeDa",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1250695106992074752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1984,
+		"favorite_count": 4197,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[JENTLE HOME]\nOn April 21, 12:00 PM (GMT+9)\n'Jentle Home' collection with @jennierubyjane of BLACKPINK will be released worldwide at Gentle Monster stores and https://t.co/B46HHpdrUu.\n⠀\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/97dJ2qyeDa"
+	},
+	{
+		"created_at": "Wed May 13 12:19:57 +0000 2020",
+		"id": 1250681352187293700,
+		"id_str": "1260545313825120257",
+		"full_text": "[JENTLE HOME]\n4월 21일 12:00 PM, 젠틀몬스터와 제니가 함께한 'Jentle Home' 컬렉션이 젠틀몬스터 매장과 https://t.co/B46HHpdrUu에서 전세계 동시 출시됩니다.\n⠀\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/J7D8OfqB8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						117,
+						138
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "JentleHomeIsComing",
+					"indices": [
+						174,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B46HHpdrUu",
+					"expanded_url": "http://gentlemonster.com",
+					"display_url": "gentlemonster.com",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250681108527607800,
+					"id_str": "1250681108527607808",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EVtP14EUcAAPNLg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVtP14EUcAAPNLg.jpg",
+					"url": "https://t.co/J7D8OfqB8t",
+					"display_url": "pic.twitter.com/J7D8OfqB8t",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1250681352187293696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 699,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 699,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250681108527607800,
+					"id_str": "1250681108527607808",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EVtP14EUcAAPNLg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVtP14EUcAAPNLg.jpg",
+					"url": "https://t.co/J7D8OfqB8t",
+					"display_url": "pic.twitter.com/J7D8OfqB8t",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1250681352187293696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 699,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 699,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1644,
+		"favorite_count": 3552,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[JENTLE HOME]\n4월 21일 12:00 PM, 젠틀몬스터와 제니가 함께한 'Jentle Home' 컬렉션이 젠틀몬스터 매장과 https://t.co/B46HHpdrUu에서 전세계 동시 출시됩니다.\n⠀\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/J7D8OfqB8t"
+	},
+	{
+		"created_at": "Wed May 13 12:19:54 +0000 2020",
+		"id": 1250000846789714000,
+		"id_str": "1260545303892996096",
+		"full_text": "[JENTLE HOME]\nGentle Monster unveils 'Jentle Home' collaborated with Jennie of BlackPink. \nOn April 21, the full collection will be released worldwide on https://t.co/B46HHpv3j4\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/8bPyZDcn5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						178,
+						199
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						212,
+						226
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						227,
+						234
+					]
+				},
+				{
+					"text": "JentleHomeIsComing",
+					"indices": [
+						235,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B46HHpv3j4",
+					"expanded_url": "http://gentlemonster.com",
+					"display_url": "gentlemonster.com",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249984589390479400,
+					"id_str": "1249984589390479360",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjWXIFVAAAxWR6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjWXIFVAAAxWR6.jpg",
+					"url": "https://t.co/8bPyZDcn5R",
+					"display_url": "pic.twitter.com/8bPyZDcn5R",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1250000846789713922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1648,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249984589390479400,
+					"id_str": "1249984589390479360",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjWXIFVAAAxWR6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjWXIFVAAAxWR6.jpg",
+					"url": "https://t.co/8bPyZDcn5R",
+					"display_url": "pic.twitter.com/8bPyZDcn5R",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1250000846789713922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1648,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2694,
+		"favorite_count": 5716,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[JENTLE HOME]\nGentle Monster unveils 'Jentle Home' collaborated with Jennie of BlackPink. \nOn April 21, the full collection will be released worldwide on https://t.co/B46HHpv3j4\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/8bPyZDcn5R"
+	},
+	{
+		"created_at": "Wed May 13 12:19:52 +0000 2020",
+		"id": 1249981832415694800,
+		"id_str": "1260545293696724993",
+		"full_text": "[JENTLE HOME]\n젠틀몬스터와 블랙핑크의 제니가 함께한 컬렉션 'JENTLE HOME'\n4월 21일, 전세계 동시 출시될 'JENTLE HOME' 제품과 캠페인에 대한 제니의 이야기를 지금 https://t.co/B46HHpdrUu에서 확인해보세요.\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/BRpXVRIsfd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						144,
+						165
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						193,
+						200
+					]
+				},
+				{
+					"text": "JentleHomeIsComing",
+					"indices": [
+						201,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B46HHpdrUu",
+					"expanded_url": "http://gentlemonster.com",
+					"display_url": "gentlemonster.com",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249981005307363300,
+					"id_str": "1249981005307363328",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjTGgVUwAAsQQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjTGgVUwAAsQQI.jpg",
+					"url": "https://t.co/BRpXVRIsfd",
+					"display_url": "pic.twitter.com/BRpXVRIsfd",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1249981832415694849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1646,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249981005307363300,
+					"id_str": "1249981005307363328",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjTGgVUwAAsQQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjTGgVUwAAsQQI.jpg",
+					"url": "https://t.co/BRpXVRIsfd",
+					"display_url": "pic.twitter.com/BRpXVRIsfd",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1249981832415694849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1646,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2373,
+		"favorite_count": 4620,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[JENTLE HOME]\n젠틀몬스터와 블랙핑크의 제니가 함께한 컬렉션 'JENTLE HOME'\n4월 21일, 전세계 동시 출시될 'JENTLE HOME' 제품과 캠페인에 대한 제니의 이야기를 지금 https://t.co/B46HHpdrUu에서 확인해보세요.\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/BRpXVRIsfd"
+	},
+	{
+		"created_at": "Wed May 13 12:19:48 +0000 2020",
+		"id": 1249635344410005500,
+		"id_str": "1260545278794399744",
+		"full_text": "[JENTLE HOME]\nGentle Monster unveils 'Jentle Home' collaborated with Jennie of BlackPink. \nOn April 21, the full collection will be released worldwide on https://t.co/B46HHpdrUu\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/uNjjxgOUlz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GentleMonsterxJennie",
+					"indices": [
+						178,
+						199
+					]
+				},
+				{
+					"text": "JentleHome",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"text": "GentleMonster",
+					"indices": [
+						212,
+						226
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						227,
+						234
+					]
+				},
+				{
+					"text": "JentleHomeIsComing",
+					"indices": [
+						235,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B46HHpdrUu",
+					"expanded_url": "http://gentlemonster.com",
+					"display_url": "gentlemonster.com",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249634839386411000,
+					"id_str": "1249634839386411008",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EVeYQ_yUUAAyn42.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVeYQ_yUUAAyn42.jpg",
+					"url": "https://t.co/uNjjxgOUlz",
+					"display_url": "pic.twitter.com/uNjjxgOUlz",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1249635344410005505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1327,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249634839386411000,
+					"id_str": "1249634839386411008",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EVeYQ_yUUAAyn42.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVeYQ_yUUAAyn42.jpg",
+					"url": "https://t.co/uNjjxgOUlz",
+					"display_url": "pic.twitter.com/uNjjxgOUlz",
+					"expanded_url": "https://twitter.com/_GentleMonster_/status/1249635344410005505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1327,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040431687698534400,
+			"id_str": "1040431687698534400",
+			"name": "GENTLE MONSTER",
+			"screen_name": "_GentleMonster_",
+			"location": "",
+			"description": "GENTLE MONSTER official",
+			"url": "https://t.co/7pbmeH1VJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pbmeH1VJ6",
+							"expanded_url": "http://gentlemonster.com",
+							"display_url": "gentlemonster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Sep 14 02:46:59 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054559776460292096/H4SQyGcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040431687698534400/1586771744",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6111,
+		"favorite_count": 10614,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[JENTLE HOME]\nGentle Monster unveils 'Jentle Home' collaborated with Jennie of BlackPink. \nOn April 21, the full collection will be released worldwide on https://t.co/B46HHpdrUu\n#GentleMonsterxJennie #JentleHome #GentleMonster #Jennie #JentleHomeIsComing https://t.co/uNjjxgOUlz"
+	},
+	{
+		"created_at": "Wed May 13 12:17:47 +0000 2020",
+		"id": 1260455297929314300,
+		"id_str": "1260544767424790528",
+		"full_text": "🌏세계와 호응하는 케이팝의 변화\n\n불과 수년 전 연례행사처럼 ‘케이팝 위기론’이 들려왔던 것은 상상도 못할 만큼 지금의 케이팝 시장은 세계를 품는 것을 목표로 더욱 성장해나가고 있습니다. \n\n세계 속의 K-Pop에 대한 기사를 읽어보세요!🇰🇷\nhttps://t.co/jDImCLeRJP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jDImCLeRJP",
+					"expanded_url": "http://billboard.co.kr/main/news/view/417",
+					"display_url": "billboard.co.kr/main/news/view…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31427,
+			"friends_count": 20,
+			"listed_count": 61,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌏세계와 호응하는 케이팝의 변화\n\n불과 수년 전 연례행사처럼 ‘케이팝 위기론’이 들려왔던 것은 상상도 못할 만큼 지금의 케이팝 시장은 세계를 품는 것을 목표로 더욱 성장해나가고 있습니다. \n\n세계 속의 K-Pop에 대한 기사를 읽어보세요!🇰🇷\nhttps://t.co/jDImCLeRJP"
+	},
+	{
+		"created_at": "Wed May 13 12:17:38 +0000 2020",
+		"id": 1260540294296146000,
+		"id_str": "1260544730686828544",
+		"full_text": "TVXQ! LIVE - Beyond the T\n\n5/24 SUN 3PM (KST/JST)\n5/23 SAT 11PM (PDT)\n5/24 SUN 2AM (EST)\n\n🎟Tickets\nKor) https://t.co/1h9kGuHV3a\nEng) https://t.co/vR7XiWVhwS\nJP) https://t.co/dCyLJqVHAn\n\n#TVXQ_BeyondLIVE #동방신기 #TVXQ! #東方神起 #Beyond_LIVE #Beyond_the_T https://t.co/DDfqHaA8ll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TVXQ_BeyondLIVE",
+					"indices": [
+						186,
+						202
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						209,
+						214
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						222,
+						234
+					]
+				},
+				{
+					"text": "Beyond_the_T",
+					"indices": [
+						235,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1h9kGuHV3a",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000166?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/vR7XiWVhwS",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000166?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/dCyLJqVHAn",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000166?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260523492501414000,
+					"id_str": "1260523492501413889",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EX5InwaVcAELc6u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX5InwaVcAELc6u.jpg",
+					"url": "https://t.co/DDfqHaA8ll",
+					"display_url": "pic.twitter.com/DDfqHaA8ll",
+					"expanded_url": "https://twitter.com/TVXQ/status/1260540294296145921/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260523492501414000,
+					"id_str": "1260523492501413889",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EX5InwaVcAELc6u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX5InwaVcAELc6u.jpg",
+					"url": "https://t.co/DDfqHaA8ll",
+					"display_url": "pic.twitter.com/DDfqHaA8ll",
+					"expanded_url": "https://twitter.com/TVXQ/status/1260540294296145921/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 8609,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260523492501413889/vid/320x568/CJz2_63T8BneMDL9.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1260523492501413889/pl/BHU8iq_YqhK9_Yf_.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260523492501413889/vid/720x1280/aopWtEw_0e3mP4B6.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260523492501413889/vid/360x640/2vCIzLsEoZxhto0e.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272877,
+			"friends_count": 1,
+			"listed_count": 765,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2234,
+		"favorite_count": 3944,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TVXQ! LIVE - Beyond the T\n\n5/24 SUN 3PM (KST/JST)\n5/23 SAT 11PM (PDT)\n5/24 SUN 2AM (EST)\n\n🎟Tickets\nKor) https://t.co/1h9kGuHV3a\nEng) https://t.co/vR7XiWVhwS\nJP) https://t.co/dCyLJqVHAn\n\n#TVXQ_BeyondLIVE #동방신기 #TVXQ! #東方神起 #Beyond_LIVE #Beyond_the_T https://t.co/DDfqHaA8ll"
+	},
+	{
+		"created_at": "Wed May 13 12:16:12 +0000 2020",
+		"id": 1260495000669913000,
+		"id_str": "1260544371495059456",
+		"full_text": "[Release]\n\n찬란한 사춘기의 잔상,\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) Now Released\n\n[꽃 본 나비] 사랑하는 사람을 만나서 기뻐하는 모습을 비유적으로 이르는 말.\n\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/PAXt6UJ9xs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						168,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260494436963942400,
+					"id_str": "1260494436963942401",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4tAxSXgAERf3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4tAxSXgAERf3Z.jpg",
+					"url": "https://t.co/PAXt6UJ9xs",
+					"display_url": "pic.twitter.com/PAXt6UJ9xs",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260495000669913088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260494436963942400,
+					"id_str": "1260494436963942401",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4tAxSXgAERf3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4tAxSXgAERf3Z.jpg",
+					"url": "https://t.co/PAXt6UJ9xs",
+					"display_url": "pic.twitter.com/PAXt6UJ9xs",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260495000669913088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29809,
+			"friends_count": 2,
+			"listed_count": 172,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1589361955",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 1303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\n찬란한 사춘기의 잔상,\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) Now Released\n\n[꽃 본 나비] 사랑하는 사람을 만나서 기뻐하는 모습을 비유적으로 이르는 말.\n\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/PAXt6UJ9xs"
+	},
+	{
+		"created_at": "Wed May 13 12:15:48 +0000 2020",
+		"id": 1260495451222085600,
+		"id_str": "1260544270039044096",
+		"full_text": "[MV]\n⠀\n볼빨간사춘기 - 품\n2020.05.13 (WED) Now Released\n⠀\n📽  https://t.co/M2hgXGAxxg\n⠀\n#볼빨간사춘기 #품 #사춘기집2 #꽃본나비\n#BOL4 #Hug #ShofarMusic #쇼파르뮤직 https://t.co/C9ciZvd4w4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "품",
+					"indices": [
+						87,
+						89
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "Hug",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M2hgXGAxxg",
+					"expanded_url": "https://youtu.be/Bi6KH-P2Irc",
+					"display_url": "youtu.be/Bi6KH-P2Irc",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260495436877619200,
+					"id_str": "1260495436877619200",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4t6-QXYAAlFMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4t6-QXYAAlFMc.jpg",
+					"url": "https://t.co/C9ciZvd4w4",
+					"display_url": "pic.twitter.com/C9ciZvd4w4",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260495451222085632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260495436877619200,
+					"id_str": "1260495436877619200",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4t6-QXYAAlFMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4t6-QXYAAlFMc.jpg",
+					"url": "https://t.co/C9ciZvd4w4",
+					"display_url": "pic.twitter.com/C9ciZvd4w4",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260495451222085632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29809,
+			"friends_count": 2,
+			"listed_count": 172,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1589361955",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1099,
+		"favorite_count": 2044,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV]\n⠀\n볼빨간사춘기 - 품\n2020.05.13 (WED) Now Released\n⠀\n📽  https://t.co/M2hgXGAxxg\n⠀\n#볼빨간사춘기 #품 #사춘기집2 #꽃본나비\n#BOL4 #Hug #ShofarMusic #쇼파르뮤직 https://t.co/C9ciZvd4w4"
+	},
+	{
+		"created_at": "Wed May 13 12:15:21 +0000 2020",
+		"id": 1260475958949228500,
+		"id_str": "1260544155886825473",
+		"full_text": "#안전할권리\n#디지털성범죄근절 \n#여성가족부 의 안전할 권리 캠페인에 동참합니다. \n디지털 성범죄와 디지털 폭력은 \n당연히 사라져야합니다. \n국민 한 사람 한 사람이 \n소외되지 않고  안전할 권리를 \n보장받을 수 있기를 바랍니다. https://t.co/zcleetR9ak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안전할권리",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "디지털성범죄근절",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "여성가족부",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260475946483794000,
+					"id_str": "1260475946483793920",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4cMe4XQAAxWql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4cMe4XQAAxWql.jpg",
+					"url": "https://t.co/zcleetR9ak",
+					"display_url": "pic.twitter.com/zcleetR9ak",
+					"expanded_url": "https://twitter.com/love_yuna/status/1260475958949228544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260475946483794000,
+					"id_str": "1260475946483793920",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4cMe4XQAAxWql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4cMe4XQAAxWql.jpg",
+					"url": "https://t.co/zcleetR9ak",
+					"display_url": "pic.twitter.com/zcleetR9ak",
+					"expanded_url": "https://twitter.com/love_yuna/status/1260475958949228544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274418,
+			"friends_count": 515,
+			"listed_count": 2927,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1576230082",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3340,
+		"favorite_count": 1943,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#안전할권리\n#디지털성범죄근절 \n#여성가족부 의 안전할 권리 캠페인에 동참합니다. \n디지털 성범죄와 디지털 폭력은 \n당연히 사라져야합니다. \n국민 한 사람 한 사람이 \n소외되지 않고  안전할 권리를 \n보장받을 수 있기를 바랍니다. https://t.co/zcleetR9ak"
+	},
+	{
+		"created_at": "Wed May 13 12:13:04 +0000 2020",
+		"id": 1260510164731392000,
+		"id_str": "1260543580893876226",
+		"full_text": "#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/lSqs9Q4D46",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						36,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260508646464774100,
+					"id_str": "1260508646464774146",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4573zXYAI3DMO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4573zXYAI3DMO.jpg",
+					"url": "https://t.co/lSqs9Q4D46",
+					"display_url": "pic.twitter.com/lSqs9Q4D46",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260510164731392002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260508646464774100,
+					"id_str": "1260508646464774146",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4573zXYAI3DMO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4573zXYAI3DMO.jpg",
+					"url": "https://t.co/lSqs9Q4D46",
+					"display_url": "pic.twitter.com/lSqs9Q4D46",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260510164731392002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260508646653509600,
+					"id_str": "1260508646653509633",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4574gXQAEXyul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4574gXQAEXyul.jpg",
+					"url": "https://t.co/lSqs9Q4D46",
+					"display_url": "pic.twitter.com/lSqs9Q4D46",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260510164731392002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1010,
+							"h": 1796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260508646657667000,
+					"id_str": "1260508646657667074",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4574hWsAINg0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4574hWsAINg0f.jpg",
+					"url": "https://t.co/lSqs9Q4D46",
+					"display_url": "pic.twitter.com/lSqs9Q4D46",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260510164731392002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260510161896009700,
+		"in_reply_to_status_id_str": "1260510161896009728",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560413,
+			"friends_count": 4,
+			"listed_count": 5139,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2981,
+		"favorite_count": 5075,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/lSqs9Q4D46"
+	},
+	{
+		"created_at": "Wed May 13 12:13:01 +0000 2020",
+		"id": 1260510161896009700,
+		"id_str": "1260543569808338944",
+		"full_text": "#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/QcozIfxlzz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						36,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260508511911456800,
+					"id_str": "1260508511911456768",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EX450CjWsAAHoyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX450CjWsAAHoyn.jpg",
+					"url": "https://t.co/QcozIfxlzz",
+					"display_url": "pic.twitter.com/QcozIfxlzz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260510161896009728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260508511911456800,
+					"id_str": "1260508511911456768",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EX450CjWsAAHoyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX450CjWsAAHoyn.jpg",
+					"url": "https://t.co/QcozIfxlzz",
+					"display_url": "pic.twitter.com/QcozIfxlzz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260510161896009728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260508511915724800,
+					"id_str": "1260508511915724800",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EX450CkX0AAT0rf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX450CkX0AAT0rf.jpg",
+					"url": "https://t.co/QcozIfxlzz",
+					"display_url": "pic.twitter.com/QcozIfxlzz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260510161896009728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260508511919919000,
+					"id_str": "1260508511919919109",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EX450ClX0AU08Yw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX450ClX0AU08Yw.jpg",
+					"url": "https://t.co/QcozIfxlzz",
+					"display_url": "pic.twitter.com/QcozIfxlzz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260510161896009728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 969,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260510157890449400,
+		"in_reply_to_status_id_str": "1260510157890449410",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560413,
+			"friends_count": 4,
+			"listed_count": 5139,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3043,
+		"favorite_count": 5145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/QcozIfxlzz"
+	},
+	{
 		"created_at": "Wed May 13 10:52:13 +0000 2020",
 		"id": 1260517477911421000,
 		"id_str": "1260523235357208577",
-		"full_text": "❝코드포코리아 첫 번째 해커톤 #안녕하세요❞\n　　\n📅 2020/05/23(토) 10:00~17:00 KST\n👩‍💻 온라인으로 연결된 곳이라면 어디서나\n👉 참여 신청 https://t.co/3nsbRMy3AH\n\n#CodeforKorea(#C4K) '코로나19 공공데이터 공동대응'에서 시작된 시빅해커들의 모임으로 빠띠의 활동가들도 함께합니다.",
+		"full_text": "❝코드포코리아 첫 번째 해커톤 #안녕하세요❞\n　　\n📅 2020/05/23(토) 10:00~17:00 KST\n👩💻 온라인으로 연결된 곳이라면 어디서나\n👉 참여 신청 https://t.co/3nsbRMy3AH\n\n#CodeforKorea(#C4K) '코로나19 공공데이터 공동대응'에서 시작된 시빅해커들의 모임으로 빠띠의 활동가들도 함께합니다.",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -126,7 +5652,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "❝코드포코리아 첫 번째 해커톤 #안녕하세요❞\n　　\n📅 2020/05/23(토) 10:00~17:00 KST\n👩‍💻 온라인으로 연결된 곳이라면 어디서나\n👉 참여 신청 https://t.co/3nsbRMy3AH\n\n#CodeforKorea(#C4K) '코로나19 공공데이터 공동대응'에서 시작된 시빅해커들의 모임으로 빠띠의 활동가들도 함께합니다."
+		"text": "❝코드포코리아 첫 번째 해커톤 #안녕하세요❞\n　　\n📅 2020/05/23(토) 10:00~17:00 KST\n👩💻 온라인으로 연결된 곳이라면 어디서나\n👉 참여 신청 https://t.co/3nsbRMy3AH\n\n#CodeforKorea(#C4K) '코로나19 공공데이터 공동대응'에서 시작된 시빅해커들의 모임으로 빠띠의 활동가들도 함께합니다."
 	},
 	{
 		"created_at": "Wed May 13 09:52:21 +0000 2020",
