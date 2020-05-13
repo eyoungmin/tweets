@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 10:52:13 +0000 2020",
+		"id": 1260517477911421000,
+		"id_str": "1260523235357208577",
+		"full_text": "❝코드포코리아 첫 번째 해커톤 #안녕하세요❞\n　　\n📅 2020/05/23(토) 10:00~17:00 KST\n👩‍💻 온라인으로 연결된 곳이라면 어디서나\n👉 참여 신청 https://t.co/3nsbRMy3AH\n\n#CodeforKorea(#C4K) '코로나19 공공데이터 공동대응'에서 시작된 시빅해커들의 모임으로 빠띠의 활동가들도 함께합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안녕하세요",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "CodeforKorea",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "C4K",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3nsbRMy3AH",
+					"expanded_url": "https://hackmd.io/@C4K-hacking/HkasHrk5I",
+					"display_url": "hackmd.io/@C4K-hacking/H…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 105,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝코드포코리아 첫 번째 해커톤 #안녕하세요❞\n　　\n📅 2020/05/23(토) 10:00~17:00 KST\n👩‍💻 온라인으로 연결된 곳이라면 어디서나\n👉 참여 신청 https://t.co/3nsbRMy3AH\n\n#CodeforKorea(#C4K) '코로나19 공공데이터 공동대응'에서 시작된 시빅해커들의 모임으로 빠띠의 활동가들도 함께합니다."
+	},
+	{
 		"created_at": "Wed May 13 09:52:21 +0000 2020",
 		"id": 1260505461406797800,
 		"id_str": "1260508168637026304",
