@@ -1,6 +1,763 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 03:00:48 +0000 2020",
+		"id": 1260404601846710300,
+		"id_str": "1260404601846710272",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (May 13) https://t.co/PB67PhSCV2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PB67PhSCV2",
+					"expanded_url": "https://nzzl.us/2qCQoKu",
+					"display_url": "nzzl.us/2qCQoKu",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (May 13) https://t.co/PB67PhSCV2"
+	},
+	{
+		"created_at": "Wed May 13 02:45:37 +0000 2020",
+		"id": 1260389027603116000,
+		"id_str": "1260400777945927681",
+		"full_text": "경⭐팩인스 뉴MC 오셨네⭐축\n청량 그 자체 재님 &amp; 브님! MC력 천재 만재 아닐 리 없다❗❗\n재브와 함께라 더욱 빛났던 #팩인스  \n앞으로도 놓치지 말고~ 함께 만나요 🤗\n\n#진행력_프로듀싱력_무한매력_재환님\n#센스천재_비율만재_아이돌능력치MAX_이브님\n#팩인스MC #사심MC #유재환 #이달소 #이브 https://t.co/V3uJnGU5D8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩인스",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "진행력_프로듀싱력_무한매력_재환님",
+					"indices": [
+						102,
+						121
+					]
+				},
+				{
+					"text": "센스천재_비율만재_아이돌능력치MAX_이브님",
+					"indices": [
+						122,
+						146
+					]
+				},
+				{
+					"text": "팩인스MC",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "사심MC",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "유재환",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						170,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260388516501966800,
+					"id_str": "1260388516501966848",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EX3MrY0U0AAm_0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX3MrY0U0AAm_0_.jpg",
+					"url": "https://t.co/V3uJnGU5D8",
+					"display_url": "pic.twitter.com/V3uJnGU5D8",
+					"expanded_url": "https://twitter.com/factinstar/status/1260389027603116033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260388516501966800,
+					"id_str": "1260388516501966848",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EX3MrY0U0AAm_0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX3MrY0U0AAm_0_.jpg",
+					"url": "https://t.co/V3uJnGU5D8",
+					"display_url": "pic.twitter.com/V3uJnGU5D8",
+					"expanded_url": "https://twitter.com/factinstar/status/1260389027603116033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260388516501971000,
+					"id_str": "1260388516501970945",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EX3MrY0U4AEV6PB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX3MrY0U4AEV6PB.jpg",
+					"url": "https://t.co/V3uJnGU5D8",
+					"display_url": "pic.twitter.com/V3uJnGU5D8",
+					"expanded_url": "https://twitter.com/factinstar/status/1260389027603116033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260388596751581200,
+					"id_str": "1260388596751581187",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EX3MwDxUwAM3t9R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX3MwDxUwAM3t9R.jpg",
+					"url": "https://t.co/V3uJnGU5D8",
+					"display_url": "pic.twitter.com/V3uJnGU5D8",
+					"expanded_url": "https://twitter.com/factinstar/status/1260389027603116033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260388596755779600,
+					"id_str": "1260388596755779584",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EX3MwDyU0AAgoxc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX3MwDyU0AAgoxc.jpg",
+					"url": "https://t.co/V3uJnGU5D8",
+					"display_url": "pic.twitter.com/V3uJnGU5D8",
+					"expanded_url": "https://twitter.com/factinstar/status/1260389027603116033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "TBS오픈스튜디오 서울 마포구 매봉산로 31 에스플렉스센터 1층 /유튜브 (금) 저녁 9시 선공개 / TBS TV (일) 낮 12시 30분 본방송",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3595,
+			"friends_count": 2853,
+			"listed_count": 30,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260399460187697153/tfP0Lgeh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260399460187697153/tfP0Lgeh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1576025828",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경⭐팩인스 뉴MC 오셨네⭐축\n청량 그 자체 재님 &amp; 브님! MC력 천재 만재 아닐 리 없다❗❗\n재브와 함께라 더욱 빛났던 #팩인스  \n앞으로도 놓치지 말고~ 함께 만나요 🤗\n\n#진행력_프로듀싱력_무한매력_재환님\n#센스천재_비율만재_아이돌능력치MAX_이브님\n#팩인스MC #사심MC #유재환 #이달소 #이브 https://t.co/V3uJnGU5D8"
+	},
+	{
+		"created_at": "Wed May 13 02:34:05 +0000 2020",
+		"id": 1260395794357604400,
+		"id_str": "1260397875973914624",
+		"full_text": "오마이걸 미미의 매력적인 모습들에 대한 단상들이 퍼즐처럼 이번 [Nonstop]으로 맞춰지는 순간에 그의 이야기를 할 수 있게 됐다. 나는 퍼즐을 맞췄지만, 사실 그는 그려나가고 있었다는 것도 알게 되었고. #채널예스 #비하인드아이돌 #오마이걸 #미미 https://t.co/CjRPrs0kEI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "채널예스",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "비하인드아이돌",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "미미",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CjRPrs0kEI",
+					"expanded_url": "http://ch.yes24.com/Article/View/41728",
+					"display_url": "ch.yes24.com/Article/View/4…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 타의로 사용하는 호칭이며, 저는 아이돌/문화 전문 기자이자, 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2975,
+			"friends_count": 139,
+			"listed_count": 13,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248048412253024256/0Ei84nfE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248048412253024256/0Ei84nfE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오마이걸 미미의 매력적인 모습들에 대한 단상들이 퍼즐처럼 이번 [Nonstop]으로 맞춰지는 순간에 그의 이야기를 할 수 있게 됐다. 나는 퍼즐을 맞췄지만, 사실 그는 그려나가고 있었다는 것도 알게 되었고. #채널예스 #비하인드아이돌 #오마이걸 #미미 https://t.co/CjRPrs0kEI"
+	},
+	{
+		"created_at": "Wed May 13 02:32:18 +0000 2020",
+		"id": 1260397426629886000,
+		"id_str": "1260397426629885952",
+		"full_text": "#BBC코리아\n코로나19: 스페인 최고령 113세 할머니 코로나19 완치 판정\nhttps://t.co/71Fe6oXwb6\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/71Fe6oXwb6",
+					"expanded_url": "https://www.bbc.com/korean/news-52643130",
+					"display_url": "bbc.com/korean/news-52…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 스페인 최고령 113세 할머니 코로나19 완치 판정\nhttps://t.co/71Fe6oXwb6\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Wed May 13 01:48:04 +0000 2020",
 		"id": 1260386294737199000,
 		"id_str": "1260386294737199105",
