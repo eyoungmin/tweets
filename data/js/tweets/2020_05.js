@@ -1,6 +1,854 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 18:57:08 +0000 2020",
+		"id": 1260645270129225700,
+		"id_str": "1260645270129225728",
+		"full_text": "#Soyoon_Production\n[SPD] Untitled Project 2\nhttps://t.co/dyYSgqhrkq\n#새소년 #SESONEON #황소윤 #Soyoon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Soyoon_Production",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "새소년",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "황소윤",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "Soyoon",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dyYSgqhrkq",
+					"expanded_url": "https://youtu.be/1aN9hZCGKKo",
+					"display_url": "youtu.be/1aN9hZCGKKo",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Soyoon_Production\n[SPD] Untitled Project 2\nhttps://t.co/dyYSgqhrkq\n#새소년 #SESONEON #황소윤 #Soyoon"
+	},
+	{
+		"created_at": "Wed May 13 18:49:08 +0000 2020",
+		"id": 1260439804229103600,
+		"id_str": "1260643253893754880",
+		"full_text": "[굿걸] D-1 I GOOD GIRL, We are coming! HYOYEON\n\nGOOD GIRL vs Meet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n&lt;GOOD GIRL : 누가 방송국을 털었나&gt;\n내일 밤 9시 30분 첫 방송\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #누가방송국을털었나 #Mnet #엠넷 #HYOYEON #효연 https://t.co/gZ2kE1pjas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						147,
+						166
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						198,
+						206
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						207,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260439789901418500,
+					"id_str": "1260439789901418497",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260439789901418497/pu/img/uTut7nCuwznXhWXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260439789901418497/pu/img/uTut7nCuwznXhWXv.jpg",
+					"url": "https://t.co/gZ2kE1pjas",
+					"display_url": "pic.twitter.com/gZ2kE1pjas",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260439804229103617/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260439789901418500,
+					"id_str": "1260439789901418497",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260439789901418497/pu/img/uTut7nCuwznXhWXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260439789901418497/pu/img/uTut7nCuwznXhWXv.jpg",
+					"url": "https://t.co/gZ2kE1pjas",
+					"display_url": "pic.twitter.com/gZ2kE1pjas",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260439804229103617/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 5125,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260439789901418497/pu/vid/384x480/y_g6Zd0xjITLmR8J.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260439789901418497/pu/pl/3RohAAlowSlLdMc8.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260439789901418497/pu/vid/320x400/jCgdsV-z_4n4Q_dI.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n-\n5월 14일 (목) 밤 9시 30분 첫 방송 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196357,
+			"friends_count": 2553,
+			"listed_count": 217,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1587977697",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1172,
+		"favorite_count": 1381,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[굿걸] D-1 I GOOD GIRL, We are coming! HYOYEON\n\nGOOD GIRL vs Meet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n&lt;GOOD GIRL : 누가 방송국을 털었나&gt;\n내일 밤 9시 30분 첫 방송\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #누가방송국을털었나 #Mnet #엠넷 #HYOYEON #효연 https://t.co/gZ2kE1pjas"
+	},
+	{
+		"created_at": "Wed May 13 18:48:51 +0000 2020",
+		"id": 1260483503399088000,
+		"id_str": "1260643185031704576",
+		"full_text": "서현 배우의 감동적인 비주얼에 흘린 눈물이\n동해바다 아니... 대서양을 이뤘습니다🌊\n\n#서현 #Seohyun #매거진 #에스콰이어 #화보 #비하인드 https://t.co/PqQeaxlLDs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "에스콰이어",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "화보",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						77,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260483441897939000,
+					"id_str": "1260483441897938945",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4jAxeWoAEYN3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4jAxeWoAEYN3Z.jpg",
+					"url": "https://t.co/PqQeaxlLDs",
+					"display_url": "pic.twitter.com/PqQeaxlLDs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260483503399088128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260483441897939000,
+					"id_str": "1260483441897938945",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4jAxeWoAEYN3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4jAxeWoAEYN3Z.jpg",
+					"url": "https://t.co/PqQeaxlLDs",
+					"display_url": "pic.twitter.com/PqQeaxlLDs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260483503399088128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260483466375856000,
+					"id_str": "1260483466375856128",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4jCMqWAAArIDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4jCMqWAAArIDq.jpg",
+					"url": "https://t.co/PqQeaxlLDs",
+					"display_url": "pic.twitter.com/PqQeaxlLDs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260483503399088128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260483478791114800,
+					"id_str": "1260483478791114756",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4jC66X0AQI2GQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4jC66X0AQI2GQ.jpg",
+					"url": "https://t.co/PqQeaxlLDs",
+					"display_url": "pic.twitter.com/PqQeaxlLDs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260483503399088128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260483487058010000,
+					"id_str": "1260483487058010118",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4jDZtWoAY7OjT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4jDZtWoAY7OjT.jpg",
+					"url": "https://t.co/PqQeaxlLDs",
+					"display_url": "pic.twitter.com/PqQeaxlLDs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260483503399088128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29388,
+			"friends_count": 11,
+			"listed_count": 187,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2045,
+		"favorite_count": 2203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서현 배우의 감동적인 비주얼에 흘린 눈물이\n동해바다 아니... 대서양을 이뤘습니다🌊\n\n#서현 #Seohyun #매거진 #에스콰이어 #화보 #비하인드 https://t.co/PqQeaxlLDs"
+	},
+	{
+		"created_at": "Wed May 13 18:48:02 +0000 2020",
+		"id": 1260609491449471000,
+		"id_str": "1260642980328730624",
+		"full_text": "[📺] 안지영이 부르는 'Psycho'♪♬\n(출처 : 라디오스타 | 네이버TV)\n\nhttps://t.co/r2KfXRFThp\n\n#볼빨간사춘기 #BOL4 #안지영 #라디오스타",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "안지영",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "라디오스타",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r2KfXRFThp",
+					"expanded_url": "http://naver.me/xFQkUJJ4",
+					"display_url": "naver.me/xFQkUJJ4",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29878,
+			"friends_count": 2,
+			"listed_count": 169,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1589361955",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺] 안지영이 부르는 'Psycho'♪♬\n(출처 : 라디오스타 | 네이버TV)\n\nhttps://t.co/r2KfXRFThp\n\n#볼빨간사춘기 #BOL4 #안지영 #라디오스타"
+	},
+	{
 		"created_at": "Wed May 13 16:27:57 +0000 2020",
 		"id": 1260596699468193800,
 		"id_str": "1260607725106536455",
