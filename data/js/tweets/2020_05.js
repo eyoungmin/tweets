@@ -1,10 +1,263 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 06:52:13 +0000 2020",
+		"id": 1260450070970990600,
+		"id_str": "1260462835911581696",
+		"full_text": "📹 [Special Clips] 청하(CHUNG HA) - \"Stay Tonight\" 안무 영상 비하인드\n\n▶️ https://t.co/dcFLuTzMeU\n✌🏻 https://t.co/rHku5OiYgA\n\n#청하 #CHUNGHA\n#StayTonight ✨\n#DancePractice https://t.co/9hjv1mgEfv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "DancePractice",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dcFLuTzMeU",
+					"expanded_url": "https://bit.ly/2zthfoS",
+					"display_url": "bit.ly/2zthfoS",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/rHku5OiYgA",
+					"expanded_url": "https://bit.ly/35TFuZn",
+					"display_url": "bit.ly/35TFuZn",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260449751784403000,
+					"id_str": "1260449751784402944",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260449751784402944/pu/img/Xi43zYNyAOSHUUBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260449751784402944/pu/img/Xi43zYNyAOSHUUBv.jpg",
+					"url": "https://t.co/9hjv1mgEfv",
+					"display_url": "pic.twitter.com/9hjv1mgEfv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260450070970990592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260449751784403000,
+					"id_str": "1260449751784402944",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260449751784402944/pu/img/Xi43zYNyAOSHUUBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260449751784402944/pu/img/Xi43zYNyAOSHUUBv.jpg",
+					"url": "https://t.co/9hjv1mgEfv",
+					"display_url": "pic.twitter.com/9hjv1mgEfv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1260450070970990592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30687,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260449751784402944/pu/vid/640x360/cryNO7tJshZaTTNX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260449751784402944/pu/pl/x2PBrxDlnc2iflgl.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260449751784402944/pu/vid/480x270/MPA49zVSVSVTailj.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260449751784402944/pu/vid/1280x720/51_OypXFt9H8p06d.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259427,
+			"friends_count": 0,
+			"listed_count": 1622,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 795,
+		"favorite_count": 2753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📹 [Special Clips] 청하(CHUNG HA) - \"Stay Tonight\" 안무 영상 비하인드\n\n▶️ https://t.co/dcFLuTzMeU\n✌🏻 https://t.co/rHku5OiYgA\n\n#청하 #CHUNGHA\n#StayTonight ✨\n#DancePractice https://t.co/9hjv1mgEfv"
+	},
+	{
 		"created_at": "Wed May 13 05:53:45 +0000 2020",
 		"id": 1260440490866020400,
 		"id_str": "1260448123736018944",
-		"full_text": "오늘부터, 누구나 이메일 주소만 있으면 #GoogleMeet 를 무료로 사용할 수 있습니다! 수업👩🏻‍🏫, 북클럽📚, 요가 클래스🧘🏻‍♀️, 미팅🧑🏻‍💻 등 Google Meet를 통해 여러가지 온라인 미팅을 시작해보세요 https://t.co/sIEcOq7l3I",
+		"full_text": "오늘부터, 누구나 이메일 주소만 있으면 #GoogleMeet 를 무료로 사용할 수 있습니다! 수업👩🏻🏫, 북클럽📚, 요가 클래스🧘🏻♀️, 미팅🧑🏻💻 등 Google Meet를 통해 여러가지 온라인 미팅을 시작해보세요 https://t.co/sIEcOq7l3I",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -122,7 +375,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "오늘부터, 누구나 이메일 주소만 있으면 #GoogleMeet 를 무료로 사용할 수 있습니다! 수업👩🏻‍🏫, 북클럽📚, 요가 클래스🧘🏻‍♀️, 미팅🧑🏻‍💻 등 Google Meet를 통해 여러가지 온라인 미팅을 시작해보세요 https://t.co/sIEcOq7l3I"
+		"text": "오늘부터, 누구나 이메일 주소만 있으면 #GoogleMeet 를 무료로 사용할 수 있습니다! 수업👩🏻🏫, 북클럽📚, 요가 클래스🧘🏻♀️, 미팅🧑🏻💻 등 Google Meet를 통해 여러가지 온라인 미팅을 시작해보세요 https://t.co/sIEcOq7l3I"
 	},
 	{
 		"created_at": "Wed May 13 05:53:28 +0000 2020",
