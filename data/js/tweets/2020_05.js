@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 16:27:57 +0000 2020",
+		"id": 1260596699468193800,
+		"id_str": "1260607725106536455",
+		"full_text": "[TRY NOT TO LAUGH!] Aduh, pusing sekali melihat pergerakan kameranya... Tapi cantiknya Joy bikin tambah pusing 😵 Tantang dirimu untuk tidak tertawa menonton momen lucu BLACKPINK, Red Velvet, dan TWICE!\n\n▶️ https://t.co/s0xJpWFSlC\n\n#VLIVEINDONESIA #BLACKPINK #REDVELVET #TWICE https://t.co/yFN3xGP9Iq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						231,
+						246
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						247,
+						257
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						258,
+						268
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						269,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s0xJpWFSlC",
+					"expanded_url": "https://www.vlive.tv/video/191123",
+					"display_url": "vlive.tv/video/191123",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260595524501004300,
+					"id_str": "1260595524501004290",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260595524501004290/pu/img/x3tl6owSSyB8NyqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260595524501004290/pu/img/x3tl6owSSyB8NyqA.jpg",
+					"url": "https://t.co/yFN3xGP9Iq",
+					"display_url": "pic.twitter.com/yFN3xGP9Iq",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1260596699468193793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260595524501004300,
+					"id_str": "1260595524501004290",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260595524501004290/pu/img/x3tl6owSSyB8NyqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260595524501004290/pu/img/x3tl6owSSyB8NyqA.jpg",
+					"url": "https://t.co/yFN3xGP9Iq",
+					"display_url": "pic.twitter.com/yFN3xGP9Iq",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1260596699468193793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22367,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260595524501004290/pu/vid/640x360/nfbn8U-A4VUYnw_U.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260595524501004290/pu/vid/1280x720/lI5-funYOoc8_KkZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260595524501004290/pu/vid/480x270/isBGJ4H3tV-POyfl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260595524501004290/pu/pl/d2qnmNhzDjUShMUQ.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nIkut EVENT BUKBER DENGAN IDOLAMU 👇🏻",
+			"url": "https://t.co/HWnlV5QM9E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HWnlV5QM9E",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/celeb/1.13891660?boardId=2425",
+							"display_url": "channels.vlive.tv/B4B94F/celeb/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26175,
+			"friends_count": 1,
+			"listed_count": 11,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "[TRY NOT TO LAUGH!] Aduh, pusing sekali melihat pergerakan kameranya... Tapi cantiknya Joy bikin tambah pusing 😵 Tantang dirimu untuk tidak tertawa menonton momen lucu BLACKPINK, Red Velvet, dan TWICE!\n\n▶️ https://t.co/s0xJpWFSlC\n\n#VLIVEINDONESIA #BLACKPINK #REDVELVET #TWICE https://t.co/yFN3xGP9Iq"
+	},
+	{
 		"created_at": "Wed May 13 14:14:44 +0000 2020",
 		"id": 1260505608605712400,
 		"id_str": "1260574202710687744",
