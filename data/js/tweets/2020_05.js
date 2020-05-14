@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 14:01:41 +0000 2020",
+		"id": 1260933303223283700,
+		"id_str": "1260933303223283714",
+		"full_text": "[Whosfan] Album Authentication 🌟Read description below🌟\nhttps://t.co/ggHj9oCe68\n한터차트가 도입한 인증 시스템 HAPS(HANTEO Aided Tracking System)\n#한터차트 #HANTEO #HAPS #음반차트 #차트 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한터차트",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "HANTEO",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "HAPS",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "음반차트",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "차트",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ggHj9oCe68",
+					"expanded_url": "https://youtu.be/tYIUhIxS14c",
+					"display_url": "youtu.be/tYIUhIxS14c",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Whosfan] Album Authentication 🌟Read description below🌟\nhttps://t.co/ggHj9oCe68\n한터차트가 도입한 인증 시스템 HAPS(HANTEO Aided Tracking System)\n#한터차트 #HANTEO #HAPS #음반차트 #차트 #뮤직비지니스"
+	},
+	{
+		"created_at": "Thu May 14 13:59:57 +0000 2020",
+		"id": 1260932868529746000,
+		"id_str": "1260932868529745923",
+		"full_text": "[K-POP TOP 10] ASTRO &amp; NCT DREAM | MAY 2020 week 2\nhttps://t.co/ym0mmKlaWi\n한터차트는 후즈팬이라는 차트형 팬덤 어플리케이션 런칭하고 매주마다 이렇게 유튜브에 올려주는데 한장 단위까지 수치를 공개한다는 것이 장점.\n\n#차트 #음반차트 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "차트",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "음반차트",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						167,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ym0mmKlaWi",
+					"expanded_url": "https://youtu.be/7ZpFrETOlF0",
+					"display_url": "youtu.be/7ZpFrETOlF0",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[K-POP TOP 10] ASTRO &amp; NCT DREAM | MAY 2020 week 2\nhttps://t.co/ym0mmKlaWi\n한터차트는 후즈팬이라는 차트형 팬덤 어플리케이션 런칭하고 매주마다 이렇게 유튜브에 올려주는데 한장 단위까지 수치를 공개한다는 것이 장점.\n\n#차트 #음반차트 #뮤직비지니스"
+	},
+	{
+		"created_at": "Thu May 14 13:50:53 +0000 2020",
+		"id": 1260930587876929500,
+		"id_str": "1260930587876929540",
+		"full_text": "@simdyang 해외 팬들 사이에서 해적판, 불법 음반 판매가 있어서 이게 도움이 된다고 하더라고요. 그런데 알려지지 않아 있고 어플이 아쉬운 점이 많아요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simdyang",
+					"name": "심댱😷",
+					"id": 714336278079086600,
+					"id_str": "714336278079086592",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260731038021513200,
+		"in_reply_to_status_id_str": "1260731038021513217",
+		"in_reply_to_user_id": 714336278079086600,
+		"in_reply_to_user_id_str": "714336278079086592",
+		"in_reply_to_screen_name": "simdyang",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@simdyang 해외 팬들 사이에서 해적판, 불법 음반 판매가 있어서 이게 도움이 된다고 하더라고요. 그런데 알려지지 않아 있고 어플이 아쉬운 점이 많아요."
+	},
+	{
+		"created_at": "Thu May 14 13:45:17 +0000 2020",
+		"id": 1260929175436669000,
+		"id_str": "1260929175436668930",
+		"full_text": "구글 시트에 정리하는 이유: Vimeo에 비하면 양반이지만 홈 구성이나 타임라인이 지저분하고 팔로잉한 아티스트의 저작물을 보기 어렵기 때문.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1260928883521515500,
+		"in_reply_to_status_id_str": "1260928883521515521",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "구글 시트에 정리하는 이유: Vimeo에 비하면 양반이지만 홈 구성이나 타임라인이 지저분하고 팔로잉한 아티스트의 저작물을 보기 어렵기 때문."
+	},
+	{
 		"created_at": "Thu May 14 12:20:38 +0000 2020",
 		"id": 1260810030091133000,
 		"id_str": "1260907874521247745",
@@ -175,7 +693,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Thu May 14 12:14:23 +0000 2020",
 		"id": 1260842755334365200,
 		"id_str": "1260906300361195520",
-		"full_text": "From. #HYOYEON 💌\n\n여러분 오랜만이죠?🙋🏻‍♀️ \n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello guys, long time no see!🙋🏻‍♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 https://t.co/leRJCvcpP2",
+		"full_text": "From. #HYOYEON 💌\n\n여러분 오랜만이죠?🙋🏻♀️ \n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello guys, long time no see!🙋🏻♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 https://t.co/leRJCvcpP2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -386,7 +904,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": true,
 		"lang": "ko",
-		"text": "From. #HYOYEON 💌\n\n여러분 오랜만이죠?🙋🏻‍♀️ \n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello guys, long time no see!🙋🏻‍♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 https://t.co/leRJCvcpP2"
+		"text": "From. #HYOYEON 💌\n\n여러분 오랜만이죠?🙋🏻♀️ \n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello guys, long time no see!🙋🏻♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 https://t.co/leRJCvcpP2"
 	},
 	{
 		"created_at": "Thu May 14 11:52:19 +0000 2020",
