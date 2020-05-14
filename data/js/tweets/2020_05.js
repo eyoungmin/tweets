@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 12:20:38 +0000 2020",
+		"id": 1260810030091133000,
+		"id_str": "1260907874521247745",
+		"full_text": "‘도련님·서방님’ 대신 이름 부르고\n‘친정’은 ‘본가’로\n아버지 쪽=가까울 친(親), 어머니 쪽=바깥 외(外) 대신 ‘효자동 할머니’ ‘광주 할아버지’ 처럼 불러보세요\n\n국립국어원, 성차별 호칭 개선 안내서 발간\nhttps://t.co/bJBAb9KHiO https://t.co/3jx8uBErG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bJBAb9KHiO",
+					"expanded_url": "http://womennews.co.kr/news/199046",
+					"display_url": "womennews.co.kr/news/199046",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260810021333373000,
+					"id_str": "1260810021333372929",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9MCMrUEAE-1a0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9MCMrUEAE-1a0.jpg",
+					"url": "https://t.co/3jx8uBErG7",
+					"display_url": "pic.twitter.com/3jx8uBErG7",
+					"expanded_url": "https://twitter.com/wnewskr/status/1260810030091132928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 533,
+							"h": 729,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 533,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260810021333373000,
+					"id_str": "1260810021333372929",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9MCMrUEAE-1a0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9MCMrUEAE-1a0.jpg",
+					"url": "https://t.co/3jx8uBErG7",
+					"display_url": "pic.twitter.com/3jx8uBErG7",
+					"expanded_url": "https://twitter.com/wnewskr/status/1260810030091132928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 533,
+							"h": 729,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 533,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195071,
+			"friends_count": 3549,
+			"listed_count": 286,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1413,
+		"favorite_count": 329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘도련님·서방님’ 대신 이름 부르고\n‘친정’은 ‘본가’로\n아버지 쪽=가까울 친(親), 어머니 쪽=바깥 외(外) 대신 ‘효자동 할머니’ ‘광주 할아버지’ 처럼 불러보세요\n\n국립국어원, 성차별 호칭 개선 안내서 발간\nhttps://t.co/bJBAb9KHiO https://t.co/3jx8uBErG7"
+	},
+	{
+		"created_at": "Thu May 14 12:14:23 +0000 2020",
+		"id": 1260842755334365200,
+		"id_str": "1260906300361195520",
+		"full_text": "From. #HYOYEON 💌\n\n여러분 오랜만이죠?🙋🏻‍♀️ \n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello guys, long time no see!🙋🏻‍♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 https://t.co/leRJCvcpP2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						198,
+						214
+					]
+				},
+				{
+					"text": "굿걸",
+					"indices": [
+						215,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260842464702656500,
+					"id_str": "1260842464702656513",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9pippUcAEZfMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9pippUcAEZfMS.jpg",
+					"url": "https://t.co/leRJCvcpP2",
+					"display_url": "pic.twitter.com/leRJCvcpP2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260842755334365186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260842464702656500,
+					"id_str": "1260842464702656513",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9pippUcAEZfMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9pippUcAEZfMS.jpg",
+					"url": "https://t.co/leRJCvcpP2",
+					"display_url": "pic.twitter.com/leRJCvcpP2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1260842755334365186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560251,
+			"friends_count": 4,
+			"listed_count": 5074,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2738,
+		"favorite_count": 5754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "From. #HYOYEON 💌\n\n여러분 오랜만이죠?🙋🏻‍♀️ \n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello guys, long time no see!🙋🏻‍♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 https://t.co/leRJCvcpP2"
+	},
+	{
 		"created_at": "Thu May 14 11:52:19 +0000 2020",
 		"id": 1260888018816077800,
 		"id_str": "1260900747991855105",
