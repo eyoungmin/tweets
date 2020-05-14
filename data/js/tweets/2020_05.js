@@ -1,6 +1,838 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 23:52:13 +0000 2020",
+		"id": 1260706260271284200,
+		"id_str": "1260719528230649858",
+		"full_text": "팬데믹으로 인한 경제적 고통은 고루 퍼지지 않는다 - https://t.co/2WAowRD41V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2WAowRD41V",
+					"expanded_url": "https://newspeppermint.com/2020/05/13/economicpaindistribution/",
+					"display_url": "newspeppermint.com/2020/05/13/eco…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97266,
+			"friends_count": 0,
+			"listed_count": 665,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팬데믹으로 인한 경제적 고통은 고루 퍼지지 않는다 - https://t.co/2WAowRD41V"
+	},
+	{
+		"created_at": "Wed May 13 23:18:41 +0000 2020",
+		"id": 1260610877864022000,
+		"id_str": "1260711090213629952",
+		"full_text": "#NYLON_coverstar 레드벨벳 🍓\n아이린 &amp; 슬기 💋가 만드는 사랑의 형태\n나일론 5월호 커버 촬영 현장을 고화질로 만나세요! https://t.co/4Y8GgHeEcX via @YouTube https://t.co/LAtDSsUZm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NYLON_coverstar",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Y8GgHeEcX",
+					"expanded_url": "https://youtu.be/xbWe3hWhPq0",
+					"display_url": "youtu.be/xbWe3hWhPq0",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260610815868022800,
+					"id_str": "1260610815868022785",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260610815868022785/pu/img/sRN2B-FdsP09o6hn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260610815868022785/pu/img/sRN2B-FdsP09o6hn.jpg",
+					"url": "https://t.co/LAtDSsUZm2",
+					"display_url": "pic.twitter.com/LAtDSsUZm2",
+					"expanded_url": "https://twitter.com/NYLON_kr/status/1260610877864022017/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260610815868022800,
+					"id_str": "1260610815868022785",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260610815868022785/pu/img/sRN2B-FdsP09o6hn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260610815868022785/pu/img/sRN2B-FdsP09o6hn.jpg",
+					"url": "https://t.co/LAtDSsUZm2",
+					"display_url": "pic.twitter.com/LAtDSsUZm2",
+					"expanded_url": "https://twitter.com/NYLON_kr/status/1260610877864022017/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33835,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260610815868022785/pu/vid/480x270/_2Sdc6lOMJEcZmKF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260610815868022785/pu/vid/640x360/zKCGGu4XiYJnjGY4.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260610815868022785/pu/vid/1280x720/Vsp4zJKRgSWkTBFt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260610815868022785/pu/pl/I6r4AkLhvvcNxhpH.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242228792,
+			"id_str": "242228792",
+			"name": "NYLON KOREA",
+			"screen_name": "NYLON_kr",
+			"location": "seoul",
+			"description": "NY+LONDON Fashion Magazine",
+			"url": "https://t.co/ZEPkL3WQbu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZEPkL3WQbu",
+							"expanded_url": "http://nylonmedia.co.kr",
+							"display_url": "nylonmedia.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70352,
+			"friends_count": 0,
+			"listed_count": 177,
+			"created_at": "Mon Jan 24 08:00:06 +0000 2011",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250327362375307267/BsochLY__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250327362375307267/BsochLY__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242228792/1586935714",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1918,
+		"favorite_count": 1925,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#NYLON_coverstar 레드벨벳 🍓\n아이린 &amp; 슬기 💋가 만드는 사랑의 형태\n나일론 5월호 커버 촬영 현장을 고화질로 만나세요! https://t.co/4Y8GgHeEcX via @YouTube https://t.co/LAtDSsUZm2"
+	},
+	{
+		"created_at": "Wed May 13 23:17:41 +0000 2020",
+		"id": 1260639069391868000,
+		"id_str": "1260710840065339392",
+		"full_text": "it's our birthday!! we're 5 today! celebrate with us as we blow the candles to this virtual cake, surprises included. https://t.co/Hwb1Qj3Wf5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hwb1Qj3Wf5",
+					"expanded_url": "https://www.pscp.tv/w/cYrjPjFZTEVKZGVZa3l2S058MU9kS3JxQk5hV1B4WHqMsmQfy-8is15fSmmRBTYqrNK1Aq-7WL3nNTYbiSYp",
+					"display_url": "pscp.tv/w/cYrjPjFZTEVK…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discord",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/cNrYsYdEQK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cNrYsYdEQK",
+							"expanded_url": "https://discord.com/",
+							"display_url": "discord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1928348,
+			"friends_count": 1057,
+			"listed_count": 2123,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 32743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 442276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260578921222979584/5VJoSJzN_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260578921222979584/5VJoSJzN_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1586197726",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6055,
+		"favorite_count": 30910,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it's our birthday!! we're 5 today! celebrate with us as we blow the candles to this virtual cake, surprises included. https://t.co/Hwb1Qj3Wf5"
+	},
+	{
+		"created_at": "Wed May 13 23:15:32 +0000 2020",
+		"id": 1260359610227028000,
+		"id_str": "1260710299356684289",
+		"full_text": "전국단위 raster가 한번에 안 그려져서 고생을 좀 했음. https://t.co/KTYAPJ63h7의 김승범선생님께서 정제해주신 데이터를 재가공. 항상 감사합니다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KTYAPJ63h7",
+					"expanded_url": "http://vw-lab.com",
+					"display_url": "vw-lab.com",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260359062354608000,
+		"in_reply_to_status_id_str": "1260359062354608129",
+		"in_reply_to_user_id": 161705484,
+		"in_reply_to_user_id_str": "161705484",
+		"in_reply_to_screen_name": "beingsince",
+		"user": {
+			"id": 161705484,
+			"id_str": "161705484",
+			"name": "since",
+			"screen_name": "beingsince",
+			"location": "dong-jak, seoul, south korea",
+			"description": "도시-데이터-정책 유관업무 종사자. 요즘은 이동에 집중하고 있습니다. concern about data policy in public / data for public policy. 문의는 beingsince.official@gmail.com",
+			"url": "https://t.co/VPq8RHcVYL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VPq8RHcVYL",
+							"expanded_url": "http://smilesl.tistory.com/",
+							"display_url": "smilesl.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2287,
+			"friends_count": 592,
+			"listed_count": 33,
+			"created_at": "Thu Jul 01 15:04:27 +0000 2010",
+			"favourites_count": 6921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887493792076488704/rTpCs6us_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887493792076488704/rTpCs6us_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161705484/1359488850",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전국단위 raster가 한번에 안 그려져서 고생을 좀 했음. https://t.co/KTYAPJ63h7의 김승범선생님께서 정제해주신 데이터를 재가공. 항상 감사합니다.."
+	},
+	{
+		"created_at": "Wed May 13 23:15:31 +0000 2020",
+		"id": 1260359062354608000,
+		"id_str": "1260710294466072576",
+		"full_text": "전국 집값지도. 밝은 노란색이 2020년 기준 60-85m2 주택 실거래가 10억 이상인 지역. https://t.co/5FsUI9XnM9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260358849216671700,
+					"id_str": "1260358849216671744",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EX2xshkUcAA4UNo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EX2xshkUcAA4UNo.png",
+					"url": "https://t.co/5FsUI9XnM9",
+					"display_url": "pic.twitter.com/5FsUI9XnM9",
+					"expanded_url": "https://twitter.com/beingsince/status/1260359062354608129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 604,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260358849216671700,
+					"id_str": "1260358849216671744",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EX2xshkUcAA4UNo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EX2xshkUcAA4UNo.png",
+					"url": "https://t.co/5FsUI9XnM9",
+					"display_url": "pic.twitter.com/5FsUI9XnM9",
+					"expanded_url": "https://twitter.com/beingsince/status/1260359062354608129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 604,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161705484,
+			"id_str": "161705484",
+			"name": "since",
+			"screen_name": "beingsince",
+			"location": "dong-jak, seoul, south korea",
+			"description": "도시-데이터-정책 유관업무 종사자. 요즘은 이동에 집중하고 있습니다. concern about data policy in public / data for public policy. 문의는 beingsince.official@gmail.com",
+			"url": "https://t.co/VPq8RHcVYL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VPq8RHcVYL",
+							"expanded_url": "http://smilesl.tistory.com/",
+							"display_url": "smilesl.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2287,
+			"friends_count": 592,
+			"listed_count": 33,
+			"created_at": "Thu Jul 01 15:04:27 +0000 2010",
+			"favourites_count": 6921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887493792076488704/rTpCs6us_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887493792076488704/rTpCs6us_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161705484/1359488850",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 333,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전국 집값지도. 밝은 노란색이 2020년 기준 60-85m2 주택 실거래가 10억 이상인 지역. https://t.co/5FsUI9XnM9"
+	},
+	{
+		"created_at": "Wed May 13 23:14:46 +0000 2020",
+		"id": 1260694226162966500,
+		"id_str": "1260710106104098816",
+		"full_text": "아마존, 파이어HD8 출시…8인치 태블릿 90달러 https://t.co/C0zW5BnjCS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C0zW5BnjCS",
+					"expanded_url": "http://www.bloter.net/archives/380748",
+					"display_url": "bloter.net/archives/380748",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55369,
+			"friends_count": 9,
+			"listed_count": 2400,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마존, 파이어HD8 출시…8인치 태블릿 90달러 https://t.co/C0zW5BnjCS"
+	},
+	{
 		"created_at": "Wed May 13 22:43:02 +0000 2020",
 		"id": 1260675206718210000,
 		"id_str": "1260702117393600513",
