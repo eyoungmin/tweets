@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 08:27:57 +0000 2020",
+		"id": 1260842351838163000,
+		"id_str": "1260849316702433281",
+		"full_text": "#Dear_U_letter로 만나는 #웬디\n매달 우리 집 우체통에서 만나는 웬디의 손편지\n지금 바로 Dear U letter를 구독하세요!\n\n첫 번째 WENDY letter 구독 마감 D-2 (~5/16)\n&gt; https://t.co/0h83jnDZ6L (한국)\n&gt; https://t.co/1uUTm1vS3z (日本)\n\n#디어유레터 #레드벨벳 #RedVelvet #WENDY #ウェンディ https://t.co/PaTYawJ1dQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_letter로",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "디어유레터",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "ウェンディ",
+					"indices": [
+						215,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0h83jnDZ6L",
+					"expanded_url": "http://dear-u.lysn.com",
+					"display_url": "dear-u.lysn.com",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/1uUTm1vS3z",
+					"expanded_url": "http://jp.dear-u.lysn.com",
+					"display_url": "jp.dear-u.lysn.com",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260840464678129700,
+					"id_str": "1260840464678129666",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9nuO-UEAI0rM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9nuO-UEAI0rM6.jpg",
+					"url": "https://t.co/PaTYawJ1dQ",
+					"display_url": "pic.twitter.com/PaTYawJ1dQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1260842351838162944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260840464678129700,
+					"id_str": "1260840464678129666",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9nuO-UEAI0rM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9nuO-UEAI0rM6.jpg",
+					"url": "https://t.co/PaTYawJ1dQ",
+					"display_url": "pic.twitter.com/PaTYawJ1dQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1260842351838162944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537674,
+			"friends_count": 2,
+			"listed_count": 5672,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2669,
+		"favorite_count": 8535,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Dear_U_letter로 만나는 #웬디\n매달 우리 집 우체통에서 만나는 웬디의 손편지\n지금 바로 Dear U letter를 구독하세요!\n\n첫 번째 WENDY letter 구독 마감 D-2 (~5/16)\n&gt; https://t.co/0h83jnDZ6L (한국)\n&gt; https://t.co/1uUTm1vS3z (日本)\n\n#디어유레터 #레드벨벳 #RedVelvet #WENDY #ウェンディ https://t.co/PaTYawJ1dQ"
+	},
+	{
 		"created_at": "Thu May 14 07:06:23 +0000 2020",
 		"id": 1260828792530112500,
 		"id_str": "1260828792530112512",
