@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 16:24:26 +0000 2020",
+		"id": 1260969230683398100,
+		"id_str": "1260969230683398144",
+		"full_text": "디스코드 접근성 관련 피드백 요청글\nhttps://t.co/Sylv1OFoQk\nhttps://t.co/MkT3ONYvBE\n\n디스코드는 좋은 서비스지만 Accessibility(접근성)과 Privacy(프라이버시) 문제에서 아쉬운 점이 많은 서비스라 생각함. 이 피드백글에 공감하며 개선이 필요함.\n\n#접근성 #배리어프리 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "접근성",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "배리어프리",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sylv1OFoQk",
+					"expanded_url": "https://support.discord.com/hc/en-us/community/posts/360032435152-Discord-Accessibility-for-blind-users",
+					"display_url": "support.discord.com/hc/en-us/commu…",
+					"indices": [
+						20,
+						43
+					]
+				},
+				{
+					"url": "https://t.co/MkT3ONYvBE",
+					"expanded_url": "https://support.discord.com/hc/en-us/community/posts/360043674232-Discord-Accessibility-For-Blind-Users-Opening-The-Bags",
+					"display_url": "support.discord.com/hc/en-us/commu…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디스코드 접근성 관련 피드백 요청글\nhttps://t.co/Sylv1OFoQk\nhttps://t.co/MkT3ONYvBE\n\n디스코드는 좋은 서비스지만 Accessibility(접근성)과 Privacy(프라이버시) 문제에서 아쉬운 점이 많은 서비스라 생각함. 이 피드백글에 공감하며 개선이 필요함.\n\n#접근성 #배리어프리 #minfav"
+	},
+	{
 		"created_at": "Thu May 14 15:54:18 +0000 2020",
 		"id": 1260857668542972000,
 		"id_str": "1260961643678195712",
@@ -285,7 +432,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Thu May 14 15:54:10 +0000 2020",
 		"id": 1260843131680878600,
 		"id_str": "1260961612367753216",
-		"full_text": "From. #HYOYEON 💌\n\n#SMTOWN 여러분 오랜만이죠?🙋🏻‍♀️\n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello SMTOWN friends, long time no see!🙋🏻‍♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #소녀시대 #GirlsGeneration #굿걸 https://t.co/TfZBnoAydE",
+		"full_text": "From. #HYOYEON 💌\n\n#SMTOWN 여러분 오랜만이죠?🙋🏻♀️\n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello SMTOWN friends, long time no see!🙋🏻♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #소녀시대 #GirlsGeneration #굿걸 https://t.co/TfZBnoAydE",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -496,7 +643,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": true,
 		"lang": "ko",
-		"text": "From. #HYOYEON 💌\n\n#SMTOWN 여러분 오랜만이죠?🙋🏻‍♀️\n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello SMTOWN friends, long time no see!🙋🏻‍♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #소녀시대 #GirlsGeneration #굿걸 https://t.co/TfZBnoAydE"
+		"text": "From. #HYOYEON 💌\n\n#SMTOWN 여러분 오랜만이죠?🙋🏻♀️\n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello SMTOWN friends, long time no see!🙋🏻♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #소녀시대 #GirlsGeneration #굿걸 https://t.co/TfZBnoAydE"
 	},
 	{
 		"created_at": "Thu May 14 15:53:30 +0000 2020",
