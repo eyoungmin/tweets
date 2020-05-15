@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 00:08:26 +0000 2020",
+		"id": 1260962364595114000,
+		"id_str": "1261085996902309888",
+		"full_text": "연례행사 이마트 와인장터. 국내 와인 매니아들의 페스토기간이라 해도 과언이 아님. 제가 고른 와인은 카스텔포르테의 아마로네 델라 발볼리첼라(좌)랑 폰타나프레다의 가비 디 가비 입니다. 둘다 가격은 파격 할인가 30,000원(이어서) https://t.co/5hlvo842l2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260961963917500400,
+					"id_str": "1260961963917500416",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EX_WOa6U4AAlAn-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EX_WOa6U4AAlAn-.png",
+					"url": "https://t.co/5hlvo842l2",
+					"display_url": "pic.twitter.com/5hlvo842l2",
+					"expanded_url": "https://twitter.com/ninahi_official/status/1260962364595113987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 595,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260961963917500400,
+					"id_str": "1260961963917500416",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EX_WOa6U4AAlAn-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EX_WOa6U4AAlAn-.png",
+					"url": "https://t.co/5hlvo842l2",
+					"display_url": "pic.twitter.com/5hlvo842l2",
+					"expanded_url": "https://twitter.com/ninahi_official/status/1260962364595113987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 595,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1260961993160183800,
+					"id_str": "1260961993160183813",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EX_WQH2U0AUIqir.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX_WQH2U0AUIqir.jpg",
+					"url": "https://t.co/5hlvo842l2",
+					"display_url": "pic.twitter.com/5hlvo842l2",
+					"expanded_url": "https://twitter.com/ninahi_official/status/1260962364595113987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800470563550433300,
+			"id_str": "800470563550433281",
+			"name": "니나히 ninahi",
+			"screen_name": "ninahi_official",
+			"location": "대한민국 강남구",
+			"description": "우리 곁에서 만져지고 보여지는 것들을 더 쓸모있고 아름답게 만들기 위하여 애쓰는 곳, 니나히의 공식 트위터 계정입니다. 코팅태양계뱃지 판매 폼 https://t.co/sKZXw60vW9",
+			"url": "https://t.co/5WWPyHRpqk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WWPyHRpqk",
+							"expanded_url": "http://www.ninahi.co.kr",
+							"display_url": "ninahi.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sKZXw60vW9",
+							"expanded_url": "http://naver.me/GkO7VWNJ",
+							"display_url": "naver.me/GkO7VWNJ",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5131,
+			"friends_count": 19,
+			"listed_count": 11,
+			"created_at": "Sun Nov 20 22:47:09 +0000 2016",
+			"favourites_count": 370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093840397799813120/ohO3HWuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093840397799813120/ohO3HWuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800470563550433281/1548248608",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 119,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "연례행사 이마트 와인장터. 국내 와인 매니아들의 페스토기간이라 해도 과언이 아님. 제가 고른 와인은 카스텔포르테의 아마로네 델라 발볼리첼라(좌)랑 폰타나프레다의 가비 디 가비 입니다. 둘다 가격은 파격 할인가 30,000원(이어서) https://t.co/5hlvo842l2"
+	},
+	{
 		"created_at": "Thu May 14 23:08:59 +0000 2020",
 		"id": 1261071038630092800,
 		"id_str": "1261071038630092800",
