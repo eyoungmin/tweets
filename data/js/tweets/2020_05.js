@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 21:48:08 +0000 2020",
+		"id": 1261392776177971200,
+		"id_str": "1261413078043815938",
+		"full_text": "최근 대유행중인, 유투브에 전설의 콘서트 영상을 한정시간 상영하고 코로나 성금 모으기. 이번 주말은 92년 프레디 머큐리 추모공연 https://t.co/R6iv7ExcGR 푸파이터즈 웸블리 https://t.co/H2ApfZGVTg 라디오헤드 서머소닉 https://t.co/EoU8LevtTS 그리고 82년 프린스.  https://t.co/FuuEbYEk7F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R6iv7ExcGR",
+					"expanded_url": "https://youtu.be/PN7oGo6qlMA",
+					"display_url": "youtu.be/PN7oGo6qlMA",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/H2ApfZGVTg",
+					"expanded_url": "https://www.youtube.com/watch?v=jcwBsntqjmY",
+					"display_url": "youtube.com/watch?v=jcwBsn…",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/EoU8LevtTS",
+					"expanded_url": "https://www.youtube.com/watch?v=Z49AnoS7C9Q",
+					"display_url": "youtube.com/watch?v=Z49Ano…",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/FuuEbYEk7F",
+					"expanded_url": "https://www.youtube.com/watch?v=KRa8ZH_iOXo",
+					"display_url": "youtube.com/watch?v=KRa8ZH…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37586683,
+			"id_str": "37586683",
+			"name": "Nakho Kim",
+			"screen_name": "capcold",
+			"location": "Harrisburg, PA",
+			"description": "Researches media. Reads comics. Embraces stupidity. / PSU HBG.\n기회는 공정하게, 과정은 정의롭게, 결과는 평등하게.",
+			"url": "https://t.co/jlgpmpTdEJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jlgpmpTdEJ",
+							"expanded_url": "http://capcold.net/blog",
+							"display_url": "capcold.net/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69327,
+			"friends_count": 175,
+			"listed_count": 476,
+			"created_at": "Mon May 04 03:42:08 +0000 2009",
+			"favourites_count": 188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C1C1C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1842341898/turn_capcold_vslow_bigger_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1842341898/turn_capcold_vslow_bigger_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37586683/1575052627",
+			"profile_link_color": "6B6B6B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 대유행중인, 유투브에 전설의 콘서트 영상을 한정시간 상영하고 코로나 성금 모으기. 이번 주말은 92년 프레디 머큐리 추모공연 https://t.co/R6iv7ExcGR 푸파이터즈 웸블리 https://t.co/H2ApfZGVTg 라디오헤드 서머소닉 https://t.co/EoU8LevtTS 그리고 82년 프린스.  https://t.co/FuuEbYEk7F"
+	},
+	{
 		"created_at": "Fri May 15 17:45:17 +0000 2020",
 		"id": 1261351962164879400,
 		"id_str": "1261351962164879360",
