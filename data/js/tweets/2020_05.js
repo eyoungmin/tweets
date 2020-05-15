@@ -1,6 +1,1246 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 14:26:18 +0000 2020",
+		"id": 1259974860047933400,
+		"id_str": "1261301887611162624",
+		"full_text": "빌 게이츠 어린 시절의 행운들. https://t.co/qvKzDLvhut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259974842666741800,
+					"id_str": "1259974842666741761",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EXxUcZsUcAEVkZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXxUcZsUcAEVkZm.jpg",
+					"url": "https://t.co/qvKzDLvhut",
+					"display_url": "pic.twitter.com/qvKzDLvhut",
+					"expanded_url": "https://twitter.com/John_Grib/status/1259974860047933441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1650,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259974842666741800,
+					"id_str": "1259974842666741761",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EXxUcZsUcAEVkZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXxUcZsUcAEVkZm.jpg",
+					"url": "https://t.co/qvKzDLvhut",
+					"display_url": "pic.twitter.com/qvKzDLvhut",
+					"expanded_url": "https://twitter.com/John_Grib/status/1259974860047933441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1650,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259974842658373600,
+					"id_str": "1259974842658373632",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EXxUcZqUwAAAF_t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXxUcZqUwAAAF_t.jpg",
+					"url": "https://t.co/qvKzDLvhut",
+					"display_url": "pic.twitter.com/qvKzDLvhut",
+					"expanded_url": "https://twitter.com/John_Grib/status/1259974860047933441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1798,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1054,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732911923,
+			"id_str": "732911923",
+			"name": "기계인간 John Grib",
+			"screen_name": "John_Grib",
+			"location": "기하학의 이념",
+			"description": "유물론자.",
+			"url": "https://t.co/7YPkFr8iLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YPkFr8iLb",
+							"expanded_url": "https://johngrib.github.io",
+							"display_url": "johngrib.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5731,
+			"friends_count": 369,
+			"listed_count": 41,
+			"created_at": "Thu Aug 02 14:16:06 +0000 2012",
+			"favourites_count": 8510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732911923/1472973825",
+			"profile_link_color": "45619D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 115,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌 게이츠 어린 시절의 행운들. https://t.co/qvKzDLvhut"
+	},
+	{
+		"created_at": "Fri May 15 14:22:22 +0000 2020",
+		"id": 1259975294393319400,
+		"id_str": "1261300898157826048",
+		"full_text": "넷플릭스 법: 인터넷 사업자가 트래픽 나오는 것에 따라 인터넷망사업자ISP 에게 돈을 내도록 하는 법.\n\n응? 뭐가 문제지? -&gt; 이 ISP들이 해외보다 몇 배나 비싸게 요금을 받아먹고 있다면, 과연 누가 갑질을 하고 있는 걸까. https://t.co/K5HuErxKUj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259974681781776400,
+					"id_str": "1259974681781776384",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXxUTCWWsAAUs1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXxUTCWWsAAUs1Q.jpg",
+					"url": "https://t.co/K5HuErxKUj",
+					"display_url": "pic.twitter.com/K5HuErxKUj",
+					"expanded_url": "https://twitter.com/emptydream/status/1259975294393319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 655,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 655,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259974681781776400,
+					"id_str": "1259974681781776384",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXxUTCWWsAAUs1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXxUTCWWsAAUs1Q.jpg",
+					"url": "https://t.co/K5HuErxKUj",
+					"display_url": "pic.twitter.com/K5HuErxKUj",
+					"expanded_url": "https://twitter.com/emptydream/status/1259975294393319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 655,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 655,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259974681454493700,
+					"id_str": "1259974681454493697",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXxUTBIUwAEYBfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXxUTBIUwAEYBfF.jpg",
+					"url": "https://t.co/K5HuErxKUj",
+					"display_url": "pic.twitter.com/K5HuErxKUj",
+					"expanded_url": "https://twitter.com/emptydream/status/1259975294393319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 638,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259974681701933000,
+					"id_str": "1259974681701933056",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXxUTCDUYAA1Egy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXxUTCDUYAA1Egy.jpg",
+					"url": "https://t.co/K5HuErxKUj",
+					"display_url": "pic.twitter.com/K5HuErxKUj",
+					"expanded_url": "https://twitter.com/emptydream/status/1259975294393319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 67248925,
+			"id_str": "67248925",
+			"name": "emptydream",
+			"screen_name": "emptydream",
+			"location": "andromeda",
+			"description": "bio-mechanic electronic emotion; 트위터에 맞팔이라는 개념은 없음. 질문 하나에 백만 원. 인용알티 무조건 블락.",
+			"url": "http://t.co/Zd0wQ0pssU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Zd0wQ0pssU",
+							"expanded_url": "http://www.emptydream.net",
+							"display_url": "emptydream.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6888,
+			"friends_count": 273,
+			"listed_count": 135,
+			"created_at": "Thu Aug 20 06:38:06 +0000 2009",
+			"favourites_count": 2572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/565531958520725504/2CtLOAKG_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/565531958520725504/2CtLOAKG_normal.jpeg",
+			"profile_link_color": "030303",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "D6D6D6",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2968,
+		"favorite_count": 636,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스 법: 인터넷 사업자가 트래픽 나오는 것에 따라 인터넷망사업자ISP 에게 돈을 내도록 하는 법.\n\n응? 뭐가 문제지? -&gt; 이 ISP들이 해외보다 몇 배나 비싸게 요금을 받아먹고 있다면, 과연 누가 갑질을 하고 있는 걸까. https://t.co/K5HuErxKUj"
+	},
+	{
+		"created_at": "Fri May 15 14:21:34 +0000 2020",
+		"id": 1260076990410809300,
+		"id_str": "1261300696395046912",
+		"full_text": "지난 4월 30일부터 페이스북에서는 미국과 캐나다 유저를 대상으로 구글 포토로 사진과 영상을 내보내는 기능을 제공중입니다. 2019년 12월 아일랜드를 대상으로 처음 공개된 이 기능은 현재는 한국 사용자도 사용 가능한 것으로 보입니다.\n#facebook #GooglePhoto #privacy\nhttps://t.co/m3FMxI2yq2 https://t.co/3tEIBcZ6X6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "facebook",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "GooglePhoto",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "privacy",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m3FMxI2yq2",
+					"expanded_url": "https://techcrunch.com/2020/04/30/facebook-now-allows-users-in-the-u-s-canada-to-export-photos-and-videos-to-google-photos/",
+					"display_url": "techcrunch.com/2020/04/30/fac…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259301826244907000,
+					"id_str": "1259301826244907008",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EXnwVsJUEAAAax6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXnwVsJUEAAAax6.jpg",
+					"url": "https://t.co/3tEIBcZ6X6",
+					"display_url": "pic.twitter.com/3tEIBcZ6X6",
+					"expanded_url": "https://twitter.com/fortyfourbits/status/1260076990410809345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 337,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1504,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259301826244907000,
+					"id_str": "1259301826244907008",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EXnwVsJUEAAAax6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXnwVsJUEAAAax6.jpg",
+					"url": "https://t.co/3tEIBcZ6X6",
+					"display_url": "pic.twitter.com/3tEIBcZ6X6",
+					"expanded_url": "https://twitter.com/fortyfourbits/status/1260076990410809345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 337,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1504,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166651117,
+			"id_str": "166651117",
+			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"screen_name": "fortyfourbits",
+			"location": "Republic of Korea",
+			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
+			"url": "https://t.co/9Ou3Dtkocu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Ou3Dtkocu",
+							"expanded_url": "https://www.44bits.io/ko",
+							"display_url": "44bits.io/ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 86,
+			"listed_count": 27,
+			"created_at": "Wed Jul 14 17:46:41 +0000 2010",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 4월 30일부터 페이스북에서는 미국과 캐나다 유저를 대상으로 구글 포토로 사진과 영상을 내보내는 기능을 제공중입니다. 2019년 12월 아일랜드를 대상으로 처음 공개된 이 기능은 현재는 한국 사용자도 사용 가능한 것으로 보입니다.\n#facebook #GooglePhoto #privacy\nhttps://t.co/m3FMxI2yq2 https://t.co/3tEIBcZ6X6"
+	},
+	{
+		"created_at": "Fri May 15 14:16:28 +0000 2020",
+		"id": 1260015844303573000,
+		"id_str": "1261299411109339138",
+		"full_text": "Storyboarder - 오픈소스 스토리보드 (무료) https://t.co/CP63IhKQhI \n영화 스튜디오인 Wonder Unit 에서 만든 오픈소스 스토리보드 프로그램\n\n- 도구들을 단순하게 설계함\nㅤ= 6가지 간단한 그리기 도구 (라이트펜슬, 하드펜슬, 펜, 브러쉬, 노트 펜, 지우개)\nㅤ= 클릭 한번으로 보드 추가\n...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CP63IhKQhI",
+					"expanded_url": "https://j.mp/3blKAi7",
+					"display_url": "j.mp/3blKAi7",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2898,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Storyboarder - 오픈소스 스토리보드 (무료) https://t.co/CP63IhKQhI \n영화 스튜디오인 Wonder Unit 에서 만든 오픈소스 스토리보드 프로그램\n\n- 도구들을 단순하게 설계함\nㅤ= 6가지 간단한 그리기 도구 (라이트펜슬, 하드펜슬, 펜, 브러쉬, 노트 펜, 지우개)\nㅤ= 클릭 한번으로 보드 추가\n..."
+	},
+	{
+		"created_at": "Fri May 15 14:16:07 +0000 2020",
+		"id": 1260015723365056500,
+		"id_str": "1261299326824837121",
+		"full_text": "[App Ape의 모바일 앱 분석] 사람들은 언제 ‘Instagram’앱을 가장 많이 열어볼까? HAU 데이터 활용하기 https://t.co/qoAYQpUmUP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoAYQpUmUP",
+					"expanded_url": "https://www.mobiinside.co.kr/?p=49945",
+					"display_url": "mobiinside.co.kr/?p=49945",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3431827212,
+			"id_str": "3431827212",
+			"name": "Mobiinside",
+			"screen_name": "mobiinside",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164,
+			"friends_count": 10,
+			"listed_count": 10,
+			"created_at": "Thu Sep 03 01:47:30 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/639254127076208640/vsXelQ58_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/639254127076208640/vsXelQ58_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[App Ape의 모바일 앱 분석] 사람들은 언제 ‘Instagram’앱을 가장 많이 열어볼까? HAU 데이터 활용하기 https://t.co/qoAYQpUmUP"
+	},
+	{
+		"created_at": "Fri May 15 14:14:42 +0000 2020",
+		"id": 1260002256876781600,
+		"id_str": "1261298969734295553",
+		"full_text": "Awesome AWS Workshops https://t.co/jX7zain0Lw \n- AWS를 쉽게 배우는 워크샵 모음 (현재 총 191개)\n- 카테고리별 정리\nAI and ML\nAlexa\nApplication Modernization\nBlockChain\nConnect\nContainers\nDatabases\nDataLake and Analytics\nDevelopment and CI/CD\nEnd User Computing\nEnter...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jX7zain0Lw",
+					"expanded_url": "https://j.mp/3cqasLl",
+					"display_url": "j.mp/3cqasLl",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2898,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Awesome AWS Workshops https://t.co/jX7zain0Lw \n- AWS를 쉽게 배우는 워크샵 모음 (현재 총 191개)\n- 카테고리별 정리\nAI and ML\nAlexa\nApplication Modernization\nBlockChain\nConnect\nContainers\nDatabases\nDataLake and Analytics\nDevelopment and CI/CD\nEnd User Computing\nEnter..."
+	},
+	{
+		"created_at": "Fri May 15 14:13:50 +0000 2020",
+		"id": 1260007288279949300,
+		"id_str": "1261298748988092420",
+		"full_text": "WebRecorder - 오픈소스 웹페이지 녹화 도구  https://t.co/Ns1R4f1kIC \n- 크롤링 방식이 아닌 브라우저의 네트웍 트래픽 캡쳐방식\nㅤ→ 로그인된 상태로 모든 미디어 파일 및 복잡한 자바스크립트, 동적 컨텐츠까지 캡쳐가능\n- WARC 표준으로 녹화해서 나중에 인터랙티브하게 다시 보기 가능\n-...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ns1R4f1kIC",
+					"expanded_url": "https://j.mp/2SYGKp3",
+					"display_url": "j.mp/2SYGKp3",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2898,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WebRecorder - 오픈소스 웹페이지 녹화 도구  https://t.co/Ns1R4f1kIC \n- 크롤링 방식이 아닌 브라우저의 네트웍 트래픽 캡쳐방식\nㅤ→ 로그인된 상태로 모든 미디어 파일 및 복잡한 자바스크립트, 동적 컨텐츠까지 캡쳐가능\n- WARC 표준으로 녹화해서 나중에 인터랙티브하게 다시 보기 가능\n-..."
+	},
+	{
+		"created_at": "Fri May 15 14:12:56 +0000 2020",
+		"id": 1261298525574324200,
+		"id_str": "1261298525574324225",
+		"full_text": "Release Webrecorder Desktop 2.0.1 · webrecorder/webrecorder-desktop · GitHub\nhttps://t.co/yB2qnzTeIQ\n\n웹페이지 아카이빙 프로그램 Webrecorder Desktop\n\n#Webrecorder #웹레코더 #Recorder #레코더\n#Archive #아카이브 #백업 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Webrecorder",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "웹레코더",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "Recorder",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "레코더",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "Archive",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "아카이브",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "백업",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						191,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yB2qnzTeIQ",
+					"expanded_url": "https://github.com/webrecorder/webrecorder-desktop/releases/tag/v2.0.1",
+					"display_url": "github.com/webrecorder/we…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Release Webrecorder Desktop 2.0.1 · webrecorder/webrecorder-desktop · GitHub\nhttps://t.co/yB2qnzTeIQ\n\n웹페이지 아카이빙 프로그램 Webrecorder Desktop\n\n#Webrecorder #웹레코더 #Recorder #레코더\n#Archive #아카이브 #백업 #minfav"
+	},
+	{
 		"created_at": "Fri May 15 13:38:13 +0000 2020",
 		"id": 1261289787811442700,
 		"id_str": "1261289787811442689",
