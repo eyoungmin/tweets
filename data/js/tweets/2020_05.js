@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 03:45:37 +0000 2020",
+		"id": 1261129190285271000,
+		"id_str": "1261140653796405249",
+		"full_text": "[달로그 #2] 애옹이의 하루가 궁금한 오빛?! 봄날의 현진이를 보러 오세요🐾\n이달의 소녀 공식 유튜브 채널에서 달로그를 확인하세요!\n\n▶ https://t.co/x8moVfDBJq\n\n#이달의소녀 #달로그 #현진 #LOONA #LOONALOG #HyunJin https://t.co/NVuBXbyb6x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "달로그",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "LOONALOG",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x8moVfDBJq",
+					"expanded_url": "https://youtu.be/WHGe4O4wg2A",
+					"display_url": "youtu.be/WHGe4O4wg2A",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261128425357471700,
+					"id_str": "1261128425357471745",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EYBtnwGUcAE7lFU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYBtnwGUcAE7lFU.jpg",
+					"url": "https://t.co/NVuBXbyb6x",
+					"display_url": "pic.twitter.com/NVuBXbyb6x",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1261129190285271040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261128425357471700,
+					"id_str": "1261128425357471745",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EYBtnwGUcAE7lFU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYBtnwGUcAE7lFU.jpg",
+					"url": "https://t.co/NVuBXbyb6x",
+					"display_url": "pic.twitter.com/NVuBXbyb6x",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1261129190285271040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 463601,
+			"friends_count": 0,
+			"listed_count": 4925,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3957,
+		"favorite_count": 9253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[달로그 #2] 애옹이의 하루가 궁금한 오빛?! 봄날의 현진이를 보러 오세요🐾\n이달의 소녀 공식 유튜브 채널에서 달로그를 확인하세요!\n\n▶ https://t.co/x8moVfDBJq\n\n#이달의소녀 #달로그 #현진 #LOONA #LOONALOG #HyunJin https://t.co/NVuBXbyb6x"
+	},
+	{
 		"created_at": "Fri May 15 03:00:58 +0000 2020",
 		"id": 1261129419147620400,
 		"id_str": "1261129419147620353",
