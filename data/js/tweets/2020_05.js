@@ -1,6 +1,752 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 06:52:18 +0000 2020",
+		"id": 1261182064126115800,
+		"id_str": "1261187636770848768",
+		"full_text": "📸 화보 촬영 #SnapShot\n\n🌹🖤 @dolcegabbana\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티\n#DGBeauty https://t.co/yRjQZhiByl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SnapShot",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "돌체앤가바나뷰티",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "DGBeauty",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dolcegabbana",
+					"name": "Dolce & Gabbana",
+					"id": 85772748,
+					"id_str": "85772748",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261182049311842300,
+					"id_str": "1261182049311842304",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeZE5U4AA5I-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeZE5U4AA5I-w.jpg",
+					"url": "https://t.co/yRjQZhiByl",
+					"display_url": "pic.twitter.com/yRjQZhiByl",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1261182064126115840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261182049311842300,
+					"id_str": "1261182049311842304",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeZE5U4AA5I-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeZE5U4AA5I-w.jpg",
+					"url": "https://t.co/yRjQZhiByl",
+					"display_url": "pic.twitter.com/yRjQZhiByl",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1261182064126115840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261182049311809500,
+					"id_str": "1261182049311809536",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeZE5UYAAaVLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeZE5UYAAaVLw.jpg",
+					"url": "https://t.co/yRjQZhiByl",
+					"display_url": "pic.twitter.com/yRjQZhiByl",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1261182064126115840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261182049311842300,
+					"id_str": "1261182049311842311",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeZE5U4AcaNNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeZE5U4AcaNNq.jpg",
+					"url": "https://t.co/yRjQZhiByl",
+					"display_url": "pic.twitter.com/yRjQZhiByl",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1261182064126115840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261182049307639800,
+					"id_str": "1261182049307639809",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeZE4UwAEnSdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeZE4UwAEnSdu.jpg",
+					"url": "https://t.co/yRjQZhiByl",
+					"display_url": "pic.twitter.com/yRjQZhiByl",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1261182064126115840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259911,
+			"friends_count": 0,
+			"listed_count": 1589,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 929,
+		"favorite_count": 3321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 화보 촬영 #SnapShot\n\n🌹🖤 @dolcegabbana\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티\n#DGBeauty https://t.co/yRjQZhiByl"
+	},
+	{
+		"created_at": "Fri May 15 06:52:12 +0000 2020",
+		"id": 1261176961411375000,
+		"id_str": "1261187611194019840",
+		"full_text": "[NOTICE]  'Every letter I sent you.' vinyl additional pressing • 'Every letter I sent you.' 바이닐 추가 제작 안내 ▶️ https://t.co/FJYZ3Oznqx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FJYZ3Oznqx",
+					"expanded_url": "https://www.instagram.com/p/CAMpxMPDCTP/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/CAMpxMPDCTP/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10907,
+			"friends_count": 0,
+			"listed_count": 79,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]  'Every letter I sent you.' vinyl additional pressing • 'Every letter I sent you.' 바이닐 추가 제작 안내 ▶️ https://t.co/FJYZ3Oznqx"
+	},
+	{
+		"created_at": "Fri May 15 06:45:36 +0000 2020",
+		"id": 1261182975791657000,
+		"id_str": "1261185950664835072",
+		"full_text": "[#김립 / #KimLip] 오빛들 요즘 날씨가 너무 좋아서 예전에 찍었던 사진들 올려 봐요 저는 요즘 숙소에서 분노의 질주..영화 보기에 푹 빠졌답니다 오빛들도 같이 봐요:) 그리고 언제나 건강 조심하기! 사랑행🥰\n\n #이달의소녀 #LOONA https://t.co/OAeA0rynx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261181972027601000,
+					"id_str": "1261181972027600898",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeUk_U8AImXx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeUk_U8AImXx0.jpg",
+					"url": "https://t.co/OAeA0rynx7",
+					"display_url": "pic.twitter.com/OAeA0rynx7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1261182975791656965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261181972027601000,
+					"id_str": "1261181972027600898",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeUk_U8AImXx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeUk_U8AImXx0.jpg",
+					"url": "https://t.co/OAeA0rynx7",
+					"display_url": "pic.twitter.com/OAeA0rynx7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1261182975791656965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261181972031799300,
+					"id_str": "1261181972031799297",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeUlAVAAEwgaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeUlAVAAEwgaf.jpg",
+					"url": "https://t.co/OAeA0rynx7",
+					"display_url": "pic.twitter.com/OAeA0rynx7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1261182975791656965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261181972031783000,
+					"id_str": "1261181972031782912",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeUlAUwAAwA0N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeUlAUwAAwA0N.jpg",
+					"url": "https://t.co/OAeA0rynx7",
+					"display_url": "pic.twitter.com/OAeA0rynx7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1261182975791656965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261181972027633700,
+					"id_str": "1261181972027633664",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCeUk_VcAAY4rn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCeUk_VcAAY4rn.jpg",
+					"url": "https://t.co/OAeA0rynx7",
+					"display_url": "pic.twitter.com/OAeA0rynx7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1261182975791656965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 463678,
+			"friends_count": 0,
+			"listed_count": 4926,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4753,
+		"favorite_count": 10493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김립 / #KimLip] 오빛들 요즘 날씨가 너무 좋아서 예전에 찍었던 사진들 올려 봐요 저는 요즘 숙소에서 분노의 질주..영화 보기에 푹 빠졌답니다 오빛들도 같이 봐요:) 그리고 언제나 건강 조심하기! 사랑행🥰\n\n #이달의소녀 #LOONA https://t.co/OAeA0rynx7"
+	},
+	{
 		"created_at": "Fri May 15 05:27:57 +0000 2020",
 		"id": 1261153055690506200,
 		"id_str": "1261166405690494976",
