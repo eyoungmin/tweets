@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 15:06:40 +0000 2020",
+		"id": 1261310433568239600,
+		"id_str": "1261312044973699074",
+		"full_text": "오마이걸 (OHMYGIRL) Dolphin - Special Clip \n따따따따🌀 물보라를 일으켜〰️🐬💦\n\nYoutube: https://t.co/msPCYxbJE3\nVlive: https://t.co/B71GWPijIx\n\n#오마이걸 #OHMYGIRL #돌핀 #Dolphin https://t.co/XmDpnuujri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "돌핀",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "Dolphin",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/msPCYxbJE3",
+					"expanded_url": "https://youtu.be/oaRTMjLdiDw",
+					"display_url": "youtu.be/oaRTMjLdiDw",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/B71GWPijIx",
+					"expanded_url": "https://www.vlive.tv/video/191551",
+					"display_url": "vlive.tv/video/191551",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261309580539072500,
+					"id_str": "1261309580539072512",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EYES7BNVAAEteCF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYES7BNVAAEteCF.jpg",
+					"url": "https://t.co/XmDpnuujri",
+					"display_url": "pic.twitter.com/XmDpnuujri",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1261310433568239616/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261309580539072500,
+					"id_str": "1261309580539072512",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EYES7BNVAAEteCF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYES7BNVAAEteCF.jpg",
+					"url": "https://t.co/XmDpnuujri",
+					"display_url": "pic.twitter.com/XmDpnuujri",
+					"expanded_url": "https://twitter.com/8_OHMYGIRL/status/1261310433568239616/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20103,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1261309580539072512/vid/480x270/tduNEHq6HT70Rf-I.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1261309580539072512/vid/640x360/hPUbPDT5sBQHYfa5.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1261309580539072512/pl/8NmoaU00_G99XKTw.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1261309580539072512/vid/1280x720/Jqiyg40N94ZgJuW2.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/oaRTMjLdiDw"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3737955853,
+			"id_str": "3737955853",
+			"name": "OHMYGIRL_official",
+			"screen_name": "8_OHMYGIRL",
+			"location": "",
+			"description": "오마이걸 공식 트위터입니다. (오마이걸 공지 안내)",
+			"url": "https://t.co/M10f0dJavi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M10f0dJavi",
+							"expanded_url": "http://ohmy-girl.com/",
+							"display_url": "ohmy-girl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151585,
+			"friends_count": 3,
+			"listed_count": 1431,
+			"created_at": "Wed Sep 30 14:57:33 +0000 2015",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460621702443008/SMYMKWtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3737955853/1587403260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2031,
+		"favorite_count": 2483,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오마이걸 (OHMYGIRL) Dolphin - Special Clip \n따따따따🌀 물보라를 일으켜〰️🐬💦\n\nYoutube: https://t.co/msPCYxbJE3\nVlive: https://t.co/B71GWPijIx\n\n#오마이걸 #OHMYGIRL #돌핀 #Dolphin https://t.co/XmDpnuujri"
+	},
+	{
 		"created_at": "Fri May 15 14:26:18 +0000 2020",
 		"id": 1259974860047933400,
 		"id_str": "1261301887611162624",
@@ -590,7 +851,7 @@ Grailbird.data.tweets_2020_05 =
 		"user": {
 			"id": 166651117,
 			"id_str": "166651117",
-			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"name": "44BITS 기술 블로그 👩💻👨💻",
 			"screen_name": "fortyfourbits",
 			"location": "Republic of Korea",
 			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
