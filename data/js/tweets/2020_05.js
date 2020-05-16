@@ -1,6 +1,165 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 15:11:33 +0000 2020",
+		"id": 1261674625689243600,
+		"id_str": "1261675664832212992",
+		"full_text": "CATS The Musical - FULL STAGE SHOW | The Shows Must Go On - Stay Home #WithMe\nhttps://t.co/lynbrHdCVV\n뮤지컬 캣츠 48시간동안 공개\n#뮤지컬 #CATS #캣츠 #스트리밍 #StayHome",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WithMe",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "뮤지컬",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "CATS",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "캣츠",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "스트리밍",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "StayHome",
+					"indices": [
+						140,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lynbrHdCVV",
+					"expanded_url": "https://youtu.be/TAAaq7M0aXs",
+					"display_url": "youtu.be/TAAaq7M0aXs",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내는 @SOLPLPARTY\n티켓오픈 소식은 @TicketOpen",
+			"url": "https://t.co/WyQUZPoAWK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WyQUZPoAWK",
+							"expanded_url": "https://artmanagement.solplparty.com/",
+							"display_url": "artmanagement.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 250,
+			"friends_count": 44,
+			"listed_count": 1,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CATS The Musical - FULL STAGE SHOW | The Shows Must Go On - Stay Home #WithMe\nhttps://t.co/lynbrHdCVV\n뮤지컬 캣츠 48시간동안 공개\n#뮤지컬 #CATS #캣츠 #스트리밍 #StayHome"
+	},
+	{
 		"created_at": "Sat May 16 14:30:23 +0000 2020",
 		"id": 1261665301873127400,
 		"id_str": "1261665301873127424",
