@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 05:27:56 +0000 2020",
+		"id": 1261521760018665500,
+		"id_str": "1261528792687874048",
+		"full_text": "[애교MBTI] 누군가 과즙상이 뭔지 묻거든 고개를 들어 이들을 보게하라\n\n그라데이션으로 익어가는 과일 인간들 (◞ꈍ∇ꈍ)◞ ♡\n당신들 이런 모습에 미쳐버려...\n\n주접댓글과 함께보는 과즙상 아이돌들의 애교송!\n📹https://t.co/EtmsYxdS4L\n\n#주간아이돌 #애교송 #MBTI #조이 #나연 #유아 #수진 https://t.co/Ppc1lcuZ8Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "애교송",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "MBTI",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "수진",
+					"indices": [
+						174,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EtmsYxdS4L",
+					"expanded_url": "https://youtu.be/OzCwCmXqqd8",
+					"display_url": "youtu.be/OzCwCmXqqd8",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261167805644198000,
+					"id_str": "1261167805644197888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCRb_GU0AApAPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCRb_GU0AApAPd.jpg",
+					"url": "https://t.co/Ppc1lcuZ8Q",
+					"display_url": "pic.twitter.com/Ppc1lcuZ8Q",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1261521760018665472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261167805644198000,
+					"id_str": "1261167805644197888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCRb_GU0AApAPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCRb_GU0AApAPd.jpg",
+					"url": "https://t.co/Ppc1lcuZ8Q",
+					"display_url": "pic.twitter.com/Ppc1lcuZ8Q",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1261521760018665472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33701,
+			"friends_count": 4681,
+			"listed_count": 190,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[애교MBTI] 누군가 과즙상이 뭔지 묻거든 고개를 들어 이들을 보게하라\n\n그라데이션으로 익어가는 과일 인간들 (◞ꈍ∇ꈍ)◞ ♡\n당신들 이런 모습에 미쳐버려...\n\n주접댓글과 함께보는 과즙상 아이돌들의 애교송!\n📹https://t.co/EtmsYxdS4L\n\n#주간아이돌 #애교송 #MBTI #조이 #나연 #유아 #수진 https://t.co/Ppc1lcuZ8Q"
+	},
+	{
 		"created_at": "Sat May 16 03:37:52 +0000 2020",
 		"id": 1261501091172110300,
 		"id_str": "1261501091172110336",
