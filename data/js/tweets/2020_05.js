@@ -1,6 +1,1308 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 03:37:52 +0000 2020",
+		"id": 1261501091172110300,
+		"id_str": "1261501091172110336",
+		"full_text": "4억달러....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "4억달러...."
+	},
+	{
+		"created_at": "Sat May 16 03:34:20 +0000 2020",
+		"id": 1261466662672318500,
+		"id_str": "1261500203867099138",
+		"full_text": "페이스북, Animated GIF 공유서비스 Giphy를 4억달러에 인수 https://t.co/dBRq2RpRCI \n- 파트너십으로 얘기를 시작했다가 인수로 발전\n- 2013년 창업한 Giphy는 지금까지 1.5억달러 정도를 투자 받음. 최근 가치는 약 6억달러\n- 기존에 광고/브랜드콘텐츠 수익모델이었기에 페이스북 광고시스템...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dBRq2RpRCI",
+					"expanded_url": "https://j.mp/3688VqL",
+					"display_url": "j.mp/3688VqL",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2899,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북, Animated GIF 공유서비스 Giphy를 4억달러에 인수 https://t.co/dBRq2RpRCI \n- 파트너십으로 얘기를 시작했다가 인수로 발전\n- 2013년 창업한 Giphy는 지금까지 1.5억달러 정도를 투자 받음. 최근 가치는 약 6억달러\n- 기존에 광고/브랜드콘텐츠 수익모델이었기에 페이스북 광고시스템..."
+	},
+	{
+		"created_at": "Sat May 16 03:27:57 +0000 2020",
+		"id": 1261491684468121600,
+		"id_str": "1261498595519410177",
+		"full_text": "💙웬디 ‘더 킹’ OST 참여!💙\n\n💿웬디X지코 듀엣곡 ‘나의 하루는 다 너로 가득해’ 음원 오늘 오후 6시 공개!\n\n웬디의 청아한 음색을 오늘 만나보세요!🐿🎵\n\n#웬디 #WENDY #레드벨벳 #RedVelvet #지코 #ZICO #나의_하루는_다_너로_가득해 #더킹 #The_King_Eternal_Monarch https://t.co/D0SgsSqbLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "ZICO",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "나의_하루는_다_너로_가득해",
+					"indices": [
+						129,
+						145
+					]
+				},
+				{
+					"text": "더킹",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "The_King_Eternal_Monarch",
+					"indices": [
+						150,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261491661999181800,
+					"id_str": "1261491661999181825",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EYG3-6CUEAEBVwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYG3-6CUEAEBVwQ.jpg",
+					"url": "https://t.co/D0SgsSqbLB",
+					"display_url": "pic.twitter.com/D0SgsSqbLB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1261491684468121600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 934,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261491661999181800,
+					"id_str": "1261491661999181825",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EYG3-6CUEAEBVwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYG3-6CUEAEBVwQ.jpg",
+					"url": "https://t.co/D0SgsSqbLB",
+					"display_url": "pic.twitter.com/D0SgsSqbLB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1261491684468121600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 934,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261491676196962300,
+					"id_str": "1261491676196962304",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EYG3_u7VAAA1-l9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYG3_u7VAAA1-l9.jpg",
+					"url": "https://t.co/D0SgsSqbLB",
+					"display_url": "pic.twitter.com/D0SgsSqbLB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1261491684468121600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 934,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2542043,
+			"friends_count": 2,
+			"listed_count": 5702,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7355,
+		"favorite_count": 20451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙웬디 ‘더 킹’ OST 참여!💙\n\n💿웬디X지코 듀엣곡 ‘나의 하루는 다 너로 가득해’ 음원 오늘 오후 6시 공개!\n\n웬디의 청아한 음색을 오늘 만나보세요!🐿🎵\n\n#웬디 #WENDY #레드벨벳 #RedVelvet #지코 #ZICO #나의_하루는_다_너로_가득해 #더킹 #The_King_Eternal_Monarch https://t.co/D0SgsSqbLB"
+	},
+	{
+		"created_at": "Sat May 16 03:20:47 +0000 2020",
+		"id": 1261479006282678300,
+		"id_str": "1261496794363555842",
+		"full_text": "\"Happy\" lands @GirlsGeneration's Taeyeon her 15th top 10 hit on World Digital Song Sales https://t.co/uLPmd2HMlU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uLPmd2HMlU",
+					"expanded_url": "http://blbrd.cm/UVpZa3f",
+					"display_url": "blbrd.cm/UVpZa3f",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8786176,
+			"friends_count": 3198,
+			"listed_count": 19516,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 250314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1584028138",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 987,
+		"favorite_count": 2084,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Happy\" lands @GirlsGeneration's Taeyeon her 15th top 10 hit on World Digital Song Sales https://t.co/uLPmd2HMlU"
+	},
+	{
+		"created_at": "Sat May 16 03:20:37 +0000 2020",
+		"id": 1261211360672788500,
+		"id_str": "1261496751443152898",
+		"full_text": "💛🦌 #YOONA ขึ้นประดับบนปกนิตยสาร ‘BIG ISSUE’🦌💛\n\nการบริจาคอันแสนอบอุ่นแด่ผู้ไร้บ้านที่ YOONA นึกถึงเป็นอย่างแรกสำหรับวันเกิดของเธอ!\n\nสามารถอ่านบทสัมภาษณ์ของ YOONA ได้ใน ‘BIG ISSUE’ ฉบับ 227 ที่วางจำหน่ายวันนี้นะคะ!❣️\n\n#윤아 #소녀시대 #GirlsGeneration\n\n[https://t.co/cWsGVksytl] https://t.co/dfLSnJaKox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						216,
+						219
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						220,
+						225
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						226,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cWsGVksytl",
+					"expanded_url": "http://facebook.com/212568845457738/posts/2997642443617017/",
+					"display_url": "facebook.com/21256884545773…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261211339101360000,
+					"id_str": "1261211339101360130",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EYC5B93U0AIhGIn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYC5B93U0AIhGIn.jpg",
+					"url": "https://t.co/dfLSnJaKox",
+					"display_url": "pic.twitter.com/dfLSnJaKox",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1261211360672788483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261211339101360000,
+					"id_str": "1261211339101360130",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EYC5B93U0AIhGIn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYC5B93U0AIhGIn.jpg",
+					"url": "https://t.co/dfLSnJaKox",
+					"display_url": "pic.twitter.com/dfLSnJaKox",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1261211360672788483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261211339101360000,
+					"id_str": "1261211339101360129",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EYC5B93U0AEHkRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYC5B93U0AEHkRi.jpg",
+					"url": "https://t.co/dfLSnJaKox",
+					"display_url": "pic.twitter.com/dfLSnJaKox",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1261211360672788483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261211339105505300,
+					"id_str": "1261211339105505280",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EYC5B94UEAAAdGk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYC5B94UEAAAdGk.jpg",
+					"url": "https://t.co/dfLSnJaKox",
+					"display_url": "pic.twitter.com/dfLSnJaKox",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1261211360672788483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 827,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72921,
+			"friends_count": 46,
+			"listed_count": 115,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 609,
+		"favorite_count": 390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "💛🦌 #YOONA ขึ้นประดับบนปกนิตยสาร ‘BIG ISSUE’🦌💛\n\nการบริจาคอันแสนอบอุ่นแด่ผู้ไร้บ้านที่ YOONA นึกถึงเป็นอย่างแรกสำหรับวันเกิดของเธอ!\n\nสามารถอ่านบทสัมภาษณ์ของ YOONA ได้ใน ‘BIG ISSUE’ ฉบับ 227 ที่วางจำหน่ายวันนี้นะคะ!❣️\n\n#윤아 #소녀시대 #GirlsGeneration\n\n[https://t.co/cWsGVksytl] https://t.co/dfLSnJaKox"
+	},
+	{
+		"created_at": "Sat May 16 03:19:58 +0000 2020",
+		"id": 1261491734682275800,
+		"id_str": "1261496585961107456",
+		"full_text": "이지금 채널 300만 구독자 달성✨\n또, 아이유 생일을 기념해\n살랑살랑한 ‘에잇’\n어쿠스틱 라이브 공개🍃\n\n🎥 https://t.co/1MvMzfjfs2\n\n#아이유 #IU #에잇 #eight\n#dlwlrma https://t.co/czEDKE09eB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "에잇",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "eight",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "dlwlrma",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1MvMzfjfs2",
+					"expanded_url": "https://youtu.be/tJM0yIbg8iQ",
+					"display_url": "youtu.be/tJM0yIbg8iQ",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261491707029250000,
+					"id_str": "1261491707029250049",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EYG4BhyUYAE9HIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYG4BhyUYAE9HIB.jpg",
+					"url": "https://t.co/czEDKE09eB",
+					"display_url": "pic.twitter.com/czEDKE09eB",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1261491734682275840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261491707029250000,
+					"id_str": "1261491707029250049",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EYG4BhyUYAE9HIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYG4BhyUYAE9HIB.jpg",
+					"url": "https://t.co/czEDKE09eB",
+					"display_url": "pic.twitter.com/czEDKE09eB",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1261491734682275840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563608,
+			"friends_count": 0,
+			"listed_count": 1036,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10507,
+		"favorite_count": 25779,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이지금 채널 300만 구독자 달성✨\n또, 아이유 생일을 기념해\n살랑살랑한 ‘에잇’\n어쿠스틱 라이브 공개🍃\n\n🎥 https://t.co/1MvMzfjfs2\n\n#아이유 #IU #에잇 #eight\n#dlwlrma https://t.co/czEDKE09eB"
+	},
+	{
+		"created_at": "Sat May 16 03:19:40 +0000 2020",
+		"id": 1261310435665444900,
+		"id_str": "1261496513097682944",
+		"full_text": "♥ Happy Birthday, IU ♥\n⠀\n#아이유 #IU\n#생일축하합니다 https://t.co/099wtVDRyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "생일축하합니다",
+					"indices": [
+						34,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261310418464587800,
+					"id_str": "1261310418464587776",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EYETJJQUwAA_Qxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYETJJQUwAA_Qxv.jpg",
+					"url": "https://t.co/099wtVDRyP",
+					"display_url": "pic.twitter.com/099wtVDRyP",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1261310435665444864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261310418464587800,
+					"id_str": "1261310418464587776",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EYETJJQUwAA_Qxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYETJJQUwAA_Qxv.jpg",
+					"url": "https://t.co/099wtVDRyP",
+					"display_url": "pic.twitter.com/099wtVDRyP",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1261310435665444864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563608,
+			"friends_count": 0,
+			"listed_count": 1036,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65939,
+		"favorite_count": 174051,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "♥ Happy Birthday, IU ♥\n⠀\n#아이유 #IU\n#생일축하합니다 https://t.co/099wtVDRyP"
+	},
+	{
 		"created_at": "Sat May 16 03:00:52 +0000 2020",
 		"id": 1261491779506929700,
 		"id_str": "1261491779506929671",
