@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 10:31:16 +0000 2020",
+		"id": 1261548952987381800,
+		"id_str": "1261605126059384837",
+		"full_text": "페이스북과 구글의 엔지니어링 비교 [한글 요약] https://t.co/KZuKUgU8Ut \n실행 속도, 비전/큰 그림, 커리어 성장, 프로젝트 및 아이디어 다양성, 조직 간 협업, 심리적 안전, 엔지니어링 매니지먼트, 엔지니어링의 탁월함, 비즈니스 집중, 툴체인 (다양한 툴) 의 10가지 항목에서 페이스북과 구글...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZuKUgU8Ut",
+					"expanded_url": "https://j.mp/363iQOt",
+					"display_url": "j.mp/363iQOt",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2905,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북과 구글의 엔지니어링 비교 [한글 요약] https://t.co/KZuKUgU8Ut \n실행 속도, 비전/큰 그림, 커리어 성장, 프로젝트 및 아이디어 다양성, 조직 간 협업, 심리적 안전, 엔지니어링 매니지먼트, 엔지니어링의 탁월함, 비즈니스 집중, 툴체인 (다양한 툴) 의 10가지 항목에서 페이스북과 구글..."
+	},
+	{
+		"created_at": "Sat May 16 10:30:56 +0000 2020",
+		"id": 1261561270542581800,
+		"id_str": "1261605041758105600",
+		"full_text": "파이어폭스의 읽기 모드를 독립적으로 사용할 수 있는 mozilla/readability 라이브러리로 요약 RSS 피드를 전문 RSS 피드로 만드는 법을 소개합니다.\n#link #remind #rss #mozilla\nhttps://t.co/K8EVN6I55T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "link",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "remind",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "rss",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "mozilla",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K8EVN6I55T",
+					"expanded_url": "https://www.44bits.io/ko/post/generate-full-feed-by-using-mozilla-readability",
+					"display_url": "44bits.io/ko/post/genera…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166651117,
+			"id_str": "166651117",
+			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"screen_name": "fortyfourbits",
+			"location": "Republic of Korea",
+			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
+			"url": "https://t.co/9Ou3Dtkocu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Ou3Dtkocu",
+							"expanded_url": "https://www.44bits.io/ko",
+							"display_url": "44bits.io/ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2148,
+			"friends_count": 86,
+			"listed_count": 27,
+			"created_at": "Wed Jul 14 17:46:41 +0000 2010",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파이어폭스의 읽기 모드를 독립적으로 사용할 수 있는 mozilla/readability 라이브러리로 요약 RSS 피드를 전문 RSS 피드로 만드는 법을 소개합니다.\n#link #remind #rss #mozilla\nhttps://t.co/K8EVN6I55T"
+	},
+	{
+		"created_at": "Sat May 16 10:30:29 +0000 2020",
+		"id": 1261305532230635500,
+		"id_str": "1261604929359077382",
+		"full_text": "We’re so excited to share some news – GIPHY has been acquired by @Facebook and is joining the @Instagram team! 🎉\n\nRead more here: https://t.co/U6AYQ16cEQ https://t.co/ATjEY1VK3K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Facebook",
+					"name": "Facebook",
+					"id": 2425151,
+					"id_str": "2425151",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "instagram",
+					"name": "Instagram",
+					"id": 180505807,
+					"id_str": "180505807",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U6AYQ16cEQ",
+					"expanded_url": "https://medium.com/@giphy/giphy-to-join-facebook-as-part-of-the-instagram-team-e7ea8d32d7b6",
+					"display_url": "medium.com/@giphy/giphy-t…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261305455181205500,
+					"id_str": "1261305455181205507",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYEOoPlWkAMeIle.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYEOoPlWkAMeIle.jpg",
+					"url": "https://t.co/ATjEY1VK3K",
+					"display_url": "pic.twitter.com/ATjEY1VK3K",
+					"expanded_url": "https://twitter.com/GIPHY/status/1261305532230635523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261305455181205500,
+					"id_str": "1261305455181205507",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYEOoPlWkAMeIle.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYEOoPlWkAMeIle.jpg",
+					"url": "https://t.co/ATjEY1VK3K",
+					"display_url": "pic.twitter.com/ATjEY1VK3K",
+					"expanded_url": "https://twitter.com/GIPHY/status/1261305532230635523/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EYEOoPlWkAMeIle.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1020383864,
+			"id_str": "1020383864",
+			"name": "GIPHY",
+			"screen_name": "GIPHY",
+			"location": "New York, NY",
+			"description": "loopy",
+			"url": "https://t.co/CFrDx2ofpD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CFrDx2ofpD",
+							"expanded_url": "http://giphy.com",
+							"display_url": "giphy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267154,
+			"friends_count": 1012,
+			"listed_count": 1302,
+			"created_at": "Tue Dec 18 18:33:45 +0000 2012",
+			"favourites_count": 41545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217168378059730944/FQKlC_aj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217168378059730944/FQKlC_aj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020383864/1571234437",
+			"profile_link_color": "00CCFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re so excited to share some news – GIPHY has been acquired by @Facebook and is joining the @Instagram team! 🎉\n\nRead more here: https://t.co/U6AYQ16cEQ https://t.co/ATjEY1VK3K"
+	},
+	{
 		"created_at": "Sat May 16 09:27:57 +0000 2020",
 		"id": 1261584412296110000,
 		"id_str": "1261589191101685760",
