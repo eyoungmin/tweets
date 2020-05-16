@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 09:27:57 +0000 2020",
+		"id": 1261584412296110000,
+		"id_str": "1261589191101685760",
+		"full_text": "#웬디 X #지코 [더 킹 : 영원의 군주 OST Part 10 ‘나의 하루는 다 너로 가득해’]\n\n🎧Melon:https://t.co/hCAW6iJiSm\n🎧FLO:https://t.co/InmVV6Gsyp\n🎧genie:https://t.co/NmSuBqAquR\n🎧NAVER MUSIC:https://t.co/hINIVmOu8S\n \n#WENDY #레드벨벳 #RedVelvet #ZICO #나의_하루는_다_너로_가득해 #더킹",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "ZICO",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "나의_하루는_다_너로_가득해",
+					"indices": [
+						216,
+						232
+					]
+				},
+				{
+					"text": "더킹",
+					"indices": [
+						233,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hCAW6iJiSm",
+					"expanded_url": "http://kko.to/8o4w0lBDp",
+					"display_url": "kko.to/8o4w0lBDp",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/InmVV6Gsyp",
+					"expanded_url": "http://flomuz.io/s/a.BxTxA",
+					"display_url": "flomuz.io/s/a.BxTxA",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/NmSuBqAquR",
+					"expanded_url": "http://www.genie.co.kr/JBFPF3",
+					"display_url": "genie.co.kr/JBFPF3",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/hINIVmOu8S",
+					"expanded_url": "http://naver.me/5qtiSIDF",
+					"display_url": "naver.me/5qtiSIDF",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2543159,
+			"friends_count": 2,
+			"listed_count": 5709,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5884,
+		"favorite_count": 10209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웬디 X #지코 [더 킹 : 영원의 군주 OST Part 10 ‘나의 하루는 다 너로 가득해’]\n\n🎧Melon:https://t.co/hCAW6iJiSm\n🎧FLO:https://t.co/InmVV6Gsyp\n🎧genie:https://t.co/NmSuBqAquR\n🎧NAVER MUSIC:https://t.co/hINIVmOu8S\n \n#WENDY #레드벨벳 #RedVelvet #ZICO #나의_하루는_다_너로_가득해 #더킹"
+	},
+	{
+		"created_at": "Sat May 16 09:23:06 +0000 2020",
+		"id": 1261587974619369500,
+		"id_str": "1261587974619369472",
+		"full_text": "#대한민국 #보건복지부\n[요약] 5월16일14시10분│이태원 클럽 감염 후 4차 전파 1명 확인│정부브리핑\nhttps://t.co/PeDcRvf42n\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PeDcRvf42n",
+					"expanded_url": "https://www.youtube.com/watch?v=BPMgeEAHnnE",
+					"display_url": "youtube.com/watch?v=BPMgeE…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 5월16일14시10분│이태원 클럽 감염 후 4차 전파 1명 확인│정부브리핑\nhttps://t.co/PeDcRvf42n\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Sat May 16 08:45:37 +0000 2020",
 		"id": 1261575253727174700,
 		"id_str": "1261578538538471429",
