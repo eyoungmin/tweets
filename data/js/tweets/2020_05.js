@@ -1,6 +1,804 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 00:50:53 +0000 2020",
+		"id": 1261821456687784000,
+		"id_str": "1261821456687783937",
+		"full_text": "기회가 주어졌다고 해서 절차의 공정성까지 해결되는 것은 아니다. 그 부분에 감사한 것과 별도로 우리는 절차의 공정성을 말할 수 있어야 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "기회가 주어졌다고 해서 절차의 공정성까지 해결되는 것은 아니다. 그 부분에 감사한 것과 별도로 우리는 절차의 공정성을 말할 수 있어야 한다."
+	},
+	{
+		"created_at": "Sun May 17 00:45:09 +0000 2020",
+		"id": 1261820012869763000,
+		"id_str": "1261820012869763075",
+		"full_text": "쇼핑몰에서 무통장 입금을 허용하더라도 시간을 짧게 제한하는 것과 무통장 입금하고 개인 페이지로 카드결제 전환하거나 여러 상품 결제한 것을 배송비 중복 결제를 문의하는 이유가 무엇일까 고민해봐야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "쇼핑몰에서 무통장 입금을 허용하더라도 시간을 짧게 제한하는 것과 무통장 입금하고 개인 페이지로 카드결제 전환하거나 여러 상품 결제한 것을 배송비 중복 결제를 문의하는 이유가 무엇일까 고민해봐야."
+	},
+	{
+		"created_at": "Sun May 17 00:36:44 +0000 2020",
+		"id": 1186712188213289000,
+		"id_str": "1261817894784000000",
+		"full_text": "‘저도 팬이라 팔 생각이 없었지만’ 이 내용이 제일 웃기다ㅋㅋㅋㅋㅋ 사람들이 도대체 왜 비닐 포장 뜯은걸 굳이 사.. 한정반 넘버링이 002라서ㅋㅋㅋㅋ 한정반은 내가 개봉하고 트는 맛으로 사는 거잖아요 https://t.co/T6zar0oUv6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1186712181515010000,
+					"id_str": "1186712181515010048",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EHgMcQ3UwAAtHgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHgMcQ3UwAAtHgd.jpg",
+					"url": "https://t.co/T6zar0oUv6",
+					"display_url": "pic.twitter.com/T6zar0oUv6",
+					"expanded_url": "https://twitter.com/chomanna/status/1186712188213288960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1186712181515010000,
+					"id_str": "1186712181515010048",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EHgMcQ3UwAAtHgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHgMcQ3UwAAtHgd.jpg",
+					"url": "https://t.co/T6zar0oUv6",
+					"display_url": "pic.twitter.com/T6zar0oUv6",
+					"expanded_url": "https://twitter.com/chomanna/status/1186712188213288960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1186710296078868500,
+		"in_reply_to_status_id_str": "1186710296078868481",
+		"in_reply_to_user_id": 169857034,
+		"in_reply_to_user_id_str": "169857034",
+		"in_reply_to_screen_name": "chomanna",
+		"user": {
+			"id": 169857034,
+			"id_str": "169857034",
+			"name": "manna",
+			"screen_name": "chomanna",
+			"location": "이빠ㄹ과 혀",
+			"description": "이 몸이 듣고 들어 일 백번 고쳐 들어",
+			"url": "https://t.co/tQMCtSL20X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tQMCtSL20X",
+							"expanded_url": "https://brunch.co.kr/@chomanna",
+							"display_url": "brunch.co.kr/@chomanna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2471,
+			"friends_count": 663,
+			"listed_count": 24,
+			"created_at": "Fri Jul 23 09:55:07 +0000 2010",
+			"favourites_count": 18599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "10056F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996748995161612290/To3vFSC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996748995161612290/To3vFSC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169857034/1572608597",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "E3FCC2",
+			"profile_sidebar_fill_color": "9BE0AB",
+			"profile_text_color": "46ADA8",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘저도 팬이라 팔 생각이 없었지만’ 이 내용이 제일 웃기다ㅋㅋㅋㅋㅋ 사람들이 도대체 왜 비닐 포장 뜯은걸 굳이 사.. 한정반 넘버링이 002라서ㅋㅋㅋㅋ 한정반은 내가 개봉하고 트는 맛으로 사는 거잖아요 https://t.co/T6zar0oUv6"
+	},
+	{
+		"created_at": "Sun May 17 00:36:41 +0000 2020",
+		"id": 1186710296078868500,
+		"id_str": "1261817882406617088",
+		"full_text": "사과문 올리면서도 문제가 많았다는걸 댓글을 보고 알았는데 여튼 발매는 내일이고 심지어 넘버링과 포장을 뮤지션이 직접 했으니 울며 겨자먹기 식으로 구매해야 하는 팬들은 속상한 나머지 전량 반납해라 판매하지 말라는 등 논의가 아주 있다 https://t.co/RBRBtGXUMh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1186710286729760800,
+					"id_str": "1186710286729760768",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EHgKt-PUUAA0xiE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHgKt-PUUAA0xiE.jpg",
+					"url": "https://t.co/RBRBtGXUMh",
+					"display_url": "pic.twitter.com/RBRBtGXUMh",
+					"expanded_url": "https://twitter.com/chomanna/status/1186710296078868481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1186710286729760800,
+					"id_str": "1186710286729760768",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EHgKt-PUUAA0xiE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHgKt-PUUAA0xiE.jpg",
+					"url": "https://t.co/RBRBtGXUMh",
+					"display_url": "pic.twitter.com/RBRBtGXUMh",
+					"expanded_url": "https://twitter.com/chomanna/status/1186710296078868481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1186708524627189800,
+		"in_reply_to_status_id_str": "1186708524627189760",
+		"in_reply_to_user_id": 169857034,
+		"in_reply_to_user_id_str": "169857034",
+		"in_reply_to_screen_name": "chomanna",
+		"user": {
+			"id": 169857034,
+			"id_str": "169857034",
+			"name": "manna",
+			"screen_name": "chomanna",
+			"location": "이빠ㄹ과 혀",
+			"description": "이 몸이 듣고 들어 일 백번 고쳐 들어",
+			"url": "https://t.co/tQMCtSL20X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tQMCtSL20X",
+							"expanded_url": "https://brunch.co.kr/@chomanna",
+							"display_url": "brunch.co.kr/@chomanna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2471,
+			"friends_count": 663,
+			"listed_count": 24,
+			"created_at": "Fri Jul 23 09:55:07 +0000 2010",
+			"favourites_count": 18599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "10056F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996748995161612290/To3vFSC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996748995161612290/To3vFSC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169857034/1572608597",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "E3FCC2",
+			"profile_sidebar_fill_color": "9BE0AB",
+			"profile_text_color": "46ADA8",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사과문 올리면서도 문제가 많았다는걸 댓글을 보고 알았는데 여튼 발매는 내일이고 심지어 넘버링과 포장을 뮤지션이 직접 했으니 울며 겨자먹기 식으로 구매해야 하는 팬들은 속상한 나머지 전량 반납해라 판매하지 말라는 등 논의가 아주 있다 https://t.co/RBRBtGXUMh"
+	},
+	{
+		"created_at": "Sun May 17 00:36:32 +0000 2020",
+		"id": 1186708524627189800,
+		"id_str": "1261817845853253632",
+		"full_text": "에픽하이의 311장 넘버링 한정반 테이프가 전국 3곳에서 발매 되는데 그 중 한곳인 서울바이닐이 입고한 물량중 하나를 까서 공개를 해버렸고 심지어 002번.. 팬 이벤트로 발매되는지라 팬들은 화가 났고 심지어 계정관리자는 댓글을 삭제하는 만행까지 일어나며 사태에 기름을 부어버림",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169857034,
+			"id_str": "169857034",
+			"name": "manna",
+			"screen_name": "chomanna",
+			"location": "이빠ㄹ과 혀",
+			"description": "이 몸이 듣고 들어 일 백번 고쳐 들어",
+			"url": "https://t.co/tQMCtSL20X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tQMCtSL20X",
+							"expanded_url": "https://brunch.co.kr/@chomanna",
+							"display_url": "brunch.co.kr/@chomanna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2471,
+			"friends_count": 663,
+			"listed_count": 24,
+			"created_at": "Fri Jul 23 09:55:07 +0000 2010",
+			"favourites_count": 18599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "10056F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996748995161612290/To3vFSC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996748995161612290/To3vFSC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169857034/1572608597",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "E3FCC2",
+			"profile_sidebar_fill_color": "9BE0AB",
+			"profile_text_color": "46ADA8",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에픽하이의 311장 넘버링 한정반 테이프가 전국 3곳에서 발매 되는데 그 중 한곳인 서울바이닐이 입고한 물량중 하나를 까서 공개를 해버렸고 심지어 002번.. 팬 이벤트로 발매되는지라 팬들은 화가 났고 심지어 계정관리자는 댓글을 삭제하는 만행까지 일어나며 사태에 기름을 부어버림"
+	},
+	{
+		"created_at": "Sun May 17 00:32:57 +0000 2020",
+		"id": 1261816943410987000,
+		"id_str": "1261816943410987009",
+		"full_text": "중앙일보에서 판결문 톺아보는 기획 기사 시리즈가 있었구나. '판다'\nhttps://t.co/0sjsviF3xq\n\n#판결문 #법원 #판결 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "판결문",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "법원",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "판결",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0sjsviF3xq",
+					"expanded_url": "https://news.joins.com/Issue/11105",
+					"display_url": "news.joins.com/Issue/11105",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1261815372467941400,
+		"in_reply_to_status_id_str": "1261815372467941376",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 40441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중앙일보에서 판결문 톺아보는 기획 기사 시리즈가 있었구나. '판다'\nhttps://t.co/0sjsviF3xq\n\n#판결문 #법원 #판결 #minfav"
+	},
+	{
 		"created_at": "Sat May 16 19:37:03 +0000 2020",
 		"id": 1261742477205057500,
 		"id_str": "1261742477205057536",
