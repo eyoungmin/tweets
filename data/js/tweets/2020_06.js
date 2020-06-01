@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 08:52:13 +0000 2020",
+		"id": 1267366477419569200,
+		"id_str": "1267378404782944263",
+		"full_text": "📸 청하 X Zion.T '여기 적어줘 (Feat. pH-1)' MV 촬영 현장\n\n🍈 https://t.co/sKlVTTLNgW\n\n#청하 #CHUNGHA\n#자이언티 #ZionT\n#피에이치원 #pH1\n#여기적어줘 #MyFriend\n#곡팜 #GOKFARM @M2MPD\n@THEBLACKLABEL_",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "자이언티",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "ZionT",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "피에이치원",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "pH1",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "여기적어줘",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "MyFriend",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "곡팜",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "GOKFARM",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M2MPD",
+					"name": "MPD(엠피디)",
+					"id": 589808615,
+					"id_str": "589808615",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"screen_name": "THEBLACKLABEL_",
+					"name": "THEBLACKLABEL",
+					"id": 923777151660302300,
+					"id_str": "923777151660302337",
+					"indices": [
+						148,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sKlVTTLNgW",
+					"expanded_url": "https://bit.ly/2TYe1kv",
+					"display_url": "bit.ly/2TYe1kv",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262317,
+			"friends_count": 0,
+			"listed_count": 1531,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 1035,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 청하 X Zion.T '여기 적어줘 (Feat. pH-1)' MV 촬영 현장\n\n🍈 https://t.co/sKlVTTLNgW\n\n#청하 #CHUNGHA\n#자이언티 #ZionT\n#피에이치원 #pH1\n#여기적어줘 #MyFriend\n#곡팜 #GOKFARM @M2MPD\n@THEBLACKLABEL_"
+	},
+	{
+		"created_at": "Mon Jun 01 08:47:15 +0000 2020",
+		"id": 1267377158453936000,
+		"id_str": "1267377158453936130",
+		"full_text": "#BBC코리아\n코로나19: 홍석천, 그가 이태원 클럽 방문자 ‘검진독려'에 나선 이유\nhttps://t.co/sOKzarEiNM\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sOKzarEiNM",
+					"expanded_url": "https://www.bbc.com/korean/news-52875231",
+					"display_url": "bbc.com/korean/news-52…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 홍석천, 그가 이태원 클럽 방문자 ‘검진독려'에 나선 이유\nhttps://t.co/sOKzarEiNM\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Mon Jun 01 08:42:36 +0000 2020",
+		"id": 1267221639642529800,
+		"id_str": "1267375987148222465",
+		"full_text": "코로나에 패션은 사치? 세계의 재봉틀이 멈췄다 https://t.co/CiF8xHE9mF 여행업계만큼은 아니지만 코로나로 큰 어려움을 겪고 있는 곳이 섬유・패션기업들. 미국에서는 제이크루, 일본에서는 레나운 등 대표기업들이 파산신청. 국내 상장 패션·섬유 업체 중 80%가 매출이 감소. https://t.co/mcmcDaQ2AW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CiF8xHE9mF",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003535332",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267221634324156400,
+					"id_str": "1267221634324156416",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZYTXMWU0AAiM5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZYTXMWU0AAiM5K.jpg",
+					"url": "https://t.co/mcmcDaQ2AW",
+					"display_url": "pic.twitter.com/mcmcDaQ2AW",
+					"expanded_url": "https://twitter.com/estima7/status/1267221639642529792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 280,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 280,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267221634324156400,
+					"id_str": "1267221634324156416",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZYTXMWU0AAiM5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZYTXMWU0AAiM5K.jpg",
+					"url": "https://t.co/mcmcDaQ2AW",
+					"display_url": "pic.twitter.com/mcmcDaQ2AW",
+					"expanded_url": "https://twitter.com/estima7/status/1267221639642529792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 280,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 280,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371300,
+			"friends_count": 2282,
+			"listed_count": 4524,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나에 패션은 사치? 세계의 재봉틀이 멈췄다 https://t.co/CiF8xHE9mF 여행업계만큼은 아니지만 코로나로 큰 어려움을 겪고 있는 곳이 섬유・패션기업들. 미국에서는 제이크루, 일본에서는 레나운 등 대표기업들이 파산신청. 국내 상장 패션·섬유 업체 중 80%가 매출이 감소. https://t.co/mcmcDaQ2AW"
+	},
+	{
 		"created_at": "Mon Jun 01 07:54:19 +0000 2020",
 		"id": 1267363833942872000,
 		"id_str": "1267363833942872065",
