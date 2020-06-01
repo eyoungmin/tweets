@@ -1,6 +1,807 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 17:01:56 +0000 2020",
+		"id": 1267366132341567500,
+		"id_str": "1267501645924982784",
+		"full_text": "노래 없는 곡이라는 이유로 한 음원사이트가 노출을 거절하였습니다. &lt;양배추즙&gt;은 오늘 정오에 발매되었으며 권도연 작가의 작업을 커버로 사용하였습니다. 노래가 없습니다. 혀를 차는 소리, 숨소리, 입소리가 있을 뿐입니다. https://t.co/eK1dysX0vo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267366124062032000,
+					"id_str": "1267366124062031874",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EZaWxmkUwAIuo98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZaWxmkUwAIuo98.jpg",
+					"url": "https://t.co/eK1dysX0vo",
+					"display_url": "pic.twitter.com/eK1dysX0vo",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1267366132341567488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267366124062032000,
+					"id_str": "1267366124062031874",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EZaWxmkUwAIuo98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZaWxmkUwAIuo98.jpg",
+					"url": "https://t.co/eK1dysX0vo",
+					"display_url": "pic.twitter.com/eK1dysX0vo",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1267366132341567488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115895688,
+			"id_str": "115895688",
+			"name": "한희정 Han Heejung",
+			"screen_name": "dawnyboom",
+			"location": "",
+			"description": "만들고 연주합니다.",
+			"url": "https://t.co/JN3uCNz916",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JN3uCNz916",
+							"expanded_url": "https://www.instagram.com/dawnyboom",
+							"display_url": "instagram.com/dawnyboom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12436,
+			"friends_count": 120,
+			"listed_count": 503,
+			"created_at": "Sat Feb 20 10:21:58 +0000 2010",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F2F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115895688/1570692306",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C4C4C4",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "363636",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노래 없는 곡이라는 이유로 한 음원사이트가 노출을 거절하였습니다. &lt;양배추즙&gt;은 오늘 정오에 발매되었으며 권도연 작가의 작업을 커버로 사용하였습니다. 노래가 없습니다. 혀를 차는 소리, 숨소리, 입소리가 있을 뿐입니다. https://t.co/eK1dysX0vo"
+	},
+	{
+		"created_at": "Mon Jun 01 16:32:27 +0000 2020",
+		"id": 1267494227035844600,
+		"id_str": "1267494227035844608",
+		"full_text": "온라인으로 즐기는 미술품 관람 | INDIEPOST 인디포스트\nhttps://t.co/i4seYOTGm4\n#집콕문화생활 #StayHome #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "집콕문화생활",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "StayHome",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i4seYOTGm4",
+					"expanded_url": "https://www.indiepost.co.kr/post/13739",
+					"display_url": "indiepost.co.kr/post/13739",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온라인으로 즐기는 미술품 관람 | INDIEPOST 인디포스트\nhttps://t.co/i4seYOTGm4\n#집콕문화생활 #StayHome #minfav"
+	},
+	{
+		"created_at": "Mon Jun 01 16:10:04 +0000 2020",
+		"id": 1264859610042646500,
+		"id_str": "1267488596342173697",
+		"full_text": "태연의 답변을 지금 바로 공개합니다! 여러분들의 ‘탱잘알’ 점수는 몇 점인가요?🧐지금 퍼스트룩 유튜브에 가면 미모, 입담 모두 팡팡 터지는 태연의 팬심동체 전체 영상을 만나볼 수 있답니다.\n\n✔️ https://t.co/JarbBP132z\n\n#퍼스트룩 #팬심동체 #태연 #TAEYEON https://t.co/rtCYWTquQB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "팬심동체",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JarbBP132z",
+					"expanded_url": "https://youtu.be/N6af5qDlCbs",
+					"display_url": "youtu.be/N6af5qDlCbs",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1264859559371235300,
+					"id_str": "1264859559371235328",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1264859559371235328/pu/img/EQjFHhffPXBfAfj3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1264859559371235328/pu/img/EQjFHhffPXBfAfj3.jpg",
+					"url": "https://t.co/rtCYWTquQB",
+					"display_url": "pic.twitter.com/rtCYWTquQB",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1264859610042646529/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 956,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1020,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264859559371235300,
+					"id_str": "1264859559371235328",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1264859559371235328/pu/img/EQjFHhffPXBfAfj3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1264859559371235328/pu/img/EQjFHhffPXBfAfj3.jpg",
+					"url": "https://t.co/rtCYWTquQB",
+					"display_url": "pic.twitter.com/rtCYWTquQB",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1264859610042646529/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 956,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1020,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							51,
+							64
+						],
+						"duration_millis": 9476,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1264859559371235328/pu/vid/360x450/egiwvFyGhfsl9RWu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1264859559371235328/pu/pl/ngpn3gWHhC5pDv5B.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1264859559371235328/pu/vid/720x902/dYp3MYOM4gZAHFlx.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1264859559371235328/pu/vid/320x400/Q_ReQudhFgq8Aeu7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 179756,
+			"friends_count": 1,
+			"listed_count": 301,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1590022950",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1426,
+		"favorite_count": 2090,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연의 답변을 지금 바로 공개합니다! 여러분들의 ‘탱잘알’ 점수는 몇 점인가요?🧐지금 퍼스트룩 유튜브에 가면 미모, 입담 모두 팡팡 터지는 태연의 팬심동체 전체 영상을 만나볼 수 있답니다.\n\n✔️ https://t.co/JarbBP132z\n\n#퍼스트룩 #팬심동체 #태연 #TAEYEON https://t.co/rtCYWTquQB"
+	},
+	{
+		"created_at": "Mon Jun 01 16:09:35 +0000 2020",
+		"id": 1265601407123460000,
+		"id_str": "1267488472526319618",
+		"full_text": "#1일3탱 할 준비되셨나요? 어퓨와 함께 뷰티계를 평정한 과즙 여신 태연의 영상이 도착했어요! 소문난 코덕 태연의 덕업 일치 순간, 퍼스트룩 유튜브에서 만나보세요.\n\n✔️ https://t.co/4ojCu8QdB7\n\n#태연 #TAEYEON #어퓨 #APIEU #1stLook https://t.co/aMmLA5mE3w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1일3탱",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "어퓨",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "APIEU",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ojCu8QdB7",
+					"expanded_url": "https://youtu.be/9CQ82Cjd6Oc",
+					"display_url": "youtu.be/9CQ82Cjd6Oc",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265601400299327500,
+					"id_str": "1265601400299327488",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EZBRxKQUEAA_iqB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZBRxKQUEAA_iqB.jpg",
+					"url": "https://t.co/aMmLA5mE3w",
+					"display_url": "pic.twitter.com/aMmLA5mE3w",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1265601407123460097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265601400299327500,
+					"id_str": "1265601400299327488",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EZBRxKQUEAA_iqB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZBRxKQUEAA_iqB.jpg",
+					"url": "https://t.co/aMmLA5mE3w",
+					"display_url": "pic.twitter.com/aMmLA5mE3w",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1265601407123460097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 179756,
+			"friends_count": 1,
+			"listed_count": 301,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1590022950",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1128,
+		"favorite_count": 1744,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#1일3탱 할 준비되셨나요? 어퓨와 함께 뷰티계를 평정한 과즙 여신 태연의 영상이 도착했어요! 소문난 코덕 태연의 덕업 일치 순간, 퍼스트룩 유튜브에서 만나보세요.\n\n✔️ https://t.co/4ojCu8QdB7\n\n#태연 #TAEYEON #어퓨 #APIEU #1stLook https://t.co/aMmLA5mE3w"
+	},
+	{
 		"created_at": "Mon Jun 01 15:37:24 +0000 2020",
 		"id": 1267403710193217500,
 		"id_str": "1267480375745339394",
