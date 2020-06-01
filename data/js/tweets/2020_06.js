@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 03:59:09 +0000 2020",
+		"id": 1267304653655625700,
+		"id_str": "1267304653655625728",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n방예담 첫 솔로곡 ‘왜요’ 공개..로제·전소미·윤시윤·스트레이키즈 극찬\nhttps://t.co/60QiHvV7jq\n#블랙핑크 #BLACKPINK https://t.co/GBY2sWPEaW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/60QiHvV7jq",
+					"expanded_url": "https://yg-life.com/archives/155677?lang=ko",
+					"display_url": "yg-life.com/archives/15567…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267304652372168700,
+					"id_str": "1267304652372168704",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EZZe3erX0AApPJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZZe3erX0AApPJY.jpg",
+					"url": "https://t.co/GBY2sWPEaW",
+					"display_url": "pic.twitter.com/GBY2sWPEaW",
+					"expanded_url": "https://twitter.com/fromminn/status/1267304653655625728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 189,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 285,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 285,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267304652372168700,
+					"id_str": "1267304652372168704",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EZZe3erX0AApPJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZZe3erX0AApPJY.jpg",
+					"url": "https://t.co/GBY2sWPEaW",
+					"display_url": "pic.twitter.com/GBY2sWPEaW",
+					"expanded_url": "https://twitter.com/fromminn/status/1267304653655625728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 189,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 285,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 285,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n방예담 첫 솔로곡 ‘왜요’ 공개..로제·전소미·윤시윤·스트레이키즈 극찬\nhttps://t.co/60QiHvV7jq\n#블랙핑크 #BLACKPINK https://t.co/GBY2sWPEaW"
+	},
+	{
+		"created_at": "Mon Jun 01 03:52:26 +0000 2020",
+		"id": 1267236919479537700,
+		"id_str": "1267302961698480129",
+		"full_text": "[KCON:TACT 2020 SUMMER] 3RD LINEUP \n\nMAKE SOME NOISE BECAUSE\n@CHUNGHA_MNHent is coming to #KCONTACT ! \n\n▶KCON REPLAY LIVE ON: https://t.co/gbGDR6OzZk\n#CHUNGHA #KCON #KCON247 #KCON2020 #MnetKpopYouTube https://t.co/BJSRyLApV0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "KCON247",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "MnetKpopYouTube",
+					"indices": [
+						184,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						61,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gbGDR6OzZk",
+					"expanded_url": "http://youtube.com/watch?v=J9_1W4wXVwM",
+					"display_url": "youtube.com/watch?v=J9_1W4…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1266398203416465400,
+					"id_str": "1266398203416465408",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EZMmdNLU0AAtrVG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZMmdNLU0AAtrVG.jpg",
+					"url": "https://t.co/BJSRyLApV0",
+					"display_url": "pic.twitter.com/BJSRyLApV0",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1267236919479537664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1135,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266398203416465400,
+					"id_str": "1266398203416465408",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EZMmdNLU0AAtrVG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZMmdNLU0AAtrVG.jpg",
+					"url": "https://t.co/BJSRyLApV0",
+					"display_url": "pic.twitter.com/BJSRyLApV0",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1267236919479537664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1135,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "LET'S KCON! Welcome to KCON :)",
+			"url": "https://t.co/3cy1ICLplH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3cy1ICLplH",
+							"expanded_url": "https://bit.ly/2vEB0bd",
+							"display_url": "bit.ly/2vEB0bd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237014,
+			"friends_count": 127,
+			"listed_count": 807,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1590630440",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 777,
+		"favorite_count": 2773,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT 2020 SUMMER] 3RD LINEUP \n\nMAKE SOME NOISE BECAUSE\n@CHUNGHA_MNHent is coming to #KCONTACT ! \n\n▶KCON REPLAY LIVE ON: https://t.co/gbGDR6OzZk\n#CHUNGHA #KCON #KCON247 #KCON2020 #MnetKpopYouTube https://t.co/BJSRyLApV0"
+	},
+	{
+		"created_at": "Mon Jun 01 03:52:12 +0000 2020",
+		"id": 1267290000602718200,
+		"id_str": "1267302906384056320",
+		"full_text": "🗓 [달력을 넘겨주세요] 청하와 함께하는 6월.#SnapShot\n\n☕️ https://t.co/q0v91u0tJv\n▶️ https://t.co/0EcPole09c \n✌🏻 https://t.co/XhksOnIvef \n\n#청하 #CHUNGHA\n#2020_시즌그리팅\n#2020년 #6월 💚💙💜 https://t.co/iy8u2yeSCP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SnapShot",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "2020_시즌그리팅",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "2020년",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "6월",
+					"indices": [
+						153,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q0v91u0tJv",
+					"expanded_url": "https://bit.ly/3euHSca",
+					"display_url": "bit.ly/3euHSca",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/0EcPole09c",
+					"expanded_url": "https://bit.ly/3cin3iG",
+					"display_url": "bit.ly/3cin3iG",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/XhksOnIvef",
+					"expanded_url": "https://bit.ly/36ENJsG",
+					"display_url": "bit.ly/36ENJsG",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267289985754910700,
+					"id_str": "1267289985754910721",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZZRhxRU0AE4mFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZZRhxRU0AE4mFH.jpg",
+					"url": "https://t.co/iy8u2yeSCP",
+					"display_url": "pic.twitter.com/iy8u2yeSCP",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1267290000602718209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267289985754910700,
+					"id_str": "1267289985754910721",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZZRhxRU0AE4mFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZZRhxRU0AE4mFH.jpg",
+					"url": "https://t.co/iy8u2yeSCP",
+					"display_url": "pic.twitter.com/iy8u2yeSCP",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1267290000602718209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1267289985763307500,
+					"id_str": "1267289985763307521",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZZRhxTU8AEAOLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZZRhxTU8AEAOLP.jpg",
+					"url": "https://t.co/iy8u2yeSCP",
+					"display_url": "pic.twitter.com/iy8u2yeSCP",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1267290000602718209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1267289985759056000,
+					"id_str": "1267289985759055872",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZZRhxSUEAAjZxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZZRhxSUEAAjZxW.jpg",
+					"url": "https://t.co/iy8u2yeSCP",
+					"display_url": "pic.twitter.com/iy8u2yeSCP",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1267290000602718209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262303,
+			"friends_count": 0,
+			"listed_count": 1533,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 673,
+		"favorite_count": 2775,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗓 [달력을 넘겨주세요] 청하와 함께하는 6월.#SnapShot\n\n☕️ https://t.co/q0v91u0tJv\n▶️ https://t.co/0EcPole09c \n✌🏻 https://t.co/XhksOnIvef \n\n#청하 #CHUNGHA\n#2020_시즌그리팅\n#2020년 #6월 💚💙💜 https://t.co/iy8u2yeSCP"
+	},
+	{
 		"created_at": "Mon Jun 01 03:01:05 +0000 2020",
 		"id": 1267290039836381200,
 		"id_str": "1267290039836381184",
