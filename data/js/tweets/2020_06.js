@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 13:16:59 +0000 2020",
+		"id": 1267321137161109500,
+		"id_str": "1267445039120015360",
+		"full_text": "#WKoreaVideoSearch2020 총 상금 1천 5백만원! W Korea와 함께할 창의적인 #비디오그래퍼 를 찾습니다. 1차 예선 통과 8인은 꼬달리와 영상을 제작하고, 2차 미션 온라인 투표/심사를 거친 우승자에게는 상금 1천만원, 준우승자에게는 상금 5백만원을 드립니다. #자세히보기▶ https://t.co/t1g05d9xcm https://t.co/UjiNcV6q2e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WKoreaVideoSearch2020",
+					"indices": [
+						0,
+						22
+					]
+				},
+				{
+					"text": "비디오그래퍼",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "자세히보기",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t1g05d9xcm",
+					"expanded_url": "http://bit.ly/2AuHv2t",
+					"display_url": "bit.ly/2AuHv2t",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267315818116771800,
+					"id_str": "1267315818116771841",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EZZpKrnUEAApFZ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZZpKrnUEAApFZ2.jpg",
+					"url": "https://t.co/UjiNcV6q2e",
+					"display_url": "pic.twitter.com/UjiNcV6q2e",
+					"expanded_url": "https://twitter.com/wkorea/status/1267321137161109504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267315818116771800,
+					"id_str": "1267315818116771841",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EZZpKrnUEAApFZ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZZpKrnUEAApFZ2.jpg",
+					"url": "https://t.co/UjiNcV6q2e",
+					"display_url": "pic.twitter.com/UjiNcV6q2e",
+					"expanded_url": "https://twitter.com/wkorea/status/1267321137161109504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1267315818116771841/vid/320x320/q4kIwLYm3iO1EZFr.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1267315818116771841/vid/480x480/w2ABZp4FmqNZowR3.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1267315818116771841/vid/720x720/mrGrxVFF-SMdOyI_.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1267315818116771841/pl/mi2xxSh0R4a2XxTn.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "W Korea Video Search 2020",
+						"description": "<더블유 코리아>에서 창의적인 '비디오그래퍼'를 찾습니다!",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://wkorea.com/?ddw=69618"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "패션 매거진 W Korea의 공식 트위터입니다. Conceptual Trend Magazine 'W Korea'",
+			"url": "https://t.co/qYuhsg7yJR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qYuhsg7yJR",
+							"expanded_url": "http://wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226174,
+			"friends_count": 0,
+			"listed_count": 757,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 2320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1589778868",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 53,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#WKoreaVideoSearch2020 총 상금 1천 5백만원! W Korea와 함께할 창의적인 #비디오그래퍼 를 찾습니다. 1차 예선 통과 8인은 꼬달리와 영상을 제작하고, 2차 미션 온라인 투표/심사를 거친 우승자에게는 상금 1천만원, 준우승자에게는 상금 5백만원을 드립니다. #자세히보기▶ https://t.co/t1g05d9xcm https://t.co/UjiNcV6q2e"
+	},
+	{
 		"created_at": "Mon Jun 01 12:47:34 +0000 2020",
 		"id": 1267437632792916000,
 		"id_str": "1267437632792915968",
@@ -417,7 +662,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
