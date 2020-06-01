@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 12:47:34 +0000 2020",
+		"id": 1267437632792916000,
+		"id_str": "1267437632792915968",
+		"full_text": "헨리가 아리아나 그란데의 7rings를 연주했다! / HENRY'S ONE TAKE : Ariana Grande - 7 rings I ELLE KOREA\nhttps://t.co/VF3Ft5ule1\n\n#헨리 #HENRY #아리아나그란데 #ArianaGrande",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헨리",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "HENRY",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "아리아나그란데",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "ArianaGrande",
+					"indices": [
+						131,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VF3Ft5ule1",
+					"expanded_url": "https://youtu.be/uQ162lnR2bM",
+					"display_url": "youtu.be/uQ162lnR2bM",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헨리가 아리아나 그란데의 7rings를 연주했다! / HENRY'S ONE TAKE : Ariana Grande - 7 rings I ELLE KOREA\nhttps://t.co/VF3Ft5ule1\n\n#헨리 #HENRY #아리아나그란데 #ArianaGrande"
+	},
+	{
+		"created_at": "Mon Jun 01 12:42:38 +0000 2020",
+		"id": 1267381020489212000,
+		"id_str": "1267436391375310849",
+		"full_text": "[CONCEPT FILM]\n‘헤이즈’ 여섯 번째 미니 앨범 [Lyricist]\n‘Heize’ The 6th mini album [Lyricist]\n\n▶️https://t.co/VtSdAnqHzQ\n\n#헤이즈 #Heize #Lyricist #concept_film https://t.co/kuQYuvWpLn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "concept_film",
+					"indices": [
+						132,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VtSdAnqHzQ",
+					"expanded_url": "https://youtu.be/c0GmAHwzavg",
+					"display_url": "youtu.be/c0GmAHwzavg",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267379842019782700,
+					"id_str": "1267379842019782656",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267379842019782656/pu/img/uJ_AoC7TVx79LPEQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267379842019782656/pu/img/uJ_AoC7TVx79LPEQ.jpg",
+					"url": "https://t.co/kuQYuvWpLn",
+					"display_url": "pic.twitter.com/kuQYuvWpLn",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1267381020489211905/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267379842019782700,
+					"id_str": "1267379842019782656",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267379842019782656/pu/img/uJ_AoC7TVx79LPEQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267379842019782656/pu/img/uJ_AoC7TVx79LPEQ.jpg",
+					"url": "https://t.co/kuQYuvWpLn",
+					"display_url": "pic.twitter.com/kuQYuvWpLn",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1267381020489211905/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17017,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267379842019782656/pu/vid/1280x720/Xr9N_4R_tZ4edV1k.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267379842019782656/pu/pl/ZmPNdjXtwkZ1-Slm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267379842019782656/pu/vid/480x270/dtsB9NpsaiXujYLx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267379842019782656/pu/vid/640x360/oIO0QhhSVSLQAbZb.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38089,
+			"friends_count": 0,
+			"listed_count": 342,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178687142463037441/NOfWBtxX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178687142463037441/NOfWBtxX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1569855889",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 544,
+		"favorite_count": 1268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[CONCEPT FILM]\n‘헤이즈’ 여섯 번째 미니 앨범 [Lyricist]\n‘Heize’ The 6th mini album [Lyricist]\n\n▶️https://t.co/VtSdAnqHzQ\n\n#헤이즈 #Heize #Lyricist #concept_film https://t.co/kuQYuvWpLn"
+	},
+	{
+		"created_at": "Mon Jun 01 12:40:43 +0000 2020",
+		"id": 1267390339997819000,
+		"id_str": "1267435912280944641",
+		"full_text": "흑인음악과 대중 모두에 진심인 JYP의 로컬라이즈드 된 사운드를 좋아했던 적도 있었는데 지금은 2020년이고 JYP의 곡이 타이틀이 되는 시대도 아니잖아. 이제는 JYP 사운드를 들으면 (더 좋아질 가능성이 너무 선명히 들려) 좀 심란하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5249,
+			"friends_count": 1205,
+			"listed_count": 75,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 7637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "흑인음악과 대중 모두에 진심인 JYP의 로컬라이즈드 된 사운드를 좋아했던 적도 있었는데 지금은 2020년이고 JYP의 곡이 타이틀이 되는 시대도 아니잖아. 이제는 JYP 사운드를 들으면 (더 좋아질 가능성이 너무 선명히 들려) 좀 심란하다."
+	},
+	{
 		"created_at": "Mon Jun 01 11:52:13 +0000 2020",
 		"id": 1267395477722419200,
 		"id_str": "1267423703085842433",
