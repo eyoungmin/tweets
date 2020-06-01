@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 14:41:23 +0000 2020",
+		"id": 1266788456799195100,
+		"id_str": "1267466276764389377",
+		"full_text": "정눈꽃작가님과 지컨님의 글에 용기를 얻어 저도 이 글을 여기에 올립니다. 몇년전부터 지속되어 온 자칭랟펨측의 괴롭힘에 지쳐, 간신히 &lt;썅년의 미학&gt;연재를 마치고 겪은 심각한 번아웃에 대한 경험담입니다. 이제는 말 할 수 있을 것 같아요. \n\nhttps://t.co/n9ibIXw6j6 https://t.co/kk9ZJigK41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n9ibIXw6j6",
+					"expanded_url": "https://brunch.co.kr/@kimminseoyoung/89",
+					"display_url": "brunch.co.kr/@kimminseoyoun…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1266788414260568000,
+					"id_str": "1266788414260568065",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EZSJWd2U4AEftHe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZSJWd2U4AEftHe.jpg",
+					"url": "https://t.co/kk9ZJigK41",
+					"display_url": "pic.twitter.com/kk9ZJigK41",
+					"expanded_url": "https://twitter.com/kimminseoyoung/status/1266788456799195136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 962,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266788414260568000,
+					"id_str": "1266788414260568065",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EZSJWd2U4AEftHe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZSJWd2U4AEftHe.jpg",
+					"url": "https://t.co/kk9ZJigK41",
+					"display_url": "pic.twitter.com/kk9ZJigK41",
+					"expanded_url": "https://twitter.com/kimminseoyoung/status/1266788456799195136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 962,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266788435844493300,
+					"id_str": "1266788435844493312",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EZSJXuQVcAAjmsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZSJXuQVcAAjmsn.jpg",
+					"url": "https://t.co/kk9ZJigK41",
+					"display_url": "pic.twitter.com/kk9ZJigK41",
+					"expanded_url": "https://twitter.com/kimminseoyoung/status/1266788456799195136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1603,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266787241285697500,
+					"id_str": "1266787241285697536",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EZSISMLUwAA7_N2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZSISMLUwAA7_N2.jpg",
+					"url": "https://t.co/kk9ZJigK41",
+					"display_url": "pic.twitter.com/kk9ZJigK41",
+					"expanded_url": "https://twitter.com/kimminseoyoung/status/1266788456799195136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 708,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 401,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266787241294131200,
+					"id_str": "1266787241294131200",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EZSISMNVcAAiPRY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZSISMNVcAAiPRY.jpg",
+					"url": "https://t.co/kk9ZJigK41",
+					"display_url": "pic.twitter.com/kk9ZJigK41",
+					"expanded_url": "https://twitter.com/kimminseoyoung/status/1266788456799195136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 656,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1120,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2466191766,
+			"id_str": "2466191766",
+			"name": "민서영",
+			"screen_name": "kimminseoyoung",
+			"location": "니가 그 따위로 사는 건 내 탓이 아니에요.",
+			"description": "썅년의 미학·狂女的逆襲·クソ女の美学 | Korean Cartoonist | 🏳️‍🌈 | 외주 및 문의: 이메일 msy@jaedam.com 또는 재담미디어",
+			"url": "https://t.co/UD7pIzhzLC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UD7pIzhzLC",
+							"expanded_url": "http://instagram.com/studio.soran",
+							"display_url": "instagram.com/studio.soran",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13701,
+			"friends_count": 301,
+			"listed_count": 47,
+			"created_at": "Sun Apr 27 14:37:36 +0000 2014",
+			"favourites_count": 12673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229779089533202433/xkS_GRHs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229779089533202433/xkS_GRHs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2466191766/1582037160",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4239,
+		"favorite_count": 1478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정눈꽃작가님과 지컨님의 글에 용기를 얻어 저도 이 글을 여기에 올립니다. 몇년전부터 지속되어 온 자칭랟펨측의 괴롭힘에 지쳐, 간신히 &lt;썅년의 미학&gt;연재를 마치고 겪은 심각한 번아웃에 대한 경험담입니다. 이제는 말 할 수 있을 것 같아요. \n\nhttps://t.co/n9ibIXw6j6 https://t.co/kk9ZJigK41"
+	},
+	{
 		"created_at": "Mon Jun 01 13:16:59 +0000 2020",
 		"id": 1267321137161109500,
 		"id_str": "1267445039120015360",
