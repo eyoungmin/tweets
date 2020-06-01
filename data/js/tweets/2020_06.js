@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 11:52:13 +0000 2020",
+		"id": 1267395477722419200,
+		"id_str": "1267423703085842433",
+		"full_text": "투명한 스프라이트처럼 \n네 안에 다양한 모습 \n거침없이 터트려버려\n\n#스프라이트 #거침없이터트려버려 #Be_Yourself #네안의모든너 https://t.co/nUEowjzAUz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스프라이트",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "거침없이터트려버려",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "Be_Yourself",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"text": "네안의모든너",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267392852465574000,
+					"id_str": "1267392852465573888",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EZaxzNnU8AEKRQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZaxzNnU8AEKRQh.jpg",
+					"url": "https://t.co/nUEowjzAUz",
+					"display_url": "pic.twitter.com/nUEowjzAUz",
+					"expanded_url": "https://twitter.com/CokeCaster/status/1267395477722419200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267392852465574000,
+					"id_str": "1267392852465573888",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EZaxzNnU8AEKRQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZaxzNnU8AEKRQh.jpg",
+					"url": "https://t.co/nUEowjzAUz",
+					"display_url": "pic.twitter.com/nUEowjzAUz",
+					"expanded_url": "https://twitter.com/CokeCaster/status/1267395477722419200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267392852465573888/pu/pl/Q6YUDsmYipNoKfRW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267392852465573888/pu/vid/640x360/8hDFWVXRPEqMKyY0.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267392852465573888/pu/vid/1280x720/ftc-5hom--jqrzxe.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267392852465573888/pu/vid/480x270/coapHQ8DUVMhSWyg.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260615063,
+			"id_str": "260615063",
+			"name": "폴라",
+			"screen_name": "CokeCaster",
+			"location": "",
+			"description": "한국 코카-콜라 브랜드 공식 트위터 ● 2018 대한민국인터넷소통대상·대한민국소셜미디어대상 'Leading Star' ● 2017 대한민국인터넷소통대상 식음료/주류부문 대상 ● 2017 대한민국디지털콘텐츠대상 디지털콘텐츠 대상 ● 코카콜라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107163,
+			"friends_count": 52926,
+			"listed_count": 324,
+			"created_at": "Fri Mar 04 06:46:44 +0000 2011",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 90941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689673402097897474/tmE6LAaK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689673402097897474/tmE6LAaK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260615063/1578042098",
+			"profile_link_color": "DB0303",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 352,
+		"favorite_count": 1075,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "투명한 스프라이트처럼 \n네 안에 다양한 모습 \n거침없이 터트려버려\n\n#스프라이트 #거침없이터트려버려 #Be_Yourself #네안의모든너 https://t.co/nUEowjzAUz"
+	},
+	{
 		"created_at": "Mon Jun 01 09:52:13 +0000 2020",
 		"id": 1267382175915073500,
 		"id_str": "1267393505061724163",
