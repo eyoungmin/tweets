@@ -1,6 +1,1842 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 05:39:29 +0000 2020",
+		"id": 1267692292107722800,
+		"id_str": "1267692292107722752",
+		"full_text": "과도 포장해서 오는 곳도 요즘엔 거의 없음. 과도한 포장이지 않냐고 리뷰 올라가니까. 리뷰를 체크하지 않는 업장이라면 몰라도 고민들은 대부분이 하는 걸로. 일회용품 이야기는 조금 더 생산적인 이야기가 필요하지 않을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1267690484035498000,
+		"in_reply_to_status_id_str": "1267690484035497985",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "과도 포장해서 오는 곳도 요즘엔 거의 없음. 과도한 포장이지 않냐고 리뷰 올라가니까. 리뷰를 체크하지 않는 업장이라면 몰라도 고민들은 대부분이 하는 걸로. 일회용품 이야기는 조금 더 생산적인 이야기가 필요하지 않을까."
+	},
+	{
+		"created_at": "Tue Jun 02 05:32:18 +0000 2020",
+		"id": 1267690484035498000,
+		"id_str": "1267690484035497985",
+		"full_text": "배달앱 리뷰 보니까 종이박스로 바꿨더니 소스가 흘러나왔다는 불만이 있고 그래서 다시 바꿨다는 것을 봤는데 플라스틱 용기에 랩포장기 쓰는 것을 대체할 수 있는 재활용 용기가 나오지 않는 이상은 어려울 것 같음. 경제성도 가져야 하고. 언택트시대에 배달은 계속 늘어날텐데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "배달앱 리뷰 보니까 종이박스로 바꿨더니 소스가 흘러나왔다는 불만이 있고 그래서 다시 바꿨다는 것을 봤는데 플라스틱 용기에 랩포장기 쓰는 것을 대체할 수 있는 재활용 용기가 나오지 않는 이상은 어려울 것 같음. 경제성도 가져야 하고. 언택트시대에 배달은 계속 늘어날텐데."
+	},
+	{
+		"created_at": "Tue Jun 02 05:27:57 +0000 2020",
+		"id": 1267679703046844400,
+		"id_str": "1267689386818273280",
+		"full_text": "라인업✨\n비투비, 엔시티드림, 아이유, 구구단, 모모랜드, 오마이걸, 워너원, 빅톤, 이엑스아이디, 에이오에이, 에이핑크, 더보이즈, 위키미키, 여자친구, 마마무, 세븐틴, 엔시티127, 우주소녀, 레드벨벳, 아스트로, 트와이스, 있지, 엑소, 아이즈원, (여자)아이들, 방탄소년단, 갓세븐 https://t.co/NtYcz65inA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NtYcz65inA",
+					"expanded_url": "https://twitter.com/allthekpop/status/1267639938838740994",
+					"display_url": "twitter.com/allthekpop/sta…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36836,
+			"friends_count": 4670,
+			"listed_count": 195,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1267639938838741000,
+		"quoted_status_id_str": "1267639938838740994",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NtYcz65inA",
+			"expanded": "https://twitter.com/allthekpop/status/1267639938838740994",
+			"display": "twitter.com/allthekpop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 02 02:11:27 +0000 2020",
+			"id": 1267639938838741000,
+			"id_str": "1267639938838740994",
+			"full_text": "올케다방의 띵곡팔이👋🏻\n⏰PM 2:00~3:30\n\n노래 춤 무대 비주얼까지 완벽한데 매너도 좋고 성격도 좋은 내 최애 え占좋ØГ ˪৹⌵ೕ꒰๑•‧̮ૣ•ૣ๑꒱\n\n▶https://t.co/ntmdyjTIQ4\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/43mg9ZdMyz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ntmdyjTIQ4",
+						"expanded_url": "https://youtu.be/aSF7pNqocCs",
+						"display_url": "youtu.be/aSF7pNqocCs",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1267639931385417700,
+						"id_str": "1267639931385417728",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EZePzSVUEAAfSkU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZePzSVUEAAfSkU.jpg",
+						"url": "https://t.co/43mg9ZdMyz",
+						"display_url": "pic.twitter.com/43mg9ZdMyz",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1267639938838740994/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1267639931385417700,
+						"id_str": "1267639931385417728",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EZePzSVUEAAfSkU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZePzSVUEAAfSkU.jpg",
+						"url": "https://t.co/43mg9ZdMyz",
+						"display_url": "pic.twitter.com/43mg9ZdMyz",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1267639938838740994/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/YpjchEd2rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpjchEd2rf",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36836,
+				"friends_count": 4670,
+				"listed_count": 195,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 8048,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4701,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 32,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라인업✨\n비투비, 엔시티드림, 아이유, 구구단, 모모랜드, 오마이걸, 워너원, 빅톤, 이엑스아이디, 에이오에이, 에이핑크, 더보이즈, 위키미키, 여자친구, 마마무, 세븐틴, 엔시티127, 우주소녀, 레드벨벳, 아스트로, 트와이스, 있지, 엑소, 아이즈원, (여자)아이들, 방탄소년단, 갓세븐 https://t.co/NtYcz65inA"
+	},
+	{
+		"created_at": "Tue Jun 02 05:27:10 +0000 2020",
+		"id": 1267689191007109000,
+		"id_str": "1267689191007109126",
+		"full_text": "2022년 6월부터 일회용 컵 사용 땐 보증금 낸다\nhttps://t.co/W1PGSIMT4P\n\n#일회용품 #일회용 #카페 #매장 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "일회용품",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "일회용",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "카페",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "매장",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W1PGSIMT4P",
+					"expanded_url": "https://www.zdnet.co.kr/view/?no=20200602102831",
+					"display_url": "zdnet.co.kr/view/?no=20200…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022년 6월부터 일회용 컵 사용 땐 보증금 낸다\nhttps://t.co/W1PGSIMT4P\n\n#일회용품 #일회용 #카페 #매장 #minfav"
+	},
+	{
+		"created_at": "Tue Jun 02 05:25:45 +0000 2020",
+		"id": 1267676100525609000,
+		"id_str": "1267688837007826944",
+		"full_text": "\"코로나19가 세계적으로 퍼지면서, 플라스틱을 줄여야 한다는 사회적 노력이 하나둘씩 물거품이 되고 있다. 다회용품 사용에 대한 불안감 때문이다. 감염병에 대한 예방이 뜻하지 않게 일회용 플라스틱의 대범람을 이끌고 있다.\"\n\nhttps://t.co/MThfdTlUcd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MThfdTlUcd",
+					"expanded_url": "https://www.pressian.com/pages/articles/2020060114445151191",
+					"display_url": "pressian.com/pages/articles…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101700883,
+			"id_str": "101700883",
+			"name": "프레시안",
+			"screen_name": "PRESSIAN_news",
+			"location": "서울",
+			"description": "언론 협동조합 프레시안 공식 트위터입니다",
+			"url": "https://t.co/xSnQ26tjA1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xSnQ26tjA1",
+							"expanded_url": "https://pressian.com",
+							"display_url": "pressian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181392,
+			"friends_count": 55314,
+			"listed_count": 3520,
+			"created_at": "Mon Jan 04 08:23:21 +0000 2010",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000184902587/a45647c1bfd893d99b4bf8417b87411a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000184902587/a45647c1bfd893d99b4bf8417b87411a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101700883/1588577982",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"코로나19가 세계적으로 퍼지면서, 플라스틱을 줄여야 한다는 사회적 노력이 하나둘씩 물거품이 되고 있다. 다회용품 사용에 대한 불안감 때문이다. 감염병에 대한 예방이 뜻하지 않게 일회용 플라스틱의 대범람을 이끌고 있다.\"\n\nhttps://t.co/MThfdTlUcd"
+	},
+	{
+		"created_at": "Tue Jun 02 05:21:36 +0000 2020",
+		"id": 1267675347539001300,
+		"id_str": "1267687790759694336",
+		"full_text": "배달 기사와 있던 문제를 정식으로 본사에 항의했더니, 배달업체 대표의 '동생'이 전화를 걸어왔습니다. 그리고는 \"싸가지가 없다\"는 등 폭언을 퍼부었는데요.\n\n변호사들은 이 사안에 어떤 혐의가 적용 가능하다고 봤을까요?\n\nhttps://t.co/MPwMUzjBaz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MPwMUzjBaz",
+					"expanded_url": "https://news.lawtalk.co.kr/case/2331",
+					"display_url": "news.lawtalk.co.kr/case/2331",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1119142506665373700,
+			"id_str": "1119142506665373696",
+			"name": "로톡뉴스",
+			"screen_name": "lawtalknews",
+			"location": "",
+			"description": "⚖️ 법, 누구나 쉽게 알 수 있도록. \n일상 속 법률팁부터 뉴스 속 숨은 법까지, \n로톡뉴스가 취재하고 전합니다.",
+			"url": "https://t.co/QUqSQY6E1w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QUqSQY6E1w",
+							"expanded_url": "https://news.lawtalk.co.kr",
+							"display_url": "news.lawtalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 156,
+			"listed_count": 26,
+			"created_at": "Fri Apr 19 07:35:41 +0000 2019",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244812976038666241/6tqFFVsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244812976038666241/6tqFFVsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1119142506665373696/1587383432",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "배달 기사와 있던 문제를 정식으로 본사에 항의했더니, 배달업체 대표의 '동생'이 전화를 걸어왔습니다. 그리고는 \"싸가지가 없다\"는 등 폭언을 퍼부었는데요.\n\n변호사들은 이 사안에 어떤 혐의가 적용 가능하다고 봤을까요?\n\nhttps://t.co/MPwMUzjBaz"
+	},
+	{
+		"created_at": "Tue Jun 02 05:20:55 +0000 2020",
+		"id": 1267673054726901800,
+		"id_str": "1267687616935104512",
+		"full_text": "구글, 검색결과 순위에 페이지 경험(Page Experience) 지표 도입 https://t.co/7kHL8x8tIK \n사용자가 웹 페이지 이용시 느끼는 속도/보안 경험을 최우선으로 평가\n- Core Web Vitals \nㅤ→ LCP : Largest Contentful Paint \nㅤ→ FID : First Input Delay\nㅤ→ CLS : Cumulative Layout Shift\r...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7kHL8x8tIK",
+					"expanded_url": "https://j.mp/3eDIqN0",
+					"display_url": "j.mp/3eDIqN0",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3024,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글, 검색결과 순위에 페이지 경험(Page Experience) 지표 도입 https://t.co/7kHL8x8tIK \n사용자가 웹 페이지 이용시 느끼는 속도/보안 경험을 최우선으로 평가\n- Core Web Vitals \nㅤ→ LCP : Largest Contentful Paint \nㅤ→ FID : First Input Delay\nㅤ→ CLS : Cumulative Layout Shift\r..."
+	},
+	{
+		"created_at": "Tue Jun 02 05:16:49 +0000 2020",
+		"id": 1267686376612356000,
+		"id_str": "1267686588730859521",
+		"full_text": "코로나19 확산 여파, 1~4월 스마트폰 시청 시간 ‘폭증’ https://t.co/MMUAAzFZ68",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MMUAAzFZ68",
+					"expanded_url": "http://www.bloter.net/archives/386435",
+					"display_url": "bloter.net/archives/386435",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55357,
+			"friends_count": 9,
+			"listed_count": 2395,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 확산 여파, 1~4월 스마트폰 시청 시간 ‘폭증’ https://t.co/MMUAAzFZ68"
+	},
+	{
+		"created_at": "Tue Jun 02 05:16:33 +0000 2020",
+		"id": 1267686521080930300,
+		"id_str": "1267686521080930304",
+		"full_text": "One time secure message\nhttps://t.co/Ure3iPeHql\n\n한 번만 작동하는 안전한 메시지. 링크를 한 번만 열 수 있고 그 후에는 삭제됨. 채팅로그에 남기지 않고 싶은 개인정보 공유 시, 사용. CS시, 활용하면 좋음.\n\n#개인정보 #메시지 #CS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "개인정보",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "메시지",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "CS",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ure3iPeHql",
+					"expanded_url": "https://secureshare.support/",
+					"display_url": "secureshare.support",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 926,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "One time secure message\nhttps://t.co/Ure3iPeHql\n\n한 번만 작동하는 안전한 메시지. 링크를 한 번만 열 수 있고 그 후에는 삭제됨. 채팅로그에 남기지 않고 싶은 개인정보 공유 시, 사용. CS시, 활용하면 좋음.\n\n#개인정보 #메시지 #CS #minfav"
+	},
+	{
+		"created_at": "Tue Jun 02 05:10:30 +0000 2020",
+		"id": 1267682944098816000,
+		"id_str": "1267684999009992704",
+		"full_text": "“더 싸게 팔지마” 강요했던 요기요, 과징금 4억 ‘철퇴’ https://t.co/vjCreWTpSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vjCreWTpSV",
+					"expanded_url": "http://www.bloter.net/archives/386392",
+					"display_url": "bloter.net/archives/386392",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55357,
+			"friends_count": 9,
+			"listed_count": 2395,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“더 싸게 팔지마” 강요했던 요기요, 과징금 4억 ‘철퇴’ https://t.co/vjCreWTpSV"
+	},
+	{
+		"created_at": "Tue Jun 02 05:07:43 +0000 2020",
+		"id": 1267653057854070800,
+		"id_str": "1267684296610902021",
+		"full_text": "[#굿걸/4회예고] 실수의 연속, 위기의 #치타 X #효연 무대?! 과연 승리팀은? I 목요일 밤 9시 30분\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n매주 목요일 밤 9시 30분 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #Mnet #엠넷 https://t.co/xkzUwpbarS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						164,
+						183
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						190,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267652780707070000,
+					"id_str": "1267652780707069952",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267652780707069952/pu/img/6A9l-iZkthckizev.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267652780707069952/pu/img/6A9l-iZkthckizev.jpg",
+					"url": "https://t.co/xkzUwpbarS",
+					"display_url": "pic.twitter.com/xkzUwpbarS",
+					"expanded_url": "https://twitter.com/MnetKR/status/1267653057854070785/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267652780707070000,
+					"id_str": "1267652780707069952",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267652780707069952/pu/img/6A9l-iZkthckizev.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267652780707069952/pu/img/6A9l-iZkthckizev.jpg",
+					"url": "https://t.co/xkzUwpbarS",
+					"display_url": "pic.twitter.com/xkzUwpbarS",
+					"expanded_url": "https://twitter.com/MnetKR/status/1267653057854070785/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38038,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267652780707069952/pu/pl/K9-WRUfKBG2GkuTt.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267652780707069952/pu/vid/1280x720/AdOAhDLcM7AAqtBj.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267652780707069952/pu/vid/480x270/_zoySbCrSMbY3keM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267652780707069952/pu/vid/640x360/KJSTu_H9t_UU1kzv.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2720257,
+			"friends_count": 21799,
+			"listed_count": 2660,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 372,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸/4회예고] 실수의 연속, 위기의 #치타 X #효연 무대?! 과연 승리팀은? I 목요일 밤 9시 30분\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n매주 목요일 밤 9시 30분 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #Mnet #엠넷 https://t.co/xkzUwpbarS"
+	},
+	{
+		"created_at": "Tue Jun 02 05:07:33 +0000 2020",
+		"id": 1267652556487983000,
+		"id_str": "1267684254391001089",
+		"full_text": "[4회/예고] 실수의 연속, 위기의 #치타 X #효연 무대?! 과연 승리팀은? I 목요일 밤 9시 30분\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n매주 목요일 밤 9시 30분 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #Mnet #엠넷 https://t.co/Q1w5ZVdBXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "치타",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						161,
+						180
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						187,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267650608003080200,
+					"id_str": "1267650608003080192",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267650608003080192/pu/img/9-5fsTlxSp4cIeto.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267650608003080192/pu/img/9-5fsTlxSp4cIeto.jpg",
+					"url": "https://t.co/Q1w5ZVdBXE",
+					"display_url": "pic.twitter.com/Q1w5ZVdBXE",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1267652556487983106/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267650608003080200,
+					"id_str": "1267650608003080192",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267650608003080192/pu/img/9-5fsTlxSp4cIeto.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267650608003080192/pu/img/9-5fsTlxSp4cIeto.jpg",
+					"url": "https://t.co/Q1w5ZVdBXE",
+					"display_url": "pic.twitter.com/Q1w5ZVdBXE",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1267652556487983106/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38038,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267650608003080192/pu/vid/640x360/OTH5fKCJw9GTBGWV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267650608003080192/pu/pl/yKZmJ4wihwhn78aY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267650608003080192/pu/vid/480x270/ar5gJsLJApGfI5H7.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267650608003080192/pu/vid/1280x720/Js-0bo55EXKUgtCK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 9시 30분 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196892,
+			"friends_count": 2545,
+			"listed_count": 209,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1589882575",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4회/예고] 실수의 연속, 위기의 #치타 X #효연 무대?! 과연 승리팀은? I 목요일 밤 9시 30분\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n매주 목요일 밤 9시 30분 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #Mnet #엠넷 https://t.co/Q1w5ZVdBXE"
+	},
+	{
 		"created_at": "Tue Jun 02 03:30:43 +0000 2020",
 		"id": 1267611637931901000,
 		"id_str": "1267659884700418049",
@@ -57,7 +1893,7 @@ Grailbird.data.tweets_2020_06 =
 		"user": {
 			"id": 166651117,
 			"id_str": "166651117",
-			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"name": "44BITS 기술 블로그 👩💻👨💻",
 			"screen_name": "fortyfourbits",
 			"location": "Republic of Korea",
 			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
