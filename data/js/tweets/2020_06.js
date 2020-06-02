@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 09:56:41 +0000 2020",
+		"id": 1267304640468508700,
+		"id_str": "1267757019328475145",
+		"full_text": "세상엔 참 다양한 종류의 팬들이 있다...\n https://t.co/QWz78Rjro1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267071052959514600,
+					"id_str": "1267071052959514624",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267071052959514624/pu/img/giVTjvim96bOxWf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267071052959514624/pu/img/giVTjvim96bOxWf5.jpg",
+					"url": "https://t.co/QWz78Rjro1",
+					"display_url": "pic.twitter.com/QWz78Rjro1",
+					"expanded_url": "https://twitter.com/_moonnightnight/status/1267071086052564992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1267071086052565000,
+					"source_status_id_str": "1267071086052564992",
+					"source_user_id": 1237906271887487000,
+					"source_user_id_str": "1237906271887486976"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267071052959514600,
+					"id_str": "1267071052959514624",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267071052959514624/pu/img/giVTjvim96bOxWf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267071052959514624/pu/img/giVTjvim96bOxWf5.jpg",
+					"url": "https://t.co/QWz78Rjro1",
+					"display_url": "pic.twitter.com/QWz78Rjro1",
+					"expanded_url": "https://twitter.com/_moonnightnight/status/1267071086052564992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1267071086052565000,
+					"source_status_id_str": "1267071086052564992",
+					"source_user_id": 1237906271887487000,
+					"source_user_id_str": "1237906271887486976",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15033,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267071052959514624/pu/vid/320x568/ruOVvVERKBUWMxeP.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267071052959514624/pu/vid/576x1024/l1g_Nxmc64ME3pXA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267071052959514624/pu/pl/9WAW8bhUZ3mtx8-y.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267071052959514624/pu/vid/360x640/dTOebYD7Wo4mSXSN.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1237906271887487000,
+							"id_str": "1237906271887486976",
+							"name": "ryu.",
+							"screen_name": "_moonnightnight",
+							"location": "…✈︎🍴🎨",
+							"description": "備忘録のようなもの。み〜んな好きです。前のが消えちゃったのでnew。最近気持ちはタイ🕊",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 805,
+							"friends_count": 25,
+							"listed_count": 3,
+							"created_at": "Thu Mar 12 01:00:38 +0000 2020",
+							"favourites_count": 1820,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2970,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1237906346705448960/ptZf_5gu_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237906346705448960/ptZf_5gu_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237906271887486976/1583975102",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1087406238562840600,
+			"id_str": "1087406238562840576",
+			"name": "FONCÉ",
+			"screen_name": "foncetherouge",
+			"location": "정재현",
+			"description": "• @_aube_ciel_",
+			"url": "https://t.co/vWae3dEL4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vWae3dEL4F",
+							"expanded_url": "https://peing.net/ko/fonce",
+							"display_url": "peing.net/ko/fonce",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6177,
+			"friends_count": 131,
+			"listed_count": 29,
+			"created_at": "Mon Jan 21 17:47:05 +0000 2019",
+			"favourites_count": 7325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209862900883456000/g9y6_7DH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209862900883456000/g9y6_7DH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1087406238562840576/1588002001",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7613,
+		"favorite_count": 3290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상엔 참 다양한 종류의 팬들이 있다...\n https://t.co/QWz78Rjro1"
+	},
+	{
+		"created_at": "Tue Jun 02 09:52:12 +0000 2020",
+		"id": 1267744579605815300,
+		"id_str": "1267755890834321408",
+		"full_text": "CHUNG HA Official Fanclub BYULHARANG 🎼\n\nWELCOME IMAGE TEASER 2\n\n✔ 모집기간 : ~ 2020. 7. 31\n✌🏻 상세안내 : https://t.co/X3fJRaQqHw\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd https://t.co/lssZV4SZhe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						152,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X3fJRaQqHw",
+					"expanded_url": "https://bit.ly/2ZSkVM5",
+					"display_url": "bit.ly/2ZSkVM5",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267744569614930000,
+					"id_str": "1267744569614929921",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EZfu-CHUEAEUdBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZfu-CHUEAEUdBQ.jpg",
+					"url": "https://t.co/lssZV4SZhe",
+					"display_url": "pic.twitter.com/lssZV4SZhe",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1267744579605815296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267744569614930000,
+					"id_str": "1267744569614929921",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EZfu-CHUEAEUdBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZfu-CHUEAEUdBQ.jpg",
+					"url": "https://t.co/lssZV4SZhe",
+					"display_url": "pic.twitter.com/lssZV4SZhe",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1267744579605815296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1267744569614950400,
+					"id_str": "1267744569614950400",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EZfu-CHUYAA_0UW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZfu-CHUYAA_0UW.jpg",
+					"url": "https://t.co/lssZV4SZhe",
+					"display_url": "pic.twitter.com/lssZV4SZhe",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1267744579605815296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262511,
+			"friends_count": 0,
+			"listed_count": 1538,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 604,
+		"favorite_count": 2635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA Official Fanclub BYULHARANG 🎼\n\nWELCOME IMAGE TEASER 2\n\n✔ 모집기간 : ~ 2020. 7. 31\n✌🏻 상세안내 : https://t.co/X3fJRaQqHw\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd https://t.co/lssZV4SZhe"
+	},
+	{
 		"created_at": "Tue Jun 02 08:57:10 +0000 2020",
 		"id": 1267739648660365300,
 		"id_str": "1267742041850535936",
