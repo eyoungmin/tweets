@@ -1,6 +1,621 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 18:54:27 +0000 2020",
+		"id": 1267785492474368000,
+		"id_str": "1267892352258981888",
+		"full_text": "코넬 웨스트 하버드대 교수의 CNN인터뷰입니다. (3/3)\n백악관에 사는 네오파시스트 깡패들에 대항해\n어떻게 하면 도덕적 윤리적 기본을 지키고 휴머니즘의 기조를 지킬것인가.\n그것은 \"Try again, fail again, fail better\" 해야 한다. https://t.co/niqUKpGGQn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267784778478055400,
+					"id_str": "1267784778478055425",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267784778478055425/pu/img/FoHpj-0oUoPagCT9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267784778478055425/pu/img/FoHpj-0oUoPagCT9.jpg",
+					"url": "https://t.co/niqUKpGGQn",
+					"display_url": "pic.twitter.com/niqUKpGGQn",
+					"expanded_url": "https://twitter.com/jangchajang/status/1267785492474368002/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267784778478055400,
+					"id_str": "1267784778478055425",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267784778478055425/pu/img/FoHpj-0oUoPagCT9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267784778478055425/pu/img/FoHpj-0oUoPagCT9.jpg",
+					"url": "https://t.co/niqUKpGGQn",
+					"display_url": "pic.twitter.com/niqUKpGGQn",
+					"expanded_url": "https://twitter.com/jangchajang/status/1267785492474368002/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139973,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267784778478055425/pu/vid/480x270/K8OJORgBbzyYF78M.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267784778478055425/pu/vid/1280x720/C7j88lP1rgQpV1J7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267784778478055425/pu/pl/e6ElrYflbZVRFP5o.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267784778478055425/pu/vid/640x360/IvUJT4NLId5Jsyy9.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1267784738661560300,
+		"in_reply_to_status_id_str": "1267784738661560320",
+		"in_reply_to_user_id": 919107802672463900,
+		"in_reply_to_user_id_str": "919107802672463872",
+		"in_reply_to_screen_name": "jangchajang",
+		"user": {
+			"id": 919107802672463900,
+			"id_str": "919107802672463872",
+			"name": "육아러장차장",
+			"screen_name": "jangchajang",
+			"location": "Korea🇰🇷",
+			"description": "Youtube channel: 번역러장차장 / Timothée Chalamet Korean Subtitler / 영화-음악-문화덕후 / 육아러 / 고영 식물 물고기 좋아해요 / 고나리 없는 팬문화 추구합니다 / jangchajang@daum.net",
+			"url": "https://t.co/FKjh1clXam",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FKjh1clXam",
+							"expanded_url": "https://www.youtube.com/channel/UCnN1xc8DdSryEtFYUFx_RrQ",
+							"display_url": "youtube.com/channel/UCnN1x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1308,
+			"friends_count": 89,
+			"listed_count": 2,
+			"created_at": "Sat Oct 14 07:49:11 +0000 2017",
+			"favourites_count": 11469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239789964260306944/yXm2YU69_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239789964260306944/yXm2YU69_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919107802672463872/1536218269",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 715,
+		"favorite_count": 435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코넬 웨스트 하버드대 교수의 CNN인터뷰입니다. (3/3)\n백악관에 사는 네오파시스트 깡패들에 대항해\n어떻게 하면 도덕적 윤리적 기본을 지키고 휴머니즘의 기조를 지킬것인가.\n그것은 \"Try again, fail again, fail better\" 해야 한다. https://t.co/niqUKpGGQn"
+	},
+	{
+		"created_at": "Tue Jun 02 18:54:25 +0000 2020",
+		"id": 1267784738661560300,
+		"id_str": "1267892344520495106",
+		"full_text": "코넬 웨스트 하버드대 교수의 CNN인터뷰입니다. (2/3)\n사회 지도층에 흑인을 배출하고도 실패한 이유에 대해.\n그리고 흑인 뿐만 아니라 미국 사회 최하위층의 삶을 사는 백인 아시아인 인도계 등 모든 약자에 대해.\n\"When the looting starts, the shooting starts\"를 인용한 트럼프의 트윗에 대해 https://t.co/TzGU8z5CIF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267784151286952000,
+					"id_str": "1267784151286951936",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267784151286951936/pu/img/ibtZBpDJ0od00dCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267784151286951936/pu/img/ibtZBpDJ0od00dCP.jpg",
+					"url": "https://t.co/TzGU8z5CIF",
+					"display_url": "pic.twitter.com/TzGU8z5CIF",
+					"expanded_url": "https://twitter.com/jangchajang/status/1267784738661560320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267784151286952000,
+					"id_str": "1267784151286951936",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267784151286951936/pu/img/ibtZBpDJ0od00dCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267784151286951936/pu/img/ibtZBpDJ0od00dCP.jpg",
+					"url": "https://t.co/TzGU8z5CIF",
+					"display_url": "pic.twitter.com/TzGU8z5CIF",
+					"expanded_url": "https://twitter.com/jangchajang/status/1267784738661560320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 138172,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267784151286951936/pu/vid/480x270/21aNEc3FvkkYwkq1.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267784151286951936/pu/vid/640x360/QUg-0-YynJyD7gkw.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267784151286951936/pu/pl/UsT4F2F3KrIvLoAV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267784151286951936/pu/vid/1280x720/suP9TxytWZ1BBwWB.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1267783872852328400,
+		"in_reply_to_status_id_str": "1267783872852328448",
+		"in_reply_to_user_id": 919107802672463900,
+		"in_reply_to_user_id_str": "919107802672463872",
+		"in_reply_to_screen_name": "jangchajang",
+		"user": {
+			"id": 919107802672463900,
+			"id_str": "919107802672463872",
+			"name": "육아러장차장",
+			"screen_name": "jangchajang",
+			"location": "Korea🇰🇷",
+			"description": "Youtube channel: 번역러장차장 / Timothée Chalamet Korean Subtitler / 영화-음악-문화덕후 / 육아러 / 고영 식물 물고기 좋아해요 / 고나리 없는 팬문화 추구합니다 / jangchajang@daum.net",
+			"url": "https://t.co/FKjh1clXam",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FKjh1clXam",
+							"expanded_url": "https://www.youtube.com/channel/UCnN1xc8DdSryEtFYUFx_RrQ",
+							"display_url": "youtube.com/channel/UCnN1x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1308,
+			"friends_count": 89,
+			"listed_count": 2,
+			"created_at": "Sat Oct 14 07:49:11 +0000 2017",
+			"favourites_count": 11469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239789964260306944/yXm2YU69_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239789964260306944/yXm2YU69_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919107802672463872/1536218269",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 710,
+		"favorite_count": 392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코넬 웨스트 하버드대 교수의 CNN인터뷰입니다. (2/3)\n사회 지도층에 흑인을 배출하고도 실패한 이유에 대해.\n그리고 흑인 뿐만 아니라 미국 사회 최하위층의 삶을 사는 백인 아시아인 인도계 등 모든 약자에 대해.\n\"When the looting starts, the shooting starts\"를 인용한 트럼프의 트윗에 대해 https://t.co/TzGU8z5CIF"
+	},
+	{
+		"created_at": "Tue Jun 02 18:54:23 +0000 2020",
+		"id": 1267783872852328400,
+		"id_str": "1267892332948406273",
+		"full_text": "코넬 웨스트 하버드대 교수의 CNN인터뷰입니다. (1/3)\n현재 미국 사회실험은 완전히 실패했고 네오파시스트 백악관은 물론, 버니 샌더스의 패배로 신자유주의자들이 집권한 민주당에 대한 비판, 흑인사회의 처절한 반성까지 들어간 보기드문 통렬한 시선이 들어있어 번역해 공유합니다. https://t.co/3W1lI9zsMI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267783678878290000,
+					"id_str": "1267783678878289920",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267783678878289920/pu/img/KB-pMtGDNDYe-ClB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267783678878289920/pu/img/KB-pMtGDNDYe-ClB.jpg",
+					"url": "https://t.co/3W1lI9zsMI",
+					"display_url": "pic.twitter.com/3W1lI9zsMI",
+					"expanded_url": "https://twitter.com/jangchajang/status/1267783872852328448/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267783678878290000,
+					"id_str": "1267783678878289920",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267783678878289920/pu/img/KB-pMtGDNDYe-ClB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267783678878289920/pu/img/KB-pMtGDNDYe-ClB.jpg",
+					"url": "https://t.co/3W1lI9zsMI",
+					"display_url": "pic.twitter.com/3W1lI9zsMI",
+					"expanded_url": "https://twitter.com/jangchajang/status/1267783872852328448/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 135695,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267783678878289920/pu/vid/640x360/eTuqT55FjFQ7GfR8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267783678878289920/pu/pl/DkPMTGjIVJk0vljV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267783678878289920/pu/vid/1280x720/Wl_hV5AdJFtYNVC2.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267783678878289920/pu/vid/480x270/aCnx99752ope6jG-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 919107802672463900,
+			"id_str": "919107802672463872",
+			"name": "육아러장차장",
+			"screen_name": "jangchajang",
+			"location": "Korea🇰🇷",
+			"description": "Youtube channel: 번역러장차장 / Timothée Chalamet Korean Subtitler / 영화-음악-문화덕후 / 육아러 / 고영 식물 물고기 좋아해요 / 고나리 없는 팬문화 추구합니다 / jangchajang@daum.net",
+			"url": "https://t.co/FKjh1clXam",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FKjh1clXam",
+							"expanded_url": "https://www.youtube.com/channel/UCnN1xc8DdSryEtFYUFx_RrQ",
+							"display_url": "youtube.com/channel/UCnN1x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1308,
+			"friends_count": 89,
+			"listed_count": 2,
+			"created_at": "Sat Oct 14 07:49:11 +0000 2017",
+			"favourites_count": 11469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239789964260306944/yXm2YU69_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239789964260306944/yXm2YU69_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919107802672463872/1536218269",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3454,
+		"favorite_count": 2077,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코넬 웨스트 하버드대 교수의 CNN인터뷰입니다. (1/3)\n현재 미국 사회실험은 완전히 실패했고 네오파시스트 백악관은 물론, 버니 샌더스의 패배로 신자유주의자들이 집권한 민주당에 대한 비판, 흑인사회의 처절한 반성까지 들어간 보기드문 통렬한 시선이 들어있어 번역해 공유합니다. https://t.co/3W1lI9zsMI"
+	},
+	{
 		"created_at": "Tue Jun 02 12:43:43 +0000 2020",
 		"id": 1267770460919349200,
 		"id_str": "1267799054089457665",
