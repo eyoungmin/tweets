@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 10:52:13 +0000 2020",
+		"id": 1268120489060233200,
+		"id_str": "1268133379129651202",
+		"full_text": "📹 [Special Clips] 청하(CHUNG HA) - 돌체앤가바나(Dolce &amp; Gabbana) 화보촬영 Making Film\n\n▶️ https://t.co/wXbS05blLP\n✌🏻 https://t.co/8x22NihopR\n📸 https://t.co/2IpJ5Usa8G\n\n#청하 #CHUNGHA\n@dolcegabbana\n#돌체앤가바나뷰티\n#DGBeauty https://t.co/175CezIRSF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "돌체앤가바나뷰티",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "DGBeauty",
+					"indices": [
+						197,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dolcegabbana",
+					"name": "Dolce & Gabbana",
+					"id": 85772748,
+					"id_str": "85772748",
+					"indices": [
+						173,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wXbS05blLP",
+					"expanded_url": "https://bit.ly/302Q4MR",
+					"display_url": "bit.ly/302Q4MR",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/8x22NihopR",
+					"expanded_url": "https://bit.ly/2U3ufca",
+					"display_url": "bit.ly/2U3ufca",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/2IpJ5Usa8G",
+					"expanded_url": "https://bit.ly/2LySfzo",
+					"display_url": "bit.ly/2LySfzo",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268120307853717500,
+					"id_str": "1268120307853717505",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268120307853717505/pu/img/8en-uj83vbZaeU9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268120307853717505/pu/img/8en-uj83vbZaeU9b.jpg",
+					"url": "https://t.co/175CezIRSF",
+					"display_url": "pic.twitter.com/175CezIRSF",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1268120489060233216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268120307853717500,
+					"id_str": "1268120307853717505",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268120307853717505/pu/img/8en-uj83vbZaeU9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268120307853717505/pu/img/8en-uj83vbZaeU9b.jpg",
+					"url": "https://t.co/175CezIRSF",
+					"display_url": "pic.twitter.com/175CezIRSF",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1268120489060233216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32966,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268120307853717505/pu/vid/480x270/deC5i72QcjQVf8vR.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268120307853717505/pu/vid/640x360/8juHVsQg4qfuz96l.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268120307853717505/pu/pl/x657GPMKlpXGQUdh.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268120307853717505/pu/vid/1280x720/FUXUBvSdeDgmIvpJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262666,
+			"friends_count": 0,
+			"listed_count": 1539,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 1290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📹 [Special Clips] 청하(CHUNG HA) - 돌체앤가바나(Dolce &amp; Gabbana) 화보촬영 Making Film\n\n▶️ https://t.co/wXbS05blLP\n✌🏻 https://t.co/8x22NihopR\n📸 https://t.co/2IpJ5Usa8G\n\n#청하 #CHUNGHA\n@dolcegabbana\n#돌체앤가바나뷰티\n#DGBeauty https://t.co/175CezIRSF"
+	},
+	{
+		"created_at": "Wed Jun 03 10:10:19 +0000 2020",
+		"id": 1268122835001790500,
+		"id_str": "1268122835001790465",
+		"full_text": "#청하 #CHUNGHA\n[Special Clips] 청하(CHUNG HA) - 돌체앤가바나(Dolce &amp; Gabbana) 화보촬영 Making Film\nhttps://t.co/1YZ6YccDPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1YZ6YccDPf",
+					"expanded_url": "https://youtu.be/UtpuKMO5KaU",
+					"display_url": "youtu.be/UtpuKMO5KaU",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 931,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[Special Clips] 청하(CHUNG HA) - 돌체앤가바나(Dolce &amp; Gabbana) 화보촬영 Making Film\nhttps://t.co/1YZ6YccDPf"
+	},
+	{
 		"created_at": "Wed Jun 03 09:24:39 +0000 2020",
 		"id": 1268111343908868000,
 		"id_str": "1268111343908868096",
