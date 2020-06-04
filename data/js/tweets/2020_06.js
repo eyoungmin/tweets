@@ -1,6 +1,1593 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 01:59:24 +0000 2020",
+		"id": 1268361683384373200,
+		"id_str": "1268361683384373248",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n“진짜가 온다”‥방예담, YG 전폭 지원 속 솔로곡 ‘왜요’ 5일 발표\nhttps://t.co/CiIaJRLP2W\n#블랙핑크 #BLACKPINK https://t.co/Ev8mrSSmTx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CiIaJRLP2W",
+					"expanded_url": "https://yg-life.com/archives/155761?lang=ko",
+					"display_url": "yg-life.com/archives/15576…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268361681475907600,
+					"id_str": "1268361681475907585",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EZogOq8WsAEJJe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZogOq8WsAEJJe4.jpg",
+					"url": "https://t.co/Ev8mrSSmTx",
+					"display_url": "pic.twitter.com/Ev8mrSSmTx",
+					"expanded_url": "https://twitter.com/fromminn/status/1268361683384373248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268361681475907600,
+					"id_str": "1268361681475907585",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EZogOq8WsAEJJe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZogOq8WsAEJJe4.jpg",
+					"url": "https://t.co/Ev8mrSSmTx",
+					"display_url": "pic.twitter.com/Ev8mrSSmTx",
+					"expanded_url": "https://twitter.com/fromminn/status/1268361683384373248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 931,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n“진짜가 온다”‥방예담, YG 전폭 지원 속 솔로곡 ‘왜요’ 5일 발표\nhttps://t.co/CiIaJRLP2W\n#블랙핑크 #BLACKPINK https://t.co/Ev8mrSSmTx"
+	},
+	{
+		"created_at": "Thu Jun 04 01:39:22 +0000 2020",
+		"id": 1268346201016922000,
+		"id_str": "1268356641172320256",
+		"full_text": "싸이월드, 지난달 폐업 처리…도토리·일촌맺기 추억 속으로 https://t.co/PR59c933rG 이렇게 한국 인터넷 역사의 한 장이 마감됩니다. https://t.co/7kLeHJ6AZP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PR59c933rG",
+					"expanded_url": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=015&aid=0004353538",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268346193232322600,
+					"id_str": "1268346193232322561",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EZoSJIvU4AEkjBT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZoSJIvU4AEkjBT.jpg",
+					"url": "https://t.co/7kLeHJ6AZP",
+					"display_url": "pic.twitter.com/7kLeHJ6AZP",
+					"expanded_url": "https://twitter.com/estima7/status/1268346201016922112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 463,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268346193232322600,
+					"id_str": "1268346193232322561",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EZoSJIvU4AEkjBT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZoSJIvU4AEkjBT.jpg",
+					"url": "https://t.co/7kLeHJ6AZP",
+					"display_url": "pic.twitter.com/7kLeHJ6AZP",
+					"expanded_url": "https://twitter.com/estima7/status/1268346201016922112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 463,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371268,
+			"friends_count": 2282,
+			"listed_count": 4521,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싸이월드, 지난달 폐업 처리…도토리·일촌맺기 추억 속으로 https://t.co/PR59c933rG 이렇게 한국 인터넷 역사의 한 장이 마감됩니다. https://t.co/7kLeHJ6AZP"
+	},
+	{
+		"created_at": "Thu Jun 04 01:37:55 +0000 2020",
+		"id": 1268106958835347500,
+		"id_str": "1268356275982589952",
+		"full_text": "CHUNG HA Official Fanclub BYULHARANG 📚\n\nWELCOME IMAGE TEASER 3\n\n✔ 모집기간 : ~ 2020. 7. 31\n✌🏻 상세안내 : https://t.co/X3fJRaQqHw\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd https://t.co/CU7UY4knhB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						152,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X3fJRaQqHw",
+					"expanded_url": "https://bit.ly/2ZSkVM5",
+					"display_url": "bit.ly/2ZSkVM5",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268106944633401300,
+					"id_str": "1268106944633401344",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EZk4jCQUcAAkQnY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZk4jCQUcAAkQnY.jpg",
+					"url": "https://t.co/CU7UY4knhB",
+					"display_url": "pic.twitter.com/CU7UY4knhB",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1268106958835347462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268106944633401300,
+					"id_str": "1268106944633401344",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EZk4jCQUcAAkQnY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZk4jCQUcAAkQnY.jpg",
+					"url": "https://t.co/CU7UY4knhB",
+					"display_url": "pic.twitter.com/CU7UY4knhB",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1268106958835347462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268106944637632500,
+					"id_str": "1268106944637632513",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EZk4jCRVAAE3TSV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZk4jCRVAAE3TSV.jpg",
+					"url": "https://t.co/CU7UY4knhB",
+					"display_url": "pic.twitter.com/CU7UY4knhB",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1268106958835347462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262769,
+			"friends_count": 0,
+			"listed_count": 1539,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1810,
+		"favorite_count": 8803,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA Official Fanclub BYULHARANG 📚\n\nWELCOME IMAGE TEASER 3\n\n✔ 모집기간 : ~ 2020. 7. 31\n✌🏻 상세안내 : https://t.co/X3fJRaQqHw\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd https://t.co/CU7UY4knhB"
+	},
+	{
+		"created_at": "Thu Jun 04 01:36:27 +0000 2020",
+		"id": 1268179517920575500,
+		"id_str": "1268355907223646208",
+		"full_text": "[Writing for Publication] COVID-19 상황에서 한시적으로 무료 다운로드 가능하다 합니다. 영작 논문 작성에 참고하게 되길 바라며, 저도 다운 꾹. 다운 전 로봇 테스트 있네요. 2016년 출판에 324쪽입니다. \n\nhttps://t.co/x5fWYYrlva https://t.co/rcQXb3cp7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x5fWYYrlva",
+					"expanded_url": "https://link.springer.com/book/10.1007/978-3-319-31650-5",
+					"display_url": "link.springer.com/book/10.1007/9…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268179508596621300,
+					"id_str": "1268179508596621314",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EZl6i0FUwAIxM8z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZl6i0FUwAIxM8z.jpg",
+					"url": "https://t.co/rcQXb3cp7I",
+					"display_url": "pic.twitter.com/rcQXb3cp7I",
+					"expanded_url": "https://twitter.com/Claire_G_Kim/status/1268179517920575488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 583,
+							"h": 890,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 583,
+							"h": 890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268179508596621300,
+					"id_str": "1268179508596621314",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EZl6i0FUwAIxM8z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZl6i0FUwAIxM8z.jpg",
+					"url": "https://t.co/rcQXb3cp7I",
+					"display_url": "pic.twitter.com/rcQXb3cp7I",
+					"expanded_url": "https://twitter.com/Claire_G_Kim/status/1268179517920575488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 583,
+							"h": 890,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 583,
+							"h": 890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 215960860,
+			"id_str": "215960860",
+			"name": "Vulnerable Nobody",
+			"screen_name": "Claire_G_Kim",
+			"location": "everywhere",
+			"description": "안팎으로 상당히 다른 인간. 여기, 트위터는 본성이 웅앵대는 놀이터 (특히, 밤새서 일할때) ... 대외적으로는 소심한 동네 학자이자, 타자에 의한 워크홀릭이라 해두자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1115,
+			"friends_count": 734,
+			"listed_count": 14,
+			"created_at": "Mon Nov 15 12:16:53 +0000 2010",
+			"favourites_count": 9440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252609480958767104/NAdSbj2e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252609480958767104/NAdSbj2e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/215960860/1420578802",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Writing for Publication] COVID-19 상황에서 한시적으로 무료 다운로드 가능하다 합니다. 영작 논문 작성에 참고하게 되길 바라며, 저도 다운 꾹. 다운 전 로봇 테스트 있네요. 2016년 출판에 324쪽입니다. \n\nhttps://t.co/x5fWYYrlva https://t.co/rcQXb3cp7I"
+	},
+	{
+		"created_at": "Thu Jun 04 01:29:09 +0000 2020",
+		"id": 1268110087412801500,
+		"id_str": "1268354068818194432",
+		"full_text": "주로 스타트업이 제공하는 국내 구독 서비스 모음 https://t.co/IkPZMMstPR 면도기, 세탁, 청소 등 생활서비스, 샐러드 등 식품서비스, 전자책, 영화, 음악 등 디지털콘텐츠서비스 등 구독서비스 전성시대. https://t.co/goh3j9toEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IkPZMMstPR",
+					"expanded_url": "https://nalgaeng.com/2020/05/31/subscription_service/",
+					"display_url": "nalgaeng.com/2020/05/31/sub…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268110076381786000,
+					"id_str": "1268110076381786114",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EZk7ZU7UcAI-nG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZk7ZU7UcAI-nG0.jpg",
+					"url": "https://t.co/goh3j9toEd",
+					"display_url": "pic.twitter.com/goh3j9toEd",
+					"expanded_url": "https://twitter.com/estima7/status/1268110087412801539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268110076381786000,
+					"id_str": "1268110076381786114",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EZk7ZU7UcAI-nG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZk7ZU7UcAI-nG0.jpg",
+					"url": "https://t.co/goh3j9toEd",
+					"display_url": "pic.twitter.com/goh3j9toEd",
+					"expanded_url": "https://twitter.com/estima7/status/1268110087412801539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371268,
+			"friends_count": 2282,
+			"listed_count": 4521,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주로 스타트업이 제공하는 국내 구독 서비스 모음 https://t.co/IkPZMMstPR 면도기, 세탁, 청소 등 생활서비스, 샐러드 등 식품서비스, 전자책, 영화, 음악 등 디지털콘텐츠서비스 등 구독서비스 전성시대. https://t.co/goh3j9toEd"
+	},
+	{
+		"created_at": "Thu Jun 04 01:19:56 +0000 2020",
+		"id": 1266971676480114700,
+		"id_str": "1268351747740676097",
+		"full_text": "&lt;미국 수정헌법 제13조&gt;는 1시간 40분 분량의 다큐멘터리 영화이며, 넷플릭스 페이지 링크는 https://t.co/T6AjnjDtOF 입니다. 넷플릭스 가입 유무와 무관하게 누구나 넷플릭스 공식 유튜브 계정을 통한 해당 작품 시청도 가능합니다. 한국어 자막 제공 https://t.co/syrRtFCngg\n#BlackLivesMatter https://t.co/TVkAZ83n8e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						179,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T6AjnjDtOF",
+					"expanded_url": "https://www.netflix.com/title/80091741",
+					"display_url": "netflix.com/title/80091741",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/syrRtFCngg",
+					"expanded_url": "https://youtu.be/krfcq5pF8u8",
+					"display_url": "youtu.be/krfcq5pF8u8",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/TVkAZ83n8e",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/784680656790061056",
+					"display_url": "twitter.com/netflixkr_up/s…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73745,
+			"friends_count": 42,
+			"listed_count": 201,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 784680656790061000,
+		"quoted_status_id_str": "784680656790061056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TVkAZ83n8e",
+			"expanded": "https://twitter.com/netflixkr_up/status/784680656790061056",
+			"display": "twitter.com/netflixkr_up/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 08 09:03:41 +0000 2016",
+			"id": 784680656790061000,
+			"id_str": "784680656790061056",
+			"full_text": "'미국 수정헌법 제 13조(13TH)'가 넷플릭스에 업데이트되었습니다.\n음성: 영어(2.0, 5.1), 영어 - 음성 지원(2.0, 5.1)\n자막: 영어(CC), 한국어 https://t.co/6X3upxH7NR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 784680562061480000,
+						"id_str": "784680562061479936",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/CuO-0FPUEAAERVK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuO-0FPUEAAERVK.jpg",
+						"url": "https://t.co/6X3upxH7NR",
+						"display_url": "pic.twitter.com/6X3upxH7NR",
+						"expanded_url": "https://twitter.com/netflixkr_up/status/784680656790061056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 766,
+								"h": 537,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 766,
+								"h": 537,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784680562061480000,
+						"id_str": "784680562061479936",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/CuO-0FPUEAAERVK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuO-0FPUEAAERVK.jpg",
+						"url": "https://t.co/6X3upxH7NR",
+						"display_url": "pic.twitter.com/6X3upxH7NR",
+						"expanded_url": "https://twitter.com/netflixkr_up/status/784680656790061056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 766,
+								"h": 537,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 766,
+								"h": 537,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701825105538646000,
+				"id_str": "701825105538646016",
+				"name": "넷플릭스 업데이트봇",
+				"screen_name": "netflixkr_up",
+				"location": "Republic of Korea",
+				"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RxyBgmg5lj",
+								"expanded_url": "http://help.netflix.com/help",
+								"display_url": "help.netflix.com/help",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 73745,
+				"friends_count": 42,
+				"listed_count": 201,
+				"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+				"favourites_count": 112,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 628,
+		"favorite_count": 169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;미국 수정헌법 제13조&gt;는 1시간 40분 분량의 다큐멘터리 영화이며, 넷플릭스 페이지 링크는 https://t.co/T6AjnjDtOF 입니다. 넷플릭스 가입 유무와 무관하게 누구나 넷플릭스 공식 유튜브 계정을 통한 해당 작품 시청도 가능합니다. 한국어 자막 제공 https://t.co/syrRtFCngg\n#BlackLivesMatter https://t.co/TVkAZ83n8e"
+	},
+	{
+		"created_at": "Thu Jun 04 01:19:09 +0000 2020",
+		"id": 1267984344984871000,
+		"id_str": "1268351551602438144",
+		"full_text": "한 가지 분야에 관해 10분 이상 말하기\nhttps://t.co/OsJIjjMC9o\n\n당신은 한 가지 분야에 관해 10분 이상 이야기할 수 있습니까?\n\n업무에 관련된 것이든, 즐기는 취미든, 현재 관심을 가진 분야든, 한 가지에 관해 10분 이상 이야기 하기는 쉽지 않습니다. https://t.co/3gkt6E3SdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OsJIjjMC9o",
+					"expanded_url": "http://ppss.kr/archives/218906",
+					"display_url": "ppss.kr/archives/218906",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267732142139650000,
+					"id_str": "1267732142139650048",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EZfjqqKUMAAvBjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZfjqqKUMAAvBjD.jpg",
+					"url": "https://t.co/3gkt6E3SdS",
+					"display_url": "pic.twitter.com/3gkt6E3SdS",
+					"expanded_url": "https://twitter.com/ppsskr/status/1267984344984870913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267732142139650000,
+					"id_str": "1267732142139650048",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EZfjqqKUMAAvBjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZfjqqKUMAAvBjD.jpg",
+					"url": "https://t.co/3gkt6E3SdS",
+					"display_url": "pic.twitter.com/3gkt6E3SdS",
+					"expanded_url": "https://twitter.com/ppsskr/status/1267984344984870913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992831082,
+			"id_str": "992831082",
+			"name": "ㅍㅍㅅㅅ",
+			"screen_name": "ppsskr",
+			"location": "",
+			"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+			"url": "http://t.co/22eKl3pLgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/22eKl3pLgd",
+							"expanded_url": "http://ppss.kr",
+							"display_url": "ppss.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 234041,
+			"friends_count": 110,
+			"listed_count": 399,
+			"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+			"favourites_count": 1763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1116,
+		"favorite_count": 551,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 가지 분야에 관해 10분 이상 말하기\nhttps://t.co/OsJIjjMC9o\n\n당신은 한 가지 분야에 관해 10분 이상 이야기할 수 있습니까?\n\n업무에 관련된 것이든, 즐기는 취미든, 현재 관심을 가진 분야든, 한 가지에 관해 10분 이상 이야기 하기는 쉽지 않습니다. https://t.co/3gkt6E3SdS"
+	},
+	{
+		"created_at": "Thu Jun 04 01:16:51 +0000 2020",
+		"id": 1268338439574806500,
+		"id_str": "1268350971953856512",
+		"full_text": "Coment - 슬랙용 문서 리뷰/승인 앱 https://t.co/dCPKbG1aka \n- 슬랙에 문서를 올리면 여러 사용자가 코멘트/리뷰/승인/리젝 가능하게 만들어주는 앱\n- PDF/JPG,PNG/MS오피스/페이지,넘버스,키노트/오픈오피스/HTML 지원\n- ProductHunt 등록 기념으로 일 100개 도큐먼트 지원하는 유료버전을 1년...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dCPKbG1aka",
+					"expanded_url": "https://j.mp/2Y1g1JU",
+					"display_url": "j.mp/2Y1g1JU",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3042,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Coment - 슬랙용 문서 리뷰/승인 앱 https://t.co/dCPKbG1aka \n- 슬랙에 문서를 올리면 여러 사용자가 코멘트/리뷰/승인/리젝 가능하게 만들어주는 앱\n- PDF/JPG,PNG/MS오피스/페이지,넘버스,키노트/오픈오피스/HTML 지원\n- ProductHunt 등록 기념으로 일 100개 도큐먼트 지원하는 유료버전을 1년..."
+	},
+	{
 		"created_at": "Wed Jun 03 15:45:37 +0000 2020",
 		"id": 1268195793833320400,
 		"id_str": "1268207215959252993",
