@@ -1,6 +1,837 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 03:01:10 +0000 2020",
+		"id": 1268377227135258600,
+		"id_str": "1268377227135258624",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jun 4) https://t.co/VGqnROyKNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VGqnROyKNB",
+					"expanded_url": "https://nzzl.us/8njWNEI",
+					"display_url": "nzzl.us/8njWNEI",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 931,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jun 4) https://t.co/VGqnROyKNB"
+	},
+	{
+		"created_at": "Thu Jun 04 02:59:38 +0000 2020",
+		"id": 1268189906074955800,
+		"id_str": "1268376839258435584",
+		"full_text": "2020.06.07(sun)13:00-21:00\nTONOFON(remote)Festival出演します。이번주 일요일 일본 토노퐁 뮤직페스티벌에 준이치랑 같이 온라인 출연합니다.(오늘 테스트했어요😎)아래 링크에서 누구나 무료로 볼 수 있어요. 토쿠마루슈고, 오리사카유타,스킵스킵벤벤 등이 나옵니다. https://t.co/tV58cOe02j https://t.co/CAjxta3erS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tV58cOe02j",
+					"expanded_url": "https://www.youtube.com/watch?v=Dv8_c9aAdvI",
+					"display_url": "youtube.com/watch?v=Dv8_c9…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268189879088713700,
+					"id_str": "1268189879088713735",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EZmD-dLUEAcjKgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZmD-dLUEAcjKgK.jpg",
+					"url": "https://t.co/CAjxta3erS",
+					"display_url": "pic.twitter.com/CAjxta3erS",
+					"expanded_url": "https://twitter.com/2lang2/status/1268189906074955776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268189879088713700,
+					"id_str": "1268189879088713735",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EZmD-dLUEAcjKgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZmD-dLUEAcjKgK.jpg",
+					"url": "https://t.co/CAjxta3erS",
+					"display_url": "pic.twitter.com/CAjxta3erS",
+					"expanded_url": "https://twitter.com/2lang2/status/1268189906074955776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268189879097147400,
+					"id_str": "1268189879097147392",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EZmD-dNUwAAL5jb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZmD-dNUwAAL5jb.jpg",
+					"url": "https://t.co/CAjxta3erS",
+					"display_url": "pic.twitter.com/CAjxta3erS",
+					"expanded_url": "https://twitter.com/2lang2/status/1268189906074955776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 812,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268189879097110500,
+					"id_str": "1268189879097110528",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EZmD-dNUMAAI2VR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZmD-dNUMAAI2VR.jpg",
+					"url": "https://t.co/CAjxta3erS",
+					"display_url": "pic.twitter.com/CAjxta3erS",
+					"expanded_url": "https://twitter.com/2lang2/status/1268189906074955776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 557,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 1007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "금융예술인🔥의뢰|문의 📧 info.langlee@gmail.com 📧日本の仕事はinfo.sweetdreams@gmail.com STAFF @info_langlee ☺︎마켓컬리 추천인ID: gonglang",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31194,
+			"friends_count": 978,
+			"listed_count": 166,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 117,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "2020.06.07(sun)13:00-21:00\nTONOFON(remote)Festival出演します。이번주 일요일 일본 토노퐁 뮤직페스티벌에 준이치랑 같이 온라인 출연합니다.(오늘 테스트했어요😎)아래 링크에서 누구나 무료로 볼 수 있어요. 토쿠마루슈고, 오리사카유타,스킵스킵벤벤 등이 나옵니다. https://t.co/tV58cOe02j https://t.co/CAjxta3erS"
+	},
+	{
+		"created_at": "Thu Jun 04 02:54:56 +0000 2020",
+		"id": 1268374048939012000,
+		"id_str": "1268375654958956544",
+		"full_text": "다단계식 '건강용품 세미나'에서 10명 확진…검사대상 199명\nhttps://t.co/z5H47QIcCZ\n\n주로 노인들이 참석하는 다단계식 건강용품 판매업체의 세미나에서 신종 코로나바이러스 감염증(코로나19) 확진자가 쏟아졌습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5H47QIcCZ",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200604089700004?input=tw",
+					"display_url": "yna.co.kr/view/AKR202006…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314277,
+			"friends_count": 70517,
+			"listed_count": 4487,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 213754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다단계식 '건강용품 세미나'에서 10명 확진…검사대상 199명\nhttps://t.co/z5H47QIcCZ\n\n주로 노인들이 참석하는 다단계식 건강용품 판매업체의 세미나에서 신종 코로나바이러스 감염증(코로나19) 확진자가 쏟아졌습니다."
+	},
+	{
+		"created_at": "Thu Jun 04 02:54:25 +0000 2020",
+		"id": 1268375526562861000,
+		"id_str": "1268375526562861058",
+		"full_text": "얼마 전에 뻔한(Fun) 쓰지말자 이야기 나왔던 것 같은데.... 樂 안 쓴 게 어디냐만 이게 락페스티발이었으면 썼을지도 모르겠단 생각이 들었다. https://t.co/B4moEw1P3Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B4moEw1P3Y",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1268018667922567168",
+					"display_url": "twitter.com/MelonTicketOpe…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 931,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268018667922567200,
+		"quoted_status_id_str": "1268018667922567168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B4moEw1P3Y",
+			"expanded": "https://twitter.com/MelonTicketOpen/status/1268018667922567168",
+			"display": "twitter.com/MelonTicketOpe…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 03 03:16:23 +0000 2020",
+			"id": 1268018667922567200,
+			"id_str": "1268018667922567168",
+			"full_text": "#멜론티켓 #티켓오픈소식\n뻔하지않은듯뻔한페스티벌－공식티켓 티켓 오픈 안내 ─ 티켓오픈일 2020.06.05(금) 11:00\nhttps://t.co/EJcfxCFwWn https://t.co/1xFivzi5g8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "멜론티켓",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "티켓오픈소식",
+						"indices": [
+							6,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EJcfxCFwWn",
+						"expanded_url": "https://bit.ly/2XtLYvz",
+						"display_url": "bit.ly/2XtLYvz",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1268018666697896000,
+						"id_str": "1268018666697895936",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EZjoQlUXsAAM3ao.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZjoQlUXsAAM3ao.jpg",
+						"url": "https://t.co/1xFivzi5g8",
+						"display_url": "pic.twitter.com/1xFivzi5g8",
+						"expanded_url": "https://twitter.com/MelonTicketOpen/status/1268018667922567168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 420,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 594,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268018666697896000,
+						"id_str": "1268018666697895936",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EZjoQlUXsAAM3ao.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZjoQlUXsAAM3ao.jpg",
+						"url": "https://t.co/1xFivzi5g8",
+						"display_url": "pic.twitter.com/1xFivzi5g8",
+						"expanded_url": "https://twitter.com/MelonTicketOpen/status/1268018667922567168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 420,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 594,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2400267686,
+				"id_str": "2400267686",
+				"name": "멜론 티켓 - 티켓오픈소식",
+				"screen_name": "MelonTicketOpen",
+				"location": "",
+				"description": "#멜론티켓 #티켓오픈소식 비공식 봇\n\n티켓오픈 봇 관련 건의 및 문의\n@TicketOpen\n\n인터파크 티켓 @InterTicketOpen\n예스24 티켓 @YES24TicketOpen",
+				"url": "https://t.co/XUApYV815i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XUApYV815i",
+								"expanded_url": "https://ticket.melon.com/csoon/index.htm",
+								"display_url": "ticket.melon.com/csoon/index.htm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78,
+				"friends_count": 9,
+				"listed_count": 4,
+				"created_at": "Thu Mar 20 18:19:10 +0000 2014",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 469,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400267686/1575564440",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얼마 전에 뻔한(Fun) 쓰지말자 이야기 나왔던 것 같은데.... 樂 안 쓴 게 어디냐만 이게 락페스티발이었으면 썼을지도 모르겠단 생각이 들었다. https://t.co/B4moEw1P3Y"
+	},
+	{
 		"created_at": "Thu Jun 04 01:59:24 +0000 2020",
 		"id": 1268361683384373200,
 		"id_str": "1268361683384373248",
