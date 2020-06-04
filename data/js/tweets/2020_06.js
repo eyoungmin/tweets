@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 14:44:40 +0000 2020",
+		"id": 1268554265909477400,
+		"id_str": "1268554265909477376",
+		"full_text": "트위터 검색 누락 돌아올려면 한참은 걸릴텐데 불편하겠구나. 엉엉.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 931,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 검색 누락 돌아올려면 한참은 걸릴텐데 불편하겠구나. 엉엉."
+	},
+	{
+		"created_at": "Thu Jun 04 14:43:53 +0000 2020",
+		"id": 1268541383075389400,
+		"id_str": "1268554071067078656",
+		"full_text": "십센치가 2019년에 진행했던 단독 콘서트 &lt;4.2&gt; 를 라이브 스트리밍으로 공개합니다!\n⠀\n𝟭𝟬𝗖𝗠 𝟮𝟬𝟭𝟵 𝗖𝗢𝗡𝗖𝗘𝗥𝗧 &lt;𝟰.𝟮&gt; 𝗟𝗜𝗩𝗘 𝗦𝗧𝗥𝗘𝗔𝗠𝗜𝗡𝗚\n⠀\n📍 𝗪𝗛𝗘𝗡 : 𝟮𝟬𝟮𝟬.𝟬𝟲.𝟭𝟭(𝗧𝗛𝗨) 𝟵𝗣𝗠\n📍 𝗪𝗛𝗘𝗥𝗘 : 𝟭𝟬𝗖𝗠 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 https://t.co/WFQ08Mu0Cf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268541373894086700,
+					"id_str": "1268541373894086659",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EZrDqJXX0AM4INK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZrDqJXX0AM4INK.jpg",
+					"url": "https://t.co/WFQ08Mu0Cf",
+					"display_url": "pic.twitter.com/WFQ08Mu0Cf",
+					"expanded_url": "https://twitter.com/msbsound/status/1268541383075389441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268541373894086700,
+					"id_str": "1268541373894086659",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EZrDqJXX0AM4INK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZrDqJXX0AM4INK.jpg",
+					"url": "https://t.co/WFQ08Mu0Cf",
+					"display_url": "pic.twitter.com/WFQ08Mu0Cf",
+					"expanded_url": "https://twitter.com/msbsound/status/1268541383075389441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8190,
+			"friends_count": 6409,
+			"listed_count": 94,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "십센치가 2019년에 진행했던 단독 콘서트 &lt;4.2&gt; 를 라이브 스트리밍으로 공개합니다!\n⠀\n𝟭𝟬𝗖𝗠 𝟮𝟬𝟭𝟵 𝗖𝗢𝗡𝗖𝗘𝗥𝗧 &lt;𝟰.𝟮&gt; 𝗟𝗜𝗩𝗘 𝗦𝗧𝗥𝗘𝗔𝗠𝗜𝗡𝗚\n⠀\n📍 𝗪𝗛𝗘𝗡 : 𝟮𝟬𝟮𝟬.𝟬𝟲.𝟭𝟭(𝗧𝗛𝗨) 𝟵𝗣𝗠\n📍 𝗪𝗛𝗘𝗥𝗘 : 𝟭𝟬𝗖𝗠 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 https://t.co/WFQ08Mu0Cf"
+	},
+	{
+		"created_at": "Thu Jun 04 14:42:52 +0000 2020",
+		"id": 1043072114478071800,
+		"id_str": "1268553815227236355",
+		"full_text": "비하인드 크레딧: 프로듀서 황현 ② #온앤오프 #KpopScene #BTS #모노트리 https://t.co/ltBdW5oyVY\n\nK-pop을 이끌어나가는 크레딧의 주인공들, K-pop의 숨은 장인들이 들려주는 K-pop 비하인드 스토리. 모노트리 대표 황현 프로듀서와 Kredit에 대한 이야기를 나누었다. https://t.co/cCpBVg7zBe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온앤오프",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "KpopScene",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ltBdW5oyVY",
+					"expanded_url": "https://www.youtube.com/watch?v=XC0-dJw968U",
+					"display_url": "youtube.com/watch?v=XC0-dJ…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1043071885439692800,
+					"id_str": "1043071885439692800",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Dnm8WnbUcAAK-0q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dnm8WnbUcAAK-0q.jpg",
+					"url": "https://t.co/cCpBVg7zBe",
+					"display_url": "pic.twitter.com/cCpBVg7zBe",
+					"expanded_url": "https://twitter.com/idologykr/status/1043072114478071808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1043071885439692800,
+					"id_str": "1043071885439692800",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Dnm8WnbUcAAK-0q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dnm8WnbUcAAK-0q.jpg",
+					"url": "https://t.co/cCpBVg7zBe",
+					"display_url": "pic.twitter.com/cCpBVg7zBe",
+					"expanded_url": "https://twitter.com/idologykr/status/1043072114478071808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1042949031532671000,
+		"in_reply_to_status_id_str": "1042949031532670976",
+		"in_reply_to_user_id": 2370674196,
+		"in_reply_to_user_id_str": "2370674196",
+		"in_reply_to_screen_name": "idologykr",
+		"user": {
+			"id": 2370674196,
+			"id_str": "2370674196",
+			"name": "아이돌로지",
+			"screen_name": "idologykr",
+			"location": "",
+			"description": "다르게 말하는 아이돌팝 웹진, 아이돌로지입니다.",
+			"url": "https://t.co/iNzLTVDeRH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iNzLTVDeRH",
+							"expanded_url": "http://idology.kr",
+							"display_url": "idology.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7006,
+			"friends_count": 67,
+			"listed_count": 44,
+			"created_at": "Mon Mar 03 16:50:27 +0000 2014",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/445979354716069888/CK21Rmxa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/445979354716069888/CK21Rmxa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2370674196/1406071135",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비하인드 크레딧: 프로듀서 황현 ② #온앤오프 #KpopScene #BTS #모노트리 https://t.co/ltBdW5oyVY\n\nK-pop을 이끌어나가는 크레딧의 주인공들, K-pop의 숨은 장인들이 들려주는 K-pop 비하인드 스토리. 모노트리 대표 황현 프로듀서와 Kredit에 대한 이야기를 나누었다. https://t.co/cCpBVg7zBe"
+	},
+	{
 		"created_at": "Thu Jun 04 12:52:23 +0000 2020",
 		"id": 1268517147577168000,
 		"id_str": "1268526008950558724",
