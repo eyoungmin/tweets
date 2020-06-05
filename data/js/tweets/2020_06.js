@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 00:52:12 +0000 2020",
+		"id": 1268699176486895600,
+		"id_str": "1268707159476486146",
+		"full_text": "[#예술경영 웹진: 자료읽기]\n\n&lt;불확실성과의 싸움, 아는 만큼 전진할 수 있다&gt;\n\n446호 자료읽기 읽으러가기👇\nhttps://t.co/It4JQFZ2n3\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/CO4M4v1Oul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/It4JQFZ2n3",
+					"expanded_url": "https://bit.ly/2Y6l7ok",
+					"display_url": "bit.ly/2Y6l7ok",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268699161580327000,
+					"id_str": "1268699161580326913",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtTKmTU0AEa0Bk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZtTKmTU0AEa0Bk.png",
+					"url": "https://t.co/CO4M4v1Oul",
+					"display_url": "pic.twitter.com/CO4M4v1Oul",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1268699176486895618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 710,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268699161580327000,
+					"id_str": "1268699161580326913",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtTKmTU0AEa0Bk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZtTKmTU0AEa0Bk.png",
+					"url": "https://t.co/CO4M4v1Oul",
+					"display_url": "pic.twitter.com/CO4M4v1Oul",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1268699176486895618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 710,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6715,
+			"friends_count": 3038,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진: 자료읽기]\n\n&lt;불확실성과의 싸움, 아는 만큼 전진할 수 있다&gt;\n\n446호 자료읽기 읽으러가기👇\nhttps://t.co/It4JQFZ2n3\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/CO4M4v1Oul"
+	},
+	{
 		"created_at": "Thu Jun 04 23:52:13 +0000 2020",
 		"id": 1268677683803680800,
 		"id_str": "1268692061491953669",
