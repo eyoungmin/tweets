@@ -1,6 +1,1098 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 06:36:18 +0000 2020",
+		"id": 1268685763782119400,
+		"id_str": "1268793753076002816",
+		"full_text": "애플, 약탈당한 아이폰에 ‘경고 메시지’…”지켜보고 있다” https://t.co/MpppB5G9e4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MpppB5G9e4",
+					"expanded_url": "http://www.bloter.net/archives/387792",
+					"display_url": "bloter.net/archives/387792",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55348,
+			"friends_count": 9,
+			"listed_count": 2395,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애플, 약탈당한 아이폰에 ‘경고 메시지’…”지켜보고 있다” https://t.co/MpppB5G9e4"
+	},
+	{
+		"created_at": "Fri Jun 05 06:36:09 +0000 2020",
+		"id": 1268579316788412400,
+		"id_str": "1268793717374087169",
+		"full_text": "국내에도 여러 웹 기반 편집기들이 활발하게 개발중이다.\n그래플릿: https://t.co/MlU8gKjh0q\n망고보드: https://t.co/cIoGkcytsw\n타일: https://t.co/XAmQFQ87p3\n미리캔버스: https://t.co/oBNBJpfFEc\n\n무려 지인도 만들고 있다.\n이지로직 스튜디오: https://t.co/hn7zwy2xfZ \n😄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MlU8gKjh0q",
+					"expanded_url": "https://grapplet.com",
+					"display_url": "grapplet.com",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/cIoGkcytsw",
+					"expanded_url": "https://mangoboard.net",
+					"display_url": "mangoboard.net",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/XAmQFQ87p3",
+					"expanded_url": "https://tyle.io",
+					"display_url": "tyle.io",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/oBNBJpfFEc",
+					"expanded_url": "https://www.miricanvas.com/",
+					"display_url": "miricanvas.com",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/hn7zwy2xfZ",
+					"expanded_url": "https://editor.easylogic.studio/",
+					"display_url": "editor.easylogic.studio",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109503585,
+			"id_str": "109503585",
+			"name": "Hyun-woo Park",
+			"screen_name": "lqez",
+			"location": "",
+			"description": "Being a pixel of the universe @zerobasedco",
+			"url": "https://t.co/7LK7SxOThd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LK7SxOThd",
+							"expanded_url": "https://lqez.github.io",
+							"display_url": "lqez.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3536,
+			"friends_count": 329,
+			"listed_count": 106,
+			"created_at": "Fri Jan 29 07:52:58 +0000 2010",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "485961",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156513080953622529/QwvUtNFu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156513080953622529/QwvUtNFu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109503585/1546877473",
+			"profile_link_color": "667799",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내에도 여러 웹 기반 편집기들이 활발하게 개발중이다.\n그래플릿: https://t.co/MlU8gKjh0q\n망고보드: https://t.co/cIoGkcytsw\n타일: https://t.co/XAmQFQ87p3\n미리캔버스: https://t.co/oBNBJpfFEc\n\n무려 지인도 만들고 있다.\n이지로직 스튜디오: https://t.co/hn7zwy2xfZ \n😄"
+	},
+	{
+		"created_at": "Fri Jun 05 06:36:04 +0000 2020",
+		"id": 1268704603509362700,
+		"id_str": "1268793693709860865",
+		"full_text": "Signal 메신저, 전송되는 이미지에서 사람 얼굴을 지우는 Blur 도구 추가 https://t.co/VYRY6wv452 \n- 채팅시에 공유되는 모든 이미지에서 사람의 얼굴(또는 다른 정보들)을 인식하거나 자유롭게 마스킹해서 지워주는 도구를 iOS와 Android 에 추가\n- 시스템 &amp; 플랫폼 라이브러리를 사용하며,...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VYRY6wv452",
+					"expanded_url": "https://j.mp/3cuqLpy",
+					"display_url": "j.mp/3cuqLpy",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Signal 메신저, 전송되는 이미지에서 사람 얼굴을 지우는 Blur 도구 추가 https://t.co/VYRY6wv452 \n- 채팅시에 공유되는 모든 이미지에서 사람의 얼굴(또는 다른 정보들)을 인식하거나 자유롭게 마스킹해서 지워주는 도구를 iOS와 Android 에 추가\n- 시스템 &amp; 플랫폼 라이브러리를 사용하며,..."
+	},
+	{
+		"created_at": "Fri Jun 05 06:35:14 +0000 2020",
+		"id": 1268680333622313000,
+		"id_str": "1268793484640522241",
+		"full_text": "서울역 폭행범. 경찰의 체포의 절차가 적법하지 못해 풀려났습니다. 납득하기 어려우신 결정일 수 있습니다만, 법원의 설명은 이렇습니다.\n\nhttps://t.co/5M7b4xyeUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5M7b4xyeUC",
+					"expanded_url": "https://news.joins.com/article/23793825",
+					"display_url": "news.joins.com/article/237938…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63476989,
+			"id_str": "63476989",
+			"name": "박태인(Taein Park)",
+			"screen_name": "TellYouMore",
+			"location": "Seoul",
+			"description": "중앙일보 기자. 좋은 글을 쓰겠습니다. ※트윗 인용 보도 금지 @mujschool graduate\nhttps://t.co/LISzgr3buo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LISzgr3buo",
+							"expanded_url": "http://brunch.co.kr/@taeinpark",
+							"display_url": "brunch.co.kr/@taeinpark",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21358,
+			"friends_count": 13925,
+			"listed_count": 609,
+			"created_at": "Thu Aug 06 15:30:08 +0000 2009",
+			"favourites_count": 15164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 36043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63476989/1411280422",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울역 폭행범. 경찰의 체포의 절차가 적법하지 못해 풀려났습니다. 납득하기 어려우신 결정일 수 있습니다만, 법원의 설명은 이렇습니다.\n\nhttps://t.co/5M7b4xyeUC"
+	},
+	{
+		"created_at": "Fri Jun 05 06:34:54 +0000 2020",
+		"id": 1268682216340516900,
+		"id_str": "1268793401891098624",
+		"full_text": "공인인증서 없는 한국인은 울음을 그칠까 https://t.co/9F5hd2fSxq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9F5hd2fSxq",
+					"expanded_url": "http://www.bloter.net/archives/387783",
+					"display_url": "bloter.net/archives/387783",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55348,
+			"friends_count": 9,
+			"listed_count": 2395,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공인인증서 없는 한국인은 울음을 그칠까 https://t.co/9F5hd2fSxq"
+	},
+	{
+		"created_at": "Fri Jun 05 06:34:51 +0000 2020",
+		"id": 1268732031271239700,
+		"id_str": "1268793389102723072",
+		"full_text": "C0D3 - 인터랙티브한 무료 코딩 학습 사이트 https://t.co/VtxRLs1Q8o \n- 독특한 방식의 소프트웨어 개발 교육 사이트. 오픈소스\n- 강의 듣고 문제 풀고 코드 리뷰 하는 방식인데,\nㅤ서로 질문하고 답변하는 것은 Mattermost (슬랙과 비슷한) 안에서 소통\n- 커리큘럼을 마치고 나면, 이 사이트 ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VtxRLs1Q8o",
+					"expanded_url": "https://j.mp/2MrVadE",
+					"display_url": "j.mp/2MrVadE",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "C0D3 - 인터랙티브한 무료 코딩 학습 사이트 https://t.co/VtxRLs1Q8o \n- 독특한 방식의 소프트웨어 개발 교육 사이트. 오픈소스\n- 강의 듣고 문제 풀고 코드 리뷰 하는 방식인데,\nㅤ서로 질문하고 답변하는 것은 Mattermost (슬랙과 비슷한) 안에서 소통\n- 커리큘럼을 마치고 나면, 이 사이트 ..."
+	},
+	{
+		"created_at": "Fri Jun 05 06:34:07 +0000 2020",
+		"id": 1268769574196965400,
+		"id_str": "1268793205966794752",
+		"full_text": "[공지] (여자)아이들 온라인 콘서트 2020 (G)I-DLE ONLINE CONCERT ‘I-LAND : WHO AM I’ 개최 안내\n\n▶️ https://t.co/omlZyVAMPQ\n   \n#여자아이들 #GIDLE https://t.co/p91b8LxIwT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/omlZyVAMPQ",
+					"expanded_url": "https://bit.ly/2XA0P7D",
+					"display_url": "bit.ly/2XA0P7D",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268769540772466700,
+					"id_str": "1268769540772466688",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuTLNOUEAAvZac.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuTLNOUEAAvZac.jpg",
+					"url": "https://t.co/p91b8LxIwT",
+					"display_url": "pic.twitter.com/p91b8LxIwT",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1268769574196965377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268769540772466700,
+					"id_str": "1268769540772466688",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuTLNOUEAAvZac.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuTLNOUEAAvZac.jpg",
+					"url": "https://t.co/p91b8LxIwT",
+					"display_url": "pic.twitter.com/p91b8LxIwT",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1268769574196965377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268769560179601400,
+					"id_str": "1268769560179601409",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuTMVhVcAEn2r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuTMVhVcAEn2r_.jpg",
+					"url": "https://t.co/p91b8LxIwT",
+					"display_url": "pic.twitter.com/p91b8LxIwT",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1268769574196965377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 662,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 1269,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 752036,
+			"friends_count": 36,
+			"listed_count": 2490,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6106,
+		"favorite_count": 12289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] (여자)아이들 온라인 콘서트 2020 (G)I-DLE ONLINE CONCERT ‘I-LAND : WHO AM I’ 개최 안내\n\n▶️ https://t.co/omlZyVAMPQ\n   \n#여자아이들 #GIDLE https://t.co/p91b8LxIwT"
+	},
+	{
+		"created_at": "Fri Jun 05 06:33:35 +0000 2020",
+		"id": 1268778450271088600,
+		"id_str": "1268793070566338563",
+		"full_text": "인디 밴드와 패션에 대해 잘 아는 분이 글 한 번 써주시면 좋을 텐데. 언니네 이발관은 데뷔할 때 이랜드를 입는 아티스트로 소개됐고 2000년대 중반에 이르러서 이석원은 일기에서 폴스미스를 입는다 얘기했다. 펑크밴드들은 해외 펑크 패션을 따라 커스텀해 입었고 이후 펑크샵이 하나둘 생김.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5270,
+			"friends_count": 1207,
+			"listed_count": 75,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 7684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "인디 밴드와 패션에 대해 잘 아는 분이 글 한 번 써주시면 좋을 텐데. 언니네 이발관은 데뷔할 때 이랜드를 입는 아티스트로 소개됐고 2000년대 중반에 이르러서 이석원은 일기에서 폴스미스를 입는다 얘기했다. 펑크밴드들은 해외 펑크 패션을 따라 커스텀해 입었고 이후 펑크샵이 하나둘 생김."
+	},
+	{
+		"created_at": "Fri Jun 05 06:33:33 +0000 2020",
+		"id": 1268723645263700000,
+		"id_str": "1268793062748110849",
+		"full_text": "퍼플레이 창작자에게 수익분배 70% 하는 거 너무 대단. 유통도 아니고 직접 동영상을 스트리밍하는 서비스인데. 전에 어느 글 플랫폼에서 새로 쓰는 글의 수익 분배로 제안 받은 게 30%였다. 그것도 정액제 서비스에서. 당연히 거절.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5270,
+			"friends_count": 1207,
+			"listed_count": 75,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 7684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "퍼플레이 창작자에게 수익분배 70% 하는 거 너무 대단. 유통도 아니고 직접 동영상을 스트리밍하는 서비스인데. 전에 어느 글 플랫폼에서 새로 쓰는 글의 수익 분배로 제안 받은 게 30%였다. 그것도 정액제 서비스에서. 당연히 거절."
+	},
+	{
 		"created_at": "Fri Jun 05 05:52:13 +0000 2020",
 		"id": 1268773233043443700,
 		"id_str": "1268782658357731328",
