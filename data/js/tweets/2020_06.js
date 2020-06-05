@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 17:52:13 +0000 2020",
+		"id": 1268952976342675500,
+		"id_str": "1268963851866865666",
+		"full_text": "CHUNG HA Official Fanclub BYULHARANG 📽\n\nWELCOME TRAILER\n\n✔ 모집기간 : ~ 2020. 7. 31\n✌🏻 상세안내 : https://t.co/X3fJRaQqHw\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd https://t.co/3cusB27V7k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						145,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X3fJRaQqHw",
+					"expanded_url": "https://bit.ly/2ZSkVM5",
+					"display_url": "bit.ly/2ZSkVM5",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268945176057110500,
+					"id_str": "1268945176057110529",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268945176057110529/pu/img/RsWpEZrVmlfzT6V5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268945176057110529/pu/img/RsWpEZrVmlfzT6V5.jpg",
+					"url": "https://t.co/3cusB27V7k",
+					"display_url": "pic.twitter.com/3cusB27V7k",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1268952976342675457/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268945176057110500,
+					"id_str": "1268945176057110529",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268945176057110529/pu/img/RsWpEZrVmlfzT6V5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268945176057110529/pu/img/RsWpEZrVmlfzT6V5.jpg",
+					"url": "https://t.co/3cusB27V7k",
+					"display_url": "pic.twitter.com/3cusB27V7k",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1268952976342675457/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36470,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268945176057110529/pu/vid/640x360/LiFiPZFm-rNjJi2b.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268945176057110529/pu/vid/480x270/TfDRFCbYQruAh_b7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268945176057110529/pu/pl/mtITuME91-TCL4OI.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268945176057110529/pu/vid/1280x720/NPtMYD7WOot-lrvu.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263038,
+			"friends_count": 0,
+			"listed_count": 1554,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 546,
+		"favorite_count": 2258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA Official Fanclub BYULHARANG 📽\n\nWELCOME TRAILER\n\n✔ 모집기간 : ~ 2020. 7. 31\n✌🏻 상세안내 : https://t.co/X3fJRaQqHw\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd https://t.co/3cusB27V7k"
+	},
+	{
 		"created_at": "Fri Jun 05 13:06:29 +0000 2020",
 		"id": 1268891945016987600,
 		"id_str": "1268891945016987650",
