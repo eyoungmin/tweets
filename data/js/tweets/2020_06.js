@@ -1,6 +1,1722 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 11:56:28 +0000 2020",
+		"id": 1268873634174599200,
+		"id_str": "1268874325555163137",
+		"full_text": "메이저 테크 회사들의 2014년과 2018/19년 간의 다양성 비교\n- 백인 직원은 약간 줄고 아시아계 직원 늘어\n- 라틴계와 흑인 직원은 큰 변동 없어\n- 애플의 경우 백인 54% -&gt; 49%로 줄고 아시아계 23% -&gt; 35%로 큰 폭 증가\n- MS의 경우 백인 57% -&gt; 51%로 줄었으나 여전히 다수\nhttps://t.co/14uKYvvh9g https://t.co/tMvybh0jjh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268873601723388000,
+					"id_str": "1268873601723387905",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvx0WeX0AES_ld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvx0WeX0AES_ld.jpg",
+					"url": "https://t.co/tMvybh0jjh",
+					"display_url": "pic.twitter.com/tMvybh0jjh",
+					"expanded_url": "https://twitter.com/wkchoi/status/1268873634174599170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268782023306608600,
+					"id_str": "1268782023306608640",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuehySXgAA6Kp0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuehySXgAA6Kp0.jpg",
+					"url": "https://t.co/14uKYvvh9g",
+					"display_url": "pic.twitter.com/14uKYvvh9g",
+					"expanded_url": "https://twitter.com/WIRED/status/1268782025445650432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1268782025445650400,
+					"source_status_id_str": "1268782025445650432",
+					"source_user_id": 1344951,
+					"source_user_id_str": "1344951"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268873601723388000,
+					"id_str": "1268873601723387905",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvx0WeX0AES_ld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvx0WeX0AES_ld.jpg",
+					"url": "https://t.co/tMvybh0jjh",
+					"display_url": "pic.twitter.com/tMvybh0jjh",
+					"expanded_url": "https://twitter.com/wkchoi/status/1268873634174599170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268782023306608600,
+					"id_str": "1268782023306608640",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuehySXgAA6Kp0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuehySXgAA6Kp0.jpg",
+					"url": "https://t.co/14uKYvvh9g",
+					"display_url": "pic.twitter.com/14uKYvvh9g",
+					"expanded_url": "https://twitter.com/WIRED/status/1268782025445650432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1268782025445650400,
+					"source_status_id_str": "1268782025445650432",
+					"source_user_id": 1344951,
+					"source_user_id_str": "1344951"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45550,
+			"friends_count": 229,
+			"listed_count": 274,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "메이저 테크 회사들의 2014년과 2018/19년 간의 다양성 비교\n- 백인 직원은 약간 줄고 아시아계 직원 늘어\n- 라틴계와 흑인 직원은 큰 변동 없어\n- 애플의 경우 백인 54% -&gt; 49%로 줄고 아시아계 23% -&gt; 35%로 큰 폭 증가\n- MS의 경우 백인 57% -&gt; 51%로 줄었으나 여전히 다수\nhttps://t.co/14uKYvvh9g https://t.co/tMvybh0jjh"
+	},
+	{
+		"created_at": "Fri Jun 05 11:53:05 +0000 2020",
+		"id": 1268873472811253800,
+		"id_str": "1268873472811253761",
+		"full_text": "소보원은 권고 기간이지 법적으로 집행하는 기관이 아니다. 악랄한 업체들은 다시는 이용해주면 안된다. 그것들과 별차이 없는 아티스트도 기획사도.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "소보원은 권고 기간이지 법적으로 집행하는 기관이 아니다. 악랄한 업체들은 다시는 이용해주면 안된다. 그것들과 별차이 없는 아티스트도 기획사도."
+	},
+	{
+		"created_at": "Fri Jun 05 11:49:40 +0000 2020",
+		"id": 1268872614010736600,
+		"id_str": "1268872614010736642",
+		"full_text": "어떤 집은 같은 말을 해도 전화로 시키면 배달비가 붙지 않는다는 말을 강압적인 말투로 하고 어떤 집은 좋게 이야기한다. 성인 남성은 그래도 넘길 수 있으나 혼자사는 여성의 경우에는 무섭게 다가올 수 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1268872127727329300,
+		"in_reply_to_status_id_str": "1268872127727329280",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어떤 집은 같은 말을 해도 전화로 시키면 배달비가 붙지 않는다는 말을 강압적인 말투로 하고 어떤 집은 좋게 이야기한다. 성인 남성은 그래도 넘길 수 있으나 혼자사는 여성의 경우에는 무섭게 다가올 수 있다."
+	},
+	{
+		"created_at": "Fri Jun 05 11:47:44 +0000 2020",
+		"id": 1268872127727329300,
+		"id_str": "1268872127727329280",
+		"full_text": "이것과는 결이 조금 다르나 리뷰이벤트 하고 먹튀 많다고 강하게 어필하는 업체도 주의가 필요한 듯. 법적책임을 묻는 것과 별개로 마케팅적으로 좋은 방법이 아님. 협박조의 메시지를 프린트 한다거나 문자를 보내 강요하는 것. 미묘하다고 생각하지만 이 미묘한 차이가 고객을 밀어낸다. https://t.co/QYr3uGRQ06",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QYr3uGRQ06",
+					"expanded_url": "https://twitter.com/lawtalknews/status/1268861967365632000",
+					"display_url": "twitter.com/lawtalknews/st…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268861967365632000,
+		"quoted_status_id_str": "1268861967365632000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QYr3uGRQ06",
+			"expanded": "https://twitter.com/lawtalknews/status/1268861967365632000",
+			"display": "twitter.com/lawtalknews/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 05 11:07:21 +0000 2020",
+			"id": 1268861967365632000,
+			"id_str": "1268861967365632000",
+			"full_text": "\"새로 생긴 정육점에 간 고객은 우리 슈퍼 오지 마세요\" 고객들에게 이런 문자를 보낸 한 슈퍼가 있다고 합니다.\n\n고객들을 향한 '협박' 아닐까요? 변호사들과 슈퍼의 법적 책임을 정리해봤습니다.\n\nhttps://t.co/bnjRQT4Xld",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bnjRQT4Xld",
+						"expanded_url": "https://news.lawtalk.co.kr/issues/2359",
+						"display_url": "news.lawtalk.co.kr/issues/2359",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1119142506665373700,
+				"id_str": "1119142506665373696",
+				"name": "로톡뉴스",
+				"screen_name": "lawtalknews",
+				"location": "",
+				"description": "⚖️ 법, 누구나 쉽게 알 수 있도록. \n일상 속 법률팁부터 뉴스 속 숨은 법까지, \n로톡뉴스가 취재하고 전합니다.",
+				"url": "https://t.co/QUqSQY6E1w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QUqSQY6E1w",
+								"expanded_url": "https://news.lawtalk.co.kr",
+								"display_url": "news.lawtalk.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2081,
+				"friends_count": 156,
+				"listed_count": 27,
+				"created_at": "Fri Apr 19 07:35:41 +0000 2019",
+				"favourites_count": 911,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1133,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244812976038666241/6tqFFVsj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244812976038666241/6tqFFVsj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1119142506665373696/1587383432",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이것과는 결이 조금 다르나 리뷰이벤트 하고 먹튀 많다고 강하게 어필하는 업체도 주의가 필요한 듯. 법적책임을 묻는 것과 별개로 마케팅적으로 좋은 방법이 아님. 협박조의 메시지를 프린트 한다거나 문자를 보내 강요하는 것. 미묘하다고 생각하지만 이 미묘한 차이가 고객을 밀어낸다. https://t.co/QYr3uGRQ06"
+	},
+	{
+		"created_at": "Fri Jun 05 11:42:32 +0000 2020",
+		"id": 1268865447966851000,
+		"id_str": "1268870818114592768",
+		"full_text": "레오나르도 다빈치의 모나리자, 고흐의 별이 빛나는 밤에와 어깨를 나란히 하는 세계적 명화 #서현🌠\n\n#Seohyun #제56회백상예술대상 #시상 https://t.co/gwO8p0vFeV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "제56회백상예술대상",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"text": "시상",
+					"indices": [
+						77,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268865436696756200,
+					"id_str": "1268865436696756224",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvqZFYUwAA7n3E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvqZFYUwAA7n3E.jpg",
+					"url": "https://t.co/gwO8p0vFeV",
+					"display_url": "pic.twitter.com/gwO8p0vFeV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1268865447966851072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268865436696756200,
+					"id_str": "1268865436696756224",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvqZFYUwAA7n3E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvqZFYUwAA7n3E.jpg",
+					"url": "https://t.co/gwO8p0vFeV",
+					"display_url": "pic.twitter.com/gwO8p0vFeV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1268865447966851072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268865436700950500,
+					"id_str": "1268865436700950529",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvqZFZUwAEac8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvqZFZUwAEac8r.jpg",
+					"url": "https://t.co/gwO8p0vFeV",
+					"display_url": "pic.twitter.com/gwO8p0vFeV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1268865447966851072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268865436696735700,
+					"id_str": "1268865436696735747",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvqZFYUcAMk1L2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvqZFYUcAMk1L2.jpg",
+					"url": "https://t.co/gwO8p0vFeV",
+					"display_url": "pic.twitter.com/gwO8p0vFeV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1268865447966851072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29701,
+			"friends_count": 11,
+			"listed_count": 182,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1050,
+		"favorite_count": 1028,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레오나르도 다빈치의 모나리자, 고흐의 별이 빛나는 밤에와 어깨를 나란히 하는 세계적 명화 #서현🌠\n\n#Seohyun #제56회백상예술대상 #시상 https://t.co/gwO8p0vFeV"
+	},
+	{
+		"created_at": "Fri Jun 05 11:25:48 +0000 2020",
+		"id": 1268450930573185000,
+		"id_str": "1268866607276687360",
+		"full_text": "드디어 오늘, 제8회 무주산골영화제의 개막식이 #온라인 #라이브 방송을 통해 개최됩니다.\n\n🌳2020년 제8회 #무주산골영화제 온라인 라이브 방송🌳\n📌공식 #유튜브 https://t.co/7vJz1ai1UA\n📌공식 #네이버TV https://t.co/kiaPEQubUp https://t.co/k9BSPNIqOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온라인",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "무주산골영화제",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "네이버TV",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7vJz1ai1UA",
+					"expanded_url": "http://youtube.com/user/mujufilmfestival",
+					"display_url": "youtube.com/user/mujufilmf…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/kiaPEQubUp",
+					"expanded_url": "http://tv.naver.com/mjff",
+					"display_url": "tv.naver.com/mjff",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268445857617068000,
+					"id_str": "1268445857617068033",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpsyXgUwAEDjGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpsyXgUwAEDjGy.jpg",
+					"url": "https://t.co/k9BSPNIqOq",
+					"display_url": "pic.twitter.com/k9BSPNIqOq",
+					"expanded_url": "https://twitter.com/mujufilmfest/status/1268450930573185024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268445857617068000,
+					"id_str": "1268445857617068033",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpsyXgUwAEDjGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpsyXgUwAEDjGy.jpg",
+					"url": "https://t.co/k9BSPNIqOq",
+					"display_url": "pic.twitter.com/k9BSPNIqOq",
+					"expanded_url": "https://twitter.com/mujufilmfest/status/1268450930573185024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268445857612882000,
+					"id_str": "1268445857612881920",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpsyXfU4AASZwg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpsyXfU4AASZwg.jpg",
+					"url": "https://t.co/k9BSPNIqOq",
+					"display_url": "pic.twitter.com/k9BSPNIqOq",
+					"expanded_url": "https://twitter.com/mujufilmfest/status/1268450930573185024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268445857625464800,
+					"id_str": "1268445857625464832",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpsyXiU4AA9is_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpsyXiU4AA9is_.jpg",
+					"url": "https://t.co/k9BSPNIqOq",
+					"display_url": "pic.twitter.com/k9BSPNIqOq",
+					"expanded_url": "https://twitter.com/mujufilmfest/status/1268450930573185024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268445857625432000,
+					"id_str": "1268445857625432064",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpsyXiUYAAuZ_z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpsyXiUYAAuZ_z.jpg",
+					"url": "https://t.co/k9BSPNIqOq",
+					"display_url": "pic.twitter.com/k9BSPNIqOq",
+					"expanded_url": "https://twitter.com/mujufilmfest/status/1268450930573185024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1298082636,
+			"id_str": "1298082636",
+			"name": "제8회 무주산골영화제",
+			"screen_name": "mujufilmfest",
+			"location": "무주",
+			"description": "2020. 06. 04. 목. - 06. 08. 월.",
+			"url": "https://t.co/5T1Daxxhf4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5T1Daxxhf4",
+							"expanded_url": "http://mjff.or.kr",
+							"display_url": "mjff.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 1259,
+			"listed_count": 16,
+			"created_at": "Mon Mar 25 07:27:53 +0000 2013",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AFE053",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206470632101171200/EeEmegcY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206470632101171200/EeEmegcY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1298082636/1576479990",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 오늘, 제8회 무주산골영화제의 개막식이 #온라인 #라이브 방송을 통해 개최됩니다.\n\n🌳2020년 제8회 #무주산골영화제 온라인 라이브 방송🌳\n📌공식 #유튜브 https://t.co/7vJz1ai1UA\n📌공식 #네이버TV https://t.co/kiaPEQubUp https://t.co/k9BSPNIqOq"
+	},
+	{
+		"created_at": "Fri Jun 05 11:23:54 +0000 2020",
+		"id": 1268821628718211000,
+		"id_str": "1268866130577248260",
+		"full_text": "방탄소년단 정국의 'Still With You'가 깜짝 공개되었습니다. 아련하고 쓸쓸한 갬성 난리 났다고요!😭 '2020 BTS FESTA' 타임라인 보며 기다린 보람이 있죠?💜방탄소년단은 6월 13일 데뷔 7주년을 기념하며 '2020 BTS FESTA'로 각종 콘텐츠를 팬들에게 선보이고 있습니다!\nhttps://t.co/o1jj52YXDb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o1jj52YXDb",
+					"expanded_url": "https://www.billboard.com/articles/columns/k-town/9396300/bts-jungkook-first-solo-song-still-with-you?__twitter_impression=true&utm_medium=social&utm_source=twitter",
+					"display_url": "billboard.com/articles/colum…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33277,
+			"friends_count": 25,
+			"listed_count": 57,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2002,
+		"favorite_count": 5253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방탄소년단 정국의 'Still With You'가 깜짝 공개되었습니다. 아련하고 쓸쓸한 갬성 난리 났다고요!😭 '2020 BTS FESTA' 타임라인 보며 기다린 보람이 있죠?💜방탄소년단은 6월 13일 데뷔 7주년을 기념하며 '2020 BTS FESTA'로 각종 콘텐츠를 팬들에게 선보이고 있습니다!\nhttps://t.co/o1jj52YXDb"
+	},
+	{
+		"created_at": "Fri Jun 05 11:23:03 +0000 2020",
+		"id": 1268731908394909700,
+		"id_str": "1268865915279388674",
+		"full_text": "🙋‍♀️ #ItsMYturn 관람권은 stage 별 4회차씩 패키지로 판매하며 네이버 예약 서비스를 통해 예매하실 수 있습니다. 1회 관람권은 잔여석이 있을 경우에 한해 판매합니다.\n(stage1 - 6월 9일 14:00 오픈 / stage2 - 7월 중 오픈)\n\nhttps://t.co/5gO03liD5d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ItsMYturn",
+					"indices": [
+						5,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5gO03liD5d",
+					"expanded_url": "https://booking.naver.com/booking/12/bizes/363902",
+					"display_url": "booking.naver.com/booking/12/biz…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1268731768678445000,
+		"in_reply_to_status_id_str": "1268731768678445057",
+		"in_reply_to_user_id": 114669821,
+		"in_reply_to_user_id_str": "114669821",
+		"in_reply_to_screen_name": "IndieSpace_kr",
+		"user": {
+			"id": 114669821,
+			"id_str": "114669821",
+			"name": "인디스페이스 indiespace",
+			"screen_name": "IndieSpace_kr",
+			"location": "서울 종로구 돈화문로 13 서울극장 내",
+			"description": "서로를 이해하는 가장 솔직한 방법✨\n우리를 만나는 영화관, 인디스페이스✨",
+			"url": "https://t.co/v1IrWmRucc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1IrWmRucc",
+							"expanded_url": "http://indiespace.kr",
+							"display_url": "indiespace.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36050,
+			"friends_count": 20265,
+			"listed_count": 386,
+			"created_at": "Tue Feb 16 06:35:40 +0000 2010",
+			"favourites_count": 2125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245225692490391552/9xquS9H0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245225692490391552/9xquS9H0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114669821/1585719337",
+			"profile_link_color": "DC143C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🙋‍♀️ #ItsMYturn 관람권은 stage 별 4회차씩 패키지로 판매하며 네이버 예약 서비스를 통해 예매하실 수 있습니다. 1회 관람권은 잔여석이 있을 경우에 한해 판매합니다.\n(stage1 - 6월 9일 14:00 오픈 / stage2 - 7월 중 오픈)\n\nhttps://t.co/5gO03liD5d"
+	},
+	{
+		"created_at": "Fri Jun 05 11:23:01 +0000 2020",
+		"id": 1268731768678445000,
+		"id_str": "1268865906802716673",
+		"full_text": "#여성영화인모임, #인디스페이스, #퍼플레이 가 함께 새로운 판을 벌여 새로운 이야기를 듣고자 합니다.\n\n어디에나 여성은 있고,\n이제는, 당신 차례니까요! 🙌\n\n-\nIt's MY turn! \n릴레이 토크 : 여성영화인을 만나다 \n2020.6월-9월 | 토요일 오후 2시\n\nhttps://t.co/kzGgySEv2l https://t.co/lV6TVH9pUH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여성영화인모임",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "인디스페이스",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "퍼플레이",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kzGgySEv2l",
+					"expanded_url": "https://purplay.co.kr/myturn_2020",
+					"display_url": "purplay.co.kr/myturn_2020",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268723812322775000,
+					"id_str": "1268723812322775040",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtpldeUEAAOtpa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtpldeUEAAOtpa.jpg",
+					"url": "https://t.co/lV6TVH9pUH",
+					"display_url": "pic.twitter.com/lV6TVH9pUH",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1268731768678445057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268723812322775000,
+					"id_str": "1268723812322775040",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtpldeUEAAOtpa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtpldeUEAAOtpa.jpg",
+					"url": "https://t.co/lV6TVH9pUH",
+					"display_url": "pic.twitter.com/lV6TVH9pUH",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1268731768678445057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114669821,
+			"id_str": "114669821",
+			"name": "인디스페이스 indiespace",
+			"screen_name": "IndieSpace_kr",
+			"location": "서울 종로구 돈화문로 13 서울극장 내",
+			"description": "서로를 이해하는 가장 솔직한 방법✨\n우리를 만나는 영화관, 인디스페이스✨",
+			"url": "https://t.co/v1IrWmRucc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1IrWmRucc",
+							"expanded_url": "http://indiespace.kr",
+							"display_url": "indiespace.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36050,
+			"friends_count": 20265,
+			"listed_count": 386,
+			"created_at": "Tue Feb 16 06:35:40 +0000 2010",
+			"favourites_count": 2125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245225692490391552/9xquS9H0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245225692490391552/9xquS9H0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114669821/1585719337",
+			"profile_link_color": "DC143C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#여성영화인모임, #인디스페이스, #퍼플레이 가 함께 새로운 판을 벌여 새로운 이야기를 듣고자 합니다.\n\n어디에나 여성은 있고,\n이제는, 당신 차례니까요! 🙌\n\n-\nIt's MY turn! \n릴레이 토크 : 여성영화인을 만나다 \n2020.6월-9월 | 토요일 오후 2시\n\nhttps://t.co/kzGgySEv2l https://t.co/lV6TVH9pUH"
+	},
+	{
 		"created_at": "Fri Jun 05 10:40:43 +0000 2020",
 		"id": 1268846002087157800,
 		"id_str": "1268855263555055616",
