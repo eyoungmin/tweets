@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 05:27:56 +0000 2020",
+		"id": 1269131905921769500,
+		"id_str": "1269138937852891136",
+		"full_text": "[애교MBTI] 안녕하세요! 이 영상 들어왔는데 출구가 어디죠? 찾을수가 없네...\n\n아 ME친!! 보자마자 소리 지르게 만드는 요정들♡\n우릴 홀리고 있어.. ヾ( •́д•̀ ;)ﾉ\n\n주접댓글과 함께보는 '도입장인'들의 애교송!\n📹https://t.co/cNSR3CERow\n\n#주간아이돌 #애교송 #MBTI #예지 #슬기 #소연 https://t.co/7CjDYp3KVG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "애교송",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "MBTI",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "예지",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cNSR3CERow",
+					"expanded_url": "https://youtu.be/YFGpaQ2gSrE",
+					"display_url": "youtu.be/YFGpaQ2gSrE",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268419367722561500,
+					"id_str": "1268419367722561536",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpUsc9UMAAueJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpUsc9UMAAueJ8.jpg",
+					"url": "https://t.co/7CjDYp3KVG",
+					"display_url": "pic.twitter.com/7CjDYp3KVG",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1269131905921769472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268419367722561500,
+					"id_str": "1268419367722561536",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpUsc9UMAAueJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpUsc9UMAAueJ8.jpg",
+					"url": "https://t.co/7CjDYp3KVG",
+					"display_url": "pic.twitter.com/7CjDYp3KVG",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1269131905921769472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37769,
+			"friends_count": 4667,
+			"listed_count": 199,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[애교MBTI] 안녕하세요! 이 영상 들어왔는데 출구가 어디죠? 찾을수가 없네...\n\n아 ME친!! 보자마자 소리 지르게 만드는 요정들♡\n우릴 홀리고 있어.. ヾ( •́д•̀ ;)ﾉ\n\n주접댓글과 함께보는 '도입장인'들의 애교송!\n📹https://t.co/cNSR3CERow\n\n#주간아이돌 #애교송 #MBTI #예지 #슬기 #소연 https://t.co/7CjDYp3KVG"
+	},
+	{
 		"created_at": "Sat Jun 06 04:09:17 +0000 2020",
 		"id": 1269119144118546400,
 		"id_str": "1269119144118546432",
