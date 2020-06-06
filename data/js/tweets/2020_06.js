@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 14:55:00 +0000 2020",
+		"id": 1269281643778281500,
+		"id_str": "1269281643778281472",
+		"full_text": "시대가 변화하고 있는 것과 별개로 이런 흐름들을 캐치해서 플랫폼화 하는 것은 다른 문제라 생각한다. 갈수록 인스턴트하고 짧은 것에 계속 노출 될 것이고 익숙해질 수 밖에 없을 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "시대가 변화하고 있는 것과 별개로 이런 흐름들을 캐치해서 플랫폼화 하는 것은 다른 문제라 생각한다. 갈수록 인스턴트하고 짧은 것에 계속 노출 될 것이고 익숙해질 수 밖에 없을 것."
+	},
+	{
+		"created_at": "Sat Jun 06 14:51:51 +0000 2020",
+		"id": 1269098582881136600,
+		"id_str": "1269280851558166528",
+		"full_text": "[아무튼, 주말] 10대는 책 아닌 '채팅'을 읽는다 https://t.co/CZ1C283vu1 요즘 인기있는 채팅형 서비스들. 그중 대화형으로 스토리를 읽는 채팅형 소설을 제공하는 채티가 있음. 한번 읽어봤는데 중독성이 느껴짐. 일반 이용자의 20%가 작가로 참여. 일종의 SNS. https://t.co/KRliZy6iG5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CZ1C283vu1",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=023&aid=0003536814",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269098575570415600,
+					"id_str": "1269098575570415616",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EZy-bjXUMAAX0pt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZy-bjXUMAAX0pt.jpg",
+					"url": "https://t.co/KRliZy6iG5",
+					"display_url": "pic.twitter.com/KRliZy6iG5",
+					"expanded_url": "https://twitter.com/estima7/status/1269098582881136640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269098575570415600,
+					"id_str": "1269098575570415616",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EZy-bjXUMAAX0pt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZy-bjXUMAAX0pt.jpg",
+					"url": "https://t.co/KRliZy6iG5",
+					"display_url": "pic.twitter.com/KRliZy6iG5",
+					"expanded_url": "https://twitter.com/estima7/status/1269098582881136640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371210,
+			"friends_count": 2279,
+			"listed_count": 4519,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 71,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아무튼, 주말] 10대는 책 아닌 '채팅'을 읽는다 https://t.co/CZ1C283vu1 요즘 인기있는 채팅형 서비스들. 그중 대화형으로 스토리를 읽는 채팅형 소설을 제공하는 채티가 있음. 한번 읽어봤는데 중독성이 느껴짐. 일반 이용자의 20%가 작가로 참여. 일종의 SNS. https://t.co/KRliZy6iG5"
+	},
+	{
+		"created_at": "Sat Jun 06 14:50:14 +0000 2020",
+		"id": 1269102220529660000,
+		"id_str": "1269280441992744961",
+		"full_text": "Image Scrubber - 사진을 익명화 하기 https://t.co/BuxuAiAGxz \n사진에서 Exif를 제거하고 특정 부분(얼굴이나 기타 정보)을 Blur 처리해주는 도구\n시위 현장 사진등을 공유할 때 사용하라는 목적으로 제작\n브라우저에서만 동작하는 웹앱으로 서버와의 통신 없음\n2500x2500 사이즈까지 지원 ( ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BuxuAiAGxz",
+					"expanded_url": "https://j.mp/2UgqNej",
+					"display_url": "j.mp/2UgqNej",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3051,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Image Scrubber - 사진을 익명화 하기 https://t.co/BuxuAiAGxz \n사진에서 Exif를 제거하고 특정 부분(얼굴이나 기타 정보)을 Blur 처리해주는 도구\n시위 현장 사진등을 공유할 때 사용하라는 목적으로 제작\n브라우저에서만 동작하는 웹앱으로 서버와의 통신 없음\n2500x2500 사이즈까지 지원 ( ..."
+	},
+	{
+		"created_at": "Sat Jun 06 14:45:40 +0000 2020",
+		"id": 1269267805079326700,
+		"id_str": "1269279293366054912",
+		"full_text": "[KCON:TACT 2020 SUMMER]\nWanna meet @loonatheworld? 🤔\nGet your #MnetKpopYouTube Membership to see #LOONA at #KCONTACT!\n\n▶ JOIN NOW: https://t.co/mS6TaFWt8s \n #KCON #KCON2020 #LetsKCON247 https://t.co/oKfAhkjWGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MnetKpopYouTube",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "LetsKCON247",
+					"indices": [
+						173,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						35,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mS6TaFWt8s",
+					"expanded_url": "http://youtube.com/Mnet/JOIN",
+					"display_url": "youtube.com/Mnet/JOIN",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269171532938358800,
+					"id_str": "1269171532938358784",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1269171532938358784/img/jQ4ARK9vfsoijkOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1269171532938358784/img/jQ4ARK9vfsoijkOE.jpg",
+					"url": "https://t.co/oKfAhkjWGa",
+					"display_url": "pic.twitter.com/oKfAhkjWGa",
+					"expanded_url": "https://twitter.com/kconusa/status/1269267805079326721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269171532938358800,
+					"id_str": "1269171532938358784",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1269171532938358784/img/jQ4ARK9vfsoijkOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1269171532938358784/img/jQ4ARK9vfsoijkOE.jpg",
+					"url": "https://t.co/oKfAhkjWGa",
+					"display_url": "pic.twitter.com/oKfAhkjWGa",
+					"expanded_url": "https://twitter.com/kconusa/status/1269267805079326721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 85000,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269171532938358784/vid/480x270/-5fUpgPIub9W5W2z.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1269171532938358784/pl/JRV6JKstwYXF6l8l.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269171532938358784/vid/640x360/O_tgnY3hTm5p2KE9.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269171532938358784/vid/1280x720/ilUm8cT9OMiyFJLk.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186578,
+			"friends_count": 3,
+			"listed_count": 376,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1590694428",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1079,
+		"favorite_count": 2157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT 2020 SUMMER]\nWanna meet @loonatheworld? 🤔\nGet your #MnetKpopYouTube Membership to see #LOONA at #KCONTACT!\n\n▶ JOIN NOW: https://t.co/mS6TaFWt8s \n #KCON #KCON2020 #LetsKCON247 https://t.co/oKfAhkjWGa"
+	},
+	{
 		"created_at": "Sat Jun 06 13:55:33 +0000 2020",
 		"id": 1269213301377925000,
 		"id_str": "1269266680200351749",
