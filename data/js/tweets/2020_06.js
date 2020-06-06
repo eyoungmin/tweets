@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 15:52:12 +0000 2020",
+		"id": 1269282903239909400,
+		"id_str": "1269296039804243969",
+		"full_text": "💚💙💜\n\nJUNE 7th, 2020\n3YEARS WITH CHUNG HA\n\n2017. 06. 07 ~ 2020. 06. 07\n청하의 솔로데뷔 3주년을 축하합니다🌟\n\n#청하 #CHUNGHA\n#3YearsWithCHUNGHA\n#3YearsAnniversary\n#청하한_달과_별이_함께_한_3년 https://t.co/wWQXKJLTRw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "3YearsWithCHUNGHA",
+					"indices": [
+						105,
+						123
+					]
+				},
+				{
+					"text": "3YearsAnniversary",
+					"indices": [
+						124,
+						142
+					]
+				},
+				{
+					"text": "청하한_달과_별이_함께_한_3년",
+					"indices": [
+						143,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269278604577304600,
+					"id_str": "1269278604577304577",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ1iKnrVcAEq25x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ1iKnrVcAEq25x.jpg",
+					"url": "https://t.co/wWQXKJLTRw",
+					"display_url": "pic.twitter.com/wWQXKJLTRw",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1269282903239909376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269278604577304600,
+					"id_str": "1269278604577304577",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ1iKnrVcAEq25x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ1iKnrVcAEq25x.jpg",
+					"url": "https://t.co/wWQXKJLTRw",
+					"display_url": "pic.twitter.com/wWQXKJLTRw",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1269282903239909376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269278604577222700,
+					"id_str": "1269278604577222657",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ1iKnrUMAEVbBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ1iKnrUMAEVbBK.jpg",
+					"url": "https://t.co/wWQXKJLTRw",
+					"display_url": "pic.twitter.com/wWQXKJLTRw",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1269282903239909376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262695,
+			"friends_count": 0,
+			"listed_count": 1551,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1939,
+		"favorite_count": 5428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💚💙💜\n\nJUNE 7th, 2020\n3YEARS WITH CHUNG HA\n\n2017. 06. 07 ~ 2020. 06. 07\n청하의 솔로데뷔 3주년을 축하합니다🌟\n\n#청하 #CHUNGHA\n#3YearsWithCHUNGHA\n#3YearsAnniversary\n#청하한_달과_별이_함께_한_3년 https://t.co/wWQXKJLTRw"
+	},
+	{
 		"created_at": "Sat Jun 06 14:55:00 +0000 2020",
 		"id": 1269281643778281500,
 		"id_str": "1269281643778281472",
