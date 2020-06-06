@@ -1,6 +1,982 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 00:55:12 +0000 2020",
+		"id": 1269070014616723500,
+		"id_str": "1269070298650828800",
+		"full_text": "이메일을 웹페이지로 만들기 https://t.co/axQjg1qnNM \n- 특정주소로 이메일을 작성/포워딩 하면 웹페이지로 만들고 링크를 리턴해주는 서비스 \n- +blog 옵션으로 보내면 가입/설치필요없이 바로 블로그 생성\n- 여러개의 컬렉션 생성도 가능\n- 링크생성될때 해당 페이지를 지우는 링크도 포함되...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/axQjg1qnNM",
+					"expanded_url": "https://j.mp/30f782u",
+					"display_url": "j.mp/30f782u",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3048,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이메일을 웹페이지로 만들기 https://t.co/axQjg1qnNM \n- 특정주소로 이메일을 작성/포워딩 하면 웹페이지로 만들고 링크를 리턴해주는 서비스 \n- +blog 옵션으로 보내면 가입/설치필요없이 바로 블로그 생성\n- 여러개의 컬렉션 생성도 가능\n- 링크생성될때 해당 페이지를 지우는 링크도 포함되..."
+	},
+	{
+		"created_at": "Sat Jun 06 00:53:08 +0000 2020",
+		"id": 1269069779043680300,
+		"id_str": "1269069779043680260",
+		"full_text": "하트시그널에 아도이 엘피 나왔구나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "하트시그널에 아도이 엘피 나왔구나."
+	},
+	{
+		"created_at": "Sat Jun 06 00:52:39 +0000 2020",
+		"id": 1269065078294241300,
+		"id_str": "1269069658742591488",
+		"full_text": "[알쏭달쏭 저작권]스포츠스타의 ‘문신’…게임에 써도 될까? https://t.co/LQ0J3zhzOe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LQ0J3zhzOe",
+					"expanded_url": "http://www.bloter.net/archives/387878",
+					"display_url": "bloter.net/archives/387878",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55343,
+			"friends_count": 9,
+			"listed_count": 2396,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[알쏭달쏭 저작권]스포츠스타의 ‘문신’…게임에 써도 될까? https://t.co/LQ0J3zhzOe"
+	},
+	{
+		"created_at": "Sat Jun 06 00:45:36 +0000 2020",
+		"id": 1269058924491288600,
+		"id_str": "1269067886460637185",
+		"full_text": "Congrats to Lisbeth G. on winning a Signed LOONA Album for today's #KCONTACT Signed Album Giveaway!\n\nNew winner randomly chosen tomorrow! Enter here ➡ https://t.co/noavI1QSbV https://t.co/NpKOQMH341",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						67,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/noavI1QSbV",
+					"expanded_url": "http://bit.ly/kcontactgiveaway",
+					"display_url": "bit.ly/kcontactgiveaw…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269057326280892400,
+					"id_str": "1269057326280892418",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EZyY6hyUYAIUylI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZyY6hyUYAIUylI.jpg",
+					"url": "https://t.co/NpKOQMH341",
+					"display_url": "pic.twitter.com/NpKOQMH341",
+					"expanded_url": "https://twitter.com/kconusa/status/1269058924491288576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269057326280892400,
+					"id_str": "1269057326280892418",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EZyY6hyUYAIUylI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZyY6hyUYAIUylI.jpg",
+					"url": "https://t.co/NpKOQMH341",
+					"display_url": "pic.twitter.com/NpKOQMH341",
+					"expanded_url": "https://twitter.com/kconusa/status/1269058924491288576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186478,
+			"friends_count": 3,
+			"listed_count": 376,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1590694428",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 425,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats to Lisbeth G. on winning a Signed LOONA Album for today's #KCONTACT Signed Album Giveaway!\n\nNew winner randomly chosen tomorrow! Enter here ➡ https://t.co/noavI1QSbV https://t.co/NpKOQMH341"
+	},
+	{
+		"created_at": "Sat Jun 06 00:29:40 +0000 2020",
+		"id": 1269056463101497300,
+		"id_str": "1269063876143755266",
+		"full_text": "[로드 투 킹덤]&lt;#로드투킹덤 X #이니스프리&gt;이벤트 응모 기간 종료 D-1!\n\n#RoadtoKingdom X #innisfree 파이널 방청권 응모 이벤트 혜택이 비공개 온라인 팬미팅으로 변경됐습니다.\n※이니스프리 매장과 홈페이지에서 구매금액 1만원 당 응모 기회 1회가 주어집니다(~6/7).\n\n#그린티씨드세럼 #씨드세럼 https://t.co/5CvcmvQZOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로드투킹덤",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "이니스프리",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "RoadtoKingdom",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"text": "innisfree",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "그린티씨드세럼",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "씨드세럼",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269054483260010500,
+					"id_str": "1269054483260010496",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZyWVCtUcAAPcjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZyWVCtUcAAPcjb.jpg",
+					"url": "https://t.co/5CvcmvQZOf",
+					"display_url": "pic.twitter.com/5CvcmvQZOf",
+					"expanded_url": "https://twitter.com/MnetKR/status/1269056463101497344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269054483260010500,
+					"id_str": "1269054483260010496",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZyWVCtUcAAPcjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZyWVCtUcAAPcjb.jpg",
+					"url": "https://t.co/5CvcmvQZOf",
+					"display_url": "pic.twitter.com/5CvcmvQZOf",
+					"expanded_url": "https://twitter.com/MnetKR/status/1269056463101497344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EZyWVCtUcAAPcjb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2721985,
+			"friends_count": 21789,
+			"listed_count": 2655,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 269,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[로드 투 킹덤]&lt;#로드투킹덤 X #이니스프리&gt;이벤트 응모 기간 종료 D-1!\n\n#RoadtoKingdom X #innisfree 파이널 방청권 응모 이벤트 혜택이 비공개 온라인 팬미팅으로 변경됐습니다.\n※이니스프리 매장과 홈페이지에서 구매금액 1만원 당 응모 기회 1회가 주어집니다(~6/7).\n\n#그린티씨드세럼 #씨드세럼 https://t.co/5CvcmvQZOf"
+	},
+	{
+		"created_at": "Sat Jun 06 00:24:04 +0000 2020",
+		"id": 1268740459129499600,
+		"id_str": "1269062465452531712",
+		"full_text": "SM 측 “샤이니 태민 7월 컴백, 신곡 발표+여러 활동 계획 중”(공식) (출처 : 뉴스엔 | 네이버 TV연예)\n\n👉 https://t.co/HDEPwTlEGd\n\n#TAEMIN #태민 #SHINee #샤이니",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HDEPwTlEGd",
+					"expanded_url": "http://naver.me/GEqqk996",
+					"display_url": "naver.me/GEqqk996",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/NAMin5AzxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NAMin5AzxD",
+							"expanded_url": "https://www.youtube.com/watch?v=_E5JtAcc3cY",
+							"display_url": "youtube.com/watch?v=_E5JtA…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1222782,
+			"friends_count": 2,
+			"listed_count": 2663,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235407003884765184/YNAEKkPf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235407003884765184/YNAEKkPf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1583378958",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12847,
+		"favorite_count": 28372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM 측 “샤이니 태민 7월 컴백, 신곡 발표+여러 활동 계획 중”(공식) (출처 : 뉴스엔 | 네이버 TV연예)\n\n👉 https://t.co/HDEPwTlEGd\n\n#TAEMIN #태민 #SHINee #샤이니"
+	},
+	{
+		"created_at": "Sat Jun 06 00:16:14 +0000 2020",
+		"id": 1268883261821837300,
+		"id_str": "1269060495937421312",
+		"full_text": "가려져 평소보다 어두운 은빛으로 빛날 예정이니 북미의 딸기 수확철 하늘을 빛낼 보름달의 은빛 모습을 지켜봐주십시오. 사진의 출처는 https://t.co/Ro0KiiFdiS 이곳입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ro0KiiFdiS",
+					"expanded_url": "https://apod.nasa.gov/apod/ap120901.html",
+					"display_url": "apod.nasa.gov/apod/ap120901.…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268883238207938600,
+		"in_reply_to_status_id_str": "1268883238207938561",
+		"in_reply_to_user_id": 934730611087908900,
+		"in_reply_to_user_id_str": "934730611087908864",
+		"in_reply_to_screen_name": "saiph1324",
+		"user": {
+			"id": 934730611087908900,
+			"id_str": "934730611087908864",
+			"name": "당신의 곁에 우주를 가져오는 사이프",
+			"screen_name": "saiph1324",
+			"location": "",
+			"description": "직접 찍은 천체사진이나 천문 정보를 올립니다/Astrophotographer/주기적으로 천문학 정보글인 천문 TMI를 씁니다/천문현상에 대해서도 미리 트윗합니다/천체사진만 따로 올리는 인스타그램 계정(https://t.co/R40s0VPoQF)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R40s0VPoQF",
+							"expanded_url": "https://www.instagram.com/saiph1231/",
+							"display_url": "instagram.com/saiph1231/",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18119,
+			"friends_count": 40,
+			"listed_count": 49,
+			"created_at": "Sun Nov 26 10:28:38 +0000 2017",
+			"favourites_count": 576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/934733112726077441/xtMmYzpR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/934733112726077441/xtMmYzpR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/934730611087908864/1511692588",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가려져 평소보다 어두운 은빛으로 빛날 예정이니 북미의 딸기 수확철 하늘을 빛낼 보름달의 은빛 모습을 지켜봐주십시오. 사진의 출처는 https://t.co/Ro0KiiFdiS 이곳입니다."
+	},
+	{
 		"created_at": "Sat Jun 06 00:01:17 +0000 2020",
 		"id": 1268913198016557000,
 		"id_str": "1269056733571280897",
