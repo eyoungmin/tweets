@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 13:55:33 +0000 2020",
+		"id": 1269213301377925000,
+		"id_str": "1269266680200351749",
+		"full_text": "오늘 일터에는 영롱한 베이스 기타 소리가 울려퍼지는데... https://t.co/kxJpkpEbW4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269213287779975200,
+					"id_str": "1269213287779975168",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0mwrpUwAAA771.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0mwrpUwAAA771.jpg",
+					"url": "https://t.co/kxJpkpEbW4",
+					"display_url": "pic.twitter.com/kxJpkpEbW4",
+					"expanded_url": "https://twitter.com/love_yuna/status/1269213301377925122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269213287779975200,
+					"id_str": "1269213287779975168",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0mwrpUwAAA771.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0mwrpUwAAA771.jpg",
+					"url": "https://t.co/kxJpkpEbW4",
+					"display_url": "pic.twitter.com/kxJpkpEbW4",
+					"expanded_url": "https://twitter.com/love_yuna/status/1269213301377925122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269213287930933200,
+					"id_str": "1269213287930933248",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0mwsNUMAAYuQw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0mwsNUMAAYuQw.jpg",
+					"url": "https://t.co/kxJpkpEbW4",
+					"display_url": "pic.twitter.com/kxJpkpEbW4",
+					"expanded_url": "https://twitter.com/love_yuna/status/1269213301377925122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274160,
+			"friends_count": 516,
+			"listed_count": 2906,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1576230082",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 일터에는 영롱한 베이스 기타 소리가 울려퍼지는데... https://t.co/kxJpkpEbW4"
+	},
+	{
+		"created_at": "Sat Jun 06 13:55:31 +0000 2020",
+		"id": 1269210910905622500,
+		"id_str": "1269266672503816195",
+		"full_text": "원, 투, 쓰리,\n#오늘의_자우림 https://t.co/0W1020u1ZA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269210862419538000,
+					"id_str": "1269210862419537921",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0kjgeVcAErEyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0kjgeVcAErEyN.jpg",
+					"url": "https://t.co/0W1020u1ZA",
+					"display_url": "pic.twitter.com/0W1020u1ZA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1269210910905622528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269210862419538000,
+					"id_str": "1269210862419537921",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0kjgeVcAErEyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0kjgeVcAErEyN.jpg",
+					"url": "https://t.co/0W1020u1ZA",
+					"display_url": "pic.twitter.com/0W1020u1ZA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1269210910905622528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269210862474018800,
+					"id_str": "1269210862474018816",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0kjgrUwAAnieE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0kjgrUwAAnieE.jpg",
+					"url": "https://t.co/0W1020u1ZA",
+					"display_url": "pic.twitter.com/0W1020u1ZA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1269210910905622528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269210862985687000,
+					"id_str": "1269210862985687040",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0kjilUMAA3bku.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0kjilUMAA3bku.jpg",
+					"url": "https://t.co/0W1020u1ZA",
+					"display_url": "pic.twitter.com/0W1020u1ZA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1269210910905622528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274160,
+			"friends_count": 516,
+			"listed_count": 2906,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1576230082",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원, 투, 쓰리,\n#오늘의_자우림 https://t.co/0W1020u1ZA"
+	},
+	{
+		"created_at": "Sat Jun 06 13:55:29 +0000 2020",
+		"id": 1268444354177151000,
+		"id_str": "1269266664224260097",
+		"full_text": "일터의 요정님들과 \n일터네 고양이 https://t.co/QExn8NTG1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268444346606469000,
+					"id_str": "1268444346606469120",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpraajUwAACjg2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpraajUwAACjg2.jpg",
+					"url": "https://t.co/QExn8NTG1z",
+					"display_url": "pic.twitter.com/QExn8NTG1z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1268444354177150976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268444346606469000,
+					"id_str": "1268444346606469120",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpraajUwAACjg2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpraajUwAACjg2.jpg",
+					"url": "https://t.co/QExn8NTG1z",
+					"display_url": "pic.twitter.com/QExn8NTG1z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1268444354177150976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268444346610663400,
+					"id_str": "1268444346610663425",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpraakUwAEGwwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpraakUwAEGwwn.jpg",
+					"url": "https://t.co/QExn8NTG1z",
+					"display_url": "pic.twitter.com/QExn8NTG1z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1268444354177150976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268444346610667500,
+					"id_str": "1268444346610667526",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpraakU0AYQ-2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpraakU0AYQ-2Y.jpg",
+					"url": "https://t.co/QExn8NTG1z",
+					"display_url": "pic.twitter.com/QExn8NTG1z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1268444354177150976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274160,
+			"friends_count": 516,
+			"listed_count": 2906,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1576230082",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일터의 요정님들과 \n일터네 고양이 https://t.co/QExn8NTG1z"
+	},
+	{
+		"created_at": "Sat Jun 06 13:55:27 +0000 2020",
+		"id": 1268440703232667600,
+		"id_str": "1269266656129216512",
+		"full_text": "출근!\n그리고 오늘 마리오 https://t.co/5K5aHAzI8l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268440657904844800,
+					"id_str": "1268440657904844800",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpoDtEUwAA0WnJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpoDtEUwAA0WnJ.jpg",
+					"url": "https://t.co/5K5aHAzI8l",
+					"display_url": "pic.twitter.com/5K5aHAzI8l",
+					"expanded_url": "https://twitter.com/love_yuna/status/1268440703232667648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268440657904844800,
+					"id_str": "1268440657904844800",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpoDtEUwAA0WnJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpoDtEUwAA0WnJ.jpg",
+					"url": "https://t.co/5K5aHAzI8l",
+					"display_url": "pic.twitter.com/5K5aHAzI8l",
+					"expanded_url": "https://twitter.com/love_yuna/status/1268440703232667648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268440657900630000,
+					"id_str": "1268440657900630016",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpoDtDUcAA4BdO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpoDtDUcAA4BdO.jpg",
+					"url": "https://t.co/5K5aHAzI8l",
+					"display_url": "pic.twitter.com/5K5aHAzI8l",
+					"expanded_url": "https://twitter.com/love_yuna/status/1268440703232667648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274160,
+			"friends_count": 516,
+			"listed_count": 2906,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1576230082",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 479,
+		"favorite_count": 1840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "출근!\n그리고 오늘 마리오 https://t.co/5K5aHAzI8l"
+	},
+	{
 		"created_at": "Sat Jun 06 11:52:12 +0000 2020",
 		"id": 1269224150398206000,
 		"id_str": "1269235642107658242",
