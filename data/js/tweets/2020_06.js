@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 00:01:17 +0000 2020",
+		"id": 1268913198016557000,
+		"id_str": "1269056733571280897",
+		"full_text": "참고로 이들 국내 이통사는 정작 콘텐츠 업체들에겐 세계에서 가장 비싼 수준의 망사용료를 요구하는 걸로 알려졌습니다. 아래 보도에서 왓챠 박태훈 대표는 '미국이나 유럽보다 15배 비싸'다며 '망 이용 비용이 너무 증가해 4K나 VR 사업은 할 수 없다'고 밝힌 바 있습니다.\nhttps://t.co/z4jXeVEwtu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z4jXeVEwtu",
+					"expanded_url": "https://news.v.daum.net/v/20200115190149813",
+					"display_url": "news.v.daum.net/v/202001151901…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268911209157283800,
+		"in_reply_to_status_id_str": "1268911209157283840",
+		"in_reply_to_user_id": 701825105538646000,
+		"in_reply_to_user_id_str": "701825105538646016",
+		"in_reply_to_screen_name": "netflixkr_up",
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73762,
+			"friends_count": 42,
+			"listed_count": 200,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 440,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "참고로 이들 국내 이통사는 정작 콘텐츠 업체들에겐 세계에서 가장 비싼 수준의 망사용료를 요구하는 걸로 알려졌습니다. 아래 보도에서 왓챠 박태훈 대표는 '미국이나 유럽보다 15배 비싸'다며 '망 이용 비용이 너무 증가해 4K나 VR 사업은 할 수 없다'고 밝힌 바 있습니다.\nhttps://t.co/z4jXeVEwtu"
+	},
+	{
 		"created_at": "Fri Jun 05 17:52:13 +0000 2020",
 		"id": 1268952976342675500,
 		"id_str": "1268963851866865666",
