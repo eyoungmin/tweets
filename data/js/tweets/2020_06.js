@@ -1,6 +1,771 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 08:00:13 +0000 2020",
+		"id": 1269446683722580000,
+		"id_str": "1269539645886361601",
+		"full_text": "'온앤오프' 윤아, 무결점 민낯부터 셀프 인테리어까지..다재다능 OFF 일상 화제 (출처 : 헤럴드POP | 네이버 TV연예) \n\n👉🏻https://t.co/MqZqjCkwEQ \n\n#윤아 #YOONA #소녀시대 #GirlsGeneration #온앤오프",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MqZqjCkwEQ",
+					"expanded_url": "http://naver.me/GvFkYYmZ",
+					"display_url": "naver.me/GvFkYYmZ",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3551955,
+			"friends_count": 4,
+			"listed_count": 5012,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1197,
+		"favorite_count": 3313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "'온앤오프' 윤아, 무결점 민낯부터 셀프 인테리어까지..다재다능 OFF 일상 화제 (출처 : 헤럴드POP | 네이버 TV연예) \n\n👉🏻https://t.co/MqZqjCkwEQ \n\n#윤아 #YOONA #소녀시대 #GirlsGeneration #온앤오프"
+	},
+	{
+		"created_at": "Sun Jun 07 07:59:47 +0000 2020",
+		"id": 1269444682473304000,
+		"id_str": "1269539539392978944",
+		"full_text": "#온앤오프 속 #윤아 모아보기 🦌💛\n\nhttps://t.co/Ht2PuNLt8M\nhttps://t.co/vRrUG4ZU4D\nhttps://t.co/aWe4iDE0P1\nhttps://t.co/TkL7VQ9GWX\nhttps://t.co/5SgTOzppHq\nhttps://t.co/jSkBfptNx0\nhttps://t.co/UMM0WnsYsI\nhttps://t.co/p6GoYf0vMY\nhttps://t.co/2ENk5BIAJS\n\n#YOONA #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온앤오프",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						245,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ht2PuNLt8M",
+					"expanded_url": "http://naver.me/GYp2amY3",
+					"display_url": "naver.me/GYp2amY3",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/vRrUG4ZU4D",
+					"expanded_url": "http://naver.me/G9b9OCok",
+					"display_url": "naver.me/G9b9OCok",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/aWe4iDE0P1",
+					"expanded_url": "http://naver.me/5rLsbLTY",
+					"display_url": "naver.me/5rLsbLTY",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/TkL7VQ9GWX",
+					"expanded_url": "http://naver.me/xBD41YS3",
+					"display_url": "naver.me/xBD41YS3",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/5SgTOzppHq",
+					"expanded_url": "http://naver.me/I5jFgmes",
+					"display_url": "naver.me/I5jFgmes",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/jSkBfptNx0",
+					"expanded_url": "http://naver.me/5O5noka1",
+					"display_url": "naver.me/5O5noka1",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/UMM0WnsYsI",
+					"expanded_url": "http://naver.me/GOxuZqhP",
+					"display_url": "naver.me/GOxuZqhP",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/p6GoYf0vMY",
+					"expanded_url": "http://naver.me/5Zu03I3Y",
+					"display_url": "naver.me/5Zu03I3Y",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/2ENk5BIAJS",
+					"expanded_url": "http://naver.me/x25PxoUl",
+					"display_url": "naver.me/x25PxoUl",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3551955,
+			"friends_count": 4,
+			"listed_count": 5012,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1317,
+		"favorite_count": 3111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#온앤오프 속 #윤아 모아보기 🦌💛\n\nhttps://t.co/Ht2PuNLt8M\nhttps://t.co/vRrUG4ZU4D\nhttps://t.co/aWe4iDE0P1\nhttps://t.co/TkL7VQ9GWX\nhttps://t.co/5SgTOzppHq\nhttps://t.co/jSkBfptNx0\nhttps://t.co/UMM0WnsYsI\nhttps://t.co/p6GoYf0vMY\nhttps://t.co/2ENk5BIAJS\n\n#YOONA #소녀시대"
+	},
+	{
+		"created_at": "Sun Jun 07 07:53:13 +0000 2020",
+		"id": 1269355393102143500,
+		"id_str": "1269537886107365377",
+		"full_text": "AWS 학습 자료집 https://t.co/XHw4mxYZvO \n정도현이라는 분이 gist에 정리하신 AWS 학습 자료집입니다. (한국어) AWS의 보안과 관련된 컨텐츠나 클라우드 기반 딥러닝 학습 자료에 대한 모음집 등 테마별로도 학습 링크집을 정리하시는 모양이므로, AWS 클라우드와 연관된 주변 주제까지도 둘러볼...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XHw4mxYZvO",
+					"expanded_url": "https://j.mp/3dG9FGz",
+					"display_url": "j.mp/3dG9FGz",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3058,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 100,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AWS 학습 자료집 https://t.co/XHw4mxYZvO \n정도현이라는 분이 gist에 정리하신 AWS 학습 자료집입니다. (한국어) AWS의 보안과 관련된 컨텐츠나 클라우드 기반 딥러닝 학습 자료에 대한 모음집 등 테마별로도 학습 링크집을 정리하시는 모양이므로, AWS 클라우드와 연관된 주변 주제까지도 둘러볼..."
+	},
+	{
+		"created_at": "Sun Jun 07 07:51:25 +0000 2020",
+		"id": 1269464363443744800,
+		"id_str": "1269537433055490051",
+		"full_text": "[MV SPOILER] \n'헤이즈' 6번째 미니 앨범 [Lyricist] 📝\n타이틀곡 '작사가’ 뮤직비디오 스포일러 📸\n\n'Heize' The 6th mini album [Lyricist] 📝\nTitle 'Lyricist' MV Spoiler 📸\n\n2020. 06. 10 (WED) 6PM (KST) Release\n#헤이즈 #Heize #Lyricist #작사가  #20200610 https://t.co/9KohA5MTAq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						198,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269464249090228200,
+					"id_str": "1269464249090228224",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4LAjYUwAApD-H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4LAjYUwAApD-H.jpg",
+					"url": "https://t.co/9KohA5MTAq",
+					"display_url": "pic.twitter.com/9KohA5MTAq",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1269464363443744768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269464249090228200,
+					"id_str": "1269464249090228224",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4LAjYUwAApD-H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4LAjYUwAApD-H.jpg",
+					"url": "https://t.co/9KohA5MTAq",
+					"display_url": "pic.twitter.com/9KohA5MTAq",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1269464363443744768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269464249094422500,
+					"id_str": "1269464249094422528",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4LAjZUwAAJhju.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4LAjZUwAAJhju.jpg",
+					"url": "https://t.co/9KohA5MTAq",
+					"display_url": "pic.twitter.com/9KohA5MTAq",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1269464363443744768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269464249090273300,
+					"id_str": "1269464249090273280",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4LAjYVcAAs8Cv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4LAjYVcAAs8Cv.jpg",
+					"url": "https://t.co/9KohA5MTAq",
+					"display_url": "pic.twitter.com/9KohA5MTAq",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1269464363443744768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269464249090207700,
+					"id_str": "1269464249090207746",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4LAjYUcAI8pgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4LAjYUcAI8pgA.jpg",
+					"url": "https://t.co/9KohA5MTAq",
+					"display_url": "pic.twitter.com/9KohA5MTAq",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1269464363443744768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38752,
+			"friends_count": 0,
+			"listed_count": 350,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 608,
+		"favorite_count": 1690,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV SPOILER] \n'헤이즈' 6번째 미니 앨범 [Lyricist] 📝\n타이틀곡 '작사가’ 뮤직비디오 스포일러 📸\n\n'Heize' The 6th mini album [Lyricist] 📝\nTitle 'Lyricist' MV Spoiler 📸\n\n2020. 06. 10 (WED) 6PM (KST) Release\n#헤이즈 #Heize #Lyricist #작사가  #20200610 https://t.co/9KohA5MTAq"
+	},
+	{
 		"created_at": "Sun Jun 07 06:52:17 +0000 2020",
 		"id": 1269511017203024000,
 		"id_str": "1269522549316227073",
