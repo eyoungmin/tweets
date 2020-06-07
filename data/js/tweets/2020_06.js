@@ -1,6 +1,969 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 16:42:04 +0000 2020",
+		"id": 1269670975043301400,
+		"id_str": "1269670975043301376",
+		"full_text": "Ergonomics Expert Explains How to Set Up Your Desk\nhttps://t.co/ZAFfcNFTKp\n\n데스크 배치 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZAFfcNFTKp",
+					"expanded_url": "https://youtu.be/F8_ME4VwTiw",
+					"display_url": "youtu.be/F8_ME4VwTiw",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Ergonomics Expert Explains How to Set Up Your Desk\nhttps://t.co/ZAFfcNFTKp\n\n데스크 배치 #minfav"
+	},
+	{
+		"created_at": "Sun Jun 07 16:38:00 +0000 2020",
+		"id": 1269444227450015700,
+		"id_str": "1269669950093836288",
+		"full_text": "랜선타고 알려진 BTS 선행…”Black Lives Matter에 100만달러 기부” https://t.co/naiWN2bGGR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/naiWN2bGGR",
+					"expanded_url": "http://www.bloter.net/archives/388026",
+					"display_url": "bloter.net/archives/388026",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55331,
+			"friends_count": 9,
+			"listed_count": 2396,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "랜선타고 알려진 BTS 선행…”Black Lives Matter에 100만달러 기부” https://t.co/naiWN2bGGR"
+	},
+	{
+		"created_at": "Sun Jun 07 16:37:27 +0000 2020",
+		"id": 1269456996207440000,
+		"id_str": "1269669813044908033",
+		"full_text": "[촌스러워야 핵인싸②] 밀가루 그 이상의 ‘곰표’ https://t.co/cJmWtPi6tm 70년된 대한제분의 밀가루 브랜드 '곰표’가 요즘 젊은이들의 인기 레트로 브랜드로 떠오르게 된 스토리. https://t.co/hezV2BRvZ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cJmWtPi6tm",
+					"expanded_url": "http://www.mhj21.com/130820",
+					"display_url": "mhj21.com/130820",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269456974686511000,
+					"id_str": "1269456974686511104",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4EZIHU4AAFxQx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4EZIHU4AAFxQx.jpg",
+					"url": "https://t.co/hezV2BRvZ8",
+					"display_url": "pic.twitter.com/hezV2BRvZ8",
+					"expanded_url": "https://twitter.com/estima7/status/1269456996207439872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269456974686511000,
+					"id_str": "1269456974686511104",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4EZIHU4AAFxQx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4EZIHU4AAFxQx.jpg",
+					"url": "https://t.co/hezV2BRvZ8",
+					"display_url": "pic.twitter.com/hezV2BRvZ8",
+					"expanded_url": "https://twitter.com/estima7/status/1269456996207439872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269456973335941000,
+					"id_str": "1269456973335941125",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4EZDFU0AUXHe6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4EZDFU0AUXHe6.jpg",
+					"url": "https://t.co/hezV2BRvZ8",
+					"display_url": "pic.twitter.com/hezV2BRvZ8",
+					"expanded_url": "https://twitter.com/estima7/status/1269456996207439872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269456975978303500,
+					"id_str": "1269456975978303488",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4EZM7UEAAf00h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4EZM7UEAAf00h.jpg",
+					"url": "https://t.co/hezV2BRvZ8",
+					"display_url": "pic.twitter.com/hezV2BRvZ8",
+					"expanded_url": "https://twitter.com/estima7/status/1269456996207439872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371196,
+			"friends_count": 2279,
+			"listed_count": 4519,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[촌스러워야 핵인싸②] 밀가루 그 이상의 ‘곰표’ https://t.co/cJmWtPi6tm 70년된 대한제분의 밀가루 브랜드 '곰표’가 요즘 젊은이들의 인기 레트로 브랜드로 떠오르게 된 스토리. https://t.co/hezV2BRvZ8"
+	},
+	{
+		"created_at": "Sun Jun 07 16:35:54 +0000 2020",
+		"id": 1268996009839005700,
+		"id_str": "1269669424702689287",
+		"full_text": "\"지금 스마트폰 보는 당신, 턱 당기세요…거북목 환자 224만명\"\nhttps://t.co/bw2okLT6IH\n\n성인의 머리 무게는 4.5∼6㎏ 정도로 볼링공 무게와 비슷하다. 무거운 머리를 목뼈가 지탱하는데, 고개가 1cm 앞으로 나올 때마다 목에 가해지는 하중은 2∼3㎏ 정도 더해집니다. https://t.co/eCnoOsyf1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bw2okLT6IH",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200605069800017?input=tw",
+					"display_url": "yna.co.kr/view/AKR202006…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268777661867921400,
+					"id_str": "1268777661867921408",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuaj6qWkAAOZz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuaj6qWkAAOZz-.jpg",
+					"url": "https://t.co/eCnoOsyf1m",
+					"display_url": "pic.twitter.com/eCnoOsyf1m",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1268996009839005698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268777661867921400,
+					"id_str": "1268777661867921408",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuaj6qWkAAOZz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuaj6qWkAAOZz-.jpg",
+					"url": "https://t.co/eCnoOsyf1m",
+					"display_url": "pic.twitter.com/eCnoOsyf1m",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1268996009839005698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314492,
+			"friends_count": 70500,
+			"listed_count": 4487,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 213963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1239,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"지금 스마트폰 보는 당신, 턱 당기세요…거북목 환자 224만명\"\nhttps://t.co/bw2okLT6IH\n\n성인의 머리 무게는 4.5∼6㎏ 정도로 볼링공 무게와 비슷하다. 무거운 머리를 목뼈가 지탱하는데, 고개가 1cm 앞으로 나올 때마다 목에 가해지는 하중은 2∼3㎏ 정도 더해집니다. https://t.co/eCnoOsyf1m"
+	},
+	{
+		"created_at": "Sun Jun 07 16:35:43 +0000 2020",
+		"id": 1268422690336936000,
+		"id_str": "1269669376128499713",
+		"full_text": "우리는 인종차별에 반대합니다.\n우리는 폭력에 반대합니다.\n나, 당신, 우리 모두는 존중받을 권리가 있습니다. 함께 하겠습니다.\n\nWe stand against racial discrimination.\nWe condemn violence.\nYou, I and we all have the right to be respected. We will stand together.\n\n#BlackLivesMatter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						208,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335141638,
+			"id_str": "335141638",
+			"name": "방탄소년단",
+			"screen_name": "BTS_twt",
+			"location": "",
+			"description": "Hi! We are BTS!!",
+			"url": "https://t.co/BP579N8Xkk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BP579N8Xkk",
+							"expanded_url": "http://btsblog.ibighit.com",
+							"display_url": "btsblog.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26289795,
+			"friends_count": 136,
+			"listed_count": 63180,
+			"created_at": "Thu Jul 14 06:32:56 +0000 2011",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229058123094056961/QTkQZkBj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229058123094056961/QTkQZkBj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335141638/1581519781",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 878003,
+		"favorite_count": 1938247,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리는 인종차별에 반대합니다.\n우리는 폭력에 반대합니다.\n나, 당신, 우리 모두는 존중받을 권리가 있습니다. 함께 하겠습니다.\n\nWe stand against racial discrimination.\nWe condemn violence.\nYou, I and we all have the right to be respected. We will stand together.\n\n#BlackLivesMatter"
+	},
+	{
+		"created_at": "Sun Jun 07 16:35:35 +0000 2020",
+		"id": 1268527380802371600,
+		"id_str": "1269669345153576961",
+		"full_text": "와 대박\n\n내가 존경하는 이광근 교수님 홈페이지에 내가 요약한 \"당신과 당신의 연구\" 글 링크가 올라가 있다.\n\nhttps://t.co/1V1hHFkVDd\nhttps://t.co/LjNhZQvrAX https://t.co/ZYKQxOs3mF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1V1hHFkVDd",
+					"expanded_url": "http://kwangkeunyi.snu.ac.kr",
+					"display_url": "kwangkeunyi.snu.ac.kr",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/LjNhZQvrAX",
+					"expanded_url": "https://johngrib.github.io/wiki/You-and-Your-Research/",
+					"display_url": "johngrib.github.io/wiki/You-and-Y…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268527362444066800,
+					"id_str": "1268527362444066819",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EZq26kpXgAMmATU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZq26kpXgAMmATU.png",
+					"url": "https://t.co/ZYKQxOs3mF",
+					"display_url": "pic.twitter.com/ZYKQxOs3mF",
+					"expanded_url": "https://twitter.com/John_Grib/status/1268527380802371584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 884,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 884,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268527362444066800,
+					"id_str": "1268527362444066819",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EZq26kpXgAMmATU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZq26kpXgAMmATU.png",
+					"url": "https://t.co/ZYKQxOs3mF",
+					"display_url": "pic.twitter.com/ZYKQxOs3mF",
+					"expanded_url": "https://twitter.com/John_Grib/status/1268527380802371584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 884,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 884,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732911923,
+			"id_str": "732911923",
+			"name": "기계인간 John Grib",
+			"screen_name": "John_Grib",
+			"location": "기하학의 이념",
+			"description": "유물론자.",
+			"url": "https://t.co/7YPkFr8iLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YPkFr8iLb",
+							"expanded_url": "https://johngrib.github.io",
+							"display_url": "johngrib.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6633,
+			"friends_count": 350,
+			"listed_count": 46,
+			"created_at": "Thu Aug 02 14:16:06 +0000 2012",
+			"favourites_count": 8866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732911923/1472973825",
+			"profile_link_color": "45619D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 319,
+		"favorite_count": 626,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와 대박\n\n내가 존경하는 이광근 교수님 홈페이지에 내가 요약한 \"당신과 당신의 연구\" 글 링크가 올라가 있다.\n\nhttps://t.co/1V1hHFkVDd\nhttps://t.co/LjNhZQvrAX https://t.co/ZYKQxOs3mF"
+	},
+	{
 		"created_at": "Sun Jun 07 15:52:17 +0000 2020",
 		"id": 1269645288601337900,
 		"id_str": "1269658445260771328",
