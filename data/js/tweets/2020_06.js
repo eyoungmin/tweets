@@ -1,6 +1,674 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 04:52:18 +0000 2020",
+		"id": 1269464239833403400,
+		"id_str": "1269492354672664580",
+		"full_text": "청하 X Zion.T's '여기 적어줘(Feat. pH-1)' MV BEHIND CUT #1⠀\n\nMV ▶ https://t.co/Q3AEmAD4vf\n\n#여기적어줘 #청하 #자이언티 #곡팜 #MyFriend #CHUNGHA #ZionT #GOKFARM @CHUNGHA_MNHent @THEBLACKLABEL_ https://t.co/Fo6YdI8Pn5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여기적어줘",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "자이언티",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "곡팜",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "MyFriend",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "ZionT",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "GOKFARM",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"screen_name": "THEBLACKLABEL_",
+					"name": "THEBLACKLABEL",
+					"id": 923777151660302300,
+					"id_str": "923777151660302337",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q3AEmAD4vf",
+					"expanded_url": "https://youtu.be/-CR_RQ09Si4",
+					"display_url": "youtu.be/-CR_RQ09Si4",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269464219742687200,
+					"id_str": "1269464219742687233",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4K-2DU0AEl34u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4K-2DU0AEl34u.jpg",
+					"url": "https://t.co/Fo6YdI8Pn5",
+					"display_url": "pic.twitter.com/Fo6YdI8Pn5",
+					"expanded_url": "https://twitter.com/M2MPD/status/1269464239833403392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269464219742687200,
+					"id_str": "1269464219742687233",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4K-2DU0AEl34u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4K-2DU0AEl34u.jpg",
+					"url": "https://t.co/Fo6YdI8Pn5",
+					"display_url": "pic.twitter.com/Fo6YdI8Pn5",
+					"expanded_url": "https://twitter.com/M2MPD/status/1269464239833403392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269464219746840600,
+					"id_str": "1269464219746840576",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4K-2EUMAAOSdx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4K-2EUMAAOSdx.jpg",
+					"url": "https://t.co/Fo6YdI8Pn5",
+					"display_url": "pic.twitter.com/Fo6YdI8Pn5",
+					"expanded_url": "https://twitter.com/M2MPD/status/1269464239833403392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269464095721312300,
+		"in_reply_to_status_id_str": "1269464095721312256",
+		"in_reply_to_user_id": 589808615,
+		"in_reply_to_user_id_str": "589808615",
+		"in_reply_to_screen_name": "M2MPD",
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011390,
+			"friends_count": 348,
+			"listed_count": 1124,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청하 X Zion.T's '여기 적어줘(Feat. pH-1)' MV BEHIND CUT #1⠀\n\nMV ▶ https://t.co/Q3AEmAD4vf\n\n#여기적어줘 #청하 #자이언티 #곡팜 #MyFriend #CHUNGHA #ZionT #GOKFARM @CHUNGHA_MNHent @THEBLACKLABEL_ https://t.co/Fo6YdI8Pn5"
+	},
+	{
+		"created_at": "Sun Jun 07 04:52:12 +0000 2020",
+		"id": 1269464095721312300,
+		"id_str": "1269492333223034881",
+		"full_text": "청하 X Zion.T's '여기 적어줘(Feat. pH-1)' MV BEHIND CUT #1⠀\n\nMV ▶ https://t.co/Q3AEmAD4vf\n\n#여기적어줘 #청하 #자이언티 #곡팜 #MyFriend #CHUNGHA #ZionT #GOKFARM @CHUNGHA_MNHent @THEBLACKLABEL_ https://t.co/UzHigR7t02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여기적어줘",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "자이언티",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "곡팜",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "MyFriend",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "ZionT",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "GOKFARM",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"screen_name": "THEBLACKLABEL_",
+					"name": "THEBLACKLABEL",
+					"id": 923777151660302300,
+					"id_str": "923777151660302337",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q3AEmAD4vf",
+					"expanded_url": "https://youtu.be/-CR_RQ09Si4",
+					"display_url": "youtu.be/-CR_RQ09Si4",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268795911066366000,
+					"id_str": "1268795911066365952",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EZurKKOUMAAScMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZurKKOUMAAScMY.jpg",
+					"url": "https://t.co/UzHigR7t02",
+					"display_url": "pic.twitter.com/UzHigR7t02",
+					"expanded_url": "https://twitter.com/M2MPD/status/1269464095721312256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268795911066366000,
+					"id_str": "1268795911066365952",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EZurKKOUMAAScMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZurKKOUMAAScMY.jpg",
+					"url": "https://t.co/UzHigR7t02",
+					"display_url": "pic.twitter.com/UzHigR7t02",
+					"expanded_url": "https://twitter.com/M2MPD/status/1269464095721312256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268795911058059300,
+					"id_str": "1268795911058059264",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EZurKKMVcAAx0dr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZurKKMVcAAx0dr.jpg",
+					"url": "https://t.co/UzHigR7t02",
+					"display_url": "pic.twitter.com/UzHigR7t02",
+					"expanded_url": "https://twitter.com/M2MPD/status/1269464095721312256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268795911070601200,
+					"id_str": "1268795911070601217",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EZurKKPU0AEtz8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZurKKPU0AEtz8T.jpg",
+					"url": "https://t.co/UzHigR7t02",
+					"display_url": "pic.twitter.com/UzHigR7t02",
+					"expanded_url": "https://twitter.com/M2MPD/status/1269464095721312256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268795911074746400,
+					"id_str": "1268795911074746368",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EZurKKQUEAAkXOd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZurKKQUEAAkXOd.jpg",
+					"url": "https://t.co/UzHigR7t02",
+					"display_url": "pic.twitter.com/UzHigR7t02",
+					"expanded_url": "https://twitter.com/M2MPD/status/1269464095721312256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011390,
+			"friends_count": 348,
+			"listed_count": 1124,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 661,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청하 X Zion.T's '여기 적어줘(Feat. pH-1)' MV BEHIND CUT #1⠀\n\nMV ▶ https://t.co/Q3AEmAD4vf\n\n#여기적어줘 #청하 #자이언티 #곡팜 #MyFriend #CHUNGHA #ZionT #GOKFARM @CHUNGHA_MNHent @THEBLACKLABEL_ https://t.co/UzHigR7t02"
+	},
+	{
 		"created_at": "Sun Jun 07 03:52:14 +0000 2020",
 		"id": 1269467577849278500,
 		"id_str": "1269477242209435648",
