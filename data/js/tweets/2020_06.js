@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 14:52:13 +0000 2020",
+		"id": 1269637941833289700,
+		"id_str": "1269643329249202176",
+		"full_text": "📮 to. 별하랑✨\n\n💌 https://t.co/t21xAYgimr\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#공식카페 #From청하 💚💙💜\n#청하한_달과_별이_함께_한_3년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"text": "공식카페",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "From청하",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "청하한_달과_별이_함께_한_3년",
+					"indices": [
+						87,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t21xAYgimr",
+					"expanded_url": "https://bit.ly/3eVWjWY",
+					"display_url": "bit.ly/3eVWjWY",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263104,
+			"friends_count": 0,
+			"listed_count": 1563,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 1157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📮 to. 별하랑✨\n\n💌 https://t.co/t21xAYgimr\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#공식카페 #From청하 💚💙💜\n#청하한_달과_별이_함께_한_3년"
+	},
+	{
 		"created_at": "Sun Jun 07 12:48:25 +0000 2020",
 		"id": 1269580143497887700,
 		"id_str": "1269612174583820290",
