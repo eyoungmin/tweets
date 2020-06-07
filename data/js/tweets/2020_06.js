@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 15:52:17 +0000 2020",
+		"id": 1269645288601337900,
+		"id_str": "1269658445260771328",
+		"full_text": "청하 'Be yourself' M/V\n2020. 06. 09. 12PM COMING SOON!\n\n#스프라이트 #거침없이터트려버려 #Be_Yourself #네안의모든너 #청하 #정혁 https://t.co/X04PAs1UQY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스프라이트",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "거침없이터트려버려",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "Be_Yourself",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"text": "네안의모든너",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "정혁",
+					"indices": [
+						97,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269082307781988400,
+					"id_str": "1269082307781988352",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EZywf3kVcAANNgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZywf3kVcAANNgt.jpg",
+					"url": "https://t.co/X04PAs1UQY",
+					"display_url": "pic.twitter.com/X04PAs1UQY",
+					"expanded_url": "https://twitter.com/CokeCaster/status/1269645288601337856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269082307781988400,
+					"id_str": "1269082307781988352",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EZywf3kVcAANNgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZywf3kVcAANNgt.jpg",
+					"url": "https://t.co/X04PAs1UQY",
+					"display_url": "pic.twitter.com/X04PAs1UQY",
+					"expanded_url": "https://twitter.com/CokeCaster/status/1269645288601337856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16708,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269082307781988352/vid/480x270/vcG9ENMwYXLN-ouA.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269082307781988352/vid/1280x720/PPOAJIjdwiQarNRm.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1269082307781988352/pl/2sUOD-wBkZBm1VO-.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269082307781988352/vid/640x360/XXRMyAQb3TXt0m83.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260615063,
+			"id_str": "260615063",
+			"name": "폴라",
+			"screen_name": "CokeCaster",
+			"location": "",
+			"description": "한국 코카-콜라 브랜드 공식 트위터 ● 2018 대한민국인터넷소통대상·대한민국소셜미디어대상 'Leading Star' ● 2017 대한민국인터넷소통대상 식음료/주류부문 대상 ● 2017 대한민국디지털콘텐츠대상 디지털콘텐츠 대상 ● 코카콜라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106985,
+			"friends_count": 52891,
+			"listed_count": 324,
+			"created_at": "Fri Mar 04 06:46:44 +0000 2011",
+			"favourites_count": 395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 90942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689673402097897474/tmE6LAaK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689673402097897474/tmE6LAaK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260615063/1578042098",
+			"profile_link_color": "DB0303",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 1266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "청하 'Be yourself' M/V\n2020. 06. 09. 12PM COMING SOON!\n\n#스프라이트 #거침없이터트려버려 #Be_Yourself #네안의모든너 #청하 #정혁 https://t.co/X04PAs1UQY"
+	},
+	{
+		"created_at": "Sun Jun 07 15:52:12 +0000 2020",
+		"id": 1269645292623859700,
+		"id_str": "1269658427875307520",
+		"full_text": "#New_wav Project\n\n청하(CHUNG HA) - “Be Yourself” Music Video Teaser\n\n▶ https://t.co/fDhrOzPpFM\n▶ https://t.co/zU57kg3sGn\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려 https://t.co/opMX04uBE4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "New_wav",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "스프라이트",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "Sprite",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "뉴웨이브",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "Be_Yourself",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"text": "네안의모든너",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "거침없이터트려버려",
+					"indices": [
+						175,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fDhrOzPpFM",
+					"expanded_url": "https://bit.ly/2XXAG1u",
+					"display_url": "bit.ly/2XXAG1u",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/zU57kg3sGn",
+					"expanded_url": "https://bit.ly/2XB0wcP",
+					"display_url": "bit.ly/2XB0wcP",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269641801909956600,
+					"id_str": "1269641801909956608",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269641801909956608/pu/img/cN9SKJ7mlAedN7VU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269641801909956608/pu/img/cN9SKJ7mlAedN7VU.jpg",
+					"url": "https://t.co/opMX04uBE4",
+					"display_url": "pic.twitter.com/opMX04uBE4",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1269645292623859714/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269641801909956600,
+					"id_str": "1269641801909956608",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269641801909956608/pu/img/cN9SKJ7mlAedN7VU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269641801909956608/pu/img/cN9SKJ7mlAedN7VU.jpg",
+					"url": "https://t.co/opMX04uBE4",
+					"display_url": "pic.twitter.com/opMX04uBE4",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1269645292623859714/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16708,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1269641801909956608/pu/pl/TBYV5-O04-Ooq7TD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269641801909956608/pu/vid/480x270/yYkTY7Iu3PxUQN_b.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269641801909956608/pu/vid/640x360/ZW1unQU7-AfBFdIO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269641801909956608/pu/vid/1280x720/1nQ_quQziWe0m8Cc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/sPb1StYXF5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sPb1StYXF5",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32008,
+			"friends_count": 7,
+			"listed_count": 353,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839373533084024832/-HdbKwqj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839373533084024832/-HdbKwqj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1425,
+		"favorite_count": 3023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#New_wav Project\n\n청하(CHUNG HA) - “Be Yourself” Music Video Teaser\n\n▶ https://t.co/fDhrOzPpFM\n▶ https://t.co/zU57kg3sGn\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려 https://t.co/opMX04uBE4"
+	},
+	{
+		"created_at": "Sun Jun 07 15:28:09 +0000 2020",
+		"id": 1269652371417845800,
+		"id_str": "1269652371417845761",
+		"full_text": "#청하 #CHUNGHA #VLIVE\n청하(CHUNG HA) - “Be Yourself” Music Video Teaser | MNH ENT.\nhttps://t.co/1m6gldnl22",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1m6gldnl22",
+					"expanded_url": "https://www.vlive.tv/video/195552",
+					"display_url": "vlive.tv/video/195552",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#청하 #CHUNGHA #VLIVE\n청하(CHUNG HA) - “Be Yourself” Music Video Teaser | MNH ENT.\nhttps://t.co/1m6gldnl22"
+	},
+	{
 		"created_at": "Sun Jun 07 15:08:24 +0000 2020",
 		"id": 1269647404954988500,
 		"id_str": "1269647404954988549",
