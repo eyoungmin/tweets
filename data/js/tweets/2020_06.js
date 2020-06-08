@@ -1,6 +1,1250 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 11:01:55 +0000 2020",
+		"id": 1269947287880564700,
+		"id_str": "1269947761723498499",
+		"full_text": "[NOTICE] 플레디스 아티스트 앨범 오피셜 영상 콘텐츠 업로드 채널 관련 변동 사항 안내\n\nRead: https://t.co/t3z7Mnnc9i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3z7Mnnc9i",
+					"expanded_url": "http://tl.gd/n_1sr937e",
+					"display_url": "tl.gd/n_1sr937e",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253505144,
+			"id_str": "253505144",
+			"name": "플레디스 공식 트위터",
+			"screen_name": "pledisnews",
+			"location": "",
+			"description": "애프터스쿨/오렌지캬라멜/뉴이스트/뉴이스트W/세븐틴/범주 소속사 플레디스에서 직접 운영하는 공식트위터입니다.",
+			"url": "https://t.co/A09DpYB4vD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A09DpYB4vD",
+							"expanded_url": "http://www.pledis.co.kr",
+							"display_url": "pledis.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600000,
+			"friends_count": 6,
+			"listed_count": 1244,
+			"created_at": "Thu Feb 17 11:23:07 +0000 2011",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605638427036413952/kV2oBvdt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605638427036413952/kV2oBvdt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253505144/1501162243",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE] 플레디스 아티스트 앨범 오피셜 영상 콘텐츠 업로드 채널 관련 변동 사항 안내\n\nRead: https://t.co/t3z7Mnnc9i"
+	},
+	{
+		"created_at": "Mon Jun 08 11:00:22 +0000 2020",
+		"id": 1269947369908392000,
+		"id_str": "1269947369908391936",
+		"full_text": "GitHub - vpicone/plex: The package of IBM’s typeface, IBM Plex.\nhttps://t.co/9ClDqnBmAD\n#IBM #Fonts #폰트 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IBM",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "Fonts",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "폰트",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						104,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ClDqnBmAD",
+					"expanded_url": "https://github.com/vpicone/plex",
+					"display_url": "github.com/vpicone/plex",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GitHub - vpicone/plex: The package of IBM’s typeface, IBM Plex.\nhttps://t.co/9ClDqnBmAD\n#IBM #Fonts #폰트 #minfav"
+	},
+	{
+		"created_at": "Mon Jun 08 10:54:04 +0000 2020",
+		"id": 1269843934898843600,
+		"id_str": "1269945785828831232",
+		"full_text": "'LG유플러스의 넷플릭스 마케팅에 SK브로드밴드, 크게 반발. U+스마트인터넷 마케팅 영상에서 넷플릭스를 가장 잘 볼 수 있는 것은 LG유플러스다는 메시지를 집중적으로 홍보한 것. SK브로드밴드는 국내 ISP가 한목소리를 내도 부족할 판에 오히려 훼방을 놓고 있다 비판'\nhttps://t.co/pyTwch19TE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pyTwch19TE",
+					"expanded_url": "https://news.v.daum.net/v/20200528114346699",
+					"display_url": "news.v.daum.net/v/202005281143…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73886,
+			"friends_count": 42,
+			"listed_count": 201,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'LG유플러스의 넷플릭스 마케팅에 SK브로드밴드, 크게 반발. U+스마트인터넷 마케팅 영상에서 넷플릭스를 가장 잘 볼 수 있는 것은 LG유플러스다는 메시지를 집중적으로 홍보한 것. SK브로드밴드는 국내 ISP가 한목소리를 내도 부족할 판에 오히려 훼방을 놓고 있다 비판'\nhttps://t.co/pyTwch19TE"
+	},
+	{
+		"created_at": "Mon Jun 08 10:51:19 +0000 2020",
+		"id": 1269903640744976400,
+		"id_str": "1269945093093339137",
+		"full_text": "[혁신‧사회적 가치 국민제안 공모전]💡 \n#한국콘텐츠진흥원 은 국민과 함께하는 혁신을 통해\n사회적가치를 증진시키고자 혁신‧사회적 가치 국민제안 공모전을 진행합니다.\n\n※공모자격 : 콘텐츠산업에 관심이 있는 누구나💁\n※자세히 보기 : https://t.co/M7evDxAX2p\n　\n#콘진원 #사회적가치 #공모전 https://t.co/8ct561JwXA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "콘진원",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "사회적가치",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "공모전",
+					"indices": [
+						168,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M7evDxAX2p",
+					"expanded_url": "https://url.kr/GZAugq",
+					"display_url": "url.kr/GZAugq",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269903607203127300,
+					"id_str": "1269903607203127297",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-amj5UYAEfQLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-amj5UYAEfQLs.jpg",
+					"url": "https://t.co/8ct561JwXA",
+					"display_url": "pic.twitter.com/8ct561JwXA",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1269903640744976386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269903607203127300,
+					"id_str": "1269903607203127297",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-amj5UYAEfQLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-amj5UYAEfQLs.jpg",
+					"url": "https://t.co/8ct561JwXA",
+					"display_url": "pic.twitter.com/8ct561JwXA",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1269903640744976386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19228,
+			"friends_count": 15303,
+			"listed_count": 390,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1581039286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[혁신‧사회적 가치 국민제안 공모전]💡 \n#한국콘텐츠진흥원 은 국민과 함께하는 혁신을 통해\n사회적가치를 증진시키고자 혁신‧사회적 가치 국민제안 공모전을 진행합니다.\n\n※공모자격 : 콘텐츠산업에 관심이 있는 누구나💁\n※자세히 보기 : https://t.co/M7evDxAX2p\n　\n#콘진원 #사회적가치 #공모전 https://t.co/8ct561JwXA"
+	},
+	{
+		"created_at": "Mon Jun 08 10:48:56 +0000 2020",
+		"id": 1269944493811236900,
+		"id_str": "1269944493811236865",
+		"full_text": "...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "..."
+	},
+	{
+		"created_at": "Mon Jun 08 10:48:18 +0000 2020",
+		"id": 1269837339309650000,
+		"id_str": "1269944336382193664",
+		"full_text": "고인을 욕보이는 말과 행동은 이제 좀 그만 했으면 합니다. https://t.co/hdMmgekr11",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269837332808495000,
+					"id_str": "1269837332808495105",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ9eU4iUcAEtSar.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ9eU4iUcAEtSar.jpg",
+					"url": "https://t.co/hdMmgekr11",
+					"display_url": "pic.twitter.com/hdMmgekr11",
+					"expanded_url": "https://twitter.com/Taehoon_Lim/status/1269837339309649920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1032,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1032,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269837332808495000,
+					"id_str": "1269837332808495105",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ9eU4iUcAEtSar.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ9eU4iUcAEtSar.jpg",
+					"url": "https://t.co/hdMmgekr11",
+					"display_url": "pic.twitter.com/hdMmgekr11",
+					"expanded_url": "https://twitter.com/Taehoon_Lim/status/1269837339309649920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1032,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1032,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65864625,
+			"id_str": "65864625",
+			"name": "임태훈(군인권센터 소장)",
+			"screen_name": "Taehoon_Lim",
+			"location": "군인권센터/Seoul",
+			"description": "국방부 군인복무정책 심의위원, 대한적십자사 회장 특별자문위원, 국가인권위원회 군인권포럼 위원, 한국기독교교회협의회 인권상 수상, 법무부장관 표창",
+			"url": "https://t.co/cc8BkxYpXB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cc8BkxYpXB",
+							"expanded_url": "http://www.mhrk.org",
+							"display_url": "mhrk.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15611,
+			"friends_count": 92,
+			"listed_count": 130,
+			"created_at": "Sat Aug 15 09:06:42 +0000 2009",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028534508922986496/otdU7C74_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028534508922986496/otdU7C74_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65864625/1534056712",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 810,
+		"favorite_count": 452,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고인을 욕보이는 말과 행동은 이제 좀 그만 했으면 합니다. https://t.co/hdMmgekr11"
+	},
+	{
+		"created_at": "Mon Jun 08 10:46:56 +0000 2020",
+		"id": 1269879330634494000,
+		"id_str": "1269943992818360321",
+		"full_text": "대구시 코로나19 긴급생계자금 지급대상이 아닌 공무원, 교직원, 공공기관 직원 등 3900여명이 부정한 방법으로 돈 25억원을 받아간 것으로 밝혀졌다\nhttps://t.co/YqqWe96TJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YqqWe96TJM",
+					"expanded_url": "http://www.hani.co.kr/arti/area/yeongnam/948368.html",
+					"display_url": "hani.co.kr/arti/area/yeon…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문, 한겨레 공식 트위터입니다. https://t.co/gaFSERTpRb",
+			"url": "https://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gaFSERTpRb",
+							"expanded_url": "http://youtube.com/hanitv",
+							"display_url": "youtube.com/hanitv",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 548602,
+			"friends_count": 139517,
+			"listed_count": 7224,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2728,
+		"favorite_count": 277,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대구시 코로나19 긴급생계자금 지급대상이 아닌 공무원, 교직원, 공공기관 직원 등 3900여명이 부정한 방법으로 돈 25억원을 받아간 것으로 밝혀졌다\nhttps://t.co/YqqWe96TJM"
+	},
+	{
+		"created_at": "Mon Jun 08 10:42:12 +0000 2020",
+		"id": 1269902087237718000,
+		"id_str": "1269942799421431808",
+		"full_text": "[공지] (여자)아이들 온라인 콘서트 2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' 공연 및 예매 안내\n\n✔ 공연일시: 2020.07.05 3PM (KST)\n✔ 온라인 생중계: 큐브TV App, Web\n✔ 예매처: 인터파크 티켓\n✔ 예매오픈: 2020.06.09 6PM (KST)\n\n▶️ https://t.co/Cp4heKZD8t\n   \n#여자아이들 #GIDLE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						212,
+						218
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						219,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cp4heKZD8t",
+					"expanded_url": "https://bit.ly/3eZoofX",
+					"display_url": "bit.ly/3eZoofX",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 756812,
+			"friends_count": 36,
+			"listed_count": 2496,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1873,
+		"favorite_count": 5688,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] (여자)아이들 온라인 콘서트 2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' 공연 및 예매 안내\n\n✔ 공연일시: 2020.07.05 3PM (KST)\n✔ 온라인 생중계: 큐브TV App, Web\n✔ 예매처: 인터파크 티켓\n✔ 예매오픈: 2020.06.09 6PM (KST)\n\n▶️ https://t.co/Cp4heKZD8t\n   \n#여자아이들 #GIDLE"
+	},
+	{
+		"created_at": "Mon Jun 08 10:40:25 +0000 2020",
+		"id": 1269936988527841300,
+		"id_str": "1269942350333132803",
+		"full_text": "앨범소개글을 쓴 신해경의 &lt;속꿈, 속꿈&gt;이 6월 16일 정오 음원 서비스에, 6월 17일 시디로 발매됩니다. 향음악사, 김밥레코즈에서 시디를 예약할 수 있습니다. \n\n\"[속꿈, 속꿈]은 .. 아름답고 황홀한 앨범이다. 이 글을 읽는 그대가 끝이 없는 기쁨속에서 신해경과 만날 수 있기를 진심으로 바라며.\" https://t.co/PF6zKB1w0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269936974518907000,
+					"id_str": "1269936974518906882",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-48y1VcAIE1SU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-48y1VcAIE1SU.jpg",
+					"url": "https://t.co/PF6zKB1w0N",
+					"display_url": "pic.twitter.com/PF6zKB1w0N",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1269936988527841280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269936974518907000,
+					"id_str": "1269936974518906882",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-48y1VcAIE1SU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-48y1VcAIE1SU.jpg",
+					"url": "https://t.co/PF6zKB1w0N",
+					"display_url": "pic.twitter.com/PF6zKB1w0N",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1269936988527841280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5295,
+			"friends_count": 1210,
+			"listed_count": 75,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 7706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앨범소개글을 쓴 신해경의 &lt;속꿈, 속꿈&gt;이 6월 16일 정오 음원 서비스에, 6월 17일 시디로 발매됩니다. 향음악사, 김밥레코즈에서 시디를 예약할 수 있습니다. \n\n\"[속꿈, 속꿈]은 .. 아름답고 황홀한 앨범이다. 이 글을 읽는 그대가 끝이 없는 기쁨속에서 신해경과 만날 수 있기를 진심으로 바라며.\" https://t.co/PF6zKB1w0N"
+	},
+	{
 		"created_at": "Mon Jun 08 09:52:21 +0000 2020",
 		"id": 1269925788188422100,
 		"id_str": "1269930252958158851",
