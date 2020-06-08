@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 04:59:27 +0000 2020",
+		"id": 1269856544289632300,
+		"id_str": "1269856544289632256",
+		"full_text": "YURI 유리와 함께하는 텀블러 챌린지 #SMileGreenChallenge\nhttps://t.co/UvWUXwWXYm\n#소녀시대 #GIRLSGENERATION",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMileGreenChallenge",
+					"indices": [
+						22,
+						42
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "GIRLSGENERATION",
+					"indices": [
+						73,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UvWUXwWXYm",
+					"expanded_url": "https://youtu.be/YnBFM2Gfv1I",
+					"display_url": "youtu.be/YnBFM2Gfv1I",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YURI 유리와 함께하는 텀블러 챌린지 #SMileGreenChallenge\nhttps://t.co/UvWUXwWXYm\n#소녀시대 #GIRLSGENERATION"
+	},
+	{
+		"created_at": "Mon Jun 08 04:52:13 +0000 2020",
+		"id": 1269841583664517000,
+		"id_str": "1269854721562591232",
+		"full_text": "지구를 위한 의미 있는 변화 #SMileGreenChallenge\n#소녀시대 #유리 와 함께하는 #텀블러 #굿액션\n\n#세계환경의날(World Environmental Day)을 맞아 #SM 아티스트들이 직접 나섰습니다.\n두 번째 주자인 소녀시대 유리와 함께 ‘텀블러 이용하기’ 챌린지에 참여 해주세요.\n\n👉🏻https://t.co/M4757DMaBW https://t.co/IYQ7BRTZAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMileGreenChallenge",
+					"indices": [
+						16,
+						36
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "텀블러",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "굿액션",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "세계환경의날",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "SM",
+					"indices": [
+						102,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M4757DMaBW",
+					"expanded_url": "https://happybean.naver.com/goodAction/1271",
+					"display_url": "happybean.naver.com/goodAction/1271",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269823201867006000,
+					"id_str": "1269823201867005952",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1269823201867005952/img/5Dm5Ytb0dc-uBCxn.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1269823201867005952/img/5Dm5Ytb0dc-uBCxn.jpg",
+					"url": "https://t.co/IYQ7BRTZAY",
+					"display_url": "pic.twitter.com/IYQ7BRTZAY",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1269841583664517120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269823201867006000,
+					"id_str": "1269823201867005952",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1269823201867005952/img/5Dm5Ytb0dc-uBCxn.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1269823201867005952/img/5Dm5Ytb0dc-uBCxn.jpg",
+					"url": "https://t.co/IYQ7BRTZAY",
+					"display_url": "pic.twitter.com/IYQ7BRTZAY",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1269841583664517120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 36213,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269823201867005952/vid/320x568/GpGzadC71OrVMbtZ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1269823201867005952/pl/Z5pryo9Hx0V1VpeJ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269823201867005952/vid/360x640/rJEr0kz9_sVI1ygg.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269823201867005952/vid/720x1280/OdhR7rapjmbPplUs.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8104249,
+			"friends_count": 49,
+			"listed_count": 7926,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 807,
+		"favorite_count": 2726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "지구를 위한 의미 있는 변화 #SMileGreenChallenge\n#소녀시대 #유리 와 함께하는 #텀블러 #굿액션\n\n#세계환경의날(World Environmental Day)을 맞아 #SM 아티스트들이 직접 나섰습니다.\n두 번째 주자인 소녀시대 유리와 함께 ‘텀블러 이용하기’ 챌린지에 참여 해주세요.\n\n👉🏻https://t.co/M4757DMaBW https://t.co/IYQ7BRTZAY"
+	},
+	{
 		"created_at": "Mon Jun 08 03:47:01 +0000 2020",
 		"id": 1269838315622203400,
 		"id_str": "1269838315622203392",
