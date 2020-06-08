@@ -1,6 +1,703 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 07:47:03 +0000 2020",
+		"id": 1269898720134549500,
+		"id_str": "1269898720134549504",
+		"full_text": "#BBC코리아\n코로나19: 바이러스는 우리 생각보다 더 빨리 상륙했을 수도 있다\nhttps://t.co/LLQNUYCFql\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LLQNUYCFql",
+					"expanded_url": "https://www.bbc.com/korean/international-52962456",
+					"display_url": "bbc.com/korean/interna…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 바이러스는 우리 생각보다 더 빨리 상륙했을 수도 있다\nhttps://t.co/LLQNUYCFql\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Mon Jun 08 07:38:10 +0000 2020",
+		"id": 1269882949379350500,
+		"id_str": "1269896484285112320",
+		"full_text": "[#굿걸] 4회 다시보기 I 첫 번째 퀘스트 무대 비하인드 04\n\n3 ROUND\n#치타 X #효연\n\nGOOD GIRL vs Mnet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n&lt;#GOODGIRL : #누가방송국을털었나&gt;\n매주 목요일 밤 9시 30분 #Mnet https://t.co/rSaaz4Zoz4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269882943989624800,
+					"id_str": "1269882943989624834",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-HzzbUMAIdaoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-HzzbUMAIdaoK.jpg",
+					"url": "https://t.co/rSaaz4Zoz4",
+					"display_url": "pic.twitter.com/rSaaz4Zoz4",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1269882949379350528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269882943989624800,
+					"id_str": "1269882943989624834",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-HzzbUMAIdaoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-HzzbUMAIdaoK.jpg",
+					"url": "https://t.co/rSaaz4Zoz4",
+					"display_url": "pic.twitter.com/rSaaz4Zoz4",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1269882949379350528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269882943981277200,
+					"id_str": "1269882943981277184",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-HzzZU0AAXCch.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-HzzZU0AAXCch.jpg",
+					"url": "https://t.co/rSaaz4Zoz4",
+					"display_url": "pic.twitter.com/rSaaz4Zoz4",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1269882949379350528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269882943993835500,
+					"id_str": "1269882943993835521",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-HzzcUcAEEGDI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-HzzcUcAEEGDI.jpg",
+					"url": "https://t.co/rSaaz4Zoz4",
+					"display_url": "pic.twitter.com/rSaaz4Zoz4",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1269882949379350528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 9시 30분 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196873,
+			"friends_count": 2540,
+			"listed_count": 212,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1589882575",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸] 4회 다시보기 I 첫 번째 퀘스트 무대 비하인드 04\n\n3 ROUND\n#치타 X #효연\n\nGOOD GIRL vs Mnet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n&lt;#GOODGIRL : #누가방송국을털었나&gt;\n매주 목요일 밤 9시 30분 #Mnet https://t.co/rSaaz4Zoz4"
+	},
+	{
+		"created_at": "Mon Jun 08 07:27:57 +0000 2020",
+		"id": 1269887817850617900,
+		"id_str": "1269893913608847361",
+		"full_text": "[#재밌SM당] 힐링이 필요할 땐 #아이린 &amp; #웬디 에게 오세요♥\n👉https://t.co/xptla0dTKP\n\n힐링이 필요하다면?!😢\n지금 바로 힐링 요정 웬레사&amp;배리더 만나러 ㄱㄱ😍!!!\n\n✔️#레벨업프로젝트 1&amp;2 Full Version 보기\n👉https://t.co/DatYVQqq33\n\n#LevelUpProject #레드벨벳 #IRENE #WENDY #SMCC_STUDIO https://t.co/cGXrteIyNM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재밌SM당",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "레벨업프로젝트",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "LevelUpProject",
+					"indices": [
+						178,
+						193
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						214,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xptla0dTKP",
+					"expanded_url": "https://youtu.be/a-Yl_bzetYY",
+					"display_url": "youtu.be/a-Yl_bzetYY",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/DatYVQqq33",
+					"expanded_url": "https://bit.ly/2RCELFh",
+					"display_url": "bit.ly/2RCELFh",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269878509075226600,
+					"id_str": "1269878509075226625",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-DxqFU4AEJqIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-DxqFU4AEJqIJ.jpg",
+					"url": "https://t.co/cGXrteIyNM",
+					"display_url": "pic.twitter.com/cGXrteIyNM",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1269887817850617856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269878509075226600,
+					"id_str": "1269878509075226625",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-DxqFU4AEJqIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-DxqFU4AEJqIJ.jpg",
+					"url": "https://t.co/cGXrteIyNM",
+					"display_url": "pic.twitter.com/cGXrteIyNM",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1269887817850617856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C Studio",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C Studio Official Twitter Page\n\n🐰심포유 - 수호 편 👉🏻 https://t.co/rqUoXwWDAh\n💙슈주 리턴즈4 👉🏻 https://t.co/MyilXXgm5g",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rqUoXwWDAh",
+							"expanded_url": "http://channels.vlive.tv/DE441D/home",
+							"display_url": "channels.vlive.tv/DE441D/home",
+							"indices": [
+								52,
+								75
+							]
+						},
+						{
+							"url": "https://t.co/MyilXXgm5g",
+							"expanded_url": "https://channels.vlive.tv/D744FD/home",
+							"display_url": "channels.vlive.tv/D744FD/home",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6439,
+			"friends_count": 0,
+			"listed_count": 27,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 566,
+		"favorite_count": 863,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#재밌SM당] 힐링이 필요할 땐 #아이린 &amp; #웬디 에게 오세요♥\n👉https://t.co/xptla0dTKP\n\n힐링이 필요하다면?!😢\n지금 바로 힐링 요정 웬레사&amp;배리더 만나러 ㄱㄱ😍!!!\n\n✔️#레벨업프로젝트 1&amp;2 Full Version 보기\n👉https://t.co/DatYVQqq33\n\n#LevelUpProject #레드벨벳 #IRENE #WENDY #SMCC_STUDIO https://t.co/cGXrteIyNM"
+	},
+	{
 		"created_at": "Mon Jun 08 06:35:58 +0000 2020",
 		"id": 1269788744162218000,
 		"id_str": "1269880832610590720",
@@ -237,7 +934,7 @@ Grailbird.data.tweets_2020_06 =
 		"user": {
 			"id": 116421374,
 			"id_str": "116421374",
-			"name": "시와 🏳️‍🌈",
+			"name": "시와 🏳️🌈",
 			"screen_name": "withsiwa",
 			"location": "우리집",
 			"description": "4집 ‘다녀왔습니다’ 디지털싱글이 두달에 한곡씩 나오고있지요 섭외요청은 메일로 주세요! withsiwa@hanmail.net",
