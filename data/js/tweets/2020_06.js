@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 04:52:13 +0000 2020",
+		"id": 1270207876351459300,
+		"id_str": "1270217109348528128",
+		"full_text": "오늘 발매한 청하의 콜라보 음원🌊🌊\n지금 당장 스프라이트 원샷 하고 싶어짐\n　\nMV ☞ https://t.co/whcp3WwN8T\n　\n[오늘의 30초] 청하 - Be Yourself\n\n#청하 #CHUNGHA #Be Yourself \n@CHUNGHA_MNHent https://t.co/tUmPIN7jfQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "Be",
+					"indices": [
+						116,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						130,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/whcp3WwN8T",
+					"expanded_url": "https://youtu.be/gdMEQAoBuxY",
+					"display_url": "youtu.be/gdMEQAoBuxY",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270207428999516200,
+					"id_str": "1270207428999516161",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EaCvL0AUwAEEdgV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaCvL0AUwAEEdgV.jpg",
+					"url": "https://t.co/tUmPIN7jfQ",
+					"display_url": "pic.twitter.com/tUmPIN7jfQ",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1270207876351459328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270207428999516200,
+					"id_str": "1270207428999516161",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EaCvL0AUwAEEdgV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaCvL0AUwAEEdgV.jpg",
+					"url": "https://t.co/tUmPIN7jfQ",
+					"display_url": "pic.twitter.com/tUmPIN7jfQ",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1270207876351459328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 38583,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270207428999516161/vid/480x480/1IaZ_dEvXgcJ1VHw.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1270207428999516161/pl/S5vvf2jOkyv-LhpB.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270207428999516161/vid/720x720/QYfgRyb5vmmaPX1q.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270207428999516161/vid/320x320/cIJoGQtX_fJUeUVR.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127719346,
+			"id_str": "127719346",
+			"name": "Stone Music Entertainment",
+			"screen_name": "StoneMusicEnt",
+			"location": "Korea",
+			"description": "Stone Music Entertainment Official Twitter",
+			"url": "https://t.co/Bv4HE5mLVt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bv4HE5mLVt",
+							"expanded_url": "http://bit.ly/StoneMusicYOUTUBE",
+							"display_url": "bit.ly/StoneMusicYOUT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104657,
+			"friends_count": 31,
+			"listed_count": 380,
+			"created_at": "Tue Mar 30 01:51:47 +0000 2010",
+			"favourites_count": 442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196980643709648896/Urw2i74z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196980643709648896/Urw2i74z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127719346/1580188102",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 발매한 청하의 콜라보 음원🌊🌊\n지금 당장 스프라이트 원샷 하고 싶어짐\n　\nMV ☞ https://t.co/whcp3WwN8T\n　\n[오늘의 30초] 청하 - Be Yourself\n\n#청하 #CHUNGHA #Be Yourself \n@CHUNGHA_MNHent https://t.co/tUmPIN7jfQ"
+	},
+	{
 		"created_at": "Tue Jun 09 03:52:30 +0000 2020",
 		"id": 1270189468624928800,
 		"id_str": "1270202084130983936",
@@ -946,7 +1197,7 @@ Grailbird.data.tweets_2020_06 =
 		"created_at": "Tue Jun 09 03:52:18 +0000 2020",
 		"id": 1270192036033912800,
 		"id_str": "1270202031589003264",
-		"full_text": "#New_wav Project\n\n🎧 청하(CHUNG HA) - “Be Yourself”\n\n🍈 https://t.co/BfxcDikPCg\n🧞‍♂️ https://t.co/vW0Z2hmsEu\n💟 https://t.co/yU3RJhpnuM\n▶️ https://t.co/xlzB05lBhn\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려",
+		"full_text": "#New_wav Project\n\n🎧 청하(CHUNG HA) - “Be Yourself”\n\n🍈 https://t.co/BfxcDikPCg\n🧞♂️ https://t.co/vW0Z2hmsEu\n💟 https://t.co/yU3RJhpnuM\n▶️ https://t.co/xlzB05lBhn\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1137,7 +1388,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "#New_wav Project\n\n🎧 청하(CHUNG HA) - “Be Yourself”\n\n🍈 https://t.co/BfxcDikPCg\n🧞‍♂️ https://t.co/vW0Z2hmsEu\n💟 https://t.co/yU3RJhpnuM\n▶️ https://t.co/xlzB05lBhn\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려"
+		"text": "#New_wav Project\n\n🎧 청하(CHUNG HA) - “Be Yourself”\n\n🍈 https://t.co/BfxcDikPCg\n🧞♂️ https://t.co/vW0Z2hmsEu\n💟 https://t.co/yU3RJhpnuM\n▶️ https://t.co/xlzB05lBhn\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려"
 	},
 	{
 		"created_at": "Tue Jun 09 03:52:13 +0000 2020",
