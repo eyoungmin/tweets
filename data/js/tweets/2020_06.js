@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 11:52:22 +0000 2020",
+		"id": 1270308535046299600,
+		"id_str": "1270322843725807616",
+		"full_text": "배송은 8월 예정이고, 수량 제한 없이 주문 가능합니다. 사전 예약 기간은 6월 21일까지 입니다. 문의사항은 각 판매처를 통해 진행할 예정입니다. 감사합니다.\n⠀\n*Catnip LP는 일반 재발매로 다른 컬러로 제작될 예정입니다.\n⠀\n#ADOY #CATNIP #LOVE #VIVID https://t.co/ZhPrmc36LM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "CATNIP",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "LOVE",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "VIVID",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270308507577798700,
+					"id_str": "1270308507577798657",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEK23VU0AE-t5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEK23VU0AE-t5D.jpg",
+					"url": "https://t.co/ZhPrmc36LM",
+					"display_url": "pic.twitter.com/ZhPrmc36LM",
+					"expanded_url": "https://twitter.com/adoyband/status/1270308535046299651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 837,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270308507577798700,
+					"id_str": "1270308507577798657",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEK23VU0AE-t5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEK23VU0AE-t5D.jpg",
+					"url": "https://t.co/ZhPrmc36LM",
+					"display_url": "pic.twitter.com/ZhPrmc36LM",
+					"expanded_url": "https://twitter.com/adoyband/status/1270308535046299651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 837,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270308520710140000,
+					"id_str": "1270308520710139904",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEK3oQUcAA0vGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEK3oQUcAA0vGA.jpg",
+					"url": "https://t.co/ZhPrmc36LM",
+					"display_url": "pic.twitter.com/ZhPrmc36LM",
+					"expanded_url": "https://twitter.com/adoyband/status/1270308535046299651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 837,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1429,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270308532575858700,
+					"id_str": "1270308532575858689",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEK4UdU8AETYIu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEK4UdU8AETYIu.jpg",
+					"url": "https://t.co/ZhPrmc36LM",
+					"display_url": "pic.twitter.com/ZhPrmc36LM",
+					"expanded_url": "https://twitter.com/adoyband/status/1270308535046299651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1019,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1270308314056781800,
+		"in_reply_to_status_id_str": "1270308314056781824",
+		"in_reply_to_user_id": 755405901515718700,
+		"in_reply_to_user_id_str": "755405901515718656",
+		"in_reply_to_screen_name": "adoyband",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845,
+			"friends_count": 530,
+			"listed_count": 28,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "배송은 8월 예정이고, 수량 제한 없이 주문 가능합니다. 사전 예약 기간은 6월 21일까지 입니다. 문의사항은 각 판매처를 통해 진행할 예정입니다. 감사합니다.\n⠀\n*Catnip LP는 일반 재발매로 다른 컬러로 제작될 예정입니다.\n⠀\n#ADOY #CATNIP #LOVE #VIVID https://t.co/ZhPrmc36LM"
+	},
+	{
+		"created_at": "Tue Jun 09 11:52:13 +0000 2020",
+		"id": 1270308314056781800,
+		"id_str": "1270322809751945218",
+		"full_text": "&lt;ADOY VINYL &amp; TAPE 선주문 예약 공지&gt;\n⠀\n내일 정오부터 김밥레코즈@gimbabrecords 와 @beatballmusic 비트볼뮤직을 통해 바이닐 및 카세트 테이프 사전예약 주문을 시작합니다. https://t.co/9wtKmRFxlN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gimbabrecords",
+					"name": "gimbabrecords",
+					"id": 620758826,
+					"id_str": "620758826",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270308279931949000,
+					"id_str": "1270308279931949056",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEKpnSU0AASbHH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEKpnSU0AASbHH.jpg",
+					"url": "https://t.co/9wtKmRFxlN",
+					"display_url": "pic.twitter.com/9wtKmRFxlN",
+					"expanded_url": "https://twitter.com/adoyband/status/1270308314056781824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270308279931949000,
+					"id_str": "1270308279931949056",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEKpnSU0AASbHH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEKpnSU0AASbHH.jpg",
+					"url": "https://t.co/9wtKmRFxlN",
+					"display_url": "pic.twitter.com/9wtKmRFxlN",
+					"expanded_url": "https://twitter.com/adoyband/status/1270308314056781824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270308294003814400,
+					"id_str": "1270308294003814408",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEKqbtUcAgBpYy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEKqbtUcAgBpYy.jpg",
+					"url": "https://t.co/9wtKmRFxlN",
+					"display_url": "pic.twitter.com/9wtKmRFxlN",
+					"expanded_url": "https://twitter.com/adoyband/status/1270308314056781824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270308305286557700,
+					"id_str": "1270308305286557698",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEKrFvVcAI9LK-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEKrFvVcAI9LK-.jpg",
+					"url": "https://t.co/9wtKmRFxlN",
+					"display_url": "pic.twitter.com/9wtKmRFxlN",
+					"expanded_url": "https://twitter.com/adoyband/status/1270308314056781824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845,
+			"friends_count": 530,
+			"listed_count": 28,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;ADOY VINYL &amp; TAPE 선주문 예약 공지&gt;\n⠀\n내일 정오부터 김밥레코즈@gimbabrecords 와 @beatballmusic 비트볼뮤직을 통해 바이닐 및 카세트 테이프 사전예약 주문을 시작합니다. https://t.co/9wtKmRFxlN"
+	},
+	{
+		"created_at": "Tue Jun 09 11:17:27 +0000 2020",
+		"id": 1270314057652985900,
+		"id_str": "1270314057652985856",
+		"full_text": "#팩트체크 #SNU팩트체크\n\"보건용 마스크가 아닌 덴탈 마스크를 써도 감염 예방과 생활방역이 가능하다\"\n▶ 절반의 사실\nhttps://t.co/QfPkExDind\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QfPkExDind",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2326",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY @IDOLUV_me\n#예술경영 #뮤직비지니스 @ArtManagementKR\n#티켓오픈 @TicketOpen\n\n코로나19 관련 정보\nhttps://t.co/k5i92GDyAm\n\nRetweets & Favorites have various meanings.",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5i92GDyAm",
+							"expanded_url": "http://bit.ly/COVID-19-KOREA",
+							"display_url": "bit.ly/COVID-19-KOREA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n\"보건용 마스크가 아닌 덴탈 마스크를 써도 감염 예방과 생활방역이 가능하다\"\n▶ 절반의 사실\nhttps://t.co/QfPkExDind\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Tue Jun 09 09:52:21 +0000 2020",
 		"id": 1270291359069606000,
 		"id_str": "1270292644116287489",
