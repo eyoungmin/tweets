@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 00:52:19 +0000 2020",
+		"id": 1270152390147108900,
+		"id_str": "1270156737950224384",
+		"full_text": "[#예술경영 웹진 : 이슈토크] \n\n&lt;예술인 고용보험 실시 외&gt;\n-2020년 5월 문화예술 분야 주요 뉴스-\n\n446호 이슈토크 읽으러가기👇\nhttps://t.co/8yW0T5rdN4\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/dwy8Y3G2yc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8yW0T5rdN4",
+					"expanded_url": "https://bit.ly/3f3rqjn",
+					"display_url": "bit.ly/3f3rqjn",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270152199813820400,
+					"id_str": "1270152199813820417",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EaB8sjiVcAE69h4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaB8sjiVcAE69h4.png",
+					"url": "https://t.co/dwy8Y3G2yc",
+					"display_url": "pic.twitter.com/dwy8Y3G2yc",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1270152390147108864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 765,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 765,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270152199813820400,
+					"id_str": "1270152199813820417",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EaB8sjiVcAE69h4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaB8sjiVcAE69h4.png",
+					"url": "https://t.co/dwy8Y3G2yc",
+					"display_url": "pic.twitter.com/dwy8Y3G2yc",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1270152390147108864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 765,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 765,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6716,
+			"friends_count": 3037,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 이슈토크] \n\n&lt;예술인 고용보험 실시 외&gt;\n-2020년 5월 문화예술 분야 주요 뉴스-\n\n446호 이슈토크 읽으러가기👇\nhttps://t.co/8yW0T5rdN4\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/dwy8Y3G2yc"
+	},
+	{
 		"created_at": "Mon Jun 08 16:35:23 +0000 2020",
 		"id": 1270031679109939200,
 		"id_str": "1270031679109939200",
