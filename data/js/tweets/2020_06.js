@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 01:52:15 +0000 2020",
+		"id": 1270167727630475300,
+		"id_str": "1270171821141299205",
+		"full_text": "🗞 스프라이트 X 청하, 여름을 강타한다! ‘Be Yourself’ 음원 공개\n(출처 : 조세일보 | 네이버 뉴스)\n\n🔎 https://t.co/1rI5fepAmk\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "스프라이트",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "Sprite",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "뉴웨이브",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "Be_Yourself",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "네안의모든너",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "거침없이터트려버려",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1rI5fepAmk",
+					"expanded_url": "http://naver.me/FsFkBXpA",
+					"display_url": "naver.me/FsFkBXpA",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/sPb1StYXF5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sPb1StYXF5",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32007,
+			"friends_count": 7,
+			"listed_count": 354,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839373533084024832/-HdbKwqj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839373533084024832/-HdbKwqj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗞 스프라이트 X 청하, 여름을 강타한다! ‘Be Yourself’ 음원 공개\n(출처 : 조세일보 | 네이버 뉴스)\n\n🔎 https://t.co/1rI5fepAmk\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려"
+	},
+	{
+		"created_at": "Tue Jun 09 01:52:13 +0000 2020",
+		"id": 1270165278047957000,
+		"id_str": "1270171812211679233",
+		"full_text": "🗞 청하, 오늘 ‘New.wav’ 프로젝트 새 싱글 ‘Be Yourself’ 발매 [공식] (출처 : 스포츠동아 | 네이버 TV연예)\n\n🔎 https://t.co/KpU4QJI3oD\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "스프라이트",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "Sprite",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "뉴웨이브",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "Be_Yourself",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "네안의모든너",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "거침없이터트려버려",
+					"indices": [
+						158,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KpU4QJI3oD",
+					"expanded_url": "http://naver.me/xQxZDiSy",
+					"display_url": "naver.me/xQxZDiSy",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/sPb1StYXF5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sPb1StYXF5",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32007,
+			"friends_count": 7,
+			"listed_count": 354,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839373533084024832/-HdbKwqj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839373533084024832/-HdbKwqj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗞 청하, 오늘 ‘New.wav’ 프로젝트 새 싱글 ‘Be Yourself’ 발매 [공식] (출처 : 스포츠동아 | 네이버 TV연예)\n\n🔎 https://t.co/KpU4QJI3oD\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite\n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려"
+	},
+	{
 		"created_at": "Tue Jun 09 00:52:19 +0000 2020",
 		"id": 1270152390147108900,
 		"id_str": "1270156737950224384",
