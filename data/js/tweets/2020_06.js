@@ -1,6 +1,1340 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 14:37:56 +0000 2020",
+		"id": 1269894979305914400,
+		"id_str": "1270364509991886850",
+		"full_text": "🎥 인셉션, 가장 비장하고, 가장 개인적인 영화 🍿\n예고한대로 인셉션에 대해 이야기해보려 합니다. 인셉션은 개봉 이후부터 현재까지도 무수한 해석을 낳으면서 회자되는 영화입니다. 호접지몽부터 라캉 이론에 이르기까지 수많은 도구들이 &lt;인셉션&gt;을 해설하기 위해 사용되었습니다. https://t.co/tnxkz5NdOJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269894971236089900,
+					"id_str": "1269894971236089857",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-Sv4aVAAE2y9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-Sv4aVAAE2y9h.jpg",
+					"url": "https://t.co/tnxkz5NdOJ",
+					"display_url": "pic.twitter.com/tnxkz5NdOJ",
+					"expanded_url": "https://twitter.com/IndramangSpider/status/1269894979305914368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 343,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 343,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 343,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269894971236089900,
+					"id_str": "1269894971236089857",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-Sv4aVAAE2y9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-Sv4aVAAE2y9h.jpg",
+					"url": "https://t.co/tnxkz5NdOJ",
+					"display_url": "pic.twitter.com/tnxkz5NdOJ",
+					"expanded_url": "https://twitter.com/IndramangSpider/status/1269894979305914368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 343,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 343,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 343,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147524183833735200,
+			"id_str": "1147524183833735168",
+			"name": "인레",
+			"screen_name": "IndramangSpider",
+			"location": "...",
+			"description": "🧘 Keep Calm and Drink Coffee ☕️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2291,
+			"friends_count": 333,
+			"listed_count": 11,
+			"created_at": "Sat Jul 06 15:14:20 +0000 2019",
+			"favourites_count": 2280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270360704361496576/mKNqe_T-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270360704361496576/mKNqe_T-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147524183833735168/1591031932",
+			"profile_link_color": "C21807",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4243,
+		"favorite_count": 3470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎥 인셉션, 가장 비장하고, 가장 개인적인 영화 🍿\n예고한대로 인셉션에 대해 이야기해보려 합니다. 인셉션은 개봉 이후부터 현재까지도 무수한 해석을 낳으면서 회자되는 영화입니다. 호접지몽부터 라캉 이론에 이르기까지 수많은 도구들이 &lt;인셉션&gt;을 해설하기 위해 사용되었습니다. https://t.co/tnxkz5NdOJ"
+	},
+	{
+		"created_at": "Tue Jun 09 14:23:12 +0000 2020",
+		"id": 1269407862234775600,
+		"id_str": "1270360803728691200",
+		"full_text": "I respect every trans person’s right to live any way that feels authentic and comfortable to them. I’d march with you if you were discriminated against on the basis of being trans. At the same time, my life has been shaped by being female. I do not believe it’s hateful to say so.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1269406094595588000,
+		"in_reply_to_status_id_str": "1269406094595588096",
+		"in_reply_to_user_id": 62513246,
+		"in_reply_to_user_id_str": "62513246",
+		"in_reply_to_screen_name": "jk_rowling",
+		"user": {
+			"id": 62513246,
+			"id_str": "62513246",
+			"name": "J.K. Rowling",
+			"screen_name": "jk_rowling",
+			"location": "Scotland",
+			"description": "Writer sometimes known as Robert Galbraith",
+			"url": "https://t.co/7iaKMs3iC6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7iaKMs3iC6",
+							"expanded_url": "http://www.jkrowling.com",
+							"display_url": "jkrowling.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14544283,
+			"friends_count": 787,
+			"listed_count": 34235,
+			"created_at": "Mon Aug 03 13:23:45 +0000 2009",
+			"favourites_count": 30388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62513246/1590495260",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6926,
+		"favorite_count": 77681,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I respect every trans person’s right to live any way that feels authentic and comfortable to them. I’d march with you if you were discriminated against on the basis of being trans. At the same time, my life has been shaped by being female. I do not believe it’s hateful to say so."
+	},
+	{
+		"created_at": "Tue Jun 09 14:23:09 +0000 2020",
+		"id": 1269406094595588000,
+		"id_str": "1270360790667628544",
+		"full_text": "The idea that women like me, who’ve been empathetic to trans people for decades, feeling kinship because they’re vulnerable in the same way as women - ie, to male violence - ‘hate’ trans people because they think sex is real and has lived consequences - is a nonsense.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1269389298664702000,
+		"in_reply_to_status_id_str": "1269389298664701952",
+		"in_reply_to_user_id": 62513246,
+		"in_reply_to_user_id_str": "62513246",
+		"in_reply_to_screen_name": "jk_rowling",
+		"user": {
+			"id": 62513246,
+			"id_str": "62513246",
+			"name": "J.K. Rowling",
+			"screen_name": "jk_rowling",
+			"location": "Scotland",
+			"description": "Writer sometimes known as Robert Galbraith",
+			"url": "https://t.co/7iaKMs3iC6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7iaKMs3iC6",
+							"expanded_url": "http://www.jkrowling.com",
+							"display_url": "jkrowling.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14544283,
+			"friends_count": 787,
+			"listed_count": 34235,
+			"created_at": "Mon Aug 03 13:23:45 +0000 2009",
+			"favourites_count": 30388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62513246/1590495260",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5252,
+		"favorite_count": 59481,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The idea that women like me, who’ve been empathetic to trans people for decades, feeling kinship because they’re vulnerable in the same way as women - ie, to male violence - ‘hate’ trans people because they think sex is real and has lived consequences - is a nonsense."
+	},
+	{
+		"created_at": "Tue Jun 09 14:23:07 +0000 2020",
+		"id": 1269389298664702000,
+		"id_str": "1270360784921456642",
+		"full_text": "If sex isn’t real, there’s no same-sex attraction. If sex isn’t real, the lived reality of women globally is erased. I know and love trans people, but erasing the concept of sex removes the ability of many to meaningfully discuss their lives. It isn’t hate to speak the truth.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62513246,
+			"id_str": "62513246",
+			"name": "J.K. Rowling",
+			"screen_name": "jk_rowling",
+			"location": "Scotland",
+			"description": "Writer sometimes known as Robert Galbraith",
+			"url": "https://t.co/7iaKMs3iC6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7iaKMs3iC6",
+							"expanded_url": "http://www.jkrowling.com",
+							"display_url": "jkrowling.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14544283,
+			"friends_count": 787,
+			"listed_count": 34235,
+			"created_at": "Mon Aug 03 13:23:45 +0000 2009",
+			"favourites_count": 30388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62513246/1590495260",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32424,
+		"favorite_count": 202774,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If sex isn’t real, there’s no same-sex attraction. If sex isn’t real, the lived reality of women globally is erased. I know and love trans people, but erasing the concept of sex removes the ability of many to meaningfully discuss their lives. It isn’t hate to speak the truth."
+	},
+	{
+		"created_at": "Tue Jun 09 14:19:23 +0000 2020",
+		"id": 1269798276087177200,
+		"id_str": "1270359843807756290",
+		"full_text": "이에 LGBTQ 인권단체 GLAAD는 롤링이 성 정체성과 트랜스젠더에 대한 잘못된 인식을 지닌 사상에 동조하고 있다며 비판하며, 이로 인해 상처받은 모든 이들을 지지한다는 입장을 전했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269798065197576200,
+		"in_reply_to_status_id_str": "1269798065197576193",
+		"in_reply_to_user_id": 4838971693,
+		"in_reply_to_user_id_str": "4838971693",
+		"in_reply_to_screen_name": "tailorcontents",
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이에 LGBTQ 인권단체 GLAAD는 롤링이 성 정체성과 트랜스젠더에 대한 잘못된 인식을 지닌 사상에 동조하고 있다며 비판하며, 이로 인해 상처받은 모든 이들을 지지한다는 입장을 전했습니다."
+	},
+	{
+		"created_at": "Tue Jun 09 14:19:14 +0000 2020",
+		"id": 1269798065197576200,
+		"id_str": "1270359804599361536",
+		"full_text": "반면 롤링은 “성이 존재하지 않는다면 동성의 사랑은 존재하지 않으며, 전 세계 수많은 여성들이 살아가는 현실이 부정당하는 꼴”이라 답변했습니다. 뒤이어 “나는 트랜스젠더를 사랑하고 지지하지만, 진실을 이야기하는 게 혐오는 아니라고 생각한다”고 덧붙였습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269797820233465900,
+		"in_reply_to_status_id_str": "1269797820233465856",
+		"in_reply_to_user_id": 4838971693,
+		"in_reply_to_user_id_str": "4838971693",
+		"in_reply_to_screen_name": "tailorcontents",
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "반면 롤링은 “성이 존재하지 않는다면 동성의 사랑은 존재하지 않으며, 전 세계 수많은 여성들이 살아가는 현실이 부정당하는 꼴”이라 답변했습니다. 뒤이어 “나는 트랜스젠더를 사랑하고 지지하지만, 진실을 이야기하는 게 혐오는 아니라고 생각한다”고 덧붙였습니다."
+	},
+	{
+		"created_at": "Tue Jun 09 14:19:10 +0000 2020",
+		"id": 1269797820233465900,
+		"id_str": "1270359789495660544",
+		"full_text": "그러자 많은 네티즌들이 롤링의 발언이 트랜스젠더혐오적이라며 비판하기 시작했습니다. 트랜스젠더와 논바이너리, 혹은 젠더 논컨퍼밍 역시 월경을 한다는 게 이들의 입장이었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269797517824147500,
+		"in_reply_to_status_id_str": "1269797517824147456",
+		"in_reply_to_user_id": 4838971693,
+		"in_reply_to_user_id_str": "4838971693",
+		"in_reply_to_screen_name": "tailorcontents",
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러자 많은 네티즌들이 롤링의 발언이 트랜스젠더혐오적이라며 비판하기 시작했습니다. 트랜스젠더와 논바이너리, 혹은 젠더 논컨퍼밍 역시 월경을 한다는 게 이들의 입장이었습니다."
+	},
+	{
+		"created_at": "Tue Jun 09 14:19:05 +0000 2020",
+		"id": 1269797517824147500,
+		"id_str": "1270359769748959232",
+		"full_text": "J.K. 롤링의 최근 발언이 이슈가 되고 있습니다. 롤링은 최근 한 칼럼이 ‘월경하는 사람들’이란 명칭을 사용한 것을 두고 “월경하는 사람을 지칭하는 용어가 있지 않느냐”며 women(여성)을 연상시키는 단어들을 나열했습니다.\n\nhttps://t.co/RkIUcdZStI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RkIUcdZStI",
+					"expanded_url": "https://variety.com/2020/film/news/jk-rowling-transphobic-tweets-controversy-1234627081/amp/?__twitter_impression=true",
+					"display_url": "variety.com/2020/film/news…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 65,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "J.K. 롤링의 최근 발언이 이슈가 되고 있습니다. 롤링은 최근 한 칼럼이 ‘월경하는 사람들’이란 명칭을 사용한 것을 두고 “월경하는 사람을 지칭하는 용어가 있지 않느냐”며 women(여성)을 연상시키는 단어들을 나열했습니다.\n\nhttps://t.co/RkIUcdZStI"
+	},
+	{
+		"created_at": "Tue Jun 09 14:17:59 +0000 2020",
+		"id": 1270227048494063600,
+		"id_str": "1270359489481306113",
+		"full_text": "다니엘 래드클리프는 지난 10년 간 LGBTQ 청소년들을 지원하는 비영리단체 더 트레버 프로젝트에 참여했으며, 이번 입장문도 더 트레버 프로젝트를 통해 전했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270227009193431000,
+		"in_reply_to_status_id_str": "1270227009193431040",
+		"in_reply_to_user_id": 4838971693,
+		"in_reply_to_user_id_str": "4838971693",
+		"in_reply_to_screen_name": "tailorcontents",
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 922,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다니엘 래드클리프는 지난 10년 간 LGBTQ 청소년들을 지원하는 비영리단체 더 트레버 프로젝트에 참여했으며, 이번 입장문도 더 트레버 프로젝트를 통해 전했습니다."
+	},
+	{
+		"created_at": "Tue Jun 09 14:17:56 +0000 2020",
+		"id": 1270227009193431000,
+		"id_str": "1270359480509726721",
+		"full_text": "래드클리프는 또한 &lt;해리 포터&gt; 팬들에게 책에서 얻은 감동과 메시지가 롤링의 발언에 빛바래지 않길 바란다며, 혹여나 상처 받았다면 죄송하다고 대신 사과했습니다. 뒤이어 \"롤링이 내게 큰 영향을 준 것은 맞지만, 결코 침묵할 수 없었다\"라며 입장을 전했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270226976171675600,
+		"in_reply_to_status_id_str": "1270226976171675656",
+		"in_reply_to_user_id": 4838971693,
+		"in_reply_to_user_id_str": "4838971693",
+		"in_reply_to_screen_name": "tailorcontents",
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1531,
+		"favorite_count": 360,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "래드클리프는 또한 &lt;해리 포터&gt; 팬들에게 책에서 얻은 감동과 메시지가 롤링의 발언에 빛바래지 않길 바란다며, 혹여나 상처 받았다면 죄송하다고 대신 사과했습니다. 뒤이어 \"롤링이 내게 큰 영향을 준 것은 맞지만, 결코 침묵할 수 없었다\"라며 입장을 전했습니다."
+	},
+	{
+		"created_at": "Tue Jun 09 14:17:46 +0000 2020",
+		"id": 1270226976171675600,
+		"id_str": "1270359437484539907",
+		"full_text": "다니엘 래드클리프가 \"트랜스젠더 여성도 여성\"이라며 J.K. 롤링의 발언에 반박했습니다. 래드클리프는 젊은 트랜스젠더와 논 바이너리의 78%가 성 정체성 때문에 차별을 당한 경험이 있으며, 이들을 지지하기 위해서 더 많은 노력이 필요하다고 당부했습니다.\n\nhttps://t.co/ipp4gq9cdr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ipp4gq9cdr",
+					"expanded_url": "https://variety.com/2020/film/news/daniel-radcliffe-jk-rowling-transgender-women-are-women-1234628404/",
+					"display_url": "variety.com/2020/film/news…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4187,
+		"favorite_count": 1140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다니엘 래드클리프가 \"트랜스젠더 여성도 여성\"이라며 J.K. 롤링의 발언에 반박했습니다. 래드클리프는 젊은 트랜스젠더와 논 바이너리의 78%가 성 정체성 때문에 차별을 당한 경험이 있으며, 이들을 지지하기 위해서 더 많은 노력이 필요하다고 당부했습니다.\n\nhttps://t.co/ipp4gq9cdr"
+	},
+	{
+		"created_at": "Tue Jun 09 14:16:58 +0000 2020",
+		"id": 1270271298367717400,
+		"id_str": "1270359235222626304",
+		"full_text": "드레이코 말포이의 아들 스콜피우스를 연기한 버티 길버트 역시 \"부당한 이들과 맞서는 영웅적인 이야기를 쓴 이유가 이미 존재하는 사람들의 존재할 권리를 공개적으로 부정할 시간적, 재정적 여유를 얻기 위해서였냐\"며 롤링을 비판했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270271253106921500,
+		"in_reply_to_status_id_str": "1270271253106921474",
+		"in_reply_to_user_id": 4838971693,
+		"in_reply_to_user_id_str": "4838971693",
+		"in_reply_to_screen_name": "tailorcontents",
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 808,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "드레이코 말포이의 아들 스콜피우스를 연기한 버티 길버트 역시 \"부당한 이들과 맞서는 영웅적인 이야기를 쓴 이유가 이미 존재하는 사람들의 존재할 권리를 공개적으로 부정할 시간적, 재정적 여유를 얻기 위해서였냐\"며 롤링을 비판했습니다."
+	},
+	{
+		"created_at": "Tue Jun 09 14:16:37 +0000 2020",
+		"id": 1270271253106921500,
+		"id_str": "1270359145678467074",
+		"full_text": "&lt;해리포터&gt; 출신 배우 케이티 렁과 버티 길버트가 J.K. 롤링 발언에 대해 입을 열었습니다. 인종차별적인 대우를 받았던 초 챙을 연기한 케이티 렁은 \" 초 챙에 대한 내 생각은?\"이라는 트윗에 이어 흑인 트랜스젠더 후원 단체 링크를 공유했습니다.\n\nhttps://t.co/qqGcMSVpDN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qqGcMSVpDN",
+					"expanded_url": "https://www.digitalspy.com/movies/a32796133/harry-potter-jk-rowling-cho-chang-katie-leung-black-trans-lives/?utm_content=buffer96169&utm_medium=social&utm_source=twitter&utm_campaign=maintwitterpost",
+					"display_url": "digitalspy.com/movies/a327961…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15247,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1877,
+		"favorite_count": 407,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;해리포터&gt; 출신 배우 케이티 렁과 버티 길버트가 J.K. 롤링 발언에 대해 입을 열었습니다. 인종차별적인 대우를 받았던 초 챙을 연기한 케이티 렁은 \" 초 챙에 대한 내 생각은?\"이라는 트윗에 이어 흑인 트랜스젠더 후원 단체 링크를 공유했습니다.\n\nhttps://t.co/qqGcMSVpDN"
+	},
+	{
 		"created_at": "Tue Jun 09 13:56:20 +0000 2020",
 		"id": 1270174686857425000,
 		"id_str": "1270354041462091776",
