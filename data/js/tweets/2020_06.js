@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 15:18:04 +0000 2020",
+		"id": 1270374131335233500,
+		"id_str": "1270374612828733441",
+		"full_text": "아도이@adoyband가 그간 발매한 총 3가지 앨범을 바이닐과 카세트로 제작해 판매합니다. 일정기간 선주문을 받아 제작되는 음반으로 이 바이닐/ 카세트들은 구매 제한이 없는 일반반입니다. \n6월 10일 정오(낮 12시)부터 https://t.co/8xZk03kptr을 통해 판매되며 6월 21일까지 주문을 받습니다. https://t.co/ckf1Ik6Yie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8xZk03kptr",
+					"expanded_url": "http://gimbabrecords.com",
+					"display_url": "gimbabrecords.com",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270374124280402000,
+					"id_str": "1270374124280401923",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFGiQmU0AMETDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFGiQmU0AMETDU.jpg",
+					"url": "https://t.co/ckf1Ik6Yie",
+					"display_url": "pic.twitter.com/ckf1Ik6Yie",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1270374131335233536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270374124280402000,
+					"id_str": "1270374124280401923",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFGiQmU0AMETDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFGiQmU0AMETDU.jpg",
+					"url": "https://t.co/ckf1Ik6Yie",
+					"display_url": "pic.twitter.com/ckf1Ik6Yie",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1270374131335233536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270374124297150500,
+					"id_str": "1270374124297150465",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFGiQqUYAE4N31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFGiQqUYAE4N31.jpg",
+					"url": "https://t.co/ckf1Ik6Yie",
+					"display_url": "pic.twitter.com/ckf1Ik6Yie",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1270374131335233536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270374124284571600,
+					"id_str": "1270374124284571648",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFGiQnUcAAsufa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFGiQnUcAAsufa.jpg",
+					"url": "https://t.co/ckf1Ik6Yie",
+					"display_url": "pic.twitter.com/ckf1Ik6Yie",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1270374131335233536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 620758826,
+			"id_str": "620758826",
+			"name": "gimbabrecords",
+			"screen_name": "gimbabrecords",
+			"location": "동교동 155-36",
+			"description": "우량앨범과 공연을 소개하는 레이블+매장. 2012년 여름에 시작해 글렌 한사드,미드나잇 인 파리OST,로드리게즈,갱스부르 등이 나왔고 모든 장르의 음악을 좋아합니다. 베이룻,제인 버킨,세인트빈센트,맥드마르코 등 공연도 합니다. 레이블 상징 고양이 김밥이는 특히 엘피를 선호해요.",
+			"url": "https://t.co/uO6TLbEZpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uO6TLbEZpX",
+							"expanded_url": "http://www.gimbabrecords.com",
+							"display_url": "gimbabrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10478,
+			"friends_count": 504,
+			"listed_count": 89,
+			"created_at": "Thu Jun 28 07:45:45 +0000 2012",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아도이@adoyband가 그간 발매한 총 3가지 앨범을 바이닐과 카세트로 제작해 판매합니다. 일정기간 선주문을 받아 제작되는 음반으로 이 바이닐/ 카세트들은 구매 제한이 없는 일반반입니다. \n6월 10일 정오(낮 12시)부터 https://t.co/8xZk03kptr을 통해 판매되며 6월 21일까지 주문을 받습니다. https://t.co/ckf1Ik6Yie"
+	},
+	{
+		"created_at": "Tue Jun 09 15:10:26 +0000 2020",
+		"id": 1255768982713294800,
+		"id_str": "1270372689039908865",
+		"full_text": "@d01n 옳게 된 짤 https://t.co/vK8hwJF2N9",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "d01n",
+					"name": "Doin",
+					"id": 131536363,
+					"id_str": "131536363",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255768923124842500,
+					"id_str": "1255768923124842497",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EW1jLqbUwAEntvi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EW1jLqbUwAEntvi.png",
+					"url": "https://t.co/vK8hwJF2N9",
+					"display_url": "pic.twitter.com/vK8hwJF2N9",
+					"expanded_url": "https://twitter.com/Chuck57001817/status/1255768982713294849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255768923124842500,
+					"id_str": "1255768923124842497",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EW1jLqbUwAEntvi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EW1jLqbUwAEntvi.png",
+					"url": "https://t.co/vK8hwJF2N9",
+					"display_url": "pic.twitter.com/vK8hwJF2N9",
+					"expanded_url": "https://twitter.com/Chuck57001817/status/1255768982713294849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1255768953629978600,
+					"id_str": "1255768953629978624",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EW1jNcEUMAAPRG9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EW1jNcEUMAAPRG9.png",
+					"url": "https://t.co/vK8hwJF2N9",
+					"display_url": "pic.twitter.com/vK8hwJF2N9",
+					"expanded_url": "https://twitter.com/Chuck57001817/status/1255768982713294849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 373,
+							"h": 317,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 373,
+							"h": 317,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 373,
+							"h": 317,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255515020097659000,
+		"in_reply_to_status_id_str": "1255515020097658880",
+		"in_reply_to_user_id": 131536363,
+		"in_reply_to_user_id_str": "131536363",
+		"in_reply_to_screen_name": "d01n",
+		"user": {
+			"id": 1212954783805407200,
+			"id_str": "1212954783805407232",
+			"name": "척(Chuck)",
+			"screen_name": "Chuck57001817",
+			"location": "대전",
+			"description": "밀덕에 겜덕, 뭐 여러가지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 214,
+			"listed_count": 0,
+			"created_at": "Fri Jan 03 04:32:17 +0000 2020",
+			"favourites_count": 11528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245360943594213377/yyXuJDPd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245360943594213377/yyXuJDPd_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 611,
+		"favorite_count": 624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@d01n 옳게 된 짤 https://t.co/vK8hwJF2N9"
+	},
+	{
+		"created_at": "Tue Jun 09 15:10:23 +0000 2020",
+		"id": 1255515020097659000,
+		"id_str": "1270372678914859009",
+		"full_text": "난 둘다 나쁜사례로 본다\n\n대상이 나보다 하위의 동정대상이라는 사고를 기저에 깔아놓는다는것 자체가 무례한짓이다 https://t.co/qnOvzE9fu7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255513323958829000,
+					"id_str": "1255513323958829059",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EWx6t1VWAAMaNGl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWx6t1VWAAMaNGl.png",
+					"url": "https://t.co/qnOvzE9fu7",
+					"display_url": "pic.twitter.com/qnOvzE9fu7",
+					"expanded_url": "https://twitter.com/d01n/status/1255515020097658880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255513323958829000,
+					"id_str": "1255513323958829059",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EWx6t1VWAAMaNGl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWx6t1VWAAMaNGl.png",
+					"url": "https://t.co/qnOvzE9fu7",
+					"display_url": "pic.twitter.com/qnOvzE9fu7",
+					"expanded_url": "https://twitter.com/d01n/status/1255515020097658880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 372,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1255513385564766200,
+					"id_str": "1255513385564766209",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EWx6xa1WAAEiSZQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWx6xa1WAAEiSZQ.png",
+					"url": "https://t.co/qnOvzE9fu7",
+					"display_url": "pic.twitter.com/qnOvzE9fu7",
+					"expanded_url": "https://twitter.com/d01n/status/1255515020097658880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 373,
+							"h": 317,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 373,
+							"h": 317,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 373,
+							"h": 317,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131536363,
+			"id_str": "131536363",
+			"name": "Doin",
+			"screen_name": "d01n",
+			"location": "Contact ✉ djd01nnn@gmail.com",
+			"description": "𝘾𝙤𝙢𝙥𝙤𝙨𝙚𝙧 , 𝙂𝙖𝙢𝙚 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧  \n작곡가, 게임 기획자\nhttps://t.co/R4UHhCesnE 　\nhttps://t.co/ALzh4ySGxm\n𝙲𝚘𝚗𝚝𝚊𝚌𝚝 : ✉ DM\n@d01n_private (Personal)",
+			"url": "https://t.co/PRKPTprS8d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PRKPTprS8d",
+							"expanded_url": "https://www.facebook.com/doin.D01N/",
+							"display_url": "facebook.com/doin.D01N/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R4UHhCesnE",
+							"expanded_url": "http://namu.wiki/w/Doin",
+							"display_url": "namu.wiki/w/Doin",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/ALzh4ySGxm",
+							"expanded_url": "http://youtube.com/c/Doin1",
+							"display_url": "youtube.com/c/Doin1",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1156,
+			"friends_count": 216,
+			"listed_count": 7,
+			"created_at": "Sat Apr 10 15:28:05 +0000 2010",
+			"favourites_count": 1423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245363611465211904/spuS4VM9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245363611465211904/spuS4VM9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131536363/1585752800",
+			"profile_link_color": "9999FF",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28081,
+		"favorite_count": 11017,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "난 둘다 나쁜사례로 본다\n\n대상이 나보다 하위의 동정대상이라는 사고를 기저에 깔아놓는다는것 자체가 무례한짓이다 https://t.co/qnOvzE9fu7"
+	},
+	{
 		"created_at": "Tue Jun 09 14:37:56 +0000 2020",
 		"id": 1269894979305914400,
 		"id_str": "1270364509991886850",
