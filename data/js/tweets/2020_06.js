@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 12:52:12 +0000 2020",
+		"id": 1270324132933038000,
+		"id_str": "1270337904628432900",
+		"full_text": "Something's about to come 💥\n\nPhotographe by OH SE AE\nHair &amp; Make-up by Lee Eun Seo\nStyling by Mo Eun Seo https://t.co/K8Ur7cllpo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270324124607340500,
+					"id_str": "1270324124607340544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEZD5TUYAA6ZLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEZD5TUYAA6ZLf.jpg",
+					"url": "https://t.co/K8Ur7cllpo",
+					"display_url": "pic.twitter.com/K8Ur7cllpo",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1270324132933038081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270324124607340500,
+					"id_str": "1270324124607340544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEZD5TUYAA6ZLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEZD5TUYAA6ZLf.jpg",
+					"url": "https://t.co/K8Ur7cllpo",
+					"display_url": "pic.twitter.com/K8Ur7cllpo",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1270324132933038081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 2,
+			"listed_count": 8,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something's about to come 💥\n\nPhotographe by OH SE AE\nHair &amp; Make-up by Lee Eun Seo\nStyling by Mo Eun Seo https://t.co/K8Ur7cllpo"
+	},
+	{
 		"created_at": "Tue Jun 09 11:52:22 +0000 2020",
 		"id": 1270308535046299600,
 		"id_str": "1270322843725807616",
