@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 16:42:50 +0000 2020",
+		"id": 1270374131335233500,
+		"id_str": "1270395944480075779",
+		"full_text": "아도이@adoyband가 그간 발매한 총 3가지 앨범을 바이닐과 카세트로 제작해 판매합니다. 일정기간 선주문을 받아 제작되는 음반으로 이 바이닐/ 카세트들은 구매 제한이 없는 일반반입니다. \n6월 10일 정오(낮 12시)부터 https://t.co/8xZk03kptr을 통해 판매되며 6월 21일까지 주문을 받습니다. https://t.co/ckf1Ik6Yie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8xZk03kptr",
+					"expanded_url": "http://gimbabrecords.com",
+					"display_url": "gimbabrecords.com",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270374124280402000,
+					"id_str": "1270374124280401923",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFGiQmU0AMETDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFGiQmU0AMETDU.jpg",
+					"url": "https://t.co/ckf1Ik6Yie",
+					"display_url": "pic.twitter.com/ckf1Ik6Yie",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1270374131335233536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270374124280402000,
+					"id_str": "1270374124280401923",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFGiQmU0AMETDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFGiQmU0AMETDU.jpg",
+					"url": "https://t.co/ckf1Ik6Yie",
+					"display_url": "pic.twitter.com/ckf1Ik6Yie",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1270374131335233536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270374124297150500,
+					"id_str": "1270374124297150465",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFGiQqUYAE4N31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFGiQqUYAE4N31.jpg",
+					"url": "https://t.co/ckf1Ik6Yie",
+					"display_url": "pic.twitter.com/ckf1Ik6Yie",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1270374131335233536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270374124284571600,
+					"id_str": "1270374124284571648",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFGiQnUcAAsufa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFGiQnUcAAsufa.jpg",
+					"url": "https://t.co/ckf1Ik6Yie",
+					"display_url": "pic.twitter.com/ckf1Ik6Yie",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1270374131335233536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 620758826,
+			"id_str": "620758826",
+			"name": "gimbabrecords",
+			"screen_name": "gimbabrecords",
+			"location": "동교동 155-36",
+			"description": "우량앨범과 공연을 소개하는 레이블+매장. 2012년 여름에 시작해 글렌 한사드,미드나잇 인 파리OST,로드리게즈,갱스부르 등이 나왔고 모든 장르의 음악을 좋아합니다. 베이룻,제인 버킨,세인트빈센트,맥드마르코 등 공연도 합니다. 레이블 상징 고양이 김밥이는 특히 엘피를 선호해요.",
+			"url": "https://t.co/uO6TLbEZpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uO6TLbEZpX",
+							"expanded_url": "http://www.gimbabrecords.com",
+							"display_url": "gimbabrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10483,
+			"friends_count": 504,
+			"listed_count": 89,
+			"created_at": "Thu Jun 28 07:45:45 +0000 2012",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아도이@adoyband가 그간 발매한 총 3가지 앨범을 바이닐과 카세트로 제작해 판매합니다. 일정기간 선주문을 받아 제작되는 음반으로 이 바이닐/ 카세트들은 구매 제한이 없는 일반반입니다. \n6월 10일 정오(낮 12시)부터 https://t.co/8xZk03kptr을 통해 판매되며 6월 21일까지 주문을 받습니다. https://t.co/ckf1Ik6Yie"
+	},
+	{
 		"created_at": "Tue Jun 09 15:35:40 +0000 2020",
 		"id": 1270379038792712200,
 		"id_str": "1270379038792712192",
