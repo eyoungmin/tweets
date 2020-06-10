@@ -1,6 +1,1954 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 20:31:17 +0000 2020",
+		"id": 1270342744506945500,
+		"id_str": "1270815824840781824",
+		"full_text": "조지 플로이드의 사인은 인종차별만이 아니었다. 발단은 가난이었다. 빈곤층은 일상에서 불법과 질병, 폭력, 좌절 사이 넘나든다. 코로나 봉쇄로 삶이 더 가팔라진 것도 그들. 위험과 안전도 균등하지 않다. 진보조차 불평등한 희생을 방역과 ‘정상화’의 필요 비용으로 여긴다.https://t.co/EmkgrqpRJa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EmkgrqpRJa",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2020/jun/08/we-often-accuse-the-right-of-distorting-science-but-the-left-changed-the-coronavirus-narrative-overnight?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100694,
+			"friends_count": 2407,
+			"listed_count": 302,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 76,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조지 플로이드의 사인은 인종차별만이 아니었다. 발단은 가난이었다. 빈곤층은 일상에서 불법과 질병, 폭력, 좌절 사이 넘나든다. 코로나 봉쇄로 삶이 더 가팔라진 것도 그들. 위험과 안전도 균등하지 않다. 진보조차 불평등한 희생을 방역과 ‘정상화’의 필요 비용으로 여긴다.https://t.co/EmkgrqpRJa"
+	},
+	{
+		"created_at": "Wed Jun 10 20:25:48 +0000 2020",
+		"id": 1270300663235309600,
+		"id_str": "1270814442138136576",
+		"full_text": "아낌없이 한가득 지름 1m 솥뚜껑 쭈꾸미 볶음밥 https://t.co/b7vNbCMdlX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270300076762558500,
+					"id_str": "1270300076762558464",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270300076762558464/pu/img/ghrCHJjfomkVRmfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270300076762558464/pu/img/ghrCHJjfomkVRmfN.jpg",
+					"url": "https://t.co/b7vNbCMdlX",
+					"display_url": "pic.twitter.com/b7vNbCMdlX",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1270300663235309568/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 952,
+							"h": 532,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 952,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270300076762558500,
+					"id_str": "1270300076762558464",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270300076762558464/pu/img/ghrCHJjfomkVRmfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270300076762558464/pu/img/ghrCHJjfomkVRmfN.jpg",
+					"url": "https://t.co/b7vNbCMdlX",
+					"display_url": "pic.twitter.com/b7vNbCMdlX",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1270300663235309568/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 952,
+							"h": 532,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 952,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							34,
+							19
+						],
+						"duration_millis": 87200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270300076762558464/pu/vid/644x360/gS-k0K6tibl4rgoc.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270300076762558464/pu/vid/482x270/cmO0jFJi1sseNR03.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270300076762558464/pu/vid/952x532/1RSusmO5dYIKoJyr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1270300076762558464/pu/pl/MYliAIKGwYt2oaJS.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180291928031514600,
+			"id_str": "1180291928031514624",
+			"name": "여자영상저장소",
+			"screen_name": "zmfflq1234",
+			"location": "여자만/모멘트에 정리",
+			"description": "제보 안 받아용 ㅠㅠ 영상출처 궁금한 점 비판 등등 편하게 아래 링크로 / @zmfflq12345",
+			"url": "https://t.co/D047JkKfoh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D047JkKfoh",
+							"expanded_url": "http://pushoong.com/9056084585?c=3",
+							"display_url": "pushoong.com/9056084585?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67801,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Sat Oct 05 01:21:50 +0000 2019",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180291928031514624/1580997391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8414,
+		"favorite_count": 4835,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아낌없이 한가득 지름 1m 솥뚜껑 쭈꾸미 볶음밥 https://t.co/b7vNbCMdlX"
+	},
+	{
+		"created_at": "Wed Jun 10 20:21:03 +0000 2020",
+		"id": 1269640044135854000,
+		"id_str": "1270813247277432832",
+		"full_text": "신해경 [속꿈, 속꿈] 앨범소개글 다 썼다. 근래 쓴 앨범소개글 중 가장 쓰기 어려웠네. 이제 여러분은 음반이 발매 되기만 기다리면 됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5297,
+			"friends_count": 1210,
+			"listed_count": 74,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 7726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "신해경 [속꿈, 속꿈] 앨범소개글 다 썼다. 근래 쓴 앨범소개글 중 가장 쓰기 어려웠네. 이제 여러분은 음반이 발매 되기만 기다리면 됩니다."
+	},
+	{
+		"created_at": "Wed Jun 10 20:20:56 +0000 2020",
+		"id": 1269925721314480000,
+		"id_str": "1270813217179095041",
+		"full_text": "신해경 [속꿈,속꿈] 2017년 신해경이 첫 EP [나의 가역반응]을 발표한 후 3년 만에 공개하는 첫 정규 앨범 발매 됩니다.\n2020.06.17.  https://t.co/DdJIbm8krq https://t.co/kycP3Vhz0L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DdJIbm8krq",
+					"expanded_url": "http://bitly.kr/YwPfiP6KnqF",
+					"display_url": "bitly.kr/YwPfiP6KnqF",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269925624363155500,
+					"id_str": "1269925624363155456",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-uoINVAAAD-5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-uoINVAAAD-5r.jpg",
+					"url": "https://t.co/kycP3Vhz0L",
+					"display_url": "pic.twitter.com/kycP3Vhz0L",
+					"expanded_url": "https://twitter.com/Hyangmusic/status/1269925721314480129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269925624363155500,
+					"id_str": "1269925624363155456",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-uoINVAAAD-5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-uoINVAAAD-5r.jpg",
+					"url": "https://t.co/kycP3Vhz0L",
+					"display_url": "pic.twitter.com/kycP3Vhz0L",
+					"expanded_url": "https://twitter.com/Hyangmusic/status/1269925721314480129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160560726,
+			"id_str": "160560726",
+			"name": "Hyang Music",
+			"screen_name": "Hyangmusic",
+			"location": "Seoul,South Korea",
+			"description": "",
+			"url": "http://t.co/mHUYqcCmuZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mHUYqcCmuZ",
+							"expanded_url": "http://www.hyangmusic.com",
+							"display_url": "hyangmusic.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4306,
+			"friends_count": 103,
+			"listed_count": 179,
+			"created_at": "Mon Jun 28 14:27:52 +0000 2010",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034696390/hlogo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034696390/hlogo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160560726/1456324076",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신해경 [속꿈,속꿈] 2017년 신해경이 첫 EP [나의 가역반응]을 발표한 후 3년 만에 공개하는 첫 정규 앨범 발매 됩니다.\n2020.06.17.  https://t.co/DdJIbm8krq https://t.co/kycP3Vhz0L"
+	},
+	{
+		"created_at": "Wed Jun 10 20:20:18 +0000 2020",
+		"id": 1270687584109367300,
+		"id_str": "1270813058961567744",
+		"full_text": "#포크라노스 #POCLANOS\n[MV/선공개] 신해경 (Shin Hae Gyeong) - 그 후 (And Then) / Official Music Video [KOR/ENG Sub]\nhttps://t.co/lcS5A83Ins",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lcS5A83Ins",
+					"expanded_url": "https://youtu.be/Kc1MIxL4_ac",
+					"display_url": "youtu.be/Kc1MIxL4_ac",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254890453033312300,
+			"id_str": "1254890453033312256",
+			"name": "포크라노스 봇",
+			"screen_name": "POCLANOS",
+			"location": "",
+			"description": "인디음악 유통사 포크라노스 비공식 봇\n\n현재의 가장 새롭고 신선한 음악들을 소개하는 뮤직 딜리버리 브랜드, #포크라노스\n#Poclanos is a music delivery brand that introduces fresh, new music of the current moment.",
+			"url": "https://t.co/WpmlZLoC0J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpmlZLoC0J",
+							"expanded_url": "http://poclanos.com/",
+							"display_url": "poclanos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22,
+			"friends_count": 2,
+			"listed_count": 3,
+			"created_at": "Mon Apr 27 21:49:55 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254891553669046272/MEzZ8KBM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254891553669046272/MEzZ8KBM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254890453033312256/1588024437",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[MV/선공개] 신해경 (Shin Hae Gyeong) - 그 후 (And Then) / Official Music Video [KOR/ENG Sub]\nhttps://t.co/lcS5A83Ins"
+	},
+	{
+		"created_at": "Wed Jun 10 20:18:08 +0000 2020",
+		"id": 1270339214752616400,
+		"id_str": "1270812512976465920",
+		"full_text": "는 진정성에 영향을 분명히 미치지만 근본적인 장벽이 아니다. 오히려 오류의 가능성과 함께 열려있기 때문에 연대의 의미가 있는 것이다. 무오류의 닫힌 운동을 원하는가? 누군가 스스로 전할 수 없는 환경이라면 그것을 대신 전하려고 하는 것은 발언을 막는 것인가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270338441545310200,
+		"in_reply_to_status_id_str": "1270338441545310208",
+		"in_reply_to_user_id": 1140251360,
+		"in_reply_to_user_id_str": "1140251360",
+		"in_reply_to_screen_name": "Hadrianus753",
+		"user": {
+			"id": 1140251360,
+			"id_str": "1140251360",
+			"name": "■까만사각형 레고■ #BlackLivesMatter",
+			"screen_name": "Hadrianus753",
+			"location": "조선",
+			"description": "이것저것 씁니다 / 이것저것 혐오 안받아요 / 사회주의입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 314,
+			"listed_count": 8,
+			"created_at": "Fri Feb 01 17:18:12 +0000 2013",
+			"favourites_count": 5057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 163087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270638172498612226/iDCtD57b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270638172498612226/iDCtD57b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140251360/1566542009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 305,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "는 진정성에 영향을 분명히 미치지만 근본적인 장벽이 아니다. 오히려 오류의 가능성과 함께 열려있기 때문에 연대의 의미가 있는 것이다. 무오류의 닫힌 운동을 원하는가? 누군가 스스로 전할 수 없는 환경이라면 그것을 대신 전하려고 하는 것은 발언을 막는 것인가?"
+	},
+	{
+		"created_at": "Wed Jun 10 20:18:07 +0000 2020",
+		"id": 1270338441545310200,
+		"id_str": "1270812509637763073",
+		"full_text": "다니엘 래드클리프 발언에 대고 니가 남자인데 감히 어쩌구 하는 멘션들 겁나 많네.. 이래서 정체성 근본주의를 좋아할 수가 없다. 정체성=발언권=진정성 이 삼각구도에서 벗어나면 순수하지 않고 발언권이 없는 것으로 평가된다. 그러나 옳은 것은 옳은 것이고 그른 것은 그른 것이다. 발화자의 위치",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140251360,
+			"id_str": "1140251360",
+			"name": "■까만사각형 레고■ #BlackLivesMatter",
+			"screen_name": "Hadrianus753",
+			"location": "조선",
+			"description": "이것저것 씁니다 / 이것저것 혐오 안받아요 / 사회주의입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 314,
+			"listed_count": 8,
+			"created_at": "Fri Feb 01 17:18:12 +0000 2013",
+			"favourites_count": 5057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 163087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270638172498612226/iDCtD57b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270638172498612226/iDCtD57b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140251360/1566542009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 851,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다니엘 래드클리프 발언에 대고 니가 남자인데 감히 어쩌구 하는 멘션들 겁나 많네.. 이래서 정체성 근본주의를 좋아할 수가 없다. 정체성=발언권=진정성 이 삼각구도에서 벗어나면 순수하지 않고 발언권이 없는 것으로 평가된다. 그러나 옳은 것은 옳은 것이고 그른 것은 그른 것이다. 발화자의 위치"
+	},
+	{
+		"created_at": "Wed Jun 10 20:15:48 +0000 2020",
+		"id": 1270398784862912500,
+		"id_str": "1270811926725980160",
+		"full_text": "서울의 언더그라운드 클럽씬이 존속 위기에 처했다...어떻게 하면 좋을까 혹시 좋은 아이디어 있는 친구들 있으신가요?😭😩 https://t.co/Zk0wxYQEPi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270398774280683500,
+					"id_str": "1270398774280683524",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFc9FAXgAQDUM0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFc9FAXgAQDUM0.jpg",
+					"url": "https://t.co/Zk0wxYQEPi",
+					"display_url": "pic.twitter.com/Zk0wxYQEPi",
+					"expanded_url": "https://twitter.com/klof_lfo/status/1270398784862912516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270398774280683500,
+					"id_str": "1270398774280683524",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFc9FAXgAQDUM0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFc9FAXgAQDUM0.jpg",
+					"url": "https://t.co/Zk0wxYQEPi",
+					"display_url": "pic.twitter.com/Zk0wxYQEPi",
+					"expanded_url": "https://twitter.com/klof_lfo/status/1270398784862912516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88118503,
+			"id_str": "88118503",
+			"name": "🤖",
+			"screen_name": "klof_lfo",
+			"location": "PLANET",
+			"description": "TECHNOFEMINIST ✌🏻 aka. Chloe Yoon",
+			"url": "https://t.co/ZMfeyPoawU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZMfeyPoawU",
+							"expanded_url": "https://www.youtube.com/channel/UCtlDwnt9wLZQTCAJdzJBgRg",
+							"display_url": "youtube.com/channel/UCtlDw…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1081,
+			"friends_count": 389,
+			"listed_count": 40,
+			"created_at": "Sat Nov 07 05:12:26 +0000 2009",
+			"favourites_count": 2972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B9D7D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252586045692170240/dzFmZgcJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252586045692170240/dzFmZgcJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88118503/1587474760",
+			"profile_link_color": "2A2829",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "493736",
+			"profile_text_color": "668284",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 81,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울의 언더그라운드 클럽씬이 존속 위기에 처했다...어떻게 하면 좋을까 혹시 좋은 아이디어 있는 친구들 있으신가요?😭😩 https://t.co/Zk0wxYQEPi"
+	},
+	{
+		"created_at": "Wed Jun 10 20:09:24 +0000 2020",
+		"id": 1270647120307974100,
+		"id_str": "1270810314456436737",
+		"full_text": "[MV] 헤이즈(Heize) - 작사가 / 일이 너무 잘 돼 \n\n'헤이즈' 6번째 미니앨범 [Lyricist]\n타이틀곡 '작사가 / 일이 너무 잘 돼' 뮤직비디오 1분 ver. \n\nFull MV ▶️ https://t.co/RAwO7x09nx\n\n2020. 06. 10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 https://t.co/FkXnBBFNPJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "일이너무잘돼",
+					"indices": [
+						202,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RAwO7x09nx",
+					"expanded_url": "https://youtu.be/P9_nq8q6JDY",
+					"display_url": "youtu.be/P9_nq8q6JDY",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270623296900325400,
+					"id_str": "1270623296900325376",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIs2q9VcAAeIjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIs2q9VcAAeIjn.jpg",
+					"url": "https://t.co/FkXnBBFNPJ",
+					"display_url": "pic.twitter.com/FkXnBBFNPJ",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270647120307974145/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270623296900325400,
+					"id_str": "1270623296900325376",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIs2q9VcAAeIjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIs2q9VcAAeIjn.jpg",
+					"url": "https://t.co/FkXnBBFNPJ",
+					"display_url": "pic.twitter.com/FkXnBBFNPJ",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270647120307974145/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270623296900325376/vid/480x270/IBlCzlbDYzM90IDR.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270623296900325376/vid/1280x720/GQWO1ZKylaBpOl3-.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270623296900325376/vid/640x360/o6pb5k05KsTiGkiU.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1270623296900325376/pl/KBrAAp920O0gBzbG.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39243,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 994,
+		"favorite_count": 1869,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] 헤이즈(Heize) - 작사가 / 일이 너무 잘 돼 \n\n'헤이즈' 6번째 미니앨범 [Lyricist]\n타이틀곡 '작사가 / 일이 너무 잘 돼' 뮤직비디오 1분 ver. \n\nFull MV ▶️ https://t.co/RAwO7x09nx\n\n2020. 06. 10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 https://t.co/FkXnBBFNPJ"
+	},
+	{
+		"created_at": "Wed Jun 10 20:09:15 +0000 2020",
+		"id": 1270646180658077700,
+		"id_str": "1270810278662295554",
+		"full_text": "▶️FLO : https://t.co/xtFVFaZdV7\n▶️소리바다 : https://t.co/0aYxdEjRTc\n▶️네이버뮤직 : https://t.co/xMBaNO4o08\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 #Things_are_going_well https://t.co/oPMUXXJLvI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "일이너무잘돼",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "Things_are_going_well",
+					"indices": [
+						135,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xtFVFaZdV7",
+					"expanded_url": "https://bit.ly/2BSFCxu",
+					"display_url": "bit.ly/2BSFCxu",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/0aYxdEjRTc",
+					"expanded_url": "https://bit.ly/3cMMnxG",
+					"display_url": "bit.ly/3cMMnxG",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/xMBaNO4o08",
+					"expanded_url": "https://bit.ly/2YdIjkw",
+					"display_url": "bit.ly/2YdIjkw",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270646155819380700,
+					"id_str": "1270646155819380738",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EaI98lDUcAI76xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaI98lDUcAI76xw.jpg",
+					"url": "https://t.co/oPMUXXJLvI",
+					"display_url": "pic.twitter.com/oPMUXXJLvI",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270646180658077696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270646155819380700,
+					"id_str": "1270646155819380738",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EaI98lDUcAI76xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaI98lDUcAI76xw.jpg",
+					"url": "https://t.co/oPMUXXJLvI",
+					"display_url": "pic.twitter.com/oPMUXXJLvI",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270646180658077696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270644678400991200,
+		"in_reply_to_status_id_str": "1270644678400991233",
+		"in_reply_to_user_id": 4746792673,
+		"in_reply_to_user_id_str": "4746792673",
+		"in_reply_to_screen_name": "Heize_Official",
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39243,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 328,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▶️FLO : https://t.co/xtFVFaZdV7\n▶️소리바다 : https://t.co/0aYxdEjRTc\n▶️네이버뮤직 : https://t.co/xMBaNO4o08\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 #Things_are_going_well https://t.co/oPMUXXJLvI"
+	},
+	{
+		"created_at": "Wed Jun 10 20:09:13 +0000 2020",
+		"id": 1270644678400991200,
+		"id_str": "1270810268935745536",
+		"full_text": "[Comeback]\n헤이즈의 6번째 미니앨범 [Lyricist]가 발매되었습니다!👏\n모든 음원 사이트에서 '작사가'와 '일이 너무 잘 돼'를 만나보세요!\n\n▶️지니: https://t.co/TaXYuahmKx\n▶️멜론: https://t.co/f7UM4GZHlV\n▶️벅스: https://t.co/wgYlSg0rG1\n\n#헤이즈 #Heize #Lyricist #작사가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						200,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TaXYuahmKx",
+					"expanded_url": "https://bit.ly/2UveOcZ",
+					"display_url": "bit.ly/2UveOcZ",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/f7UM4GZHlV",
+					"expanded_url": "https://bit.ly/30pSN3a",
+					"display_url": "bit.ly/30pSN3a",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/wgYlSg0rG1",
+					"expanded_url": "https://bit.ly/2XPExPs",
+					"display_url": "bit.ly/2XPExPs",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39243,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 975,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Comeback]\n헤이즈의 6번째 미니앨범 [Lyricist]가 발매되었습니다!👏\n모든 음원 사이트에서 '작사가'와 '일이 너무 잘 돼'를 만나보세요!\n\n▶️지니: https://t.co/TaXYuahmKx\n▶️멜론: https://t.co/f7UM4GZHlV\n▶️벅스: https://t.co/wgYlSg0rG1\n\n#헤이즈 #Heize #Lyricist #작사가"
+	},
+	{
+		"created_at": "Wed Jun 10 20:08:12 +0000 2020",
+		"id": 1270007682896810000,
+		"id_str": "1270810013271945217",
+		"full_text": "[MV TEASER] 헤이즈(Heize) - 작사가 (Lyricist) (Title)\n\n'헤이즈' 6번째 미니앨범 [Lyricist]\n타이틀곡 '작사가' 뮤직비디오 티저⠀\n▶️ https://t.co/kLWPAFZ8W6\n⠀\n2020. 06. 10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #작사가 #20200610 https://t.co/65hKYi3KD5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kLWPAFZ8W6",
+					"expanded_url": "https://youtu.be/_E1c2L4yA7Y",
+					"display_url": "youtu.be/_E1c2L4yA7Y",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269943552630390800,
+					"id_str": "1269943552630390784",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ_AfISUEAAq3fD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ_AfISUEAAq3fD.jpg",
+					"url": "https://t.co/65hKYi3KD5",
+					"display_url": "pic.twitter.com/65hKYi3KD5",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270007682896809988/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269943552630390800,
+					"id_str": "1269943552630390784",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ_AfISUEAAq3fD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ_AfISUEAAq3fD.jpg",
+					"url": "https://t.co/65hKYi3KD5",
+					"display_url": "pic.twitter.com/65hKYi3KD5",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270007682896809988/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16016,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1269943552630390784/pl/hYlXZEnbAqB83c6g.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269943552630390784/vid/480x270/TyqJqFMaJebPA_ZT.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269943552630390784/vid/1280x720/EXh9SkZ7kvqv8FRv.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269943552630390784/vid/640x360/USzNPaazsFcTqyyT.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39243,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 727,
+		"favorite_count": 1852,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV TEASER] 헤이즈(Heize) - 작사가 (Lyricist) (Title)\n\n'헤이즈' 6번째 미니앨범 [Lyricist]\n타이틀곡 '작사가' 뮤직비디오 티저⠀\n▶️ https://t.co/kLWPAFZ8W6\n⠀\n2020. 06. 10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #작사가 #20200610 https://t.co/65hKYi3KD5"
+	},
+	{
 		"created_at": "Wed Jun 10 17:35:30 +0000 2020",
 		"id": 1270771587206320000,
 		"id_str": "1270771587206320129",
