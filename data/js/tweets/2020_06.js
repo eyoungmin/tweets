@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 10:59:22 +0000 2020",
+		"id": 1270671896665784300,
+		"id_str": "1270671896665784321",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크-레이디 가가 ‘사워 캔디’, 빌보드 ‘핫 100’ 33위\nhttps://t.co/ANaYZW0APT\n#블랙핑크 #BLACKPINK https://t.co/EQXP26zsmp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ANaYZW0APT",
+					"expanded_url": "https://yg-life.com/archives/155989?lang=ko",
+					"display_url": "yg-life.com/archives/15598…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270671895646679000,
+					"id_str": "1270671895646679040",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EaJVW1YXsAA0y7T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaJVW1YXsAA0y7T.jpg",
+					"url": "https://t.co/EQXP26zsmp",
+					"display_url": "pic.twitter.com/EQXP26zsmp",
+					"expanded_url": "https://twitter.com/fromminn/status/1270671896665784321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 326,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 326,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270671895646679000,
+					"id_str": "1270671895646679040",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EaJVW1YXsAA0y7T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaJVW1YXsAA0y7T.jpg",
+					"url": "https://t.co/EQXP26zsmp",
+					"display_url": "pic.twitter.com/EQXP26zsmp",
+					"expanded_url": "https://twitter.com/fromminn/status/1270671896665784321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 326,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 326,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크-레이디 가가 ‘사워 캔디’, 빌보드 ‘핫 100’ 33위\nhttps://t.co/ANaYZW0APT\n#블랙핑크 #BLACKPINK https://t.co/EQXP26zsmp"
+	},
+	{
 		"created_at": "Wed Jun 10 09:17:22 +0000 2020",
 		"id": 1270646224874504200,
 		"id_str": "1270646224874504192",
