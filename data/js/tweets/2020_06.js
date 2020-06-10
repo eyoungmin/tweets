@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 03:48:06 +0000 2020",
+		"id": 1270563365006557200,
+		"id_str": "1270563365006557184",
+		"full_text": "#연투유TV #연법상\n[연법상] 계약금을 안줘도 계약인건가요? + 유투버 양팡 부동산 사건 + 변호사 선임비용\nhttps://t.co/F7YWSfviFJ\n#예술경영 #뮤직비지니스 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "연투유TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "연법상",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F7YWSfviFJ",
+					"expanded_url": "https://youtu.be/dwjakftq4W4",
+					"display_url": "youtu.be/dwjakftq4W4",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#연투유TV #연법상\n[연법상] 계약금을 안줘도 계약인건가요? + 유투버 양팡 부동산 사건 + 변호사 선임비용\nhttps://t.co/F7YWSfviFJ\n#예술경영 #뮤직비지니스 #minfav"
+	},
+	{
+		"created_at": "Wed Jun 10 03:45:36 +0000 2020",
+		"id": 1270551271846473700,
+		"id_str": "1270562736649404416",
+		"full_text": "🚂 이달의 탐탐탐 Season 2 Episode 1 (LOONA THE TAM Season 2 Episode 1)\n⠀\n[#] 활동이 끝나고 강렬한 이끌림에 다시 모인 #이달의소녀 🔥\n바람처럼 떠나게 된 비밀의 장소는 어디일까요?\n\n▶️ https://t.co/ZPCagjOOBu\n\n#LOONA #이달의탐탐탐 #LOONATHETAM #TravelAndMore https://t.co/Wn9Y09nBbG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "이달의탐탐탐",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "LOONATHETAM",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "TravelAndMore",
+					"indices": [
+						185,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZPCagjOOBu",
+					"expanded_url": "https://youtu.be/dfAWrI86w94",
+					"display_url": "youtu.be/dfAWrI86w94",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270551264900681700,
+					"id_str": "1270551264900681728",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EaHnpM1UEAACkdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaHnpM1UEAACkdH.jpg",
+					"url": "https://t.co/Wn9Y09nBbG",
+					"display_url": "pic.twitter.com/Wn9Y09nBbG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1270551271846473729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270551264900681700,
+					"id_str": "1270551264900681728",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EaHnpM1UEAACkdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaHnpM1UEAACkdH.jpg",
+					"url": "https://t.co/Wn9Y09nBbG",
+					"display_url": "pic.twitter.com/Wn9Y09nBbG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1270551271846473729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476586,
+			"friends_count": 0,
+			"listed_count": 4833,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3426,
+		"favorite_count": 8303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚂 이달의 탐탐탐 Season 2 Episode 1 (LOONA THE TAM Season 2 Episode 1)\n⠀\n[#] 활동이 끝나고 강렬한 이끌림에 다시 모인 #이달의소녀 🔥\n바람처럼 떠나게 된 비밀의 장소는 어디일까요?\n\n▶️ https://t.co/ZPCagjOOBu\n\n#LOONA #이달의탐탐탐 #LOONATHETAM #TravelAndMore https://t.co/Wn9Y09nBbG"
+	},
+	{
 		"created_at": "Wed Jun 10 03:00:59 +0000 2020",
 		"id": 1270551506572501000,
 		"id_str": "1270551506572500998",
