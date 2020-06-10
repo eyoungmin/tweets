@@ -1,6 +1,1526 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 21:27:56 +0000 2020",
+		"id": 1270773022794805200,
+		"id_str": "1270830081309638657",
+		"full_text": "The ReVe Festival! 🔥🔥\nShop 👉 https://t.co/AXOyoHfyg0\n-\n#RedVelvet #레드벨벳 \n#TheReVeFestival #RVF  \n#YERI #JOY #WENDY #SEULGI #IRENE\n#SMGlobalShop #SGS https://t.co/836V7NcmYK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "TheReVeFestival",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "SMGlobalShop",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "SGS",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AXOyoHfyg0",
+					"expanded_url": "http://smglobalshop.com/products/pre-order-red-velvet-the-reve-festival-1000pcs-puzzle",
+					"display_url": "smglobalshop.com/products/pre-o…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270773002305597400,
+					"id_str": "1270773002305597441",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270773002305597441/pu/img/O-G6rhb6mBCHDUsS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270773002305597441/pu/img/O-G6rhb6mBCHDUsS.jpg",
+					"url": "https://t.co/836V7NcmYK",
+					"display_url": "pic.twitter.com/836V7NcmYK",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1270773022794805248/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270773002305597400,
+					"id_str": "1270773002305597441",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270773002305597441/pu/img/O-G6rhb6mBCHDUsS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270773002305597441/pu/img/O-G6rhb6mBCHDUsS.jpg",
+					"url": "https://t.co/836V7NcmYK",
+					"display_url": "pic.twitter.com/836V7NcmYK",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1270773022794805248/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 7133,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270773002305597441/pu/vid/1280x720/QAIjNG7W_7NZFgnO.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270773002305597441/pu/vid/640x360/t4aIbzXUqa4Zmhz8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1270773002305597441/pu/pl/0SNz67WKF2xtOTs-.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270773002305597441/pu/vid/480x270/9RySJsAHLJGboN_7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994706386696073200,
+			"id_str": "994706386696073221",
+			"name": "SMGlobalShop",
+			"screen_name": "SMGlobalShop",
+			"location": "Los Angeles, CA",
+			"description": "Official SM Entertainment Merchandise Shop ft. #SuperM #SHINee #RedVelvet #NCT #EXO #SuperJunior #TVXQ #GirlsGeneration #fx",
+			"url": "https://t.co/Rwg3fKZNIy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rwg3fKZNIy",
+							"expanded_url": "https://smglobalshop.com",
+							"display_url": "smglobalshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22337,
+			"friends_count": 21,
+			"listed_count": 29,
+			"created_at": "Thu May 10 22:30:58 +0000 2018",
+			"favourites_count": 432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245245564393906176/UdKSMHvN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245245564393906176/UdKSMHvN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994706386696073221/1567020643",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The ReVe Festival! 🔥🔥\nShop 👉 https://t.co/AXOyoHfyg0\n-\n#RedVelvet #레드벨벳 \n#TheReVeFestival #RVF  \n#YERI #JOY #WENDY #SEULGI #IRENE\n#SMGlobalShop #SGS https://t.co/836V7NcmYK"
+	},
+	{
+		"created_at": "Wed Jun 10 21:26:43 +0000 2020",
+		"id": 1267657257736528000,
+		"id_str": "1270829774483546113",
+		"full_text": "🍑（続き）まだまだ在宅で頑張る皆さまへ…🍑\n\n『 #パラサイト半地下の家族 』\nビデオ会議＆オンライン飲み会用バーチャル背景プレゼント（全5種）🎁✨\n\n画像はパク家のリビングや子供部屋、さらにはキム家のあのトイレ🚽も！\n\n（※個人利用に限ります。加工はお控え下さい）#バーチャル背景 #zoom背景 https://t.co/z3UAlCFvu0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "パラサイト半地下の家族",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"text": "バーチャル背景",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "zoom背景",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267657246667751400,
+					"id_str": "1267657246667751425",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EZefjKyUwAEsoEK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZefjKyUwAEsoEK.jpg",
+					"url": "https://t.co/z3UAlCFvu0",
+					"display_url": "pic.twitter.com/z3UAlCFvu0",
+					"expanded_url": "https://twitter.com/Parasite_JP/status/1267657257736527872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267657246667751400,
+					"id_str": "1267657246667751425",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EZefjKyUwAEsoEK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZefjKyUwAEsoEK.jpg",
+					"url": "https://t.co/z3UAlCFvu0",
+					"display_url": "pic.twitter.com/z3UAlCFvu0",
+					"expanded_url": "https://twitter.com/Parasite_JP/status/1267657257736527872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1267657246827114500,
+					"id_str": "1267657246827114499",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EZefjLYUcAMRmYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZefjLYUcAMRmYJ.jpg",
+					"url": "https://t.co/z3UAlCFvu0",
+					"display_url": "pic.twitter.com/z3UAlCFvu0",
+					"expanded_url": "https://twitter.com/Parasite_JP/status/1267657257736527872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1267657244348264400,
+		"in_reply_to_status_id_str": "1267657244348264450",
+		"in_reply_to_user_id": 1157179013116223500,
+		"in_reply_to_user_id_str": "1157179013116223488",
+		"in_reply_to_screen_name": "Parasite_JP",
+		"user": {
+			"id": 1157179013116223500,
+			"id_str": "1157179013116223488",
+			"name": "映画『パラサイト 半地下の家族』",
+			"screen_name": "Parasite_JP",
+			"location": "半地下⇆高台",
+			"description": "《全世界、鳥肌熱狂 》アカデミー賞®︎【作品賞】含む最多4部門受賞‼️ 🏆カンヌ国際映画祭【最高賞】パルムドール受賞🏆ポン・ジュノ監督最新作『 #パラサイト半地下の家族 』公式Twitter。大ヒット公開中／6.5公開モノクロVer.／6.12公開IMAX®︎🎬",
+			"url": "https://t.co/N6wsA2lu6c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N6wsA2lu6c",
+							"expanded_url": "http://www.parasite-mv.jp/",
+							"display_url": "parasite-mv.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9547,
+			"friends_count": 7,
+			"listed_count": 84,
+			"created_at": "Fri Aug 02 06:39:10 +0000 2019",
+			"favourites_count": 3875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167233014339817472/WhfQrqN3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167233014339817472/WhfQrqN3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1157179013116223488/1581558339",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 486,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🍑（続き）まだまだ在宅で頑張る皆さまへ…🍑\n\n『 #パラサイト半地下の家族 』\nビデオ会議＆オンライン飲み会用バーチャル背景プレゼント（全5種）🎁✨\n\n画像はパク家のリビングや子供部屋、さらにはキム家のあのトイレ🚽も！\n\n（※個人利用に限ります。加工はお控え下さい）#バーチャル背景 #zoom背景 https://t.co/z3UAlCFvu0"
+	},
+	{
+		"created_at": "Wed Jun 10 21:26:28 +0000 2020",
+		"id": 1267657244348264400,
+		"id_str": "1270829711896088576",
+		"full_text": "🍑まだまだ在宅で頑張る皆さまへ…🍑\n\n『 #パラサイト半地下の家族 』\nビデオ会議＆オンライン飲み会用バーチャル背景プレゼント（全5種）🎁✨\n\n富豪気分から半地下の家族の一員気分まで…在宅時間も楽しんで下さいね✌️\n\n（※個人利用に限ります。加工はお控え下さい）#バーチャル背景 #zoom背景 https://t.co/Aob2I23wH0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "パラサイト半地下の家族",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"text": "バーチャル背景",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "zoom背景",
+					"indices": [
+						140,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267657238174294000,
+					"id_str": "1267657238174294018",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EZefirJU4AIpyx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZefirJU4AIpyx6.jpg",
+					"url": "https://t.co/Aob2I23wH0",
+					"display_url": "pic.twitter.com/Aob2I23wH0",
+					"expanded_url": "https://twitter.com/Parasite_JP/status/1267657244348264450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267657238174294000,
+					"id_str": "1267657238174294018",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EZefirJU4AIpyx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZefirJU4AIpyx6.jpg",
+					"url": "https://t.co/Aob2I23wH0",
+					"display_url": "pic.twitter.com/Aob2I23wH0",
+					"expanded_url": "https://twitter.com/Parasite_JP/status/1267657244348264450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1267657238178480000,
+					"id_str": "1267657238178480128",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EZefirKUwAABN_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZefirKUwAABN_n.jpg",
+					"url": "https://t.co/Aob2I23wH0",
+					"display_url": "pic.twitter.com/Aob2I23wH0",
+					"expanded_url": "https://twitter.com/Parasite_JP/status/1267657244348264450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1267657238191063000,
+					"id_str": "1267657238191063040",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EZefirNUwAAg1Bn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZefirNUwAAg1Bn.jpg",
+					"url": "https://t.co/Aob2I23wH0",
+					"display_url": "pic.twitter.com/Aob2I23wH0",
+					"expanded_url": "https://twitter.com/Parasite_JP/status/1267657244348264450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 583,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1157179013116223500,
+			"id_str": "1157179013116223488",
+			"name": "映画『パラサイト 半地下の家族』",
+			"screen_name": "Parasite_JP",
+			"location": "半地下⇆高台",
+			"description": "《全世界、鳥肌熱狂 》アカデミー賞®︎【作品賞】含む最多4部門受賞‼️ 🏆カンヌ国際映画祭【最高賞】パルムドール受賞🏆ポン・ジュノ監督最新作『 #パラサイト半地下の家族 』公式Twitter。大ヒット公開中／6.5公開モノクロVer.／6.12公開IMAX®︎🎬",
+			"url": "https://t.co/N6wsA2lu6c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N6wsA2lu6c",
+							"expanded_url": "http://www.parasite-mv.jp/",
+							"display_url": "parasite-mv.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9547,
+			"friends_count": 7,
+			"listed_count": 84,
+			"created_at": "Fri Aug 02 06:39:10 +0000 2019",
+			"favourites_count": 3875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167233014339817472/WhfQrqN3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167233014339817472/WhfQrqN3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1157179013116223488/1581558339",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 826,
+		"favorite_count": 2199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🍑まだまだ在宅で頑張る皆さまへ…🍑\n\n『 #パラサイト半地下の家族 』\nビデオ会議＆オンライン飲み会用バーチャル背景プレゼント（全5種）🎁✨\n\n富豪気分から半地下の家族の一員気分まで…在宅時間も楽しんで下さいね✌️\n\n（※個人利用に限ります。加工はお控え下さい）#バーチャル背景 #zoom背景 https://t.co/Aob2I23wH0"
+	},
+	{
+		"created_at": "Wed Jun 10 21:24:15 +0000 2020",
+		"id": 1270811436575608800,
+		"id_str": "1270829152896090112",
+		"full_text": "트위터, 사용자가 채 읽지 않은 글을 리트윗 하기 전 재고하게 하는 새 기능 테스트 시작\n- 이는 미국 내 안드로이드 사용자들에 제한돼\n- 그러나 iOS 등 다른 OS에 언제 이 기능 제공할 계획인지 말하지 않아\nhttps://t.co/I5RudaNcig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I5RudaNcig",
+					"expanded_url": "https://www.theverge.com/21286855/twitter-articles-prompt-unread-feature-conversations",
+					"display_url": "theverge.com/21286855/twitt…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45662,
+			"friends_count": 229,
+			"listed_count": 275,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터, 사용자가 채 읽지 않은 글을 리트윗 하기 전 재고하게 하는 새 기능 테스트 시작\n- 이는 미국 내 안드로이드 사용자들에 제한돼\n- 그러나 iOS 등 다른 OS에 언제 이 기능 제공할 계획인지 말하지 않아\nhttps://t.co/I5RudaNcig"
+	},
+	{
+		"created_at": "Wed Jun 10 21:23:51 +0000 2020",
+		"id": 1270527790501118000,
+		"id_str": "1270829051872030720",
+		"full_text": "네이버 QR코드로 전자출입명부 이용 가능 https://t.co/id2JV7HXiG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/id2JV7HXiG",
+					"expanded_url": "http://www.bloter.net/archives/388617",
+					"display_url": "bloter.net/archives/388617",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55316,
+			"friends_count": 9,
+			"listed_count": 2396,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버 QR코드로 전자출입명부 이용 가능 https://t.co/id2JV7HXiG"
+	},
+	{
+		"created_at": "Wed Jun 10 21:23:47 +0000 2020",
+		"id": 1270532393720402000,
+		"id_str": "1270829033513562112",
+		"full_text": "CapRover - 나만의 PaaS 만들기 https://t.co/BBiBoHVFpp \n- Heroku와 비슷한 PaaS를 직접 운영하게 해주는 오픈소스\n- 복잡한 서버 설정없이 앱을 빠르게 만들고 실행 \n- NodeJS, Python, PHP, Ruby, Java 등 대부분의 언어 지원\n- SSL 자동지원 (LetsEncrypt)\n- MySQL, MongoDB, Postgres, W...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BBiBoHVFpp",
+					"expanded_url": "https://j.mp/2Yi4QNb",
+					"display_url": "j.mp/2Yi4QNb",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3087,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CapRover - 나만의 PaaS 만들기 https://t.co/BBiBoHVFpp \n- Heroku와 비슷한 PaaS를 직접 운영하게 해주는 오픈소스\n- 복잡한 서버 설정없이 앱을 빠르게 만들고 실행 \n- NodeJS, Python, PHP, Ruby, Java 등 대부분의 언어 지원\n- SSL 자동지원 (LetsEncrypt)\n- MySQL, MongoDB, Postgres, W..."
+	},
+	{
+		"created_at": "Wed Jun 10 21:23:44 +0000 2020",
+		"id": 1270529375390142500,
+		"id_str": "1270829020834197504",
+		"full_text": "폰 카메라로 보는 컬러값을 컴퓨터로 바로 복사하기 https://t.co/Z5WAniovz8 \n- 카메라로 보는 지점의 RGB 헥사코드 컬러값을 컴퓨터로 전송\n- 웹브라우저, Figma, Sketch 로 바로 복사 가능\nㅤ→ 브라우저로 복사할경우 QR코드 읽으면 해당 앱 웹사이트로 이동\nㅤ→ 웹에서 카메라를 켜서 점 ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z5WAniovz8",
+					"expanded_url": "https://j.mp/2UsuKgg",
+					"display_url": "j.mp/2UsuKgg",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3087,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "폰 카메라로 보는 컬러값을 컴퓨터로 바로 복사하기 https://t.co/Z5WAniovz8 \n- 카메라로 보는 지점의 RGB 헥사코드 컬러값을 컴퓨터로 전송\n- 웹브라우저, Figma, Sketch 로 바로 복사 가능\nㅤ→ 브라우저로 복사할경우 QR코드 읽으면 해당 앱 웹사이트로 이동\nㅤ→ 웹에서 카메라를 켜서 점 ..."
+	},
+	{
+		"created_at": "Wed Jun 10 21:22:20 +0000 2020",
+		"id": 1270577494991593500,
+		"id_str": "1270828668453978112",
+		"full_text": "[단독] 네이트, 11년만에 ‘새 얼굴’ 내놓는다…대대적 개편 예고 https://t.co/TiS3UKQsNK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TiS3UKQsNK",
+					"expanded_url": "http://www.bloter.net/archives/388679",
+					"display_url": "bloter.net/archives/388679",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55316,
+			"friends_count": 9,
+			"listed_count": 2396,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독] 네이트, 11년만에 ‘새 얼굴’ 내놓는다…대대적 개편 예고 https://t.co/TiS3UKQsNK"
+	},
+	{
+		"created_at": "Wed Jun 10 21:20:29 +0000 2020",
+		"id": 1270622795798478800,
+		"id_str": "1270828203477659648",
+		"full_text": "부천국제판타스틱영화제, 왓챠에서 보세요 https://t.co/p4XLhuEFWj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p4XLhuEFWj",
+					"expanded_url": "http://www.bloter.net/archives/388742",
+					"display_url": "bloter.net/archives/388742",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55316,
+			"friends_count": 9,
+			"listed_count": 2396,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "부천국제판타스틱영화제, 왓챠에서 보세요 https://t.co/p4XLhuEFWj"
+	},
+	{
+		"created_at": "Wed Jun 10 21:20:05 +0000 2020",
+		"id": 1270635757036662800,
+		"id_str": "1270828104173285376",
+		"full_text": "프라이버시 침해 막는 코로나19 추적 앱 나온다 https://t.co/6tnSSSJNih",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6tnSSSJNih",
+					"expanded_url": "http://www.bloter.net/archives/388776",
+					"display_url": "bloter.net/archives/388776",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55316,
+			"friends_count": 9,
+			"listed_count": 2396,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프라이버시 침해 막는 코로나19 추적 앱 나온다 https://t.co/6tnSSSJNih"
+	},
+	{
 		"created_at": "Wed Jun 10 20:31:17 +0000 2020",
 		"id": 1270342744506945500,
 		"id_str": "1270815824840781824",
@@ -339,7 +1859,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
