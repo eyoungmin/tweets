@@ -1,10 +1,210 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 06:59:17 +0000 2020",
+		"id": 1270973865280393200,
+		"id_str": "1270973865280393216",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n美 빌보드 “블랙핑크 26일 컴백, 기대 높아..YG 발표대로 모든 것이 잘 되고 있어”\nhttps://t.co/FCU7odUvWH\n#블랙핑크 #BLACKPINK https://t.co/pDT9Aq0Mk1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FCU7odUvWH",
+					"expanded_url": "https://yg-life.com/archives/156009?lang=ko",
+					"display_url": "yg-life.com/archives/15600…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270973864173060000,
+					"id_str": "1270973864173060096",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EaNn_tzXQAAMeh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaNn_tzXQAAMeh3.jpg",
+					"url": "https://t.co/pDT9Aq0Mk1",
+					"display_url": "pic.twitter.com/pDT9Aq0Mk1",
+					"expanded_url": "https://twitter.com/fromminn/status/1270973865280393216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270973864173060000,
+					"id_str": "1270973864173060096",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EaNn_tzXQAAMeh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaNn_tzXQAAMeh3.jpg",
+					"url": "https://t.co/pDT9Aq0Mk1",
+					"display_url": "pic.twitter.com/pDT9Aq0Mk1",
+					"expanded_url": "https://twitter.com/fromminn/status/1270973865280393216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 927,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n美 빌보드 “블랙핑크 26일 컴백, 기대 높아..YG 발표대로 모든 것이 잘 되고 있어”\nhttps://t.co/FCU7odUvWH\n#블랙핑크 #BLACKPINK https://t.co/pDT9Aq0Mk1"
+	},
+	{
 		"created_at": "Thu Jun 11 05:52:16 +0000 2020",
 		"id": 1270946338348257300,
 		"id_str": "1270956997517721600",
-		"full_text": "📸 청하 “Be Yourself” MV.#SnapShot \n\n🍈 https://t.co/wcvmH02TGp\n🧞‍♂️ https://t.co/zDEzd0qD68\n💟 https://t.co/3LzTuTuGS3\n▶️ https://t.co/2qV2zu2Cvu\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite @CokeCaster \n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려 https://t.co/qgMzHCkxBh",
+		"full_text": "📸 청하 “Be Yourself” MV.#SnapShot \n\n🍈 https://t.co/wcvmH02TGp\n🧞♂️ https://t.co/zDEzd0qD68\n💟 https://t.co/3LzTuTuGS3\n▶️ https://t.co/2qV2zu2Cvu\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite @CokeCaster \n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려 https://t.co/qgMzHCkxBh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -392,7 +592,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "📸 청하 “Be Yourself” MV.#SnapShot \n\n🍈 https://t.co/wcvmH02TGp\n🧞‍♂️ https://t.co/zDEzd0qD68\n💟 https://t.co/3LzTuTuGS3\n▶️ https://t.co/2qV2zu2Cvu\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite @CokeCaster \n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려 https://t.co/qgMzHCkxBh"
+		"text": "📸 청하 “Be Yourself” MV.#SnapShot \n\n🍈 https://t.co/wcvmH02TGp\n🧞♂️ https://t.co/zDEzd0qD68\n💟 https://t.co/3LzTuTuGS3\n▶️ https://t.co/2qV2zu2Cvu\n\n#청하 #CHUNGHA\n#스프라이트 #Sprite @CokeCaster \n#뉴웨이브 #Be_Yourself\n#네안의모든너 #거침없이터트려버려 https://t.co/qgMzHCkxBh"
 	},
 	{
 		"created_at": "Thu Jun 11 03:52:13 +0000 2020",
