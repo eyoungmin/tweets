@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 16:35:30 +0000 2020",
+		"id": 1271118874432471000,
+		"id_str": "1271118874432471041",
+		"full_text": "아녜스 바르다, 일상이 예술이 될 때\nhttps://t.co/7ZIc82oxhR\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ZIc82oxhR",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20296689",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 928,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아녜스 바르다, 일상이 예술이 될 때\nhttps://t.co/7ZIc82oxhR\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Thu Jun 11 16:35:29 +0000 2020",
+		"id": 1271118871047667700,
+		"id_str": "1271118871047667718",
+		"full_text": "가난한 화가의 사랑법\nhttps://t.co/pOfpQrrj1U\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pOfpQrrj1U",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20296687",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 928,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가난한 화가의 사랑법\nhttps://t.co/pOfpQrrj1U\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Thu Jun 11 16:35:28 +0000 2020",
+		"id": 1271118867738263600,
+		"id_str": "1271118867738263558",
+		"full_text": "내 그림은 몇 살인가요? 2부 - 맛있는 티보\nhttps://t.co/0MOT0IAbri\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0MOT0IAbri",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20296685",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 928,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 그림은 몇 살인가요? 2부 - 맛있는 티보\nhttps://t.co/0MOT0IAbri\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Thu Jun 11 16:35:28 +0000 2020",
+		"id": 1271118866438111200,
+		"id_str": "1271118866438111233",
+		"full_text": "내 그림은 몇 살인가요? 1부 - 다시 해보겠습니다\nhttps://t.co/PFJjeskSpn\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFJjeskSpn",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20296683",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 928,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 그림은 몇 살인가요? 1부 - 다시 해보겠습니다\nhttps://t.co/PFJjeskSpn\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Thu Jun 11 16:35:28 +0000 2020",
+		"id": 1271118865184034800,
+		"id_str": "1271118865184034816",
+		"full_text": "마술사의 완벽한 마법\nhttps://t.co/oAigd03S3V\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oAigd03S3V",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20296681",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 928,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마술사의 완벽한 마법\nhttps://t.co/oAigd03S3V\n#지식채널e #EBS #minfav"
+	},
+	{
 		"created_at": "Thu Jun 11 15:30:08 +0000 2020",
 		"id": 1271099872884768800,
 		"id_str": "1271102423147229186",
