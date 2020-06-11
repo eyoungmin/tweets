@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 12:52:13 +0000 2020",
+		"id": 1271058381978009600,
+		"id_str": "1271062681156489218",
+		"full_text": "#BLACKPINK '마지막처럼 (AS IF IT'S YOUR LAST)' M/V HITS 800 MILLION VIEWS @YouTube\n\nBLINKs worldwide, thank you so much!\n\n '마지막처럼 (AS IF IT'S YOUR LAST)' M/V\n🎥 https://t.co/k3ySJgSqpU\n\n#블랙핑크 #ASIFITSYOURLAST #마지막처럼 #MV #800MILLION #YOUTUBE #YG https://t.co/Gx3r6zpQVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "ASIFITSYOURLAST",
+					"indices": [
+						186,
+						202
+					]
+				},
+				{
+					"text": "마지막처럼",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "800MILLION",
+					"indices": [
+						214,
+						225
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						226,
+						234
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						235,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k3ySJgSqpU",
+					"expanded_url": "https://youtu.be/Amq-qlqbjYA",
+					"display_url": "youtu.be/Amq-qlqbjYA",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271040985565261800,
+					"id_str": "1271040985565261824",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOlCseUcAAm-mt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOlCseUcAAm-mt.jpg",
+					"url": "https://t.co/Gx3r6zpQVN",
+					"display_url": "pic.twitter.com/Gx3r6zpQVN",
+					"expanded_url": "https://twitter.com/ygent_official/status/1271058381978009601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271040985565261800,
+					"id_str": "1271040985565261824",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOlCseUcAAm-mt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOlCseUcAAm-mt.jpg",
+					"url": "https://t.co/Gx3r6zpQVN",
+					"display_url": "pic.twitter.com/Gx3r6zpQVN",
+					"expanded_url": "https://twitter.com/ygent_official/status/1271058381978009601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6091218,
+			"friends_count": 37,
+			"listed_count": 6252,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12947,
+		"favorite_count": 30887,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK '마지막처럼 (AS IF IT'S YOUR LAST)' M/V HITS 800 MILLION VIEWS @YouTube\n\nBLINKs worldwide, thank you so much!\n\n '마지막처럼 (AS IF IT'S YOUR LAST)' M/V\n🎥 https://t.co/k3ySJgSqpU\n\n#블랙핑크 #ASIFITSYOURLAST #마지막처럼 #MV #800MILLION #YOUTUBE #YG https://t.co/Gx3r6zpQVN"
+	},
+	{
+		"created_at": "Thu Jun 11 12:45:46 +0000 2020",
+		"id": 1271049546999697400,
+		"id_str": "1271061058564894720",
+		"full_text": "[KCON:TACT 2020 SUMMER] MEMBERS ONLY CONTENT\n@loonatheworld is officially starring in Real Idol 24hr!\n\n#MnetKpopYouTube members get the first look at the series TOMORROW at 20:00 KST, so join #KCONTACT right now!\n\n▶JOIN NOW: https://t.co/6hLEbWO1pl\n#LOONA #KCON2020 #LetsKCON247 https://t.co/QLmUC7DC8b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MnetKpopYouTube",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						249,
+						255
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						256,
+						265
+					]
+				},
+				{
+					"text": "LetsKCON247",
+					"indices": [
+						266,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6hLEbWO1pl",
+					"expanded_url": "http://youtube.com/Mnet/JOIN",
+					"display_url": "youtube.com/Mnet/JOIN",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271047163879895000,
+					"id_str": "1271047163879895040",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271047163879895040/pu/img/MMvFG30knPluPOoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271047163879895040/pu/img/MMvFG30knPluPOoP.jpg",
+					"url": "https://t.co/QLmUC7DC8b",
+					"display_url": "pic.twitter.com/QLmUC7DC8b",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1271049546999697412/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271047163879895000,
+					"id_str": "1271047163879895040",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271047163879895040/pu/img/MMvFG30knPluPOoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271047163879895040/pu/img/MMvFG30knPluPOoP.jpg",
+					"url": "https://t.co/QLmUC7DC8b",
+					"display_url": "pic.twitter.com/QLmUC7DC8b",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1271049546999697412/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 78011,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1271047163879895040/pu/pl/7G9MFM7n-r5pjy1B.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271047163879895040/pu/vid/480x270/U95OKQRqsWte9SSJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271047163879895040/pu/vid/640x360/AlrH_SHX9xkvdOnB.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271047163879895040/pu/vid/1280x720/YIQdIqsezUOmh-ao.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "LET'S KCON! Welcome to KCON :)",
+			"url": "https://t.co/vgtSskmfAh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vgtSskmfAh",
+							"expanded_url": "https://www.youtube.com/Mnet/join",
+							"display_url": "youtube.com/Mnet/join",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242818,
+			"friends_count": 127,
+			"listed_count": 813,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1590630440",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 500,
+		"favorite_count": 902,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT 2020 SUMMER] MEMBERS ONLY CONTENT\n@loonatheworld is officially starring in Real Idol 24hr!\n\n#MnetKpopYouTube members get the first look at the series TOMORROW at 20:00 KST, so join #KCONTACT right now!\n\n▶JOIN NOW: https://t.co/6hLEbWO1pl\n#LOONA #KCON2020 #LetsKCON247 https://t.co/QLmUC7DC8b"
+	},
+	{
 		"created_at": "Thu Jun 11 11:52:12 +0000 2020",
 		"id": 1271032573209141200,
 		"id_str": "1271047581238464513",
