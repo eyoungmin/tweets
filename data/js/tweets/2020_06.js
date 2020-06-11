@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 23:12:34 +0000 2020",
+		"id": 1270828425016742000,
+		"id_str": "1270856411983970305",
+		"full_text": "Happy #PRIDE2020 Sending love x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PRIDE2020",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270828191880487000,
+		"in_reply_to_status_id_str": "1270828191880486915",
+		"in_reply_to_user_id": 166739404,
+		"in_reply_to_user_id_str": "166739404",
+		"in_reply_to_screen_name": "EmmaWatson",
+		"user": {
+			"id": 166739404,
+			"id_str": "166739404",
+			"name": "Emma Watson",
+			"screen_name": "EmmaWatson",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/TJQDRYQffQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TJQDRYQffQ",
+							"expanded_url": "https://blacklivesmatters.carrd.co/#",
+							"display_url": "blacklivesmatters.carrd.co/#",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29178320,
+			"friends_count": 399,
+			"listed_count": 41667,
+			"created_at": "Wed Jul 14 22:06:37 +0000 2010",
+			"favourites_count": 1157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118568743930671104/hsZlOfBo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118568743930671104/hsZlOfBo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166739404/1520706832",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3476,
+		"favorite_count": 42490,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Happy #PRIDE2020 Sending love x"
+	},
+	{
+		"created_at": "Wed Jun 10 23:12:33 +0000 2020",
+		"id": 1270828191880487000,
+		"id_str": "1270856407936405505",
+		"full_text": "I donate to @Mermaids_Gender and @mamacash. If you can, perhaps you’ll feel inclined to do the same. ❤️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mermaids_Gender",
+					"name": "Mermaids",
+					"id": 2199786713,
+					"id_str": "2199786713",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "mamacash",
+					"name": "Mama Cash",
+					"id": 62498360,
+					"id_str": "62498360",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270827488915214300,
+		"in_reply_to_status_id_str": "1270827488915214338",
+		"in_reply_to_user_id": 166739404,
+		"in_reply_to_user_id_str": "166739404",
+		"in_reply_to_screen_name": "EmmaWatson",
+		"user": {
+			"id": 166739404,
+			"id_str": "166739404",
+			"name": "Emma Watson",
+			"screen_name": "EmmaWatson",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/TJQDRYQffQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TJQDRYQffQ",
+							"expanded_url": "https://blacklivesmatters.carrd.co/#",
+							"display_url": "blacklivesmatters.carrd.co/#",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29178320,
+			"friends_count": 399,
+			"listed_count": 41667,
+			"created_at": "Wed Jul 14 22:06:37 +0000 2010",
+			"favourites_count": 1157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118568743930671104/hsZlOfBo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118568743930671104/hsZlOfBo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166739404/1520706832",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2213,
+		"favorite_count": 35517,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I donate to @Mermaids_Gender and @mamacash. If you can, perhaps you’ll feel inclined to do the same. ❤️"
+	},
+	{
+		"created_at": "Wed Jun 10 23:12:05 +0000 2020",
+		"id": 1270827488915214300,
+		"id_str": "1270856288528785409",
+		"full_text": "I want my trans followers to know that I and so many other people around the world see you, respect you and love you for who you are.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270826851070619600,
+		"in_reply_to_status_id_str": "1270826851070619649",
+		"in_reply_to_user_id": 166739404,
+		"in_reply_to_user_id_str": "166739404",
+		"in_reply_to_screen_name": "EmmaWatson",
+		"user": {
+			"id": 166739404,
+			"id_str": "166739404",
+			"name": "Emma Watson",
+			"screen_name": "EmmaWatson",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/TJQDRYQffQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TJQDRYQffQ",
+							"expanded_url": "https://blacklivesmatters.carrd.co/#",
+							"display_url": "blacklivesmatters.carrd.co/#",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29178320,
+			"friends_count": 399,
+			"listed_count": 41667,
+			"created_at": "Wed Jul 14 22:06:37 +0000 2010",
+			"favourites_count": 1157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118568743930671104/hsZlOfBo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118568743930671104/hsZlOfBo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166739404/1520706832",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6831,
+		"favorite_count": 72199,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I want my trans followers to know that I and so many other people around the world see you, respect you and love you for who you are."
+	},
+	{
+		"created_at": "Wed Jun 10 23:12:02 +0000 2020",
+		"id": 1270826851070619600,
+		"id_str": "1270856279108358144",
+		"full_text": "Trans people are who they say they are and deserve to live their lives without being constantly questioned or told they aren’t who they say they are.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166739404,
+			"id_str": "166739404",
+			"name": "Emma Watson",
+			"screen_name": "EmmaWatson",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/TJQDRYQffQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TJQDRYQffQ",
+							"expanded_url": "https://blacklivesmatters.carrd.co/#",
+							"display_url": "blacklivesmatters.carrd.co/#",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29178320,
+			"friends_count": 399,
+			"listed_count": 41667,
+			"created_at": "Wed Jul 14 22:06:37 +0000 2010",
+			"favourites_count": 1157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118568743930671104/hsZlOfBo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118568743930671104/hsZlOfBo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166739404/1520706832",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65617,
+		"favorite_count": 333619,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Trans people are who they say they are and deserve to live their lives without being constantly questioned or told they aren’t who they say they are."
+	},
+	{
+		"created_at": "Wed Jun 10 23:10:53 +0000 2020",
+		"id": 1270846949617315800,
+		"id_str": "1270855989105844225",
+		"full_text": "EU “구글·페이스북·트위터, 가짜뉴스 대책 월단위 보고하라” https://t.co/2DDwGaRq9u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2DDwGaRq9u",
+					"expanded_url": "http://www.bloter.net/archives/389486",
+					"display_url": "bloter.net/archives/389486",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55319,
+			"friends_count": 9,
+			"listed_count": 2397,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EU “구글·페이스북·트위터, 가짜뉴스 대책 월단위 보고하라” https://t.co/2DDwGaRq9u"
+	},
+	{
 		"created_at": "Wed Jun 10 21:27:56 +0000 2020",
 		"id": 1270773022794805200,
 		"id_str": "1270830081309638657",
