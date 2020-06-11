@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 09:52:13 +0000 2020",
+		"id": 1271015834144522200,
+		"id_str": "1271017383096995841",
+		"full_text": "📢국립극단 이야기마당6\n&lt;코로나 이후의 공연예술-이제 어떻게 연극하지?&gt;\n국립극단이 급변하는 세계 속에서 기존 공연예술의 방식을 재점검하고 미래 연극의 새로운 표준, 뉴노멀을 고민하기 위한 이야기마당을 마련합니다. 프로그램 중 일부는 예술경영 웹진에 기사 게재할 예정이니 기대해주세요! https://t.co/HdsbghtIHq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HdsbghtIHq",
+					"expanded_url": "https://twitter.com/NTCK_/status/1270626182900269056",
+					"display_url": "twitter.com/NTCK_/status/1…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6713,
+			"friends_count": 3036,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270626182900269000,
+		"quoted_status_id_str": "1270626182900269056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HdsbghtIHq",
+			"expanded": "https://twitter.com/NTCK_/status/1270626182900269056",
+			"display": "twitter.com/NTCK_/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 10 07:57:43 +0000 2020",
+			"id": 1270626182900269000,
+			"id_str": "1270626182900269056",
+			"full_text": "📣국립극단 이야기마당 6\n&lt;코로나 이후의 공연예술-이제 어떻게 연극하지?&gt; 강연 안내\n⠀\n📍6월 12일(금) 오후 2시 티켓 예약 개시\n📍1인 1매 예약, 선착순 입장\n* 생활 속 거리 두기 지침에 따라 '한 칸씩 띄어앉기'로 좌석을 운영합니다.\n🏠자세한 사항\n\nhttps://t.co/KSqC0WUZN5? https://t.co/iOxEixYRYk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KSqC0WUZN5",
+						"expanded_url": "http://www.ntck.or.kr/ko/content/board/notice/44452/form",
+						"display_url": "ntck.or.kr/ko/content/boa…",
+						"indices": [
+							153,
+							176
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1270626075211493400,
+						"id_str": "1270626075211493376",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EaIrru9UcAAVYBN.png",
+						"media_url_https": "https://pbs.twimg.com/media/EaIrru9UcAAVYBN.png",
+						"url": "https://t.co/iOxEixYRYk",
+						"display_url": "pic.twitter.com/iOxEixYRYk",
+						"expanded_url": "https://twitter.com/NTCK_/status/1270626182900269056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270626075211493400,
+						"id_str": "1270626075211493376",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EaIrru9UcAAVYBN.png",
+						"media_url_https": "https://pbs.twimg.com/media/EaIrru9UcAAVYBN.png",
+						"url": "https://t.co/iOxEixYRYk",
+						"display_url": "pic.twitter.com/iOxEixYRYk",
+						"expanded_url": "https://twitter.com/NTCK_/status/1270626182900269056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1270626075211489300,
+						"id_str": "1270626075211489280",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EaIrru9UYAAIfYR.png",
+						"media_url_https": "https://pbs.twimg.com/media/EaIrru9UYAAIfYR.png",
+						"url": "https://t.co/iOxEixYRYk",
+						"display_url": "pic.twitter.com/iOxEixYRYk",
+						"expanded_url": "https://twitter.com/NTCK_/status/1270626182900269056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1270626075215708200,
+						"id_str": "1270626075215708160",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EaIrru-UwAA_UkB.png",
+						"media_url_https": "https://pbs.twimg.com/media/EaIrru-UwAA_UkB.png",
+						"url": "https://t.co/iOxEixYRYk",
+						"display_url": "pic.twitter.com/iOxEixYRYk",
+						"expanded_url": "https://twitter.com/NTCK_/status/1270626182900269056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1270626075215716400,
+						"id_str": "1270626075215716354",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EaIrru-U4AIxzPo.png",
+						"media_url_https": "https://pbs.twimg.com/media/EaIrru-U4AIxzPo.png",
+						"url": "https://t.co/iOxEixYRYk",
+						"display_url": "pic.twitter.com/iOxEixYRYk",
+						"expanded_url": "https://twitter.com/NTCK_/status/1270626182900269056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226819495,
+				"id_str": "226819495",
+				"name": "국립극단 National Theater Company of Korea",
+				"screen_name": "NTCK_",
+				"location": "Seoul KOREA",
+				"description": "명동예술극장 / 백성희장민호극장 / 소극장 판",
+				"url": "https://t.co/8rq59bjJgr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8rq59bjJgr",
+								"expanded_url": "http://www.ntck.or.kr",
+								"display_url": "ntck.or.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8157,
+				"friends_count": 4097,
+				"listed_count": 108,
+				"created_at": "Wed Dec 15 04:42:53 +0000 2010",
+				"favourites_count": 110,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5358,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C29932",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160798818977247232/TKusMqlE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160798818977247232/TKusMqlE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226819495/1565333757",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C9AE41",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢국립극단 이야기마당6\n&lt;코로나 이후의 공연예술-이제 어떻게 연극하지?&gt;\n국립극단이 급변하는 세계 속에서 기존 공연예술의 방식을 재점검하고 미래 연극의 새로운 표준, 뉴노멀을 고민하기 위한 이야기마당을 마련합니다. 프로그램 중 일부는 예술경영 웹진에 기사 게재할 예정이니 기대해주세요! https://t.co/HdsbghtIHq"
+	},
+	{
 		"created_at": "Thu Jun 11 08:35:44 +0000 2020",
 		"id": 1270989203577245700,
 		"id_str": "1270998136949891072",
