@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 15:30:08 +0000 2020",
+		"id": 1271099872884768800,
+		"id_str": "1271102423147229186",
+		"full_text": "'스벅공부' 사라지나…스타벅스, 매장 내 테이블 치운다\nhttps://t.co/9AiZxIwyop\n\n스타벅스가 신종 코로나바이러스 감염증(코로나19) 대응을 위해 미국 내 매장에서 테이블 치우기로 했습니다 https://t.co/t28ygLS13G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9AiZxIwyop",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200611063900009?input=tw",
+					"display_url": "yna.co.kr/view/AKR202006…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270946995524386800,
+					"id_str": "1270946995524386816",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EaNPjwSUwAAUAtL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaNPjwSUwAAUAtL.jpg",
+					"url": "https://t.co/t28ygLS13G",
+					"display_url": "pic.twitter.com/t28ygLS13G",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1271099872884768769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270946995524386800,
+					"id_str": "1270946995524386816",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EaNPjwSUwAAUAtL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaNPjwSUwAAUAtL.jpg",
+					"url": "https://t.co/t28ygLS13G",
+					"display_url": "pic.twitter.com/t28ygLS13G",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1271099872884768769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314520,
+			"friends_count": 70482,
+			"listed_count": 4486,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 214277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'스벅공부' 사라지나…스타벅스, 매장 내 테이블 치운다\nhttps://t.co/9AiZxIwyop\n\n스타벅스가 신종 코로나바이러스 감염증(코로나19) 대응을 위해 미국 내 매장에서 테이블 치우기로 했습니다 https://t.co/t28ygLS13G"
+	},
+	{
 		"created_at": "Thu Jun 11 15:16:38 +0000 2020",
 		"id": 1271099024863608800,
 		"id_str": "1271099024863608835",
