@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 15:16:38 +0000 2020",
+		"id": 1271099024863608800,
+		"id_str": "1271099024863608835",
+		"full_text": "#서늘한마음썰 #마음썰\n154화_서늘썰 프라이드 with 이제괜찮아님\nhttps://t.co/XHP6lOrueV\n\n#서밤 #블블 #봄봄\n#팟캐스트 #Podcast",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서늘한마음썰",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "마음썰",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "서밤",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "블블",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "봄봄",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "Podcast",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XHP6lOrueV",
+					"expanded_url": "http://kbspodcastad.kbs.co.kr/cgi-bin/podcast.fcgi/kbsaod/I0000-1902/I0000-1902_S000_20200612_PI-1591834584-73-3AA_00_00_99_M3A30012.mp3",
+					"display_url": "kbspodcastad.kbs.co.kr/cgi-bin/podcas…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 928,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서늘한마음썰 #마음썰\n154화_서늘썰 프라이드 with 이제괜찮아님\nhttps://t.co/XHP6lOrueV\n\n#서밤 #블블 #봄봄\n#팟캐스트 #Podcast"
+	},
+	{
+		"created_at": "Thu Jun 11 15:03:03 +0000 2020",
+		"id": 1270669043221926000,
+		"id_str": "1271095607533268992",
+		"full_text": "패션잡지들이 이전의 1/3, 1/4 로 얇아졌다. spur, elle, vogue 까지 이런두께는 세상 처음보는 두께이다.\n업계의 참담함이 담겨있다. 😔 \n우리는 이제 코로나 이전으로는 못돌아 가는것이다. https://t.co/OvPNoiUopf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270669038507552800,
+					"id_str": "1270669038507552768",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EaJSwhtUcAA_-ee.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaJSwhtUcAA_-ee.jpg",
+					"url": "https://t.co/OvPNoiUopf",
+					"display_url": "pic.twitter.com/OvPNoiUopf",
+					"expanded_url": "https://twitter.com/js_tokyo/status/1270669043221925888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270669038507552800,
+					"id_str": "1270669038507552768",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EaJSwhtUcAA_-ee.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaJSwhtUcAA_-ee.jpg",
+					"url": "https://t.co/OvPNoiUopf",
+					"display_url": "pic.twitter.com/OvPNoiUopf",
+					"expanded_url": "https://twitter.com/js_tokyo/status/1270669043221925888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 229102412,
+			"id_str": "229102412",
+			"name": "js",
+			"screen_name": "js_tokyo",
+			"location": "도쿄. ",
+			"description": "텍스타일 디자이너. 지금은 도쿄. 사랑하는이의 아내.",
+			"url": "https://t.co/SqeKGnM1OS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SqeKGnM1OS",
+							"expanded_url": "http://facebook.com/jeesoo.kim.129",
+							"display_url": "facebook.com/jeesoo.kim.129",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3021,
+			"friends_count": 958,
+			"listed_count": 20,
+			"created_at": "Tue Dec 21 14:40:21 +0000 2010",
+			"favourites_count": 8545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221994748946214912/Kx26Iu2__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221994748946214912/Kx26Iu2__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/229102412/1588681548",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 703,
+		"favorite_count": 362,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "패션잡지들이 이전의 1/3, 1/4 로 얇아졌다. spur, elle, vogue 까지 이런두께는 세상 처음보는 두께이다.\n업계의 참담함이 담겨있다. 😔 \n우리는 이제 코로나 이전으로는 못돌아 가는것이다. https://t.co/OvPNoiUopf"
+	},
+	{
+		"created_at": "Thu Jun 11 15:02:48 +0000 2020",
+		"id": 1270706921058730000,
+		"id_str": "1271095545767972864",
+		"full_text": "안녕 여러분, 제가 @publy_ 와 글을 하나 더 썼어요. 이런 커리어 조언은 처음 써봐서 많이 서툴었는데, 퍼블리의 컨텐츠 매니저님이 많이 도와주셔서 괜찮은 글이 나온 것 같아요. 주제는 싫은 사람과 함께 일하는 법입니다 :) https://t.co/DPgNSJGEPW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "publy_",
+					"name": "퍼블리 | PUBLY",
+					"id": 3161247421,
+					"id_str": "3161247421",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DPgNSJGEPW",
+					"expanded_url": "https://publy.co/content/4666?c_order=1&c_id=87&fr=home",
+					"display_url": "publy.co/content/4666?c…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224426193,
+			"id_str": "224426193",
+			"name": "린다",
+			"screen_name": "01082007agua",
+			"location": "",
+			"description": "전진하는 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 232,
+			"listed_count": 13,
+			"created_at": "Thu Dec 09 00:03:48 +0000 2010",
+			"favourites_count": 51518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903805525154033664/BTAVfyZ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903805525154033664/BTAVfyZ0_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 248,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕 여러분, 제가 @publy_ 와 글을 하나 더 썼어요. 이런 커리어 조언은 처음 써봐서 많이 서툴었는데, 퍼블리의 컨텐츠 매니저님이 많이 도와주셔서 괜찮은 글이 나온 것 같아요. 주제는 싫은 사람과 함께 일하는 법입니다 :) https://t.co/DPgNSJGEPW"
+	},
+	{
+		"created_at": "Thu Jun 11 15:02:17 +0000 2020",
+		"id": 1270908321432694800,
+		"id_str": "1271095415522250753",
+		"full_text": "BTS부터 아이즈원까지…블립, ‘내 손안의 덕메이트’ 정식 출시 https://t.co/bLM76d5Kif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bLM76d5Kif",
+					"expanded_url": "http://www.bloter.net/archives/389592",
+					"display_url": "bloter.net/archives/389592",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55314,
+			"friends_count": 9,
+			"listed_count": 2396,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BTS부터 아이즈원까지…블립, ‘내 손안의 덕메이트’ 정식 출시 https://t.co/bLM76d5Kif"
+	},
+	{
 		"created_at": "Thu Jun 11 15:00:13 +0000 2020",
 		"id": 1270732136849346600,
 		"id_str": "1271094896418422784",
