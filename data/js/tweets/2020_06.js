@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 10:56:32 +0000 2020",
+		"id": 1271395959797358600,
+		"id_str": "1271395959797358592",
+		"full_text": "#가온차트 #Gaon_Chart\nGAON's 관찰노트 (2020.06.12)\nhttps://t.co/63KYGFTUX5\n#Gaon #Opinion #minfav https://t.co/XbHcMSUwU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Gaon_Chart",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/63KYGFTUX5",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=17091&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271395958199406600,
+					"id_str": "1271395958199406592",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTn40lX0AAPYOY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaTn40lX0AAPYOY.png",
+					"url": "https://t.co/XbHcMSUwU1",
+					"display_url": "pic.twitter.com/XbHcMSUwU1",
+					"expanded_url": "https://twitter.com/fromminn/status/1271395959797358592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271395958199406600,
+					"id_str": "1271395958199406592",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTn40lX0AAPYOY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaTn40lX0AAPYOY.png",
+					"url": "https://t.co/XbHcMSUwU1",
+					"display_url": "pic.twitter.com/XbHcMSUwU1",
+					"expanded_url": "https://twitter.com/fromminn/status/1271395959797358592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 928,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #Gaon_Chart\nGAON's 관찰노트 (2020.06.12)\nhttps://t.co/63KYGFTUX5\n#Gaon #Opinion #minfav https://t.co/XbHcMSUwU1"
+	},
+	{
+		"created_at": "Fri Jun 12 10:45:44 +0000 2020",
+		"id": 1271389280410067000,
+		"id_str": "1271393238801358849",
+		"full_text": "[KCON:TACT 2020 SUMMER] REAL IDOL 24HR MEMBERS ONLY\nReal Idol 24hr starring @loonatheworld and @too_offcl is starting for members NOW!\n\nGo to #MnetKpopYouTube and join to watch!\n\n▶ #KCONTACT JOIN NOW: https://t.co/cHWmhYMDwd\n#LOONA #TOO #KCON2020 #LetsKCON247 https://t.co/Q0ZAGq6g4X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MnetKpopYouTube",
+					"indices": [
+						142,
+						158
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "TOO",
+					"indices": [
+						232,
+						236
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "LetsKCON247",
+					"indices": [
+						247,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "too_offcl",
+					"name": "TOO Official",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cHWmhYMDwd",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271146737458016300,
+					"id_str": "1271146737458016256",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EaQFOQ-U8AAR7Ew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaQFOQ-U8AAR7Ew.jpg",
+					"url": "https://t.co/Q0ZAGq6g4X",
+					"display_url": "pic.twitter.com/Q0ZAGq6g4X",
+					"expanded_url": "https://twitter.com/kconusa/status/1271389280410066945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271146737458016300,
+					"id_str": "1271146737458016256",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EaQFOQ-U8AAR7Ew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaQFOQ-U8AAR7Ew.jpg",
+					"url": "https://t.co/Q0ZAGq6g4X",
+					"display_url": "pic.twitter.com/Q0ZAGq6g4X",
+					"expanded_url": "https://twitter.com/kconusa/status/1271389280410066945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186992,
+			"friends_count": 3,
+			"listed_count": 381,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1590694428",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT 2020 SUMMER] REAL IDOL 24HR MEMBERS ONLY\nReal Idol 24hr starring @loonatheworld and @too_offcl is starting for members NOW!\n\nGo to #MnetKpopYouTube and join to watch!\n\n▶ #KCONTACT JOIN NOW: https://t.co/cHWmhYMDwd\n#LOONA #TOO #KCON2020 #LetsKCON247 https://t.co/Q0ZAGq6g4X"
+	},
+	{
+		"created_at": "Fri Jun 12 10:45:36 +0000 2020",
+		"id": 1271389279692841000,
+		"id_str": "1271393208560484356",
+		"full_text": "[KCON:TACT 2020 SUMMER] REAL IDOL 24HR MEMBERS ONLY\nReal Idol 24hr starring @loonatheworld and @too_offcl is starting for members shortly!\n\nGo to #MnetKpopYouTube and join to watch!\n\n▶ JOIN NOW: https://t.co/r2LY9mGrzA\n#KCONTACT #KCON #LOONA #TOO #KCON2020 #LetsKCON247 https://t.co/Z9LYeGWkzg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MnetKpopYouTube",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						229,
+						234
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						235,
+						241
+					]
+				},
+				{
+					"text": "TOO",
+					"indices": [
+						242,
+						246
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						247,
+						256
+					]
+				},
+				{
+					"text": "LetsKCON247",
+					"indices": [
+						257,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "too_offcl",
+					"name": "TOO Official",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271359107476254700,
+					"id_str": "1271359107476254720",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTGX08UcAAMUqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTGX08UcAAMUqL.jpg",
+					"url": "https://t.co/Z9LYeGWkzg",
+					"display_url": "pic.twitter.com/Z9LYeGWkzg",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1271389279692840960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271359107476254700,
+					"id_str": "1271359107476254720",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTGX08UcAAMUqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTGX08UcAAMUqL.jpg",
+					"url": "https://t.co/Z9LYeGWkzg",
+					"display_url": "pic.twitter.com/Z9LYeGWkzg",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1271389279692840960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "LET'S KCON! Welcome to KCON :)",
+			"url": "https://t.co/vgtSskmfAh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vgtSskmfAh",
+							"expanded_url": "https://www.youtube.com/Mnet/join",
+							"display_url": "youtube.com/Mnet/join",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243989,
+			"friends_count": 127,
+			"listed_count": 815,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1590630440",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT 2020 SUMMER] REAL IDOL 24HR MEMBERS ONLY\nReal Idol 24hr starring @loonatheworld and @too_offcl is starting for members shortly!\n\nGo to #MnetKpopYouTube and join to watch!\n\n▶ JOIN NOW: https://t.co/r2LY9mGrzA\n#KCONTACT #KCON #LOONA #TOO #KCON2020 #LetsKCON247 https://t.co/Z9LYeGWkzg"
+	},
+	{
 		"created_at": "Fri Jun 12 09:52:28 +0000 2020",
 		"id": 1271276033908469800,
 		"id_str": "1271379835487748106",
