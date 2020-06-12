@@ -1,6 +1,742 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 00:44:13 +0000 2020",
+		"id": 1270937646672429000,
+		"id_str": "1271241862917967873",
+		"full_text": "Giant bubbles keep @theflaminglips at a safe social distance for this performance of “Race For the Prize” #PlayAtHome https://t.co/kJfZch8uQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayAtHome",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theflaminglips",
+					"name": "The Flaming Lips",
+					"id": 18057465,
+					"id_str": "18057465",
+					"indices": [
+						19,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270892928769155000,
+					"id_str": "1270892928769155074",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EaMhNLCWoAM1_AO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaMhNLCWoAM1_AO.jpg",
+					"url": "https://t.co/kJfZch8uQz",
+					"display_url": "pic.twitter.com/kJfZch8uQz",
+					"expanded_url": "https://twitter.com/colbertlateshow/status/1270937646672429056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270892928769155000,
+					"id_str": "1270892928769155074",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EaMhNLCWoAM1_AO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaMhNLCWoAM1_AO.jpg",
+					"url": "https://t.co/kJfZch8uQz",
+					"display_url": "pic.twitter.com/kJfZch8uQz",
+					"expanded_url": "https://twitter.com/colbertlateshow/status/1270937646672429056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 295762,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270892928769155074/vid/640x360/ot7hcSsROAimI3U5.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270892928769155074/vid/480x270/C1zm2dYjXeUj0S-g.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1270892928769155074/pl/7XY47x8KXtNmJjg-.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270892928769155074/vid/1280x720/Q4qr0lPSN_7_Iv3E.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2835886194,
+			"id_str": "2835886194",
+			"name": "A Late Show",
+			"screen_name": "colbertlateshow",
+			"location": "Weeknights | 11:35/10:35c",
+			"description": "Darrylgorn Fan Account. Official feed of A Late Show with @StephenAtHome on @CBS #LSSC",
+			"url": "https://t.co/YTzFH21e5t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YTzFH21e5t",
+							"expanded_url": "http://colbertlateshow.com",
+							"display_url": "colbertlateshow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802003,
+			"friends_count": 1438,
+			"listed_count": 3491,
+			"created_at": "Tue Sep 30 17:13:22 +0000 2014",
+			"favourites_count": 12216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250611707468304384/0_Ugvml0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250611707468304384/0_Ugvml0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2835886194/1589416884",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1130,
+		"favorite_count": 2725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Giant bubbles keep @theflaminglips at a safe social distance for this performance of “Race For the Prize” #PlayAtHome https://t.co/kJfZch8uQz"
+	},
+	{
+		"created_at": "Fri Jun 12 00:42:13 +0000 2020",
+		"id": 1271235603087028200,
+		"id_str": "1271241361623150593",
+		"full_text": "어도비 ‘포토샵 카메라’ 나왔다 https://t.co/sxV3Or5UH6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sxV3Or5UH6",
+					"expanded_url": "http://www.bloter.net/archives/389744",
+					"display_url": "bloter.net/archives/389744",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55313,
+			"friends_count": 9,
+			"listed_count": 2395,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어도비 ‘포토샵 카메라’ 나왔다 https://t.co/sxV3Or5UH6"
+	},
+	{
+		"created_at": "Fri Jun 12 00:41:43 +0000 2020",
+		"id": 1271014674239086600,
+		"id_str": "1271241233155801088",
+		"full_text": "또 얘기 나눌수록 점점 더더더 좋아지는 분이었습니다. 앞으로도 오랫동안 김이나 작가님의 섬세하고 정확한 말하기에 탄복하고 싶습니다 🥳👏👏👏 https://t.co/m6i7TzEOF4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271014667989577700,
+					"id_str": "1271014667989577729",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EaONGz3UcAErb8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaONGz3UcAErb8T.jpg",
+					"url": "https://t.co/m6i7TzEOF4",
+					"display_url": "pic.twitter.com/m6i7TzEOF4",
+					"expanded_url": "https://twitter.com/kimtolkong/status/1271014674239086592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271014667989577700,
+					"id_str": "1271014667989577729",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EaONGz3UcAErb8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaONGz3UcAErb8T.jpg",
+					"url": "https://t.co/m6i7TzEOF4",
+					"display_url": "pic.twitter.com/m6i7TzEOF4",
+					"expanded_url": "https://twitter.com/kimtolkong/status/1271014674239086592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271014667997999000,
+					"id_str": "1271014667997999105",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EaONGz5U8AEI2Kw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaONGz5U8AEI2Kw.jpg",
+					"url": "https://t.co/m6i7TzEOF4",
+					"display_url": "pic.twitter.com/m6i7TzEOF4",
+					"expanded_url": "https://twitter.com/kimtolkong/status/1271014674239086592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1271014423503618000,
+		"in_reply_to_status_id_str": "1271014423503618050",
+		"in_reply_to_user_id": 54411115,
+		"in_reply_to_user_id_str": "54411115",
+		"in_reply_to_screen_name": "kimtolkong",
+		"user": {
+			"id": 54411115,
+			"id_str": "54411115",
+			"name": "톨콩",
+			"screen_name": "kimtolkong",
+			"location": "",
+			"description": "📖 다름아닌사랑과자유 / 여자둘이살고있습니다 / 힘빼기의기술🎙예스24팟캐스트 책읽아웃 김하나의측면돌파 진행중 🎼 서울사이버음악대 우쿨렐레담당 🏠고양이 넷 사람 하나와 같이 삽니다. 단정한 것을 좋아하고, 툭하면 열광합니다. 요즘은 코알라에 열광중 🐨🌱",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29294,
+			"friends_count": 520,
+			"listed_count": 104,
+			"created_at": "Tue Jul 07 01:57:36 +0000 2009",
+			"favourites_count": 12376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096227616732762113/dA4zCABG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096227616732762113/dA4zCABG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54411115/1520909617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 얘기 나눌수록 점점 더더더 좋아지는 분이었습니다. 앞으로도 오랫동안 김이나 작가님의 섬세하고 정확한 말하기에 탄복하고 싶습니다 🥳👏👏👏 https://t.co/m6i7TzEOF4"
+	},
+	{
+		"created_at": "Fri Jun 12 00:41:41 +0000 2020",
+		"id": 1271014423503618000,
+		"id_str": "1271241224779780096",
+		"full_text": "어느 분 표현처럼 '김1나와 김2나'가 만난 #책읽아웃 김하나의측면돌파! 김이나 작사가님 모시고 &lt;보통의 언어들&gt;과 &lt;김이나의 작사법&gt;에 대해 이야기 나눴습니다. 정말 유쾌하고 시간 가는 줄 몰랐던 대화였어요. 매력적인 개인이자 열심히 일하는 여성으로서 존경스러웠고 https://t.co/6HvTxSZinT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "책읽아웃",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6HvTxSZinT",
+					"expanded_url": "http://m.podbbang.com/ch/episode/15135?e=23561705",
+					"display_url": "m.podbbang.com/ch/episode/151…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54411115,
+			"id_str": "54411115",
+			"name": "톨콩",
+			"screen_name": "kimtolkong",
+			"location": "",
+			"description": "📖 다름아닌사랑과자유 / 여자둘이살고있습니다 / 힘빼기의기술🎙예스24팟캐스트 책읽아웃 김하나의측면돌파 진행중 🎼 서울사이버음악대 우쿨렐레담당 🏠고양이 넷 사람 하나와 같이 삽니다. 단정한 것을 좋아하고, 툭하면 열광합니다. 요즘은 코알라에 열광중 🐨🌱",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29294,
+			"friends_count": 520,
+			"listed_count": 104,
+			"created_at": "Tue Jul 07 01:57:36 +0000 2009",
+			"favourites_count": 12376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096227616732762113/dA4zCABG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096227616732762113/dA4zCABG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54411115/1520909617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어느 분 표현처럼 '김1나와 김2나'가 만난 #책읽아웃 김하나의측면돌파! 김이나 작사가님 모시고 &lt;보통의 언어들&gt;과 &lt;김이나의 작사법&gt;에 대해 이야기 나눴습니다. 정말 유쾌하고 시간 가는 줄 몰랐던 대화였어요. 매력적인 개인이자 열심히 일하는 여성으로서 존경스러웠고 https://t.co/6HvTxSZinT"
+	},
+	{
+		"created_at": "Fri Jun 12 00:14:16 +0000 2020",
+		"id": 1271234020001460200,
+		"id_str": "1271234326898720768",
+		"full_text": "모든 유튜브 광고 안 보는법 : 도메인 뒤에 . 을 붙이세요 https://t.co/WfHJwvzLIv \n- 데스크탑에서만 동작. 모바일에서 쓰려면 \"데스크탑 버전 보기\" 해야만 동작함\n- com./ 처럼 붙이면 모든 광고가 보이지 않음\n- 뉴욕타임스 같은 Paywall 에서도 동작 \n- 원리: \n→ 많은 웹사이...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WfHJwvzLIv",
+					"expanded_url": "https://j.mp/2YqmUVv",
+					"display_url": "j.mp/2YqmUVv",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3102,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모든 유튜브 광고 안 보는법 : 도메인 뒤에 . 을 붙이세요 https://t.co/WfHJwvzLIv \n- 데스크탑에서만 동작. 모바일에서 쓰려면 \"데스크탑 버전 보기\" 해야만 동작함\n- com./ 처럼 붙이면 모든 광고가 보이지 않음\n- 뉴욕타임스 같은 Paywall 에서도 동작 \n- 원리: \n→ 많은 웹사이..."
+	},
+	{
 		"created_at": "Thu Jun 11 23:46:09 +0000 2020",
 		"id": 1271217509425754000,
 		"id_str": "1271227251699281921",
