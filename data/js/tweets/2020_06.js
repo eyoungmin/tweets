@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 15:45:36 +0000 2020",
+		"id": 1271457247193780200,
+		"id_str": "1271468706162499592",
+		"full_text": "이달의 소녀 BLUE VOICE #진솔 이의 생일을 축하합니다🎉\n여름처럼 청량한 진솔이가 있어서 우리의 오늘이 더 밝게 빛나💙\n\n#이달의소녀 #LOONA #JinSoul https://t.co/RxVrVuLszW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271457239841116200,
+					"id_str": "1271457239841116160",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUfn4fUEAAQq-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUfn4fUEAAQq-f.jpg",
+					"url": "https://t.co/RxVrVuLszW",
+					"display_url": "pic.twitter.com/RxVrVuLszW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1271457247193780226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1268,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 743,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271457239841116200,
+					"id_str": "1271457239841116160",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUfn4fUEAAQq-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUfn4fUEAAQq-f.jpg",
+					"url": "https://t.co/RxVrVuLszW",
+					"display_url": "pic.twitter.com/RxVrVuLszW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1271457247193780226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1268,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 743,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478102,
+			"friends_count": 0,
+			"listed_count": 4860,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11817,
+		"favorite_count": 20450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀 BLUE VOICE #진솔 이의 생일을 축하합니다🎉\n여름처럼 청량한 진솔이가 있어서 우리의 오늘이 더 밝게 빛나💙\n\n#이달의소녀 #LOONA #JinSoul https://t.co/RxVrVuLszW"
+	},
+	{
+		"created_at": "Fri Jun 12 15:31:25 +0000 2020",
+		"id": 1270609330346188800,
+		"id_str": "1271465134792163328",
+		"full_text": "도트 찍는 프로그램 필요하신 분은 여기서 무료로 찍어보세요. 여기에 있을거 다 있습니다. 왼쪽 아래에 키보드 모양 누르면 단축키 나오고 이걸로 움짤도 만들 수 있습니다. 굳이 로그인이 아닌 브라우저 저장을 통해서 사이트 내에 저장해서 나중에 또 할 수 있습니다.\nhttps://t.co/8zFa7nXTgT https://t.co/qdw5ChdCKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8zFa7nXTgT",
+					"expanded_url": "https://www.piskelapp.com/",
+					"display_url": "piskelapp.com",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270608930763182000,
+					"id_str": "1270608930763182081",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIcFy6UEAECwwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIcFy6UEAECwwJ.jpg",
+					"url": "https://t.co/qdw5ChdCKg",
+					"display_url": "pic.twitter.com/qdw5ChdCKg",
+					"expanded_url": "https://twitter.com/DreamS2paghetti/status/1270609330346188800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 609,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 975,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270608930763182000,
+					"id_str": "1270608930763182081",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIcFy6UEAECwwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIcFy6UEAECwwJ.jpg",
+					"url": "https://t.co/qdw5ChdCKg",
+					"display_url": "pic.twitter.com/qdw5ChdCKg",
+					"expanded_url": "https://twitter.com/DreamS2paghetti/status/1270609330346188800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 609,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 975,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270608954704318500,
+					"id_str": "1270608954704318464",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIcHMGU0AAkUqk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIcHMGU0AAkUqk.jpg",
+					"url": "https://t.co/qdw5ChdCKg",
+					"display_url": "pic.twitter.com/qdw5ChdCKg",
+					"expanded_url": "https://twitter.com/DreamS2paghetti/status/1270609330346188800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 970,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180493324194443300,
+			"id_str": "1180493324194443264",
+			"name": "Mr.Dream",
+			"screen_name": "DreamS2paghetti",
+			"location": "헤더 버섯님 인장 가뷰앙데쑤",
+			"description": "🍝한글자막 가끔 작업\n🍝돈스타브 투게더 한글화 총괄\n🍝스파게티 주세요.🍝🍝🇰🇷🍝🍝\n🍝메인트를 읽지 않아 생긴 손해는 책임지지 않습니다.🍝 \n언팔은 오류! 멘션이나 뎸 주세요\n1차 인외/글러입니다. 캐릭터 컨셉러\n비팔 알림 끔",
+			"url": "https://t.co/joEvV1LtyH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/joEvV1LtyH",
+							"expanded_url": "https://peing.net/ko/wj001127",
+							"display_url": "peing.net/ko/wj001127",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449,
+			"friends_count": 379,
+			"listed_count": 6,
+			"created_at": "Sat Oct 05 14:42:16 +0000 2019",
+			"favourites_count": 9006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270400433647837185/J0YTDh1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270400433647837185/J0YTDh1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180493324194443264/1591722041",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2118,
+		"favorite_count": 2108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도트 찍는 프로그램 필요하신 분은 여기서 무료로 찍어보세요. 여기에 있을거 다 있습니다. 왼쪽 아래에 키보드 모양 누르면 단축키 나오고 이걸로 움짤도 만들 수 있습니다. 굳이 로그인이 아닌 브라우저 저장을 통해서 사이트 내에 저장해서 나중에 또 할 수 있습니다.\nhttps://t.co/8zFa7nXTgT https://t.co/qdw5ChdCKg"
+	},
+	{
 		"created_at": "Fri Jun 12 15:17:37 +0000 2020",
 		"id": 1271309356252840000,
 		"id_str": "1271461661837164544",
