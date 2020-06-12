@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 07:45:37 +0000 2020",
+		"id": 1271338623586066400,
+		"id_str": "1271347910844788737",
+		"full_text": "[VLIVE] Orbit~! Jangan lupa saksikan '[LOONA] Odd Eye Circle's Unique Birthday Party' hari ini jam 17:00 WIB di VLIVE~ lengkap dengan subtitle bahasa Indonesia 🇮🇩😆💕\n\n▶️ https://t.co/rl3nahCOnf\n\n#VLIVE #VLIVEINDONESIA #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						194,
+						200
+					]
+				},
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						201,
+						216
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						217,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rl3nahCOnf",
+					"expanded_url": "https://www.vlive.tv/video/196475",
+					"display_url": "vlive.tv/video/196475",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nFollow Channel V INDONESIA 👇🏻",
+			"url": "https://t.co/DgJQObgmpc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DgJQObgmpc",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/home",
+							"display_url": "channels.vlive.tv/B4B94F/home",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29203,
+			"friends_count": 1,
+			"listed_count": 11,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "[VLIVE] Orbit~! Jangan lupa saksikan '[LOONA] Odd Eye Circle's Unique Birthday Party' hari ini jam 17:00 WIB di VLIVE~ lengkap dengan subtitle bahasa Indonesia 🇮🇩😆💕\n\n▶️ https://t.co/rl3nahCOnf\n\n#VLIVE #VLIVEINDONESIA #LOONA"
+	},
+	{
 		"created_at": "Fri Jun 12 06:59:22 +0000 2020",
 		"id": 1271336274637525000,
 		"id_str": "1271336274637524992",
