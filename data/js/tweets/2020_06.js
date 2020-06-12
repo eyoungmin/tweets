@@ -1,6 +1,1731 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 23:46:09 +0000 2020",
+		"id": 1271217509425754000,
+		"id_str": "1271227251699281921",
+		"full_text": "아마존 이어 마이크로소프트도…경찰에 얼굴인식 기능 판매 거부 https://t.co/L8tBNuJCTV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L8tBNuJCTV",
+					"expanded_url": "http://www.bloter.net/archives/389728",
+					"display_url": "bloter.net/archives/389728",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55313,
+			"friends_count": 9,
+			"listed_count": 2395,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마존 이어 마이크로소프트도…경찰에 얼굴인식 기능 판매 거부 https://t.co/L8tBNuJCTV"
+	},
+	{
+		"created_at": "Thu Jun 11 23:39:36 +0000 2020",
+		"id": 1270597076896768000,
+		"id_str": "1271225603774050304",
+		"full_text": "■모든 예매자분들은 취소 수수료 없이 전액 환불 처리될 예정이며, 각 예매처별 절차에 따라 취소 절차가 진행됩니다. 이미지 내 안내를 확인 부탁 드립니다. \n\n■기존에 예매 유지자 분들에게 드리기로 했던 할인 혜택은 그대로 제공됩니다. 자세한 내용은 이미지 내 안내를 확인 부탁 드립니다. https://t.co/5YIRKQCdpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270597030302236700,
+					"id_str": "1270597030302236673",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIRRGPUwAEX-2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIRRGPUwAEX-2E.jpg",
+					"url": "https://t.co/5YIRKQCdpK",
+					"display_url": "pic.twitter.com/5YIRKQCdpK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270597076896768001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270597030302236700,
+					"id_str": "1270597030302236673",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIRRGPUwAEX-2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIRRGPUwAEX-2E.jpg",
+					"url": "https://t.co/5YIRKQCdpK",
+					"display_url": "pic.twitter.com/5YIRKQCdpK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270597076896768001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270597042230849500,
+					"id_str": "1270597042230849537",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIRRyrU8AEGA4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIRRyrU8AEGA4i.jpg",
+					"url": "https://t.co/5YIRKQCdpK",
+					"display_url": "pic.twitter.com/5YIRKQCdpK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270597076896768001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270597054901792800,
+					"id_str": "1270597054901792773",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIRSh4UMAU6LJs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIRSh4UMAU6LJs.jpg",
+					"url": "https://t.co/5YIRKQCdpK",
+					"display_url": "pic.twitter.com/5YIRKQCdpK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270597076896768001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270597068650803200,
+					"id_str": "1270597068650803201",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIRTVGVcAET9np.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIRTVGVcAET9np.jpg",
+					"url": "https://t.co/5YIRKQCdpK",
+					"display_url": "pic.twitter.com/5YIRKQCdpK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270597076896768001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270596875540770800,
+		"in_reply_to_status_id_str": "1270596875540770817",
+		"in_reply_to_user_id": 116351905,
+		"in_reply_to_user_id_str": "116351905",
+		"in_reply_to_screen_name": "GREENPLUGGED",
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12057,
+			"friends_count": 69,
+			"listed_count": 233,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "■모든 예매자분들은 취소 수수료 없이 전액 환불 처리될 예정이며, 각 예매처별 절차에 따라 취소 절차가 진행됩니다. 이미지 내 안내를 확인 부탁 드립니다. \n\n■기존에 예매 유지자 분들에게 드리기로 했던 할인 혜택은 그대로 제공됩니다. 자세한 내용은 이미지 내 안내를 확인 부탁 드립니다. https://t.co/5YIRKQCdpK"
+	},
+	{
+		"created_at": "Thu Jun 11 23:39:34 +0000 2020",
+		"id": 1270596875540770800,
+		"id_str": "1271225592935899136",
+		"full_text": "안녕하세요 그린플러그드 서울입니다.\n\n고심 끝에 ‘그린플러그드 서울 2020’의 취소를 결정하게 되었습니다. 믿고 기다려주신 관객 여러분께 양해의 말씀을 드리게 되어 죄송한 마음입니다.\n\n빠른 시일 내에 상황이 호전되길 기원하며, 모든 분들께 건강과 평안 가득하시길 바랍니다. 감사합니다. https://t.co/32UXLBHqjB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270590020286419000,
+					"id_str": "1270590020286418944",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIK5D5UEAAW_il.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIK5D5UEAAW_il.jpg",
+					"url": "https://t.co/32UXLBHqjB",
+					"display_url": "pic.twitter.com/32UXLBHqjB",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270596875540770817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270590020286419000,
+					"id_str": "1270590020286418944",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIK5D5UEAAW_il.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIK5D5UEAAW_il.jpg",
+					"url": "https://t.co/32UXLBHqjB",
+					"display_url": "pic.twitter.com/32UXLBHqjB",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270596875540770817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270590032022134800,
+					"id_str": "1270590032022134785",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIK5vnU4AEeZvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIK5vnU4AEeZvI.jpg",
+					"url": "https://t.co/32UXLBHqjB",
+					"display_url": "pic.twitter.com/32UXLBHqjB",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270596875540770817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270590046563790800,
+					"id_str": "1270590046563790848",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIK6lyU8AAGzWU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIK6lyU8AAGzWU.jpg",
+					"url": "https://t.co/32UXLBHqjB",
+					"display_url": "pic.twitter.com/32UXLBHqjB",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270596875540770817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270590060912509000,
+					"id_str": "1270590060912508928",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIK7bPVAAAYXyl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIK7bPVAAAYXyl.jpg",
+					"url": "https://t.co/32UXLBHqjB",
+					"display_url": "pic.twitter.com/32UXLBHqjB",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1270596875540770817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12057,
+			"friends_count": 69,
+			"listed_count": 233,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 그린플러그드 서울입니다.\n\n고심 끝에 ‘그린플러그드 서울 2020’의 취소를 결정하게 되었습니다. 믿고 기다려주신 관객 여러분께 양해의 말씀을 드리게 되어 죄송한 마음입니다.\n\n빠른 시일 내에 상황이 호전되길 기원하며, 모든 분들께 건강과 평안 가득하시길 바랍니다. 감사합니다. https://t.co/32UXLBHqjB"
+	},
+	{
+		"created_at": "Thu Jun 11 23:32:17 +0000 2020",
+		"id": 1270650633226293200,
+		"id_str": "1271223761178488832",
+		"full_text": "[NEW ARTIST]\n\nWELCOME TO 박문치❗️\n\n뉴트로의 선두주자! 8090세대의 음악을 가장 신선하게 표현하는 프로듀서 박문치가 매직스트로베리사운드와 함께 합니다. 박문치와 매직스트로베리사운드가 함께 펼칠 앞으로의 행보에 많은 관심과 사랑 부탁드립니다!\n\n🍚https://t.co/t6w1CXLwCj https://t.co/DnkzcV1bCO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t6w1CXLwCj",
+					"expanded_url": "https://www.instagram.com/moongch/",
+					"display_url": "instagram.com/moongch/",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270650322482946000,
+					"id_str": "1270650322482946052",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EaJBvHFU4AQTM1F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaJBvHFU4AQTM1F.jpg",
+					"url": "https://t.co/DnkzcV1bCO",
+					"display_url": "pic.twitter.com/DnkzcV1bCO",
+					"expanded_url": "https://twitter.com/msbsound/status/1270650633226293248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270650322482946000,
+					"id_str": "1270650322482946052",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EaJBvHFU4AQTM1F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaJBvHFU4AQTM1F.jpg",
+					"url": "https://t.co/DnkzcV1bCO",
+					"display_url": "pic.twitter.com/DnkzcV1bCO",
+					"expanded_url": "https://twitter.com/msbsound/status/1270650633226293248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8202,
+			"friends_count": 6404,
+			"listed_count": 95,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[NEW ARTIST]\n\nWELCOME TO 박문치❗️\n\n뉴트로의 선두주자! 8090세대의 음악을 가장 신선하게 표현하는 프로듀서 박문치가 매직스트로베리사운드와 함께 합니다. 박문치와 매직스트로베리사운드가 함께 펼칠 앞으로의 행보에 많은 관심과 사랑 부탁드립니다!\n\n🍚https://t.co/t6w1CXLwCj https://t.co/DnkzcV1bCO"
+	},
+	{
+		"created_at": "Thu Jun 11 23:19:09 +0000 2020",
+		"id": 1270659090381856800,
+		"id_str": "1271220454863167488",
+		"full_text": "당시 그 15시간 이상의 지옥같은 업무를 하고 월급으로 월 80만원/ 저작권 배분은 회사 60 작곡가 40 이었습니다 크레딧은 김한조씨와 회사 이사진 이름으로 나갔죠 모든 자료가 법원에 넘겨졌고 그가 받은 처벌은 고작 벌금 500만원입니다 #슬기로운의사생활_김한조음악감독",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기로운의사생활_김한조음악감독",
+					"indices": [
+						134,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270658447273455600,
+		"in_reply_to_status_id_str": "1270658447273455617",
+		"in_reply_to_user_id": 171612189,
+		"in_reply_to_user_id_str": "171612189",
+		"in_reply_to_screen_name": "band27_vo",
+		"user": {
+			"id": 171612189,
+			"id_str": "171612189",
+			"name": "The Flame/ I P A N",
+			"screen_name": "band27_vo",
+			"location": "Seoul Korea",
+			"description": "개키우며 영상음악/ 영상번역",
+			"url": "https://t.co/9Qkp10E61Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Qkp10E61Q",
+							"expanded_url": "https://m.blog.naver.com/PostList.nhn?blogId=ipanpan",
+							"display_url": "m.blog.naver.com/PostList.nhn?b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2665,
+			"friends_count": 325,
+			"listed_count": 19,
+			"created_at": "Tue Jul 27 19:17:18 +0000 2010",
+			"favourites_count": 16372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205731216512581633/Xsne_Mcl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205731216512581633/Xsne_Mcl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171612189/1564386599",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 625,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당시 그 15시간 이상의 지옥같은 업무를 하고 월급으로 월 80만원/ 저작권 배분은 회사 60 작곡가 40 이었습니다 크레딧은 김한조씨와 회사 이사진 이름으로 나갔죠 모든 자료가 법원에 넘겨졌고 그가 받은 처벌은 고작 벌금 500만원입니다 #슬기로운의사생활_김한조음악감독"
+	},
+	{
+		"created_at": "Thu Jun 11 23:19:07 +0000 2020",
+		"id": 1270658447273455600,
+		"id_str": "1271220448118755328",
+		"full_text": "특임 교수직으로 받은 임금에서 저는 시간당 5만원을 떼주더군요 로이엔터에서 일주일에 노동시간만 하루 평균 15시간인데 그 시간을 쪼개 아침수업을 주 1회 나갔습니다 그의 말은 법이고 제가 1팀장으로서 명령을 어길경우 팀전체에 늘 해고의 압박이 있었습니다 #슬기로운의사생활_김한조음악감독",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기로운의사생활_김한조음악감독",
+					"indices": [
+						142,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270657666570784800,
+		"in_reply_to_status_id_str": "1270657666570784768",
+		"in_reply_to_user_id": 171612189,
+		"in_reply_to_user_id_str": "171612189",
+		"in_reply_to_screen_name": "band27_vo",
+		"user": {
+			"id": 171612189,
+			"id_str": "171612189",
+			"name": "The Flame/ I P A N",
+			"screen_name": "band27_vo",
+			"location": "Seoul Korea",
+			"description": "개키우며 영상음악/ 영상번역",
+			"url": "https://t.co/9Qkp10E61Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Qkp10E61Q",
+							"expanded_url": "https://m.blog.naver.com/PostList.nhn?blogId=ipanpan",
+							"display_url": "m.blog.naver.com/PostList.nhn?b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2665,
+			"friends_count": 325,
+			"listed_count": 19,
+			"created_at": "Tue Jul 27 19:17:18 +0000 2010",
+			"favourites_count": 16372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205731216512581633/Xsne_Mcl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205731216512581633/Xsne_Mcl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171612189/1564386599",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 451,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "특임 교수직으로 받은 임금에서 저는 시간당 5만원을 떼주더군요 로이엔터에서 일주일에 노동시간만 하루 평균 15시간인데 그 시간을 쪼개 아침수업을 주 1회 나갔습니다 그의 말은 법이고 제가 1팀장으로서 명령을 어길경우 팀전체에 늘 해고의 압박이 있었습니다 #슬기로운의사생활_김한조음악감독"
+	},
+	{
+		"created_at": "Thu Jun 11 23:19:05 +0000 2020",
+		"id": 1270657666570784800,
+		"id_str": "1271220441147826179",
+		"full_text": "그는 “교수” 였고 저는 작곡 뿐만 아니라 그의 수업까지 대신하는 유령이었습니다 아이들은 제가 가르쳤지만 저의 노동 기록, 전문학교 강사 이력은 없는겁니다  #슬기로운의사생활_음악감독김한조",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기로운의사생활_음악감독김한조",
+					"indices": [
+						88,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270643170204741600,
+		"in_reply_to_status_id_str": "1270643170204741632",
+		"in_reply_to_user_id": 171612189,
+		"in_reply_to_user_id_str": "171612189",
+		"in_reply_to_screen_name": "band27_vo",
+		"user": {
+			"id": 171612189,
+			"id_str": "171612189",
+			"name": "The Flame/ I P A N",
+			"screen_name": "band27_vo",
+			"location": "Seoul Korea",
+			"description": "개키우며 영상음악/ 영상번역",
+			"url": "https://t.co/9Qkp10E61Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Qkp10E61Q",
+							"expanded_url": "https://m.blog.naver.com/PostList.nhn?blogId=ipanpan",
+							"display_url": "m.blog.naver.com/PostList.nhn?b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2665,
+			"friends_count": 325,
+			"listed_count": 19,
+			"created_at": "Tue Jul 27 19:17:18 +0000 2010",
+			"favourites_count": 16372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205731216512581633/Xsne_Mcl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205731216512581633/Xsne_Mcl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171612189/1564386599",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 573,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그는 “교수” 였고 저는 작곡 뿐만 아니라 그의 수업까지 대신하는 유령이었습니다 아이들은 제가 가르쳤지만 저의 노동 기록, 전문학교 강사 이력은 없는겁니다  #슬기로운의사생활_음악감독김한조"
+	},
+	{
+		"created_at": "Thu Jun 11 23:19:04 +0000 2020",
+		"id": 1270643170204741600,
+		"id_str": "1271220433820344320",
+		"full_text": "이 학교의 교수는 본인이 맡고 음악을 모르는 그를 대신해 제가 수업을 진행했습니다 1부터 10까지가 거짓인 인간 #슬기로운의사생활_김한조음악감독 저 리스트의 음악은 고스트 라이터 시절 저희 작곡가 20여명이 작업한 결과물입니다 https://t.co/vfkd7lPLLW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기로운의사생활_김한조음악감독",
+					"indices": [
+						63,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vfkd7lPLLW",
+					"expanded_url": "https://twitter.com/ketc2013/status/573650786103656448",
+					"display_url": "twitter.com/ketc2013/statu…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171612189,
+			"id_str": "171612189",
+			"name": "The Flame/ I P A N",
+			"screen_name": "band27_vo",
+			"location": "Seoul Korea",
+			"description": "개키우며 영상음악/ 영상번역",
+			"url": "https://t.co/9Qkp10E61Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Qkp10E61Q",
+							"expanded_url": "https://m.blog.naver.com/PostList.nhn?blogId=ipanpan",
+							"display_url": "m.blog.naver.com/PostList.nhn?b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2665,
+			"friends_count": 325,
+			"listed_count": 19,
+			"created_at": "Tue Jul 27 19:17:18 +0000 2010",
+			"favourites_count": 16372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205731216512581633/Xsne_Mcl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205731216512581633/Xsne_Mcl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171612189/1564386599",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 573650786103656450,
+		"quoted_status_id_str": "573650786103656448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vfkd7lPLLW",
+			"expanded": "https://twitter.com/ketc2013/status/573650786103656448",
+			"display": "twitter.com/ketc2013/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 06 01:06:19 +0000 2015",
+			"id": 573650786103656450,
+			"id_str": "573650786103656448",
+			"full_text": "뮤직뱅크, 1박2일, 히든싱어 등 다수의 작품에서 음악감독을 맡고 있으신 김한조 음악감독 한국연예사관학교 특임교수로 임명 소식!! http://t.co/WAU7qq7OfO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 573650785042440200,
+						"id_str": "573650785042440192",
+						"indices": [
+							73,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/B_YEWYOUIAAyGvL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B_YEWYOUIAAyGvL.jpg",
+						"url": "http://t.co/WAU7qq7OfO",
+						"display_url": "pic.twitter.com/WAU7qq7OfO",
+						"expanded_url": "https://twitter.com/ketc2013/status/573650786103656448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 738,
+								"h": 2034,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 247,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 435,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 573650785042440200,
+						"id_str": "573650785042440192",
+						"indices": [
+							73,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/B_YEWYOUIAAyGvL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B_YEWYOUIAAyGvL.jpg",
+						"url": "http://t.co/WAU7qq7OfO",
+						"display_url": "pic.twitter.com/WAU7qq7OfO",
+						"expanded_url": "https://twitter.com/ketc2013/status/573650786103656448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 738,
+								"h": 2034,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 247,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 435,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2801340163,
+				"id_str": "2801340163",
+				"name": "한국연예사관학교",
+				"screen_name": "ketc2013",
+				"location": "서울특별시 영등포구",
+				"description": "한국연예사관학교 공식 트위터입니다.      　 여러분 모두의 꿈이 이루어지는    　　              　　　　　　  [ KETC 한국연예사관학교]",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 132,
+				"friends_count": 100,
+				"listed_count": 0,
+				"created_at": "Wed Sep 10 07:33:19 +0000 2014",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/509607794262044672/Hl3aXtqd_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/509607794262044672/Hl3aXtqd_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2801340163/1410336028",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4855,
+		"favorite_count": 613,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 학교의 교수는 본인이 맡고 음악을 모르는 그를 대신해 제가 수업을 진행했습니다 1부터 10까지가 거짓인 인간 #슬기로운의사생활_김한조음악감독 저 리스트의 음악은 고스트 라이터 시절 저희 작곡가 20여명이 작업한 결과물입니다 https://t.co/vfkd7lPLLW"
+	},
+	{
+		"created_at": "Thu Jun 11 23:18:01 +0000 2020",
+		"id": 1270783537667551200,
+		"id_str": "1271220172762693633",
+		"full_text": "Sharing an article can spark conversation, so you may want to read it before you Tweet it.\n\nTo help promote informed discussion, we're testing a new prompt on Android –– when you Retweet an article that you haven't opened on Twitter, we may ask if you'd like to open it first.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17874544,
+			"id_str": "17874544",
+			"name": "Twitter Support",
+			"screen_name": "TwitterSupport",
+			"location": "Twitter HQ",
+			"description": "#BlackLivesMatter\nHere to help. 🖤",
+			"url": "https://t.co/heEvRrl4yN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrl4yN",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6288492,
+			"friends_count": 17,
+			"listed_count": 14536,
+			"created_at": "Thu Dec 04 18:51:57 +0000 2008",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266884366279471105/OTps6MBS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266884366279471105/OTps6MBS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1590883745",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11605,
+		"favorite_count": 58306,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Sharing an article can spark conversation, so you may want to read it before you Tweet it.\n\nTo help promote informed discussion, we're testing a new prompt on Android –– when you Retweet an article that you haven't opened on Twitter, we may ask if you'd like to open it first."
+	},
+	{
+		"created_at": "Thu Jun 11 23:17:22 +0000 2020",
+		"id": 1270815202208964600,
+		"id_str": "1271220008849338368",
+		"full_text": "이번에는 천안문 사태로 인해 미국으로 망명한 운동가가 천안문 추모 행사를 진행했다고 해당 운동가의 “유료” 계정을 폐쇄하고 연락도 씹었다고. 뭐 이런 양아치들이 있어? https://t.co/KFakYFAtgI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KFakYFAtgI",
+					"expanded_url": "https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html",
+					"display_url": "axios.com/zoom-closes-ch…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268265472702570500,
+		"in_reply_to_status_id_str": "1268265472702570497",
+		"in_reply_to_user_id": 63764417,
+		"in_reply_to_user_id_str": "63764417",
+		"in_reply_to_screen_name": "purengom",
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/axyNeG94zY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axyNeG94zY",
+							"expanded_url": "http://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3939,
+			"friends_count": 3167,
+			"listed_count": 124,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 62668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 221079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245327825759924230/dD30UhPq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245327825759924230/dD30UhPq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번에는 천안문 사태로 인해 미국으로 망명한 운동가가 천안문 추모 행사를 진행했다고 해당 운동가의 “유료” 계정을 폐쇄하고 연락도 씹었다고. 뭐 이런 양아치들이 있어? https://t.co/KFakYFAtgI"
+	},
+	{
+		"created_at": "Thu Jun 11 23:17:18 +0000 2020",
+		"id": 1268265462707568600,
+		"id_str": "1271219989534539777",
+		"full_text": "Zoom의 CEO가 투자자들과 회합에서 무료 사용자들에게는 종단간 암호화를 제공하지 않겠다고 밝혀. 이유는 “악용하는 사람이 있으니까.” FBI와 경찰 등 사법 당국과 협조를 해야할 필요성이 있다고 주장. 하여간 맥에 백도어 심을때부터 싹수가 노랬어. https://t.co/r7LGTuqy7l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r7LGTuqy7l",
+					"expanded_url": "https://www.theverge.com/2020/6/3/21279355/zoom-end-encryption-calls-fbi-police-free-users",
+					"display_url": "theverge.com/2020/6/3/21279…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/axyNeG94zY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axyNeG94zY",
+							"expanded_url": "http://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3939,
+			"friends_count": 3167,
+			"listed_count": 124,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 62668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 221079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245327825759924230/dD30UhPq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245327825759924230/dD30UhPq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Zoom의 CEO가 투자자들과 회합에서 무료 사용자들에게는 종단간 암호화를 제공하지 않겠다고 밝혀. 이유는 “악용하는 사람이 있으니까.” FBI와 경찰 등 사법 당국과 협조를 해야할 필요성이 있다고 주장. 하여간 맥에 백도어 심을때부터 싹수가 노랬어. https://t.co/r7LGTuqy7l"
+	},
+	{
 		"created_at": "Thu Jun 11 22:50:35 +0000 2020",
 		"id": 1271213268980433000,
 		"id_str": "1271213268980432898",
