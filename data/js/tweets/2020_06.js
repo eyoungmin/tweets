@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 16:55:34 +0000 2020",
+		"id": 1124441405441495000,
+		"id_str": "1271486311929573378",
+		"full_text": "Ooh 😮 one more cool thing for your Notion page icons... this designer-made minimalist icon set you can download! 📥\n\nHave cool icons? We’d love to see them!\n\nhttps://t.co/PslI5F13RX https://t.co/yqIyTckWxF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PslI5F13RX",
+					"expanded_url": "https://www.notion.so/Notion-Icon-set-production-8f7267b2709b405a904608b51c400e55",
+					"display_url": "notion.so/Notion-Icon-se…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124441126952292400,
+					"id_str": "1124441126952292352",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D5rRP1bU0AAxC8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5rRP1bU0AAxC8k.jpg",
+					"url": "https://t.co/yqIyTckWxF",
+					"display_url": "pic.twitter.com/yqIyTckWxF",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1124441405441495040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1486,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124441126952292400,
+					"id_str": "1124441126952292352",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D5rRP1bU0AAxC8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5rRP1bU0AAxC8k.jpg",
+					"url": "https://t.co/yqIyTckWxF",
+					"display_url": "pic.twitter.com/yqIyTckWxF",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1124441405441495040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1486,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 708915428454576100,
+			"id_str": "708915428454576128",
+			"name": "Notion",
+			"screen_name": "NotionHQ",
+			"location": "San Francisco, CA",
+			"description": "The all-in-one workspace — for notes, tasks, wikis, and databases.",
+			"url": "https://t.co/bYQzF3Owwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bYQzF3Owwn",
+							"expanded_url": "http://www.notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91546,
+			"friends_count": 3132,
+			"listed_count": 1173,
+			"created_at": "Sun Mar 13 07:19:43 +0000 2016",
+			"favourites_count": 26443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/708915428454576128/1584118335",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 403,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ooh 😮 one more cool thing for your Notion page icons... this designer-made minimalist icon set you can download! 📥\n\nHave cool icons? We’d love to see them!\n\nhttps://t.co/PslI5F13RX https://t.co/yqIyTckWxF"
+	},
+	{
 		"created_at": "Fri Jun 12 15:45:36 +0000 2020",
 		"id": 1271457247193780200,
 		"id_str": "1271468706162499592",
