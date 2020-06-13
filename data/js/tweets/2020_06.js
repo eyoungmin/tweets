@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 09:52:17 +0000 2020",
+		"id": 1271731901598822400,
+		"id_str": "1271742175538221056",
+		"full_text": "6월 13일 18시 도심, 동남권역에 발령되었던 오존주의보가 해제되었습니다. (동북, 서북, 서남권역 주의보 발령유지)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4172,
+			"friends_count": 936,
+			"listed_count": 37,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "6월 13일 18시 도심, 동남권역에 발령되었던 오존주의보가 해제되었습니다. (동북, 서북, 서남권역 주의보 발령유지)"
+	},
+	{
+		"created_at": "Sat Jun 13 09:52:13 +0000 2020",
+		"id": 1271731649118523400,
+		"id_str": "1271742158379323392",
+		"full_text": "#OFFICIALBLINK #블링크 와 24/365 함께 하고싶은 #젠츄리챙 의 #24_365_WITH_BLACKPINK 비하인드 사진이 #블링크존 에 업로드 되었습니다📷 지금 바로 확인해보세요🖤💖",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "젠츄리챙",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "24_365_WITH_BLACKPINK",
+					"indices": [
+						45,
+						67
+					]
+				},
+				{
+					"text": "블링크존",
+					"indices": [
+						77,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4090854,
+			"friends_count": 1,
+			"listed_count": 4457,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1591747373",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10461,
+		"favorite_count": 31726,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK #블링크 와 24/365 함께 하고싶은 #젠츄리챙 의 #24_365_WITH_BLACKPINK 비하인드 사진이 #블링크존 에 업로드 되었습니다📷 지금 바로 확인해보세요🖤💖"
+	},
+	{
 		"created_at": "Sat Jun 13 08:52:12 +0000 2020",
 		"id": 1271718065164583000,
 		"id_str": "1271727058004127745",
