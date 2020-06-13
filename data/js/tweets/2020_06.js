@@ -1,6 +1,3211 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 03:53:09 +0000 2020",
+		"id": 1271268800239792000,
+		"id_str": "1271651797195558912",
+		"full_text": "LG전자-배민, 식당 서빙로봇 내놓는다 https://t.co/qsPg3ZSxAw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qsPg3ZSxAw",
+					"expanded_url": "http://www.bloter.net/archives/389815",
+					"display_url": "bloter.net/archives/389815",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55313,
+			"friends_count": 9,
+			"listed_count": 2393,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LG전자-배민, 식당 서빙로봇 내놓는다 https://t.co/qsPg3ZSxAw"
+	},
+	{
+		"created_at": "Sat Jun 13 03:52:39 +0000 2020",
+		"id": 1271271673472278500,
+		"id_str": "1271651673098743808",
+		"full_text": "‘영어’ 모르면 약관 못 본다…한국산 앱 ‘스노우’의 무신경 https://t.co/6i19KU7YbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6i19KU7YbJ",
+					"expanded_url": "http://www.bloter.net/archives/389805",
+					"display_url": "bloter.net/archives/389805",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55313,
+			"friends_count": 9,
+			"listed_count": 2393,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘영어’ 모르면 약관 못 본다…한국산 앱 ‘스노우’의 무신경 https://t.co/6i19KU7YbJ"
+	},
+	{
+		"created_at": "Sat Jun 13 03:52:19 +0000 2020",
+		"id": 1271327393718792200,
+		"id_str": "1271651588629651457",
+		"full_text": "2G가 종료되는데 011이 왜 사라질까 https://t.co/Z4t0PfxxpW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z4t0PfxxpW",
+					"expanded_url": "http://www.bloter.net/archives/389889",
+					"display_url": "bloter.net/archives/389889",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55313,
+			"friends_count": 9,
+			"listed_count": 2393,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2G가 종료되는데 011이 왜 사라질까 https://t.co/Z4t0PfxxpW"
+	},
+	{
+		"created_at": "Sat Jun 13 03:48:51 +0000 2020",
+		"id": 1271369093552062500,
+		"id_str": "1271650717837586432",
+		"full_text": "“내 추억 돌리도” 싸이월드 백업 방법 없을까 https://t.co/qGOW6fHFmB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qGOW6fHFmB",
+					"expanded_url": "http://www.bloter.net/archives/389942",
+					"display_url": "bloter.net/archives/389942",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55313,
+			"friends_count": 9,
+			"listed_count": 2393,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“내 추억 돌리도” 싸이월드 백업 방법 없을까 https://t.co/qGOW6fHFmB"
+	},
+	{
+		"created_at": "Sat Jun 13 03:48:37 +0000 2020",
+		"id": 1271384365184856000,
+		"id_str": "1271650658249105408",
+		"full_text": "아이디어만 있다면 코딩을 모르는 일반인도 소프트웨어를 만들 수 있는 시대가 오고 있습니다. '노코드 툴'이 빠르게 발전하고 있기 때문이죠. https://t.co/ILGJ2i0Nd2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ILGJ2i0Nd2",
+					"expanded_url": "https://outstanding.kr/nocode20200612/",
+					"display_url": "outstanding.kr/nocode20200612/",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45597,
+			"friends_count": 443,
+			"listed_count": 120,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이디어만 있다면 코딩을 모르는 일반인도 소프트웨어를 만들 수 있는 시대가 오고 있습니다. '노코드 툴'이 빠르게 발전하고 있기 때문이죠. https://t.co/ILGJ2i0Nd2"
+	},
+	{
+		"created_at": "Sat Jun 13 03:48:11 +0000 2020",
+		"id": 1271412539629297700,
+		"id_str": "1271650547553038336",
+		"full_text": "스얼이 정리한 한국의 주요 여성 스타트업. https://t.co/diNk7MzFVj https://t.co/Zbzz8zUODE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/diNk7MzFVj",
+					"expanded_url": "https://brunch.co.kr/@startupalliance/191",
+					"display_url": "brunch.co.kr/@startupallian…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271412520729718800,
+					"id_str": "1271412520729718784",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EaT2840UMAALPCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaT2840UMAALPCJ.jpg",
+					"url": "https://t.co/Zbzz8zUODE",
+					"display_url": "pic.twitter.com/Zbzz8zUODE",
+					"expanded_url": "https://twitter.com/estima7/status/1271412539629297664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271412520729718800,
+					"id_str": "1271412520729718784",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EaT2840UMAALPCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaT2840UMAALPCJ.jpg",
+					"url": "https://t.co/Zbzz8zUODE",
+					"display_url": "pic.twitter.com/Zbzz8zUODE",
+					"expanded_url": "https://twitter.com/estima7/status/1271412539629297664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370948,
+			"friends_count": 2282,
+			"listed_count": 4519,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1939,
+		"favorite_count": 1259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스얼이 정리한 한국의 주요 여성 스타트업. https://t.co/diNk7MzFVj https://t.co/Zbzz8zUODE"
+	},
+	{
+		"created_at": "Sat Jun 13 03:45:45 +0000 2020",
+		"id": 1271639438536241200,
+		"id_str": "1271649934974967809",
+		"full_text": "JavaScript 질문과 해답 모음 (한국어, 116개) https://t.co/o3VKmkrFcI \n초급부터 고급까지: \n- 자바스크립트를 얼마나 잘 알고 있는지 테스트하거나, \n- 지식을 조금 더 새롭게 하거나, \n- 코딩 면접을 준비하세요!\n영어 원본 사이트에는 153개이며 업데이트 알림을 메일로 구독 가능",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o3VKmkrFcI",
+					"expanded_url": "https://j.mp/2Yo6Ao4",
+					"display_url": "j.mp/2Yo6Ao4",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3112,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JavaScript 질문과 해답 모음 (한국어, 116개) https://t.co/o3VKmkrFcI \n초급부터 고급까지: \n- 자바스크립트를 얼마나 잘 알고 있는지 테스트하거나, \n- 지식을 조금 더 새롭게 하거나, \n- 코딩 면접을 준비하세요!\n영어 원본 사이트에는 153개이며 업데이트 알림을 메일로 구독 가능"
+	},
+	{
+		"created_at": "Sat Jun 13 03:45:21 +0000 2020",
+		"id": 1271643970058121200,
+		"id_str": "1271649837167947776",
+		"full_text": "SVG Shape Divider 생성기 https://t.co/CGkHS1hti9 \n- 페이지 상단/중간/하단에 넣는 디바이더를 SVG로 생성해서 다운로드 가능\n- 파도/파도(투명 겹침)/곡선/삼각형/사선/화살표/책 등 여러 형태 지원\n- 색상/높이/넓이 지정 가능",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CGkHS1hti9",
+					"expanded_url": "https://j.mp/2AvHtYK",
+					"display_url": "j.mp/2AvHtYK",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3112,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SVG Shape Divider 생성기 https://t.co/CGkHS1hti9 \n- 페이지 상단/중간/하단에 넣는 디바이더를 SVG로 생성해서 다운로드 가능\n- 파도/파도(투명 겹침)/곡선/삼각형/사선/화살표/책 등 여러 형태 지원\n- 색상/높이/넓이 지정 가능"
+	},
+	{
+		"created_at": "Sat Jun 13 03:42:33 +0000 2020",
+		"id": 1270956927007092700,
+		"id_str": "1271649129618214912",
+		"full_text": "녹음해주실 예시문은 이런 내용입니다. #새쀼의세계 https://t.co/K9IL5ljXjE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새쀼의세계",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270956475100196900,
+					"id_str": "1270956475100196864",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EaNYLidUcAAJiEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaNYLidUcAAJiEP.jpg",
+					"url": "https://t.co/K9IL5ljXjE",
+					"display_url": "pic.twitter.com/K9IL5ljXjE",
+					"expanded_url": "https://twitter.com/chlove_u/status/1270956927007092737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270956475100196900,
+					"id_str": "1270956475100196864",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EaNYLidUcAAJiEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaNYLidUcAAJiEP.jpg",
+					"url": "https://t.co/K9IL5ljXjE",
+					"display_url": "pic.twitter.com/K9IL5ljXjE",
+					"expanded_url": "https://twitter.com/chlove_u/status/1270956927007092737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270950227327905800,
+		"in_reply_to_status_id_str": "1270950227327905792",
+		"in_reply_to_user_id": 270143270,
+		"in_reply_to_user_id_str": "270143270",
+		"in_reply_to_screen_name": "chlove_u",
+		"user": {
+			"id": 270143270,
+			"id_str": "270143270",
+			"name": "문화재청",
+			"screen_name": "chlove_u",
+			"location": "대한민국",
+			"description": "경산에서 발견한 토기를 쓴 문화재청 공식 트위터 입니다. 문화재 이야기를 건넵니다.\n\n#오늘의고움 #문화유산ASMR",
+			"url": "https://t.co/K4AKKH5n7O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K4AKKH5n7O",
+							"expanded_url": "http://cha.go.kr",
+							"display_url": "cha.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35062,
+			"friends_count": 6457,
+			"listed_count": 402,
+			"created_at": "Tue Mar 22 02:21:31 +0000 2011",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214403896434540544/63jEKpyI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214403896434540544/63jEKpyI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270143270/1589360534",
+			"profile_link_color": "828282",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 324,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "녹음해주실 예시문은 이런 내용입니다. #새쀼의세계 https://t.co/K9IL5ljXjE"
+	},
+	{
+		"created_at": "Sat Jun 13 03:42:31 +0000 2020",
+		"id": 1270950227327905800,
+		"id_str": "1271649121024176128",
+		"full_text": "시각장애인을 위한 천연기념물 동물 점자감각책을 만들고 있습니다. 이 책에 들어갈 스토리텔링 내레이션의 #목소리기부자 를 찾습니다.🙏\n\n✔️6/24까지 이메일 접수 https://t.co/sVryCc9rzx\n✔️예시를 녹음해 신청서와 함께 제출 https://t.co/nG1JNTY2f2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "목소리기부자",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sVryCc9rzx",
+					"expanded_url": "https://bit.ly/30sguI9",
+					"display_url": "bit.ly/30sguI9",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270949170325500000,
+					"id_str": "1270949170325499909",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EaNRiWDUMAULHaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaNRiWDUMAULHaf.jpg",
+					"url": "https://t.co/nG1JNTY2f2",
+					"display_url": "pic.twitter.com/nG1JNTY2f2",
+					"expanded_url": "https://twitter.com/chlove_u/status/1270950227327905792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270949170325500000,
+					"id_str": "1270949170325499909",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EaNRiWDUMAULHaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaNRiWDUMAULHaf.jpg",
+					"url": "https://t.co/nG1JNTY2f2",
+					"display_url": "pic.twitter.com/nG1JNTY2f2",
+					"expanded_url": "https://twitter.com/chlove_u/status/1270950227327905792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270143270,
+			"id_str": "270143270",
+			"name": "문화재청",
+			"screen_name": "chlove_u",
+			"location": "대한민국",
+			"description": "경산에서 발견한 토기를 쓴 문화재청 공식 트위터 입니다. 문화재 이야기를 건넵니다.\n\n#오늘의고움 #문화유산ASMR",
+			"url": "https://t.co/K4AKKH5n7O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K4AKKH5n7O",
+							"expanded_url": "http://cha.go.kr",
+							"display_url": "cha.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35062,
+			"friends_count": 6457,
+			"listed_count": 402,
+			"created_at": "Tue Mar 22 02:21:31 +0000 2011",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214403896434540544/63jEKpyI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214403896434540544/63jEKpyI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270143270/1589360534",
+			"profile_link_color": "828282",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1986,
+		"favorite_count": 4202,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시각장애인을 위한 천연기념물 동물 점자감각책을 만들고 있습니다. 이 책에 들어갈 스토리텔링 내레이션의 #목소리기부자 를 찾습니다.🙏\n\n✔️6/24까지 이메일 접수 https://t.co/sVryCc9rzx\n✔️예시를 녹음해 신청서와 함께 제출 https://t.co/nG1JNTY2f2"
+	},
+	{
+		"created_at": "Sat Jun 13 03:40:03 +0000 2020",
+		"id": 1270754939631857700,
+		"id_str": "1271648502980816897",
+		"full_text": "요즘 이렇게 살고 있다... 하루 개념도 없고... https://t.co/ajvKvYCLCZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270754875215736800,
+					"id_str": "1270754875215736832",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaKg04XUcAAHjqx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaKg04XUcAAHjqx.jpg",
+					"url": "https://t.co/ajvKvYCLCZ",
+					"display_url": "pic.twitter.com/ajvKvYCLCZ",
+					"expanded_url": "https://twitter.com/tiny_wings_/status/1270754939631857664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270754875215736800,
+					"id_str": "1270754875215736832",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaKg04XUcAAHjqx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaKg04XUcAAHjqx.jpg",
+					"url": "https://t.co/ajvKvYCLCZ",
+					"display_url": "pic.twitter.com/ajvKvYCLCZ",
+					"expanded_url": "https://twitter.com/tiny_wings_/status/1270754939631857664/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							141
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EaKg04XUcAAHjqx.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128788313,
+			"id_str": "128788313",
+			"name": "그랑죠",
+			"screen_name": "tiny_wings_",
+			"location": "인터넷",
+			"description": "랜선사념체 / 프사는 @ghoulGee님 작",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1717,
+			"friends_count": 247,
+			"listed_count": 18,
+			"created_at": "Fri Apr 02 05:38:05 +0000 2010",
+			"favourites_count": 2274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076243058604138498/xO0LBMGC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076243058604138498/xO0LBMGC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128788313/1518417465",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22482,
+		"favorite_count": 12866,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 이렇게 살고 있다... 하루 개념도 없고... https://t.co/ajvKvYCLCZ"
+	},
+	{
+		"created_at": "Sat Jun 13 03:39:55 +0000 2020",
+		"id": 1271373182952329200,
+		"id_str": "1271648467153088513",
+		"full_text": "현대카드 DIVE 앱에서 팬메이드 라이브 김사월편 &lt;세상에게&gt;, &lt;붉은늑대&gt;, &lt;로맨스&gt; 라이브를 지금 보실 수 있어요!\n\nhttps://t.co/VbRwnSE819 https://t.co/ddBXuKKhmO https://t.co/2Ci5P3ZiZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VbRwnSE819",
+					"expanded_url": "https://dive.hyundaicard.com/web/content/contentView.hdc?firstBanner=Y&deviceApp=Y&contentId=2141",
+					"display_url": "dive.hyundaicard.com/web/content/co…",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/ddBXuKKhmO",
+					"expanded_url": "https://twitter.com/aprilsour/status/1271370810096144385/photo/1",
+					"display_url": "pic.twitter.com/ddBXuKKhmO",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271372895353049000,
+					"id_str": "1271372895353049093",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTS6YyUEAUPHMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTS6YyUEAUPHMj.jpg",
+					"url": "https://t.co/2Ci5P3ZiZg",
+					"display_url": "pic.twitter.com/2Ci5P3ZiZg",
+					"expanded_url": "https://twitter.com/aprilsour/status/1271373182952329216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 565,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1267,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271372895353049000,
+					"id_str": "1271372895353049093",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTS6YyUEAUPHMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTS6YyUEAUPHMj.jpg",
+					"url": "https://t.co/2Ci5P3ZiZg",
+					"display_url": "pic.twitter.com/2Ci5P3ZiZg",
+					"expanded_url": "https://twitter.com/aprilsour/status/1271373182952329216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 565,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1267,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271372925392744400,
+					"id_str": "1271372925392744448",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTS8IsVcAANZW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTS8IsVcAANZW6.jpg",
+					"url": "https://t.co/2Ci5P3ZiZg",
+					"display_url": "pic.twitter.com/2Ci5P3ZiZg",
+					"expanded_url": "https://twitter.com/aprilsour/status/1271373182952329216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1267,
+							"h": 601,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 569,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271372945613447200,
+					"id_str": "1271372945613447168",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTS9UBU4AABNza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTS9UBU4AABNza.jpg",
+					"url": "https://t.co/2Ci5P3ZiZg",
+					"display_url": "pic.twitter.com/2Ci5P3ZiZg",
+					"expanded_url": "https://twitter.com/aprilsour/status/1271373182952329216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 565,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1274,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271372967591571500,
+					"id_str": "1271372967591571457",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTS-l5UcAE4QVv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTS-l5UcAE4QVv.jpg",
+					"url": "https://t.co/2Ci5P3ZiZg",
+					"display_url": "pic.twitter.com/2Ci5P3ZiZg",
+					"expanded_url": "https://twitter.com/aprilsour/status/1271373182952329216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 565,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1272,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271370810096144400,
+		"in_reply_to_status_id_str": "1271370810096144385",
+		"in_reply_to_user_id": 568866057,
+		"in_reply_to_user_id_str": "568866057",
+		"in_reply_to_screen_name": "aprilsour",
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11656,
+			"friends_count": 761,
+			"listed_count": 48,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 9799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237719404592291841/WJ5VIMga_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237719404592291841/WJ5VIMga_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1587312919",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현대카드 DIVE 앱에서 팬메이드 라이브 김사월편 &lt;세상에게&gt;, &lt;붉은늑대&gt;, &lt;로맨스&gt; 라이브를 지금 보실 수 있어요!\n\nhttps://t.co/VbRwnSE819 https://t.co/ddBXuKKhmO https://t.co/2Ci5P3ZiZg"
+	},
+	{
+		"created_at": "Sat Jun 13 03:38:56 +0000 2020",
+		"id": 1271068927196426200,
+		"id_str": "1271648218577686528",
+		"full_text": "GitTime - Github Trending을 빠르게 구독하기 위한 아이폰 클라이언트 https://t.co/rZsVtx8eVh \n\n- Github Activity를 깔끔하게 표시 \n- Github의 핵심기능인 잔디를 한눈에 보기쉽게 표현 \n- Trending 을 통해 손쉬운 현재 인기 오픈소스 파악 가능\n- 빠른 검색/필터링 가능\n- 오픈소스로...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rZsVtx8eVh",
+					"expanded_url": "https://j.mp/2UyN2wt",
+					"display_url": "j.mp/2UyN2wt",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3112,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "GitTime - Github Trending을 빠르게 구독하기 위한 아이폰 클라이언트 https://t.co/rZsVtx8eVh \n\n- Github Activity를 깔끔하게 표시 \n- Github의 핵심기능인 잔디를 한눈에 보기쉽게 표현 \n- Trending 을 통해 손쉬운 현재 인기 오픈소스 파악 가능\n- 빠른 검색/필터링 가능\n- 오픈소스로..."
+	},
+	{
+		"created_at": "Sat Jun 13 03:38:42 +0000 2020",
+		"id": 1271186244010152000,
+		"id_str": "1271648162751508481",
+		"full_text": "Transparency is core to everything that we do at Twitter. \n\nFor more on the public archive and our ongoing work to protect the integrity of our service from this type of activity, visit the Twitter Transparency Report. https://t.co/kgibX2mbbj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kgibX2mbbj",
+					"expanded_url": "https://transparency.twitter.com/",
+					"display_url": "transparency.twitter.com",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271186243032932400,
+		"in_reply_to_status_id_str": "1271186243032932354",
+		"in_reply_to_user_id": 95731075,
+		"in_reply_to_user_id_str": "95731075",
+		"in_reply_to_screen_name": "TwitterSafety",
+		"user": {
+			"id": 95731075,
+			"id_str": "95731075",
+			"name": "Twitter Safety",
+			"screen_name": "TwitterSafety",
+			"location": "Twitter HQ",
+			"description": "Tweeting the latest safety tools, resources, and updates from @Twitter. For support, visit https://t.co/heEvRrCFXn",
+			"url": "https://t.co/heEvRrCFXn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3435568,
+			"friends_count": 131,
+			"listed_count": 7763,
+			"created_at": "Wed Dec 09 21:00:57 +0000 2009",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95731075/1497491858",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 1336,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Transparency is core to everything that we do at Twitter. \n\nFor more on the public archive and our ongoing work to protect the integrity of our service from this type of activity, visit the Twitter Transparency Report. https://t.co/kgibX2mbbj"
+	},
+	{
+		"created_at": "Sat Jun 13 03:38:40 +0000 2020",
+		"id": 1271186243032932400,
+		"id_str": "1271648152634880001",
+		"full_text": "“Collaborative research provides us with a way to learn from past operations and mitigate future malign efforts.” \n \nView more in a new, independent report from @stanfordio 👇\nhttps://t.co/NECYkZ6a39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stanfordio",
+					"name": "Stanford Internet Observatory",
+					"id": 1231971733634072600,
+					"id_str": "1231971733634072577",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NECYkZ6a39",
+					"expanded_url": "https://cyber.fsi.stanford.edu/io/news/june-2020-twitter-takedown",
+					"display_url": "cyber.fsi.stanford.edu/io/news/june-2…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271186241992695800,
+		"in_reply_to_status_id_str": "1271186241992695815",
+		"in_reply_to_user_id": 95731075,
+		"in_reply_to_user_id_str": "95731075",
+		"in_reply_to_screen_name": "TwitterSafety",
+		"user": {
+			"id": 95731075,
+			"id_str": "95731075",
+			"name": "Twitter Safety",
+			"screen_name": "TwitterSafety",
+			"location": "Twitter HQ",
+			"description": "Tweeting the latest safety tools, resources, and updates from @Twitter. For support, visit https://t.co/heEvRrCFXn",
+			"url": "https://t.co/heEvRrCFXn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3435568,
+			"friends_count": 131,
+			"listed_count": 7763,
+			"created_at": "Wed Dec 09 21:00:57 +0000 2009",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95731075/1497491858",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 508,
+		"favorite_count": 2759,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Collaborative research provides us with a way to learn from past operations and mitigate future malign efforts.” \n \nView more in a new, independent report from @stanfordio 👇\nhttps://t.co/NECYkZ6a39"
+	},
+	{
+		"created_at": "Sat Jun 13 03:38:37 +0000 2020",
+		"id": 1271186241992695800,
+		"id_str": "1271648142828564481",
+		"full_text": "“Twitter’s initiative in making these datasets available for scrutiny is a powerful step in pushing back against this corrosion of the information environment.\"\n \nView more in a new, independent report from @ASPI_ICPC 👇\nhttps://t.co/ZkvVYokRQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ASPI_ICPC",
+					"name": "ASPI Cyber Policy",
+					"id": 1564935007,
+					"id_str": "1564935007",
+					"indices": [
+						207,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZkvVYokRQj",
+					"expanded_url": "https://www.aspi.org.au/report/retweeting-through-great-firewall",
+					"display_url": "aspi.org.au/report/retweet…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271186241170690000,
+		"in_reply_to_status_id_str": "1271186241170690053",
+		"in_reply_to_user_id": 95731075,
+		"in_reply_to_user_id_str": "95731075",
+		"in_reply_to_screen_name": "TwitterSafety",
+		"user": {
+			"id": 95731075,
+			"id_str": "95731075",
+			"name": "Twitter Safety",
+			"screen_name": "TwitterSafety",
+			"location": "Twitter HQ",
+			"description": "Tweeting the latest safety tools, resources, and updates from @Twitter. For support, visit https://t.co/heEvRrCFXn",
+			"url": "https://t.co/heEvRrCFXn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3435568,
+			"friends_count": 131,
+			"listed_count": 7763,
+			"created_at": "Wed Dec 09 21:00:57 +0000 2009",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95731075/1497491858",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 316,
+		"favorite_count": 1664,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Twitter’s initiative in making these datasets available for scrutiny is a powerful step in pushing back against this corrosion of the information environment.\"\n \nView more in a new, independent report from @ASPI_ICPC 👇\nhttps://t.co/ZkvVYokRQj"
+	},
+	{
+		"created_at": "Sat Jun 13 03:38:35 +0000 2020",
+		"id": 1271186241170690000,
+		"id_str": "1271648132359524353",
+		"full_text": "The goal is to serve the public conversation and advance shared understanding of these critical issues. We’ve partnered with Stanford &amp; the Australian Strategic Policy Institute, leaders in this area that are providing independent analysis today.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271186240323432400,
+		"in_reply_to_status_id_str": "1271186240323432452",
+		"in_reply_to_user_id": 95731075,
+		"in_reply_to_user_id_str": "95731075",
+		"in_reply_to_screen_name": "TwitterSafety",
+		"user": {
+			"id": 95731075,
+			"id_str": "95731075",
+			"name": "Twitter Safety",
+			"screen_name": "TwitterSafety",
+			"location": "Twitter HQ",
+			"description": "Tweeting the latest safety tools, resources, and updates from @Twitter. For support, visit https://t.co/heEvRrCFXn",
+			"url": "https://t.co/heEvRrCFXn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3435568,
+			"friends_count": 131,
+			"listed_count": 7763,
+			"created_at": "Wed Dec 09 21:00:57 +0000 2009",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95731075/1497491858",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 325,
+		"favorite_count": 2368,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The goal is to serve the public conversation and advance shared understanding of these critical issues. We’ve partnered with Stanford &amp; the Australian Strategic Policy Institute, leaders in this area that are providing independent analysis today."
+	},
+	{
+		"created_at": "Sat Jun 13 03:38:31 +0000 2020",
+		"id": 1271186240323432400,
+		"id_str": "1271648113527148550",
+		"full_text": "We’re disclosing new state-linked information operations to our public archive — the only one of its kind in the industry. Originating from the People’s Republic of China (PRC), Russia, and Turkey, all associated accounts and content have been removed. https://t.co/obRqr96iYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/obRqr96iYm",
+					"expanded_url": "https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html",
+					"display_url": "blog.twitter.com/en_us/topics/c…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95731075,
+			"id_str": "95731075",
+			"name": "Twitter Safety",
+			"screen_name": "TwitterSafety",
+			"location": "Twitter HQ",
+			"description": "Tweeting the latest safety tools, resources, and updates from @Twitter. For support, visit https://t.co/heEvRrCFXn",
+			"url": "https://t.co/heEvRrCFXn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrCFXn",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3435568,
+			"friends_count": 131,
+			"listed_count": 7763,
+			"created_at": "Wed Dec 09 21:00:57 +0000 2009",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95731075/1497491858",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8407,
+		"favorite_count": 22478,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re disclosing new state-linked information operations to our public archive — the only one of its kind in the industry. Originating from the People’s Republic of China (PRC), Russia, and Turkey, all associated accounts and content have been removed. https://t.co/obRqr96iYm"
+	},
+	{
+		"created_at": "Sat Jun 13 03:38:14 +0000 2020",
+		"id": 1271208701467127800,
+		"id_str": "1271648042513346560",
+		"full_text": "인종차별문제 해소에 적극 뛰어든 실리콘밸리 행보 https://t.co/rnoIeEdTvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rnoIeEdTvC",
+					"expanded_url": "http://www.bloter.net/archives/389709",
+					"display_url": "bloter.net/archives/389709",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55313,
+			"friends_count": 9,
+			"listed_count": 2393,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인종차별문제 해소에 적극 뛰어든 실리콘밸리 행보 https://t.co/rnoIeEdTvC"
+	},
+	{
+		"created_at": "Sat Jun 13 03:37:56 +0000 2020",
+		"id": 1271291854076514300,
+		"id_str": "1271647967770898432",
+		"full_text": "&gt;&gt;Times New Roman만이 지겨우시다고요?&lt;&lt;\n1932년 만들어진 타임즈로만을 베이스로 해서\n1982년에 새롭게 리디자인한 따끈따끈(????) 한\n신상 타임즈로만 님버스로만(Nimbus Roman)\n\n어도비앱 사용하시면 어도비폰트 사이트에서 동기화 할 수있습니다\nhttps://t.co/Q4KnMJYP5A https://t.co/4arHU9DXVF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q4KnMJYP5A",
+					"expanded_url": "https://fonts.adobe.com/fonts/nimbus-roman#fonts-section",
+					"display_url": "fonts.adobe.com/fonts/nimbus-r…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271291678880485400,
+					"id_str": "1271291678880485376",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EaSJC92U0AAtwI8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaSJC92U0AAtwI8.png",
+					"url": "https://t.co/4arHU9DXVF",
+					"display_url": "pic.twitter.com/4arHU9DXVF",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1271291854076514305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2016,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271291678880485400,
+					"id_str": "1271291678880485376",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EaSJC92U0AAtwI8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaSJC92U0AAtwI8.png",
+					"url": "https://t.co/4arHU9DXVF",
+					"display_url": "pic.twitter.com/4arHU9DXVF",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1271291854076514305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2016,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865973278493466600,
+			"id_str": "865973278493466624",
+			"name": "윤고선",
+			"screen_name": "chaeumbooks",
+			"location": "대한민국 서울",
+			"description": "단짝 친구 처럼 편집과 디자인 관련 알짜 정보와 노하우를 무한으로 공유합니다.  (๑˃̵ᴗ˂̵)و \n강의상담  https://t.co/fLCq1jJjYr",
+			"url": "https://t.co/RcSO0Ujw13",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RcSO0Ujw13",
+							"expanded_url": "http://blog.naver.com/midorisoo",
+							"display_url": "blog.naver.com/midorisoo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLCq1jJjYr",
+							"expanded_url": "http://open.kakao.com/o/spFkrZeb",
+							"display_url": "open.kakao.com/o/spFkrZeb",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7228,
+			"friends_count": 31,
+			"listed_count": 31,
+			"created_at": "Sat May 20 16:51:33 +0000 2017",
+			"favourites_count": 385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256583707843899392/D5ARDaYZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256583707843899392/D5ARDaYZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865973278493466624/1573567837",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 92,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&gt;&gt;Times New Roman만이 지겨우시다고요?&lt;&lt;\n1932년 만들어진 타임즈로만을 베이스로 해서\n1982년에 새롭게 리디자인한 따끈따끈(????) 한\n신상 타임즈로만 님버스로만(Nimbus Roman)\n\n어도비앱 사용하시면 어도비폰트 사이트에서 동기화 할 수있습니다\nhttps://t.co/Q4KnMJYP5A https://t.co/4arHU9DXVF"
+	},
+	{
+		"created_at": "Sat Jun 13 03:37:31 +0000 2020",
+		"id": 1271349357355253800,
+		"id_str": "1271647863479533570",
+		"full_text": "&lt;할 일을 자꾸 미루는 사람들을 위한 스프레드시트&gt;\n\n할 일을 자꾸 미루는 것을 영어로 Procrastination이라고 합니다.  \n\n저처럼 Procrastination으로 고통받는 사람들을 위해, 스타트업 코치 Dave Bailey가 나섰습니다. - 퍼블리 6/12 뉴스레터 중 \n\nhttps://t.co/a5eVFJVcOy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a5eVFJVcOy",
+					"expanded_url": "https://mailchi.mp/publy/what-were-reading-5000-dollars",
+					"display_url": "mailchi.mp/publy/what-wer…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067401196,
+			"id_str": "1067401196",
+			"name": "박소령 | Soryoung Park",
+			"screen_name": "January19_",
+			"location": "",
+			"description": "일하는 사람들의 콘텐츠 플랫폼, 퍼블리를 만듭니다. 트위터에서는 일하는 사람들과 일하는 마인드에 대한 이야기를 주로 소개합니다. 그리고 재밌는 콘텐츠 추천도. -:) CEO of PUBLY @publy_",
+			"url": "https://t.co/BPqHYGGmHS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BPqHYGGmHS",
+							"expanded_url": "http://publy.co",
+							"display_url": "publy.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17207,
+			"friends_count": 30,
+			"listed_count": 118,
+			"created_at": "Mon Jan 07 04:10:56 +0000 2013",
+			"favourites_count": 6759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239182499323904001/xjiGA7-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239182499323904001/xjiGA7-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067401196/1578142251",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 601,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;할 일을 자꾸 미루는 사람들을 위한 스프레드시트&gt;\n\n할 일을 자꾸 미루는 것을 영어로 Procrastination이라고 합니다.  \n\n저처럼 Procrastination으로 고통받는 사람들을 위해, 스타트업 코치 Dave Bailey가 나섰습니다. - 퍼블리 6/12 뉴스레터 중 \n\nhttps://t.co/a5eVFJVcOy"
+	},
+	{
+		"created_at": "Sat Jun 13 03:36:46 +0000 2020",
+		"id": 1271354884525179000,
+		"id_str": "1271647676291940352",
+		"full_text": "벼르고 벼르던 케이팝 아이돌 1~4세대 세대론 정리글을 드디어 내보냅니다... 은재님을 비롯해 자문 주신 아이돌로지 필진 분들께 감사드립니다.\n세대론 관련 몇 가지 글을 더 쓸 예정이고, 20일에 있을 퀴어돌로지 세미나 발제 \"세대론으로 읽는 케이팝의 퀴어니스\" 역시 이 글에 기초해있습니다. https://t.co/A6YOuGjW0U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A6YOuGjW0U",
+					"expanded_url": "https://twitter.com/idologykr/status/1271353799664230404",
+					"display_url": "twitter.com/idologykr/stat…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 881495345049378800,
+			"id_str": "881495345049378816",
+			"name": "스큅입니다😷",
+			"screen_name": "dis1co",
+			"location": "",
+			"description": "머글과 덕후 사이(라고 주장하는) 케이팝 디나이얼 러버 / DJ 퀴비(QUIBBIE) @yang5quibbie / https://t.co/iNzLTVDeRH / 익명질문 https://t.co/4a45o5tMge",
+			"url": "https://t.co/R4kUfqvzVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R4kUfqvzVG",
+							"expanded_url": "http://blog.naver.com/dis1co",
+							"display_url": "blog.naver.com/dis1co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iNzLTVDeRH",
+							"expanded_url": "http://idology.kr",
+							"display_url": "idology.kr",
+							"indices": [
+								64,
+								87
+							]
+						},
+						{
+							"url": "https://t.co/4a45o5tMge",
+							"expanded_url": "http://peing.net/ko/dis1co",
+							"display_url": "peing.net/ko/dis1co",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 990,
+			"listed_count": 6,
+			"created_at": "Sun Jul 02 12:50:42 +0000 2017",
+			"favourites_count": 40270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245371167935885313/--6Ci_XO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245371167935885313/--6Ci_XO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881495345049378816/1585754599",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271353799664230400,
+		"quoted_status_id_str": "1271353799664230404",
+		"quoted_status_permalink": {
+			"url": "https://t.co/A6YOuGjW0U",
+			"expanded": "https://twitter.com/idologykr/status/1271353799664230404",
+			"display": "twitter.com/idologykr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 12 08:09:01 +0000 2020",
+			"id": 1271353799664230400,
+			"id_str": "1271353799664230404",
+			"full_text": "아이돌 세대론: ① 2020 아이돌팝 세대론 https://t.co/NIqbmx06si by 스큅\n\n\"우리는 이미 직관적으로 세대를 구분하고 있지만 기준은 과연 무엇인가? 이 글에서는 케이팝의 주도권이 점점 해외로 넘어가는 일련의 과정으로 조망하며, 케이팝이 구성 및 재구성 되어온 흐름을 살펴보고자 한다.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NIqbmx06si",
+						"expanded_url": "http://idology.kr/13070",
+						"display_url": "idology.kr/13070",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2370674196,
+				"id_str": "2370674196",
+				"name": "아이돌로지",
+				"screen_name": "idologykr",
+				"location": "",
+				"description": "다르게 말하는 아이돌팝 웹진, 아이돌로지입니다.",
+				"url": "https://t.co/iNzLTVDeRH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iNzLTVDeRH",
+								"expanded_url": "http://idology.kr",
+								"display_url": "idology.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7043,
+				"friends_count": 67,
+				"listed_count": 43,
+				"created_at": "Mon Mar 03 16:50:27 +0000 2014",
+				"favourites_count": 334,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1984,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/445979354716069888/CK21Rmxa_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/445979354716069888/CK21Rmxa_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2370674196/1406071135",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 119,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 111,
+		"favorite_count": 114,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벼르고 벼르던 케이팝 아이돌 1~4세대 세대론 정리글을 드디어 내보냅니다... 은재님을 비롯해 자문 주신 아이돌로지 필진 분들께 감사드립니다.\n세대론 관련 몇 가지 글을 더 쓸 예정이고, 20일에 있을 퀴어돌로지 세미나 발제 \"세대론으로 읽는 케이팝의 퀴어니스\" 역시 이 글에 기초해있습니다. https://t.co/A6YOuGjW0U"
+	},
+	{
+		"created_at": "Sat Jun 13 03:36:42 +0000 2020",
+		"id": 1271353799664230400,
+		"id_str": "1271647658763882497",
+		"full_text": "아이돌 세대론: ① 2020 아이돌팝 세대론 https://t.co/NIqbmx06si by 스큅\n\n\"우리는 이미 직관적으로 세대를 구분하고 있지만 기준은 과연 무엇인가? 이 글에서는 케이팝의 주도권이 점점 해외로 넘어가는 일련의 과정으로 조망하며, 케이팝이 구성 및 재구성 되어온 흐름을 살펴보고자 한다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NIqbmx06si",
+					"expanded_url": "http://idology.kr/13070",
+					"display_url": "idology.kr/13070",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2370674196,
+			"id_str": "2370674196",
+			"name": "아이돌로지",
+			"screen_name": "idologykr",
+			"location": "",
+			"description": "다르게 말하는 아이돌팝 웹진, 아이돌로지입니다.",
+			"url": "https://t.co/iNzLTVDeRH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iNzLTVDeRH",
+							"expanded_url": "http://idology.kr",
+							"display_url": "idology.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7043,
+			"friends_count": 67,
+			"listed_count": 43,
+			"created_at": "Mon Mar 03 16:50:27 +0000 2014",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/445979354716069888/CK21Rmxa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/445979354716069888/CK21Rmxa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2370674196/1406071135",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 119,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이돌 세대론: ① 2020 아이돌팝 세대론 https://t.co/NIqbmx06si by 스큅\n\n\"우리는 이미 직관적으로 세대를 구분하고 있지만 기준은 과연 무엇인가? 이 글에서는 케이팝의 주도권이 점점 해외로 넘어가는 일련의 과정으로 조망하며, 케이팝이 구성 및 재구성 되어온 흐름을 살펴보고자 한다.\""
+	},
+	{
 		"created_at": "Sat Jun 13 03:01:14 +0000 2020",
 		"id": 1271638732043694000,
 		"id_str": "1271638732043694082",
