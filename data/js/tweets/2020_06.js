@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 14:07:03 +0000 2020",
+		"id": 1258243737764769800,
+		"id_str": "1271806291984281601",
+		"full_text": "서운하다는 연상과 달래주는 연하 ~ ,, https://t.co/0lT90OBEjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258242775297843200,
+					"id_str": "1258242775297843205",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258242775297843205/pu/img/bqOiNLmDaFUo8ABI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258242775297843205/pu/img/bqOiNLmDaFUo8ABI.jpg",
+					"url": "https://t.co/0lT90OBEjV",
+					"display_url": "pic.twitter.com/0lT90OBEjV",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1258243737764769792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 856,
+							"h": 488,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 856,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258242775297843200,
+					"id_str": "1258242775297843205",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258242775297843205/pu/img/bqOiNLmDaFUo8ABI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258242775297843205/pu/img/bqOiNLmDaFUo8ABI.jpg",
+					"url": "https://t.co/0lT90OBEjV",
+					"display_url": "pic.twitter.com/0lT90OBEjV",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1258243737764769792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 856,
+							"h": 488,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 856,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							107,
+							61
+						],
+						"duration_millis": 31100,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258242775297843205/pu/vid/630x360/BYE1D8wnXuaSs_-i.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258242775297843205/pu/vid/472x270/N8nPnaZenfkJnJ13.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258242775297843205/pu/vid/856x488/3wFKXKTXyEC7ScJV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1258242775297843205/pu/pl/SgM4rKiS-ql_-zx0.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180291928031514600,
+			"id_str": "1180291928031514624",
+			"name": "여자영상저장소",
+			"screen_name": "zmfflq1234",
+			"location": "여자만/모멘트에 정리",
+			"description": "제보 안 받아용 ㅠㅠ 영상출처 궁금한 점 비판 등등 편하게 아래 링크로 / @zmfflq12345",
+			"url": "https://t.co/D047JkKfoh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D047JkKfoh",
+							"expanded_url": "http://pushoong.com/9056084585?c=3",
+							"display_url": "pushoong.com/9056084585?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68590,
+			"friends_count": 0,
+			"listed_count": 97,
+			"created_at": "Sat Oct 05 01:21:50 +0000 2019",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180291928031514624/1580997391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3016,
+		"favorite_count": 2524,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서운하다는 연상과 달래주는 연하 ~ ,, https://t.co/0lT90OBEjV"
+	},
+	{
 		"created_at": "Sat Jun 13 13:33:24 +0000 2020",
 		"id": 1271797825001701400,
 		"id_str": "1271797825001701380",
