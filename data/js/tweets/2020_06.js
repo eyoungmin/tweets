@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 15:27:56 +0000 2020",
+		"id": 1272182010405105700,
+		"id_str": "1272189035914592264",
+		"full_text": "SEULGI's little Monster 🎨\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster #슬기_몬스터_로딩중 https://t.co/oMbJaR3l6v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "슬기_몬스터_로딩중",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272051556720894000,
+					"id_str": "1272051556720893952",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Eac8mKZVcAAK_Nz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eac8mKZVcAAK_Nz.jpg",
+					"url": "https://t.co/oMbJaR3l6v",
+					"display_url": "pic.twitter.com/oMbJaR3l6v",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1272182010405105664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272051556720894000,
+					"id_str": "1272051556720893952",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Eac8mKZVcAAK_Nz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eac8mKZVcAAK_Nz.jpg",
+					"url": "https://t.co/oMbJaR3l6v",
+					"display_url": "pic.twitter.com/oMbJaR3l6v",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1272182010405105664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 83183,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272051556720893952/vid/640x360/dj7jUGOquQ9CmTwI.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272051556720893952/vid/1280x720/HuxQaZE-IWbZR22P.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1272051556720893952/pl/F2dhTWU4uGi6TgUg.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272051556720893952/vid/480x270/JKww2CB21JNac8Aw.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2669964,
+			"friends_count": 2,
+			"listed_count": 5707,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14275,
+		"favorite_count": 27038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "SEULGI's little Monster 🎨\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster #슬기_몬스터_로딩중 https://t.co/oMbJaR3l6v"
+	},
+	{
 		"created_at": "Sun Jun 14 15:18:11 +0000 2020",
 		"id": 1272186580476792800,
 		"id_str": "1272186580476792832",
