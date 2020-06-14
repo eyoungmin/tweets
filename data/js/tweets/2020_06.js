@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 03:45:37 +0000 2020",
+		"id": 1272000907887046700,
+		"id_str": "1272012289324056576",
+		"full_text": "일요일 오후 12시 30분(KST)은 무슨 시간일까요, 오빛? 바로 스페셜 MC #이브 와 함께 TBS ‘팩트인스타’ 본방사수 하는 시간! 오늘도 사과처럼 상큼한 시간 같이 보내요🍎\n\n#이달의소녀 #LOONA #Yves https://t.co/ihsO9ZrbHW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272000895425720300,
+					"id_str": "1272000895425720325",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EacOEzXUMAUjz9v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacOEzXUMAUjz9v.jpg",
+					"url": "https://t.co/ihsO9ZrbHW",
+					"display_url": "pic.twitter.com/ihsO9ZrbHW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1272000907887046656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272000895425720300,
+					"id_str": "1272000895425720325",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EacOEzXUMAUjz9v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacOEzXUMAUjz9v.jpg",
+					"url": "https://t.co/ihsO9ZrbHW",
+					"display_url": "pic.twitter.com/ihsO9ZrbHW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1272000907887046656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478976,
+			"friends_count": 0,
+			"listed_count": 4874,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4576,
+		"favorite_count": 13839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일요일 오후 12시 30분(KST)은 무슨 시간일까요, 오빛? 바로 스페셜 MC #이브 와 함께 TBS ‘팩트인스타’ 본방사수 하는 시간! 오늘도 사과처럼 상큼한 시간 같이 보내요🍎\n\n#이달의소녀 #LOONA #Yves https://t.co/ihsO9ZrbHW"
+	},
+	{
 		"created_at": "Sun Jun 14 03:00:35 +0000 2020",
 		"id": 1272000955706376200,
 		"id_str": "1272000955706376193",
