@@ -1,6 +1,752 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 22:01:55 +0000 2020",
+		"id": 1272152012117864400,
+		"id_str": "1272288184357937152",
+		"full_text": "다양하게 변화한 헤어스타일만큼이나 시간이 흘렀다는 것을 깨닫는다. 캐스퍼라디오 @casperradio_ 식구 분들 고생하셨고, 정말 늘 막무가내로 덤비는 내 성격이 만든 그 시간들 동안 연륜의 힘으로 알찬 콘텐츠를 위해 노력해주신 윤하, 박국 씨에게 감사드린다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "casperradio_",
+					"name": "CASPERRADIO",
+					"id": 1022765899126730800,
+					"id_str": "1022765899126730752",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272151156316225500,
+		"in_reply_to_status_id_str": "1272151156316225538",
+		"in_reply_to_user_id": 918810726034153500,
+		"in_reply_to_user_id_str": "918810726034153475",
+		"in_reply_to_screen_name": "muse_at",
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 사용하는 호칭이며, 저는 K-Pop 아이돌/문화 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3076,
+			"friends_count": 138,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다양하게 변화한 헤어스타일만큼이나 시간이 흘렀다는 것을 깨닫는다. 캐스퍼라디오 @casperradio_ 식구 분들 고생하셨고, 정말 늘 막무가내로 덤비는 내 성격이 만든 그 시간들 동안 연륜의 힘으로 알찬 콘텐츠를 위해 노력해주신 윤하, 박국 씨에게 감사드린다."
+	},
+	{
+		"created_at": "Sun Jun 14 22:01:46 +0000 2020",
+		"id": 1272151156316225500,
+		"id_str": "1272288144671387648",
+		"full_text": "지금은 박국 @HAVAQQUQ 씨와 윤하 씨 두 분이 진행해주고 계시지만, 사실 처음에는 여성 전문가들이 여기에 둘이나 있다는 걸 알리고 싶어서 그렇게 팀을 짰다. 시간이 흐르는 동안 여러 일을 겪으면서도 일주일에 한 번씩 만나 두 여성이 얘기한 음반의 숫자가 아마 700여 장은 되지 않을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272150278964310000,
+		"in_reply_to_status_id_str": "1272150278964310021",
+		"in_reply_to_user_id": 918810726034153500,
+		"in_reply_to_user_id_str": "918810726034153475",
+		"in_reply_to_screen_name": "muse_at",
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 사용하는 호칭이며, 저는 K-Pop 아이돌/문화 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3076,
+			"friends_count": 138,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금은 박국 @HAVAQQUQ 씨와 윤하 씨 두 분이 진행해주고 계시지만, 사실 처음에는 여성 전문가들이 여기에 둘이나 있다는 걸 알리고 싶어서 그렇게 팀을 짰다. 시간이 흐르는 동안 여러 일을 겪으면서도 일주일에 한 번씩 만나 두 여성이 얘기한 음반의 숫자가 아마 700여 장은 되지 않을까."
+	},
+	{
+		"created_at": "Sun Jun 14 22:01:44 +0000 2020",
+		"id": 1272150278964310000,
+		"id_str": "1272288135586516992",
+		"full_text": "3년 전쯤, 매스사 대표님께 다짜고짜 연락해서 \"제가 기자고 K-POP 이야기가 하고 싶은데요. 혹시 남는 시간 있으면 껴주실래요?\" 해서 시작된 게 바로 #베뉴팝 이었다. 누구와 하고 싶냐고 해서 같이 차 한 잔 마신 적 없이 안면만 텄던 윤하 @romanflare 씨와 하고 싶다고 했다. https://t.co/Yud5w2wcbl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "베뉴팝",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "romanflare",
+					"name": "김윤하 kim yoonha",
+					"id": 113674917,
+					"id_str": "113674917",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272150263562825700,
+					"id_str": "1272150263562825728",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeV7LCU8AAnzxq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeV7LCU8AAnzxq.jpg",
+					"url": "https://t.co/Yud5w2wcbl",
+					"display_url": "pic.twitter.com/Yud5w2wcbl",
+					"expanded_url": "https://twitter.com/muse_at/status/1272150278964310021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272150263562825700,
+					"id_str": "1272150263562825728",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeV7LCU8AAnzxq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeV7LCU8AAnzxq.jpg",
+					"url": "https://t.co/Yud5w2wcbl",
+					"display_url": "pic.twitter.com/Yud5w2wcbl",
+					"expanded_url": "https://twitter.com/muse_at/status/1272150278964310021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 사용하는 호칭이며, 저는 K-Pop 아이돌/문화 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3076,
+			"friends_count": 138,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3년 전쯤, 매스사 대표님께 다짜고짜 연락해서 \"제가 기자고 K-POP 이야기가 하고 싶은데요. 혹시 남는 시간 있으면 껴주실래요?\" 해서 시작된 게 바로 #베뉴팝 이었다. 누구와 하고 싶냐고 해서 같이 차 한 잔 마신 적 없이 안면만 텄던 윤하 @romanflare 씨와 하고 싶다고 했다. https://t.co/Yud5w2wcbl"
+	},
+	{
+		"created_at": "Sun Jun 14 22:01:26 +0000 2020",
+		"id": 1272008026237460500,
+		"id_str": "1272288063067058178",
+		"full_text": "3. 이는 다양한 교육적 실천을 도모할 수 있는 이론적 토대가 됩니다. 사회에서 리터러시와 권력이 맺는 관계를 비판적으로 인식하고 이를 교육적 실천으로 이어가길 원하시는 분이라면 한번 쯤 살펴보시면 좋겠습니다. https://t.co/45p63AZTk9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272007943601352700,
+					"id_str": "1272007943601352704",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EacUfD3VcAAunHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacUfD3VcAAunHG.jpg",
+					"url": "https://t.co/45p63AZTk9",
+					"display_url": "pic.twitter.com/45p63AZTk9",
+					"expanded_url": "https://twitter.com/sungwookim/status/1272008026237460480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272007943601352700,
+					"id_str": "1272007943601352704",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EacUfD3VcAAunHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacUfD3VcAAunHG.jpg",
+					"url": "https://t.co/45p63AZTk9",
+					"display_url": "pic.twitter.com/45p63AZTk9",
+					"expanded_url": "https://twitter.com/sungwookim/status/1272008026237460480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272007977340264400,
+					"id_str": "1272007977340264454",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EacUhBjUYAYz2qt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacUhBjUYAYz2qt.jpg",
+					"url": "https://t.co/45p63AZTk9",
+					"display_url": "pic.twitter.com/45p63AZTk9",
+					"expanded_url": "https://twitter.com/sungwookim/status/1272008026237460480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272008009036624000,
+					"id_str": "1272008009036623872",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EacUi3oUcAA4vQK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacUi3oUcAA4vQK.jpg",
+					"url": "https://t.co/45p63AZTk9",
+					"display_url": "pic.twitter.com/45p63AZTk9",
+					"expanded_url": "https://twitter.com/sungwookim/status/1272008026237460480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272007695420108800,
+		"in_reply_to_status_id_str": "1272007695420108801",
+		"in_reply_to_user_id": 37377088,
+		"in_reply_to_user_id_str": "37377088",
+		"in_reply_to_screen_name": "sungwookim",
+		"user": {
+			"id": 37377088,
+			"id_str": "37377088",
+			"name": "Sungwoo Kim 김성우",
+			"screen_name": "sungwookim",
+			"location": "",
+			"description": "배우고 가르치고 찍고 씁니다.",
+			"url": "http://t.co/xqbfVmAd8P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xqbfVmAd8P",
+							"expanded_url": "http://writinglife.kr",
+							"display_url": "writinglife.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1763,
+			"listed_count": 139,
+			"created_at": "Sun May 03 06:13:04 +0000 2009",
+			"favourites_count": 2472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384053587/sungwoo_post_box_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384053587/sungwoo_post_box_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37377088/1586180432",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3. 이는 다양한 교육적 실천을 도모할 수 있는 이론적 토대가 됩니다. 사회에서 리터러시와 권력이 맺는 관계를 비판적으로 인식하고 이를 교육적 실천으로 이어가길 원하시는 분이라면 한번 쯤 살펴보시면 좋겠습니다. https://t.co/45p63AZTk9"
+	},
+	{
+		"created_at": "Sun Jun 14 22:01:24 +0000 2020",
+		"id": 1272007695420108800,
+		"id_str": "1272288051696291840",
+		"full_text": "2. 비판적 담론분석(critical discourse analysis)과 비판 리터러시 연구(critical literacy studies)의 흐름 속에서 이 책은 특히 교육에 관심이 있는 분들께 유용합니다. 리터러시와 권력이 맺는 유기적 관계를 명쾌하게 밝히면서 리터러시를 개념화할 수 있는 모델을 제공해 주기 때문입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272007563094061000,
+		"in_reply_to_status_id_str": "1272007563094061057",
+		"in_reply_to_user_id": 37377088,
+		"in_reply_to_user_id_str": "37377088",
+		"in_reply_to_screen_name": "sungwookim",
+		"user": {
+			"id": 37377088,
+			"id_str": "37377088",
+			"name": "Sungwoo Kim 김성우",
+			"screen_name": "sungwookim",
+			"location": "",
+			"description": "배우고 가르치고 찍고 씁니다.",
+			"url": "http://t.co/xqbfVmAd8P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xqbfVmAd8P",
+							"expanded_url": "http://writinglife.kr",
+							"display_url": "writinglife.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1763,
+			"listed_count": 139,
+			"created_at": "Sun May 03 06:13:04 +0000 2009",
+			"favourites_count": 2472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384053587/sungwoo_post_box_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384053587/sungwoo_post_box_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37377088/1586180432",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2. 비판적 담론분석(critical discourse analysis)과 비판 리터러시 연구(critical literacy studies)의 흐름 속에서 이 책은 특히 교육에 관심이 있는 분들께 유용합니다. 리터러시와 권력이 맺는 유기적 관계를 명쾌하게 밝히면서 리터러시를 개념화할 수 있는 모델을 제공해 주기 때문입니다."
+	},
+	{
 		"created_at": "Sun Jun 14 20:43:24 +0000 2020",
 		"id": 1272268422701858800,
 		"id_str": "1272268422701858821",
