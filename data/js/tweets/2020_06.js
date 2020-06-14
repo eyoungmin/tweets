@@ -1,6 +1,2935 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 22:49:58 +0000 2020",
+		"id": 1271978169881333800,
+		"id_str": "1272300274112016384",
+		"full_text": "Rally - 온라인 가상 이벤트 플랫폼 https://t.co/N6ZWceqcMW \n- 스탠드업 파티 등에서 그룹단위의 대화가 진행되는 것을 온라인으로 구현\n- 여러개의 대화가 동시에 진행되고 클릭만으로 대화간에 이동 가능\n- 네트워킹, 회식, 브레인스토밍 등 자유로운 대화 형식에 적합\n- 브랜딩, 티켓, 결제...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N6ZWceqcMW",
+					"expanded_url": "https://j.mp/37ubOmI",
+					"display_url": "j.mp/37ubOmI",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3116,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Rally - 온라인 가상 이벤트 플랫폼 https://t.co/N6ZWceqcMW \n- 스탠드업 파티 등에서 그룹단위의 대화가 진행되는 것을 온라인으로 구현\n- 여러개의 대화가 동시에 진행되고 클릭만으로 대화간에 이동 가능\n- 네트워킹, 회식, 브레인스토밍 등 자유로운 대화 형식에 적합\n- 브랜딩, 티켓, 결제..."
+	},
+	{
+		"created_at": "Sun Jun 14 22:49:42 +0000 2020",
+		"id": 1271999678289084400,
+		"id_str": "1272300207170969600",
+		"full_text": "\"늘 밝고 깨끗하게 웃었다면, 이제는 어느 정도 웃지 않는 얼굴로 그것까지 하나의 퍼포먼스화할 수 있는 아티스트면 좋겠어요. 웃지 않고 눈빛으로만 이야기를 던질 수도 있는, 그만큼 여러 가지를 표현할 수 있는 사람.\"\n\n#우리의_무대는_계속될_거야 #오마이걸 #유아 #우주북스 #6월24일_출간 https://t.co/l3JADEaF2G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우리의_무대는_계속될_거야",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "우주북스",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "6월24일_출간",
+					"indices": [
+						155,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271999664636616700,
+					"id_str": "1271999664636616707",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EacM9KUU4AMlGXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacM9KUU4AMlGXK.jpg",
+					"url": "https://t.co/l3JADEaF2G",
+					"display_url": "pic.twitter.com/l3JADEaF2G",
+					"expanded_url": "https://twitter.com/muse_at/status/1271999678289084419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271999664636616700,
+					"id_str": "1271999664636616707",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EacM9KUU4AMlGXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacM9KUU4AMlGXK.jpg",
+					"url": "https://t.co/l3JADEaF2G",
+					"display_url": "pic.twitter.com/l3JADEaF2G",
+					"expanded_url": "https://twitter.com/muse_at/status/1271999678289084419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271999675994783700,
+					"id_str": "1271999675994783744",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EacM90oUwAAixap.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacM90oUwAAixap.jpg",
+					"url": "https://t.co/l3JADEaF2G",
+					"display_url": "pic.twitter.com/l3JADEaF2G",
+					"expanded_url": "https://twitter.com/muse_at/status/1271999678289084419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 사용하는 호칭이며, 저는 K-Pop 아이돌/문화 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3076,
+			"friends_count": 138,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"늘 밝고 깨끗하게 웃었다면, 이제는 어느 정도 웃지 않는 얼굴로 그것까지 하나의 퍼포먼스화할 수 있는 아티스트면 좋겠어요. 웃지 않고 눈빛으로만 이야기를 던질 수도 있는, 그만큼 여러 가지를 표현할 수 있는 사람.\"\n\n#우리의_무대는_계속될_거야 #오마이걸 #유아 #우주북스 #6월24일_출간 https://t.co/l3JADEaF2G"
+	},
+	{
+		"created_at": "Sun Jun 14 22:47:08 +0000 2020",
+		"id": 1271774684690952200,
+		"id_str": "1272299563273949184",
+		"full_text": "#포크라노스 #POCLANOS\n[Teaser] 신해경 (Shin Hae Gyeong) - 그대는 총천연색 (Colors of You) / Official Teaser\nhttps://t.co/8bJTlHwiAr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8bJTlHwiAr",
+					"expanded_url": "https://youtu.be/0te9qGHJvlQ",
+					"display_url": "youtu.be/0te9qGHJvlQ",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254890453033312300,
+			"id_str": "1254890453033312256",
+			"name": "포크라노스 봇",
+			"screen_name": "POCLANOS",
+			"location": "",
+			"description": "인디음악 유통사 포크라노스 비공식 봇\n\n현재의 가장 새롭고 신선한 음악들을 소개하는 뮤직 딜리버리 브랜드, #포크라노스\n#Poclanos is a music delivery brand that introduces fresh, new music of the current moment.",
+			"url": "https://t.co/WpmlZLoC0J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpmlZLoC0J",
+							"expanded_url": "http://poclanos.com/",
+							"display_url": "poclanos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24,
+			"friends_count": 2,
+			"listed_count": 3,
+			"created_at": "Mon Apr 27 21:49:55 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254891553669046272/MEzZ8KBM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254891553669046272/MEzZ8KBM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254890453033312256/1588024437",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Teaser] 신해경 (Shin Hae Gyeong) - 그대는 총천연색 (Colors of You) / Official Teaser\nhttps://t.co/8bJTlHwiAr"
+	},
+	{
+		"created_at": "Sun Jun 14 22:46:22 +0000 2020",
+		"id": 1272299367567745000,
+		"id_str": "1272299367567745024",
+		"full_text": "[권혁주의 직격인터뷰] “중산층 증세 없는 기본소득 시행은 불가능한 거짓말”\nhttps://t.co/CqqihZ95Bc #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CqqihZ95Bc",
+					"expanded_url": "https://news.joins.com/article/23799923",
+					"display_url": "news.joins.com/article/237999…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[권혁주의 직격인터뷰] “중산층 증세 없는 기본소득 시행은 불가능한 거짓말”\nhttps://t.co/CqqihZ95Bc #minfav"
+	},
+	{
+		"created_at": "Sun Jun 14 22:45:35 +0000 2020",
+		"id": 1271992806152626200,
+		"id_str": "1272299173065265153",
+		"full_text": "대학 축제도 비대면으로 https://t.co/YMkWUXhjAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YMkWUXhjAU",
+					"expanded_url": "http://www.bloter.net/archives/390010",
+					"display_url": "bloter.net/archives/390010",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55309,
+			"friends_count": 9,
+			"listed_count": 2394,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대학 축제도 비대면으로 https://t.co/YMkWUXhjAU"
+	},
+	{
+		"created_at": "Sun Jun 14 22:45:06 +0000 2020",
+		"id": 1272002926534246400,
+		"id_str": "1272299050973360128",
+		"full_text": "세 명을 다 공개하고 나니 정말 속이 시원하네요. 제이홉, 레오, 청하, 호시, 채연의 인터뷰와는 또다른 면에서 최고의 분량과 최고로 솔직한 이야기를 만나실 수 있을 거라고 확신합니다. 어디서도 터놓지 않은 그들의 이야기, 이 아티스트들의 이야기에 귀 기울여 주시길 부탁드립니다. 📙 #우무계 https://t.co/6yHqrafPTW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우무계",
+					"indices": [
+						159,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272002910251958300,
+					"id_str": "1272002910251958272",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EacP6FLUwAAHZE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacP6FLUwAAHZE6.jpg",
+					"url": "https://t.co/6yHqrafPTW",
+					"display_url": "pic.twitter.com/6yHqrafPTW",
+					"expanded_url": "https://twitter.com/muse_at/status/1272002926534246401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272002910251958300,
+					"id_str": "1272002910251958272",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EacP6FLUwAAHZE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacP6FLUwAAHZE6.jpg",
+					"url": "https://t.co/6yHqrafPTW",
+					"display_url": "pic.twitter.com/6yHqrafPTW",
+					"expanded_url": "https://twitter.com/muse_at/status/1272002926534246401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272002912911147000,
+					"id_str": "1272002912911147008",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EacP6PFUwAATjkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacP6PFUwAATjkI.jpg",
+					"url": "https://t.co/6yHqrafPTW",
+					"display_url": "pic.twitter.com/6yHqrafPTW",
+					"expanded_url": "https://twitter.com/muse_at/status/1272002926534246401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1010,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272002920171450400,
+					"id_str": "1272002920171450368",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EacP6qIUMAAYl49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacP6qIUMAAYl49.jpg",
+					"url": "https://t.co/6yHqrafPTW",
+					"display_url": "pic.twitter.com/6yHqrafPTW",
+					"expanded_url": "https://twitter.com/muse_at/status/1272002926534246401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1006,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1006,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 사용하는 호칭이며, 저는 K-Pop 아이돌/문화 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3076,
+			"friends_count": 138,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 330,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세 명을 다 공개하고 나니 정말 속이 시원하네요. 제이홉, 레오, 청하, 호시, 채연의 인터뷰와는 또다른 면에서 최고의 분량과 최고로 솔직한 이야기를 만나실 수 있을 거라고 확신합니다. 어디서도 터놓지 않은 그들의 이야기, 이 아티스트들의 이야기에 귀 기울여 주시길 부탁드립니다. 📙 #우무계 https://t.co/6yHqrafPTW"
+	},
+	{
+		"created_at": "Sun Jun 14 22:44:28 +0000 2020",
+		"id": 1272298891610747000,
+		"id_str": "1272298891610746881",
+		"full_text": "[단독]레드벨벳 아이린&amp;슬기, 7월 단독 예능 출격…'레벨업 프로젝트' 스핀오프\n https://t.co/kKjKivPPVo\n#레드벨벳 #RedVelvet #아이린 #슬기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						96,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kKjKivPPVo",
+					"expanded_url": "http://m.joynews24.com/v/1273206",
+					"display_url": "m.joynews24.com/v/1273206",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독]레드벨벳 아이린&amp;슬기, 7월 단독 예능 출격…'레벨업 프로젝트' 스핀오프\n https://t.co/kKjKivPPVo\n#레드벨벳 #RedVelvet #아이린 #슬기"
+	},
+	{
+		"created_at": "Sun Jun 14 22:43:06 +0000 2020",
+		"id": 1272039173357265000,
+		"id_str": "1272298547971383297",
+		"full_text": "2020한국여성퀴어(레즈비언,바이섹슈얼,+)가 사랑하는 여자아이돌 81-100위. Happy pride month!🌈 https://t.co/3ZsLtsefWf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272039119170961400,
+					"id_str": "1272039119170961408",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/Eacw1t6WAAARh_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eacw1t6WAAARh_Y.jpg",
+					"url": "https://t.co/3ZsLtsefWf",
+					"display_url": "pic.twitter.com/3ZsLtsefWf",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272039173357264897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 919,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 919,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272039119170961400,
+					"id_str": "1272039119170961408",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/Eacw1t6WAAARh_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eacw1t6WAAARh_Y.jpg",
+					"url": "https://t.co/3ZsLtsefWf",
+					"display_url": "pic.twitter.com/3ZsLtsefWf",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272039173357264897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 919,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 919,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272039145947439000,
+					"id_str": "1272039145947439105",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/Eacw3RqWoAEdh_a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eacw3RqWoAEdh_a.jpg",
+					"url": "https://t.co/3ZsLtsefWf",
+					"display_url": "pic.twitter.com/3ZsLtsefWf",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272039173357264897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 919,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 919,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272039172149334000,
+		"in_reply_to_status_id_str": "1272039172149334017",
+		"in_reply_to_user_id": 736798193460097000,
+		"in_reply_to_user_id_str": "736798193460097024",
+		"in_reply_to_screen_name": "kimnonsan",
+		"user": {
+			"id": 736798193460097000,
+			"id_str": "736798193460097024",
+			"name": "김논산",
+			"screen_name": "kimnonsan",
+			"location": "",
+			"description": "쓰기를 포기함 사랑하는 여자들이 너무 많음\n팔로해도 볼거 없",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930,
+			"friends_count": 1988,
+			"listed_count": 1,
+			"created_at": "Sun May 29 05:55:53 +0000 2016",
+			"favourites_count": 63954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756989295223672832/1npVkK50_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756989295223672832/1npVkK50_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736798193460097024/1488431080",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 200,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020한국여성퀴어(레즈비언,바이섹슈얼,+)가 사랑하는 여자아이돌 81-100위. Happy pride month!🌈 https://t.co/3ZsLtsefWf"
+	},
+	{
+		"created_at": "Sun Jun 14 22:43:04 +0000 2020",
+		"id": 1272039172149334000,
+		"id_str": "1272298539352158208",
+		"full_text": "2020한국여성퀴어(레즈비언,바이섹슈얼,+)가 사랑하는 여자아이돌 41-80위. Happy pride month!🌈 https://t.co/7yN6se6pAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272038867856691200,
+					"id_str": "1272038867856691200",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwnFsWkAAGe8o.png",
+					"media_url_https": "https://pbs.twimg.com/media/EacwnFsWkAAGe8o.png",
+					"url": "https://t.co/7yN6se6pAG",
+					"display_url": "pic.twitter.com/7yN6se6pAG",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272039172149334017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272038867856691200,
+					"id_str": "1272038867856691200",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwnFsWkAAGe8o.png",
+					"media_url_https": "https://pbs.twimg.com/media/EacwnFsWkAAGe8o.png",
+					"url": "https://t.co/7yN6se6pAG",
+					"display_url": "pic.twitter.com/7yN6se6pAG",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272039172149334017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272038895652397000,
+					"id_str": "1272038895652397056",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwotPXYAAcgBw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EacwotPXYAAcgBw.png",
+					"url": "https://t.co/7yN6se6pAG",
+					"display_url": "pic.twitter.com/7yN6se6pAG",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272039172149334017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272038917487898600,
+					"id_str": "1272038917487898624",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Eacwp-lWsAA7wm0.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eacwp-lWsAA7wm0.png",
+					"url": "https://t.co/7yN6se6pAG",
+					"display_url": "pic.twitter.com/7yN6se6pAG",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272039172149334017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1272038938656604200,
+					"id_str": "1272038938656604161",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwrNcXgAE8wZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacwrNcXgAE8wZM.jpg",
+					"url": "https://t.co/7yN6se6pAG",
+					"display_url": "pic.twitter.com/7yN6se6pAG",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272039172149334017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 921,
+							"h": 428,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 921,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272038528118120400,
+		"in_reply_to_status_id_str": "1272038528118120449",
+		"in_reply_to_user_id": 736798193460097000,
+		"in_reply_to_user_id_str": "736798193460097024",
+		"in_reply_to_screen_name": "kimnonsan",
+		"user": {
+			"id": 736798193460097000,
+			"id_str": "736798193460097024",
+			"name": "김논산",
+			"screen_name": "kimnonsan",
+			"location": "",
+			"description": "쓰기를 포기함 사랑하는 여자들이 너무 많음\n팔로해도 볼거 없",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930,
+			"friends_count": 1988,
+			"listed_count": 1,
+			"created_at": "Sun May 29 05:55:53 +0000 2016",
+			"favourites_count": 63954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756989295223672832/1npVkK50_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756989295223672832/1npVkK50_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736798193460097024/1488431080",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 234,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020한국여성퀴어(레즈비언,바이섹슈얼,+)가 사랑하는 여자아이돌 41-80위. Happy pride month!🌈 https://t.co/7yN6se6pAG"
+	},
+	{
+		"created_at": "Sun Jun 14 22:43:03 +0000 2020",
+		"id": 1272038528118120400,
+		"id_str": "1272298536101502976",
+		"full_text": "2020한국여성퀴어(레즈비언,바이섹슈얼,+)가 사랑하는 여자아이돌 Top100!  총6,247명 참여, 25,491표의 유효표. 2020 한국여성퀴어들의 사랑을 받는 여돌 대망의 탑3는!  1위 레드벨벳 아이린, 2위 레드벨벳 슬기, 3위 (여자)아이들 수진. Happy Pride!🌈 1위~40위. https://t.co/OpTkho5qkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272038281967030300,
+					"id_str": "1272038281967030273",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwE_FX0AEfZPp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EacwE_FX0AEfZPp.png",
+					"url": "https://t.co/OpTkho5qkd",
+					"display_url": "pic.twitter.com/OpTkho5qkd",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272038528118120449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 833,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272038281967030300,
+					"id_str": "1272038281967030273",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwE_FX0AEfZPp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EacwE_FX0AEfZPp.png",
+					"url": "https://t.co/OpTkho5qkd",
+					"display_url": "pic.twitter.com/OpTkho5qkd",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272038528118120449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 833,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272038304805015600,
+					"id_str": "1272038304805015552",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwGUKX0AAwl4F.png",
+					"media_url_https": "https://pbs.twimg.com/media/EacwGUKX0AAwl4F.png",
+					"url": "https://t.co/OpTkho5qkd",
+					"display_url": "pic.twitter.com/OpTkho5qkd",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272038528118120449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 833,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272038324488802300,
+					"id_str": "1272038324488802304",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwHdfWkAASFrG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EacwHdfWkAASFrG.png",
+					"url": "https://t.co/OpTkho5qkd",
+					"display_url": "pic.twitter.com/OpTkho5qkd",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272038528118120449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 832,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 832,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272038344684437500,
+					"id_str": "1272038344684437504",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EacwIouXgAA1cgU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EacwIouXgAA1cgU.png",
+					"url": "https://t.co/OpTkho5qkd",
+					"display_url": "pic.twitter.com/OpTkho5qkd",
+					"expanded_url": "https://twitter.com/kimnonsan/status/1272038528118120449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 833,
+							"h": 386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 386,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736798193460097000,
+			"id_str": "736798193460097024",
+			"name": "김논산",
+			"screen_name": "kimnonsan",
+			"location": "",
+			"description": "쓰기를 포기함 사랑하는 여자들이 너무 많음\n팔로해도 볼거 없",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930,
+			"friends_count": 1988,
+			"listed_count": 1,
+			"created_at": "Sun May 29 05:55:53 +0000 2016",
+			"favourites_count": 63954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756989295223672832/1npVkK50_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756989295223672832/1npVkK50_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736798193460097024/1488431080",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3181,
+		"favorite_count": 2954,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020한국여성퀴어(레즈비언,바이섹슈얼,+)가 사랑하는 여자아이돌 Top100!  총6,247명 참여, 25,491표의 유효표. 2020 한국여성퀴어들의 사랑을 받는 여돌 대망의 탑3는!  1위 레드벨벳 아이린, 2위 레드벨벳 슬기, 3위 (여자)아이들 수진. Happy Pride!🌈 1위~40위. https://t.co/OpTkho5qkd"
+	},
+	{
+		"created_at": "Sun Jun 14 22:41:27 +0000 2020",
+		"id": 1272143562411393000,
+		"id_str": "1272298132420747265",
+		"full_text": "마스크는 남들로부터 저를 지켜주기도 하지만, 저로부터 남들을 지켜주기도 합니다.\n\n차별금지법은 이런 마스크 같은 존재입니다. 누군가는 차별해도 되고, 누군가는 보호해야 하는 것이 아닌, 우리 모두를 차별로부터 보호하고, 동시에 우리가 알지 못한 채 누군가를 차별하는걸 막아주는 법안입니다. https://t.co/kxgIoYZwCE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272142966178508800,
+					"id_str": "1272142966178508800",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272142966178508800/pu/img/vvSYryIzdJgfrfwi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272142966178508800/pu/img/vvSYryIzdJgfrfwi.jpg",
+					"url": "https://t.co/kxgIoYZwCE",
+					"display_url": "pic.twitter.com/kxgIoYZwCE",
+					"expanded_url": "https://twitter.com/kyugenius/status/1272143562411393024/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272142966178508800,
+					"id_str": "1272142966178508800",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272142966178508800/pu/img/vvSYryIzdJgfrfwi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272142966178508800/pu/img/vvSYryIzdJgfrfwi.jpg",
+					"url": "https://t.co/kxgIoYZwCE",
+					"display_url": "pic.twitter.com/kxgIoYZwCE",
+					"expanded_url": "https://twitter.com/kyugenius/status/1272143562411393024/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 132757,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1272142966178508800/pu/pl/IWYCLdHX4PMlB9sy.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272142966178508800/pu/vid/320x320/Oh79Mj6otfrcQV48.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272142966178508800/pu/vid/720x720/0RLgsCjT6nJXdmVg.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272142966178508800/pu/vid/480x480/fSyZVItZpgFdBvgT.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272020572310868000,
+		"in_reply_to_status_id_str": "1272020572310867969",
+		"in_reply_to_user_id": 1160334914811621400,
+		"in_reply_to_user_id_str": "1160334914811621377",
+		"in_reply_to_screen_name": "kyugenius",
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19735,
+			"friends_count": 48,
+			"listed_count": 21,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 3377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 661,
+		"favorite_count": 601,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마스크는 남들로부터 저를 지켜주기도 하지만, 저로부터 남들을 지켜주기도 합니다.\n\n차별금지법은 이런 마스크 같은 존재입니다. 누군가는 차별해도 되고, 누군가는 보호해야 하는 것이 아닌, 우리 모두를 차별로부터 보호하고, 동시에 우리가 알지 못한 채 누군가를 차별하는걸 막아주는 법안입니다. https://t.co/kxgIoYZwCE"
+	},
+	{
+		"created_at": "Sun Jun 14 22:41:25 +0000 2020",
+		"id": 1272020572310868000,
+		"id_str": "1272298124292157441",
+		"full_text": "포괄적 차별금지법 제정 촉구 기자회견에 연대 발언자로 참여하였습니다. https://t.co/N4ZTKmzC4M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272020235801866200,
+					"id_str": "1272020235801866240",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Eacfqj4UMAARAyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eacfqj4UMAARAyi.jpg",
+					"url": "https://t.co/N4ZTKmzC4M",
+					"display_url": "pic.twitter.com/N4ZTKmzC4M",
+					"expanded_url": "https://twitter.com/kyugenius/status/1272020572310867969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1099,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1099,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272020235801866200,
+					"id_str": "1272020235801866240",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Eacfqj4UMAARAyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eacfqj4UMAARAyi.jpg",
+					"url": "https://t.co/N4ZTKmzC4M",
+					"display_url": "pic.twitter.com/N4ZTKmzC4M",
+					"expanded_url": "https://twitter.com/kyugenius/status/1272020572310867969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1099,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1099,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272020249257246700,
+					"id_str": "1272020249257246720",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EacfrWAVAAAQjt-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacfrWAVAAAQjt-.jpg",
+					"url": "https://t.co/N4ZTKmzC4M",
+					"display_url": "pic.twitter.com/N4ZTKmzC4M",
+					"expanded_url": "https://twitter.com/kyugenius/status/1272020572310867969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 976,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 976,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19735,
+			"friends_count": 48,
+			"listed_count": 21,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 3377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1349,
+		"favorite_count": 1082,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포괄적 차별금지법 제정 촉구 기자회견에 연대 발언자로 참여하였습니다. https://t.co/N4ZTKmzC4M"
+	},
+	{
+		"created_at": "Sun Jun 14 22:13:22 +0000 2020",
+		"id": 1272283202778828800,
+		"id_str": "1272291065526054913",
+		"full_text": "메일을 채팅하는 느낌으로 이용할 수 있게 해주는 Spike가 시리즈A 800만 달러(약 96억원) 투자유치. Slack 등과 같은 콜라보레이션 툴과 연계해서 이용하는 씬을 강조하는데, 오랫동안 사용성 측면에서 큰 변화가 없었던 메일 서비스에 어떤 변화를 가져올지 https://t.co/v87pCAHuWI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v87pCAHuWI",
+					"expanded_url": "https://www.spikenow.com/",
+					"display_url": "spikenow.com",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65832992,
+			"id_str": "65832992",
+			"name": "금동우",
+			"screen_name": "ehddn1",
+			"location": ", Seoul",
+			"description": "한화생명 동경주재사무소장",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7682,
+			"friends_count": 176,
+			"listed_count": 464,
+			"created_at": "Sat Aug 15 05:14:42 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986257995569901569/mQbRpmI0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986257995569901569/mQbRpmI0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65832992/1401837640",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "메일을 채팅하는 느낌으로 이용할 수 있게 해주는 Spike가 시리즈A 800만 달러(약 96억원) 투자유치. Slack 등과 같은 콜라보레이션 툴과 연계해서 이용하는 씬을 강조하는데, 오랫동안 사용성 측면에서 큰 변화가 없었던 메일 서비스에 어떤 변화를 가져올지 https://t.co/v87pCAHuWI"
+	},
+	{
+		"created_at": "Sun Jun 14 22:06:03 +0000 2020",
+		"id": 1272138226480722000,
+		"id_str": "1272289223861649408",
+		"full_text": "[디자인] 화살표에 대한 단상 https://t.co/lop3p210Hu \n화살표라는 디자인 요소는 현대에 정말 광범위하게 쓰입니다만, 의외로 인류 역사상 사용된 기간이 그리 길지 않은 편이라고 합니다. 화살표 디자인에 대해 간략히 고찰한 글을 소개합니다. (한국어)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lop3p210Hu",
+					"expanded_url": "https://j.mp/3e5DkJy",
+					"display_url": "j.mp/3e5DkJy",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3116,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[디자인] 화살표에 대한 단상 https://t.co/lop3p210Hu \n화살표라는 디자인 요소는 현대에 정말 광범위하게 쓰입니다만, 의외로 인류 역사상 사용된 기간이 그리 길지 않은 편이라고 합니다. 화살표 디자인에 대해 간략히 고찰한 글을 소개합니다. (한국어)"
+	},
+	{
+		"created_at": "Sun Jun 14 22:03:17 +0000 2020",
+		"id": 1271644399575785500,
+		"id_str": "1272288526239850496",
+		"full_text": "아주 가까운 시일의 이야기들이 담겼습니다. 코로나19로 인해 작지 않은 고민이 생긴 아이돌들의 모습부터, 각자가 중점적으로 생각하는 부분이 다 다른 세 명의 모습이 기존 다섯 인터뷰이들과 또다른 측면에서 K-POP 아이돌들의 삶과 이 산업의 모습을 들여다보게 해줍니다. 기대해주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1271643480289185800,
+		"in_reply_to_status_id_str": "1271643480289185793",
+		"in_reply_to_user_id": 918810726034153500,
+		"in_reply_to_user_id_str": "918810726034153475",
+		"in_reply_to_screen_name": "muse_at",
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 사용하는 호칭이며, 저는 K-Pop 아이돌/문화 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3076,
+			"friends_count": 138,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아주 가까운 시일의 이야기들이 담겼습니다. 코로나19로 인해 작지 않은 고민이 생긴 아이돌들의 모습부터, 각자가 중점적으로 생각하는 부분이 다 다른 세 명의 모습이 기존 다섯 인터뷰이들과 또다른 측면에서 K-POP 아이돌들의 삶과 이 산업의 모습을 들여다보게 해줍니다. 기대해주세요."
+	},
+	{
+		"created_at": "Sun Jun 14 22:03:12 +0000 2020",
+		"id": 1271643480289185800,
+		"id_str": "1272288504261652481",
+		"full_text": "&lt;무대 위의 아이돌&gt;이 &lt;우리의 무대는 계속될 거야&gt;라는 제목으로 다시 출간됩니다. 6월 16일 화요일부터 예스24 @Yes24Now 단독으로 예약판매가 시작되고, 6월 24일 정식 출간됩니다. 기존 인터뷰이 다섯 명의 인터뷰는 그대로이고, 새로운 인터뷰이 세 명이 추가되었으며 새로운 판형입니다. 📙 https://t.co/kWnjwMxKF5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yes24Now",
+					"name": "예스24",
+					"id": 74947410,
+					"id_str": "74947410",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271643457090580500,
+					"id_str": "1271643457090580481",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EaXI_JzVcAE2UYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaXI_JzVcAE2UYW.jpg",
+					"url": "https://t.co/kWnjwMxKF5",
+					"display_url": "pic.twitter.com/kWnjwMxKF5",
+					"expanded_url": "https://twitter.com/muse_at/status/1271643480289185793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1287,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271643457090580500,
+					"id_str": "1271643457090580481",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EaXI_JzVcAE2UYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaXI_JzVcAE2UYW.jpg",
+					"url": "https://t.co/kWnjwMxKF5",
+					"display_url": "pic.twitter.com/kWnjwMxKF5",
+					"expanded_url": "https://twitter.com/muse_at/status/1271643480289185793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1287,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271643470864642000,
+					"id_str": "1271643470864642048",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EaXI_9HU8AA97gD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaXI_9HU8AA97gD.jpg",
+					"url": "https://t.co/kWnjwMxKF5",
+					"display_url": "pic.twitter.com/kWnjwMxKF5",
+					"expanded_url": "https://twitter.com/muse_at/status/1271643480289185793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "Chief Producer at STUDIO A. @studioa_office. / K-Culture and K-Pop journalist. 평론가는 편의상 사용하는 호칭이며, 저는 K-Pop 아이돌/문화 전문 저널리스트입니다.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3076,
+			"friends_count": 138,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267093243579101184/mnlYrtQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 442,
+		"favorite_count": 434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;무대 위의 아이돌&gt;이 &lt;우리의 무대는 계속될 거야&gt;라는 제목으로 다시 출간됩니다. 6월 16일 화요일부터 예스24 @Yes24Now 단독으로 예약판매가 시작되고, 6월 24일 정식 출간됩니다. 기존 인터뷰이 다섯 명의 인터뷰는 그대로이고, 새로운 인터뷰이 세 명이 추가되었으며 새로운 판형입니다. 📙 https://t.co/kWnjwMxKF5"
+	},
+	{
+		"created_at": "Sun Jun 14 22:02:46 +0000 2020",
+		"id": 1272090942783144000,
+		"id_str": "1272288398401605632",
+		"full_text": "[NOTICE]\n안녕하세요. 캐스퍼 라디오입니다.\n그동안 저희 라디오를 사랑해 주신 여러분들께 아쉬운 소식을 전하고자 합니다. https://t.co/4zkeBzYMEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272090933362700300,
+					"id_str": "1272090933362700288",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Eadf9s0UMAAYxl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eadf9s0UMAAYxl6.jpg",
+					"url": "https://t.co/4zkeBzYMEb",
+					"display_url": "pic.twitter.com/4zkeBzYMEb",
+					"expanded_url": "https://twitter.com/casperradio_/status/1272090942783143937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272090933362700300,
+					"id_str": "1272090933362700288",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Eadf9s0UMAAYxl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eadf9s0UMAAYxl6.jpg",
+					"url": "https://t.co/4zkeBzYMEb",
+					"display_url": "pic.twitter.com/4zkeBzYMEb",
+					"expanded_url": "https://twitter.com/casperradio_/status/1272090942783143937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272090933362692000,
+					"id_str": "1272090933362692098",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Eadf9s0UEAIQmCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eadf9s0UEAIQmCp.jpg",
+					"url": "https://t.co/4zkeBzYMEb",
+					"display_url": "pic.twitter.com/4zkeBzYMEb",
+					"expanded_url": "https://twitter.com/casperradio_/status/1272090942783143937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지 나잠수의 뮤직코리아/ Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3422,
+			"friends_count": 8,
+			"listed_count": 11,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 880,
+		"favorite_count": 1391,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]\n안녕하세요. 캐스퍼 라디오입니다.\n그동안 저희 라디오를 사랑해 주신 여러분들께 아쉬운 소식을 전하고자 합니다. https://t.co/4zkeBzYMEb"
+	},
+	{
 		"created_at": "Sun Jun 14 22:01:55 +0000 2020",
 		"id": 1272152012117864400,
 		"id_str": "1272288184357937152",
