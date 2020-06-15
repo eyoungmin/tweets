@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 01:59:29 +0000 2020",
+		"id": 1272347968545468400,
+		"id_str": "1272347968545468418",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 신비+카리스마 담은 4인 4색 포스터\nhttps://t.co/IX9HXNVbSC\n#블랙핑크 #BLACKPINK https://t.co/4kGyzsOIGA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IX9HXNVbSC",
+					"expanded_url": "https://yg-life.com/archives/156160?lang=ko",
+					"display_url": "yg-life.com/archives/15616…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272347967400358000,
+					"id_str": "1272347967400357889",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EahJvDOWsAEvd-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EahJvDOWsAEvd-b.jpg",
+					"url": "https://t.co/4kGyzsOIGA",
+					"display_url": "pic.twitter.com/4kGyzsOIGA",
+					"expanded_url": "https://twitter.com/fromminn/status/1272347968545468418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272347967400358000,
+					"id_str": "1272347967400357889",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EahJvDOWsAEvd-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EahJvDOWsAEvd-b.jpg",
+					"url": "https://t.co/4kGyzsOIGA",
+					"display_url": "pic.twitter.com/4kGyzsOIGA",
+					"expanded_url": "https://twitter.com/fromminn/status/1272347968545468418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 신비+카리스마 담은 4인 4색 포스터\nhttps://t.co/IX9HXNVbSC\n#블랙핑크 #BLACKPINK https://t.co/4kGyzsOIGA"
+	},
+	{
+		"created_at": "Mon Jun 15 01:52:12 +0000 2020",
+		"id": 1272345988095594500,
+		"id_str": "1272346137601736704",
+		"full_text": "[#예술경영 웹진 : 기획특집①] \n\n &lt;팬데믹이 가르는 경계 위에서&gt;\n\n447호 기획특집① 읽으러가기👇\nhttps://t.co/SMg9IJaeXe\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/qKhSRcywu6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SMg9IJaeXe",
+					"expanded_url": "https://bit.ly/37vbG6c",
+					"display_url": "bit.ly/37vbG6c",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272345847649329200,
+					"id_str": "1272345847649329152",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EahHzqiU4AAcaSk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EahHzqiU4AAcaSk.png",
+					"url": "https://t.co/qKhSRcywu6",
+					"display_url": "pic.twitter.com/qKhSRcywu6",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1272345988095594503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 745,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 745,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272345847649329200,
+					"id_str": "1272345847649329152",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EahHzqiU4AAcaSk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EahHzqiU4AAcaSk.png",
+					"url": "https://t.co/qKhSRcywu6",
+					"display_url": "pic.twitter.com/qKhSRcywu6",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1272345988095594503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 745,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 745,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6712,
+			"friends_count": 3036,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획특집①] \n\n &lt;팬데믹이 가르는 경계 위에서&gt;\n\n447호 기획특집① 읽으러가기👇\nhttps://t.co/SMg9IJaeXe\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/qKhSRcywu6"
+	},
+	{
 		"created_at": "Mon Jun 15 00:52:13 +0000 2020",
 		"id": 1272317949110452200,
 		"id_str": "1272331038900002817",
