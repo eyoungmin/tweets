@@ -1,6 +1,759 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 10:52:15 +0000 2020",
+		"id": 1272474491889705000,
+		"id_str": "1272482043763593218",
+		"full_text": "#청하 #CHUNGHA\n#mfw #mfwh #iceberg\n#the_hyundai #cameramoda https://t.co/1CFjyaTXwn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "mfw",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "mfwh",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "iceberg",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "the_hyundai",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"text": "cameramoda",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272474481110290400,
+					"id_str": "1272474481110290432",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai8zHhUEAAuJ3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai8zHhUEAAuJ3T.jpg",
+					"url": "https://t.co/1CFjyaTXwn",
+					"display_url": "pic.twitter.com/1CFjyaTXwn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272474491889704960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272474481110290400,
+					"id_str": "1272474481110290432",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai8zHhUEAAuJ3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai8zHhUEAAuJ3T.jpg",
+					"url": "https://t.co/1CFjyaTXwn",
+					"display_url": "pic.twitter.com/1CFjyaTXwn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272474491889704960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272474481437536300,
+					"id_str": "1272474481437536257",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai8zIvVcAEeSeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai8zIvVcAEeSeg.jpg",
+					"url": "https://t.co/1CFjyaTXwn",
+					"display_url": "pic.twitter.com/1CFjyaTXwn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272474491889704960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272474481718517800,
+					"id_str": "1272474481718517761",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai8zJyU4AEi-Rq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai8zJyU4AEi-Rq.jpg",
+					"url": "https://t.co/1CFjyaTXwn",
+					"display_url": "pic.twitter.com/1CFjyaTXwn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272474491889704960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1272474476492451800,
+		"in_reply_to_status_id_str": "1272474476492451842",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265066,
+			"friends_count": 0,
+			"listed_count": 1602,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 460,
+		"favorite_count": 1814,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#청하 #CHUNGHA\n#mfw #mfwh #iceberg\n#the_hyundai #cameramoda https://t.co/1CFjyaTXwn"
+	},
+	{
+		"created_at": "Mon Jun 15 10:52:13 +0000 2020",
+		"id": 1272474476492451800,
+		"id_str": "1272482034955550720",
+		"full_text": "✔️\n\nCHUNG HA X ICEBERG https://t.co/f8Z5LV3eDe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272474462667993000,
+					"id_str": "1272474462667993088",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai8yC0U8AAVNah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai8yC0U8AAVNah.jpg",
+					"url": "https://t.co/f8Z5LV3eDe",
+					"display_url": "pic.twitter.com/f8Z5LV3eDe",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272474476492451842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272474462667993000,
+					"id_str": "1272474462667993088",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai8yC0U8AAVNah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai8yC0U8AAVNah.jpg",
+					"url": "https://t.co/f8Z5LV3eDe",
+					"display_url": "pic.twitter.com/f8Z5LV3eDe",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272474476492451842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272474462672220200,
+					"id_str": "1272474462672220160",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai8yC1VcAA5R2C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai8yC1VcAA5R2C.jpg",
+					"url": "https://t.co/f8Z5LV3eDe",
+					"display_url": "pic.twitter.com/f8Z5LV3eDe",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272474476492451842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265066,
+			"friends_count": 0,
+			"listed_count": 1602,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 973,
+		"favorite_count": 4224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "✔️\n\nCHUNG HA X ICEBERG https://t.co/f8Z5LV3eDe"
+	},
+	{
+		"created_at": "Mon Jun 15 10:27:57 +0000 2020",
+		"id": 1272469100724228000,
+		"id_str": "1272475926622867456",
+		"full_text": "무더위를 이겨낼 공포의 #납량 #패션템 &amp; #아이린 #Irene 의 시원한 매력으로 풍덩! ▶ https://t.co/GSt2xaT1el https://t.co/ABQ6ocmt5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "납량",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "패션템",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "Irene",
+					"indices": [
+						33,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GSt2xaT1el",
+					"expanded_url": "https://youtu.be/DwKTmZJJmcU",
+					"display_url": "youtu.be/DwKTmZJJmcU",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272468230599110700,
+					"id_str": "1272468230599110656",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai3TKyUwAEhQvp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai3TKyUwAEhQvp.jpg",
+					"url": "https://t.co/ABQ6ocmt5R",
+					"display_url": "pic.twitter.com/ABQ6ocmt5R",
+					"expanded_url": "https://twitter.com/wkorea/status/1272469100724228096/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272468230599110700,
+					"id_str": "1272468230599110656",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai3TKyUwAEhQvp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai3TKyUwAEhQvp.jpg",
+					"url": "https://t.co/ABQ6ocmt5R",
+					"display_url": "pic.twitter.com/ABQ6ocmt5R",
+					"expanded_url": "https://twitter.com/wkorea/status/1272469100724228096/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23106,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272468230599110656/vid/1280x720/9F0-uOb9zhirAlGS.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272468230599110656/vid/640x360/gc9qdpke8q0l7sUn.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272468230599110656/vid/480x270/XPtF1mcxdYKmXvA-.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1272468230599110656/pl/ZmXsBm7CorRxuzsG.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "#WkoreaVideoSearch2020 총상금 1천 5백만 원! 더블유 코리아와 꼬달리가 함께하는 영상 프로젝트! 응모하러 가기👇🏻",
+			"url": "https://t.co/KatxROQDYO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KatxROQDYO",
+							"expanded_url": "https://bit.ly/3cns9u4",
+							"display_url": "bit.ly/3cns9u4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231372,
+			"friends_count": 0,
+			"listed_count": 760,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 2629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1589778868",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무더위를 이겨낼 공포의 #납량 #패션템 &amp; #아이린 #Irene 의 시원한 매력으로 풍덩! ▶ https://t.co/GSt2xaT1el https://t.co/ABQ6ocmt5R"
+	},
+	{
 		"created_at": "Mon Jun 15 09:56:33 +0000 2020",
 		"id": 1272468027846602800,
 		"id_str": "1272468027846602754",
