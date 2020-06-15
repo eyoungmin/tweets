@@ -1,6 +1,947 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 23:53:52 +0000 2020",
+		"id": 1272124851856134100,
+		"id_str": "1272316355153293312",
+		"full_text": "레드벨벳 김만봉 라루즈 커스텀🌹\nRedVelvet lightstick La Rouse custom \n\nhttps://t.co/4ZpPdLQvJy https://t.co/h3yNNsooUW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ZpPdLQvJy",
+					"expanded_url": "https://youtu.be/M1P9H7N5FtI",
+					"display_url": "youtu.be/M1P9H7N5FtI",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272124840242102300,
+					"id_str": "1272124840242102272",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ead-zVyUwAApOwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ead-zVyUwAApOwW.jpg",
+					"url": "https://t.co/h3yNNsooUW",
+					"display_url": "pic.twitter.com/h3yNNsooUW",
+					"expanded_url": "https://twitter.com/minista89373366/status/1272124851856134144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272124840242102300,
+					"id_str": "1272124840242102272",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ead-zVyUwAApOwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ead-zVyUwAApOwW.jpg",
+					"url": "https://t.co/h3yNNsooUW",
+					"display_url": "pic.twitter.com/h3yNNsooUW",
+					"expanded_url": "https://twitter.com/minista89373366/status/1272124851856134144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272124840246259700,
+					"id_str": "1272124840246259713",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ead-zVzUMAEuH_C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ead-zVzUMAEuH_C.jpg",
+					"url": "https://t.co/h3yNNsooUW",
+					"display_url": "pic.twitter.com/h3yNNsooUW",
+					"expanded_url": "https://twitter.com/minista89373366/status/1272124851856134144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272124840254648300,
+					"id_str": "1272124840254648322",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ead-zV1UMAISGlE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ead-zV1UMAISGlE.jpg",
+					"url": "https://t.co/h3yNNsooUW",
+					"display_url": "pic.twitter.com/h3yNNsooUW",
+					"expanded_url": "https://twitter.com/minista89373366/status/1272124851856134144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272124840246259700,
+					"id_str": "1272124840246259712",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ead-zVzUMAAa0q3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ead-zVzUMAAa0q3.jpg",
+					"url": "https://t.co/h3yNNsooUW",
+					"display_url": "pic.twitter.com/h3yNNsooUW",
+					"expanded_url": "https://twitter.com/minista89373366/status/1272124851856134144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096049397505245200,
+			"id_str": "1096049397505245185",
+			"name": "ministar",
+			"screen_name": "minista89373366",
+			"location": "",
+			"description": "스타들의 굿즈와 미니어처 만들기!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70,
+			"friends_count": 19,
+			"listed_count": 1,
+			"created_at": "Thu Feb 14 14:11:54 +0000 2019",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202153526496907264/EPHiCbL__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202153526496907264/EPHiCbL__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096049397505245185/1575450710",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1318,
+		"favorite_count": 2646,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 김만봉 라루즈 커스텀🌹\nRedVelvet lightstick La Rouse custom \n\nhttps://t.co/4ZpPdLQvJy https://t.co/h3yNNsooUW"
+	},
+	{
+		"created_at": "Sun Jun 14 23:52:13 +0000 2020",
+		"id": 1272302817978413000,
+		"id_str": "1272315939195928576",
+		"full_text": "[칼럼] 미니애폴리스 사태가 미국 밖에서 일어났다면 서구 언론의 보도는 어땠을까 - https://t.co/uHwyO03z6T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uHwyO03z6T",
+					"expanded_url": "https://newspeppermint.com/2020/06/14/minneapolis-if-it-happened-another-country/",
+					"display_url": "newspeppermint.com/2020/06/14/min…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97116,
+			"friends_count": 0,
+			"listed_count": 658,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[칼럼] 미니애폴리스 사태가 미국 밖에서 일어났다면 서구 언론의 보도는 어땠을까 - https://t.co/uHwyO03z6T"
+	},
+	{
+		"created_at": "Sun Jun 14 23:52:06 +0000 2020",
+		"id": 1272289921491861500,
+		"id_str": "1272315911555317761",
+		"full_text": "넷플처럼…이통3사, 오리지널 콘텐츠에 꽂혔다 https://t.co/k81FuejZze KT는 웹툰·웹소설 사업을 스토리위즈라는 자회사로 분리. 다양한 영상콘텐츠의 홍수시대가 열린다. https://t.co/HPnee9bKc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k81FuejZze",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=009&aid=0004594887",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272289913015160800,
+					"id_str": "1272289913015160832",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EagU71yU0AAI2ae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EagU71yU0AAI2ae.jpg",
+					"url": "https://t.co/HPnee9bKc1",
+					"display_url": "pic.twitter.com/HPnee9bKc1",
+					"expanded_url": "https://twitter.com/estima7/status/1272289921491861504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272289913015160800,
+					"id_str": "1272289913015160832",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EagU71yU0AAI2ae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EagU71yU0AAI2ae.jpg",
+					"url": "https://t.co/HPnee9bKc1",
+					"display_url": "pic.twitter.com/HPnee9bKc1",
+					"expanded_url": "https://twitter.com/estima7/status/1272289921491861504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370880,
+			"friends_count": 2281,
+			"listed_count": 4517,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플처럼…이통3사, 오리지널 콘텐츠에 꽂혔다 https://t.co/k81FuejZze KT는 웹툰·웹소설 사업을 스토리위즈라는 자회사로 분리. 다양한 영상콘텐츠의 홍수시대가 열린다. https://t.co/HPnee9bKc1"
+	},
+	{
+		"created_at": "Sun Jun 14 23:31:25 +0000 2020",
+		"id": 1271389280343068700,
+		"id_str": "1272310706856058880",
+		"full_text": "국내 코로나19 확산 추이가 현재 상태로 이어질 경우 하루 신규 확진자 수가 2주 후에는 250명을 넘고, 한달 후인 7월 초에는 820여명으로 급증할 것이라는 연구결과가 나왔다.\n\nhttps://t.co/KozesEHTv3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KozesEHTv3",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006121740011&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 726470,
+			"friends_count": 78648,
+			"listed_count": 5972,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 84401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1127,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내 코로나19 확산 추이가 현재 상태로 이어질 경우 하루 신규 확진자 수가 2주 후에는 250명을 넘고, 한달 후인 7월 초에는 820여명으로 급증할 것이라는 연구결과가 나왔다.\n\nhttps://t.co/KozesEHTv3"
+	},
+	{
+		"created_at": "Sun Jun 14 23:30:50 +0000 2020",
+		"id": 1271782307544760300,
+		"id_str": "1272310561066246144",
+		"full_text": "장보기 도우미가 나 대신 척척…대형마트 생존 전략 / SBS https://t.co/YF13Cpg1pR 한국 대형마트들이 도입한 한국형 인스타카트, 허마센셩 서비스.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YF13Cpg1pR",
+					"expanded_url": "https://www.youtube.com/watch?v=9GlzS5GwCIo",
+					"display_url": "youtube.com/watch?v=9GlzS5…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370880,
+			"friends_count": 2281,
+			"listed_count": 4517,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장보기 도우미가 나 대신 척척…대형마트 생존 전략 / SBS https://t.co/YF13Cpg1pR 한국 대형마트들이 도입한 한국형 인스타카트, 허마센셩 서비스."
+	},
+	{
+		"created_at": "Sun Jun 14 23:24:29 +0000 2020",
+		"id": 1271788155973165000,
+		"id_str": "1272308962830897152",
+		"full_text": "세탁·그림·반려견 용품까지…코로나19가 몰고 온 ‘구독경제’ https://t.co/uNwq5eRxoY 세탁서비스 런더리고, 그림 구독 서비스 핀즐, 반려용품 구독서비스 베이컨박스가 소개된 KBS뉴스 리포트.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uNwq5eRxoY",
+					"expanded_url": "https://www.youtube.com/watch?v=ZgUmgvg7COY",
+					"display_url": "youtube.com/watch?v=ZgUmgv…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370880,
+			"friends_count": 2281,
+			"listed_count": 4517,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세탁·그림·반려견 용품까지…코로나19가 몰고 온 ‘구독경제’ https://t.co/uNwq5eRxoY 세탁서비스 런더리고, 그림 구독 서비스 핀즐, 반려용품 구독서비스 베이컨박스가 소개된 KBS뉴스 리포트."
+	},
+	{
+		"created_at": "Sun Jun 14 23:08:50 +0000 2020",
+		"id": 1272305021812523000,
+		"id_str": "1272305021812523008",
+		"full_text": "@lunamoth 크롬 나이틀리버전에서 디폴트 적용되어서 불편하더라고요. 고급설정에서 해제 할 수 있었던 것 같은데 옵션도 사라진 것 같고요. 저는 공유나 아카이빙 시, 퍼머링크를 신경쓰고 불필요한 주소나 애널리틱스 주소 등 정크링크를 지우는 편인데 한 번에 확인이 안되어서 불편하더라고요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lunamoth",
+					"name": "lunamoth",
+					"id": 815050,
+					"id_str": "815050",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272114371070619600,
+		"in_reply_to_status_id_str": "1272114371070619650",
+		"in_reply_to_user_id": 815050,
+		"in_reply_to_user_id_str": "815050",
+		"in_reply_to_screen_name": "lunamoth",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 929,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@lunamoth 크롬 나이틀리버전에서 디폴트 적용되어서 불편하더라고요. 고급설정에서 해제 할 수 있었던 것 같은데 옵션도 사라진 것 같고요. 저는 공유나 아카이빙 시, 퍼머링크를 신경쓰고 불필요한 주소나 애널리틱스 주소 등 정크링크를 지우는 편인데 한 번에 확인이 안되어서 불편하더라고요."
+	},
+	{
 		"created_at": "Sun Jun 14 22:49:58 +0000 2020",
 		"id": 1271978169881333800,
 		"id_str": "1272300274112016384",
