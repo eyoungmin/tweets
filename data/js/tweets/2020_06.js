@@ -1,6 +1,2156 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 13:52:13 +0000 2020",
+		"id": 1272519454845526000,
+		"id_str": "1272527333161873413",
+		"full_text": "🌊D-6🌊\n\nBroken Water\n2020.06.21 12PM (KST)\n\nPhotograph by OH SE AE\nHair &amp; Make-up by Lee Eun Seo\nStyling by Mo Eun Seo https://t.co/TyMX1geD7X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272519371227664400,
+					"id_str": "1272519371227664384",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EajloEPUEAAQx2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajloEPUEAAQx2O.jpg",
+					"url": "https://t.co/TyMX1geD7X",
+					"display_url": "pic.twitter.com/TyMX1geD7X",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1272519454845526023/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272519371227664400,
+					"id_str": "1272519371227664384",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EajloEPUEAAQx2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajloEPUEAAQx2O.jpg",
+					"url": "https://t.co/TyMX1geD7X",
+					"display_url": "pic.twitter.com/TyMX1geD7X",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1272519454845526023/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 2,
+			"listed_count": 8,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌊D-6🌊\n\nBroken Water\n2020.06.21 12PM (KST)\n\nPhotograph by OH SE AE\nHair &amp; Make-up by Lee Eun Seo\nStyling by Mo Eun Seo https://t.co/TyMX1geD7X"
+	},
+	{
+		"created_at": "Mon Jun 15 13:44:59 +0000 2020",
+		"id": 1272502594401788000,
+		"id_str": "1272525515656658953",
+		"full_text": "브런치: 아 우리나라에 퇴사자가 이렇게 많았었구나 https://t.co/PitvkDA0ae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PitvkDA0ae",
+					"expanded_url": "https://twitter.com/raw_and_naive/status/1272166137422364673",
+					"display_url": "twitter.com/raw_and_naive/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83600025,
+			"id_str": "83600025",
+			"name": "발디엘",
+			"screen_name": "BaalDL",
+			"location": "굫래네가잎?",
+			"description": "이름은 발디엘이라고 읽고 영어로는 BaalDL이라고 씁니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 454,
+			"listed_count": 64,
+			"created_at": "Mon Oct 19 13:33:30 +0000 2009",
+			"favourites_count": 7899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 203996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211598471901274112/oc-eeyQZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211598471901274112/oc-eeyQZ_normal.png",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272166137422364700,
+		"quoted_status_id_str": "1272166137422364673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PitvkDA0ae",
+			"expanded": "https://twitter.com/raw_and_naive/status/1272166137422364673",
+			"display": "twitter.com/raw_and_naive/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 14 13:56:57 +0000 2020",
+			"id": 1272166137422364700,
+			"id_str": "1272166137422364673",
+			"full_text": "트위터: 아 우리나라에 대학원생, 작가, 에디터가 이렇게 많았었구나\n인스타: 아 우리나라에 카페, 식당, 온라인 쇼핑몰이 이렇게 많았었구나",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79174501,
+				"id_str": "79174501",
+				"name": "절오빠",
+				"screen_name": "raw_and_naive",
+				"location": "IG: @bourbon.and.pipe",
+				"description": "broke but happy, poor but kind, short but healthy, drunk but sober, young and underpaid, tired but working, care but restless, I’m wrong and I’m sorry babe.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2183,
+				"friends_count": 289,
+				"listed_count": 40,
+				"created_at": "Fri Oct 02 13:00:04 +0000 2009",
+				"favourites_count": 1834,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21095,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1271654454291501056/aMQjcriC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271654454291501056/aMQjcriC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79174501/1592014639",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1515,
+			"favorite_count": 961,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1596,
+		"favorite_count": 398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브런치: 아 우리나라에 퇴사자가 이렇게 많았었구나 https://t.co/PitvkDA0ae"
+	},
+	{
+		"created_at": "Mon Jun 15 13:44:57 +0000 2020",
+		"id": 1272166137422364700,
+		"id_str": "1272525506630619138",
+		"full_text": "트위터: 아 우리나라에 대학원생, 작가, 에디터가 이렇게 많았었구나\n인스타: 아 우리나라에 카페, 식당, 온라인 쇼핑몰이 이렇게 많았었구나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79174501,
+			"id_str": "79174501",
+			"name": "절오빠",
+			"screen_name": "raw_and_naive",
+			"location": "IG: @bourbon.and.pipe",
+			"description": "broke but happy, poor but kind, short but healthy, drunk but sober, young and underpaid, tired but working, care but restless, I’m wrong and I’m sorry babe.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2183,
+			"friends_count": 289,
+			"listed_count": 40,
+			"created_at": "Fri Oct 02 13:00:04 +0000 2009",
+			"favourites_count": 1834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271654454291501056/aMQjcriC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271654454291501056/aMQjcriC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79174501/1592014639",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1515,
+		"favorite_count": 961,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트위터: 아 우리나라에 대학원생, 작가, 에디터가 이렇게 많았었구나\n인스타: 아 우리나라에 카페, 식당, 온라인 쇼핑몰이 이렇게 많았었구나"
+	},
+	{
+		"created_at": "Mon Jun 15 13:41:14 +0000 2020",
+		"id": 1272524571321622500,
+		"id_str": "1272524571321622528",
+		"full_text": "의정부는 휴게소 사업도 실패하지 않았나. 거기 화장실이 깨끗하고 좋긴 하던데... 😂😂😂",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 930,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "의정부는 휴게소 사업도 실패하지 않았나. 거기 화장실이 깨끗하고 좋긴 하던데... 😂😂😂"
+	},
+	{
+		"created_at": "Mon Jun 15 13:35:37 +0000 2020",
+		"id": 1272523158436839400,
+		"id_str": "1272523158436839433",
+		"full_text": "돈이 썩어난다. 도대체 이게 뭐냐. https://t.co/0EFnS0j7Hp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0EFnS0j7Hp",
+					"expanded_url": "https://twitter.com/JTBC_news/status/1272521360716300292",
+					"display_url": "twitter.com/JTBC_news/stat…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 930,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272521360716300300,
+		"quoted_status_id_str": "1272521360716300292",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0EFnS0j7Hp",
+			"expanded": "https://twitter.com/JTBC_news/status/1272521360716300292",
+			"display": "twitter.com/JTBC_news/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 15 13:28:29 +0000 2020",
+			"id": 1272521360716300300,
+			"id_str": "1272521360716300292",
+			"full_text": "#비하인드플러스 6억짜리 '발광 화장실' 짓는다? 의정부시 논란 https://t.co/azIpbWMuCQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "비하인드플러스",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/azIpbWMuCQ",
+						"expanded_url": "http://news.jtbc.joins.com/html/358/NB11955358.html",
+						"display_url": "news.jtbc.joins.com/html/358/NB119…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 397672819,
+				"id_str": "397672819",
+				"name": "JTBC 뉴스",
+				"screen_name": "JTBC_news",
+				"location": "서울시 마포구 상암산로 48-6",
+				"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+				"url": "http://t.co/CrCzofZgOd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CrCzofZgOd",
+								"expanded_url": "http://facebook.com/jtbcnews",
+								"display_url": "facebook.com/jtbcnews",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 603770,
+				"friends_count": 44581,
+				"listed_count": 2137,
+				"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+				"favourites_count": 302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 74768,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A9A9A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돈이 썩어난다. 도대체 이게 뭐냐. https://t.co/0EFnS0j7Hp"
+	},
+	{
+		"created_at": "Mon Jun 15 13:33:39 +0000 2020",
+		"id": 1272391508671357000,
+		"id_str": "1272522662959624193",
+		"full_text": "가구며 조명이며...다 맘에 드네요. 특히 의자 뒤에 있는 저 카드목록함!!! 아래 링크한 사이트에서 다같이 방구석 도서관 여행을 해봅시다. \nhttps://t.co/yFt179YEfZ https://t.co/vFwHqPIzH2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yFt179YEfZ",
+					"expanded_url": "https://www.mynewsdesk.com/kulturbyen-oslo/latest_media/tag/deichman-bjoervika",
+					"display_url": "mynewsdesk.com/kulturbyen-osl…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272391450328617000,
+					"id_str": "1272391450328616960",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EahxSFwU0AAdTyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EahxSFwU0AAdTyn.jpg",
+					"url": "https://t.co/vFwHqPIzH2",
+					"display_url": "pic.twitter.com/vFwHqPIzH2",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272391508671356928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272391450328617000,
+					"id_str": "1272391450328616960",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EahxSFwU0AAdTyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EahxSFwU0AAdTyn.jpg",
+					"url": "https://t.co/vFwHqPIzH2",
+					"display_url": "pic.twitter.com/vFwHqPIzH2",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272391508671356928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272391463028977700,
+					"id_str": "1272391463028977665",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EahxS1EU8AEviuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EahxS1EU8AEviuj.jpg",
+					"url": "https://t.co/vFwHqPIzH2",
+					"display_url": "pic.twitter.com/vFwHqPIzH2",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272391508671356928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272391476073267200,
+					"id_str": "1272391476073267200",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EahxTlqVAAAFx4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EahxTlqVAAAFx4d.jpg",
+					"url": "https://t.co/vFwHqPIzH2",
+					"display_url": "pic.twitter.com/vFwHqPIzH2",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272391508671356928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272391501658509300,
+					"id_str": "1272391501658509312",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EahxVE-U0AAo8EK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EahxVE-U0AAo8EK.jpg",
+					"url": "https://t.co/vFwHqPIzH2",
+					"display_url": "pic.twitter.com/vFwHqPIzH2",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272391508671356928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 929,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1586,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272389374223638500,
+		"in_reply_to_status_id_str": "1272389374223638530",
+		"in_reply_to_user_id": 225731045,
+		"in_reply_to_user_id_str": "225731045",
+		"in_reply_to_screen_name": "kpark_librarian",
+		"user": {
+			"id": 225731045,
+			"id_str": "225731045",
+			"name": "도서관여행자",
+			"screen_name": "kpark_librarian",
+			"location": "캘리포니아 남쪽 마을 어딘가",
+			"description": "Library Advocate/도서관 여행자/도서관에서 삶을 읽고, 삶에서 도서관을 읽습니다/방구석 기타리스트",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10327,
+			"friends_count": 292,
+			"listed_count": 55,
+			"created_at": "Sun Dec 12 09:20:18 +0000 2010",
+			"favourites_count": 3957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131257051970039808/2eIDbHD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131257051970039808/2eIDbHD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225731045/1555980372",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가구며 조명이며...다 맘에 드네요. 특히 의자 뒤에 있는 저 카드목록함!!! 아래 링크한 사이트에서 다같이 방구석 도서관 여행을 해봅시다. \nhttps://t.co/yFt179YEfZ https://t.co/vFwHqPIzH2"
+	},
+	{
+		"created_at": "Mon Jun 15 13:33:34 +0000 2020",
+		"id": 1272389374223638500,
+		"id_str": "1272522641333682181",
+		"full_text": "코로나 때문에 개관을 연기했던 오슬로 공공도서관(Deichman Bjørvika)이 새로 지은 6층짜리 본관을 오는 6월 18일 오픈을 한다고. 가보고 싶다. ㅠㅠ https://t.co/GFPFqJ0r03",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272388730054041600,
+					"id_str": "1272388730054041600",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Eahuzv8U4AAKrLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eahuzv8U4AAKrLo.jpg",
+					"url": "https://t.co/GFPFqJ0r03",
+					"display_url": "pic.twitter.com/GFPFqJ0r03",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272389374223638530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272388730054041600,
+					"id_str": "1272388730054041600",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Eahuzv8U4AAKrLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eahuzv8U4AAKrLo.jpg",
+					"url": "https://t.co/GFPFqJ0r03",
+					"display_url": "pic.twitter.com/GFPFqJ0r03",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272389374223638530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272388730054037500,
+					"id_str": "1272388730054037505",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Eahuzv8U0AEXfv2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eahuzv8U0AEXfv2.jpg",
+					"url": "https://t.co/GFPFqJ0r03",
+					"display_url": "pic.twitter.com/GFPFqJ0r03",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272389374223638530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 909,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272388743601614800,
+					"id_str": "1272388743601614849",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Eahu0iaUcAEPjxP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eahu0iaUcAEPjxP.jpg",
+					"url": "https://t.co/GFPFqJ0r03",
+					"display_url": "pic.twitter.com/GFPFqJ0r03",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272389374223638530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272389178471280600,
+					"id_str": "1272389178471280640",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EahvN2bU8AAEpSr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EahvN2bU8AAEpSr.jpg",
+					"url": "https://t.co/GFPFqJ0r03",
+					"display_url": "pic.twitter.com/GFPFqJ0r03",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1272389374223638530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 225731045,
+			"id_str": "225731045",
+			"name": "도서관여행자",
+			"screen_name": "kpark_librarian",
+			"location": "캘리포니아 남쪽 마을 어딘가",
+			"description": "Library Advocate/도서관 여행자/도서관에서 삶을 읽고, 삶에서 도서관을 읽습니다/방구석 기타리스트",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10327,
+			"friends_count": 292,
+			"listed_count": 55,
+			"created_at": "Sun Dec 12 09:20:18 +0000 2010",
+			"favourites_count": 3957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131257051970039808/2eIDbHD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131257051970039808/2eIDbHD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225731045/1555980372",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 437,
+		"favorite_count": 672,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나 때문에 개관을 연기했던 오슬로 공공도서관(Deichman Bjørvika)이 새로 지은 6층짜리 본관을 오는 6월 18일 오픈을 한다고. 가보고 싶다. ㅠㅠ https://t.co/GFPFqJ0r03"
+	},
+	{
+		"created_at": "Mon Jun 15 13:25:21 +0000 2020",
+		"id": 1185211054856401000,
+		"id_str": "1272520574346989568",
+		"full_text": "이해가 안되면 외워야 한다. 스스로를 믿으세요. 나에게서 나를 지키기 위해. https://t.co/9tUxoKBY4i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185211037001236500,
+					"id_str": "1185211037001236480",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK3KJxUwAAfmwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK3KJxUwAAfmwA.jpg",
+					"url": "https://t.co/9tUxoKBY4i",
+					"display_url": "pic.twitter.com/9tUxoKBY4i",
+					"expanded_url": "https://twitter.com/jin_jungsung/status/1185211054856400897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185211037001236500,
+					"id_str": "1185211037001236480",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK3KJxUwAAfmwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK3KJxUwAAfmwA.jpg",
+					"url": "https://t.co/9tUxoKBY4i",
+					"display_url": "pic.twitter.com/9tUxoKBY4i",
+					"expanded_url": "https://twitter.com/jin_jungsung/status/1185211054856400897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185211036997042200,
+					"id_str": "1185211036997042179",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK3KJwUwAMYbxq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK3KJwUwAMYbxq.jpg",
+					"url": "https://t.co/9tUxoKBY4i",
+					"display_url": "pic.twitter.com/9tUxoKBY4i",
+					"expanded_url": "https://twitter.com/jin_jungsung/status/1185211054856400897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185211046845223000,
+					"id_str": "1185211046845222912",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK3KucUEAAI5cP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK3KucUEAAI5cP.jpg",
+					"url": "https://t.co/9tUxoKBY4i",
+					"display_url": "pic.twitter.com/9tUxoKBY4i",
+					"expanded_url": "https://twitter.com/jin_jungsung/status/1185211054856400897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185211046828527600,
+					"id_str": "1185211046828527618",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK3KuYVUAIzjQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK3KuYVUAIzjQR.jpg",
+					"url": "https://t.co/9tUxoKBY4i",
+					"display_url": "pic.twitter.com/9tUxoKBY4i",
+					"expanded_url": "https://twitter.com/jin_jungsung/status/1185211054856400897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 786046752667283500,
+			"id_str": "786046752667283456",
+			"name": "진 정성 Jin Jungsung",
+			"screen_name": "jin_jungsung",
+			"location": "염통",
+			"description": "아티스트 콜렉티브 #흰사자클럽 /뚝뚝만화/웹툰 케이툰 주식회사 냐옹컴퍼니(완결) https://t.co/L3UAsFg5pe / 냐옹컴퍼니 단행본(창비교육)",
+			"url": "https://t.co/WNlCF9Iu71",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNlCF9Iu71",
+							"expanded_url": "https://instagram.com/jin_jung_sung",
+							"display_url": "instagram.com/jin_jung_sung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/L3UAsFg5pe",
+							"expanded_url": "http://m.myktoon.com/web/times_list.kt?webtoonseq=5949",
+							"display_url": "m.myktoon.com/web/times_list…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4693,
+			"friends_count": 80,
+			"listed_count": 9,
+			"created_at": "Wed Oct 12 03:32:04 +0000 2016",
+			"favourites_count": 452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269096042944847872/biFIF-Ff_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269096042944847872/biFIF-Ff_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/786046752667283456/1591411051",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2937,
+		"favorite_count": 2984,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이해가 안되면 외워야 한다. 스스로를 믿으세요. 나에게서 나를 지키기 위해. https://t.co/9tUxoKBY4i"
+	},
+	{
+		"created_at": "Mon Jun 15 13:19:24 +0000 2020",
+		"id": 1272519074505846800,
+		"id_str": "1272519074505846784",
+		"full_text": "퍼플폰 이쁘다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 930,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "퍼플폰 이쁘다"
+	},
+	{
+		"created_at": "Mon Jun 15 13:18:52 +0000 2020",
+		"id": 1272302802635600000,
+		"id_str": "1272518941525434369",
+		"full_text": "The wait is over. Find your purple with the new, limited #GalaxyS20+ #BTS Edition. @BTS_twt @BTS_bighit https://t.co/64d1a4z9bG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GalaxyS20",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"screen_name": "bts_bighit",
+					"name": "BTS_official",
+					"id": 1409798257,
+					"id_str": "1409798257",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271322747507839000,
+					"id_str": "1271322747507838976",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1271322747507838976/img/qo2U1YD_9Tn5dy1D.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1271322747507838976/img/qo2U1YD_9Tn5dy1D.jpg",
+					"url": "https://t.co/64d1a4z9bG",
+					"display_url": "pic.twitter.com/64d1a4z9bG",
+					"expanded_url": "https://twitter.com/SamsungMobile/status/1272302802635599873/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271322747507839000,
+					"id_str": "1271322747507838976",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1271322747507838976/img/qo2U1YD_9Tn5dy1D.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1271322747507838976/img/qo2U1YD_9Tn5dy1D.jpg",
+					"url": "https://t.co/64d1a4z9bG",
+					"display_url": "pic.twitter.com/64d1a4z9bG",
+					"expanded_url": "https://twitter.com/SamsungMobile/status/1272302802635599873/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30014,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1271322747507838976/vid/720x720/nxvGr9USbfpD3vkB.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1271322747507838976/pl/ezZlEzG3E0wbOehH.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1271322747507838976/vid/320x320/J_LvpVoAyvm-MLwM.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1271322747507838976/vid/480x480/WAxhQ2WGwqdFsoDV.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297169759,
+			"id_str": "297169759",
+			"name": "Samsung Mobile",
+			"screen_name": "SamsungMobile",
+			"location": "",
+			"description": "Official Twitter of the #GalaxyS20, #GalaxyZFlip, and #GalaxyNote10.",
+			"url": "http://t.co/C2QCS6cdGV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C2QCS6cdGV",
+							"expanded_url": "http://samsung.com/Galaxy",
+							"display_url": "samsung.com/Galaxy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12087767,
+			"friends_count": 431,
+			"listed_count": 11803,
+			"created_at": "Thu May 12 01:59:25 +0000 2011",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185000318918107136/HH-_8MHl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185000318918107136/HH-_8MHl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297169759/1581545419",
+			"profile_link_color": "2295BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31876,
+		"favorite_count": 97962,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The wait is over. Find your purple with the new, limited #GalaxyS20+ #BTS Edition. @BTS_twt @BTS_bighit https://t.co/64d1a4z9bG"
+	},
+	{
+		"created_at": "Mon Jun 15 13:04:43 +0000 2020",
+		"id": 1272415367021727700,
+		"id_str": "1272515378350981120",
+		"full_text": "룸살롱 보다 미술관이 코로나19 확산에 더 취약할까?\n수도권을 중심으로 코로나19 확산세가 계속되며 지난달 2주로 예정됐던 수도권 국립문화예술시설들은 휴관을 연장하기로 결정했다. 그러나 15일 오후 6시를 기점으로 서울시내 룸살롱 등 유흥시설들은 다시 문을 연다.\n\nhttps://t.co/qAq4oexj0Y https://t.co/Lf7kFkLAmY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qAq4oexj0Y",
+					"expanded_url": "http://naver.me/57pVe9D6",
+					"display_url": "naver.me/57pVe9D6",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272415361510502400,
+					"id_str": "1272415361510502400",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EaiHB52VcAAlMfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaiHB52VcAAlMfe.jpg",
+					"url": "https://t.co/Lf7kFkLAmY",
+					"display_url": "pic.twitter.com/Lf7kFkLAmY",
+					"expanded_url": "https://twitter.com/wnewskr/status/1272415367021727744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272415361510502400,
+					"id_str": "1272415361510502400",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EaiHB52VcAAlMfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaiHB52VcAAlMfe.jpg",
+					"url": "https://t.co/Lf7kFkLAmY",
+					"display_url": "pic.twitter.com/Lf7kFkLAmY",
+					"expanded_url": "https://twitter.com/wnewskr/status/1272415367021727744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195235,
+			"friends_count": 3545,
+			"listed_count": 282,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 795,
+		"favorite_count": 99,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "룸살롱 보다 미술관이 코로나19 확산에 더 취약할까?\n수도권을 중심으로 코로나19 확산세가 계속되며 지난달 2주로 예정됐던 수도권 국립문화예술시설들은 휴관을 연장하기로 결정했다. 그러나 15일 오후 6시를 기점으로 서울시내 룸살롱 등 유흥시설들은 다시 문을 연다.\n\nhttps://t.co/qAq4oexj0Y https://t.co/Lf7kFkLAmY"
+	},
+	{
+		"created_at": "Mon Jun 15 13:03:25 +0000 2020",
+		"id": 1272154206170833000,
+		"id_str": "1272515054387118082",
+		"full_text": "이십대는 인생의 극히 일부분인데 그 10년 안에 해야할게 너무 많았던 것 같다. 심지어 초중후반으로 옷 입는 스타일까지 나누는 걸 보고 깜짝 놀랐던 기억. 이십대 이전은 덜 된 어른으로, 이십대 이후는 지나간 청춘으로 생각하는게 참 기이하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2875514220,
+			"id_str": "2875514220",
+			"name": "플플",
+			"screen_name": "flfl_here",
+			"location": "3/5",
+			"description": "흐르는 물",
+			"url": "https://t.co/eRN8tCGD5c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRN8tCGD5c",
+							"expanded_url": "https://www.youtube.com/user/soulswings",
+							"display_url": "youtube.com/user/soulswings",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8305,
+			"friends_count": 298,
+			"listed_count": 10,
+			"created_at": "Fri Oct 24 16:18:35 +0000 2014",
+			"favourites_count": 29769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248240266298851328/WyzkwejL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248240266298851328/WyzkwejL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2875514220/1586438782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4746,
+		"favorite_count": 2753,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이십대는 인생의 극히 일부분인데 그 10년 안에 해야할게 너무 많았던 것 같다. 심지어 초중후반으로 옷 입는 스타일까지 나누는 걸 보고 깜짝 놀랐던 기억. 이십대 이전은 덜 된 어른으로, 이십대 이후는 지나간 청춘으로 생각하는게 참 기이하다."
+	},
+	{
 		"created_at": "Mon Jun 15 12:57:09 +0000 2020",
 		"id": 1272461031709671400,
 		"id_str": "1272513474245976065",
