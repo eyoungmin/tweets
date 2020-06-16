@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 03:52:22 +0000 2020",
+		"id": 1272733116965085200,
+		"id_str": "1272738762850697216",
+		"full_text": "✔️\n\n🔗 https://t.co/uKsaikmsWo\n\n#청하 #CHUNGHA\n#제아 @jeaworld\n#Greedyy #Greedyy챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "제아",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "Greedyy",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "Greedyy챌린지",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jeaworld",
+					"name": "김제아",
+					"id": 131804384,
+					"id_str": "131804384",
+					"indices": [
+						48,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uKsaikmsWo",
+					"expanded_url": "https://bit.ly/2NeaLOt",
+					"display_url": "bit.ly/2NeaLOt",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265427,
+			"friends_count": 0,
+			"listed_count": 1600,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 308,
+		"favorite_count": 1250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "✔️\n\n🔗 https://t.co/uKsaikmsWo\n\n#청하 #CHUNGHA\n#제아 @jeaworld\n#Greedyy #Greedyy챌린지"
+	},
+	{
+		"created_at": "Tue Jun 16 03:28:02 +0000 2020",
+		"id": 1272732135640592400,
+		"id_str": "1272732640693682176",
+		"full_text": "[ENG SUB] 이 우정 짜릿해! 최고야! 레드벨벳 예리 &amp; 트와이스 나연 [EP.2-1]\n\n👉https://t.co/mkQ8kAy4z0\n\n#예리 #YERI #레드벨벳 #RedVelvet #나연 #NAYEON #트와이스 #TWICE #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "NAYEON",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mkQ8kAy4z0",
+					"expanded_url": "https://youtu.be/5-40gjivVxI",
+					"display_url": "youtu.be/5-40gjivVxI",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2676256,
+			"friends_count": 2,
+			"listed_count": 5719,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3614,
+		"favorite_count": 8938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ENG SUB] 이 우정 짜릿해! 최고야! 레드벨벳 예리 &amp; 트와이스 나연 [EP.2-1]\n\n👉https://t.co/mkQ8kAy4z0\n\n#예리 #YERI #레드벨벳 #RedVelvet #나연 #NAYEON #트와이스 #TWICE #예리한방"
+	},
+	{
+		"created_at": "Tue Jun 16 03:28:00 +0000 2020",
+		"id": 1272729206917496800,
+		"id_str": "1272732631793315845",
+		"full_text": "두 번째 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~6월16일 23:59)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/pwTIPiyY88",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_letter",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "WENDY_letter",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "디어유레터",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKW0yElQZV",
+					"expanded_url": "http://dear-u.lysn.com",
+					"display_url": "dear-u.lysn.com",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272729168128573400,
+					"id_str": "1272729168128573441",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272729168128573441/pu/img/ReUrlwi2tvFMJYjL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272729168128573441/pu/img/ReUrlwi2tvFMJYjL.jpg",
+					"url": "https://t.co/pwTIPiyY88",
+					"display_url": "pic.twitter.com/pwTIPiyY88",
+					"expanded_url": "https://twitter.com/lysn_official/status/1272729206917496834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 484,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 484,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 484,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272729168128573400,
+					"id_str": "1272729168128573441",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272729168128573441/pu/img/ReUrlwi2tvFMJYjL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272729168128573441/pu/img/ReUrlwi2tvFMJYjL.jpg",
+					"url": "https://t.co/pwTIPiyY88",
+					"display_url": "pic.twitter.com/pwTIPiyY88",
+					"expanded_url": "https://twitter.com/lysn_official/status/1272729206917496834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 484,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 484,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 484,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							121,
+							120
+						],
+						"duration_millis": 6203,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272729168128573441/pu/vid/484x480/WJrAvck__WcSC7-B.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272729168128573441/pu/vid/272x270/BNI3UJ9z8NJsJgb_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1272729168128573441/pu/pl/0s3gZnrV4aHZLQe1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272729168128573441/pu/vid/362x360/hUMPJMJa2e3w9KhE.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "이 세상 어느 커뮤니티보다 내 관심사에 대해 자유롭게 이야기할 수 있는 공간. 당신은 어떤 이야기를 나누고 싶나요?",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8732,
+			"friends_count": 0,
+			"listed_count": 13,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "두 번째 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~6월16일 23:59)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/pwTIPiyY88"
+	},
+	{
 		"created_at": "Tue Jun 16 03:01:01 +0000 2020",
 		"id": 1272725842909593600,
 		"id_str": "1272725842909593605",
