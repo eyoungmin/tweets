@@ -1,6 +1,734 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 09:52:18 +0000 2020",
+		"id": 1272816480514531300,
+		"id_str": "1272829343438450689",
+		"full_text": "📸 [청하BEHIND] '여기 적어줘(Feat. pH-1)' 뮤직비디오 촬영 현장 Part.2\n\n🔗 https://t.co/fsrvLdPd7Z\n\n#청하 #CHUNGHA\n#여기적어줘 #MyFriend https://t.co/U66jBhxq9A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "여기적어줘",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "MyFriend",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fsrvLdPd7Z",
+					"expanded_url": "https://bit.ly/2CbVCea",
+					"display_url": "bit.ly/2CbVCea",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272816470846664700,
+					"id_str": "1272816470846664704",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz1ikU8AAbnyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz1ikU8AAbnyb.jpg",
+					"url": "https://t.co/U66jBhxq9A",
+					"display_url": "pic.twitter.com/U66jBhxq9A",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816480514531328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272816470846664700,
+					"id_str": "1272816470846664704",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz1ikU8AAbnyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz1ikU8AAbnyb.jpg",
+					"url": "https://t.co/U66jBhxq9A",
+					"display_url": "pic.twitter.com/U66jBhxq9A",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816480514531328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272816471895232500,
+					"id_str": "1272816471895232512",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz1meU0AAUzw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz1meU0AAUzw_.jpg",
+					"url": "https://t.co/U66jBhxq9A",
+					"display_url": "pic.twitter.com/U66jBhxq9A",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816480514531328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272816473484869600,
+					"id_str": "1272816473484869637",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz1sZUwAUubzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz1sZUwAUubzS.jpg",
+					"url": "https://t.co/U66jBhxq9A",
+					"display_url": "pic.twitter.com/U66jBhxq9A",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816480514531328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1272816461430440000,
+		"in_reply_to_status_id_str": "1272816461430439939",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265498,
+			"friends_count": 0,
+			"listed_count": 1598,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 324,
+		"favorite_count": 1180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 [청하BEHIND] '여기 적어줘(Feat. pH-1)' 뮤직비디오 촬영 현장 Part.2\n\n🔗 https://t.co/fsrvLdPd7Z\n\n#청하 #CHUNGHA\n#여기적어줘 #MyFriend https://t.co/U66jBhxq9A"
+	},
+	{
+		"created_at": "Tue Jun 16 09:52:13 +0000 2020",
+		"id": 1272816461430440000,
+		"id_str": "1272829322047492098",
+		"full_text": "📸 [청하BEHIND] '여기 적어줘(Feat. pH-1)' 뮤직비디오 촬영 현장 Part.2\n\n🔗 https://t.co/fsrvLdPd7Z\n\n#청하 #CHUNGHA\n#여기적어줘 #MyFriend https://t.co/2kkiyiRhp8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "여기적어줘",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "MyFriend",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fsrvLdPd7Z",
+					"expanded_url": "https://bit.ly/2CbVCea",
+					"display_url": "bit.ly/2CbVCea",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272816446666444800,
+					"id_str": "1272816446666444800",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz0IfUEAAzxip.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz0IfUEAAzxip.jpg",
+					"url": "https://t.co/2kkiyiRhp8",
+					"display_url": "pic.twitter.com/2kkiyiRhp8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816461430439939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272816446666444800,
+					"id_str": "1272816446666444800",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz0IfUEAAzxip.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz0IfUEAAzxip.jpg",
+					"url": "https://t.co/2kkiyiRhp8",
+					"display_url": "pic.twitter.com/2kkiyiRhp8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816461430439939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272816446679036000,
+					"id_str": "1272816446679035904",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz0IiUMAAEgyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz0IiUMAAEgyz.jpg",
+					"url": "https://t.co/2kkiyiRhp8",
+					"display_url": "pic.twitter.com/2kkiyiRhp8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816461430439939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272816446679048200,
+					"id_str": "1272816446679048192",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz0IiUYAAh2SK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz0IiUYAAh2SK.jpg",
+					"url": "https://t.co/2kkiyiRhp8",
+					"display_url": "pic.twitter.com/2kkiyiRhp8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816461430439939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272816446679048200,
+					"id_str": "1272816446679048193",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eanz0IiUYAE-6uF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eanz0IiUYAE-6uF.jpg",
+					"url": "https://t.co/2kkiyiRhp8",
+					"display_url": "pic.twitter.com/2kkiyiRhp8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1272816461430439939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265498,
+			"friends_count": 0,
+			"listed_count": 1598,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249351708418781184/E8VsR7J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1588155512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 659,
+		"favorite_count": 2460,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 [청하BEHIND] '여기 적어줘(Feat. pH-1)' 뮤직비디오 촬영 현장 Part.2\n\n🔗 https://t.co/fsrvLdPd7Z\n\n#청하 #CHUNGHA\n#여기적어줘 #MyFriend https://t.co/2kkiyiRhp8"
+	},
+	{
+		"created_at": "Tue Jun 16 09:04:04 +0000 2020",
+		"id": 1272817208394121200,
+		"id_str": "1272817208394121218",
+		"full_text": "[STATION] K 규현 R 려욱 Y 예성의 별을 노래하는 시간✨ #비하인더스테이션\nhttps://t.co/sk09NkFO7I\n#SM_STATION #STATION #스테이션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비하인더스테이션",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"text": "SM_STATION",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sk09NkFO7I",
+					"expanded_url": "https://youtu.be/F9SVr10m6ts",
+					"display_url": "youtu.be/F9SVr10m6ts",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 930,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] K 규현 R 려욱 Y 예성의 별을 노래하는 시간✨ #비하인더스테이션\nhttps://t.co/sk09NkFO7I\n#SM_STATION #STATION #스테이션"
+	},
+	{
 		"created_at": "Tue Jun 16 07:59:29 +0000 2020",
 		"id": 1272800952635076600,
 		"id_str": "1272800952635076608",
@@ -1314,7 +2042,7 @@ Grailbird.data.tweets_2020_06 =
 		"created_at": "Tue Jun 16 07:53:01 +0000 2020",
 		"id": 1272787412146516000,
 		"id_str": "1272799325752569856",
-		"full_text": "[🎥 Message from #YURI ]\n\n&lt;유리한 식탁&gt;으로 새롭게 여러분을 찾아온 소녀시대 유리! 👩🏻‍🍳🍽\n\n📺 6월 17일부터 매주 수요일 오후 6시 Youtube &lt;유리한TV&gt; 채널에서 만나보세요❤\n\n#유리 #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration #SMTOWN https://t.co/XGC0OPdvHF",
+		"full_text": "[🎥 Message from #YURI ]\n\n&lt;유리한 식탁&gt;으로 새롭게 여러분을 찾아온 소녀시대 유리! 👩🏻🍳🍽\n\n📺 6월 17일부터 매주 수요일 오후 6시 Youtube &lt;유리한TV&gt; 채널에서 만나보세요❤\n\n#유리 #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration #SMTOWN https://t.co/XGC0OPdvHF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1566,7 +2294,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": true,
 		"lang": "ko",
-		"text": "[🎥 Message from #YURI ]\n\n&lt;유리한 식탁&gt;으로 새롭게 여러분을 찾아온 소녀시대 유리! 👩🏻‍🍳🍽\n\n📺 6월 17일부터 매주 수요일 오후 6시 Youtube &lt;유리한TV&gt; 채널에서 만나보세요❤\n\n#유리 #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration #SMTOWN https://t.co/XGC0OPdvHF"
+		"text": "[🎥 Message from #YURI ]\n\n&lt;유리한 식탁&gt;으로 새롭게 여러분을 찾아온 소녀시대 유리! 👩🏻🍳🍽\n\n📺 6월 17일부터 매주 수요일 오후 6시 Youtube &lt;유리한TV&gt; 채널에서 만나보세요❤\n\n#유리 #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration #SMTOWN https://t.co/XGC0OPdvHF"
 	},
 	{
 		"created_at": "Tue Jun 16 07:47:17 +0000 2020",
