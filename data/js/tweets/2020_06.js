@@ -1,6 +1,88 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 06:52:12 +0000 2020",
+		"id": 1272771285441851400,
+		"id_str": "1272784023287365632",
+		"full_text": "6월 16일 15시 동남권역에 오존주의보가 발령되었습니다(동북, 서남권역 발령 유지). 실외활동 및 차량운행을 자제하여 주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4172,
+			"friends_count": 936,
+			"listed_count": 37,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "6월 16일 15시 동남권역에 오존주의보가 발령되었습니다(동북, 서남권역 발령 유지). 실외활동 및 차량운행을 자제하여 주시기 바랍니다."
+	},
+	{
 		"created_at": "Tue Jun 16 05:52:18 +0000 2020",
 		"id": 1272756164246122500,
 		"id_str": "1272768945691537409",
@@ -86,7 +168,7 @@ Grailbird.data.tweets_2020_06 =
 		"created_at": "Tue Jun 16 05:45:37 +0000 2020",
 		"id": 1272755828303360000,
 		"id_str": "1272767263775633408",
-		"full_text": "[#ViVi] 스케이트보드 위에 앉아서 바비인형랑 찰칵찰칵📸💕😚 아앙 더운 여름에☀ 물속에 들어가고 싶당🏊🏻‍♀️🏝오빛들은 여름에 뭘 하고 싶어용?\n\n#이달의소녀 #LOONA https://t.co/ERLMPmrQmK",
+		"full_text": "[#ViVi] 스케이트보드 위에 앉아서 바비인형랑 찰칵찰칵📸💕😚 아앙 더운 여름에☀ 물속에 들어가고 싶당🏊🏻♀️🏝오빛들은 여름에 뭘 하고 싶어용?\n\n#이달의소녀 #LOONA https://t.co/ERLMPmrQmK",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -312,7 +394,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#ViVi] 스케이트보드 위에 앉아서 바비인형랑 찰칵찰칵📸💕😚 아앙 더운 여름에☀ 물속에 들어가고 싶당🏊🏻‍♀️🏝오빛들은 여름에 뭘 하고 싶어용?\n\n#이달의소녀 #LOONA https://t.co/ERLMPmrQmK"
+		"text": "[#ViVi] 스케이트보드 위에 앉아서 바비인형랑 찰칵찰칵📸💕😚 아앙 더운 여름에☀ 물속에 들어가고 싶당🏊🏻♀️🏝오빛들은 여름에 뭘 하고 싶어용?\n\n#이달의소녀 #LOONA https://t.co/ERLMPmrQmK"
 	},
 	{
 		"created_at": "Tue Jun 16 03:52:22 +0000 2020",
