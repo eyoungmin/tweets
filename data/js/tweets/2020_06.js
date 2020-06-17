@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 01:59:21 +0000 2020",
+		"id": 1273072712756445200,
+		"id_str": "1273072712756445185",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 다크 카리스마…블랙 콘셉트 티저 포스터\nhttps://t.co/RwiUoJy5Is\n#블랙핑크 #BLACKPINK https://t.co/7rlrl4FbH3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RwiUoJy5Is",
+					"expanded_url": "https://yg-life.com/archives/156255?lang=ko",
+					"display_url": "yg-life.com/archives/15625…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273072711582060500,
+					"id_str": "1273072711582060550",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Earc4tsXkAY0FsR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Earc4tsXkAY0FsR.jpg",
+					"url": "https://t.co/7rlrl4FbH3",
+					"display_url": "pic.twitter.com/7rlrl4FbH3",
+					"expanded_url": "https://twitter.com/fromminn/status/1273072712756445185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273072711582060500,
+					"id_str": "1273072711582060550",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Earc4tsXkAY0FsR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Earc4tsXkAY0FsR.jpg",
+					"url": "https://t.co/7rlrl4FbH3",
+					"display_url": "pic.twitter.com/7rlrl4FbH3",
+					"expanded_url": "https://twitter.com/fromminn/status/1273072712756445185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 930,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 다크 카리스마…블랙 콘셉트 티저 포스터\nhttps://t.co/RwiUoJy5Is\n#블랙핑크 #BLACKPINK https://t.co/7rlrl4FbH3"
+	},
+	{
+		"created_at": "Wed Jun 17 01:52:13 +0000 2020",
+		"id": 1273062538188488700,
+		"id_str": "1273070913832005632",
+		"full_text": "#YURI opened ‘#유리한식탁’ via YouTube ‘#유리한TV’ Channel!👩🏻‍🍳🎉\n\n‘유리한 식탁’ will be with special guests, from her close acquaintances to celebrities, and YURI will reveal '유리한 Recipe' that anyone would be interested in!\n\nMeet ‘유리한 식탁’ today at 6PM KST!❤️\n\n#유리 https://t.co/Ao5cyJhkJ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YURI",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						247,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273062527253921800,
+					"id_str": "1273062527253921792",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EarTn6HUwAAVyXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EarTn6HUwAAVyXc.jpg",
+					"url": "https://t.co/Ao5cyJhkJ8",
+					"display_url": "pic.twitter.com/Ao5cyJhkJ8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1273062538188488706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1214,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 711,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273062527253921800,
+					"id_str": "1273062527253921792",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EarTn6HUwAAVyXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EarTn6HUwAAVyXc.jpg",
+					"url": "https://t.co/Ao5cyJhkJ8",
+					"display_url": "pic.twitter.com/Ao5cyJhkJ8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1273062538188488706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1214,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 711,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8107884,
+			"friends_count": 49,
+			"listed_count": 7938,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1117,
+		"favorite_count": 3334,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "#YURI opened ‘#유리한식탁’ via YouTube ‘#유리한TV’ Channel!👩🏻‍🍳🎉\n\n‘유리한 식탁’ will be with special guests, from her close acquaintances to celebrities, and YURI will reveal '유리한 Recipe' that anyone would be interested in!\n\nMeet ‘유리한 식탁’ today at 6PM KST!❤️\n\n#유리 https://t.co/Ao5cyJhkJ8"
+	},
+	{
+		"created_at": "Wed Jun 17 01:11:04 +0000 2020",
+		"id": 1273050566919245800,
+		"id_str": "1273060560020533249",
+		"full_text": "‘공룡’ 넷플릭스, 월 사용자수 폭증…2위 웨이브는 하락 https://t.co/AArfX0QaiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AArfX0QaiN",
+					"expanded_url": "http://www.bloter.net/archives/390618",
+					"display_url": "bloter.net/archives/390618",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55287,
+			"friends_count": 9,
+			"listed_count": 2394,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘공룡’ 넷플릭스, 월 사용자수 폭증…2위 웨이브는 하락 https://t.co/AArfX0QaiN"
+	},
+	{
 		"created_at": "Wed Jun 17 00:52:13 +0000 2020",
 		"id": 1273042754730430500,
 		"id_str": "1273055815302348802",
