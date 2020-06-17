@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 00:52:13 +0000 2020",
+		"id": 1273042754730430500,
+		"id_str": "1273055815302348802",
+		"full_text": "#BLACKPINK ‘How You Like That’ TITLE POSTER #2\n\nPre-Release Single\n✅2020.06.26 6PM\n\n#블랙핑크 #ROSÉ #로제 #JENNIE #제니 #LISA #리사 #JISOO #지수 #HowYouLikeThat #PreReleaseSingle #TitlePoster #20200626_6pm #Release #YG https://t.co/pTlb7QL8x3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						133,
+						148
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						149,
+						166
+					]
+				},
+				{
+					"text": "TitlePoster",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "20200626_6pm",
+					"indices": [
+						180,
+						193
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						203,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273039377824792600,
+					"id_str": "1273039377824792576",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaq-kbxUwAAha8B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaq-kbxUwAAha8B.jpg",
+					"url": "https://t.co/pTlb7QL8x3",
+					"display_url": "pic.twitter.com/pTlb7QL8x3",
+					"expanded_url": "https://twitter.com/ygent_official/status/1273042754730430465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273039377824792600,
+					"id_str": "1273039377824792576",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaq-kbxUwAAha8B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaq-kbxUwAAha8B.jpg",
+					"url": "https://t.co/pTlb7QL8x3",
+					"display_url": "pic.twitter.com/pTlb7QL8x3",
+					"expanded_url": "https://twitter.com/ygent_official/status/1273042754730430465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273039396149723100,
+					"id_str": "1273039396149723141",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaq-lgCVAAUz507.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaq-lgCVAAUz507.jpg",
+					"url": "https://t.co/pTlb7QL8x3",
+					"display_url": "pic.twitter.com/pTlb7QL8x3",
+					"expanded_url": "https://twitter.com/ygent_official/status/1273042754730430465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273039424016617500,
+					"id_str": "1273039424016617472",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaq-nH2UEAAK9v1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaq-nH2UEAAK9v1.jpg",
+					"url": "https://t.co/pTlb7QL8x3",
+					"display_url": "pic.twitter.com/pTlb7QL8x3",
+					"expanded_url": "https://twitter.com/ygent_official/status/1273042754730430465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273039440802279400,
+					"id_str": "1273039440802279424",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaq-oGYU8AAY_Tl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaq-oGYU8AAY_Tl.jpg",
+					"url": "https://t.co/pTlb7QL8x3",
+					"display_url": "pic.twitter.com/pTlb7QL8x3",
+					"expanded_url": "https://twitter.com/ygent_official/status/1273042754730430465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6138184,
+			"friends_count": 37,
+			"listed_count": 6309,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89752,
+		"favorite_count": 153698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘How You Like That’ TITLE POSTER #2\n\nPre-Release Single\n✅2020.06.26 6PM\n\n#블랙핑크 #ROSÉ #로제 #JENNIE #제니 #LISA #리사 #JISOO #지수 #HowYouLikeThat #PreReleaseSingle #TitlePoster #20200626_6pm #Release #YG https://t.co/pTlb7QL8x3"
+	},
+	{
+		"created_at": "Wed Jun 17 00:45:41 +0000 2020",
+		"id": 1273042677773283300,
+		"id_str": "1273054174201118721",
+		"full_text": "[KCON:TACT 2020 SUMMER] #KCON COVER STAGE\n\n#LOONA is the biggest hit on this stage!\nGuess what cover stage they'll be bringing only at #KCONTACT ! 🍒💣\n\n▶#MnetKpopYouTube JOIN NOW: https://t.co/r2LY9moQI2 \n#KCON2020 #LetsKCON247 https://t.co/1ck3Yg3t54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "MnetKpopYouTube",
+					"indices": [
+						152,
+						168
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "LetsKCON247",
+					"indices": [
+						214,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r2LY9moQI2",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272854174695166000,
+					"id_str": "1272854174695165953",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272854174695165953/pu/img/52GrCubCqBiIg3nE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272854174695165953/pu/img/52GrCubCqBiIg3nE.jpg",
+					"url": "https://t.co/1ck3Yg3t54",
+					"display_url": "pic.twitter.com/1ck3Yg3t54",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1273042677773283329/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272854174695166000,
+					"id_str": "1272854174695165953",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272854174695165953/pu/img/52GrCubCqBiIg3nE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272854174695165953/pu/img/52GrCubCqBiIg3nE.jpg",
+					"url": "https://t.co/1ck3Yg3t54",
+					"display_url": "pic.twitter.com/1ck3Yg3t54",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1273042677773283329/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23223,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272854174695165953/pu/vid/1280x720/Mx0fAzFZm0OvOCSA.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272854174695165953/pu/vid/480x270/XAjE9KN93hFuUzIu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1272854174695165953/pu/pl/Iwm0jJj_vVvUc93c.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272854174695165953/pu/vid/640x360/DJxJ4DtyM1hmX83G.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "LET'S KCON! Welcome to KCON :)",
+			"url": "https://t.co/vgtSskmfAh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vgtSskmfAh",
+							"expanded_url": "https://www.youtube.com/Mnet/join",
+							"display_url": "youtube.com/Mnet/join",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 246665,
+			"friends_count": 127,
+			"listed_count": 819,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1590630440",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT 2020 SUMMER] #KCON COVER STAGE\n\n#LOONA is the biggest hit on this stage!\nGuess what cover stage they'll be bringing only at #KCONTACT ! 🍒💣\n\n▶#MnetKpopYouTube JOIN NOW: https://t.co/r2LY9moQI2 \n#KCON2020 #LetsKCON247 https://t.co/1ck3Yg3t54"
+	},
+	{
 		"created_at": "Tue Jun 16 23:14:12 +0000 2020",
 		"id": 1273031149439185000,
 		"id_str": "1273031149439184896",
