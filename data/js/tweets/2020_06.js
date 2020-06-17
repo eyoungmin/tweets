@@ -1,6 +1,1096 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 22:49:10 +0000 2020",
+		"id": 1272796082888568800,
+		"id_str": "1273387237812482051",
+		"full_text": "[Pick] \"나이가 젊어서\"…'n번방' 유사 범죄 줄줄이 감형하는 법원 #SBS뉴스 https://t.co/Q3gx9Ds5cd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS뉴스",
+					"indices": [
+						41,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q3gx9Ds5cd",
+					"expanded_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005838645&plink=TWEET&cooper=TWITTER",
+					"display_url": "news.sbs.co.kr/news/endPage.d…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.sbs.co.kr\" rel=\"nofollow\">sbs8news</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91946403,
+			"id_str": "91946403",
+			"name": "SBS 뉴스",
+			"screen_name": "SBS8news",
+			"location": "KOREA",
+			"description": "SBS 보도본부 공식 트위터입니다. 시청자 여러분과 함께 하는 뉴스를 만들도록 최선을 다하겠습니다. 제보는 이메일 sbs8news@sbs.co.kr로 연락 주시기 바랍니다.",
+			"url": "https://t.co/HNq9OuURor",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HNq9OuURor",
+							"expanded_url": "https://news.sbs.co.kr",
+							"display_url": "news.sbs.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423148,
+			"friends_count": 94118,
+			"listed_count": 3830,
+			"created_at": "Mon Nov 23 05:47:28 +0000 2009",
+			"favourites_count": 2060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 194806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086075115551354880/P91M6DEi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086075115551354880/P91M6DEi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91946403/1434703804",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2453,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Pick] \"나이가 젊어서\"…'n번방' 유사 범죄 줄줄이 감형하는 법원 #SBS뉴스 https://t.co/Q3gx9Ds5cd"
+	},
+	{
+		"created_at": "Wed Jun 17 22:27:34 +0000 2020",
+		"id": 1273178572560064500,
+		"id_str": "1273381803072516098",
+		"full_text": "[Making] '헤이즈' 6번째 미니 앨범 [Lyricist] 📝 \n타이틀곡 '작사가/일이 너무 잘 돼’ 뮤직비디오 메이킹필름🎬\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 #Things_are_going_well https://t.co/nwhHS5WCle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "일이너무잘돼",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "Things_are_going_well",
+					"indices": [
+						109,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273168459430584300,
+					"id_str": "1273168459430584320",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Easz9-OXYAA7Sat.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Easz9-OXYAA7Sat.jpg",
+					"url": "https://t.co/nwhHS5WCle",
+					"display_url": "pic.twitter.com/nwhHS5WCle",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1273178572560064512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273168459430584300,
+					"id_str": "1273168459430584320",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Easz9-OXYAA7Sat.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Easz9-OXYAA7Sat.jpg",
+					"url": "https://t.co/nwhHS5WCle",
+					"display_url": "pic.twitter.com/nwhHS5WCle",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1273178572560064512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39482,
+			"friends_count": 0,
+			"listed_count": 364,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 553,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Making] '헤이즈' 6번째 미니 앨범 [Lyricist] 📝 \n타이틀곡 '작사가/일이 너무 잘 돼’ 뮤직비디오 메이킹필름🎬\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 #Things_are_going_well https://t.co/nwhHS5WCle"
+	},
+	{
+		"created_at": "Wed Jun 17 22:27:22 +0000 2020",
+		"id": 1273110762718998500,
+		"id_str": "1273381750845014016",
+		"full_text": "BTS 슈가의 ‘대취타’ 덕분에 우리의 전통음악 ‘대취타’에도 전 세계 관심 집중!😍 국립국악원의 영상으로 '대취타'에 대해 알아볼까요? 영어자막도 준비 완료!👍\n✔️영상 보기(Explanation version)\n▶https://t.co/kCSbrIhxb7\n\n#대취타 #Daechwita #슈가 #SUGA #AgustD #BTS #방탄소년단 #국립국악원 https://t.co/7Mf1OFtmte",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대취타",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "Daechwita",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "슈가",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "SUGA",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "AgustD",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "국립국악원",
+					"indices": [
+						192,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kCSbrIhxb7",
+					"expanded_url": "https://bit.ly/2zEtorr",
+					"display_url": "bit.ly/2zEtorr",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273107540109385700,
+					"id_str": "1273107540109385729",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ear8kAEXYAEkXkC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ear8kAEXYAEkXkC.jpg",
+					"url": "https://t.co/7Mf1OFtmte",
+					"display_url": "pic.twitter.com/7Mf1OFtmte",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1273110762718998528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273107540109385700,
+					"id_str": "1273107540109385729",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ear8kAEXYAEkXkC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ear8kAEXYAEkXkC.jpg",
+					"url": "https://t.co/7Mf1OFtmte",
+					"display_url": "pic.twitter.com/7Mf1OFtmte",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1273110762718998528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141083064,
+			"id_str": "141083064",
+			"name": "문화체육관광부",
+			"screen_name": "mcstkorea",
+			"location": "Republic of Korea",
+			"description": "문화·체육·관광으로 행복한 대한민국",
+			"url": "http://t.co/mVy4NdMos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mVy4NdMos2",
+							"expanded_url": "http://www.mcst.go.kr",
+							"display_url": "mcst.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133209,
+			"friends_count": 22759,
+			"listed_count": 987,
+			"created_at": "Fri May 07 04:19:09 +0000 2010",
+			"favourites_count": 1463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141083064/1583306449",
+			"profile_link_color": "4C4C4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8180,
+		"favorite_count": 19377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BTS 슈가의 ‘대취타’ 덕분에 우리의 전통음악 ‘대취타’에도 전 세계 관심 집중!😍 국립국악원의 영상으로 '대취타'에 대해 알아볼까요? 영어자막도 준비 완료!👍\n✔️영상 보기(Explanation version)\n▶https://t.co/kCSbrIhxb7\n\n#대취타 #Daechwita #슈가 #SUGA #AgustD #BTS #방탄소년단 #국립국악원 https://t.co/7Mf1OFtmte"
+	},
+	{
+		"created_at": "Wed Jun 17 22:23:28 +0000 2020",
+		"id": 1273221985657475000,
+		"id_str": "1273380771726716928",
+		"full_text": "외모칭찬을 왜 하면 안되는가.\n공적 존재를 사적 존재로 바꿔 호명하면서 상대의 공적 영향력을 지우는 행위이기 때문입니다.\n예쁘다 아름답다 품평을 들을 때마다 시시포스의 바위처럼 힘들게 밀어올린 공적 존재로서의 존엄이 사적 존재로 계속 재호명되며 미끄러져 내려갑니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807577327697686500,
+			"id_str": "807577327697686528",
+			"name": "그린올리브",
+			"screen_name": "olivecatlee",
+			"location": "",
+			"description": "책읽으미 / 고양이수발러 / 리트위터러",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3495,
+			"friends_count": 190,
+			"listed_count": 10,
+			"created_at": "Sat Dec 10 13:26:53 +0000 2016",
+			"favourites_count": 16021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862640628626210816/ygRY3d37_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862640628626210816/ygRY3d37_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807577327697686528/1481395910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 617,
+		"favorite_count": 467,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "외모칭찬을 왜 하면 안되는가.\n공적 존재를 사적 존재로 바꿔 호명하면서 상대의 공적 영향력을 지우는 행위이기 때문입니다.\n예쁘다 아름답다 품평을 들을 때마다 시시포스의 바위처럼 힘들게 밀어올린 공적 존재로서의 존엄이 사적 존재로 계속 재호명되며 미끄러져 내려갑니다."
+	},
+	{
+		"created_at": "Wed Jun 17 22:23:01 +0000 2020",
+		"id": 1273027576462635000,
+		"id_str": "1273380654990815232",
+		"full_text": "n번방을 만든 사회가 바뀌지 않는 한, 훗날 또 다른 범죄의 전신으로 n번방을 곱씹게 될지 모른다. n번방을 ‘실패의 기록’으로 남기지 않기 위해 조직적 성착취를 가능케 한 사회를 돌아봤다.\nhttps://t.co/C3buGfjS2F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C3buGfjS2F",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006170600005&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 726057,
+			"friends_count": 78631,
+			"listed_count": 5978,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 84460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3895,
+		"favorite_count": 861,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "n번방을 만든 사회가 바뀌지 않는 한, 훗날 또 다른 범죄의 전신으로 n번방을 곱씹게 될지 모른다. n번방을 ‘실패의 기록’으로 남기지 않기 위해 조직적 성착취를 가능케 한 사회를 돌아봤다.\nhttps://t.co/C3buGfjS2F"
+	},
+	{
+		"created_at": "Wed Jun 17 22:22:37 +0000 2020",
+		"id": 1273218240815100000,
+		"id_str": "1273380555925516288",
+		"full_text": "포스트 코로나 전망: 실물 세계화 후퇴 사이버 세계화 가속; 안전 증진 약속 대가로 사회 통제 강화하는 기술 채택 국가 증가. 중국 선례; 선진국내 국익-보호주의 우파와 사회주의 강화 좌파 갈등 고조; 공공부채 재정적자 증가 따른 증세; 미중 위상 변화. 국제 협력 난항. https://t.co/1SG1R2G4T5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1SG1R2G4T5",
+					"expanded_url": "https://www.ft.com/content/9b8223bb-c5e4-4c11-944d-94ff5d33a909",
+					"display_url": "ft.com/content/9b8223…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100703,
+			"friends_count": 2406,
+			"listed_count": 0,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포스트 코로나 전망: 실물 세계화 후퇴 사이버 세계화 가속; 안전 증진 약속 대가로 사회 통제 강화하는 기술 채택 국가 증가. 중국 선례; 선진국내 국익-보호주의 우파와 사회주의 강화 좌파 갈등 고조; 공공부채 재정적자 증가 따른 증세; 미중 위상 변화. 국제 협력 난항. https://t.co/1SG1R2G4T5"
+	},
+	{
+		"created_at": "Wed Jun 17 22:22:29 +0000 2020",
+		"id": 1273269173603512300,
+		"id_str": "1273380523239288832",
+		"full_text": "[급구]\n이 사진의 워딩을 찾습니다.\n그냥 예쁘고 청순하고 다 하는데\n뭐라고 쓸지 모르겠습니다.\n#선미_퐄아리_재질_정도❓\n⠀\n#선미 #SUNMI\n#보라빛밤 #pporappippam\n#200629_6pm\n#보라빛밤에_선미랑 https://t.co/eU2OAk7zxH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미_퐄아리_재질_정도",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "보라빛밤",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "pporappippam",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "200629_6pm",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"text": "보라빛밤에_선미랑",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273147874688336000,
+					"id_str": "1273147874688335873",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EashPyFXgAEwZAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EashPyFXgAEwZAn.jpg",
+					"url": "https://t.co/eU2OAk7zxH",
+					"display_url": "pic.twitter.com/eU2OAk7zxH",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1273269173603512320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 976,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273147874688336000,
+					"id_str": "1273147874688335873",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EashPyFXgAEwZAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EashPyFXgAEwZAn.jpg",
+					"url": "https://t.co/eU2OAk7zxH",
+					"display_url": "pic.twitter.com/eU2OAk7zxH",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1273269173603512320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 976,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895202531978104800,
+			"id_str": "895202531978104832",
+			"name": "선미 SUNMI",
+			"screen_name": "official_sunmi_",
+			"location": "",
+			"description": "SUNMI Official Twitter",
+			"url": "https://t.co/j9kgBMrEdJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j9kgBMrEdJ",
+							"expanded_url": "https://www.facebook.com/groups/officialsunmi/",
+							"display_url": "facebook.com/groups/officia…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243846,
+			"friends_count": 2,
+			"listed_count": 1042,
+			"created_at": "Wed Aug 09 08:38:10 +0000 2017",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166274031479181313/2s5CIaLV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166274031479181313/2s5CIaLV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895202531978104832/1566896375",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3387,
+		"favorite_count": 12145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[급구]\n이 사진의 워딩을 찾습니다.\n그냥 예쁘고 청순하고 다 하는데\n뭐라고 쓸지 모르겠습니다.\n#선미_퐄아리_재질_정도❓\n⠀\n#선미 #SUNMI\n#보라빛밤 #pporappippam\n#200629_6pm\n#보라빛밤에_선미랑 https://t.co/eU2OAk7zxH"
+	},
+	{
 		"created_at": "Wed Jun 17 15:45:37 +0000 2020",
 		"id": 1273269198769148000,
 		"id_str": "1273280646744625153",
