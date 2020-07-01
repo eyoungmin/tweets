@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 01 15:00:28 +0000 2020",
+		"id": 1278331974512304000,
+		"id_str": "1278342714954637312",
+		"full_text": "“규정과 절차에 따라 운영하고 있으나..\n그럴 의도는 전혀 없었으나..\n추후 주의하겠다”\n저도 책임을 회피하고 전가하고자 했을 때 많이 썼던 문구죠.\n아쉬운 소리 듣는게 회사라지만 아쉬움 없게 실질적인 운영개선도 회사의 몫이라 생각합니다. 요즘 소비자는 똑똑하거든요. https://t.co/ANh78hBPHg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ANh78hBPHg",
+					"expanded_url": "https://twitter.com/day6official/status/1278327680752947201",
+					"display_url": "twitter.com/day6official/s…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1011030781156704300,
+			"id_str": "1011030781156704256",
+			"name": "풀필(풀피리)",
+			"screen_name": "fullfeeled",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27493,
+			"friends_count": 5,
+			"listed_count": 1005,
+			"created_at": "Sun Jun 24 23:38:17 +0000 2018",
+			"favourites_count": 2778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255385750499209219/JJapm3Y__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255385750499209219/JJapm3Y__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1011030781156704256/1592744083",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1278327680752947200,
+		"quoted_status_id_str": "1278327680752947201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ANh78hBPHg",
+			"expanded": "https://twitter.com/day6official/status/1278327680752947201",
+			"display": "twitter.com/day6official/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 01 14:00:43 +0000 2020",
+			"id": 1278327680752947200,
+			"id_str": "1278327680752947201",
+			"full_text": "[NOTICE]\n안녕하세요, JYPE입니다.\n\nhttps://t.co/KEo4ps4QXX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KEo4ps4QXX",
+						"expanded_url": "http://bit.ly/31AzRzs",
+						"display_url": "bit.ly/31AzRzs",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3390133696,
+				"id_str": "3390133696",
+				"name": "DAY6",
+				"screen_name": "day6official",
+				"location": "",
+				"description": "DAY6 Official twitter",
+				"url": "https://t.co/nKQtIe5dWh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nKQtIe5dWh",
+								"expanded_url": "http://day6.jype.com/",
+								"display_url": "day6.jype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1636708,
+				"friends_count": 36,
+				"listed_count": 4336,
+				"created_at": "Thu Jul 23 23:23:50 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3119,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1254432639534039041/I7PJ2psX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254432639534039041/I7PJ2psX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3390133696/1587915024",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8565,
+			"favorite_count": 18690,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 379,
+		"favorite_count": 247,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“규정과 절차에 따라 운영하고 있으나..\n그럴 의도는 전혀 없었으나..\n추후 주의하겠다”\n저도 책임을 회피하고 전가하고자 했을 때 많이 썼던 문구죠.\n아쉬운 소리 듣는게 회사라지만 아쉬움 없게 실질적인 운영개선도 회사의 몫이라 생각합니다. 요즘 소비자는 똑똑하거든요. https://t.co/ANh78hBPHg"
+	},
+	{
 		"created_at": "Wed Jul 01 13:25:27 +0000 2020",
 		"id": 1278316209771954200,
 		"id_str": "1278318804217585664",
