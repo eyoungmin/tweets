@@ -1,6 +1,1494 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 01 15:25:35 +0000 2020",
+		"id": 1278343236327637000,
+		"id_str": "1278349037985583105",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/qTEBjxvYSJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GWofO6VkbP",
+					"expanded_url": "http://redvelvet-ireneseulgi.smtown.com",
+					"display_url": "redvelvet-ireneseulgi.smtown.com",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278343198197215200,
+					"id_str": "1278343198197215235",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2WXaWU8AMHF2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2WXaWU8AMHF2f.jpg",
+					"url": "https://t.co/qTEBjxvYSJ",
+					"display_url": "pic.twitter.com/qTEBjxvYSJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278343236327636992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278343198197215200,
+					"id_str": "1278343198197215235",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2WXaWU8AMHF2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2WXaWU8AMHF2f.jpg",
+					"url": "https://t.co/qTEBjxvYSJ",
+					"display_url": "pic.twitter.com/qTEBjxvYSJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278343236327636992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773431,
+			"friends_count": 2,
+			"listed_count": 5973,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34096,
+		"favorite_count": 55599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/qTEBjxvYSJ"
+	},
+	{
+		"created_at": "Wed Jul 01 15:25:27 +0000 2020",
+		"id": 1278343111672950800,
+		"id_str": "1278349003906789377",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/niwA5tHrKF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GWofO6VkbP",
+					"expanded_url": "http://redvelvet-ireneseulgi.smtown.com",
+					"display_url": "redvelvet-ireneseulgi.smtown.com",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278343061211242500,
+					"id_str": "1278343061211242496",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2WPcCU4AAMG55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2WPcCU4AAMG55.jpg",
+					"url": "https://t.co/niwA5tHrKF",
+					"display_url": "pic.twitter.com/niwA5tHrKF",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278343111672950785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278343061211242500,
+					"id_str": "1278343061211242496",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2WPcCU4AAMG55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2WPcCU4AAMG55.jpg",
+					"url": "https://t.co/niwA5tHrKF",
+					"display_url": "pic.twitter.com/niwA5tHrKF",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278343111672950785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773431,
+			"friends_count": 2,
+			"listed_count": 5973,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27178,
+		"favorite_count": 44809,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/niwA5tHrKF"
+	},
+	{
+		"created_at": "Wed Jul 01 15:25:21 +0000 2020",
+		"id": 1278342903950008300,
+		"id_str": "1278348978275442693",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/Rw0C9q0bAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GWofO6VkbP",
+					"expanded_url": "http://redvelvet-ireneseulgi.smtown.com",
+					"display_url": "redvelvet-ireneseulgi.smtown.com",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278342186992427000,
+					"id_str": "1278342186992427014",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2VcjUUYAYx8vB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2VcjUUYAYx8vB.jpg",
+					"url": "https://t.co/Rw0C9q0bAu",
+					"display_url": "pic.twitter.com/Rw0C9q0bAu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342903950008322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278342186992427000,
+					"id_str": "1278342186992427014",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2VcjUUYAYx8vB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2VcjUUYAYx8vB.jpg",
+					"url": "https://t.co/Rw0C9q0bAu",
+					"display_url": "pic.twitter.com/Rw0C9q0bAu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342903950008322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773431,
+			"friends_count": 2,
+			"listed_count": 5973,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26132,
+		"favorite_count": 42498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/Rw0C9q0bAu"
+	},
+	{
+		"created_at": "Wed Jul 01 15:25:19 +0000 2020",
+		"id": 1278342836048392200,
+		"id_str": "1278348969433862145",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/chSVzPAnnC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GWofO6VkbP",
+					"expanded_url": "http://redvelvet-ireneseulgi.smtown.com",
+					"display_url": "redvelvet-ireneseulgi.smtown.com",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278341995727974400,
+					"id_str": "1278341995727974401",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2VRazUcAEC1Im.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2VRazUcAEC1Im.jpg",
+					"url": "https://t.co/chSVzPAnnC",
+					"display_url": "pic.twitter.com/chSVzPAnnC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342836048392192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1384,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278341995727974400,
+					"id_str": "1278341995727974401",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2VRazUcAEC1Im.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2VRazUcAEC1Im.jpg",
+					"url": "https://t.co/chSVzPAnnC",
+					"display_url": "pic.twitter.com/chSVzPAnnC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342836048392192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1384,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773431,
+			"friends_count": 2,
+			"listed_count": 5973,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24627,
+		"favorite_count": 41444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/chSVzPAnnC"
+	},
+	{
+		"created_at": "Wed Jul 01 15:25:17 +0000 2020",
+		"id": 1278342743417172000,
+		"id_str": "1278348960558657537",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/xCmoLZfAxY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GWofO6VkbP",
+					"expanded_url": "http://redvelvet-ireneseulgi.smtown.com",
+					"display_url": "redvelvet-ireneseulgi.smtown.com",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278341948571398100,
+					"id_str": "1278341948571398144",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2VOrIUMAAwL7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2VOrIUMAAwL7_.jpg",
+					"url": "https://t.co/xCmoLZfAxY",
+					"display_url": "pic.twitter.com/xCmoLZfAxY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342743417171968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278341948571398100,
+					"id_str": "1278341948571398144",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2VOrIUMAAwL7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2VOrIUMAAwL7_.jpg",
+					"url": "https://t.co/xCmoLZfAxY",
+					"display_url": "pic.twitter.com/xCmoLZfAxY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342743417171968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773431,
+			"friends_count": 2,
+			"listed_count": 5973,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26123,
+		"favorite_count": 44832,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/xCmoLZfAxY"
+	},
+	{
+		"created_at": "Wed Jul 01 15:25:11 +0000 2020",
+		"id": 1278342706427621400,
+		"id_str": "1278348934839222275",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/jfXHPiybGP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GWofO6VkbP",
+					"expanded_url": "http://redvelvet-ireneseulgi.smtown.com",
+					"display_url": "redvelvet-ireneseulgi.smtown.com",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278341892761981000,
+					"id_str": "1278341892761980928",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2VLbOUEAAj2h2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2VLbOUEAAj2h2.jpg",
+					"url": "https://t.co/jfXHPiybGP",
+					"display_url": "pic.twitter.com/jfXHPiybGP",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342706427621377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278341892761981000,
+					"id_str": "1278341892761980928",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb2VLbOUEAAj2h2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb2VLbOUEAAj2h2.jpg",
+					"url": "https://t.co/jfXHPiybGP",
+					"display_url": "pic.twitter.com/jfXHPiybGP",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342706427621377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773431,
+			"friends_count": 2,
+			"listed_count": 5973,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32140,
+		"favorite_count": 57657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [‘Monster’]\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/jfXHPiybGP"
+	},
+	{
 		"created_at": "Wed Jul 01 15:16:39 +0000 2020",
 		"id": 1278346786910859300,
 		"id_str": "1278346786910859264",
