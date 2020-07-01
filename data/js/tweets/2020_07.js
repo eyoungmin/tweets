@@ -1,6 +1,912 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 01 03:25:35 +0000 2020",
+		"id": 1278071561203798000,
+		"id_str": "1278167842467217410",
+		"full_text": "⁣Repost from @chunga_official\n⠀⠀\nFor her single #2, “Play”, Chung Ha wears a short laceleaf-printed dress with draping in Poplin and a silk foulard in her hair.⠀\n  ⠀\n #DGCelebs #DGFamily #DolceGabbana https://t.co/PvmjO5BB8y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DGCelebs",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "DGFamily",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "DolceGabbana",
+					"indices": [
+						187,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277937004630737000,
+					"id_str": "1277937004630736902",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277937004630736902/pu/img/Ki9m76daW0n45rAU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277937004630736902/pu/img/Ki9m76daW0n45rAU.jpg",
+					"url": "https://t.co/PvmjO5BB8y",
+					"display_url": "pic.twitter.com/PvmjO5BB8y",
+					"expanded_url": "https://twitter.com/dolcegabbana/status/1278071561203798016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277937004630737000,
+					"id_str": "1277937004630736902",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277937004630736902/pu/img/Ki9m76daW0n45rAU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277937004630736902/pu/img/Ki9m76daW0n45rAU.jpg",
+					"url": "https://t.co/PvmjO5BB8y",
+					"display_url": "pic.twitter.com/PvmjO5BB8y",
+					"expanded_url": "https://twitter.com/dolcegabbana/status/1278071561203798016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23167,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1277937004630736902/pu/pl/73vmaKI4t-AibXRi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277937004630736902/pu/vid/320x320/gpr6YW0Tv8utzBsi.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277937004630736902/pu/vid/480x480/wvtyM5OP7asbkZxi.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277937004630736902/pu/vid/720x720/Sztt6BfKidyaF7PD.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85772748,
+			"id_str": "85772748",
+			"name": "Dolce & Gabbana",
+			"screen_name": "dolcegabbana",
+			"location": "Milan, Italy",
+			"description": "",
+			"url": "https://t.co/jv6fN731p7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jv6fN731p7",
+							"expanded_url": "http://www.dolcegabbana.com/",
+							"display_url": "dolcegabbana.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5259021,
+			"friends_count": 411,
+			"listed_count": 8256,
+			"created_at": "Wed Oct 28 08:34:03 +0000 2009",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/717040015893798915/j0kzSa9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/717040015893798915/j0kzSa9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85772748/1589205968",
+			"profile_link_color": "CC1919",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "9E9E9E",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 360,
+		"favorite_count": 1284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⁣Repost from @chunga_official\n⠀⠀\nFor her single #2, “Play”, Chung Ha wears a short laceleaf-printed dress with draping in Poplin and a silk foulard in her hair.⠀\n  ⠀\n #DGCelebs #DGFamily #DolceGabbana https://t.co/PvmjO5BB8y"
+	},
+	{
+		"created_at": "Wed Jul 01 03:25:27 +0000 2020",
+		"id": 1278161753755410400,
+		"id_str": "1278167808132734978",
+		"full_text": "#이달의소녀 (LOOПΔ) OFFICIAL LIGHT STICK과 액세서리 일반 판매 START! 아래의 주소 꾸욱 누르면 BlockBerryCreative SHOP에 방문하실 수 있습니다❤️\n\n▶️ https://t.co/lGeeSDvoOo\n\n#LOONA https://t.co/Mp8tfBAgvX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lGeeSDvoOo",
+					"expanded_url": "http://blockberrycreativeshop.com",
+					"display_url": "blockberrycreativeshop.com",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278161609039343600,
+					"id_str": "1278161609039343616",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EbzxNiBU8AATqiU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbzxNiBU8AATqiU.jpg",
+					"url": "https://t.co/Mp8tfBAgvX",
+					"display_url": "pic.twitter.com/Mp8tfBAgvX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1278161753755410432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278161609039343600,
+					"id_str": "1278161609039343616",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EbzxNiBU8AATqiU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbzxNiBU8AATqiU.jpg",
+					"url": "https://t.co/Mp8tfBAgvX",
+					"display_url": "pic.twitter.com/Mp8tfBAgvX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1278161753755410432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493339,
+			"friends_count": 0,
+			"listed_count": 5049,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5489,
+		"favorite_count": 15624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 (LOOПΔ) OFFICIAL LIGHT STICK과 액세서리 일반 판매 START! 아래의 주소 꾸욱 누르면 BlockBerryCreative SHOP에 방문하실 수 있습니다❤️\n\n▶️ https://t.co/lGeeSDvoOo\n\n#LOONA https://t.co/Mp8tfBAgvX"
+	},
+	{
+		"created_at": "Wed Jul 01 03:25:25 +0000 2020",
+		"id": 1278161440050827300,
+		"id_str": "1278167799261810690",
+		"full_text": "🚂이달의 탐탐탐 Season 2 Episode 4 (LOONA THE TAM Season 2 Episode 4)\n⠀\n블랙 드레스로 이달의 회담을 빛낸 #이달의소녀 와 \n소녀들이 눈물을 흘린 이유를 지금 바로 확인하세요💧\n⠀\n▶ https://t.co/Sr7l2smP2e\n⠀\n#이달의탐탐탐 #LOONA #LOONATHETAM #TravelAndMore https://t.co/GjcQmC2FRx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "이달의탐탐탐",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "LOONATHETAM",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"text": "TravelAndMore",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sr7l2smP2e",
+					"expanded_url": "https://youtu.be/EfW8suZJJko",
+					"display_url": "youtu.be/EfW8suZJJko",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278158650951917600,
+					"id_str": "1278158650951917568",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EbzuhWSU4AAr-iC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbzuhWSU4AAr-iC.jpg",
+					"url": "https://t.co/GjcQmC2FRx",
+					"display_url": "pic.twitter.com/GjcQmC2FRx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1278161440050827264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278158650951917600,
+					"id_str": "1278158650951917568",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EbzuhWSU4AAr-iC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbzuhWSU4AAr-iC.jpg",
+					"url": "https://t.co/GjcQmC2FRx",
+					"display_url": "pic.twitter.com/GjcQmC2FRx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1278161440050827264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493339,
+			"friends_count": 0,
+			"listed_count": 5049,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2668,
+		"favorite_count": 7467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚂이달의 탐탐탐 Season 2 Episode 4 (LOONA THE TAM Season 2 Episode 4)\n⠀\n블랙 드레스로 이달의 회담을 빛낸 #이달의소녀 와 \n소녀들이 눈물을 흘린 이유를 지금 바로 확인하세요💧\n⠀\n▶ https://t.co/Sr7l2smP2e\n⠀\n#이달의탐탐탐 #LOONA #LOONATHETAM #TravelAndMore https://t.co/GjcQmC2FRx"
+	},
+	{
+		"created_at": "Wed Jul 01 03:25:21 +0000 2020",
+		"id": 1278161407385763800,
+		"id_str": "1278167782027386881",
+		"full_text": "🗓 [달력을 넘겨주세요] 청하와 함께하는 7월\n\n▶ https://t.co/YhAd8NnIwX\n✌🏻 https://t.co/N7g8qL1T8W\n\n#청하 #CHUNGHA\n#2020_시즌그리팅\n#2020년 #7월 😎 https://t.co/xfTRty44rF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "2020_시즌그리팅",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "2020년",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "7월",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YhAd8NnIwX",
+					"expanded_url": "https://bit.ly/2NL62Up",
+					"display_url": "bit.ly/2NL62Up",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/N7g8qL1T8W",
+					"expanded_url": "https://bit.ly/3ePazRB",
+					"display_url": "bit.ly/3ePazRB",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278058887044726800,
+					"id_str": "1278058887044726784",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278058887044726784/pu/img/1fujDGwNEX3CNueo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278058887044726784/pu/img/1fujDGwNEX3CNueo.jpg",
+					"url": "https://t.co/xfTRty44rF",
+					"display_url": "pic.twitter.com/xfTRty44rF",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278161407385763840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278058887044726800,
+					"id_str": "1278058887044726784",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278058887044726784/pu/img/1fujDGwNEX3CNueo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278058887044726784/pu/img/1fujDGwNEX3CNueo.jpg",
+					"url": "https://t.co/xfTRty44rF",
+					"display_url": "pic.twitter.com/xfTRty44rF",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278161407385763840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25759,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278058887044726784/pu/vid/1280x720/vqmin7G2Y_kFEaAr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278058887044726784/pu/vid/640x360/OomZUwmEOgZRye30.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1278058887044726784/pu/pl/Op2pLBo_vII3kb6f.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278058887044726784/pu/vid/480x270/AyqP5jiqMjukKtyi.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275649,
+			"friends_count": 0,
+			"listed_count": 1657,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 429,
+		"favorite_count": 1943,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗓 [달력을 넘겨주세요] 청하와 함께하는 7월\n\n▶ https://t.co/YhAd8NnIwX\n✌🏻 https://t.co/N7g8qL1T8W\n\n#청하 #CHUNGHA\n#2020_시즌그리팅\n#2020년 #7월 😎 https://t.co/xfTRty44rF"
+	},
+	{
 		"created_at": "Wed Jul 01 03:01:07 +0000 2020",
 		"id": 1278161684956414000,
 		"id_str": "1278161684956413952",
