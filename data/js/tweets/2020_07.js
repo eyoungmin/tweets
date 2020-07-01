@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 01 13:25:27 +0000 2020",
+		"id": 1278316209771954200,
+		"id_str": "1278318804217585664",
+		"full_text": "[#최리 / #Choerry] 오빛!! 레드&amp;화이트 최리입니돵!💜 달로그를 열심히 준비하고 있으니깐요! 많이 기대해 주시구용 사랑해요 오빛~😘\n\n#이달의소녀 #LOONA https://t.co/qeZcCLrta5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278316202767511600,
+					"id_str": "1278316202767511553",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb190EiVcAE1Yw0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb190EiVcAE1Yw0.jpg",
+					"url": "https://t.co/qeZcCLrta5",
+					"display_url": "pic.twitter.com/qeZcCLrta5",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1278316209771954177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278316202767511600,
+					"id_str": "1278316202767511553",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb190EiVcAE1Yw0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb190EiVcAE1Yw0.jpg",
+					"url": "https://t.co/qeZcCLrta5",
+					"display_url": "pic.twitter.com/qeZcCLrta5",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1278316209771954177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278316202763227100,
+					"id_str": "1278316202763227136",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb190EhUEAAIVP6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb190EhUEAAIVP6.jpg",
+					"url": "https://t.co/qeZcCLrta5",
+					"display_url": "pic.twitter.com/qeZcCLrta5",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1278316209771954177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493675,
+			"friends_count": 0,
+			"listed_count": 5056,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6300,
+		"favorite_count": 14990,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최리 / #Choerry] 오빛!! 레드&amp;화이트 최리입니돵!💜 달로그를 열심히 준비하고 있으니깐요! 많이 기대해 주시구용 사랑해요 오빛~😘\n\n#이달의소녀 #LOONA https://t.co/qeZcCLrta5"
+	},
+	{
+		"created_at": "Wed Jul 01 13:25:18 +0000 2020",
+		"id": 1278312620043329500,
+		"id_str": "1278318766032588800",
+		"full_text": "#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #RedVelvet_IRENE_SEULGI_Monster #레드벨벳_아이린_슬기_Monster #IRENE #아이린 #Little_IRENE_Monster #SEULGI #슬기 #Little_SEULGI_Monster #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI_Monster",
+					"indices": [
+						37,
+						68
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기_Monster",
+					"indices": [
+						69,
+						89
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "Little_IRENE_Monster",
+					"indices": [
+						102,
+						123
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "Little_SEULGI_Monster",
+					"indices": [
+						136,
+						158
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278312403189395500,
+		"in_reply_to_status_id_str": "1278312403189395457",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2771511,
+			"friends_count": 2,
+			"listed_count": 5950,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1787,
+		"favorite_count": 4004,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #RedVelvet_IRENE_SEULGI_Monster #레드벨벳_아이린_슬기_Monster #IRENE #아이린 #Little_IRENE_Monster #SEULGI #슬기 #Little_SEULGI_Monster #Monster"
+	},
+	{
 		"created_at": "Wed Jul 01 11:58:50 +0000 2020",
 		"id": 1278297005970747400,
 		"id_str": "1278297005970747392",
