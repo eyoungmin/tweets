@@ -1,6 +1,924 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 09:45:37 +0000 2020",
+		"id": 1278616021859881000,
+		"id_str": "1278625867288231941",
+		"full_text": "오직 #히든트랙2 에서만 볼 수 있는 무대 ♥\n이대로 끝내기는 너~무 아쉬워서 골든트랙만 모아봤어! #같이_들을래? \n▶ PLAY START : https://t.co/aPXOjy7Hmi           \n#iKON #이달의소녀 #에이스 #KARD #ASTRO #APRIL #투모로우바이투게더 #슈퍼주니어KRY #MONSTAX https://t.co/3DjNfGZEIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "히든트랙2",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "같이_들을래",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "iKON",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "에이스",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "APRIL",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "투모로우바이투게더",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "슈퍼주니어KRY",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "MONSTAX",
+					"indices": [
+						175,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aPXOjy7Hmi",
+					"expanded_url": "https://youtu.be/aXrE67pb2jo",
+					"display_url": "youtu.be/aXrE67pb2jo",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278616011118276600,
+					"id_str": "1278616011118276608",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb6OfNrU8AAAkRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb6OfNrU8AAAkRe.jpg",
+					"url": "https://t.co/3DjNfGZEIN",
+					"display_url": "pic.twitter.com/3DjNfGZEIN",
+					"expanded_url": "https://twitter.com/HiddenTrack8/status/1278616021859880960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278616011118276600,
+					"id_str": "1278616011118276608",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb6OfNrU8AAAkRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb6OfNrU8AAAkRe.jpg",
+					"url": "https://t.co/3DjNfGZEIN",
+					"display_url": "pic.twitter.com/3DjNfGZEIN",
+					"expanded_url": "https://twitter.com/HiddenTrack8/status/1278616021859880960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1169838951663669200,
+			"id_str": "1169838951663669249",
+			"name": "히든트랙2(Hidden Track2)",
+			"screen_name": "HiddenTrack8",
+			"location": "",
+			"description": "팬심 저격 뮤직 라이브 토크쇼",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3417,
+			"friends_count": 20,
+			"listed_count": 19,
+			"created_at": "Fri Sep 06 05:05:24 +0000 2019",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240129659158880260/lGhTUsWP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169838951663669249/1584509892",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오직 #히든트랙2 에서만 볼 수 있는 무대 ♥\n이대로 끝내기는 너~무 아쉬워서 골든트랙만 모아봤어! #같이_들을래? \n▶ PLAY START : https://t.co/aPXOjy7Hmi           \n#iKON #이달의소녀 #에이스 #KARD #ASTRO #APRIL #투모로우바이투게더 #슈퍼주니어KRY #MONSTAX https://t.co/3DjNfGZEIN"
+	},
+	{
+		"created_at": "Thu Jul 02 09:25:28 +0000 2020",
+		"id": 1278614913196322800,
+		"id_str": "1278620797201010688",
+		"full_text": "자우림 여름 미니앨범 [HOLA!] \nPreview Video\n\n&lt;track list&gt;\n1. HOLA!\n2. 모닝 왈츠\n3. 우리들의 실패 https://t.co/ZyhLCcDSfV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278614859387555800,
+					"id_str": "1278614859387555840",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278614859387555840/pu/img/ugUl7ihi4vWBTB7J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278614859387555840/pu/img/ugUl7ihi4vWBTB7J.jpg",
+					"url": "https://t.co/ZyhLCcDSfV",
+					"display_url": "pic.twitter.com/ZyhLCcDSfV",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1278614913196322821/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278614859387555800,
+					"id_str": "1278614859387555840",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278614859387555840/pu/img/ugUl7ihi4vWBTB7J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278614859387555840/pu/img/ugUl7ihi4vWBTB7J.jpg",
+					"url": "https://t.co/ZyhLCcDSfV",
+					"display_url": "pic.twitter.com/ZyhLCcDSfV",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1278614913196322821/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60075,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278614859387555840/pu/vid/640x360/guioBlmmoWLRBd1V.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1278614859387555840/pu/pl/mH7seKEh4A4Tt_Z8.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278614859387555840/pu/vid/480x270/3Iz_oCfK1mUOLUaZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278614859387555840/pu/vid/1280x720/ntgvREysFREwmwn0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1923,
+			"friends_count": 5,
+			"listed_count": 10,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 여름 미니앨범 [HOLA!] \nPreview Video\n\n&lt;track list&gt;\n1. HOLA!\n2. 모닝 왈츠\n3. 우리들의 실패 https://t.co/ZyhLCcDSfV"
+	},
+	{
+		"created_at": "Thu Jul 02 09:25:21 +0000 2020",
+		"id": 1278614662125248500,
+		"id_str": "1278620767366905856",
+		"full_text": "그림자 인터뷰 | 슬기와 슬기를 인터뷰 했다 (SEULGI &amp; SEULGI were Interviewed)\n\n👉https://t.co/sR8VBMC3bf\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sR8VBMC3bf",
+					"expanded_url": "https://youtu.be/bt7ryoMx3-Q",
+					"display_url": "youtu.be/bt7ryoMx3-Q",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2779610,
+			"friends_count": 2,
+			"listed_count": 5975,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5401,
+		"favorite_count": 10883,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그림자 인터뷰 | 슬기와 슬기를 인터뷰 했다 (SEULGI &amp; SEULGI were Interviewed)\n\n👉https://t.co/sR8VBMC3bf\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster"
+	},
+	{
+		"created_at": "Thu Jul 02 09:25:14 +0000 2020",
+		"id": 1278614529681719300,
+		"id_str": "1278620737360846849",
+		"full_text": "BLACKPINK's #HowYouLikeThat items are here 🖤💕\nUpload your look on social media to win an item &amp; a signed CD!\n\n MORE INFO\n▶️https://t.co/47uTjGZg5R\n\n#BLACKPINK #블랙핑크 #JENNIE #JISOO #LISA #ROSÉ #ZEPETO #YG https://t.co/qQNZxt8p3o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						196,
+						203
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						204,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/47uTjGZg5R",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/1167414736973282",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278604066570948600,
+					"id_str": "1278604066570948609",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb6Dn8xU0AEXgRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb6Dn8xU0AEXgRV.jpg",
+					"url": "https://t.co/qQNZxt8p3o",
+					"display_url": "pic.twitter.com/qQNZxt8p3o",
+					"expanded_url": "https://twitter.com/ygent_official/status/1278614529681719298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278604066570948600,
+					"id_str": "1278604066570948609",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb6Dn8xU0AEXgRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb6Dn8xU0AEXgRV.jpg",
+					"url": "https://t.co/qQNZxt8p3o",
+					"display_url": "pic.twitter.com/qQNZxt8p3o",
+					"expanded_url": "https://twitter.com/ygent_official/status/1278614529681719298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278604091267018800,
+					"id_str": "1278604091267018753",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb6DpYxU8AEOqOz.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eb6DpYxU8AEOqOz.png",
+					"url": "https://t.co/qQNZxt8p3o",
+					"display_url": "pic.twitter.com/qQNZxt8p3o",
+					"expanded_url": "https://twitter.com/ygent_official/status/1278614529681719298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6272183,
+			"friends_count": 38,
+			"listed_count": 6417,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6226,
+		"favorite_count": 24019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK's #HowYouLikeThat items are here 🖤💕\nUpload your look on social media to win an item &amp; a signed CD!\n\n MORE INFO\n▶️https://t.co/47uTjGZg5R\n\n#BLACKPINK #블랙핑크 #JENNIE #JISOO #LISA #ROSÉ #ZEPETO #YG https://t.co/qQNZxt8p3o"
+	},
+	{
 		"created_at": "Thu Jul 02 08:25:42 +0000 2020",
 		"id": 1278171261823185000,
 		"id_str": "1278605758171500544",
