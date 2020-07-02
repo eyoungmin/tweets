@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 03:25:37 +0000 2020",
+		"id": 1278528054604660700,
+		"id_str": "1278530239157735424",
+		"full_text": "🗞 청하, 'PLAY' MV 티저 공개..정열의 섬머퀸 '청량+고혹+섹시'(공식) (출처 : enews24 | 네이버 TV연예)\n\n🔎 https://t.co/l3zYTp6yWI\n\n#청하 #CHUNGHA\n#PLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l3zYTp6yWI",
+					"expanded_url": "http://naver.me/FdFKHWpd",
+					"display_url": "naver.me/FdFKHWpd",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276560,
+			"friends_count": 0,
+			"listed_count": 1678,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 940,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗞 청하, 'PLAY' MV 티저 공개..정열의 섬머퀸 '청량+고혹+섹시'(공식) (출처 : enews24 | 네이버 TV연예)\n\n🔎 https://t.co/l3zYTp6yWI\n\n#청하 #CHUNGHA\n#PLAY"
+	},
+	{
+		"created_at": "Thu Jul 02 03:25:29 +0000 2020",
+		"id": 1278523861999300600,
+		"id_str": "1278530204890288128",
+		"full_text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nMusic Video Teaser Still Cut 1\n2020. 07. 06. 6PM (KST)\n\n▶️ https://t.co/XZdXmPI7ZW\n✌🏻 https://t.co/8731rJGuej\n\n#청하 #CHUNGHA\n#PLAY https://t.co/B57xgIlMER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZdXmPI7ZW",
+					"expanded_url": "https://bit.ly/2AkJxTp",
+					"display_url": "bit.ly/2AkJxTp",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/8731rJGuej",
+					"expanded_url": "https://bit.ly/3ihOptB",
+					"display_url": "bit.ly/3ihOptB",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278523850217582600,
+					"id_str": "1278523850217582592",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb46qvkVcAA4PPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb46qvkVcAA4PPY.jpg",
+					"url": "https://t.co/B57xgIlMER",
+					"display_url": "pic.twitter.com/B57xgIlMER",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278523861999300608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278523850217582600,
+					"id_str": "1278523850217582592",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb46qvkVcAA4PPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb46qvkVcAA4PPY.jpg",
+					"url": "https://t.co/B57xgIlMER",
+					"display_url": "pic.twitter.com/B57xgIlMER",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278523861999300608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278523850418909200,
+					"id_str": "1278523850418909191",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb46qwUVcAcNOZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb46qwUVcAcNOZQ.jpg",
+					"url": "https://t.co/B57xgIlMER",
+					"display_url": "pic.twitter.com/B57xgIlMER",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278523861999300608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278523850699927600,
+					"id_str": "1278523850699927553",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb46qxXVcAEV9tP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb46qxXVcAEV9tP.jpg",
+					"url": "https://t.co/B57xgIlMER",
+					"display_url": "pic.twitter.com/B57xgIlMER",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278523861999300608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1278523847466078200,
+		"in_reply_to_status_id_str": "1278523847466078208",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276560,
+			"friends_count": 0,
+			"listed_count": 1678,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1412,
+		"favorite_count": 3219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nMusic Video Teaser Still Cut 1\n2020. 07. 06. 6PM (KST)\n\n▶️ https://t.co/XZdXmPI7ZW\n✌🏻 https://t.co/8731rJGuej\n\n#청하 #CHUNGHA\n#PLAY https://t.co/B57xgIlMER"
+	},
+	{
+		"created_at": "Thu Jul 02 03:25:20 +0000 2020",
+		"id": 1278523847466078200,
+		"id_str": "1278530166730436614",
+		"full_text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nMusic Video Teaser Still Cut 1\n2020. 07. 06. 6PM (KST)\n\n▶️ https://t.co/XZdXmPI7ZW\n✌🏻 https://t.co/8731rJGuej\n\n#청하 #CHUNGHA\n#PLAY https://t.co/Heqgophksn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZdXmPI7ZW",
+					"expanded_url": "https://bit.ly/2AkJxTp",
+					"display_url": "bit.ly/2AkJxTp",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/8731rJGuej",
+					"expanded_url": "https://bit.ly/3ihOptB",
+					"display_url": "bit.ly/3ihOptB",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278523836451836000,
+					"id_str": "1278523836451835904",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb46p8SU0AADVKc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb46p8SU0AADVKc.jpg",
+					"url": "https://t.co/Heqgophksn",
+					"display_url": "pic.twitter.com/Heqgophksn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278523847466078208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278523836451836000,
+					"id_str": "1278523836451835904",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb46p8SU0AADVKc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb46p8SU0AADVKc.jpg",
+					"url": "https://t.co/Heqgophksn",
+					"display_url": "pic.twitter.com/Heqgophksn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278523847466078208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278523836455981000,
+					"id_str": "1278523836455981056",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb46p8TUEAAA-bv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb46p8TUEAAA-bv.jpg",
+					"url": "https://t.co/Heqgophksn",
+					"display_url": "pic.twitter.com/Heqgophksn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278523847466078208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276560,
+			"friends_count": 0,
+			"listed_count": 1678,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1815,
+		"favorite_count": 5300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nMusic Video Teaser Still Cut 1\n2020. 07. 06. 6PM (KST)\n\n▶️ https://t.co/XZdXmPI7ZW\n✌🏻 https://t.co/8731rJGuej\n\n#청하 #CHUNGHA\n#PLAY https://t.co/Heqgophksn"
+	},
+	{
 		"created_at": "Thu Jul 02 03:00:29 +0000 2020",
 		"id": 1278523915514634200,
 		"id_str": "1278523915514634240",
