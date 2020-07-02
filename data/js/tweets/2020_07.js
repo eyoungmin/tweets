@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 08:25:42 +0000 2020",
+		"id": 1278171261823185000,
+		"id_str": "1278605758171500544",
+		"full_text": "젠더리스 항공기 승무원 유니폼을 디자인한 사람입니다. @postdecember 제 사촌입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "postdecember",
+					"name": "레소파드",
+					"id": 112685491,
+					"id_str": "112685491",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124970641,
+			"id_str": "124970641",
+			"name": "박대기",
+			"screen_name": "waitingpark",
+			"location": "서울",
+			"description": "기자. 뉴스팡인. 제보는 waiting@kbs.co.kr",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70344,
+			"friends_count": 453,
+			"listed_count": 851,
+			"created_at": "Sun Mar 21 06:31:44 +0000 2010",
+			"favourites_count": 4450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915626506/d0012468_4b44374b464a2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915626506/d0012468_4b44374b464a2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124970641/1417597983",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2655,
+		"favorite_count": 1582,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "젠더리스 항공기 승무원 유니폼을 디자인한 사람입니다. @postdecember 제 사촌입니다."
+	},
+	{
 		"created_at": "Thu Jul 02 07:38:13 +0000 2020",
 		"id": 1278593807760720000,
 		"id_str": "1278593807760719874",
