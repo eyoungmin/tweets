@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 19:27:57 +0000 2020",
+		"id": 1278761719586631700,
+		"id_str": "1278772416395841537",
+		"full_text": "All time favorite Red Velvet Final Logo Embroidery and Long Lace Strap Hat! ✨✨ https://t.co/gpaaNmIpN1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278761711139344400,
+					"id_str": "1278761711139344384",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb8TAEjU0AAh1WI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb8TAEjU0AAh1WI.jpg",
+					"url": "https://t.co/gpaaNmIpN1",
+					"display_url": "pic.twitter.com/gpaaNmIpN1",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1278761719586631680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278761711139344400,
+					"id_str": "1278761711139344384",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb8TAEjU0AAh1WI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb8TAEjU0AAh1WI.jpg",
+					"url": "https://t.co/gpaaNmIpN1",
+					"display_url": "pic.twitter.com/gpaaNmIpN1",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1278761719586631680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994706386696073200,
+			"id_str": "994706386696073221",
+			"name": "SMGlobalShop",
+			"screen_name": "SMGlobalShop",
+			"location": "Los Angeles, CA",
+			"description": "Official SM Entertainment Merchandise Shop ft. #SuperM #SHINee #RedVelvet #NCT #EXO #SuperJunior #TVXQ #GirlsGeneration #fx",
+			"url": "https://t.co/Rwg3fKZNIy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rwg3fKZNIy",
+							"expanded_url": "https://smglobalshop.com",
+							"display_url": "smglobalshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22710,
+			"friends_count": 21,
+			"listed_count": 31,
+			"created_at": "Thu May 10 22:30:58 +0000 2018",
+			"favourites_count": 446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994706386696073221/1567020643",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All time favorite Red Velvet Final Logo Embroidery and Long Lace Strap Hat! ✨✨ https://t.co/gpaaNmIpN1"
+	},
+	{
 		"created_at": "Thu Jul 02 15:25:41 +0000 2020",
 		"id": 1278705296525848600,
 		"id_str": "1278711451184762887",
