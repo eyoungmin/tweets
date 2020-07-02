@@ -1,6 +1,1223 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 01:35:15 +0000 2020",
+		"id": 1278278466748719000,
+		"id_str": "1278502464476463104",
+		"full_text": "[EN] 유리하고 예리한 만남은 운명?! 댕댕미로 뭉친 SM 패밀리💜 [EP.4-2]\n\n👉https://t.co/f95wSaLwyU\n\n#유리 #YURI #소녀시대 #GirlsGeneration #예리 #YERI #레드벨벳 #RedVelvet #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f95wSaLwyU",
+					"expanded_url": "https://youtu.be/9cZNRgQJ9tY",
+					"display_url": "youtu.be/9cZNRgQJ9tY",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542858,
+			"friends_count": 4,
+			"listed_count": 5013,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1197,
+		"favorite_count": 3055,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[EN] 유리하고 예리한 만남은 운명?! 댕댕미로 뭉친 SM 패밀리💜 [EP.4-2]\n\n👉https://t.co/f95wSaLwyU\n\n#유리 #YURI #소녀시대 #GirlsGeneration #예리 #YERI #레드벨벳 #RedVelvet #예리한방"
+	},
+	{
+		"created_at": "Thu Jul 02 01:35:12 +0000 2020",
+		"id": 1278278167271100400,
+		"id_str": "1278502451830640640",
+		"full_text": "[EN] 유리하고 예리한 만남은 운명?! 댕댕미로 뭉친 SM 패밀리💜 [EP.4-2]\n\n👉https://t.co/mk7xGTTYlB\n\n#예리 #YERI #레드벨벳 #RedVelvet #유리 #YURI #소녀시대 #GirlsGeneration #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mk7xGTTYlB",
+					"expanded_url": "https://youtu.be/9cZNRgQJ9tY",
+					"display_url": "youtu.be/9cZNRgQJ9tY",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8109956,
+			"friends_count": 49,
+			"listed_count": 7973,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 834,
+		"favorite_count": 4314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[EN] 유리하고 예리한 만남은 운명?! 댕댕미로 뭉친 SM 패밀리💜 [EP.4-2]\n\n👉https://t.co/mk7xGTTYlB\n\n#예리 #YERI #레드벨벳 #RedVelvet #유리 #YURI #소녀시대 #GirlsGeneration #예리한방"
+	},
+	{
+		"created_at": "Thu Jul 02 01:35:02 +0000 2020",
+		"id": 1278272926949576700,
+		"id_str": "1278502409698861056",
+		"full_text": "[ENG] [유리한 식탁] EP2-2. 슈퍼Model 소라 언니의 레시피는 맛과 건강을 모두 잡았을까? \n\n👉🏻https://t.co/e1T0Jb0wEm \n\n[ENG] [유리한 식탁] EP3-1. 콘서트 하다가 토한 사연? \n\n👉🏻https://t.co/vmKZmuDTJL \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						185,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e1T0Jb0wEm",
+					"expanded_url": "https://youtu.be/ZFIi8o5D5yQ",
+					"display_url": "youtu.be/ZFIi8o5D5yQ",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/vmKZmuDTJL",
+					"expanded_url": "https://youtu.be/QXtQ7uqKC8w",
+					"display_url": "youtu.be/QXtQ7uqKC8w",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542858,
+			"friends_count": 4,
+			"listed_count": 5013,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1205,
+		"favorite_count": 2875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[ENG] [유리한 식탁] EP2-2. 슈퍼Model 소라 언니의 레시피는 맛과 건강을 모두 잡았을까? \n\n👉🏻https://t.co/e1T0Jb0wEm \n\n[ENG] [유리한 식탁] EP3-1. 콘서트 하다가 토한 사연? \n\n👉🏻https://t.co/vmKZmuDTJL \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Thu Jul 02 01:33:52 +0000 2020",
+		"id": 1278342598948724700,
+		"id_str": "1278502117561384960",
+		"full_text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nMusic Video Teaser 1\n2020. 07. 06. 6PM (KST)\n\n▶ https://t.co/XZdXmPZJow\n✌🏻 https://t.co/8731rJY5CT\n\n#청하 #CHUNGHA\n#PLAY https://t.co/0yFTZYZCj2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZdXmPZJow",
+					"expanded_url": "https://bit.ly/2AkJxTp",
+					"display_url": "bit.ly/2AkJxTp",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/8731rJY5CT",
+					"expanded_url": "https://bit.ly/3ihOptB",
+					"display_url": "bit.ly/3ihOptB",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278274513881325600,
+					"id_str": "1278274513881325568",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278274513881325568/pu/img/HNfSNd-VTOKRRPWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278274513881325568/pu/img/HNfSNd-VTOKRRPWe.jpg",
+					"url": "https://t.co/0yFTZYZCj2",
+					"display_url": "pic.twitter.com/0yFTZYZCj2",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278342598948724737/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278274513881325600,
+					"id_str": "1278274513881325568",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278274513881325568/pu/img/HNfSNd-VTOKRRPWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278274513881325568/pu/img/HNfSNd-VTOKRRPWe.jpg",
+					"url": "https://t.co/0yFTZYZCj2",
+					"display_url": "pic.twitter.com/0yFTZYZCj2",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278342598948724737/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21188,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1278274513881325568/pu/pl/6Pxrl4meXl3qhkgG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278274513881325568/pu/vid/640x360/kiJ3li7T2gI4kG_x.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278274513881325568/pu/vid/480x270/mo_VlXkoBnZaAE3r.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278274513881325568/pu/vid/1280x720/EvOSlhOaca6GiXhn.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276438,
+			"friends_count": 0,
+			"listed_count": 1674,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10056,
+		"favorite_count": 23167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nMusic Video Teaser 1\n2020. 07. 06. 6PM (KST)\n\n▶ https://t.co/XZdXmPZJow\n✌🏻 https://t.co/8731rJY5CT\n\n#청하 #CHUNGHA\n#PLAY https://t.co/0yFTZYZCj2"
+	},
+	{
+		"created_at": "Thu Jul 02 01:33:46 +0000 2020",
+		"id": 1278342599456112600,
+		"id_str": "1278502088654249989",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI | Mood Sampler #2 Midnight Reflections(EDP)\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/fW0PZ0zuEa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						206,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GWofO6VkbP",
+					"expanded_url": "http://redvelvet-ireneseulgi.smtown.com",
+					"display_url": "redvelvet-ireneseulgi.smtown.com",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278312361791590400,
+					"id_str": "1278312361791590401",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb18K40U4AQ4Zqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb18K40U4AQ4Zqj.jpg",
+					"url": "https://t.co/fW0PZ0zuEa",
+					"display_url": "pic.twitter.com/fW0PZ0zuEa",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342599456112643/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278312361791590400,
+					"id_str": "1278312361791590401",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb18K40U4AQ4Zqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb18K40U4AQ4Zqj.jpg",
+					"url": "https://t.co/fW0PZ0zuEa",
+					"display_url": "pic.twitter.com/fW0PZ0zuEa",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1278342599456112643/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25734,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1278312361791590401/vid/640x360/O-dNZ_B8eUZBoOZi.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1278312361791590401/pl/2w3vAnhJhRr6OpTa.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1278312361791590401/vid/480x270/6s4Q-8oXFwutCuXQ.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1278312361791590401/vid/1280x720/EWdXTEZPEIr2DW_9.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2775945,
+			"friends_count": 2,
+			"listed_count": 5964,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35076,
+		"favorite_count": 56230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Red Velvet - IRENE &amp; SEULGI | Mood Sampler #2 Midnight Reflections(EDP)\n\n🎧 2020.07.06. 6PM (KST)\n👉 https://t.co/GWofO6VkbP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/fW0PZ0zuEa"
+	},
+	{
+		"created_at": "Thu Jul 02 01:32:49 +0000 2020",
+		"id": 1278500645478301700,
+		"id_str": "1278501850522648581",
+		"full_text": "[INSTAGRAM] yoona__lim:  https://t.co/itCFEszpz5 #yoongstagram https://t.co/gH8AfKk4IH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yoongstagram",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/itCFEszpz5",
+					"expanded_url": "https://www.instagram.com/p/CCHwoUwnXy7/",
+					"display_url": "instagram.com/p/CCHwoUwnXy7/",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278500643884478500,
+					"id_str": "1278500643884478464",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb4lj9PXsAAQHcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb4lj9PXsAAQHcD.jpg",
+					"url": "https://t.co/gH8AfKk4IH",
+					"display_url": "pic.twitter.com/gH8AfKk4IH",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1278500645478301696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1052,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278500643884478500,
+					"id_str": "1278500643884478464",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb4lj9PXsAAQHcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb4lj9PXsAAQHcD.jpg",
+					"url": "https://t.co/gH8AfKk4IH",
+					"display_url": "pic.twitter.com/gH8AfKk4IH",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1278500645478301696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1052,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://yoona.soshistagram.com\" rel=\"nofollow\">Yoongstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2446652564,
+			"id_str": "2446652564",
+			"name": "Yoongstagram",
+			"screen_name": "yoongstagrm",
+			"location": "",
+			"description": "Bot tweeting Yoona's updates and comments on Instagram. Built by @thegoguma. Also @yulstagrm @seostagrm @miyoungstagram @syoungstagram @sicafeed",
+			"url": "https://t.co/4tDvSU72JC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4tDvSU72JC",
+							"expanded_url": "https://yoongstagrm.tumblr.com/",
+							"display_url": "yoongstagrm.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39727,
+			"friends_count": 0,
+			"listed_count": 494,
+			"created_at": "Wed Apr 16 06:13:24 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 885,
+		"favorite_count": 539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[INSTAGRAM] yoona__lim:  https://t.co/itCFEszpz5 #yoongstagram https://t.co/gH8AfKk4IH"
+	},
+	{
 		"created_at": "Wed Jul 01 15:25:35 +0000 2020",
 		"id": 1278343236327637000,
 		"id_str": "1278349037985583105",
