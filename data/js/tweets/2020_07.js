@@ -1,6 +1,1169 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 10:59:56 +0000 2020",
+		"id": 1279006242556412000,
+		"id_str": "1279006960835104768",
+		"full_text": "모두 #HOLA! 하고 있나요? 😄💜💜💜 https://t.co/3wbQF7m4ke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HOLA",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3wbQF7m4ke",
+					"expanded_url": "https://youtu.be/cSXIAxlqCS8",
+					"display_url": "youtu.be/cSXIAxlqCS8",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273133,
+			"friends_count": 518,
+			"listed_count": 2905,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278264030881185793/Jnd0BwOv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278264030881185793/Jnd0BwOv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1593596825",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모두 #HOLA! 하고 있나요? 😄💜💜💜 https://t.co/3wbQF7m4ke"
+	},
+	{
+		"created_at": "Fri Jul 03 10:55:11 +0000 2020",
+		"id": 1278998519496360000,
+		"id_str": "1279005761801039872",
+		"full_text": "[예.비.용 #4] 옒💜율 뜻밖의 커플템\n👉https://t.co/cBtqTvrk9u\n\n#예리 #yeri #유리 #레드벨벳 #소녀시대 #RedVelvet #Yuri #SNSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "Yuri",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cBtqTvrk9u",
+					"expanded_url": "https://youtu.be/PpgyvYl3sIQ",
+					"display_url": "youtu.be/PpgyvYl3sIQ",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeri's Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23255,
+			"friends_count": 0,
+			"listed_count": 78,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1591762226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 796,
+		"favorite_count": 1069,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예.비.용 #4] 옒💜율 뜻밖의 커플템\n👉https://t.co/cBtqTvrk9u\n\n#예리 #yeri #유리 #레드벨벳 #소녀시대 #RedVelvet #Yuri #SNSD"
+	},
+	{
+		"created_at": "Fri Jul 03 10:54:55 +0000 2020",
+		"id": 1279002810928042000,
+		"id_str": "1279005697108135941",
+		"full_text": "#genie #지니 #지니매거진\n독보적인 밴드 '자우림'의 여름 미니앨범 [HOLA!] 자켓 &amp; 프로필 비하인드!\nhttps://t.co/Uk0V2V07y6 https://t.co/9bzYOMPUdO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uk0V2V07y6",
+					"expanded_url": "https://bit.ly/3ip049X",
+					"display_url": "bit.ly/3ip049X",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279002809556402200,
+					"id_str": "1279002809556402176",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_uR2JWAAA9GZS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_uR2JWAAA9GZS.jpg",
+					"url": "https://t.co/9bzYOMPUdO",
+					"display_url": "pic.twitter.com/9bzYOMPUdO",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1279002810928041984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279002809556402200,
+					"id_str": "1279002809556402176",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_uR2JWAAA9GZS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_uR2JWAAA9GZS.jpg",
+					"url": "https://t.co/9bzYOMPUdO",
+					"display_url": "pic.twitter.com/9bzYOMPUdO",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1279002810928041984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n독보적인 밴드 '자우림'의 여름 미니앨범 [HOLA!] 자켓 &amp; 프로필 비하인드!\nhttps://t.co/Uk0V2V07y6 https://t.co/9bzYOMPUdO"
+	},
+	{
+		"created_at": "Fri Jul 03 10:25:27 +0000 2020",
+		"id": 1278976819597721600,
+		"id_str": "1278998282165825537",
+		"full_text": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I'\n\nSET LIST SPOILER 🚩\n\n#여자아이들 #GIDLE\n#ILAND #2020_GIDLE_ILAND https://t.co/iRTeWKrWXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "ILAND",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "2020_GIDLE_ILAND",
+					"indices": [
+						91,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278976808801538000,
+					"id_str": "1278976808801538050",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_WoZyUEAIma3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_WoZyUEAIma3W.jpg",
+					"url": "https://t.co/iRTeWKrWXl",
+					"display_url": "pic.twitter.com/iRTeWKrWXl",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1278976819597721603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278976808801538000,
+					"id_str": "1278976808801538050",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_WoZyUEAIma3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_WoZyUEAIma3W.jpg",
+					"url": "https://t.co/iRTeWKrWXl",
+					"display_url": "pic.twitter.com/iRTeWKrWXl",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1278976819597721603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 794449,
+			"friends_count": 36,
+			"listed_count": 2604,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1593512317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2712,
+		"favorite_count": 8257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I'\n\nSET LIST SPOILER 🚩\n\n#여자아이들 #GIDLE\n#ILAND #2020_GIDLE_ILAND https://t.co/iRTeWKrWXl"
+	},
+	{
+		"created_at": "Fri Jul 03 10:25:11 +0000 2020",
+		"id": 1278988691751362600,
+		"id_str": "1278998212989329408",
+		"full_text": "#BLACKPINK 'How You Like That' M/V HITS 200 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'How You Like That' M/V\n🎥https://t.co/lShbHauSu0\n\n#블랙핑크 #JENNIE #JISOO #LISA #ROSÉ #HowYouLikeThat #MV #200MILLION #YOUTUBE #YG https://t.co/J2e7Y2zceO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						188,
+						203
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "200MILLION",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						220,
+						228
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						229,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lShbHauSu0",
+					"expanded_url": "https://youtu.be/ioNng23DkIM",
+					"display_url": "youtu.be/ioNng23DkIM",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278988119547637800,
+					"id_str": "1278988119547637761",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_g6xmU8AE8vfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_g6xmU8AE8vfG.jpg",
+					"url": "https://t.co/J2e7Y2zceO",
+					"display_url": "pic.twitter.com/J2e7Y2zceO",
+					"expanded_url": "https://twitter.com/ygent_official/status/1278988691751362561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278988119547637800,
+					"id_str": "1278988119547637761",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_g6xmU8AE8vfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_g6xmU8AE8vfG.jpg",
+					"url": "https://t.co/J2e7Y2zceO",
+					"display_url": "pic.twitter.com/J2e7Y2zceO",
+					"expanded_url": "https://twitter.com/ygent_official/status/1278988691751362561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6278504,
+			"friends_count": 38,
+			"listed_count": 6417,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30124,
+		"favorite_count": 63152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'How You Like That' M/V HITS 200 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'How You Like That' M/V\n🎥https://t.co/lShbHauSu0\n\n#블랙핑크 #JENNIE #JISOO #LISA #ROSÉ #HowYouLikeThat #MV #200MILLION #YOUTUBE #YG https://t.co/J2e7Y2zceO"
+	},
+	{
+		"created_at": "Fri Jul 03 10:25:08 +0000 2020",
+		"id": 1278977358146355200,
+		"id_str": "1278998203145191425",
+		"full_text": "NOW.의 새 쇼 호스트를 찾습니다🚨\n⠀\n제 2의 ‘도티’가 되고 싶은 꿈이 있다구요오오?! 네이버 NOW.와 정식 방송 계약까지 할 수 있는 아주 특별한 기회! 지금 상상하고 있는 모~든 것을 네이버 나우에서 만들어보세요. https://t.co/XX1fnRatdE https://t.co/JSsAZc5ebZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XX1fnRatdE",
+					"expanded_url": "https://now.naver.com/event/startnow?utm_source=twitter",
+					"display_url": "now.naver.com/event/startnow…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278977347408941000,
+					"id_str": "1278977347408941057",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_XHwQU0AEfxeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_XHwQU0AEfxeZ.jpg",
+					"url": "https://t.co/JSsAZc5ebZ",
+					"display_url": "pic.twitter.com/JSsAZc5ebZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1278977358146355203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278977347408941000,
+					"id_str": "1278977347408941057",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_XHwQU0AEfxeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_XHwQU0AEfxeZ.jpg",
+					"url": "https://t.co/JSsAZc5ebZ",
+					"display_url": "pic.twitter.com/JSsAZc5ebZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1278977358146355203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버 앱에서 온에어되는 24HRS LIVE SHOW",
+			"url": "https://t.co/Z1jZgnEJk6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z1jZgnEJk6",
+							"expanded_url": "http://now.naver.com/listen",
+							"display_url": "now.naver.com/listen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41504,
+			"friends_count": 1,
+			"listed_count": 64,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1589334764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NOW.의 새 쇼 호스트를 찾습니다🚨\n⠀\n제 2의 ‘도티’가 되고 싶은 꿈이 있다구요오오?! 네이버 NOW.와 정식 방송 계약까지 할 수 있는 아주 특별한 기회! 지금 상상하고 있는 모~든 것을 네이버 나우에서 만들어보세요. https://t.co/XX1fnRatdE https://t.co/JSsAZc5ebZ"
+	},
+	{
 		"created_at": "Fri Jul 03 09:48:23 +0000 2020",
 		"id": 1278980700851462100,
 		"id_str": "1278988951252942848",
