@@ -1,6 +1,1236 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 09:48:23 +0000 2020",
+		"id": 1278980700851462100,
+		"id_str": "1278988951252942848",
+		"full_text": "[#자우림] 여름 미니앨범[HOLA!] 발매❣️\n\n&lt;track list&gt;\n1. HOLA!\n2. 모닝 왈츠\n3. 우리들의 실패\n\n각종 음원사이트에서 들으실 수 있습니다.\n#JAURIM #HOLA! #모닝왈츠 #우리들의실패 https://t.co/oURtfD4uCg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "HOLA",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "모닝왈츠",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "우리들의실패",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278980691800121300,
+					"id_str": "1278980691800121345",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_aKbFUYAETyod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_aKbFUYAETyod.jpg",
+					"url": "https://t.co/oURtfD4uCg",
+					"display_url": "pic.twitter.com/oURtfD4uCg",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1278980700851462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278980691800121300,
+					"id_str": "1278980691800121345",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_aKbFUYAETyod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_aKbFUYAETyod.jpg",
+					"url": "https://t.co/oURtfD4uCg",
+					"display_url": "pic.twitter.com/oURtfD4uCg",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1278980700851462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1676,
+			"friends_count": 12,
+			"listed_count": 5,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#자우림] 여름 미니앨범[HOLA!] 발매❣️\n\n&lt;track list&gt;\n1. HOLA!\n2. 모닝 왈츠\n3. 우리들의 실패\n\n각종 음원사이트에서 들으실 수 있습니다.\n#JAURIM #HOLA! #모닝왈츠 #우리들의실패 https://t.co/oURtfD4uCg"
+	},
+	{
+		"created_at": "Fri Jul 03 09:41:18 +0000 2020",
+		"id": 1278987168921219000,
+		"id_str": "1278987168921219074",
+		"full_text": "이런 기사를 쓰는 사람을 보면 가족간의 연락은 얼마나 하나 체크해서 \"당신은 불효막심한 사람이네요 가족간에 불화가 가득하네요 연 끊으셨나봐요\" 해줘봐야.\nhttps://t.co/QpWj4sIhpt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QpWj4sIhpt",
+					"expanded_url": "https://news.chosun.com/site/data/html_dir/2020/07/03/2020070302650.html",
+					"display_url": "news.chosun.com/site/data/html…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 기사를 쓰는 사람을 보면 가족간의 연락은 얼마나 하나 체크해서 \"당신은 불효막심한 사람이네요 가족간에 불화가 가득하네요 연 끊으셨나봐요\" 해줘봐야.\nhttps://t.co/QpWj4sIhpt"
+	},
+	{
+		"created_at": "Fri Jul 03 09:33:00 +0000 2020",
+		"id": 1278985079633506300,
+		"id_str": "1278985079633506305",
+		"full_text": "연예뉴스 작성 시, 템플릿 만들어 놓고 프로그램에서 사진 한 장 넣고 쓰는 것 잘 알지만 이런 것은 기자라 쓰지 말고 작성자 ○○○으로 넣는 것이 맞다고 생각. 차라리 기자랑 이름 빼고 DB라고 넣는 곳이 그나마 1퍼센트는 낫다고 생각.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278984939724173300,
+		"in_reply_to_status_id_str": "1278984939724173312",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "연예뉴스 작성 시, 템플릿 만들어 놓고 프로그램에서 사진 한 장 넣고 쓰는 것 잘 알지만 이런 것은 기자라 쓰지 말고 작성자 ○○○으로 넣는 것이 맞다고 생각. 차라리 기자랑 이름 빼고 DB라고 넣는 곳이 그나마 1퍼센트는 낫다고 생각."
+	},
+	{
+		"created_at": "Fri Jul 03 09:32:26 +0000 2020",
+		"id": 1278984939724173300,
+		"id_str": "1278984939724173312",
+		"full_text": "결국 이렇게 글까지 올라온 것을 보면 인스타그램 이슈로 프로그램 돌려서 쓰던 손으로 쓰던 기사화 하는 같잖은 언론사(?)라는 것에 신물남. 이런 사람들은 뒤에다 기자라 붙이면 안 된다 생각함. 크롤링 하고 이슈 올려 수익 벌어먹는 사이트랑 다를 것이 뭔가. https://t.co/YiM0nKTfn1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278984932497318000,
+					"id_str": "1278984932497317888",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_eBQ6UYAApSeS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_eBQ6UYAApSeS.jpg",
+					"url": "https://t.co/YiM0nKTfn1",
+					"display_url": "pic.twitter.com/YiM0nKTfn1",
+					"expanded_url": "https://twitter.com/fromminn/status/1278984939724173312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278984932497318000,
+					"id_str": "1278984932497317888",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_eBQ6UYAApSeS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_eBQ6UYAApSeS.jpg",
+					"url": "https://t.co/YiM0nKTfn1",
+					"display_url": "pic.twitter.com/YiM0nKTfn1",
+					"expanded_url": "https://twitter.com/fromminn/status/1278984939724173312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "결국 이렇게 글까지 올라온 것을 보면 인스타그램 이슈로 프로그램 돌려서 쓰던 손으로 쓰던 기사화 하는 같잖은 언론사(?)라는 것에 신물남. 이런 사람들은 뒤에다 기자라 붙이면 안 된다 생각함. 크롤링 하고 이슈 올려 수익 벌어먹는 사이트랑 다를 것이 뭔가. https://t.co/YiM0nKTfn1"
+	},
+	{
+		"created_at": "Fri Jul 03 09:25:28 +0000 2020",
+		"id": 1278980537760116700,
+		"id_str": "1278983185976696848",
+		"full_text": "💌 2020 청하 온라인 팬미팅 ＜청하나라의 별하랑＞ MD 판매 안내\n\n🐰 https://t.co/M9Ne3YHkDj\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 https://t.co/vohOddi3Vv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "청하나라의_별하랑",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M9Ne3YHkDj",
+					"expanded_url": "https://bit.ly/2C6Gizd",
+					"display_url": "bit.ly/2C6Gizd",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278980528452939800,
+					"id_str": "1278980528452939776",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_aA6kUMAAY2-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_aA6kUMAAY2-D.jpg",
+					"url": "https://t.co/vohOddi3Vv",
+					"display_url": "pic.twitter.com/vohOddi3Vv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278980537760116737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 88,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 50,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278980528452939800,
+					"id_str": "1278980528452939776",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_aA6kUMAAY2-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_aA6kUMAAY2-D.jpg",
+					"url": "https://t.co/vohOddi3Vv",
+					"display_url": "pic.twitter.com/vohOddi3Vv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278980537760116737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 88,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 50,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278980528457187300,
+					"id_str": "1278980528457187331",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_aA6lVAAMhKlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_aA6lVAAMhKlM.jpg",
+					"url": "https://t.co/vohOddi3Vv",
+					"display_url": "pic.twitter.com/vohOddi3Vv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278980537760116737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 148,
+							"h": 148,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 148,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 49,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 87,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278980528457171000,
+					"id_str": "1278980528457170944",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_aA6lUwAAvuiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_aA6lUwAAvuiC.jpg",
+					"url": "https://t.co/vohOddi3Vv",
+					"display_url": "pic.twitter.com/vohOddi3Vv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278980537760116737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 88,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 50,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277538,
+			"friends_count": 0,
+			"listed_count": 1671,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 335,
+		"favorite_count": 1394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 2020 청하 온라인 팬미팅 ＜청하나라의 별하랑＞ MD 판매 안내\n\n🐰 https://t.co/M9Ne3YHkDj\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 https://t.co/vohOddi3Vv"
+	},
+	{
+		"created_at": "Fri Jul 03 09:25:20 +0000 2020",
+		"id": 1278979147881046000,
+		"id_str": "1278983152032194560",
+		"full_text": "🔖 [#청하FANSHIP]\n\n🐰 2020 청하 온라인 팬미팅 &lt; 청하나라의 별하랑 &gt; 할인 혜택 안내\n✌🏻 https://t.co/qpS3rZ5c5O\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG1st\n#FANSHIP #FANSHIPonly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하FANSHIP",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG1st",
+					"indices": [
+						121,
+						143
+					]
+				},
+				{
+					"text": "FANSHIP",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "FANSHIPonly",
+					"indices": [
+						153,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qpS3rZ5c5O",
+					"expanded_url": "https://bit.ly/38nmKmo",
+					"display_url": "bit.ly/38nmKmo",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277538,
+			"friends_count": 0,
+			"listed_count": 1671,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔖 [#청하FANSHIP]\n\n🐰 2020 청하 온라인 팬미팅 &lt; 청하나라의 별하랑 &gt; 할인 혜택 안내\n✌🏻 https://t.co/qpS3rZ5c5O\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG1st\n#FANSHIP #FANSHIPonly"
+	},
+	{
+		"created_at": "Fri Jul 03 09:25:11 +0000 2020",
+		"id": 1278977390383820800,
+		"id_str": "1278983113553608704",
+		"full_text": "💌 2020 청하 온라인 팬미팅 ＜청하나라의 별하랑 &gt; 안내\n\n🐰 2020년 7월 19일 (일) 오후 6시\n🐰 V LIVE+ 라이브 중계 &amp; VOD 제공\n\n♥ 자세한 안내사항\n☕ https://t.co/4mu8HNJzPq\n✌🏻 https://t.co/y9zNXWNiMD\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜 https://t.co/OMHvLrm2jJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						177,
+						188
+					]
+				},
+				{
+					"text": "청하나라의_별하랑",
+					"indices": [
+						189,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4mu8HNJzPq",
+					"expanded_url": "https://bit.ly/2ByDyLd",
+					"display_url": "bit.ly/2ByDyLd",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/y9zNXWNiMD",
+					"expanded_url": "https://bit.ly/38oBSjj",
+					"display_url": "bit.ly/38oBSjj",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278976595848360000,
+					"id_str": "1278976595848359937",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_WcAeUcAEXouf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_WcAeUcAEXouf.jpg",
+					"url": "https://t.co/OMHvLrm2jJ",
+					"display_url": "pic.twitter.com/OMHvLrm2jJ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278977390383820800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278976595848360000,
+					"id_str": "1278976595848359937",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_WcAeUcAEXouf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_WcAeUcAEXouf.jpg",
+					"url": "https://t.co/OMHvLrm2jJ",
+					"display_url": "pic.twitter.com/OMHvLrm2jJ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1278977390383820800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277538,
+			"friends_count": 0,
+			"listed_count": 1671,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 509,
+		"favorite_count": 1621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 2020 청하 온라인 팬미팅 ＜청하나라의 별하랑 &gt; 안내\n\n🐰 2020년 7월 19일 (일) 오후 6시\n🐰 V LIVE+ 라이브 중계 &amp; VOD 제공\n\n♥ 자세한 안내사항\n☕ https://t.co/4mu8HNJzPq\n✌🏻 https://t.co/y9zNXWNiMD\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜 https://t.co/OMHvLrm2jJ"
+	},
+	{
 		"created_at": "Fri Jul 03 07:53:32 +0000 2020",
 		"id": 1278959334408347600,
 		"id_str": "1278960050413793281",
