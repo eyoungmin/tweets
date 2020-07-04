@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 04 14:50:27 +0000 2020",
+		"id": 1279107638232363000,
+		"id_str": "1279427359376994305",
+		"full_text": "\"다리 스트레칭만 3개월 해도 혈관 좋아진다\"\nhttps://t.co/JVNArOrc7a\n\n다리 스트레칭을 규칙적으로 3개월만 하면 혈류 및 혈관 개선과 심장 질환 예방에 효과를 볼 수 있다는 연구 결과가 나왔습니다 https://t.co/AuQAJGBRa0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JVNArOrc7a",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200703125600009?input=tw",
+					"display_url": "yna.co.kr/view/AKR202007…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278966635571765200,
+					"id_str": "1278966635571765253",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_NYPjU4AUk_kr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_NYPjU4AUk_kr.jpg",
+					"url": "https://t.co/AuQAJGBRa0",
+					"display_url": "pic.twitter.com/AuQAJGBRa0",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1279107638232363008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278966635571765200,
+					"id_str": "1278966635571765253",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_NYPjU4AUk_kr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_NYPjU4AUk_kr.jpg",
+					"url": "https://t.co/AuQAJGBRa0",
+					"display_url": "pic.twitter.com/AuQAJGBRa0",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1279107638232363008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313715,
+			"friends_count": 70355,
+			"listed_count": 4480,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 216039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4275,
+		"favorite_count": 1721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"다리 스트레칭만 3개월 해도 혈관 좋아진다\"\nhttps://t.co/JVNArOrc7a\n\n다리 스트레칭을 규칙적으로 3개월만 하면 혈류 및 혈관 개선과 심장 질환 예방에 효과를 볼 수 있다는 연구 결과가 나왔습니다 https://t.co/AuQAJGBRa0"
+	},
+	{
 		"created_at": "Sat Jul 04 12:19:37 +0000 2020",
 		"id": 1279389399151571000,
 		"id_str": "1279389399151570944",
