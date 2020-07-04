@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 04 01:45:46 +0000 2020",
+		"id": 1279225918611849200,
+		"id_str": "1279229885295329280",
+		"full_text": "[KCON:TACT 2020 SUMMER] #KCONTACTNonstop Streaming\n\nThe weekend only gets better with #KCONTACT !\n\nWhat was your favorite performance by #MONSTAX ?\n\n#KIMJAEHWAN #THEBOYZ #LOONA\n\n▶ WATCH AT: https://t.co/wlCZEtz2SB\n#KCON #LetsKCON247 #KCON2020 https://t.co/hzd03YDC4Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTNonstop",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "MONSTAX",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "KIMJAEHWAN",
+					"indices": [
+						149,
+						160
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "LetsKCON247",
+					"indices": [
+						220,
+						232
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						233,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wlCZEtz2SB",
+					"expanded_url": "https://youtu.be/3PeswRPade8",
+					"display_url": "youtu.be/3PeswRPade8",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278939203380764700,
+					"id_str": "1278939203380764673",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-0berU4AENB7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-0berU4AENB7w.jpg",
+					"url": "https://t.co/hzd03YDC4Y",
+					"display_url": "pic.twitter.com/hzd03YDC4Y",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1279225918611849216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278939203380764700,
+					"id_str": "1278939203380764673",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-0berU4AENB7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-0berU4AENB7w.jpg",
+					"url": "https://t.co/hzd03YDC4Y",
+					"display_url": "pic.twitter.com/hzd03YDC4Y",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1279225918611849216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278939203384930300,
+					"id_str": "1278939203384930304",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-0besUcAAtyfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-0besUcAAtyfn.jpg",
+					"url": "https://t.co/hzd03YDC4Y",
+					"display_url": "pic.twitter.com/hzd03YDC4Y",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1279225918611849216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "LET'S KCON! Welcome to KCON :)",
+			"url": "https://t.co/vgtSskmfAh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vgtSskmfAh",
+							"expanded_url": "https://www.youtube.com/Mnet/join",
+							"display_url": "youtube.com/Mnet/join",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267018,
+			"friends_count": 127,
+			"listed_count": 841,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1590630440",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT 2020 SUMMER] #KCONTACTNonstop Streaming\n\nThe weekend only gets better with #KCONTACT !\n\nWhat was your favorite performance by #MONSTAX ?\n\n#KIMJAEHWAN #THEBOYZ #LOONA\n\n▶ WATCH AT: https://t.co/wlCZEtz2SB\n#KCON #LetsKCON247 #KCON2020 https://t.co/hzd03YDC4Y"
+	},
+	{
 		"created_at": "Sat Jul 04 00:40:45 +0000 2020",
 		"id": 1279033920202236000,
 		"id_str": "1279213523415883779",
