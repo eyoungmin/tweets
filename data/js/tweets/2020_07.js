@@ -1,6 +1,903 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 04 00:40:45 +0000 2020",
+		"id": 1279033920202236000,
+		"id_str": "1279213523415883779",
+		"full_text": "맥루한은 메시지보다 미디어 자체가 영향력 더 커질 걸로 봤다. 10년 전 카는 인터넷이 생각하는 방식까지 바꾼다고 했다. 이제야 혜안이었음을 안 에즈라 클라인이 인터뷰. 혼자 읽는 인쇄물과 함께 개인 탄생. 폰은 끊임없는 주의분산으로 깊이 읽기 약화. 안 읽으면 잃는다.https://t.co/5RPD3DXNHV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5RPD3DXNHV",
+					"expanded_url": "https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking",
+					"display_url": "vox.com/podcasts/2020/…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100728,
+			"friends_count": 2405,
+			"listed_count": 303,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맥루한은 메시지보다 미디어 자체가 영향력 더 커질 걸로 봤다. 10년 전 카는 인터넷이 생각하는 방식까지 바꾼다고 했다. 이제야 혜안이었음을 안 에즈라 클라인이 인터뷰. 혼자 읽는 인쇄물과 함께 개인 탄생. 폰은 끊임없는 주의분산으로 깊이 읽기 약화. 안 읽으면 잃는다.https://t.co/5RPD3DXNHV"
+	},
+	{
+		"created_at": "Sat Jul 04 00:40:31 +0000 2020",
+		"id": 1278571316128305200,
+		"id_str": "1279213464955678721",
+		"full_text": "정확한 색을 찾아주는 팬턴의 무지개 카드\nhttps://t.co/dl0uYdlTV4\n가운데 뚫린 구멍에 원하는 색을 두고, 팬톤 카메라로 찍으면 정확한 팬톤 컬러를 찾아줌 https://t.co/O1VfRm3y1E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dl0uYdlTV4",
+					"expanded_url": "https://www.yankodesign.com/2020/07/01/pantones-15-rainbow-card-turns-your-smartphone-camera-into-a-highly-accurate-color-picker/",
+					"display_url": "yankodesign.com/2020/07/01/pan…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278571305357336600,
+					"id_str": "1278571305357336577",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb5l0_vU4AEhEpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb5l0_vU4AEhEpX.jpg",
+					"url": "https://t.co/O1VfRm3y1E",
+					"display_url": "pic.twitter.com/O1VfRm3y1E",
+					"expanded_url": "https://twitter.com/deadcatssociety/status/1278571316128305154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1050,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278571305357336600,
+					"id_str": "1278571305357336577",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb5l0_vU4AEhEpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb5l0_vU4AEhEpX.jpg",
+					"url": "https://t.co/O1VfRm3y1E",
+					"display_url": "pic.twitter.com/O1VfRm3y1E",
+					"expanded_url": "https://twitter.com/deadcatssociety/status/1278571316128305154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1050,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278571306120695800,
+					"id_str": "1278571306120695809",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb5l1ClU0AE6vN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb5l1ClU0AE6vN6.jpg",
+					"url": "https://t.co/O1VfRm3y1E",
+					"display_url": "pic.twitter.com/O1VfRm3y1E",
+					"expanded_url": "https://twitter.com/deadcatssociety/status/1278571316128305154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278571306246525000,
+					"id_str": "1278571306246524928",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb5l1DDU0AA9veN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb5l1DDU0AA9veN.jpg",
+					"url": "https://t.co/O1VfRm3y1E",
+					"display_url": "pic.twitter.com/O1VfRm3y1E",
+					"expanded_url": "https://twitter.com/deadcatssociety/status/1278571316128305154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 209173806,
+			"id_str": "209173806",
+			"name": "데드캣",
+			"screen_name": "deadcatssociety",
+			"location": "Especially.Fascinating",
+			"description": "",
+			"url": "https://t.co/2u5o6jPDLj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2u5o6jPDLj",
+							"expanded_url": "https://peing.net/ko/deadcatssociety",
+							"display_url": "peing.net/ko/deadcatssoc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9291,
+			"friends_count": 970,
+			"listed_count": 129,
+			"created_at": "Thu Oct 28 17:16:58 +0000 2010",
+			"favourites_count": 664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993200391075463168/3SWQzYqE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993200391075463168/3SWQzYqE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/209173806/1390413748",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6965,
+		"favorite_count": 4870,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정확한 색을 찾아주는 팬턴의 무지개 카드\nhttps://t.co/dl0uYdlTV4\n가운데 뚫린 구멍에 원하는 색을 두고, 팬톤 카메라로 찍으면 정확한 팬톤 컬러를 찾아줌 https://t.co/O1VfRm3y1E"
+	},
+	{
+		"created_at": "Sat Jul 04 00:37:51 +0000 2020",
+		"id": 1278999345510015000,
+		"id_str": "1279212792512311296",
+		"full_text": "여러 온라인 쇼핑몰 장바구니에 동일한 물건들을 다량 담아놓고 사지는 않는 “John Smith”라는 미스테리한 쇼핑객의 대한 기사. 언뜻 쇼핑몰에는 별 해가 안될 것 같지만 장바구니 데이터를 유지하는 비용, 잘못된 프로모션, 존재하지 않는 메일에 안내를 보내는 낭비가 발생 https://t.co/qBp3LpddI9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qBp3LpddI9",
+					"expanded_url": "https://www.theverge.com/21311121/john-smith-mystery-shopper-wsj-abandoned-shopping-carts",
+					"display_url": "theverge.com/21311121/john-…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98779257,
+			"id_str": "98779257",
+			"name": "떠돌이",
+			"screen_name": "bugbear5",
+			"location": "Seoul",
+			"description": "테크 잉여 / Welcome to Ubuntu, 우분투 투게더 글쓴이 / 물에 술타면 물, 술에 물타면 술",
+			"url": "https://t.co/EqCMtjtzdi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EqCMtjtzdi",
+							"expanded_url": "http://opensea.egloos.com",
+							"display_url": "opensea.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1530,
+			"friends_count": 286,
+			"listed_count": 112,
+			"created_at": "Wed Dec 23 03:02:21 +0000 2009",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277770423757766661/0VKQL4v0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277770423757766661/0VKQL4v0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98779257/1350307568",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러 온라인 쇼핑몰 장바구니에 동일한 물건들을 다량 담아놓고 사지는 않는 “John Smith”라는 미스테리한 쇼핑객의 대한 기사. 언뜻 쇼핑몰에는 별 해가 안될 것 같지만 장바구니 데이터를 유지하는 비용, 잘못된 프로모션, 존재하지 않는 메일에 안내를 보내는 낭비가 발생 https://t.co/qBp3LpddI9"
+	},
+	{
+		"created_at": "Sat Jul 04 00:37:23 +0000 2020",
+		"id": 1279076890167443500,
+		"id_str": "1279212676523016192",
+		"full_text": "- 페이스북/구글, 온라인 소비자 추적해 그들의 습관, 관심사 포착해 관련광고 제공하는 수천개 회사 중 가장 큰 회사\n- 애플, 이 새 기능이 사용자의 정보가 어떻게 사용되는지에 대해 투명성을 제고하기 위한 것이라고 말해\n- 그러나 이 그룹, 새 팝업으로 인해 사용자들이 거부할 확률 높다고 주장 https://t.co/nhCTvvwh7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279076876007374800,
+					"id_str": "1279076876007374848",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EcAxpFLWAAAP4Eu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcAxpFLWAAAP4Eu.png",
+					"url": "https://t.co/nhCTvvwh7J",
+					"display_url": "pic.twitter.com/nhCTvvwh7J",
+					"expanded_url": "https://twitter.com/wkchoi/status/1279076890167443457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279076876007374800,
+					"id_str": "1279076876007374848",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EcAxpFLWAAAP4Eu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcAxpFLWAAAP4Eu.png",
+					"url": "https://t.co/nhCTvvwh7J",
+					"display_url": "pic.twitter.com/nhCTvvwh7J",
+					"expanded_url": "https://twitter.com/wkchoi/status/1279076890167443457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279074439511097300,
+		"in_reply_to_status_id_str": "1279074439511097344",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45874,
+			"friends_count": 229,
+			"listed_count": 279,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 페이스북/구글, 온라인 소비자 추적해 그들의 습관, 관심사 포착해 관련광고 제공하는 수천개 회사 중 가장 큰 회사\n- 애플, 이 새 기능이 사용자의 정보가 어떻게 사용되는지에 대해 투명성을 제고하기 위한 것이라고 말해\n- 그러나 이 그룹, 새 팝업으로 인해 사용자들이 거부할 확률 높다고 주장 https://t.co/nhCTvvwh7J"
+	},
+	{
+		"created_at": "Sat Jul 04 00:37:21 +0000 2020",
+		"id": 1279074439511097300,
+		"id_str": "1279212670076350464",
+		"full_text": "유럽디지털광고협회, iOS 14의 추적 허락 요청 팝업 창 때문에 애플 비판\n- 페이스북과 구글의 지원을 받는 16개 마케팅 협회, 애플이 유럽 개인정보 보호 규정에 따라 사용자의 동의를 구하기 위해 광고산업 시스템을 준수하지 않았다고 비난\n- 앱, 이제 두번 허가 요청해\nhttps://t.co/pwJi5qNbXN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pwJi5qNbXN",
+					"expanded_url": "https://www.reuters.com/article/us-google-apple-idUSKBN2440UY?taid=5eff2f4f621aa70001d02acf&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+					"display_url": "reuters.com/article/us-goo…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45874,
+			"friends_count": 229,
+			"listed_count": 279,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유럽디지털광고협회, iOS 14의 추적 허락 요청 팝업 창 때문에 애플 비판\n- 페이스북과 구글의 지원을 받는 16개 마케팅 협회, 애플이 유럽 개인정보 보호 규정에 따라 사용자의 동의를 구하기 위해 광고산업 시스템을 준수하지 않았다고 비난\n- 앱, 이제 두번 허가 요청해\nhttps://t.co/pwJi5qNbXN"
+	},
+	{
+		"created_at": "Sat Jul 04 00:35:25 +0000 2020",
+		"id": 1279207451020210200,
+		"id_str": "1279212182870228992",
+		"full_text": "- 그러나 글로벌 고객들을 끌기 위해 자사의 중국 뿌리로부터 거리를 두려고 해\n- 틱톡 포함 인도에서 금지된 59개 앱 중에 텐센트 위챗, 알리바바 UC 브라우저 등 포함\n- 이 편지, 다음주 틱톡과 정부 간 회의 앞두고 보낸 것\n- 그러나 정부 소스, 금주 초 내린 금지 명령 속히 철회되지 않을 것 시사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279206079495385000,
+		"in_reply_to_status_id_str": "1279206079495385100",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45874,
+			"friends_count": 229,
+			"listed_count": 279,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 그러나 글로벌 고객들을 끌기 위해 자사의 중국 뿌리로부터 거리를 두려고 해\n- 틱톡 포함 인도에서 금지된 59개 앱 중에 텐센트 위챗, 알리바바 UC 브라우저 등 포함\n- 이 편지, 다음주 틱톡과 정부 간 회의 앞두고 보낸 것\n- 그러나 정부 소스, 금주 초 내린 금지 명령 속히 철회되지 않을 것 시사"
+	},
+	{
+		"created_at": "Sat Jul 04 00:35:23 +0000 2020",
+		"id": 1279206079495385000,
+		"id_str": "1279212174422884360",
+		"full_text": "틱톡, 인도의 앱 사용금지 대응으로 베이징과 거리 둬\n- 6월 28일 인도정부에 보낸 편지에서 CEO 케빈 메이어, 중국정부가 한번도 사용자 데이터를 요청한 적 없고 만일 요청이 와도 거절할 것이라고 말해\n- 틱톡, 중국에서 사용할 수 없지만 중국 회사 바이트댄스가 소유\nhttps://t.co/Cb41FWijJ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cb41FWijJ7",
+					"expanded_url": "https://www.reuters.com/article/us-tiktok-india-idUSKBN2442GZ?taid=5effc30017654f00015abc5b&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+					"display_url": "reuters.com/article/us-tik…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45874,
+			"friends_count": 229,
+			"listed_count": 279,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "틱톡, 인도의 앱 사용금지 대응으로 베이징과 거리 둬\n- 6월 28일 인도정부에 보낸 편지에서 CEO 케빈 메이어, 중국정부가 한번도 사용자 데이터를 요청한 적 없고 만일 요청이 와도 거절할 것이라고 말해\n- 틱톡, 중국에서 사용할 수 없지만 중국 회사 바이트댄스가 소유\nhttps://t.co/Cb41FWijJ7"
+	},
+	{
 		"created_at": "Fri Jul 03 16:25:10 +0000 2020",
 		"id": 1279075838953091000,
 		"id_str": "1279088808345157635",
