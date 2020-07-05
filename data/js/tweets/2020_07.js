@@ -1,6 +1,739 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 06:27:57 +0000 2020",
+		"id": 1279656254902726700,
+		"id_str": "1279663286741540864",
+		"full_text": "홈파티를 위한 뷰 맛집 투룸 찾기!\n레드벨벳 아이린&amp;슬기와\n세븐틴 승관&amp;정한과 함께하는\n서울의 알짜배기 매물 소개! 기대해 주세요😍\n#구해줘홈즈 일요일 밤 10시 45분\n#박나래 #승관 #정한 #장동민 #양세형\n#김숙 #아이린 #슬기 #붐 #노홍철 https://t.co/oIreKXxo5N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구해줘홈즈",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "박나래",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "승관",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "정한",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "장동민",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "김숙",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						139,
+						141
+					]
+				},
+				{
+					"text": "노홍철",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278929117618925600,
+					"id_str": "1278929117618925568",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-rQaSUcAAa3N_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-rQaSUcAAa3N_.jpg",
+					"url": "https://t.co/oIreKXxo5N",
+					"display_url": "pic.twitter.com/oIreKXxo5N",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1279656254902726656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278929117618925600,
+					"id_str": "1278929117618925568",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-rQaSUcAAa3N_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-rQaSUcAAa3N_.jpg",
+					"url": "https://t.co/oIreKXxo5N",
+					"display_url": "pic.twitter.com/oIreKXxo5N",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1279656254902726656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278929117614755800,
+					"id_str": "1278929117614755841",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-rQaRU0AEm-01.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-rQaRU0AEm-01.jpg",
+					"url": "https://t.co/oIreKXxo5N",
+					"display_url": "pic.twitter.com/oIreKXxo5N",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1279656254902726656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278929117614751700,
+					"id_str": "1278929117614751744",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-rQaRUwAA4Scx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-rQaRUwAA4Scx.jpg",
+					"url": "https://t.co/oIreKXxo5N",
+					"display_url": "pic.twitter.com/oIreKXxo5N",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1279656254902726656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804165,
+			"friends_count": 5,
+			"listed_count": 746,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홈파티를 위한 뷰 맛집 투룸 찾기!\n레드벨벳 아이린&amp;슬기와\n세븐틴 승관&amp;정한과 함께하는\n서울의 알짜배기 매물 소개! 기대해 주세요😍\n#구해줘홈즈 일요일 밤 10시 45분\n#박나래 #승관 #정한 #장동민 #양세형\n#김숙 #아이린 #슬기 #붐 #노홍철 https://t.co/oIreKXxo5N"
+	},
+	{
+		"created_at": "Sun Jul 05 06:25:11 +0000 2020",
+		"id": 1279658825386090500,
+		"id_str": "1279662590256459776",
+		"full_text": "#BLACKPINKINYOURAREA 잠시 후 3시 40분, SBS #인기가요 에 #BLACKPINK 가 출연합니다⏰ \n#블랙핑크 가 선사할 멋진 #HowYouLikeThat 무대 기대해주세요🖤💖",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						82,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4461413,
+			"friends_count": 2,
+			"listed_count": 4964,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1592265711",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10135,
+		"favorite_count": 31764,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA 잠시 후 3시 40분, SBS #인기가요 에 #BLACKPINK 가 출연합니다⏰ \n#블랙핑크 가 선사할 멋진 #HowYouLikeThat 무대 기대해주세요🖤💖"
+	},
+	{
+		"created_at": "Sun Jul 05 06:24:02 +0000 2020",
+		"id": 1279577069005897700,
+		"id_str": "1279662301088321536",
+		"full_text": "@kanyewest You have my full support!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kanyewest",
+					"name": "ye",
+					"id": 169686021,
+					"id_str": "169686021",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1279575273365594000,
+		"in_reply_to_status_id_str": "1279575273365594112",
+		"in_reply_to_user_id": 169686021,
+		"in_reply_to_user_id_str": "169686021",
+		"in_reply_to_screen_name": "kanyewest",
+		"user": {
+			"id": 44196397,
+			"id_str": "44196397",
+			"name": "Elon Musk",
+			"screen_name": "elonmusk",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36558739,
+			"friends_count": 92,
+			"listed_count": 54064,
+			"created_at": "Tue Jun 02 20:12:29 +0000 2009",
+			"favourites_count": 6038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276417699032137728/QGSGH8FZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276417699032137728/QGSGH8FZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21711,
+		"favorite_count": 197251,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@kanyewest You have my full support!"
+	},
+	{
+		"created_at": "Sun Jul 05 06:19:27 +0000 2020",
+		"id": 1279575273365594000,
+		"id_str": "1279661148200030208",
+		"full_text": "We must now realize the promise of America by trusting God, unifying our vision and building our future. I am running for president of the United States 🇺🇸! #2020VISION",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020VISION",
+					"indices": [
+						157,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169686021,
+			"id_str": "169686021",
+			"name": "ye",
+			"screen_name": "kanyewest",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/R6cANtszQ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R6cANtszQ0",
+							"expanded_url": "http://KANYEWEST.COM",
+							"display_url": "KANYEWEST.COM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29449768,
+			"friends_count": 260,
+			"listed_count": 43904,
+			"created_at": "Thu Jul 22 23:00:05 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192282,
+		"favorite_count": 640526,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We must now realize the promise of America by trusting God, unifying our vision and building our future. I am running for president of the United States 🇺🇸! #2020VISION"
+	},
+	{
+		"created_at": "Sun Jul 05 06:17:21 +0000 2020",
+		"id": 1279660622326534100,
+		"id_str": "1279660622326534144",
+		"full_text": "이지 물량이나 넉넉하게 풀기나 해.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이지 물량이나 넉넉하게 풀기나 해."
+	},
+	{
 		"created_at": "Sun Jul 05 05:27:57 +0000 2020",
 		"id": 1279641154846445600,
 		"id_str": "1279648187087757312",
