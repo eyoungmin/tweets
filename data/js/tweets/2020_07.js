@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 09:25:30 +0000 2020",
+		"id": 1279707124998656000,
+		"id_str": "1279707969438068737",
+		"full_text": "#BLACKPINK 'How You Like That' 0705 SBS Inkigayo\n\n▶️ YouTube : https://t.co/Alq4J6kCk1\n▶️ NAVER TV : https://t.co/Ffo2XWtWMi\n\n#블랙핑크 #JENNIE #JISOO #LISA #ROSÉ #HowYouLikeThat #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						159,
+						174
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						175,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Alq4J6kCk1",
+					"expanded_url": "https://youtu.be/JLOwA3o6Zr0",
+					"display_url": "youtu.be/JLOwA3o6Zr0",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/Ffo2XWtWMi",
+					"expanded_url": "https://tv.naver.com/v/14631289",
+					"display_url": "tv.naver.com/v/14631289",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6288415,
+			"friends_count": 38,
+			"listed_count": 6412,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7059,
+		"favorite_count": 20788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'How You Like That' 0705 SBS Inkigayo\n\n▶️ YouTube : https://t.co/Alq4J6kCk1\n▶️ NAVER TV : https://t.co/Ffo2XWtWMi\n\n#블랙핑크 #JENNIE #JISOO #LISA #ROSÉ #HowYouLikeThat #YG"
+	},
+	{
+		"created_at": "Sun Jul 05 09:25:21 +0000 2020",
+		"id": 1279694278424318000,
+		"id_str": "1279707931160739840",
+		"full_text": "오늘도 어김없이 레전드 찍은\n💓젠츄리챙💓 1위도 축하해요🏆\n\n#블랙핑크 #BLACKPINK #안방1열직캠\n#HowYouLikeThat @ygofficialblink\n\n#제니: https://t.co/SXHUGzlLeY\n#지수: https://t.co/AdICLRFUkQ\n#로제: https://t.co/YWkFL7RYXk\n#리사: https://t.co/wJO6UkmjkR https://t.co/RhYTkj14rR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SXHUGzlLeY",
+					"expanded_url": "http://youtu.be/2NWHUlW7y8g",
+					"display_url": "youtu.be/2NWHUlW7y8g",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/AdICLRFUkQ",
+					"expanded_url": "http://youtu.be/EKnnUqu5QPQ",
+					"display_url": "youtu.be/EKnnUqu5QPQ",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/YWkFL7RYXk",
+					"expanded_url": "http://youtu.be/tUA-FE5jF60",
+					"display_url": "youtu.be/tUA-FE5jF60",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/wJO6UkmjkR",
+					"expanded_url": "http://youtu.be/pfgRjwNOD5k",
+					"display_url": "youtu.be/pfgRjwNOD5k",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279693095810945000,
+					"id_str": "1279693095810945024",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJiFy1U0AA2AEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcJiFy1U0AA2AEY.jpg",
+					"url": "https://t.co/RhYTkj14rR",
+					"display_url": "pic.twitter.com/RhYTkj14rR",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1279694278424317952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279693095810945000,
+					"id_str": "1279693095810945024",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJiFy1U0AA2AEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcJiFy1U0AA2AEY.jpg",
+					"url": "https://t.co/RhYTkj14rR",
+					"display_url": "pic.twitter.com/RhYTkj14rR",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1279694278424317952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77603,
+			"friends_count": 73,
+			"listed_count": 129,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1593406283",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6535,
+		"favorite_count": 21876,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 어김없이 레전드 찍은\n💓젠츄리챙💓 1위도 축하해요🏆\n\n#블랙핑크 #BLACKPINK #안방1열직캠\n#HowYouLikeThat @ygofficialblink\n\n#제니: https://t.co/SXHUGzlLeY\n#지수: https://t.co/AdICLRFUkQ\n#로제: https://t.co/YWkFL7RYXk\n#리사: https://t.co/wJO6UkmjkR https://t.co/RhYTkj14rR"
+	},
+	{
 		"created_at": "Sun Jul 05 08:25:14 +0000 2020",
 		"id": 1279686682342637600,
 		"id_str": "1279692801924567040",
