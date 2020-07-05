@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 11:25:17 +0000 2020",
+		"id": 1279716654788702200,
+		"id_str": "1279738112940351488",
+		"full_text": "[GUEST #CHUNGHA ] \n잼스에 #청하 가 놀러왔어요!💕 유튭 구독하고 곧 만나요! 👍#PLAY @CHUNGHA_MNHent  \n\n- 7/7 Fo.DX 💃\n+ 🎁📷\n\nGems Youtube▶https://t.co/pRyGGeZf6z https://t.co/F4IlB70zGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						53,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						59,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pRyGGeZf6z",
+					"expanded_url": "http://bit.ly/2NHnx9h",
+					"display_url": "bit.ly/2NHnx9h",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278929765609508900,
+					"id_str": "1278929765609508865",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-r2IPUEAE4O7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-r2IPUEAE4O7Z.jpg",
+					"url": "https://t.co/F4IlB70zGF",
+					"display_url": "pic.twitter.com/F4IlB70zGF",
+					"expanded_url": "https://twitter.com/gems_genie/status/1279716654788702209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278929765609508900,
+					"id_str": "1278929765609508865",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-r2IPUEAE4O7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-r2IPUEAE4O7Z.jpg",
+					"url": "https://t.co/F4IlB70zGF",
+					"display_url": "pic.twitter.com/F4IlB70zGF",
+					"expanded_url": "https://twitter.com/gems_genie/status/1279716654788702209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "Gems 잼스",
+			"screen_name": "gems_genie",
+			"location": "",
+			"description": "Here's Genie Media Studio’s Official twitter 💙\nEnjoy the kpop breaking news and exclusive contents",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8062,
+			"friends_count": 0,
+			"listed_count": 15,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1569811208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 1431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GUEST #CHUNGHA ] \n잼스에 #청하 가 놀러왔어요!💕 유튭 구독하고 곧 만나요! 👍#PLAY @CHUNGHA_MNHent  \n\n- 7/7 Fo.DX 💃\n+ 🎁📷\n\nGems Youtube▶https://t.co/pRyGGeZf6z https://t.co/F4IlB70zGF"
+	},
+	{
+		"created_at": "Sun Jul 05 11:25:15 +0000 2020",
+		"id": 1279731750470631400,
+		"id_str": "1279738104094633984",
+		"full_text": "잠시만요..🐌 블랙핑크..지나갈게요...🐌 \n라이브까지 완벽한 한복핑크...🐌\n#페이스캠 도 많관부...🐌🖤💖\n\n#블랙핑크 #BLACKPINK\n#HowYouLikeThat @ygofficialblink\n\n#로제: https://t.co/wUQG6xa0Vg\n#리사: https://t.co/Fu5xnQ4XQq\n#제니: https://t.co/rR8PYxOLRJ\n#지수: https://t.co/f9X8VuRjiO https://t.co/PuJCla5CoH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페이스캠",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						80,
+						95
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						201,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wUQG6xa0Vg",
+					"expanded_url": "http://youtu.be/ILWuD4B9oNE",
+					"display_url": "youtu.be/ILWuD4B9oNE",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/Fu5xnQ4XQq",
+					"expanded_url": "http://youtu.be/KSYzAnrn5-I",
+					"display_url": "youtu.be/KSYzAnrn5-I",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/rR8PYxOLRJ",
+					"expanded_url": "http://youtu.be/8r9dnn1mSIY",
+					"display_url": "youtu.be/8r9dnn1mSIY",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"url": "https://t.co/f9X8VuRjiO",
+					"expanded_url": "http://youtu.be/f1aPuR6Jw7U",
+					"display_url": "youtu.be/f1aPuR6Jw7U",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279724129478832000,
+					"id_str": "1279724129478832128",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJ-UMQU8AAmUFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcJ-UMQU8AAmUFo.jpg",
+					"url": "https://t.co/PuJCla5CoH",
+					"display_url": "pic.twitter.com/PuJCla5CoH",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1279731750470631425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279724129478832000,
+					"id_str": "1279724129478832128",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJ-UMQU8AAmUFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcJ-UMQU8AAmUFo.jpg",
+					"url": "https://t.co/PuJCla5CoH",
+					"display_url": "pic.twitter.com/PuJCla5CoH",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1279731750470631425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77959,
+			"friends_count": 73,
+			"listed_count": 128,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1593406283",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4861,
+		"favorite_count": 17024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시만요..🐌 블랙핑크..지나갈게요...🐌 \n라이브까지 완벽한 한복핑크...🐌\n#페이스캠 도 많관부...🐌🖤💖\n\n#블랙핑크 #BLACKPINK\n#HowYouLikeThat @ygofficialblink\n\n#로제: https://t.co/wUQG6xa0Vg\n#리사: https://t.co/Fu5xnQ4XQq\n#제니: https://t.co/rR8PYxOLRJ\n#지수: https://t.co/f9X8VuRjiO https://t.co/PuJCla5CoH"
+	},
+	{
 		"created_at": "Sun Jul 05 10:25:11 +0000 2020",
 		"id": 1279710952926007300,
 		"id_str": "1279722988854706176",
