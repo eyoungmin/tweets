@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 12:25:11 +0000 2020",
+		"id": 1279739300070994000,
+		"id_str": "1279753187533209605",
+		"full_text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nREAL COMMENTARY 청하 그리고 PLAY\n2020. 07. 06. 6PM (KST)\n\n▶ https://t.co/b9DJu57uUS\n✌🏻 https://t.co/SVScPAPZnw\n\n#청하 #CHUNGHA\n#PLAY https://t.co/iPDYJzDWZj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b9DJu57uUS",
+					"expanded_url": "https://bit.ly/2Bvo76H",
+					"display_url": "bit.ly/2Bvo76H",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/SVScPAPZnw",
+					"expanded_url": "https://bit.ly/3f2Gi23",
+					"display_url": "bit.ly/3f2Gi23",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279736084369256400,
+					"id_str": "1279736084369256448",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EcKJMDsUMAA1xeq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcKJMDsUMAA1xeq.jpg",
+					"url": "https://t.co/iPDYJzDWZj",
+					"display_url": "pic.twitter.com/iPDYJzDWZj",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1279739300070993921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279736084369256400,
+					"id_str": "1279736084369256448",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EcKJMDsUMAA1xeq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcKJMDsUMAA1xeq.jpg",
+					"url": "https://t.co/iPDYJzDWZj",
+					"display_url": "pic.twitter.com/iPDYJzDWZj",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1279739300070993921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278301,
+			"friends_count": 0,
+			"listed_count": 1672,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1377,
+		"favorite_count": 5187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nREAL COMMENTARY 청하 그리고 PLAY\n2020. 07. 06. 6PM (KST)\n\n▶ https://t.co/b9DJu57uUS\n✌🏻 https://t.co/SVScPAPZnw\n\n#청하 #CHUNGHA\n#PLAY https://t.co/iPDYJzDWZj"
+	},
+	{
 		"created_at": "Sun Jul 05 11:25:17 +0000 2020",
 		"id": 1279716654788702200,
 		"id_str": "1279738112940351488",
