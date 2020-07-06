@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 08:28:06 +0000 2020",
+		"id": 1280049420583596000,
+		"id_str": "1280055910950412289",
+		"full_text": "🌞 Yang spesial di VLIVE minggu ini 🌞\n\nNyalain notifikasinya dan jangan sampai ketinggalan~‼️🔔\n\n#VLIVE #VLIVEINDONESIA #REDVELVET #SF9 https://t.co/XdsCzHNiXJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						129,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280049090047295500,
+					"id_str": "1280049090047295490",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOl3YtUwAIcu2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOl3YtUwAIcu2l.jpg",
+					"url": "https://t.co/XdsCzHNiXJ",
+					"display_url": "pic.twitter.com/XdsCzHNiXJ",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1280049420583596032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280049090047295500,
+					"id_str": "1280049090047295490",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOl3YtUwAIcu2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOl3YtUwAIcu2l.jpg",
+					"url": "https://t.co/XdsCzHNiXJ",
+					"display_url": "pic.twitter.com/XdsCzHNiXJ",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1280049420583596032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nFollow channel V INDONESIA 👇🏻",
+			"url": "https://t.co/DgJQObgmpc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DgJQObgmpc",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/home",
+							"display_url": "channels.vlive.tv/B4B94F/home",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31796,
+			"friends_count": 1,
+			"listed_count": 11,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "🌞 Yang spesial di VLIVE minggu ini 🌞\n\nNyalain notifikasinya dan jangan sampai ketinggalan~‼️🔔\n\n#VLIVE #VLIVEINDONESIA #REDVELVET #SF9 https://t.co/XdsCzHNiXJ"
+	},
+	{
+		"created_at": "Mon Jul 06 08:28:01 +0000 2020",
+		"id": 1280047847149207600,
+		"id_str": "1280055889551069184",
+		"full_text": "[#VLIVE] Hari ini #REDVELVET IRENE &amp; SEULGI akan menjadi 'MONSTER' yang super cantik~😆💗 Saksikan &lt;IRENE &amp; SEULGI’s Monster, Inc.&gt; sesaat lagi mulai 15:00 WIB hanya di VLIVE dengan subtitle bahasa Indonesia 🇮🇩\n\n▶️ https://t.co/EtNXtmLD6I\n\n#VLIVEINDONESIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						252,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EtNXtmLD6I",
+					"expanded_url": "https://www.vlive.tv/video/200773",
+					"display_url": "vlive.tv/video/200773",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nFollow channel V INDONESIA 👇🏻",
+			"url": "https://t.co/DgJQObgmpc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DgJQObgmpc",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/home",
+							"display_url": "channels.vlive.tv/B4B94F/home",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31796,
+			"friends_count": 1,
+			"listed_count": 11,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "[#VLIVE] Hari ini #REDVELVET IRENE &amp; SEULGI akan menjadi 'MONSTER' yang super cantik~😆💗 Saksikan &lt;IRENE &amp; SEULGI’s Monster, Inc.&gt; sesaat lagi mulai 15:00 WIB hanya di VLIVE dengan subtitle bahasa Indonesia 🇮🇩\n\n▶️ https://t.co/EtNXtmLD6I\n\n#VLIVEINDONESIA"
+	},
+	{
+		"created_at": "Mon Jul 06 08:27:56 +0000 2020",
+		"id": 1280044131574706200,
+		"id_str": "1280055872320929792",
+		"full_text": "[#VLIVE] 잠시후 5시 [아이린&amp;슬기의 Monster 주식회사]가 VLIVE를 통해 반짝 오픈합니다‼️🎉 어디에서도 듣지 못했던 다채로운 스포일러는 물론 눈을 뗄 수 없는 코너들이 준비되어 있다고 하니까요❣️ 알림 설정 꾹 눌러두고 잠시후에 만나요🥰✨\n\n▶️ https://t.co/Hroj0sczKa\n\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						183,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hroj0sczKa",
+					"expanded_url": "https://www.vlive.tv/video/200773",
+					"display_url": "vlive.tv/video/200773",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4134545,
+			"friends_count": 167,
+			"listed_count": 1413,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1609,
+		"favorite_count": 3071,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VLIVE] 잠시후 5시 [아이린&amp;슬기의 Monster 주식회사]가 VLIVE를 통해 반짝 오픈합니다‼️🎉 어디에서도 듣지 못했던 다채로운 스포일러는 물론 눈을 뗄 수 없는 코너들이 준비되어 있다고 하니까요❣️ 알림 설정 꾹 눌러두고 잠시후에 만나요🥰✨\n\n▶️ https://t.co/Hroj0sczKa\n\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Mon Jul 06 07:37:35 +0000 2020",
 		"id": 1280043197805351000,
 		"id_str": "1280043197805350914",
