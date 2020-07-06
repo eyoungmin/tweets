@@ -1,6 +1,1678 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 09:28:06 +0000 2020",
+		"id": 1280065374994657300,
+		"id_str": "1280071011388579846",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [Monster]\n\n🎧Melon:https://t.co/NMAR0cPIQr\n🎧FLO:https://t.co/8gWc9jkVpG\n🎧genie:https://t.co/vGuvzxjPWF\n🎧NAVER MUSIC:https://t.co/nczYdnyrzI\n \n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						208,
+						231
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						232,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMAR0cPIQr",
+					"expanded_url": "http://kko.to/CbPyiqYDM",
+					"display_url": "kko.to/CbPyiqYDM",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/8gWc9jkVpG",
+					"expanded_url": "http://flomuz.io/s/a.ByeoL",
+					"display_url": "flomuz.io/s/a.ByeoL",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/vGuvzxjPWF",
+					"expanded_url": "http://www.genie.co.kr/42ZAU6",
+					"display_url": "genie.co.kr/42ZAU6",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/nczYdnyrzI",
+					"expanded_url": "http://naver.me/GEqMJLlA",
+					"display_url": "naver.me/GEqMJLlA",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2814669,
+			"friends_count": 2,
+			"listed_count": 6089,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19851,
+		"favorite_count": 34581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기\nThe 1st Mini Album [Monster]\n\n🎧Melon:https://t.co/NMAR0cPIQr\n🎧FLO:https://t.co/8gWc9jkVpG\n🎧genie:https://t.co/vGuvzxjPWF\n🎧NAVER MUSIC:https://t.co/nczYdnyrzI\n \n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기"
+	},
+	{
+		"created_at": "Mon Jul 06 09:28:04 +0000 2020",
+		"id": 1280064694552629200,
+		"id_str": "1280071002521776130",
+		"full_text": "IRENE and SEULGI, our Red Velvet queens have released their first ever joint EP titled, “Monster”. And needless to say, it’s a monster of a project 🤩!\n\nhttps://t.co/XFxjgGT00M\n\n@RVsmtown #RedVelvet_IRENE_SEULGI #IRENE #SEULGI #RedVelvet #Monster https://t.co/lvx4JEee3L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						187,
+						210
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						211,
+						217
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						218,
+						225
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						226,
+						236
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						237,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						177,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XFxjgGT00M",
+					"expanded_url": "https://spoti.fi/Monster",
+					"display_url": "spoti.fi/Monster",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280038778875175000,
+					"id_str": "1280038778875174912",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280038778875174912/pu/img/WNSOwbvaLdu2PX0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280038778875174912/pu/img/WNSOwbvaLdu2PX0B.jpg",
+					"url": "https://t.co/lvx4JEee3L",
+					"display_url": "pic.twitter.com/lvx4JEee3L",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1280064694552629248/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280038778875175000,
+					"id_str": "1280038778875174912",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280038778875174912/pu/img/WNSOwbvaLdu2PX0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280038778875174912/pu/img/WNSOwbvaLdu2PX0B.jpg",
+					"url": "https://t.co/lvx4JEee3L",
+					"display_url": "pic.twitter.com/lvx4JEee3L",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1280064694552629248/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31120,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280038778875174912/pu/vid/480x480/QbWg_6RVIA2kaR__.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280038778875174912/pu/vid/320x320/Ut3HP9dfM-FYmu25.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1280038778875174912/pu/pl/_lYqWYOAmSUBL8Xn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280038778875174912/pu/vid/720x720/G4LjG-Qg8SarwbfS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239483,
+			"friends_count": 198,
+			"listed_count": 161,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4936,
+		"favorite_count": 7233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IRENE and SEULGI, our Red Velvet queens have released their first ever joint EP titled, “Monster”. And needless to say, it’s a monster of a project 🤩!\n\nhttps://t.co/XFxjgGT00M\n\n@RVsmtown #RedVelvet_IRENE_SEULGI #IRENE #SEULGI #RedVelvet #Monster https://t.co/lvx4JEee3L"
+	},
+	{
+		"created_at": "Mon Jul 06 09:27:57 +0000 2020",
+		"id": 1280058739664408600,
+		"id_str": "1280070972788428800",
+		"full_text": "Mini-album Pertama Red Velvet – IRENE &amp; SEULGI ‘Monster’ Rilis Hari Ini jam 4 sore!\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉https://t.co/P0kqVrCK4B\n\n@RVsmtown #IRENE #SEULGI https://t.co/499TrVkbQ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						181,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P0kqVrCK4B",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/624712941479057/",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280058724795596800,
+					"id_str": "1280058724795596800",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOuoM8UwAASWPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOuoM8UwAASWPz.jpg",
+					"url": "https://t.co/499TrVkbQ5",
+					"display_url": "pic.twitter.com/499TrVkbQ5",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1280058739664408578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280058724795596800,
+					"id_str": "1280058724795596800",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOuoM8UwAASWPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOuoM8UwAASWPz.jpg",
+					"url": "https://t.co/499TrVkbQ5",
+					"display_url": "pic.twitter.com/499TrVkbQ5",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1280058739664408578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280058724795572200,
+					"id_str": "1280058724795572225",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOuoM8UYAEDb93.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOuoM8UYAEDb93.jpg",
+					"url": "https://t.co/499TrVkbQ5",
+					"display_url": "pic.twitter.com/499TrVkbQ5",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1280058739664408578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280058725709934600,
+					"id_str": "1280058725709934592",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOuoQWUcAAH5un.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOuoQWUcAAH5un.jpg",
+					"url": "https://t.co/499TrVkbQ5",
+					"display_url": "pic.twitter.com/499TrVkbQ5",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1280058739664408578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195352,
+			"friends_count": 25,
+			"listed_count": 165,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 971,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Mini-album Pertama Red Velvet – IRENE &amp; SEULGI ‘Monster’ Rilis Hari Ini jam 4 sore!\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉https://t.co/P0kqVrCK4B\n\n@RVsmtown #IRENE #SEULGI https://t.co/499TrVkbQ5"
+	},
+	{
+		"created_at": "Mon Jul 06 09:25:35 +0000 2020",
+		"id": 1280070214994935800,
+		"id_str": "1280070380250693632",
+		"full_text": "📸 밤보다 더 아름답고 뜨거운 오후의 이야기, 청하 [ PLAY ]\n\n🍈 https://t.co/HhrAHWLl5C\n\n#청하 #CHUNGHA\n#PLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HhrAHWLl5C",
+					"expanded_url": "https://bit.ly/2ZHEGEs",
+					"display_url": "bit.ly/2ZHEGEs",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279289,
+			"friends_count": 0,
+			"listed_count": 1682,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 557,
+		"favorite_count": 1789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 밤보다 더 아름답고 뜨거운 오후의 이야기, 청하 [ PLAY ]\n\n🍈 https://t.co/HhrAHWLl5C\n\n#청하 #CHUNGHA\n#PLAY"
+	},
+	{
+		"created_at": "Mon Jul 06 09:25:29 +0000 2020",
+		"id": 1280069426427998200,
+		"id_str": "1280070354669645825",
+		"full_text": "📸 서머퀸 청하의 컴백 맞이 청하 X #유라이크 X #지니뮤직 콜라보 템플릿 공개!\n\n🧞‍♂️ https://t.co/ISo8pRMswy\n\n#청하 #CHUNGHA\n#PLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라이크",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "지니뮤직",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ISo8pRMswy",
+					"expanded_url": "http://genie.co.kr/3GIFV2",
+					"display_url": "genie.co.kr/3GIFV2",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279289,
+			"friends_count": 0,
+			"listed_count": 1682,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 1509,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 서머퀸 청하의 컴백 맞이 청하 X #유라이크 X #지니뮤직 콜라보 템플릿 공개!\n\n🧞‍♂️ https://t.co/ISo8pRMswy\n\n#청하 #CHUNGHA\n#PLAY"
+	},
+	{
+		"created_at": "Mon Jul 06 09:25:20 +0000 2020",
+		"id": 1280063943646556200,
+		"id_str": "1280070316497293312",
+		"full_text": "⚡청하 PLAY로 더 즐겁게 PLAY 하는 법⚡ 지니X청하 템플릿 공개! 지금 Ulike에서 템플릿 참여하고 선물 받으세요💕 #지니청하템플릿 #지니뮤직 #유라이크 #ulikestudio #ulike #chungha @CHUNGHA_MNHent  \n\n👉템플릿 만들기: https://t.co/928qnv0jPZ\n👉비하인드 보기: https://t.co/XbBcw64mSf https://t.co/e7iJbpKWq2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지니청하템플릿",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "지니뮤직",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "유라이크",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "ulikestudio",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"text": "ulike",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/928qnv0jPZ",
+					"expanded_url": "https://go.onelink.me/KI2I/74c9f53c",
+					"display_url": "go.onelink.me/KI2I/74c9f53c",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/XbBcw64mSf",
+					"expanded_url": "https://www.genie.co.kr/3GIFV2",
+					"display_url": "genie.co.kr/3GIFV2",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280020335794851800,
+					"id_str": "1280020335794851846",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1280020335794851846/img/eDovfNMdwMqZWJX2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1280020335794851846/img/eDovfNMdwMqZWJX2.jpg",
+					"url": "https://t.co/e7iJbpKWq2",
+					"display_url": "pic.twitter.com/e7iJbpKWq2",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280063943646556160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280020335794851800,
+					"id_str": "1280020335794851846",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1280020335794851846/img/eDovfNMdwMqZWJX2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1280020335794851846/img/eDovfNMdwMqZWJX2.jpg",
+					"url": "https://t.co/e7iJbpKWq2",
+					"display_url": "pic.twitter.com/e7iJbpKWq2",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280063943646556160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25726,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280020335794851846/vid/1280x720/5OF8Fe_ogrDhBBTO.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280020335794851846/vid/480x270/hrcmU1wfwioQs8Pd.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280020335794851846/vid/640x360/gCn2nospoSILVeXn.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1280020335794851846/pl/y7uRSKcd_TMbWHdo.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://go.onelink.me/KI2I/74c9f53c"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "Gems 잼스",
+			"screen_name": "gems_genie",
+			"location": "",
+			"description": "Here's Genie Media Studio’s Official twitter 💙\nEnjoy the kpop breaking news and exclusive contents",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8036,
+			"friends_count": 0,
+			"listed_count": 17,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1569811208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 454,
+		"favorite_count": 1332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚡청하 PLAY로 더 즐겁게 PLAY 하는 법⚡ 지니X청하 템플릿 공개! 지금 Ulike에서 템플릿 참여하고 선물 받으세요💕 #지니청하템플릿 #지니뮤직 #유라이크 #ulikestudio #ulike #chungha @CHUNGHA_MNHent  \n\n👉템플릿 만들기: https://t.co/928qnv0jPZ\n👉비하인드 보기: https://t.co/XbBcw64mSf https://t.co/e7iJbpKWq2"
+	},
+	{
+		"created_at": "Mon Jul 06 09:25:16 +0000 2020",
+		"id": 1280068515207110700,
+		"id_str": "1280070298788904960",
+		"full_text": "Red Velvet – IRENE &amp; SEULGI’s first EP ‘Monster’ is out now!\n\nGet your Digital Booklet with Red Velvet’s unrevealed photos &amp; handwritten messages by downloading the album on iTunes right now!\n☑ https://t.co/3mStOWB8E4\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #Monster https://t.co/0EUmW8p8qq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						227,
+						250
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						251,
+						263
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						264,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3mStOWB8E4",
+					"expanded_url": "https://smarturl.it/RV_IS_Monster/itunes",
+					"display_url": "smarturl.it/RV_IS_Monster/…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280068346512203800,
+					"id_str": "1280068346512203776",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EcO3YQoU4AAPRuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcO3YQoU4AAPRuI.jpg",
+					"url": "https://t.co/0EUmW8p8qq",
+					"display_url": "pic.twitter.com/0EUmW8p8qq",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1280068515207110656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280068346512203800,
+					"id_str": "1280068346512203776",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EcO3YQoU4AAPRuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcO3YQoU4AAPRuI.jpg",
+					"url": "https://t.co/0EUmW8p8qq",
+					"display_url": "pic.twitter.com/0EUmW8p8qq",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1280068515207110656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280068346508013600,
+					"id_str": "1280068346508013568",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EcO3YQnU8AAFZ6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcO3YQnU8AAFZ6N.jpg",
+					"url": "https://t.co/0EUmW8p8qq",
+					"display_url": "pic.twitter.com/0EUmW8p8qq",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1280068515207110656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2814669,
+			"friends_count": 2,
+			"listed_count": 6089,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10548,
+		"favorite_count": 28128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet – IRENE &amp; SEULGI’s first EP ‘Monster’ is out now!\n\nGet your Digital Booklet with Red Velvet’s unrevealed photos &amp; handwritten messages by downloading the album on iTunes right now!\n☑ https://t.co/3mStOWB8E4\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #Monster https://t.co/0EUmW8p8qq"
+	},
+	{
+		"created_at": "Mon Jul 06 09:25:13 +0000 2020",
+		"id": 1280068303646363600,
+		"id_str": "1280070285543247873",
+		"full_text": "Spotify\nhttps://t.co/wmKDCFjM6x\n\nApple Music\nhttps://t.co/7ZRN6jNsfd\n\nDeezer\nhttps://t.co/5iYaQDfog3\n\nTidal\nhttps://t.co/2v22eGwYMQ\n\n중국 QQ\nhttps://t.co/YgjoHgonmK\n\nKugou\nhttps://t.co/uZhk07QjSl\n\nKuwo\nhttps://t.co/v9r2v9o6BW\n\n#청하 #CHUNGHA\n#PLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						225,
+						228
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						238,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wmKDCFjM6x",
+					"expanded_url": "https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr?si=YMboXPrrTdimqkA35EkBUA",
+					"display_url": "open.spotify.com/album/7tzaUrzv…",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/7ZRN6jNsfd",
+					"expanded_url": "https://music.apple.com/kr/album/play-feat-changmo-single/1521584898",
+					"display_url": "music.apple.com/kr/album/play-…",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/5iYaQDfog3",
+					"expanded_url": "https://www.deezer.com/ko/album/158015472",
+					"display_url": "deezer.com/ko/album/15801…",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/2v22eGwYMQ",
+					"expanded_url": "https://listen.tidal.com/album/147031068",
+					"display_url": "listen.tidal.com/album/147031068",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/YgjoHgonmK",
+					"expanded_url": "https://y.qq.com/n/yqq/album/003X5Fxt3hzpXt.html#stat=y_new.index.focus.click",
+					"display_url": "y.qq.com/n/yqq/album/00…",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/uZhk07QjSl",
+					"expanded_url": "https://www.kugou.com/yy/album/single/38374875.html",
+					"display_url": "kugou.com/yy/album/singl…",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/v9r2v9o6BW",
+					"expanded_url": "http://www.kuwo.cn/album_detail/14731689",
+					"display_url": "kuwo.cn/album_detail/1…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280067751504035800,
+		"in_reply_to_status_id_str": "1280067751504035840",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279289,
+			"friends_count": 0,
+			"listed_count": 1682,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 468,
+		"favorite_count": 1051,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Spotify\nhttps://t.co/wmKDCFjM6x\n\nApple Music\nhttps://t.co/7ZRN6jNsfd\n\nDeezer\nhttps://t.co/5iYaQDfog3\n\nTidal\nhttps://t.co/2v22eGwYMQ\n\n중국 QQ\nhttps://t.co/YgjoHgonmK\n\nKugou\nhttps://t.co/uZhk07QjSl\n\nKuwo\nhttps://t.co/v9r2v9o6BW\n\n#청하 #CHUNGHA\n#PLAY"
+	},
+	{
 		"created_at": "Mon Jul 06 08:28:06 +0000 2020",
 		"id": 1280049420583596000,
 		"id_str": "1280055910950412289",
