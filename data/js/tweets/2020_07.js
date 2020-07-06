@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 13:25:11 +0000 2020",
+		"id": 1280124341158580200,
+		"id_str": "1280130674545090565",
+		"full_text": "청하...자꾸 이렇게 멋있으면 우주 스타 밖에 안돼...! o(｀^´*)..!!! 멋있어서 지구 3번 부신 Fo.DX 내일 밤 7시 커밍쑨⭐ #청하 #CHUNGHA #PLAY @CHUNGHA_MNHent  \n\n'Fo.DX' 7/7 19:00 pm KST on Gems youtube  \n▶ https://t.co/E8B5IlS4Xs https://t.co/MswKJ93SiT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						98,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E8B5IlS4Xs",
+					"expanded_url": "https://bit.ly/2NHnx9h",
+					"display_url": "bit.ly/2NHnx9h",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280033800127254500,
+					"id_str": "1280033800127254529",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOYLhOVcAApArd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOYLhOVcAApArd.jpg",
+					"url": "https://t.co/MswKJ93SiT",
+					"display_url": "pic.twitter.com/MswKJ93SiT",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280124341158580225/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280033800127254500,
+					"id_str": "1280033800127254529",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOYLhOVcAApArd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOYLhOVcAApArd.jpg",
+					"url": "https://t.co/MswKJ93SiT",
+					"display_url": "pic.twitter.com/MswKJ93SiT",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280124341158580225/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							847,
+							360
+						],
+						"duration_millis": 15974,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1280033800127254529/pl/1XwJmLlRImmV9j9o.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280033800127254529/vid/634x270/lRWRbKUyKjV7wX8v.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280033800127254529/vid/1694x720/LC_cK9s2f2eiRkAd.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280033800127254529/vid/846x360/0ULUQxKDKn7MteQ8.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?sub_confirmation=1"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "Gems 잼스",
+			"screen_name": "gems_genie",
+			"location": "",
+			"description": "Here's Genie Media Studio’s Official twitter 💙\nEnjoy the kpop breaking news and exclusive contents",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8025,
+			"friends_count": 0,
+			"listed_count": 16,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1569811208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 471,
+		"favorite_count": 1304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청하...자꾸 이렇게 멋있으면 우주 스타 밖에 안돼...! o(｀^´*)..!!! 멋있어서 지구 3번 부신 Fo.DX 내일 밤 7시 커밍쑨⭐ #청하 #CHUNGHA #PLAY @CHUNGHA_MNHent  \n\n'Fo.DX' 7/7 19:00 pm KST on Gems youtube  \n▶ https://t.co/E8B5IlS4Xs https://t.co/MswKJ93SiT"
+	},
+	{
 		"created_at": "Mon Jul 06 11:25:42 +0000 2020",
 		"id": 1280094170489565200,
 		"id_str": "1280100605248364544",
