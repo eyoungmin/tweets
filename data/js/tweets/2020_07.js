@@ -1,6 +1,529 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 03:00:31 +0000 2020",
+		"id": 1279973475394957300,
+		"id_str": "1279973475394957314",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jul 6) https://t.co/uvoxl23C7Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uvoxl23C7Y",
+					"expanded_url": "https://nzzl.us/8C9eJe7",
+					"display_url": "nzzl.us/8C9eJe7",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jul 6) https://t.co/uvoxl23C7Y"
+	},
+	{
+		"created_at": "Mon Jul 06 02:28:06 +0000 2020",
+		"id": 1279964683286401000,
+		"id_str": "1279965314357309440",
+		"full_text": "[EN] '유리 정식' 등장! DJ 예리 방송 포기 선언 [EP.5-1]\n\n👉 https://t.co/1XCQpxdkGd\n\n#예리 #YERI #레드벨벳 #RedVelvet #유리 #YURI #소녀시대 #GirlsGeneration #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1XCQpxdkGd",
+					"expanded_url": "https://youtu.be/n14rKzsv94s",
+					"display_url": "youtu.be/n14rKzsv94s",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2810676,
+			"friends_count": 2,
+			"listed_count": 6060,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2757,
+		"favorite_count": 7812,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN] '유리 정식' 등장! DJ 예리 방송 포기 선언 [EP.5-1]\n\n👉 https://t.co/1XCQpxdkGd\n\n#예리 #YERI #레드벨벳 #RedVelvet #유리 #YURI #소녀시대 #GirlsGeneration #예리한방"
+	},
+	{
+		"created_at": "Mon Jul 06 02:27:59 +0000 2020",
+		"id": 1279956888172417000,
+		"id_str": "1279965284489662464",
+		"full_text": "#오늘의발매_bk🎵\n💿2020.JULY.06 - Today's Release💿\nCHUNG HA - PLAY(feat.CHANGMO)\nRed Velvet - IRENE &amp; SEULGI - Mini Album ‘Monster’\nSF9 - Mini Album '9loryUS'\n\n-\n#청하 #PLAY\n#레드벨벳_아이린_슬기 #Monster\n#에스에프나인 #9loryUS #여름향기가날춤추게해 #SummerBreeze https://t.co/5jDI1frDaJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의발매_bk",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"text": "에스에프나인",
+					"indices": [
+						191,
+						198
+					]
+				},
+				{
+					"text": "9loryUS",
+					"indices": [
+						199,
+						207
+					]
+				},
+				{
+					"text": "여름향기가날춤추게해",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"text": "SummerBreeze",
+					"indices": [
+						220,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279956620412256300,
+					"id_str": "1279956620412256259",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EcNRw8eVAAM2gRN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcNRw8eVAAM2gRN.jpg",
+					"url": "https://t.co/5jDI1frDaJ",
+					"display_url": "pic.twitter.com/5jDI1frDaJ",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1279956888172417024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279956620412256300,
+					"id_str": "1279956620412256259",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EcNRw8eVAAM2gRN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcNRw8eVAAM2gRN.jpg",
+					"url": "https://t.co/5jDI1frDaJ",
+					"display_url": "pic.twitter.com/5jDI1frDaJ",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1279956888172417024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37096,
+			"friends_count": 26,
+			"listed_count": 59,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1593482458",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#오늘의발매_bk🎵\n💿2020.JULY.06 - Today's Release💿\nCHUNG HA - PLAY(feat.CHANGMO)\nRed Velvet - IRENE &amp; SEULGI - Mini Album ‘Monster’\nSF9 - Mini Album '9loryUS'\n\n-\n#청하 #PLAY\n#레드벨벳_아이린_슬기 #Monster\n#에스에프나인 #9loryUS #여름향기가날춤추게해 #SummerBreeze https://t.co/5jDI1frDaJ"
+	},
+	{
 		"created_at": "Mon Jul 06 01:27:57 +0000 2020",
 		"id": 1279943646725300200,
 		"id_str": "1279950177349050369",
