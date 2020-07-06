@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 06:25:10 +0000 2020",
+		"id": 1280018640646164500,
+		"id_str": "1280024977367056384",
+		"full_text": "“레드벨벳-아이린&amp;슬기의 Monster 주식회사👾(Red Velvet - IRENE &amp; SEULGI's Monster, Inc.👾)”가 오늘 저녁 5시 V LIVE Red Velvet 채널에서 방송됩니다!\n아이린&amp;슬기의 #Monster 앨범 미리보기! 기대해주세요!\n\n👉https://t.co/OXi02hFS9r\n\n #RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 https://t.co/A2C8i4cwcb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Monster",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						213,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OXi02hFS9r",
+					"expanded_url": "https://www.vlive.tv/video/200773",
+					"display_url": "vlive.tv/video/200773",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280014695571746800,
+					"id_str": "1280014695571746818",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOGlXTVcAIdM6M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOGlXTVcAIdM6M.jpg",
+					"url": "https://t.co/A2C8i4cwcb",
+					"display_url": "pic.twitter.com/A2C8i4cwcb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1280018640646164481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2016,
+							"h": 1344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280014695571746800,
+					"id_str": "1280014695571746818",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOGlXTVcAIdM6M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOGlXTVcAIdM6M.jpg",
+					"url": "https://t.co/A2C8i4cwcb",
+					"display_url": "pic.twitter.com/A2C8i4cwcb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1280018640646164481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2016,
+							"h": 1344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2812060,
+			"friends_count": 2,
+			"listed_count": 6064,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8318,
+		"favorite_count": 23014,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“레드벨벳-아이린&amp;슬기의 Monster 주식회사👾(Red Velvet - IRENE &amp; SEULGI's Monster, Inc.👾)”가 오늘 저녁 5시 V LIVE Red Velvet 채널에서 방송됩니다!\n아이린&amp;슬기의 #Monster 앨범 미리보기! 기대해주세요!\n\n👉https://t.co/OXi02hFS9r\n\n #RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 https://t.co/A2C8i4cwcb"
+	},
+	{
 		"created_at": "Mon Jul 06 05:25:10 +0000 2020",
 		"id": 1280006332125294600,
 		"id_str": "1280009877797122049",
