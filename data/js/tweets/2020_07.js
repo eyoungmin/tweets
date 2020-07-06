@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 00:25:19 +0000 2020",
+		"id": 1279928372643033000,
+		"id_str": "1279934415574007813",
+		"full_text": "#BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO\n\n📺NAVER TV : https://t.co/GGTTQSTZlH \n🎬YouTube : https://t.co/kDQfGng3tG\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #HowYouLikeThat #PreReleaseSingle #DANCE_PERFORMANCE_VIDEO #안무영상 #YG https://t.co/n2cPWlMz2n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						162,
+						177
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						178,
+						195
+					]
+				},
+				{
+					"text": "DANCE_PERFORMANCE_VIDEO",
+					"indices": [
+						196,
+						220
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						227,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGTTQSTZlH",
+					"expanded_url": "https://tv.naver.com/v/14596338",
+					"display_url": "tv.naver.com/v/14596338",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/kDQfGng3tG",
+					"expanded_url": "https://youtu.be/32si5cfrCNc",
+					"display_url": "youtu.be/32si5cfrCNc",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279922509349970000,
+					"id_str": "1279922509349969927",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EcMzUXFUcAACgel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcMzUXFUcAACgel.jpg",
+					"url": "https://t.co/n2cPWlMz2n",
+					"display_url": "pic.twitter.com/n2cPWlMz2n",
+					"expanded_url": "https://twitter.com/ygent_official/status/1279928372643033088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279922509349970000,
+					"id_str": "1279922509349969927",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EcMzUXFUcAACgel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcMzUXFUcAACgel.jpg",
+					"url": "https://t.co/n2cPWlMz2n",
+					"display_url": "pic.twitter.com/n2cPWlMz2n",
+					"expanded_url": "https://twitter.com/ygent_official/status/1279928372643033088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 180180,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1279922509349969927/vid/1280x720/zXMSRKot18uIbErP.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1279922509349969927/pl/U_Z3yN9lKnDI0NsQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1279922509349969927/vid/640x360/Jd9SDHbrwg5cnGR6.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1279922509349969927/vid/480x270/VgbhzeGf4JnWeM9x.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO",
+						"description": "BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6291087,
+			"friends_count": 38,
+			"listed_count": 6415,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30631,
+		"favorite_count": 59230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO\n\n📺NAVER TV : https://t.co/GGTTQSTZlH \n🎬YouTube : https://t.co/kDQfGng3tG\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #HowYouLikeThat #PreReleaseSingle #DANCE_PERFORMANCE_VIDEO #안무영상 #YG https://t.co/n2cPWlMz2n"
+	},
+	{
 		"created_at": "Sun Jul 05 23:25:11 +0000 2020",
 		"id": 1279905052878987300,
 		"id_str": "1279919281598332931",
