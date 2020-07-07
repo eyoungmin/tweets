@@ -1,6 +1,994 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 13:25:35 +0000 2020",
+		"id": 1280485156155867100,
+		"id_str": "1280493166110572545",
+		"full_text": "https://t.co/jt6kn8l9D3\nhttps://t.co/f65wQ8cUpV\nhttps://t.co/mqIFdfT7BV\nhttps://t.co/vfFwuDVTEK\nhttps://t.co/yntxkvzeiM\n\n#조이 #JOY #레드벨벳 #RedVelvet #짠내투어 #더짠내투어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "짠내투어",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "더짠내투어",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jt6kn8l9D3",
+					"expanded_url": "http://naver.me/5pGYUFzr",
+					"display_url": "naver.me/5pGYUFzr",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/f65wQ8cUpV",
+					"expanded_url": "http://naver.me/GyjKXIJ9",
+					"display_url": "naver.me/GyjKXIJ9",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/mqIFdfT7BV",
+					"expanded_url": "http://naver.me/57pkN8Lx",
+					"display_url": "naver.me/57pkN8Lx",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/vfFwuDVTEK",
+					"expanded_url": "http://naver.me/G85BgtRT",
+					"display_url": "naver.me/G85BgtRT",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/yntxkvzeiM",
+					"expanded_url": "http://naver.me/F3IdDESg",
+					"display_url": "naver.me/F3IdDESg",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1280485154524283000,
+		"in_reply_to_status_id_str": "1280485154524282880",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2830418,
+			"friends_count": 2,
+			"listed_count": 6102,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1267,
+		"favorite_count": 4439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/jt6kn8l9D3\nhttps://t.co/f65wQ8cUpV\nhttps://t.co/mqIFdfT7BV\nhttps://t.co/vfFwuDVTEK\nhttps://t.co/yntxkvzeiM\n\n#조이 #JOY #레드벨벳 #RedVelvet #짠내투어 #더짠내투어"
+	},
+	{
+		"created_at": "Tue Jul 07 13:25:29 +0000 2020",
+		"id": 1280485154524283000,
+		"id_str": "1280493140487688192",
+		"full_text": "'더 짠내투어' 조이 활약 모아보기 💚👀👇\n\nhttps://t.co/qPVn9JWh94\nhttps://t.co/LR55bii4yC\nhttps://t.co/3PHMJsjZzv\nhttps://t.co/8I7paTkSaI\nhttps://t.co/lKhdTblSOV\n\n#조이 #JOY #레드벨벳 #RedVelvet #짠내투어 #더짠내투어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "짠내투어",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "더짠내투어",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qPVn9JWh94",
+					"expanded_url": "http://naver.me/53YH5Cd8",
+					"display_url": "naver.me/53YH5Cd8",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/LR55bii4yC",
+					"expanded_url": "http://naver.me/FKaMKVmb",
+					"display_url": "naver.me/FKaMKVmb",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/3PHMJsjZzv",
+					"expanded_url": "http://naver.me/FIrdgWwn",
+					"display_url": "naver.me/FIrdgWwn",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/8I7paTkSaI",
+					"expanded_url": "http://naver.me/GWKnFj7A",
+					"display_url": "naver.me/GWKnFj7A",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/lKhdTblSOV",
+					"expanded_url": "http://naver.me/GyjKXcyd",
+					"display_url": "naver.me/GyjKXcyd",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2830418,
+			"friends_count": 2,
+			"listed_count": 6102,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3043,
+		"favorite_count": 10309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'더 짠내투어' 조이 활약 모아보기 💚👀👇\n\nhttps://t.co/qPVn9JWh94\nhttps://t.co/LR55bii4yC\nhttps://t.co/3PHMJsjZzv\nhttps://t.co/8I7paTkSaI\nhttps://t.co/lKhdTblSOV\n\n#조이 #JOY #레드벨벳 #RedVelvet #짠내투어 #더짠내투어"
+	},
+	{
+		"created_at": "Tue Jul 07 13:25:25 +0000 2020",
+		"id": 1280479501336494000,
+		"id_str": "1280493123152551937",
+		"full_text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nALL NIGHT 24시 청하가 빛나는 밤에 (4/4)\n\n▶ https://t.co/vdQ2pjxPHW\n\n#청하 #CHUNGHA\n#PLAY https://t.co/JMMSJ1eZcx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vdQ2pjxPHW",
+					"expanded_url": "https://bit.ly/2Z6WLwD",
+					"display_url": "bit.ly/2Z6WLwD",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280479494831083500,
+					"id_str": "1280479494831083521",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUtUPeUEAEmaeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUtUPeUEAEmaeg.jpg",
+					"url": "https://t.co/JMMSJ1eZcx",
+					"display_url": "pic.twitter.com/JMMSJ1eZcx",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1280479501336494080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280479494831083500,
+					"id_str": "1280479494831083521",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUtUPeUEAEmaeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUtUPeUEAEmaeg.jpg",
+					"url": "https://t.co/JMMSJ1eZcx",
+					"display_url": "pic.twitter.com/JMMSJ1eZcx",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1280479501336494080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280479492293537800,
+		"in_reply_to_status_id_str": "1280479492293537792",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281619,
+			"friends_count": 0,
+			"listed_count": 1684,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 644,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nALL NIGHT 24시 청하가 빛나는 밤에 (4/4)\n\n▶ https://t.co/vdQ2pjxPHW\n\n#청하 #CHUNGHA\n#PLAY https://t.co/JMMSJ1eZcx"
+	},
+	{
+		"created_at": "Tue Jul 07 13:25:20 +0000 2020",
+		"id": 1280479492293537800,
+		"id_str": "1280493101681967105",
+		"full_text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nALL NIGHT 24시 청하가 빛나는 밤에 (3/4)\n\n▶ https://t.co/SE5CeVzrYk\n\n#청하 #CHUNGHA\n#PLAY https://t.co/0Yc4Sp3Esw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SE5CeVzrYk",
+					"expanded_url": "https://bit.ly/3f99KDl",
+					"display_url": "bit.ly/3f99KDl",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280479483892400000,
+					"id_str": "1280479483892400128",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUtTmuVAAAn0PN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUtTmuVAAAn0PN.jpg",
+					"url": "https://t.co/0Yc4Sp3Esw",
+					"display_url": "pic.twitter.com/0Yc4Sp3Esw",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1280479492293537792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280479483892400000,
+					"id_str": "1280479483892400128",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUtTmuVAAAn0PN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUtTmuVAAAn0PN.jpg",
+					"url": "https://t.co/0Yc4Sp3Esw",
+					"display_url": "pic.twitter.com/0Yc4Sp3Esw",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1280479492293537792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280479481522618400,
+		"in_reply_to_status_id_str": "1280479481522618368",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281619,
+			"friends_count": 0,
+			"listed_count": 1684,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 661,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nALL NIGHT 24시 청하가 빛나는 밤에 (3/4)\n\n▶ https://t.co/SE5CeVzrYk\n\n#청하 #CHUNGHA\n#PLAY https://t.co/0Yc4Sp3Esw"
+	},
+	{
+		"created_at": "Tue Jul 07 13:25:16 +0000 2020",
+		"id": 1280479481522618400,
+		"id_str": "1280493084397260800",
+		"full_text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nALL NIGHT 24시 청하가 빛나는 밤에 (2/4)\n\n▶ https://t.co/QFuDSuegFY\n\n#청하 #CHUNGHA\n#PLAY https://t.co/UiKD6dXJG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QFuDSuegFY",
+					"expanded_url": "https://bit.ly/2CfXFxz",
+					"display_url": "bit.ly/2CfXFxz",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280479467819790300,
+					"id_str": "1280479467819790338",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUtSq2UcAI6J1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUtSq2UcAI6J1j.jpg",
+					"url": "https://t.co/UiKD6dXJG3",
+					"display_url": "pic.twitter.com/UiKD6dXJG3",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1280479481522618368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280479467819790300,
+					"id_str": "1280479467819790338",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUtSq2UcAI6J1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUtSq2UcAI6J1j.jpg",
+					"url": "https://t.co/UiKD6dXJG3",
+					"display_url": "pic.twitter.com/UiKD6dXJG3",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1280479481522618368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280479176349282300,
+		"in_reply_to_status_id_str": "1280479176349282306",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281619,
+			"friends_count": 0,
+			"listed_count": 1684,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nALL NIGHT 24시 청하가 빛나는 밤에 (2/4)\n\n▶ https://t.co/QFuDSuegFY\n\n#청하 #CHUNGHA\n#PLAY https://t.co/UiKD6dXJG3"
+	},
+	{
 		"created_at": "Tue Jul 07 12:27:57 +0000 2020",
 		"id": 1280467224398946300,
 		"id_str": "1280478659825078276",
