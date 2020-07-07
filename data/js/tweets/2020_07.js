@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 08:25:28 +0000 2020",
+		"id": 1280412835764334600,
+		"id_str": "1280417637500141568",
+		"full_text": "💌 [ 2020 온라인 팬미팅 ] \"청하랑 별하랑 PLAY LIST\" 접수 안내\n\n🐰 기간 : ~ 200709 (목) PM 11:59 (KST)\n☕️ https://t.co/79vCAXcvCQ\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						127,
+						138
+					]
+				},
+				{
+					"text": "청하나라의_별하랑",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/79vCAXcvCQ",
+					"expanded_url": "https://bit.ly/3iENP9d",
+					"display_url": "bit.ly/3iENP9d",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281545,
+			"friends_count": 0,
+			"listed_count": 1682,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 890,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 [ 2020 온라인 팬미팅 ] \"청하랑 별하랑 PLAY LIST\" 접수 안내\n\n🐰 기간 : ~ 200709 (목) PM 11:59 (KST)\n☕️ https://t.co/79vCAXcvCQ\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜"
+	},
+	{
+		"created_at": "Tue Jul 07 08:25:20 +0000 2020",
+		"id": 1280411400188293000,
+		"id_str": "1280417603362721792",
+		"full_text": "#BLACKPINK SPECIAL EDITION [How You Like That]\nPre-order notice has been uploaded\n\n▶️https://t.co/6xBta4ehB5\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #HowYouLikeThat #PreReleaseSingle #SpecialEdition #OfflineRelease #YG https://t.co/QrEZMHlClX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						143,
+						158
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						159,
+						176
+					]
+				},
+				{
+					"text": "SpecialEdition",
+					"indices": [
+						177,
+						192
+					]
+				},
+				{
+					"text": "OfflineRelease",
+					"indices": [
+						193,
+						208
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						209,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6xBta4ehB5",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/1172091949838894",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280398870833295400,
+					"id_str": "1280398870833295361",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTj_TrUcAEhwdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTj_TrUcAEhwdj.jpg",
+					"url": "https://t.co/QrEZMHlClX",
+					"display_url": "pic.twitter.com/QrEZMHlClX",
+					"expanded_url": "https://twitter.com/ygent_official/status/1280411400188293120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 910,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 910,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280398870833295400,
+					"id_str": "1280398870833295361",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTj_TrUcAEhwdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTj_TrUcAEhwdj.jpg",
+					"url": "https://t.co/QrEZMHlClX",
+					"display_url": "pic.twitter.com/QrEZMHlClX",
+					"expanded_url": "https://twitter.com/ygent_official/status/1280411400188293120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 910,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 910,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6297882,
+			"friends_count": 38,
+			"listed_count": 6422,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6832,
+		"favorite_count": 25994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK SPECIAL EDITION [How You Like That]\nPre-order notice has been uploaded\n\n▶️https://t.co/6xBta4ehB5\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #HowYouLikeThat #PreReleaseSingle #SpecialEdition #OfflineRelease #YG https://t.co/QrEZMHlClX"
+	},
+	{
+		"created_at": "Tue Jul 07 08:25:17 +0000 2020",
+		"id": 1280408919479742500,
+		"id_str": "1280417589890605057",
+		"full_text": "[#여진 / #YeoJin] 오빛❤ 달의 주파수에서 약속했던 제가 키우는 반려식물이에요!! 딱 봐도 수박이는 알겠죠?? 그리고 휴가 가서 같이 찍은 저희 깜망이랍니다 저랑 사진 찍기 싫은가 봐요ㅜ 임까망이 표정이 너무 안 좋아요🥺😫😢\n\n#이달의소녀 #LOONA https://t.co/1odxW9XVdn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280408905621749800,
+					"id_str": "1280408905621749761",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTtHaLUwAEdsqT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTtHaLUwAEdsqT.jpg",
+					"url": "https://t.co/1odxW9XVdn",
+					"display_url": "pic.twitter.com/1odxW9XVdn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1280408919479742465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280408905621749800,
+					"id_str": "1280408905621749761",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTtHaLUwAEdsqT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTtHaLUwAEdsqT.jpg",
+					"url": "https://t.co/1odxW9XVdn",
+					"display_url": "pic.twitter.com/1odxW9XVdn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1280408919479742465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280408905621749800,
+					"id_str": "1280408905621749763",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTtHaLUwAMj7fU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTtHaLUwAMj7fU.jpg",
+					"url": "https://t.co/1odxW9XVdn",
+					"display_url": "pic.twitter.com/1odxW9XVdn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1280408919479742465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280408905625948200,
+					"id_str": "1280408905625948161",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTtHaMU0AEZj7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTtHaMU0AEZj7C.jpg",
+					"url": "https://t.co/1odxW9XVdn",
+					"display_url": "pic.twitter.com/1odxW9XVdn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1280408919479742465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496158,
+			"friends_count": 0,
+			"listed_count": 5098,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4720,
+		"favorite_count": 12617,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 오빛❤ 달의 주파수에서 약속했던 제가 키우는 반려식물이에요!! 딱 봐도 수박이는 알겠죠?? 그리고 휴가 가서 같이 찍은 저희 깜망이랍니다 저랑 사진 찍기 싫은가 봐요ㅜ 임까망이 표정이 너무 안 좋아요🥺😫😢\n\n#이달의소녀 #LOONA https://t.co/1odxW9XVdn"
+	},
+	{
 		"created_at": "Tue Jul 07 07:37:28 +0000 2020",
 		"id": 1280405557355167700,
 		"id_str": "1280405557355167745",
