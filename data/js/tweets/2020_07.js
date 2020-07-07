@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 15:43:45 +0000 2020",
+		"id": 1280444913792905200,
+		"id_str": "1280527936689287168",
+		"full_text": "창업가 콘텐츠 미디어 ‘EO’ 운영사 이오스튜디오, 퓨처플레이 등으로부터 투자 유치 https://t.co/j0uNt3k5J0 \"고속 성장기업의 비밀을 풀어내는 새로운 포맷의 숏 다큐멘터리 시리즈 ‘하이퍼 그로스(Hyper Growth)’를 런칭, 콘텐츠 제작 다각화에 나서며 뉴미디어 비즈니스 모델을 찾고있다.\" https://t.co/ARAHtluIc3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j0uNt3k5J0",
+					"expanded_url": "https://platum.kr/archives/144346",
+					"display_url": "platum.kr/archives/144346",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280444900987682800,
+					"id_str": "1280444900987682817",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUN2nXUwAEhahx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUN2nXUwAEhahx.jpg",
+					"url": "https://t.co/ARAHtluIc3",
+					"display_url": "pic.twitter.com/ARAHtluIc3",
+					"expanded_url": "https://twitter.com/estima7/status/1280444913792905218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1036,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280444900987682800,
+					"id_str": "1280444900987682817",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUN2nXUwAEhahx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUN2nXUwAEhahx.jpg",
+					"url": "https://t.co/ARAHtluIc3",
+					"display_url": "pic.twitter.com/ARAHtluIc3",
+					"expanded_url": "https://twitter.com/estima7/status/1280444913792905218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1036,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369921,
+			"friends_count": 2279,
+			"listed_count": 4506,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "창업가 콘텐츠 미디어 ‘EO’ 운영사 이오스튜디오, 퓨처플레이 등으로부터 투자 유치 https://t.co/j0uNt3k5J0 \"고속 성장기업의 비밀을 풀어내는 새로운 포맷의 숏 다큐멘터리 시리즈 ‘하이퍼 그로스(Hyper Growth)’를 런칭, 콘텐츠 제작 다각화에 나서며 뉴미디어 비즈니스 모델을 찾고있다.\" https://t.co/ARAHtluIc3"
+	},
+	{
+		"created_at": "Tue Jul 07 15:42:48 +0000 2020",
+		"id": 1280476007334625300,
+		"id_str": "1280527697635012608",
+		"full_text": "- 폭스 뉴스, 폼페오에 미국인들이 소셜미디어 앱 다운로드해도 되느냐고 묻자, 그는 \"당신의 개인정보가 중국 공산당 손에 들어가기 원한다면\"이라고 답변해\n- 그러나 틱톡, 홍콩국가안전법 통과 후 홍콩에서 사용자 데이터 프로세싱을 중단한다고 발표\n- 틱톡, 미국 청소년들에 유투브 만큼 인기있어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1280474040197623800,
+		"in_reply_to_status_id_str": "1280474040197623809",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45888,
+			"friends_count": 229,
+			"listed_count": 279,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 폭스 뉴스, 폼페오에 미국인들이 소셜미디어 앱 다운로드해도 되느냐고 묻자, 그는 \"당신의 개인정보가 중국 공산당 손에 들어가기 원한다면\"이라고 답변해\n- 그러나 틱톡, 홍콩국가안전법 통과 후 홍콩에서 사용자 데이터 프로세싱을 중단한다고 발표\n- 틱톡, 미국 청소년들에 유투브 만큼 인기있어"
+	},
+	{
+		"created_at": "Tue Jul 07 15:42:33 +0000 2020",
+		"id": 1280474040197623800,
+		"id_str": "1280527632174469122",
+		"full_text": "- 틱톡, 미국 사용자 데이터 미국에 저장되었고 백업은 싱가포르에 있으며 데이터를 중국정부에 넘긴 적이 없다고 말해\n- 그러나 중국, 틱톡이 넘기지 않아도 데이터에 액세스할 가능성 있어\n- 또한 틱톡이 사용자 클립보드 콘텐츠를 읽고 있었다는 것이 드러난 데에 대해서도 설득력 없게 설명해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1280472036624695300,
+		"in_reply_to_status_id_str": "1280472036624695296",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45888,
+			"friends_count": 229,
+			"listed_count": 279,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 틱톡, 미국 사용자 데이터 미국에 저장되었고 백업은 싱가포르에 있으며 데이터를 중국정부에 넘긴 적이 없다고 말해\n- 그러나 중국, 틱톡이 넘기지 않아도 데이터에 액세스할 가능성 있어\n- 또한 틱톡이 사용자 클립보드 콘텐츠를 읽고 있었다는 것이 드러난 데에 대해서도 설득력 없게 설명해"
+	},
+	{
+		"created_at": "Tue Jul 07 15:42:26 +0000 2020",
+		"id": 1280472036624695300,
+		"id_str": "1280527605544841218",
+		"full_text": "미국, 틱톡과 다른 중국 앱 사용금지 고려하고 있어\n- 국무부장관 마이크 폼페오, 폭스 뉴스를 통해 백악관이 중국 앱 금지에 대한 가능성 고려 중이라고 말해\n- 폼페오, 이미 자국 통신사 인프라 보호 조치를 취했고 스마트폰에 대해서도 바른 결정 내리기 원한다고 말해\nhttps://t.co/F1hrbdGBkc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F1hrbdGBkc",
+					"expanded_url": "https://9to5mac.com/2020/07/07/banning-tiktok/",
+					"display_url": "9to5mac.com/2020/07/07/ban…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45888,
+			"friends_count": 229,
+			"listed_count": 279,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국, 틱톡과 다른 중국 앱 사용금지 고려하고 있어\n- 국무부장관 마이크 폼페오, 폭스 뉴스를 통해 백악관이 중국 앱 금지에 대한 가능성 고려 중이라고 말해\n- 폼페오, 이미 자국 통신사 인프라 보호 조치를 취했고 스마트폰에 대해서도 바른 결정 내리기 원한다고 말해\nhttps://t.co/F1hrbdGBkc"
+	},
+	{
 		"created_at": "Tue Jul 07 13:25:35 +0000 2020",
 		"id": 1280485156155867100,
 		"id_str": "1280493166110572545",
