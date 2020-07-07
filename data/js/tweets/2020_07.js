@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 12:27:57 +0000 2020",
+		"id": 1280467224398946300,
+		"id_str": "1280478659825078276",
+		"full_text": "Halo ReVeluv, apa kabar?👋 Sudah liat MV-nya belum? Part mana favorit kalian?\nAda pesan juga nih, dari IRENE &amp; SEULGI untuk kalian!🌹✨\n\nJangan lupa dengerin dan streaming terus ‘Monster’ ya!👂🏻\n\n📎https://t.co/ONt7uqMndZ\n\n#RedVelvet #IRENE #SEULGI @RVsmtown https://t.co/pJ1rbeewcr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						222,
+						232
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						233,
+						239
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						240,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						248,
+						257
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ONt7uqMndZ",
+					"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+					"display_url": "youtu.be/Ujb-gvqsoi0",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280466691860738000,
+					"id_str": "1280466691860738048",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280466691860738048/pu/img/VHfTNQbEm6DCHg-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280466691860738048/pu/img/VHfTNQbEm6DCHg-p.jpg",
+					"url": "https://t.co/pJ1rbeewcr",
+					"display_url": "pic.twitter.com/pJ1rbeewcr",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1280467224398946306/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280466691860738000,
+					"id_str": "1280466691860738048",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280466691860738048/pu/img/VHfTNQbEm6DCHg-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280466691860738048/pu/img/VHfTNQbEm6DCHg-p.jpg",
+					"url": "https://t.co/pJ1rbeewcr",
+					"display_url": "pic.twitter.com/pJ1rbeewcr",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1280467224398946306/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							5
+						],
+						"duration_millis": 17067,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1280466691860738048/pu/pl/nozWFUOyHrpbjq5h.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280466691860738048/pu/vid/486x270/kOnjPrHN028mfxsQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280466691860738048/pu/vid/720x400/6MmvvwiAFR9pxQ1_.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196524,
+			"friends_count": 25,
+			"listed_count": 165,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 765,
+		"favorite_count": 2597,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Halo ReVeluv, apa kabar?👋 Sudah liat MV-nya belum? Part mana favorit kalian?\nAda pesan juga nih, dari IRENE &amp; SEULGI untuk kalian!🌹✨\n\nJangan lupa dengerin dan streaming terus ‘Monster’ ya!👂🏻\n\n📎https://t.co/ONt7uqMndZ\n\n#RedVelvet #IRENE #SEULGI @RVsmtown https://t.co/pJ1rbeewcr"
+	},
+	{
 		"created_at": "Tue Jul 07 10:25:23 +0000 2020",
 		"id": 1280441429420990500,
 		"id_str": "1280447817601990657",
