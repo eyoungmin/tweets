@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 03:25:21 +0000 2020",
+		"id": 1280335832230985700,
+		"id_str": "1280342110852599808",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 'Monster' MV\n\n🎬https://t.co/fooe7phe4n\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fooe7phe4n",
+					"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+					"display_url": "youtu.be/Ujb-gvqsoi0",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2824276,
+			"friends_count": 2,
+			"listed_count": 6099,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45241,
+		"favorite_count": 61657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "Red Velvet - IRENE &amp; SEULGI 'Monster' MV\n\n🎬https://t.co/fooe7phe4n\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster"
+	},
+	{
+		"created_at": "Tue Jul 07 03:25:14 +0000 2020",
+		"id": 1280333260329869300,
+		"id_str": "1280342081001660417",
+		"full_text": "Omusic\nhttps://t.co/dsKVj3XkeK\n\nMyMusic\nhttps://t.co/2DaZam4gGr\n\nKKBOXTW\nhttps://t.co/qI5IPHWVYu\n\nKKBOXHK\nhttps://t.co/M7FdKqZwGx\n\nKKBOXSG\nhttps://t.co/8OIbJXgSxW\n\nKKBOXMY\nhttps://t.co/Gy4I4MGQnM\n\nAmazon music\nhttps://t.co/M7yLurKsX1\n\n#청하 #CHUNGHA\n#PLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						235,
+						238
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						239,
+						247
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						248,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dsKVj3XkeK",
+					"expanded_url": "http://omusic.friday.tw/albumpage.php?album_id=2468770",
+					"display_url": "omusic.friday.tw/albumpage.php?…",
+					"indices": [
+						7,
+						30
+					]
+				},
+				{
+					"url": "https://t.co/2DaZam4gGr",
+					"expanded_url": "https://www.mymusic.net.tw/ux/w/album/show/2395876",
+					"display_url": "mymusic.net.tw/ux/w/album/sho…",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/qI5IPHWVYu",
+					"expanded_url": "https://www.kkbox.com/tw/tc/album/gMPA7euajJ1md0F4l-jQ009H-index.html",
+					"display_url": "kkbox.com/tw/tc/album/gM…",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/M7FdKqZwGx",
+					"expanded_url": "https://www.kkbox.com/hk/tc/album/gMPA7euajJ1md0F4l-jQ009H-index.html",
+					"display_url": "kkbox.com/hk/tc/album/gM…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/8OIbJXgSxW",
+					"expanded_url": "https://www.kkbox.com/sg/en/album/gMPA7euajJ1md0F4l-jQ009H-index.html",
+					"display_url": "kkbox.com/sg/en/album/gM…",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/Gy4I4MGQnM",
+					"expanded_url": "https://www.kkbox.com/my/ms/album/gMPA7euajJ1md0F4l-jQ009H-index.html",
+					"display_url": "kkbox.com/my/ms/album/gM…",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/M7yLurKsX1",
+					"expanded_url": "https://music.amazon.com/albums/B08C53GRLW?tab=CATALOG",
+					"display_url": "music.amazon.com/albums/B08C53G…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280068303646363600,
+		"in_reply_to_status_id_str": "1280068303646363649",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281454,
+			"friends_count": 0,
+			"listed_count": 1682,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Omusic\nhttps://t.co/dsKVj3XkeK\n\nMyMusic\nhttps://t.co/2DaZam4gGr\n\nKKBOXTW\nhttps://t.co/qI5IPHWVYu\n\nKKBOXHK\nhttps://t.co/M7FdKqZwGx\n\nKKBOXSG\nhttps://t.co/8OIbJXgSxW\n\nKKBOXMY\nhttps://t.co/Gy4I4MGQnM\n\nAmazon music\nhttps://t.co/M7yLurKsX1\n\n#청하 #CHUNGHA\n#PLAY"
+	},
+	{
 		"created_at": "Tue Jul 07 03:00:47 +0000 2020",
 		"id": 1280335928469454800,
 		"id_str": "1280335928469454848",
