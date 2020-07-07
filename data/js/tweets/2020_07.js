@@ -1,6 +1,951 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 10:25:23 +0000 2020",
+		"id": 1280441429420990500,
+		"id_str": "1280447817601990657",
+		"full_text": "[EVENT] #청하 Fo.DX 인증 이벤트! 잼스 유튭/트위터 구독하고 인증 스샷을 답글로 남겨주세요! 추첨을 통해 폴라로이드를 드립니다 (~7/18) @CHUNGHA_MNHent *당첨 발표는 당첨자에 한하여 DM 개별 연락 https://t.co/B0YvtVq3Rb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						8,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280418070834475000,
+					"id_str": "1280418070834475009",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EcT1c5QUcAEfhjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcT1c5QUcAEfhjE.jpg",
+					"url": "https://t.co/B0YvtVq3Rb",
+					"display_url": "pic.twitter.com/B0YvtVq3Rb",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280441429420990464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280418070834475000,
+					"id_str": "1280418070834475009",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EcT1c5QUcAEfhjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcT1c5QUcAEfhjE.jpg",
+					"url": "https://t.co/B0YvtVq3Rb",
+					"display_url": "pic.twitter.com/B0YvtVq3Rb",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280441429420990464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280418070847094800,
+					"id_str": "1280418070847094785",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EcT1c5TVAAE1CFE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcT1c5TVAAE1CFE.jpg",
+					"url": "https://t.co/B0YvtVq3Rb",
+					"display_url": "pic.twitter.com/B0YvtVq3Rb",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280441429420990464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "Gems 잼스",
+			"screen_name": "gems_genie",
+			"location": "",
+			"description": "Here's Genie Media Studio’s Official twitter 💙\nEnjoy the kpop breaking news and exclusive contents",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8087,
+			"friends_count": 0,
+			"listed_count": 16,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1569811208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 537,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] #청하 Fo.DX 인증 이벤트! 잼스 유튭/트위터 구독하고 인증 스샷을 답글로 남겨주세요! 추첨을 통해 폴라로이드를 드립니다 (~7/18) @CHUNGHA_MNHent *당첨 발표는 당첨자에 한하여 DM 개별 연락 https://t.co/B0YvtVq3Rb"
+	},
+	{
+		"created_at": "Tue Jul 07 10:25:18 +0000 2020",
+		"id": 1280437651892404200,
+		"id_str": "1280447796097794049",
+		"full_text": "🔥최초공개🔥 1분? 1초? 아니 존재 자체가 킬포쟈나💥⚡ 퍼포퀸 청하의 Fo.DX 잠시후 7시 Gems 유튜브에서 최초공개❕❕ 존버단 모여요🙈🙈#청하 #CHUNGHA #PLAY @CHUNGHA_MNHent  \n\nYoutube Premieres on Gems Youtube in 15 mins! Don't miss it \n✅ https://t.co/eqxBf7if6c https://t.co/iuS9ZgKOPd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						99,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eqxBf7if6c",
+					"expanded_url": "https://youtu.be/xvbXqfw8RDA",
+					"display_url": "youtu.be/xvbXqfw8RDA",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280394867202392000,
+					"id_str": "1280394867202392067",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTgh89UMAASg1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTgh89UMAASg1-.jpg",
+					"url": "https://t.co/iuS9ZgKOPd",
+					"display_url": "pic.twitter.com/iuS9ZgKOPd",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280437651892404225/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280394867202392000,
+					"id_str": "1280394867202392067",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTgh89UMAASg1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTgh89UMAASg1-.jpg",
+					"url": "https://t.co/iuS9ZgKOPd",
+					"display_url": "pic.twitter.com/iuS9ZgKOPd",
+					"expanded_url": "https://twitter.com/gems_genie/status/1280437651892404225/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							847,
+							360
+						],
+						"duration_millis": 30531,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280394867202392067/vid/846x360/DEOGJ5Yd8hECQaP4.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1280394867202392067/pl/wNwjH1TjcW-7FIWg.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280394867202392067/vid/1694x720/-Vxty9F_t3-_RrS0.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280394867202392067/vid/634x270/hJAf1VpFL3jA0LL2.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/xvbXqfw8RDA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "Gems 잼스",
+			"screen_name": "gems_genie",
+			"location": "",
+			"description": "Here's Genie Media Studio’s Official twitter 💙\nEnjoy the kpop breaking news and exclusive contents",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8087,
+			"friends_count": 0,
+			"listed_count": 16,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1569811208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 375,
+		"favorite_count": 928,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥최초공개🔥 1분? 1초? 아니 존재 자체가 킬포쟈나💥⚡ 퍼포퀸 청하의 Fo.DX 잠시후 7시 Gems 유튜브에서 최초공개❕❕ 존버단 모여요🙈🙈#청하 #CHUNGHA #PLAY @CHUNGHA_MNHent  \n\nYoutube Premieres on Gems Youtube in 15 mins! Don't miss it \n✅ https://t.co/eqxBf7if6c https://t.co/iuS9ZgKOPd"
+	},
+	{
+		"created_at": "Tue Jul 07 10:25:14 +0000 2020",
+		"id": 1280437046025179100,
+		"id_str": "1280447778792050698",
+		"full_text": "#BLACKPINK 'Kill This Love' M/V HITS 900 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n 'Kill This Love' M/V\n🎥https://t.co/Lo1d6beMak\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #KILLTHISLOVE #MV #900MILLION #YOUTUBE #YG https://t.co/a2jbCgaGDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "KILLTHISLOVE",
+					"indices": [
+						183,
+						196
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "900MILLION",
+					"indices": [
+						201,
+						212
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						213,
+						221
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						222,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Lo1d6beMak",
+					"expanded_url": "https://youtu.be/2S24-y0Ij3Y",
+					"display_url": "youtu.be/2S24-y0Ij3Y",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280415715179126800,
+					"id_str": "1280415715179126784",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTzTxwUYAA4Fhf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTzTxwUYAA4Fhf.jpg",
+					"url": "https://t.co/a2jbCgaGDc",
+					"display_url": "pic.twitter.com/a2jbCgaGDc",
+					"expanded_url": "https://twitter.com/ygent_official/status/1280437046025179140/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280415715179126800,
+					"id_str": "1280415715179126784",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTzTxwUYAA4Fhf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTzTxwUYAA4Fhf.jpg",
+					"url": "https://t.co/a2jbCgaGDc",
+					"display_url": "pic.twitter.com/a2jbCgaGDc",
+					"expanded_url": "https://twitter.com/ygent_official/status/1280437046025179140/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6298386,
+			"friends_count": 38,
+			"listed_count": 6424,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17885,
+		"favorite_count": 49031,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Kill This Love' M/V HITS 900 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n 'Kill This Love' M/V\n🎥https://t.co/Lo1d6beMak\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #KILLTHISLOVE #MV #900MILLION #YOUTUBE #YG https://t.co/a2jbCgaGDc"
+	},
+	{
+		"created_at": "Tue Jul 07 10:25:11 +0000 2020",
+		"id": 1280434959971319800,
+		"id_str": "1280447765743624193",
+		"full_text": "[레벨업 아슬한 프로젝트] Image Teaser\n\n👉https://t.co/kr0XdNZOky\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster #레벨업아슬한프로젝트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "레벨업아슬한프로젝트",
+					"indices": [
+						142,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kr0XdNZOky",
+					"expanded_url": "https://youtu.be/eXkx77_G9gk",
+					"display_url": "youtu.be/eXkx77_G9gk",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2828851,
+			"friends_count": 2,
+			"listed_count": 6105,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5981,
+		"favorite_count": 16596,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[레벨업 아슬한 프로젝트] Image Teaser\n\n👉https://t.co/kr0XdNZOky\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster #레벨업아슬한프로젝트"
+	},
+	{
 		"created_at": "Tue Jul 07 09:25:19 +0000 2020",
 		"id": 1280429302178177000,
 		"id_str": "1280432699510005762",
