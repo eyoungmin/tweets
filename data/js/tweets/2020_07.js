@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 23:27:56 +0000 2020",
+		"id": 1280634942230155300,
+		"id_str": "1280644752925429760",
+		"full_text": "Have you watched Red Velvet -IRENE &amp; SEULGI 'Monster' MV? 🤩 https://t.co/ySQyQELrKm https://t.co/PfZnxvBIXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ySQyQELrKm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1280335832230985729",
+					"display_url": "twitter.com/RVsmtown/statu…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280634936572080000,
+					"id_str": "1280634936572080130",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EcW6sJFVcAIbtVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EcW6sJFVcAIbtVw.jpg",
+					"url": "https://t.co/PfZnxvBIXF",
+					"display_url": "pic.twitter.com/PfZnxvBIXF",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1280634942230155264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280634936572080000,
+					"id_str": "1280634936572080130",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EcW6sJFVcAIbtVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EcW6sJFVcAIbtVw.jpg",
+					"url": "https://t.co/PfZnxvBIXF",
+					"display_url": "pic.twitter.com/PfZnxvBIXF",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1280634942230155264/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EcW6sJFVcAIbtVw.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994706386696073200,
+			"id_str": "994706386696073221",
+			"name": "SMGlobalShop",
+			"screen_name": "SMGlobalShop",
+			"location": "Los Angeles, CA",
+			"description": "Official SM Entertainment Merchandise Shop ft. #SuperM #SHINee #RedVelvet #NCT #EXO #SuperJunior #TVXQ #GirlsGeneration #fx",
+			"url": "https://t.co/Rwg3fKZNIy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rwg3fKZNIy",
+							"expanded_url": "https://smglobalshop.com",
+							"display_url": "smglobalshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22760,
+			"friends_count": 21,
+			"listed_count": 30,
+			"created_at": "Thu May 10 22:30:58 +0000 2018",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994706386696073221/1567020643",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280335832230985700,
+		"quoted_status_id_str": "1280335832230985729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ySQyQELrKm",
+			"expanded": "https://twitter.com/RVsmtown/status/1280335832230985729",
+			"display": "twitter.com/RVsmtown/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 03:00:24 +0000 2020",
+			"id": 1280335832230985700,
+			"id_str": "1280335832230985729",
+			"full_text": "Red Velvet - IRENE &amp; SEULGI 'Monster' MV\n\n🎬https://t.co/fooe7phe4n\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RedVelvet_IRENE_SEULGI",
+						"indices": [
+							72,
+							95
+						]
+					},
+					{
+						"text": "레드벨벳_아이린_슬기",
+						"indices": [
+							96,
+							108
+						]
+					},
+					{
+						"text": "IRENE",
+						"indices": [
+							109,
+							115
+						]
+					},
+					{
+						"text": "아이린",
+						"indices": [
+							116,
+							120
+						]
+					},
+					{
+						"text": "SEULGI",
+						"indices": [
+							121,
+							128
+						]
+					},
+					{
+						"text": "슬기",
+						"indices": [
+							129,
+							132
+						]
+					},
+					{
+						"text": "RedVelvet",
+						"indices": [
+							133,
+							143
+						]
+					},
+					{
+						"text": "레드벨벳",
+						"indices": [
+							144,
+							149
+						]
+					},
+					{
+						"text": "Monster",
+						"indices": [
+							150,
+							158
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fooe7phe4n",
+						"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+						"display_url": "youtu.be/Ujb-gvqsoi0",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 873092428755894300,
+				"id_str": "873092428755894272",
+				"name": "Red Velvet",
+				"screen_name": "RVsmtown",
+				"location": "",
+				"description": "💜Happiness! Red Velvet💜",
+				"url": "https://t.co/pjjIYiVH17",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjjIYiVH17",
+								"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+								"display_url": "youtu.be/Ujb-gvqsoi0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2833709,
+				"friends_count": 2,
+				"listed_count": 6093,
+				"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1345,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66050,
+			"favorite_count": 108770,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "no"
+		},
+		"retweet_count": 19,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you watched Red Velvet -IRENE &amp; SEULGI 'Monster' MV? 🤩 https://t.co/ySQyQELrKm https://t.co/PfZnxvBIXF"
+	},
+	{
 		"created_at": "Tue Jul 07 22:27:57 +0000 2020",
 		"id": 1280615337189355500,
 		"id_str": "1280629656153206784",
