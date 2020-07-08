@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 05:25:11 +0000 2020",
+		"id": 1280426328467128300,
+		"id_str": "1280734654950236160",
+		"full_text": "💜#RedVelvet - IRENE &amp; SEULGI💜\n1stミニアルバム『Monster』配信中🐰🐻\n\nレベラブの皆さんへ、\n二人が日本語でコメントをくれました💌\n今までと全く違うコンセプトの二人が美しすぎます🥺💎💕\n\n今すぐチェック👼🖤\n🎧https://t.co/GFHrmpzGG1\n\n#RedVelvet_IRENE_SEULGI #IRENE #SEULGI \n@RVsmtown https://t.co/4LGYURTgn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						193,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GFHrmpzGG1",
+					"expanded_url": "https://amzn.to/2DhEJPK",
+					"display_url": "amzn.to/2DhEJPK",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280423246760784000,
+					"id_str": "1280423246760783873",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EcT8wiUUYAEvDMJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcT8wiUUYAEvDMJ.jpg",
+					"url": "https://t.co/4LGYURTgn8",
+					"display_url": "pic.twitter.com/4LGYURTgn8",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1280426328467128321/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280423246760784000,
+					"id_str": "1280423246760783873",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EcT8wiUUYAEvDMJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcT8wiUUYAEvDMJ.jpg",
+					"url": "https://t.co/4LGYURTgn8",
+					"display_url": "pic.twitter.com/4LGYURTgn8",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1280426328467128321/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25759,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280423246760783873/vid/480x270/UPgv8rLADhhfZspl.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280423246760783873/vid/640x360/R4W6yQaMOgwQN8M_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280423246760783873/vid/1280x720/4BCK1x5P-jq1oZ9w.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1280423246760783873/pl/igSn8IffIyuO0gTO.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910751840492412900,
+			"id_str": "910751840492412928",
+			"name": "Amazon Music JP",
+			"screen_name": "amazonmusicjp",
+			"location": "",
+			"description": "好きな音楽を好きなだけ🎵\n音楽聴き放題サービス、Amazon Music（アマゾンミュージック）の公式Twitterです。\n最新の音楽情報や、お得なキャンペーン、ここでしか見られないアーティストのオリジナルコンテンツなどを配信中！",
+			"url": "https://t.co/EKRnscsj5m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EKRnscsj5m",
+							"expanded_url": "https://www.amazon.co.jp/amu",
+							"display_url": "amazon.co.jp/amu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142386,
+			"friends_count": 1563,
+			"listed_count": 356,
+			"created_at": "Thu Sep 21 06:25:34 +0000 2017",
+			"favourites_count": 905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 378738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910751840492412928/1553734469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2267,
+		"favorite_count": 7313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💜#RedVelvet - IRENE &amp; SEULGI💜\n1stミニアルバム『Monster』配信中🐰🐻\n\nレベラブの皆さんへ、\n二人が日本語でコメントをくれました💌\n今までと全く違うコンセプトの二人が美しすぎます🥺💎💕\n\n今すぐチェック👼🖤\n🎧https://t.co/GFHrmpzGG1\n\n#RedVelvet_IRENE_SEULGI #IRENE #SEULGI \n@RVsmtown https://t.co/4LGYURTgn8"
+	},
+	{
 		"created_at": "Wed Jul 08 04:10:22 +0000 2020",
 		"id": 1280715273901707300,
 		"id_str": "1280715827591868418",
