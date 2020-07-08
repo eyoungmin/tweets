@@ -1,6 +1,1167 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 03:00:14 +0000 2020",
+		"id": 1280698177105137700,
+		"id_str": "1280698177105137664",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jul 8) https://t.co/13T3KEcKTp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/13T3KEcKTp",
+					"expanded_url": "https://nzzl.us/BSbo03E",
+					"display_url": "nzzl.us/BSbo03E",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jul 8) https://t.co/13T3KEcKTp"
+	},
+	{
+		"created_at": "Wed Jul 08 02:27:57 +0000 2020",
+		"id": 1280683019695566800,
+		"id_str": "1280690055594508288",
+		"full_text": "[#레벨업 아슬한 프로젝트]\n\n#레드벨벳 의 첫 유닛 아이린&amp;슬기!\n둘만의 아슬한 케미를 담은 '아슬한 프로젝트'가 시작된다!\n\n오늘 드디어 첫 방송!\n👉https://t.co/x5O3VhDX1d\n\n매주 수요일 오전 11시 wavve에서!!😍\n\n#아이린 #슬기 #RedVelvet #IRENE #SEULGI #아슬한프로젝트 #SMCC_STUDIO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "아슬한프로젝트",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						185,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x5O3VhDX1d",
+					"expanded_url": "http://bitly.kr/EwbeIK7dj0R",
+					"display_url": "bitly.kr/EwbeIK7dj0R",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n💙슈주 리턴즈4 \n🟢NCT LIFE: DREAM in Wonderland \n♥️레벨업 아슬한 프로젝트",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7942,
+			"friends_count": 0,
+			"listed_count": 26,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 450,
+		"favorite_count": 695,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업 아슬한 프로젝트]\n\n#레드벨벳 의 첫 유닛 아이린&amp;슬기!\n둘만의 아슬한 케미를 담은 '아슬한 프로젝트'가 시작된다!\n\n오늘 드디어 첫 방송!\n👉https://t.co/x5O3VhDX1d\n\n매주 수요일 오전 11시 wavve에서!!😍\n\n#아이린 #슬기 #RedVelvet #IRENE #SEULGI #아슬한프로젝트 #SMCC_STUDIO"
+	},
+	{
+		"created_at": "Wed Jul 08 02:25:30 +0000 2020",
+		"id": 1280685555064299500,
+		"id_str": "1280689436792164352",
+		"full_text": "[EN] 이건 예리정식이고 완전 맛있어! 율언니 맛길만 걸어요 [EP.5-2]\n\n👉https://t.co/dSD03wvg1o\n\n#예리 #YERI #레드벨벳 #RedVelvet #유리 #YURI #소녀시대 #GirlsGeneration #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						114,
+						130
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dSD03wvg1o",
+					"expanded_url": "https://youtu.be/6uELmd2cIso",
+					"display_url": "youtu.be/6uELmd2cIso",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2833701,
+			"friends_count": 2,
+			"listed_count": 6090,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2866,
+		"favorite_count": 8292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN] 이건 예리정식이고 완전 맛있어! 율언니 맛길만 걸어요 [EP.5-2]\n\n👉https://t.co/dSD03wvg1o\n\n#예리 #YERI #레드벨벳 #RedVelvet #유리 #YURI #소녀시대 #GirlsGeneration #예리한방"
+	},
+	{
+		"created_at": "Wed Jul 08 02:25:21 +0000 2020",
+		"id": 1280516672432959500,
+		"id_str": "1280689398552592384",
+		"full_text": "#Byulharang! @CHUNGHA_MNHent has released her new single #Play and its available to stream on Deezer  🙌  https://t.co/PZSDU2MYrK https://t.co/gmyMQqlx0r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Byulharang",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "Play",
+					"indices": [
+						57,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PZSDU2MYrK",
+					"expanded_url": "http://dzr.lnk.to/ChungHaPlayTW/deezer",
+					"display_url": "dzr.lnk.to/ChungHaPlayTW/…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280513139021426700,
+					"id_str": "1280513139021426693",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EcVMMlgXQAEI2Yu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcVMMlgXQAEI2Yu.jpg",
+					"url": "https://t.co/gmyMQqlx0r",
+					"display_url": "pic.twitter.com/gmyMQqlx0r",
+					"expanded_url": "https://twitter.com/Deezer/status/1280516672432959488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280513139021426700,
+					"id_str": "1280513139021426693",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EcVMMlgXQAEI2Yu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcVMMlgXQAEI2Yu.jpg",
+					"url": "https://t.co/gmyMQqlx0r",
+					"display_url": "pic.twitter.com/gmyMQqlx0r",
+					"expanded_url": "https://twitter.com/Deezer/status/1280516672432959488/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18917,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280513139021426693/vid/720x720/2b4WGngk6ClsHiMv.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1280513139021426693/pl/NNla9ByN2hzgFKy7.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280513139021426693/vid/320x320/1z1xWiwIUEgFHLuE.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280513139021426693/vid/480x480/Ko46wNRKOPpjHNXf.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "Stream your music anywhere anytime and experience Flow for free. \nNeed support? Head to @DeezerHelp",
+			"url": "https://t.co/6ohZUbYX9L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6ohZUbYX9L",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206254,
+			"friends_count": 919,
+			"listed_count": 920,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 10922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1590069674",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 299,
+		"favorite_count": 1175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Byulharang! @CHUNGHA_MNHent has released her new single #Play and its available to stream on Deezer  🙌  https://t.co/PZSDU2MYrK https://t.co/gmyMQqlx0r"
+	},
+	{
+		"created_at": "Wed Jul 08 02:25:12 +0000 2020",
+		"id": 1280585501674741800,
+		"id_str": "1280689360317317123",
+		"full_text": ".@CHUNGHA_MNHent's new single \"PLAY\" is on TIDAL. ⬇️\n\n#청하 #CHUNGHA #Play\n\nhttps://t.co/XVaCi1xmSu 💫 https://t.co/TiEl3r1EwZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "Play",
+					"indices": [
+						67,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						1,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XVaCi1xmSu",
+					"expanded_url": "http://tidal.link/PLAY",
+					"display_url": "tidal.link/PLAY",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280585083519451100,
+					"id_str": "1280585083519451136",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EcWNtsnXgAA-FoV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcWNtsnXgAA-FoV.jpg",
+					"url": "https://t.co/TiEl3r1EwZ",
+					"display_url": "pic.twitter.com/TiEl3r1EwZ",
+					"expanded_url": "https://twitter.com/TIDAL/status/1280585501674741760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280585083519451100,
+					"id_str": "1280585083519451136",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EcWNtsnXgAA-FoV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcWNtsnXgAA-FoV.jpg",
+					"url": "https://t.co/TiEl3r1EwZ",
+					"display_url": "pic.twitter.com/TiEl3r1EwZ",
+					"expanded_url": "https://twitter.com/TIDAL/status/1280585501674741760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9944,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280585083519451136/vid/640x360/JAAFPFuBQV77Jzq6.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1280585083519451136/pl/aDX8Q7KBLSUM5DBP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280585083519451136/vid/480x270/bnbygxV0ADkvFfVY.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280585083519451136/vid/1280x720/PU_Brc4ZY21hnvFg.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2679055230,
+			"id_str": "2679055230",
+			"name": "TIDAL",
+			"screen_name": "TIDAL",
+			"location": "",
+			"description": "Unlimited music and videos, ad-free. Play your favorite songs & discover new artists in the highest quality audio available. Need support? Tweet @TIDALSupport",
+			"url": "https://t.co/NIGaOhpuzo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NIGaOhpuzo",
+							"expanded_url": "http://TIDAL.com",
+							"display_url": "TIDAL.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306543,
+			"friends_count": 931,
+			"listed_count": 1359,
+			"created_at": "Fri Jul 25 08:37:11 +0000 2014",
+			"favourites_count": 26225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880802261596766209/Ggmq2YW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880802261596766209/Ggmq2YW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2679055230/1571851140",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 327,
+		"favorite_count": 1290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@CHUNGHA_MNHent's new single \"PLAY\" is on TIDAL. ⬇️\n\n#청하 #CHUNGHA #Play\n\nhttps://t.co/XVaCi1xmSu 💫 https://t.co/TiEl3r1EwZ"
+	},
+	{
+		"created_at": "Wed Jul 08 02:06:05 +0000 2020",
+		"id": 1280622754614571000,
+		"id_str": "1280684548989177858",
+		"full_text": "세계 최대 아동 성 착취물 사이트인 웰컴 투 비디오 운영자인 손정우를 보내 달라고 요청했던 미국 검찰은 오늘 송환을 불허한 한국 법원의 결정에 유감을 표했습니다. \nhttps://t.co/wVcD7vU00g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wVcD7vU00g",
+					"expanded_url": "https://imnews.imbc.com/replay/2020/nwtoday/article/5834760_32531.html",
+					"display_url": "imnews.imbc.com/replay/2020/nw…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC뉴스)",
+			"screen_name": "mbcnews",
+			"location": "대한민국",
+			"description": "MBC뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC뉴스와 함께 하세요!",
+			"url": "https://t.co/cUdF00ZfYh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cUdF00ZfYh",
+							"expanded_url": "https://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398546,
+			"friends_count": 146613,
+			"listed_count": 3391,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 151141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1593406775",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6446,
+		"favorite_count": 1176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계 최대 아동 성 착취물 사이트인 웰컴 투 비디오 운영자인 손정우를 보내 달라고 요청했던 미국 검찰은 오늘 송환을 불허한 한국 법원의 결정에 유감을 표했습니다. \nhttps://t.co/wVcD7vU00g"
+	},
+	{
+		"created_at": "Wed Jul 08 02:05:44 +0000 2020",
+		"id": 1280684287507873800,
+		"id_str": "1280684462716538880",
+		"full_text": "구글 리치 검색결과 테스트  https://t.co/AAlYdlTkxi \n- 웹페이지가 구글의 리치검색결과를 지원하는지 테스트 하는 도구 \n- 몇년간의 베타 종료하고 정식 공개 \nㅤ→ 기존의 구조화 데이터 테스팅 도구는 지원 종료예정\n- 테스트 해볼수 있는 구조화 데이터들 \nㅤ→ 기사, 도서, 탐색경로, 캐...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAlYdlTkxi",
+					"expanded_url": "https://j.mp/31THcdj",
+					"display_url": "j.mp/31THcdj",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3281,
+			"friends_count": 0,
+			"listed_count": 48,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 리치 검색결과 테스트  https://t.co/AAlYdlTkxi \n- 웹페이지가 구글의 리치검색결과를 지원하는지 테스트 하는 도구 \n- 몇년간의 베타 종료하고 정식 공개 \nㅤ→ 기존의 구조화 데이터 테스팅 도구는 지원 종료예정\n- 테스트 해볼수 있는 구조화 데이터들 \nㅤ→ 기사, 도서, 탐색경로, 캐..."
+	},
+	{
 		"created_at": "Wed Jul 08 01:27:57 +0000 2020",
 		"id": 1280669901850472400,
 		"id_str": "1280674953952722944",
