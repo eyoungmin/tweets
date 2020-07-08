@@ -1,6 +1,624 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 09:28:05 +0000 2020",
+		"id": 1280789111536664600,
+		"id_str": "1280795782791168003",
+		"full_text": "#아이린 #슬기 '#Monster' 컴백 프로모션 오늘부터 집행 중!\nLet's meet #IRENE #SEULGI '#Monster' comeback MV in internet cafes nationwide in korea\n\n지금, 아챔이와도 함께보자📽 \n⏯ https://t.co/iKdng2G5H3\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #RedVelvet #레드벨벳 https://t.co/jn3zIQQHOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이린",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						171,
+						194
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						195,
+						207
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						219,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iKdng2G5H3",
+					"expanded_url": "http://youtu.be/Ujb-gvqsoi0",
+					"display_url": "youtu.be/Ujb-gvqsoi0",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280789105580769300,
+					"id_str": "1280789105580769280",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EcZG59ZVAAAT4wy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcZG59ZVAAAT4wy.jpg",
+					"url": "https://t.co/jn3zIQQHOE",
+					"display_url": "pic.twitter.com/jn3zIQQHOE",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1280789111536664576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1045,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1045,
+							"h": 1106,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280789105580769300,
+					"id_str": "1280789105580769280",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EcZG59ZVAAAT4wy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcZG59ZVAAAT4wy.jpg",
+					"url": "https://t.co/jn3zIQQHOE",
+					"display_url": "pic.twitter.com/jn3zIQQHOE",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1280789111536664576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1045,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1045,
+							"h": 1106,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64567,
+			"friends_count": 638,
+			"listed_count": 109,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아이린 #슬기 '#Monster' 컴백 프로모션 오늘부터 집행 중!\nLet's meet #IRENE #SEULGI '#Monster' comeback MV in internet cafes nationwide in korea\n\n지금, 아챔이와도 함께보자📽 \n⏯ https://t.co/iKdng2G5H3\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #RedVelvet #레드벨벳 https://t.co/jn3zIQQHOE"
+	},
+	{
+		"created_at": "Wed Jul 08 09:25:18 +0000 2020",
+		"id": 1280790085336625200,
+		"id_str": "1280795083017764864",
+		"full_text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nPERFECT PERFORMANCE\n오늘부터 청하 DAY\n\n▶ https://t.co/LlaxSGA5gf\n\n#청하 #CHUNGHA\n#PLAY https://t.co/aGWkknJUTa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LlaxSGA5gf",
+					"expanded_url": "http://bit.ly/2BMKlRu",
+					"display_url": "bit.ly/2BMKlRu",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280790078378307600,
+					"id_str": "1280790078378307584",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EcZHylWVcAA70TE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcZHylWVcAA70TE.jpg",
+					"url": "https://t.co/aGWkknJUTa",
+					"display_url": "pic.twitter.com/aGWkknJUTa",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1280790085336625158/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280790078378307600,
+					"id_str": "1280790078378307584",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EcZHylWVcAA70TE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcZHylWVcAA70TE.jpg",
+					"url": "https://t.co/aGWkknJUTa",
+					"display_url": "pic.twitter.com/aGWkknJUTa",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1280790085336625158/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281686,
+			"friends_count": 0,
+			"listed_count": 1670,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 686,
+		"favorite_count": 2616,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA\nPre-Release Single #2\n[ PLAY ]\n\nPERFECT PERFORMANCE\n오늘부터 청하 DAY\n\n▶ https://t.co/LlaxSGA5gf\n\n#청하 #CHUNGHA\n#PLAY https://t.co/aGWkknJUTa"
+	},
+	{
+		"created_at": "Wed Jul 08 09:25:16 +0000 2020",
+		"id": 1280788220020547600,
+		"id_str": "1280795074083815426",
+		"full_text": "[컬투쇼] 레드벨벳 - 아이린🐰 &amp; 슬기🐻 데뷔 첫 방송 보는 라디오 Full ver.│Red Velvet - IRENE &amp; SEULGI│20200708 \n\n👉 https://t.co/a7dh4WJbe9\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						201,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a7dh4WJbe9",
+					"expanded_url": "https://youtu.be/ak6VfvELBt0",
+					"display_url": "youtu.be/ak6VfvELBt0",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2836777,
+			"friends_count": 2,
+			"listed_count": 6097,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3842,
+		"favorite_count": 9587,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[컬투쇼] 레드벨벳 - 아이린🐰 &amp; 슬기🐻 데뷔 첫 방송 보는 라디오 Full ver.│Red Velvet - IRENE &amp; SEULGI│20200708 \n\n👉 https://t.co/a7dh4WJbe9\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster"
+	},
+	{
 		"created_at": "Wed Jul 08 08:43:45 +0000 2020",
 		"id": 1280784628761022500,
 		"id_str": "1280784628761022464",
