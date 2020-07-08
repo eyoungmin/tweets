@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 06:25:11 +0000 2020",
+		"id": 1280743686003781600,
+		"id_str": "1280749754004246534",
+		"full_text": "Answer video IS coming..!\n\n레드벨벳-아이린&amp;슬기 [아슬이 알고 싶다🧐 (Feat. 'Monster' Box😈)] (Get to know IRENE &amp; SEULGI) \n\n🎬 TODAY 4PM (KST)\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/JXq00xQlo7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						194,
+						204
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						211,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JXq00xQlo7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1263772840043573249",
+					"display_url": "twitter.com/RVsmtown/statu…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2835746,
+			"friends_count": 2,
+			"listed_count": 6104,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263772840043573200,
+		"quoted_status_id_str": "1263772840043573249",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JXq00xQlo7",
+			"expanded": "https://twitter.com/RVsmtown/status/1263772840043573249",
+			"display": "twitter.com/RVsmtown/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 22 10:04:59 +0000 2020",
+			"id": 1263772840043573200,
+			"id_str": "1263772840043573249",
+			"full_text": "❤아이린 &amp; 슬기💛 에게 궁금한 점을 아래 필수 해시태그와 함께 트윗해주세요\nAsk ❤IRENE &amp; SEULGI💛questions in a tweet with the required hashtags below\n\n📍#IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳\n\n📬Submissions to be answered in a video🎬\n📬답변 영상이 찾아옵니다🎬",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IRENE",
+						"indices": [
+							127,
+							133
+						]
+					},
+					{
+						"text": "아이린",
+						"indices": [
+							134,
+							138
+						]
+					},
+					{
+						"text": "SEULGI",
+						"indices": [
+							139,
+							146
+						]
+					},
+					{
+						"text": "슬기",
+						"indices": [
+							147,
+							150
+						]
+					},
+					{
+						"text": "RedVelvet",
+						"indices": [
+							151,
+							161
+						]
+					},
+					{
+						"text": "레드벨벳",
+						"indices": [
+							162,
+							167
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 873092428755894300,
+				"id_str": "873092428755894272",
+				"name": "Red Velvet",
+				"screen_name": "RVsmtown",
+				"location": "",
+				"description": "💜Happiness! Red Velvet💜",
+				"url": "https://t.co/pjjIYiVH17",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjjIYiVH17",
+								"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+								"display_url": "youtu.be/Ujb-gvqsoi0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2835746,
+				"friends_count": 2,
+				"listed_count": 6104,
+				"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+				"favourites_count": 35,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1351,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13100,
+			"favorite_count": 49471,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4938,
+		"favorite_count": 12517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Answer video IS coming..!\n\n레드벨벳-아이린&amp;슬기 [아슬이 알고 싶다🧐 (Feat. 'Monster' Box😈)] (Get to know IRENE &amp; SEULGI) \n\n🎬 TODAY 4PM (KST)\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/JXq00xQlo7"
+	},
+	{
 		"created_at": "Wed Jul 08 05:25:11 +0000 2020",
 		"id": 1280426328467128300,
 		"id_str": "1280734654950236160",
