@@ -1,6 +1,1349 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 00:54:47 +0000 2020",
+		"id": 1280666605484011500,
+		"id_str": "1280666605484011520",
+		"full_text": "넷플릭스 공개된 페이지 데이터를 가져오려면 로그인을 해야하고 그럼에도 신작 정보 제공 페이지가 유연하지 않다. 검색 역시 맞춤 데이터 활용이라 불편하다.\n\n이런 것을 해결해준 봇이었는데 종료한다고 하니 너무 아쉽다.\n\n#넷플릭스 #Netflix https://t.co/0Hsg99Uyzl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "넷플릭스",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "Netflix",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Hsg99Uyzl",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/1280663691709411328",
+					"display_url": "twitter.com/netflixkr_up/s…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280663691709411300,
+		"quoted_status_id_str": "1280663691709411328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0Hsg99Uyzl",
+			"expanded": "https://twitter.com/netflixkr_up/status/1280663691709411328",
+			"display": "twitter.com/netflixkr_up/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 08 00:43:12 +0000 2020",
+			"id": 1280663691709411300,
+			"id_str": "1280663691709411328",
+			"full_text": "계정 비활성(계정 삭제)을 앞두고 아쉬운 작별 인사를 전합니다. 그동안 피곤하기도 했었지만 그런 피곤마저 즐겁고 행복한 시간이었습니다. 그럼 안녕히 계세요.\n\n*본 계정은 오늘 중 비공개로 전환,\n이번 주 중 계정 비활성 예정입니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701825105538646000,
+				"id_str": "701825105538646016",
+				"name": "넷플릭스 업데이트봇",
+				"screen_name": "netflixkr_up",
+				"location": "Republic of Korea",
+				"description": "*fan account 비공식 수동봇* 본 계정의 운영을 중단합니다. 함께 했던 지난 시간 즐거웠습니다. 그동안 감사했습니다. 일정 시일 후 계정 비공개, 그 이후 계정 비활성(삭제) 예정입니다. 넷플릭스 문의는 고객센터나 공식 계정(@NetflixKR)을 이용해주세요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74609,
+				"friends_count": 42,
+				"listed_count": 204,
+				"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+				"favourites_count": 114,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14878,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 291,
+			"favorite_count": 330,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스 공개된 페이지 데이터를 가져오려면 로그인을 해야하고 그럼에도 신작 정보 제공 페이지가 유연하지 않다. 검색 역시 맞춤 데이터 활용이라 불편하다.\n\n이런 것을 해결해준 봇이었는데 종료한다고 하니 너무 아쉽다.\n\n#넷플릭스 #Netflix https://t.co/0Hsg99Uyzl"
+	},
+	{
+		"created_at": "Wed Jul 08 00:46:32 +0000 2020",
+		"id": 1280663691709411300,
+		"id_str": "1280664530175975432",
+		"full_text": "계정 비활성(계정 삭제)을 앞두고 아쉬운 작별 인사를 전합니다. 그동안 피곤하기도 했었지만 그런 피곤마저 즐겁고 행복한 시간이었습니다. 그럼 안녕히 계세요.\n\n*본 계정은 오늘 중 비공개로 전환,\n이번 주 중 계정 비활성 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account 비공식 수동봇* 본 계정의 운영을 중단합니다. 함께 했던 지난 시간 즐거웠습니다. 그동안 감사했습니다. 일정 시일 후 계정 비공개, 그 이후 계정 비활성(삭제) 예정입니다. 넷플릭스 문의는 고객센터나 공식 계정(@NetflixKR)을 이용해주세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74609,
+			"friends_count": 42,
+			"listed_count": 204,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 330,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "계정 비활성(계정 삭제)을 앞두고 아쉬운 작별 인사를 전합니다. 그동안 피곤하기도 했었지만 그런 피곤마저 즐겁고 행복한 시간이었습니다. 그럼 안녕히 계세요.\n\n*본 계정은 오늘 중 비공개로 전환,\n이번 주 중 계정 비활성 예정입니다."
+	},
+	{
+		"created_at": "Wed Jul 08 00:39:00 +0000 2020",
+		"id": 1280662635227185200,
+		"id_str": "1280662635227185152",
+		"full_text": "갈수록 공개엑세스 API는 제한될 것이고, 플랫폼 강세에 돌입하면서 자체 데이터 쌓기에 열을 올릴 것이라 생각함. 개인정보보호법 GDPR의 영향이나 앞으로 국내법도 개선되고 있는 추세이니 영향을 받을 수 밖에 없음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1280661376663384000,
+		"in_reply_to_status_id_str": "1280661376663384064",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "갈수록 공개엑세스 API는 제한될 것이고, 플랫폼 강세에 돌입하면서 자체 데이터 쌓기에 열을 올릴 것이라 생각함. 개인정보보호법 GDPR의 영향이나 앞으로 국내법도 개선되고 있는 추세이니 영향을 받을 수 밖에 없음."
+	},
+	{
+		"created_at": "Wed Jul 08 00:34:00 +0000 2020",
+		"id": 1280661376663384000,
+		"id_str": "1280661376663384064",
+		"full_text": "EO 투자 유치 기념 공개 라이브 보다 들은 흥미로운 이야기. 데이터블 대표 이종대님이 하신 말씀 중에\n\n소셜미디어 API가 제한되는 추세에 대한 언급. 해결할 수 있는 방법이 있는데 그것은 사용자가 직접 허용해주는 것이라고 서비스를 필요성을 느껴 사용자가 승인하게끔 유도한다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "EO 투자 유치 기념 공개 라이브 보다 들은 흥미로운 이야기. 데이터블 대표 이종대님이 하신 말씀 중에\n\n소셜미디어 API가 제한되는 추세에 대한 언급. 해결할 수 있는 방법이 있는데 그것은 사용자가 직접 허용해주는 것이라고 서비스를 필요성을 느껴 사용자가 승인하게끔 유도한다고."
+	},
+	{
+		"created_at": "Wed Jul 08 00:27:24 +0000 2020",
+		"id": 1280659715672797200,
+		"id_str": "1280659715672797184",
+		"full_text": "아이린 슬기 뮤직비디오 4K로 공개되었구나. 변화인가 일시적인건가 모르겠다만 좋다. 👍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아이린 슬기 뮤직비디오 4K로 공개되었구나. 변화인가 일시적인건가 모르겠다만 좋다. 👍"
+	},
+	{
+		"created_at": "Wed Jul 08 00:19:59 +0000 2020",
+		"id": 1280657105863630800,
+		"id_str": "1280657850189049856",
+		"full_text": "웨이브, 하반기 오리지널 총 공세…”시작은 아이린·슬기” https://t.co/wuZj5ohaAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wuZj5ohaAN",
+					"expanded_url": "http://www.bloter.net/archives/394517",
+					"display_url": "bloter.net/archives/394517",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55200,
+			"friends_count": 9,
+			"listed_count": 2389,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웨이브, 하반기 오리지널 총 공세…”시작은 아이린·슬기” https://t.co/wuZj5ohaAN"
+	},
+	{
+		"created_at": "Wed Jul 08 00:19:49 +0000 2020",
+		"id": 1280657809793642500,
+		"id_str": "1280657809793642498",
+		"full_text": "https://t.co/kF5h3vmmSW 과 https://t.co/sR1KMZxsN4 차이점\nhttps://t.co/l93TwpMOSw\n\n#보안메일 #프로톤메일 #Protonmail #email #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보안메일",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "프로톤메일",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "Protonmail",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"text": "email",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kF5h3vmmSW",
+					"expanded_url": "http://protonmail.com",
+					"display_url": "protonmail.com",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/sR1KMZxsN4",
+					"expanded_url": "http://protonmail.ch",
+					"display_url": "protonmail.ch",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/l93TwpMOSw",
+					"expanded_url": "https://protonmail.com/support/knowledge-base/what-is-the-difference-between-protonmail-com-and-protonmail-ch/",
+					"display_url": "protonmail.com/support/knowle…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/kF5h3vmmSW 과 https://t.co/sR1KMZxsN4 차이점\nhttps://t.co/l93TwpMOSw\n\n#보안메일 #프로톤메일 #Protonmail #email #minfav"
+	},
+	{
+		"created_at": "Wed Jul 08 00:14:45 +0000 2020",
+		"id": 1280437753117696000,
+		"id_str": "1280656533248815105",
+		"full_text": "성범죄자 신상공개 사이트 ‘디지털교도소’\nhttps://t.co/QAm3ou16ot\n손정우 등 신상이 공개되지 않은 성범죄자의 얼굴과 휴대전화 번호, 집주소 등 신상이 공개된 사이트 ‘디지털교도소’가 등장했다. \n운영자는 친척 중 한명이 텔레그램 성착취 피해자라는 사실을 알게 돼 운영에 공을 들였다고 한다. https://t.co/2Awowv5bfP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QAm3ou16ot",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=310&aid=0000079415",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280437601975939000,
+					"id_str": "1280437601975939072",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUHNwbUMAA8-f6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUHNwbUMAA8-f6.jpg",
+					"url": "https://t.co/2Awowv5bfP",
+					"display_url": "pic.twitter.com/2Awowv5bfP",
+					"expanded_url": "https://twitter.com/wnewskr/status/1280437753117696001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280437601975939000,
+					"id_str": "1280437601975939072",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUHNwbUMAA8-f6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUHNwbUMAA8-f6.jpg",
+					"url": "https://t.co/2Awowv5bfP",
+					"display_url": "pic.twitter.com/2Awowv5bfP",
+					"expanded_url": "https://twitter.com/wnewskr/status/1280437753117696001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195519,
+			"friends_count": 3541,
+			"listed_count": 286,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1608,
+		"favorite_count": 326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성범죄자 신상공개 사이트 ‘디지털교도소’\nhttps://t.co/QAm3ou16ot\n손정우 등 신상이 공개되지 않은 성범죄자의 얼굴과 휴대전화 번호, 집주소 등 신상이 공개된 사이트 ‘디지털교도소’가 등장했다. \n운영자는 친척 중 한명이 텔레그램 성착취 피해자라는 사실을 알게 돼 운영에 공을 들였다고 한다. https://t.co/2Awowv5bfP"
+	},
+	{
+		"created_at": "Wed Jul 08 00:14:25 +0000 2020",
+		"id": 1278556383302914000,
+		"id_str": "1280656450079961088",
+		"full_text": "성범죄자, 살인자, 아동학대자의 사진, 실명 심지어 연락처까지 공개한 사이트가 있습니다. 사이트 운영자는 어떤 생각으로 이걸 만들었을까 물어봤습니다.\nhttps://t.co/u8DRoG9alG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u8DRoG9alG",
+					"expanded_url": "https://bit.ly/2YOvSNQ",
+					"display_url": "bit.ly/2YOvSNQ",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242753955,
+			"id_str": "242753955",
+			"name": "미디어오늘",
+			"screen_name": "mediatodaynews",
+			"location": "KOREA",
+			"description": "언론을 감시합니다. 언론을 비평합니다. \n제보 news@mediatoday.co.kr \n구독문의 02-2644-9944",
+			"url": "http://t.co/gbxZl5MciK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gbxZl5MciK",
+							"expanded_url": "http://www.mediatoday.co.kr/",
+							"display_url": "mediatoday.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120977,
+			"friends_count": 34576,
+			"listed_count": 1170,
+			"created_at": "Tue Jan 25 14:32:02 +0000 2011",
+			"favourites_count": 288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/636213939211145217/158JLq-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/636213939211145217/158JLq-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242753955/1408609154",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 620,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성범죄자, 살인자, 아동학대자의 사진, 실명 심지어 연락처까지 공개한 사이트가 있습니다. 사이트 운영자는 어떤 생각으로 이걸 만들었을까 물어봤습니다.\nhttps://t.co/u8DRoG9alG"
+	},
+	{
+		"created_at": "Wed Jul 08 00:14:21 +0000 2020",
+		"id": 1280656432140963800,
+		"id_str": "1280656432140963841",
+		"full_text": "다음팟플레이어 전신인 카카오 플레이어는 애드블락 인식하면 영상 재생이 안 된다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다음팟플레이어 전신인 카카오 플레이어는 애드블락 인식하면 영상 재생이 안 된다."
+	},
+	{
+		"created_at": "Wed Jul 08 00:10:28 +0000 2020",
+		"id": 1280655456399052800,
+		"id_str": "1280655456399052801",
+		"full_text": "사이트 소개가 너무 무서운데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 936,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "사이트 소개가 너무 무서운데."
+	},
+	{
+		"created_at": "Wed Jul 08 00:10:05 +0000 2020",
+		"id": 1280365760716529700,
+		"id_str": "1280655358873137154",
+		"full_text": "법조계에서는 \"범죄자라 하더라도 신상 공개는 신중히 해야 한다\"는 지적이지만, 해당 사이트의 운영자는 \"처벌받을 각오가 돼 있다\"며 물러서지 않고 있습니다.  https://t.co/IXC9kW3oM8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IXC9kW3oM8",
+					"expanded_url": "https://mnews.joins.com/article/23819048",
+					"display_url": "mnews.joins.com/article/238190…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.joongang.co.kr\" rel=\"nofollow\">joongangilbo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213591116,
+			"id_str": "213591116",
+			"name": "중앙일보",
+			"screen_name": "joongangilbo",
+			"location": "Seoul",
+			"description": "JoongAng Group is Korea's only comprehensive content group. \n\nFacebook: https://t.co/hp9Jp32t74\nInstagram: https://t.co/od1lnLAYps",
+			"url": "http://t.co/tglh3q22E5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tglh3q22E5",
+							"expanded_url": "http://www.joongang.co.kr",
+							"display_url": "joongang.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hp9Jp32t74",
+							"expanded_url": "http://facebook.com/joongang",
+							"display_url": "facebook.com/joongang",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/od1lnLAYps",
+							"expanded_url": "http://instagram.com/joongangilbo",
+							"display_url": "instagram.com/joongangilbo",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 291240,
+			"friends_count": 42802,
+			"listed_count": 1572,
+			"created_at": "Tue Nov 09 09:18:31 +0000 2010",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 136626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FA9A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224631020395229189/ERSPAEti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224631020395229189/ERSPAEti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213591116/1553672899",
+			"profile_link_color": "88847F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7124,
+		"favorite_count": 1575,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "법조계에서는 \"범죄자라 하더라도 신상 공개는 신중히 해야 한다\"는 지적이지만, 해당 사이트의 운영자는 \"처벌받을 각오가 돼 있다\"며 물러서지 않고 있습니다.  https://t.co/IXC9kW3oM8"
+	},
+	{
 		"created_at": "Tue Jul 07 23:27:56 +0000 2020",
 		"id": 1280634942230155300,
 		"id_str": "1280644752925429760",
