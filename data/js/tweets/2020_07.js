@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 04:10:22 +0000 2020",
+		"id": 1280715273901707300,
+		"id_str": "1280715827591868418",
+		"full_text": "반면 국내에서는 제작사에서 수요파악을 위해 예약을 받는 경우가 늘어나고 있는데, 발매 10주년을 맞이해 바이닐로 발매되는 “가을방학”은 9월 출시를 앞두고 선주문을 받고 있습니다. \n\n오랜만에 나오는 #위댄스 의 신작은 16일 발매를 앞두고 예약을 시작했습니다. https://t.co/8xZk03kptr https://t.co/TCytRr5vnz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "위댄스",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8xZk03kptr",
+					"expanded_url": "http://gimbabrecords.com",
+					"display_url": "gimbabrecords.com",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280715259016147000,
+					"id_str": "1280715259016146944",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EcYDvhgUcAAkK0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcYDvhgUcAAkK0x.jpg",
+					"url": "https://t.co/TCytRr5vnz",
+					"display_url": "pic.twitter.com/TCytRr5vnz",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1280715273901707264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280715259016147000,
+					"id_str": "1280715259016146944",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EcYDvhgUcAAkK0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcYDvhgUcAAkK0x.jpg",
+					"url": "https://t.co/TCytRr5vnz",
+					"display_url": "pic.twitter.com/TCytRr5vnz",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1280715273901707264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280715259020316700,
+					"id_str": "1280715259020316672",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EcYDvhhUEAA0zXZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcYDvhhUEAA0zXZ.jpg",
+					"url": "https://t.co/TCytRr5vnz",
+					"display_url": "pic.twitter.com/TCytRr5vnz",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1280715273901707264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1084,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280714622639603700,
+		"in_reply_to_status_id_str": "1280714622639603712",
+		"in_reply_to_user_id": 620758826,
+		"in_reply_to_user_id_str": "620758826",
+		"in_reply_to_screen_name": "gimbabrecords",
+		"user": {
+			"id": 620758826,
+			"id_str": "620758826",
+			"name": "gimbabrecords",
+			"screen_name": "gimbabrecords",
+			"location": "동교동 155-36",
+			"description": "우량앨범과 공연을 소개하는 레이블+매장. 2012년 여름에 시작해 글렌 한사드,미드나잇 인 파리OST,로드리게즈,갱스부르 등이 나왔고 모든 장르의 음악을 좋아합니다. 베이룻,제인 버킨,세인트빈센트,맥드마르코 등 공연도 합니다. 레이블 상징 고양이 김밥이는 특히 엘피를 선호해요.",
+			"url": "https://t.co/uO6TLbEZpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uO6TLbEZpX",
+							"expanded_url": "http://www.gimbabrecords.com",
+							"display_url": "gimbabrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10559,
+			"friends_count": 502,
+			"listed_count": 88,
+			"created_at": "Thu Jun 28 07:45:45 +0000 2012",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "반면 국내에서는 제작사에서 수요파악을 위해 예약을 받는 경우가 늘어나고 있는데, 발매 10주년을 맞이해 바이닐로 발매되는 “가을방학”은 9월 출시를 앞두고 선주문을 받고 있습니다. \n\n오랜만에 나오는 #위댄스 의 신작은 16일 발매를 앞두고 예약을 시작했습니다. https://t.co/8xZk03kptr https://t.co/TCytRr5vnz"
+	},
+	{
+		"created_at": "Wed Jul 08 04:10:14 +0000 2020",
+		"id": 1280714622639603700,
+		"id_str": "1280715792896704513",
+		"full_text": "여러 사람이 모여 작업을 해야 하는 바이닐 공장들은 코로나19 이후 정상가동이 어려워졌습니다. \n그래서 발매 연기가 잦고, 역시 사람의 손을 거쳐야 하는 창고/ 배송 업무도 지연이 많아서 해외 발매 앨범들은 예약판매를 거의 하지 않거나 최소화하고 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 620758826,
+			"id_str": "620758826",
+			"name": "gimbabrecords",
+			"screen_name": "gimbabrecords",
+			"location": "동교동 155-36",
+			"description": "우량앨범과 공연을 소개하는 레이블+매장. 2012년 여름에 시작해 글렌 한사드,미드나잇 인 파리OST,로드리게즈,갱스부르 등이 나왔고 모든 장르의 음악을 좋아합니다. 베이룻,제인 버킨,세인트빈센트,맥드마르코 등 공연도 합니다. 레이블 상징 고양이 김밥이는 특히 엘피를 선호해요.",
+			"url": "https://t.co/uO6TLbEZpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uO6TLbEZpX",
+							"expanded_url": "http://www.gimbabrecords.com",
+							"display_url": "gimbabrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10559,
+			"friends_count": 502,
+			"listed_count": 88,
+			"created_at": "Thu Jun 28 07:45:45 +0000 2012",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러 사람이 모여 작업을 해야 하는 바이닐 공장들은 코로나19 이후 정상가동이 어려워졌습니다. \n그래서 발매 연기가 잦고, 역시 사람의 손을 거쳐야 하는 창고/ 배송 업무도 지연이 많아서 해외 발매 앨범들은 예약판매를 거의 하지 않거나 최소화하고 있습니다."
+	},
+	{
+		"created_at": "Wed Jul 08 04:07:45 +0000 2020",
+		"id": 1280715170902204400,
+		"id_str": "1280715170902204417",
+		"full_text": "한국은 생산성 앱에 관심이 많은데 그 관심이 조금만 있으면 전문가처럼 취급해주는 것 같다... 마치 소셜미디어 전문가랑 크게 다를 것이 없는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "한국은 생산성 앱에 관심이 많은데 그 관심이 조금만 있으면 전문가처럼 취급해주는 것 같다... 마치 소셜미디어 전문가랑 크게 다를 것이 없는."
+	},
+	{
+		"created_at": "Wed Jul 08 04:06:38 +0000 2020",
+		"id": 1280714889174999000,
+		"id_str": "1280714889174999041",
+		"full_text": "다음 건의는 DB에 관련된 것으로 정리해서 할 예정이고 이것이 해결되면 간단한 수치정리는 노션으로 해서 공유해도 괜찮지 않을까 생각함. 지금은 api도 공개되어 있지 않고 자동화도 어려워서 같이 쓰긴 어려움.\n\n#Notion #노션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notion",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "노션",
+					"indices": [
+						126,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1280714887568605200,
+		"in_reply_to_status_id_str": "1280714887568605187",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다음 건의는 DB에 관련된 것으로 정리해서 할 예정이고 이것이 해결되면 간단한 수치정리는 노션으로 해서 공유해도 괜찮지 않을까 생각함. 지금은 api도 공개되어 있지 않고 자동화도 어려워서 같이 쓰긴 어려움.\n\n#Notion #노션"
+	},
+	{
 		"created_at": "Wed Jul 08 03:59:26 +0000 2020",
 		"id": 1280713077109842000,
 		"id_str": "1280713077109841920",
