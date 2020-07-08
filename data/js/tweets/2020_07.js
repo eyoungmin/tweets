@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 15:25:11 +0000 2020",
+		"id": 1280879383540928500,
+		"id_str": "1280885650468765699",
+		"full_text": "Happy Orbitday💫\n⠀\n두 번째 계절에 다가온 #이달의소녀 의 단 하나뿐인 오빛의 두 번째 생일🎂\n365일 뜨거운 마음으로 사랑을 주는 오빛을 위해 준비한 특별한 이벤트를 확인해 보세요! \n\n▶️ https://t.co/XKuLryfjHE\n⠀\n#LOONA https://t.co/pG2UH2UehP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						141,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XKuLryfjHE",
+					"expanded_url": "http://cafe.daum.net/loonatheworld",
+					"display_url": "cafe.daum.net/loonatheworld",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280879361810288600,
+					"id_str": "1280879361810288640",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EcaY_kDU0AAIdh-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcaY_kDU0AAIdh-.jpg",
+					"url": "https://t.co/pG2UH2UehP",
+					"display_url": "pic.twitter.com/pG2UH2UehP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1280879383540928512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280879361810288600,
+					"id_str": "1280879361810288640",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EcaY_kDU0AAIdh-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcaY_kDU0AAIdh-.jpg",
+					"url": "https://t.co/pG2UH2UehP",
+					"display_url": "pic.twitter.com/pG2UH2UehP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1280879383540928512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280879361814495200,
+					"id_str": "1280879361814495233",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EcaY_kEVAAEhEyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcaY_kEVAAEhEyK.jpg",
+					"url": "https://t.co/pG2UH2UehP",
+					"display_url": "pic.twitter.com/pG2UH2UehP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1280879383540928512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280879361806090200,
+					"id_str": "1280879361806090240",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EcaY_kCUwAAckKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcaY_kCUwAAckKZ.jpg",
+					"url": "https://t.co/pG2UH2UehP",
+					"display_url": "pic.twitter.com/pG2UH2UehP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1280879383540928512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496372,
+			"friends_count": 0,
+			"listed_count": 5101,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6754,
+		"favorite_count": 16731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Happy Orbitday💫\n⠀\n두 번째 계절에 다가온 #이달의소녀 의 단 하나뿐인 오빛의 두 번째 생일🎂\n365일 뜨거운 마음으로 사랑을 주는 오빛을 위해 준비한 특별한 이벤트를 확인해 보세요! \n\n▶️ https://t.co/XKuLryfjHE\n⠀\n#LOONA https://t.co/pG2UH2UehP"
+	},
+	{
 		"created_at": "Wed Jul 08 12:59:34 +0000 2020",
 		"id": 1280849005266694100,
 		"id_str": "1280849005266694145",
