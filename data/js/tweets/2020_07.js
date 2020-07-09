@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 13:25:11 +0000 2020",
+		"id": 1281211776332226600,
+		"id_str": "1281217838414548992",
+		"full_text": "A loving message from Red Velvet’s IRENE &amp; SEULGI has arrived. \nWhat kind of surprise did they prepare? TUNE IN! \n\n⏰ July 10, 10AM KST \n🔗 https://t.co/9BH0qHqGuB\n\n@RVsmtown\n#hello82 #REDVELVETxhello82 #82minutes #REDVELVET #hello82minutes #IRENE #SEULGI #RedVelvet_IRENE_SEULGI https://t.co/sYLO2gzsOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hello82",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "REDVELVETxhello82",
+					"indices": [
+						186,
+						204
+					]
+				},
+				{
+					"text": "82minutes",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						216,
+						226
+					]
+				},
+				{
+					"text": "hello82minutes",
+					"indices": [
+						227,
+						242
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						243,
+						249
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						250,
+						257
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						167,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9BH0qHqGuB",
+					"expanded_url": "https://youtu.be/5Iritr2IqfA",
+					"display_url": "youtu.be/5Iritr2IqfA",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281211719914713000,
+					"id_str": "1281211719914713089",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281211719914713089/pu/img/iCyI0OPi9-KbJH-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281211719914713089/pu/img/iCyI0OPi9-KbJH-v.jpg",
+					"url": "https://t.co/sYLO2gzsOv",
+					"display_url": "pic.twitter.com/sYLO2gzsOv",
+					"expanded_url": "https://twitter.com/hello82official/status/1281211776332226560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281211719914713000,
+					"id_str": "1281211719914713089",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281211719914713089/pu/img/iCyI0OPi9-KbJH-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281211719914713089/pu/img/iCyI0OPi9-KbJH-v.jpg",
+					"url": "https://t.co/sYLO2gzsOv",
+					"display_url": "pic.twitter.com/sYLO2gzsOv",
+					"expanded_url": "https://twitter.com/hello82official/status/1281211776332226560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 13248,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281211719914713089/pu/vid/320x400/1C8zAFmc1v2vSriK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1281211719914713089/pu/pl/1B1PJPc6z11GKQNN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281211719914713089/pu/vid/360x450/36lb7asSSJ6MTmGt.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281211719914713089/pu/vid/720x900/8czCPD--XpKWJPxT.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "",
+			"description": "Exclusive K-pop channel 🎥 Follow us to get THE fastest update on our content! Family: @hola82oficial @oi82oficial @ahlan82official @halo82official",
+			"url": "https://t.co/M0wpWRxbG4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M0wpWRxbG4",
+							"expanded_url": "https://www.youtube.com/channel/UC1HHeTLXHMM5FiEyQpS1toA/featured",
+							"display_url": "youtube.com/channel/UC1HHe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33747,
+			"friends_count": 4,
+			"listed_count": 36,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176387750141911042/qfnjHGfH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176387750141911042/qfnjHGfH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1569307672",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4684,
+		"favorite_count": 11419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A loving message from Red Velvet’s IRENE &amp; SEULGI has arrived. \nWhat kind of surprise did they prepare? TUNE IN! \n\n⏰ July 10, 10AM KST \n🔗 https://t.co/9BH0qHqGuB\n\n@RVsmtown\n#hello82 #REDVELVETxhello82 #82minutes #REDVELVET #hello82minutes #IRENE #SEULGI #RedVelvet_IRENE_SEULGI https://t.co/sYLO2gzsOv"
+	},
+	{
 		"created_at": "Thu Jul 09 12:48:51 +0000 2020",
 		"id": 1281208695678881800,
 		"id_str": "1281208695678881792",
