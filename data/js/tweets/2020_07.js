@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 14:25:19 +0000 2020",
+		"id": 1281224187445743600,
+		"id_str": "1281232972973330432",
+		"full_text": "200709 #MCOUNTDOWN 현장포토\n봄 청하 가을 겨울. 한 여름 뜨거운 태양같은 강렬한 청하의 계절이 왔다. 인간 수명 100세 시대 갓청하 진짜 세상 최고 우주 슈퍼 울트라 제일 예쁜 우리 황제님 아이고 숨차라 청하 매력 다 알기엔 100세 시대도 너무 짧아 억울하다!!!! #청하 #CHUNGHA #PLAY https://t.co/x4XdWxkGyA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281224167594090500,
+					"id_str": "1281224167594090498",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EcfSl5sXYAI9iuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcfSl5sXYAI9iuO.jpg",
+					"url": "https://t.co/x4XdWxkGyA",
+					"display_url": "pic.twitter.com/x4XdWxkGyA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1281224187445743617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281224167594090500,
+					"id_str": "1281224167594090498",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EcfSl5sXYAI9iuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcfSl5sXYAI9iuO.jpg",
+					"url": "https://t.co/x4XdWxkGyA",
+					"display_url": "pic.twitter.com/x4XdWxkGyA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1281224187445743617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281224167640219600,
+					"id_str": "1281224167640219656",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EcfSl53XQAg3AlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcfSl53XQAg3AlB.jpg",
+					"url": "https://t.co/x4XdWxkGyA",
+					"display_url": "pic.twitter.com/x4XdWxkGyA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1281224187445743617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281224167694766000,
+					"id_str": "1281224167694766080",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EcfSl6EXkAAY1WS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcfSl6EXkAAY1WS.jpg",
+					"url": "https://t.co/x4XdWxkGyA",
+					"display_url": "pic.twitter.com/x4XdWxkGyA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1281224187445743617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281224167619129300,
+					"id_str": "1281224167619129344",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EcfSl5yVcAAkOtj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcfSl5yVcAAkOtj.jpg",
+					"url": "https://t.co/x4XdWxkGyA",
+					"display_url": "pic.twitter.com/x4XdWxkGyA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1281224187445743617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4037668,
+			"friends_count": 3,
+			"listed_count": 4433,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 737,
+		"favorite_count": 2520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200709 #MCOUNTDOWN 현장포토\n봄 청하 가을 겨울. 한 여름 뜨거운 태양같은 강렬한 청하의 계절이 왔다. 인간 수명 100세 시대 갓청하 진짜 세상 최고 우주 슈퍼 울트라 제일 예쁜 우리 황제님 아이고 숨차라 청하 매력 다 알기엔 100세 시대도 너무 짧아 억울하다!!!! #청하 #CHUNGHA #PLAY https://t.co/x4XdWxkGyA"
+	},
+	{
 		"created_at": "Thu Jul 09 13:25:11 +0000 2020",
 		"id": 1281211776332226600,
 		"id_str": "1281217838414548992",
