@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 16:46:09 +0000 2020",
+		"id": 1280966608933003300,
+		"id_str": "1281268416070877184",
+		"full_text": "These Are All Cakes https://t.co/ejArkJHaid",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280966298726473700,
+					"id_str": "1280966298726473729",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EcboD2MXYAc6UPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcboD2MXYAc6UPm.jpg",
+					"url": "https://t.co/ejArkJHaid",
+					"display_url": "pic.twitter.com/ejArkJHaid",
+					"expanded_url": "https://twitter.com/tasty/status/1280966608933003264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280966298726473700,
+					"id_str": "1280966298726473729",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EcboD2MXYAc6UPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcboD2MXYAc6UPm.jpg",
+					"url": "https://t.co/ejArkJHaid",
+					"display_url": "pic.twitter.com/ejArkJHaid",
+					"expanded_url": "https://twitter.com/tasty/status/1280966608933003264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 235986,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280966298726473729/vid/480x480/uYFmm9tBUAMVurEs.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280966298726473729/vid/720x720/xgBKgPGh2O0aRMCl.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280966298726473729/vid/320x320/S8u_0gnn1L9YQLPm.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1280966298726473729/pl/R-lOcsP1NXh2d-iW.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pubhub.buzzfeed.com\" rel=\"nofollow\">PubHub by BuzzFeed</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4020532937,
+			"id_str": "4020532937",
+			"name": "Tasty",
+			"screen_name": "tasty",
+			"location": "",
+			"description": "Be proud, be loud, be flavorful. 🌈 Our newest cookbook is a celebration of love and food 👇",
+			"url": "https://t.co/DfroXy7sdS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DfroXy7sdS",
+							"expanded_url": "http://bzfd.it/TastyPride",
+							"display_url": "bzfd.it/TastyPride",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1270536,
+			"friends_count": 163,
+			"listed_count": 3765,
+			"created_at": "Fri Oct 23 00:29:41 +0000 2015",
+			"favourites_count": 2693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093997423968612353/2g4hxKQE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093997423968612353/2g4hxKQE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4020532937/1589297545",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29635,
+		"favorite_count": 74392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These Are All Cakes https://t.co/ejArkJHaid"
+	},
+	{
+		"created_at": "Thu Jul 09 16:37:50 +0000 2020",
+		"id": 1281261778790318000,
+		"id_str": "1281266319581573120",
+		"full_text": "박원순 '성추행 의혹' 고소 사건 수사종결…공소권 없음\nhttps://t.co/uwbxibtbLo\n\n전직 서울시청 직원으로부터 성추행 혐의로 고소당한 박원순 서울시장이 10일 숨진 채로 발견됨에 따라 관련 경찰 수사도 종결됩니다 https://t.co/4GTg45vsyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uwbxibtbLo",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200710001400004?input=tw",
+					"display_url": "yna.co.kr/view/AKR202007…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281261709773004800,
+					"id_str": "1281261709773004800",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecf0vJNUYAAYp3h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecf0vJNUYAAYp3h.jpg",
+					"url": "https://t.co/4GTg45vsyP",
+					"display_url": "pic.twitter.com/4GTg45vsyP",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1281261778790318080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1176,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281261709773004800,
+					"id_str": "1281261709773004800",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecf0vJNUYAAYp3h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecf0vJNUYAAYp3h.jpg",
+					"url": "https://t.co/4GTg45vsyP",
+					"display_url": "pic.twitter.com/4GTg45vsyP",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1281261778790318080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1176,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314069,
+			"friends_count": 70336,
+			"listed_count": 4490,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 216491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4108,
+		"favorite_count": 191,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박원순 '성추행 의혹' 고소 사건 수사종결…공소권 없음\nhttps://t.co/uwbxibtbLo\n\n전직 서울시청 직원으로부터 성추행 혐의로 고소당한 박원순 서울시장이 10일 숨진 채로 발견됨에 따라 관련 경찰 수사도 종결됩니다 https://t.co/4GTg45vsyP"
+	},
+	{
+		"created_at": "Thu Jul 09 16:34:51 +0000 2020",
+		"id": 1281265569304424400,
+		"id_str": "1281265569304424448",
+		"full_text": "@seoulrain 아니에요~ 누군가는 필요할 수도 있죠!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoulrain",
+					"name": "서울비",
+					"id": 14941102,
+					"id_str": "14941102",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1281183700617531400,
+		"in_reply_to_status_id_str": "1281183700617531393",
+		"in_reply_to_user_id": 14941102,
+		"in_reply_to_user_id_str": "14941102",
+		"in_reply_to_screen_name": "seoulrain",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@seoulrain 아니에요~ 누군가는 필요할 수도 있죠!"
+	},
+	{
+		"created_at": "Thu Jul 09 16:34:18 +0000 2020",
+		"id": 1280991985956880400,
+		"id_str": "1281265430879854592",
+		"full_text": "수다 떨며 쇼핑, 게임… 10대들이 열광하는 디지털 놀이터 https://t.co/YsP8VBosF2 러블리마켓, 웨이브, 뮤즈라이브 등 요즘 10대들에게 인기있는 스타트업 서비스를 소개한 기사. 웨이브는 영상 통화 기반의 놀이앱. https://t.co/wglyJbSQvN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YsP8VBosF2",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003545149",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280991968286216200,
+					"id_str": "1280991968286216192",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecb_aH3UEAAkx3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecb_aH3UEAAkx3I.jpg",
+					"url": "https://t.co/wglyJbSQvN",
+					"display_url": "pic.twitter.com/wglyJbSQvN",
+					"expanded_url": "https://twitter.com/estima7/status/1280991985956880384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 737,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 737,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280991968286216200,
+					"id_str": "1280991968286216192",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecb_aH3UEAAkx3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecb_aH3UEAAkx3I.jpg",
+					"url": "https://t.co/wglyJbSQvN",
+					"display_url": "pic.twitter.com/wglyJbSQvN",
+					"expanded_url": "https://twitter.com/estima7/status/1280991985956880384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 737,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 737,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280991969380974600,
+					"id_str": "1280991969380974592",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecb_aL8UwAA4wTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecb_aL8UwAA4wTA.jpg",
+					"url": "https://t.co/wglyJbSQvN",
+					"display_url": "pic.twitter.com/wglyJbSQvN",
+					"expanded_url": "https://twitter.com/estima7/status/1280991985956880384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369934,
+			"friends_count": 2278,
+			"listed_count": 4506,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수다 떨며 쇼핑, 게임… 10대들이 열광하는 디지털 놀이터 https://t.co/YsP8VBosF2 러블리마켓, 웨이브, 뮤즈라이브 등 요즘 10대들에게 인기있는 스타트업 서비스를 소개한 기사. 웨이브는 영상 통화 기반의 놀이앱. https://t.co/wglyJbSQvN"
+	},
+	{
 		"created_at": "Thu Jul 09 16:01:45 +0000 2020",
 		"id": 1281201768127488000,
 		"id_str": "1281257242113671168",
