@@ -1,6 +1,1212 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 11:25:55 +0000 2020",
+		"id": 1281185739246456800,
+		"id_str": "1281187823152922624",
+		"full_text": "200709 #엠카운트다운\n\n▪️ 미니 팬미팅\n🔗 https://t.co/nygYGreZZx\n\n▪️ #PLAY\n🔗 https://t.co/mNAK7m4CZe\n\n▪️ PLAY #직캠\n▶️ https://t.co/p3yCNpY7gv\n▶️ https://t.co/5DmptUjXZX\n\n#청하 #CHUNGHA #엠카\n@MnetMcountdown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "직캠",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "엠카",
+					"indices": [
+						169,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetMcountdown",
+					"name": "M COUNTDOWN",
+					"id": 128479879,
+					"id_str": "128479879",
+					"indices": [
+						173,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nygYGreZZx",
+					"expanded_url": "https://bit.ly/3gLzJBr",
+					"display_url": "bit.ly/3gLzJBr",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/mNAK7m4CZe",
+					"expanded_url": "https://bit.ly/3gLn2X1",
+					"display_url": "bit.ly/3gLn2X1",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/p3yCNpY7gv",
+					"expanded_url": "https://bit.ly/3ek8mNi",
+					"display_url": "bit.ly/3ek8mNi",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/5DmptUjXZX",
+					"expanded_url": "https://bit.ly/2ZRbU4i",
+					"display_url": "bit.ly/2ZRbU4i",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281852,
+			"friends_count": 0,
+			"listed_count": 1670,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 978,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200709 #엠카운트다운\n\n▪️ 미니 팬미팅\n🔗 https://t.co/nygYGreZZx\n\n▪️ #PLAY\n🔗 https://t.co/mNAK7m4CZe\n\n▪️ PLAY #직캠\n▶️ https://t.co/p3yCNpY7gv\n▶️ https://t.co/5DmptUjXZX\n\n#청하 #CHUNGHA #엠카\n@MnetMcountdown"
+	},
+	{
+		"created_at": "Thu Jul 09 11:25:47 +0000 2020",
+		"id": 1281181926317912000,
+		"id_str": "1281187792689729536",
+		"full_text": "Red Velvet -IRENE &amp; SEULGI THE STAGE\n\n👉https://t.co/mFQ23PRKp1\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						146,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mFQ23PRKp1",
+					"expanded_url": "https://youtu.be/t0ZgeCstEm8",
+					"display_url": "youtu.be/t0ZgeCstEm8",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2845240,
+			"friends_count": 2,
+			"listed_count": 6118,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4827,
+		"favorite_count": 10281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "Red Velvet -IRENE &amp; SEULGI THE STAGE\n\n👉https://t.co/mFQ23PRKp1\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster"
+	},
+	{
+		"created_at": "Thu Jul 09 11:25:45 +0000 2020",
+		"id": 1281181540395802600,
+		"id_str": "1281187783839809542",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 'Monster' (Top Note &amp; Middle Note Ver.) @ IRENE &amp; SEULGI THE STAGE\n\n👉https://t.co/pkozNeK7JP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pkozNeK7JP",
+					"expanded_url": "https://youtu.be/dVZClz1340M",
+					"display_url": "youtu.be/dVZClz1340M",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2845240,
+			"friends_count": 2,
+			"listed_count": 6118,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5053,
+		"favorite_count": 10404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Red Velvet - IRENE &amp; SEULGI 'Monster' (Top Note &amp; Middle Note Ver.) @ IRENE &amp; SEULGI THE STAGE\n\n👉https://t.co/pkozNeK7JP\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster"
+	},
+	{
+		"created_at": "Thu Jul 09 11:25:40 +0000 2020",
+		"id": 1281176495268847600,
+		"id_str": "1281187762373308416",
+		"full_text": "이 여름을 핫하게 할 써머퀸 👑청하의 MPD직캠👑 지금 바로 PLAY ▶ 하세요 #청하 #PLAY #CHUNGHA @CHUNGHA_MNHent #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/yGzcI2dvr5\nVertical Ver. ▶ https://t.co/VPpiwFQ9HU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"text": "MPD직캠",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						64,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yGzcI2dvr5",
+					"expanded_url": "https://youtu.be/HykUaCTh7_w",
+					"display_url": "youtu.be/HykUaCTh7_w",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/VPpiwFQ9HU",
+					"expanded_url": "https://youtu.be/dnCJYjNbLy4",
+					"display_url": "youtu.be/dnCJYjNbLy4",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1043838,
+			"friends_count": 347,
+			"listed_count": 1153,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 272,
+		"favorite_count": 784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 여름을 핫하게 할 써머퀸 👑청하의 MPD직캠👑 지금 바로 PLAY ▶ 하세요 #청하 #PLAY #CHUNGHA @CHUNGHA_MNHent #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/yGzcI2dvr5\nVertical Ver. ▶ https://t.co/VPpiwFQ9HU"
+	},
+	{
+		"created_at": "Thu Jul 09 11:25:32 +0000 2020",
+		"id": 1281175005854752800,
+		"id_str": "1281187728302968834",
+		"full_text": "[#MCOUNTDOWN On-Air] @CHUNGHA_MNHent\n\n#CHUNGHA #PLAY \n\nWatch Now ▶ https://t.co/8nDdKxkTdP https://t.co/iyQzFEiKiw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						21,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8nDdKxkTdP",
+					"expanded_url": "http://bit.ly/MCD_onair",
+					"display_url": "bit.ly/MCD_onair",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281174915115188200,
+					"id_str": "1281174915115188224",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281174915115188224/pu/img/oCEc9_6jm8jWL0dm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281174915115188224/pu/img/oCEc9_6jm8jWL0dm.jpg",
+					"url": "https://t.co/iyQzFEiKiw",
+					"display_url": "pic.twitter.com/iyQzFEiKiw",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1281175005854752768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281174915115188200,
+					"id_str": "1281174915115188224",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281174915115188224/pu/img/oCEc9_6jm8jWL0dm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281174915115188224/pu/img/oCEc9_6jm8jWL0dm.jpg",
+					"url": "https://t.co/iyQzFEiKiw",
+					"display_url": "pic.twitter.com/iyQzFEiKiw",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1281175005854752768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30688,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281174915115188224/pu/vid/640x360/PpQidUpesnekoV6x.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1281174915115188224/pu/pl/0L0AJbtH7OkDpSBT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281174915115188224/pu/vid/480x270/dVaAPyzjPTodE9ch.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281174915115188224/pu/vid/1280x720/fD04Q7g3zSwHy6wW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1701949,
+			"friends_count": 417,
+			"listed_count": 1657,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1559616428",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 1166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MCOUNTDOWN On-Air] @CHUNGHA_MNHent\n\n#CHUNGHA #PLAY \n\nWatch Now ▶ https://t.co/8nDdKxkTdP https://t.co/iyQzFEiKiw"
+	},
+	{
+		"created_at": "Thu Jul 09 11:25:28 +0000 2020",
+		"id": 1281139977854697500,
+		"id_str": "1281187711014047744",
+		"full_text": "[Ready for #MCOUNTDOWN] #CHUNGHA\n\n@CHUNGHA_MNHent wishes you enjoy M COUNTDOWN #ONAIR on #Mwave❤\n▶Watch Live on https://t.co/8nDdKxkTdP (THU, 6PM KST)\n\n#청하 #PLAY https://t.co/W7MhNqDxwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "ONAIR",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "Mwave",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						156,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						34,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8nDdKxkTdP",
+					"expanded_url": "http://bit.ly/MCD_onair",
+					"display_url": "bit.ly/MCD_onair",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281139922401759200,
+					"id_str": "1281139922401759233",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281139922401759233/pu/img/e0uhqSAnGhQErU8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281139922401759233/pu/img/e0uhqSAnGhQErU8v.jpg",
+					"url": "https://t.co/W7MhNqDxwC",
+					"display_url": "pic.twitter.com/W7MhNqDxwC",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1281139977854697472/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281139922401759200,
+					"id_str": "1281139922401759233",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281139922401759233/pu/img/e0uhqSAnGhQErU8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281139922401759233/pu/img/e0uhqSAnGhQErU8v.jpg",
+					"url": "https://t.co/W7MhNqDxwC",
+					"display_url": "pic.twitter.com/W7MhNqDxwC",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1281139977854697472/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18208,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1281139922401759233/pu/pl/vf-J1nGKp5sKgTDU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281139922401759233/pu/vid/480x270/csNbYF42w_00T7jn.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281139922401759233/pu/vid/1280x720/rK8LBRJo-F3ykKhv.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281139922401759233/pu/vid/640x360/wIm3d4csVXwe8Ei-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1701949,
+			"friends_count": 417,
+			"listed_count": 1657,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1559616428",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 328,
+		"favorite_count": 1241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Ready for #MCOUNTDOWN] #CHUNGHA\n\n@CHUNGHA_MNHent wishes you enjoy M COUNTDOWN #ONAIR on #Mwave❤\n▶Watch Live on https://t.co/8nDdKxkTdP (THU, 6PM KST)\n\n#청하 #PLAY https://t.co/W7MhNqDxwC"
+	},
+	{
 		"created_at": "Thu Jul 09 10:42:18 +0000 2020",
 		"id": 1281176850748764200,
 		"id_str": "1281176850748764165",
