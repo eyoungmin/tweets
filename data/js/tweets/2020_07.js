@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 06:27:57 +0000 2020",
+		"id": 1281107948723290000,
+		"id_str": "1281112838573035520",
+		"full_text": "[#SMTrue_PreOrder]\n\n😈 มินิอัลบั้มชุดแรก #Monster (Base Note Ver.) ของ Red Velvet - #IRENE &amp; #SEULGI\n\n• ราคา 540฿ (รับโปส) | 480฿ (ไม่รับโปส)\n\n• สั่งได้ตอนนี้ ~ 12 ก.ค. 63 เวลา 23.59 น. ทาง https://t.co/WCIqokSdtm\n\n• ได้รับสินค้าไม่เกิน 30 ก.ค. 63\n\n[🖤 https://t.co/8xceUmO9me] https://t.co/v7Om8isqfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTrue_PreOrder",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WCIqokSdtm",
+					"expanded_url": "http://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"url": "https://t.co/8xceUmO9me",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/3144763715571555",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281106891024633900,
+					"id_str": "1281106891024633856",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecdn7gbUEAAX6jq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecdn7gbUEAAX6jq.jpg",
+					"url": "https://t.co/v7Om8isqfp",
+					"display_url": "pic.twitter.com/v7Om8isqfp",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1281107948723290112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281106891024633900,
+					"id_str": "1281106891024633856",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecdn7gbUEAAX6jq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecdn7gbUEAAX6jq.jpg",
+					"url": "https://t.co/v7Om8isqfp",
+					"display_url": "pic.twitter.com/v7Om8isqfp",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1281107948723290112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80561,
+			"friends_count": 46,
+			"listed_count": 125,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "[#SMTrue_PreOrder]\n\n😈 มินิอัลบั้มชุดแรก #Monster (Base Note Ver.) ของ Red Velvet - #IRENE &amp; #SEULGI\n\n• ราคา 540฿ (รับโปส) | 480฿ (ไม่รับโปส)\n\n• สั่งได้ตอนนี้ ~ 12 ก.ค. 63 เวลา 23.59 น. ทาง https://t.co/WCIqokSdtm\n\n• ได้รับสินค้าไม่เกิน 30 ก.ค. 63\n\n[🖤 https://t.co/8xceUmO9me] https://t.co/v7Om8isqfp"
+	},
+	{
 		"created_at": "Thu Jul 09 04:45:37 +0000 2020",
 		"id": 1281083685236732000,
 		"id_str": "1281087085663916032",
