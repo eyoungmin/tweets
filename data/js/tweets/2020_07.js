@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 01:25:11 +0000 2020",
+		"id": 1281392742782824400,
+		"id_str": "1281399033622396928",
+		"full_text": "Red Velvet's IRENE &amp; SEULGI showed up during a fan's dance cover!\n \nWATCH THE FULL VIDEO! \n🔗 https://t.co/9BH0qHqGuB\n\n@RVsmtown\n#hello82 #RedVelvetxhello82 #82minutes #RedVelvet #hello82minutes #IRENE #SEULGI #레드벨벳 #아이린 #슬기 #RedVelvet_IRENE_SEULGI https://t.co/Ugv1UdMG28",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hello82",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "RedVelvetxhello82",
+					"indices": [
+						141,
+						159
+					]
+				},
+				{
+					"text": "82minutes",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "hello82minutes",
+					"indices": [
+						182,
+						197
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						205,
+						212
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						219,
+						223
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						224,
+						227
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9BH0qHqGuB",
+					"expanded_url": "https://youtu.be/5Iritr2IqfA",
+					"display_url": "youtu.be/5Iritr2IqfA",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281391754625773600,
+					"id_str": "1281391754625773569",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281391754625773569/pu/img/3j6k_EwXGppdg-VX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281391754625773569/pu/img/3j6k_EwXGppdg-VX.jpg",
+					"url": "https://t.co/Ugv1UdMG28",
+					"display_url": "pic.twitter.com/Ugv1UdMG28",
+					"expanded_url": "https://twitter.com/hello82official/status/1281392742782824449/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281391754625773600,
+					"id_str": "1281391754625773569",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281391754625773569/pu/img/3j6k_EwXGppdg-VX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281391754625773569/pu/img/3j6k_EwXGppdg-VX.jpg",
+					"url": "https://t.co/Ugv1UdMG28",
+					"display_url": "pic.twitter.com/Ugv1UdMG28",
+					"expanded_url": "https://twitter.com/hello82official/status/1281392742782824449/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38572,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281391754625773569/pu/vid/640x360/oBSWjWiI-IFJPXN4.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281391754625773569/pu/vid/480x270/7pJ12cJgNS4vYCcN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1281391754625773569/pu/pl/EVGZFowQ0sCjJdX2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281391754625773569/pu/vid/1280x720/H5q-VGHuQVloCwYz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "",
+			"description": "Exclusive K-pop channel 🎥 Follow us to get THE fastest update on our content! Family: @hola82oficial @oi82oficial @ahlan82official @halo82official",
+			"url": "https://t.co/M0wpWRxbG4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M0wpWRxbG4",
+							"expanded_url": "https://www.youtube.com/channel/UC1HHeTLXHMM5FiEyQpS1toA/featured",
+							"display_url": "youtube.com/channel/UC1HHe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33976,
+			"friends_count": 4,
+			"listed_count": 37,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176387750141911042/qfnjHGfH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176387750141911042/qfnjHGfH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1569307672",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3489,
+		"favorite_count": 9365,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet's IRENE &amp; SEULGI showed up during a fan's dance cover!\n \nWATCH THE FULL VIDEO! \n🔗 https://t.co/9BH0qHqGuB\n\n@RVsmtown\n#hello82 #RedVelvetxhello82 #82minutes #RedVelvet #hello82minutes #IRENE #SEULGI #레드벨벳 #아이린 #슬기 #RedVelvet_IRENE_SEULGI https://t.co/Ugv1UdMG28"
+	},
+	{
 		"created_at": "Thu Jul 09 16:46:09 +0000 2020",
 		"id": 1280966608933003300,
 		"id_str": "1281268416070877184",
