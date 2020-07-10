@@ -1,6 +1,1047 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 10:28:01 +0000 2020",
+		"id": 1281528797372670000,
+		"id_str": "1281535640761520131",
+		"full_text": "예리 정식 : Yeri's Recipe - 짜파게티 + 초장\nYeri's Recipe, Zapaghetti + Super red pepper paste\n👉https://t.co/FAVQmIFBJv\n\n#예리 #yeri #유리 #레드벨벳 #소녀시대 #RedVelvet #Yuri #SNSD #먹방 #mukbang #예리정식",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "Yuri",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "먹방",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "mukbang",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "예리정식",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FAVQmIFBJv",
+					"expanded_url": "https://youtu.be/AoU7z-Cd538",
+					"display_url": "youtu.be/AoU7z-Cd538",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeri's Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23872,
+			"friends_count": 0,
+			"listed_count": 86,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1591762226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 912,
+		"favorite_count": 1352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예리 정식 : Yeri's Recipe - 짜파게티 + 초장\nYeri's Recipe, Zapaghetti + Super red pepper paste\n👉https://t.co/FAVQmIFBJv\n\n#예리 #yeri #유리 #레드벨벳 #소녀시대 #RedVelvet #Yuri #SNSD #먹방 #mukbang #예리정식"
+	},
+	{
+		"created_at": "Fri Jul 10 10:25:31 +0000 2020",
+		"id": 1281525204133359600,
+		"id_str": "1281535011385204741",
+		"full_text": "Monster - 레드벨벳 - 아이린&amp;슬기(Red Velvet - IRENE &amp; SEULGI) (출처 : 뮤직뱅크 | 네이버TV)\n\n👉https://t.co/6rHjUTRq7o \n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						187,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6rHjUTRq7o",
+					"expanded_url": "http://naver.me/xasIBkPT",
+					"display_url": "naver.me/xasIBkPT",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2851696,
+			"friends_count": 2,
+			"listed_count": 6125,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8280,
+		"favorite_count": 17597,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Monster - 레드벨벳 - 아이린&amp;슬기(Red Velvet - IRENE &amp; SEULGI) (출처 : 뮤직뱅크 | 네이버TV)\n\n👉https://t.co/6rHjUTRq7o \n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster"
+	},
+	{
+		"created_at": "Fri Jul 10 10:25:25 +0000 2020",
+		"id": 1281518418198270000,
+		"id_str": "1281534985732751360",
+		"full_text": "별하랑을 위한 지니 앱이 나온다면? 😏\n🔥덕력 충전🔥 지니 화면을 청하로 커스텀 해보세요!\n\n*1초 만에 템플릿 만들기: https://t.co/928qnuIIrp\n*청하 비하인드 매거진 보기: https://t.co/XbBcw6lXJN\n\n#지니청하템플릿 #지니뮤직 #유라이크 #ulikestudio #ulike #chungha   \n@CHUNGHA_MNHent https://t.co/lLxp2Krs7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지니청하템플릿",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "지니뮤직",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "유라이크",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "ulikestudio",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "ulike",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						175,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						187,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/928qnuIIrp",
+					"expanded_url": "https://go.onelink.me/KI2I/74c9f53c",
+					"display_url": "go.onelink.me/KI2I/74c9f53c",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/XbBcw6lXJN",
+					"expanded_url": "https://www.genie.co.kr/3GIFV2",
+					"display_url": "genie.co.kr/3GIFV2",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281517881952399400,
+					"id_str": "1281517881952399360",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1281517881952399360/img/PHwsblbVBf4rMRoU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1281517881952399360/img/PHwsblbVBf4rMRoU.jpg",
+					"url": "https://t.co/lLxp2Krs7J",
+					"display_url": "pic.twitter.com/lLxp2Krs7J",
+					"expanded_url": "https://twitter.com/gems_genie/status/1281518418198269953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281517881952399400,
+					"id_str": "1281517881952399360",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1281517881952399360/img/PHwsblbVBf4rMRoU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1281517881952399360/img/PHwsblbVBf4rMRoU.jpg",
+					"url": "https://t.co/lLxp2Krs7J",
+					"display_url": "pic.twitter.com/lLxp2Krs7J",
+					"expanded_url": "https://twitter.com/gems_genie/status/1281518418198269953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10467,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1281517881952399360/vid/720x720/-AZI-MRNYgKLAhiC.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1281517881952399360/pl/mLQ_U7LS_Wx9UEvu.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1281517881952399360/vid/320x320/NsUYklhw2CeYREIw.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1281517881952399360/vid/480x480/BKSMeKgoAgnL_XaT.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "Gems 잼스",
+			"screen_name": "gems_genie",
+			"location": "",
+			"description": "Here's Genie Media Studio’s Official twitter 💙\nEnjoy the kpop breaking news and exclusive contents",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8111,
+			"friends_count": 0,
+			"listed_count": 15,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178499736682131457/tW_pwZL9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1569811208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 622,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "별하랑을 위한 지니 앱이 나온다면? 😏\n🔥덕력 충전🔥 지니 화면을 청하로 커스텀 해보세요!\n\n*1초 만에 템플릿 만들기: https://t.co/928qnuIIrp\n*청하 비하인드 매거진 보기: https://t.co/XbBcw6lXJN\n\n#지니청하템플릿 #지니뮤직 #유라이크 #ulikestudio #ulike #chungha   \n@CHUNGHA_MNHent https://t.co/lLxp2Krs7J"
+	},
+	{
+		"created_at": "Fri Jul 10 10:25:19 +0000 2020",
+		"id": 1281523598952300500,
+		"id_str": "1281534964161564672",
+		"full_text": "📸 200710 #뮤직뱅크\n\n레드 여신 청하 강림!\n여름이었다...♥️\n\n#청하 #CHUNGHA #PLAY\n#별하랑 #BYULHARANG https://t.co/Fz6kFCUJRP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281523582560948200,
+					"id_str": "1281523582560948224",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecji6JXU0AAsVoa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecji6JXU0AAsVoa.jpg",
+					"url": "https://t.co/Fz6kFCUJRP",
+					"display_url": "pic.twitter.com/Fz6kFCUJRP",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281523598952300544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281523582560948200,
+					"id_str": "1281523582560948224",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecji6JXU0AAsVoa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecji6JXU0AAsVoa.jpg",
+					"url": "https://t.co/Fz6kFCUJRP",
+					"display_url": "pic.twitter.com/Fz6kFCUJRP",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281523598952300544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281523582556704800,
+					"id_str": "1281523582556704768",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecji6JWUEAAuvku.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecji6JWUEAAuvku.jpg",
+					"url": "https://t.co/Fz6kFCUJRP",
+					"display_url": "pic.twitter.com/Fz6kFCUJRP",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281523598952300544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282214,
+			"friends_count": 0,
+			"listed_count": 1670,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1395,
+		"favorite_count": 4938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 200710 #뮤직뱅크\n\n레드 여신 청하 강림!\n여름이었다...♥️\n\n#청하 #CHUNGHA #PLAY\n#별하랑 #BYULHARANG https://t.co/Fz6kFCUJRP"
+	},
+	{
+		"created_at": "Fri Jul 10 10:25:14 +0000 2020",
+		"id": 1281522055377121300,
+		"id_str": "1281534942657339392",
+		"full_text": "📼 200710 #뮤직뱅크\n\n▪️ #PLAY\n🔗 https://t.co/lQxBS708PH\n\n#청하 #CHUNGHA #뮤뱅\n@KBSMusicBank",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "뮤뱅",
+					"indices": [
+						65,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KBSMusicBank",
+					"name": "뮤직뱅크 (Music Bank)",
+					"id": 52661072,
+					"id_str": "52661072",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lQxBS708PH",
+					"expanded_url": "https://bit.ly/2BVJ22Q",
+					"display_url": "bit.ly/2BVJ22Q",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282214,
+			"friends_count": 0,
+			"listed_count": 1670,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 492,
+		"favorite_count": 1659,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "📼 200710 #뮤직뱅크\n\n▪️ #PLAY\n🔗 https://t.co/lQxBS708PH\n\n#청하 #CHUNGHA #뮤뱅\n@KBSMusicBank"
+	},
+	{
 		"created_at": "Fri Jul 10 09:25:11 +0000 2020",
 		"id": 1281511248467685400,
 		"id_str": "1281519828268986369",
