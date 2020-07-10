@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 06:28:00 +0000 2020",
+		"id": 1281468194964807700,
+		"id_str": "1281475239994707968",
+		"full_text": "Casually taking selfies with my best friends 🥰\n\nVIDEO IS OUT! \n🔗 https://t.co/9BH0qH95D3\n\n@RVsmtown \n#hello82 #RedVelvetxhello82 #82minutes #RedVelvet #hello82minutes #IRENE #SEULGI #레드벨벳 #아이린 #슬기 #RedVelvet_IRENE_SEULGI https://t.co/50Yq5ERUQ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hello82",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "RedVelvetxhello82",
+					"indices": [
+						110,
+						128
+					]
+				},
+				{
+					"text": "82minutes",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "hello82minutes",
+					"indices": [
+						151,
+						166
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9BH0qH95D3",
+					"expanded_url": "https://youtu.be/5Iritr2IqfA",
+					"display_url": "youtu.be/5Iritr2IqfA",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281444293824008200,
+					"id_str": "1281444293824008197",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Eciay7zU0AUEvki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eciay7zU0AUEvki.jpg",
+					"url": "https://t.co/50Yq5ERUQ9",
+					"display_url": "pic.twitter.com/50Yq5ERUQ9",
+					"expanded_url": "https://twitter.com/hello82official/status/1281468194964807682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281444293824008200,
+					"id_str": "1281444293824008197",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Eciay7zU0AUEvki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eciay7zU0AUEvki.jpg",
+					"url": "https://t.co/50Yq5ERUQ9",
+					"display_url": "pic.twitter.com/50Yq5ERUQ9",
+					"expanded_url": "https://twitter.com/hello82official/status/1281468194964807682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281444293819826200,
+					"id_str": "1281444293819826178",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Eciay7yVAAIUNWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eciay7yVAAIUNWy.jpg",
+					"url": "https://t.co/50Yq5ERUQ9",
+					"display_url": "pic.twitter.com/50Yq5ERUQ9",
+					"expanded_url": "https://twitter.com/hello82official/status/1281468194964807682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281444293828243500,
+					"id_str": "1281444293828243458",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Eciay70VcAIt4DG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eciay70VcAIt4DG.jpg",
+					"url": "https://t.co/50Yq5ERUQ9",
+					"display_url": "pic.twitter.com/50Yq5ERUQ9",
+					"expanded_url": "https://twitter.com/hello82official/status/1281468194964807682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281444293823979500,
+					"id_str": "1281444293823979520",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Eciay7zUYAA2BMA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eciay7zUYAA2BMA.jpg",
+					"url": "https://t.co/50Yq5ERUQ9",
+					"display_url": "pic.twitter.com/50Yq5ERUQ9",
+					"expanded_url": "https://twitter.com/hello82official/status/1281468194964807682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "",
+			"description": "Exclusive K-pop channel 🎥 Follow us to get THE fastest update on our content! Family: @hola82oficial @oi82oficial @ahlan82official @halo82official",
+			"url": "https://t.co/M0wpWRxbG4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M0wpWRxbG4",
+							"expanded_url": "https://www.youtube.com/channel/UC1HHeTLXHMM5FiEyQpS1toA/featured",
+							"display_url": "youtube.com/channel/UC1HHe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34103,
+			"friends_count": 4,
+			"listed_count": 37,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176387750141911042/qfnjHGfH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176387750141911042/qfnjHGfH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1569307672",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Casually taking selfies with my best friends 🥰\n\nVIDEO IS OUT! \n🔗 https://t.co/9BH0qH95D3\n\n@RVsmtown \n#hello82 #RedVelvetxhello82 #82minutes #RedVelvet #hello82minutes #IRENE #SEULGI #레드벨벳 #아이린 #슬기 #RedVelvet_IRENE_SEULGI https://t.co/50Yq5ERUQ9"
+	},
+	{
 		"created_at": "Fri Jul 10 05:45:37 +0000 2020",
 		"id": 1281463111820521500,
 		"id_str": "1281464573438988288",
