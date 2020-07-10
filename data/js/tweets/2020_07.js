@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 14:30:56 +0000 2020",
+		"id": 1281462200519942100,
+		"id_str": "1281596773601996801",
+		"full_text": "서울시향이 걸그룹 '레드 벨벳'의 노래 '빨간 맛' 오케스트라 버전을 녹음했다네요. 샤이니 종현의 '하루의 끝'도 작업 중이라고. 얼마 전에 에스엠 엔터테인먼트와 업무협약 체결했다더니, 눈에 보이는 첫 번째 성과.\nhttps://t.co/QDZL1ECseq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QDZL1ECseq",
+					"expanded_url": "http://www.hani.co.kr/arti/culture/music/953017.html",
+					"display_url": "hani.co.kr/arti/culture/m…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45568989,
+			"id_str": "45568989",
+			"name": "김원철",
+			"screen_name": "dahlhaus",
+			"location": "Seoul, Republic of Korea",
+			"description": "바그네리안, 클래식 음악, 연주회 비평, 바그너, 말러, 버르토크, 리게티, 불레즈, 스트라빈스키, 락헨만, 통영국제음악제, 통영국제음악당",
+			"url": "http://t.co/IoCCigEort",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IoCCigEort",
+							"expanded_url": "http://wagnerianwk.blogspot.com",
+							"display_url": "wagnerianwk.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1864,
+			"friends_count": 72,
+			"listed_count": 87,
+			"created_at": "Mon Jun 08 13:54:21 +0000 2009",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000447283720/ba76e8394574e6457a30591c19fa7129_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000447283720/ba76e8394574e6457a30591c19fa7129_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 562,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울시향이 걸그룹 '레드 벨벳'의 노래 '빨간 맛' 오케스트라 버전을 녹음했다네요. 샤이니 종현의 '하루의 끝'도 작업 중이라고. 얼마 전에 에스엠 엔터테인먼트와 업무협약 체결했다더니, 눈에 보이는 첫 번째 성과.\nhttps://t.co/QDZL1ECseq"
+	},
+	{
+		"created_at": "Fri Jul 10 14:30:23 +0000 2020",
+		"id": 1281529958242766800,
+		"id_str": "1281596635647078402",
+		"full_text": "KBS의 엔딩 신 아이린 https://t.co/vWDeYMz65Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281529746669498400,
+					"id_str": "1281529746669498369",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281529746669498369/pu/img/PLbJK_4dxrem2Fsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281529746669498369/pu/img/PLbJK_4dxrem2Fsn.jpg",
+					"url": "https://t.co/vWDeYMz65Q",
+					"display_url": "pic.twitter.com/vWDeYMz65Q",
+					"expanded_url": "https://twitter.com/irene_video/status/1281529958242766850/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281529746669498400,
+					"id_str": "1281529746669498369",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281529746669498369/pu/img/PLbJK_4dxrem2Fsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281529746669498369/pu/img/PLbJK_4dxrem2Fsn.jpg",
+					"url": "https://t.co/vWDeYMz65Q",
+					"display_url": "pic.twitter.com/vWDeYMz65Q",
+					"expanded_url": "https://twitter.com/irene_video/status/1281529958242766850/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30800,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281529746669498369/pu/vid/640x360/vEg1DZxL2os6QEFy.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281529746669498369/pu/vid/1280x720/rb1h66LKmFfmBBRp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1281529746669498369/pu/pl/jdbpjLfLi3YTMDBO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281529746669498369/pu/vid/480x270/h6NYgQa-cfrawwp8.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782902581555114000,
+			"id_str": "782902581555113984",
+			"name": "아이린비디오 (𝐈𝐑𝐄𝐍𝐄 𝐕𝐈𝐃𝐄𝐎)",
+			"screen_name": "irene_video",
+			"location": "Red Velvet Irene fan account",
+			"description": "ᙏ̤̫ 🎥 / Fan account / @irene_video2",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23266,
+			"friends_count": 6,
+			"listed_count": 366,
+			"created_at": "Mon Oct 03 11:18:15 +0000 2016",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280867585488064512/FMKYYJzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280867585488064512/FMKYYJzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/782902581555113984/1549899320",
+			"profile_link_color": "8E8CD8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2061,
+		"favorite_count": 2100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KBS의 엔딩 신 아이린 https://t.co/vWDeYMz65Q"
+	},
+	{
+		"created_at": "Fri Jul 10 14:28:36 +0000 2020",
+		"id": 1281515570471399400,
+		"id_str": "1281596188618158080",
+		"full_text": "[속보]경찰, ‘박원순 성추행 의혹’ 고소인 2차 가해행위 내사 착수\nhttps://t.co/hLoZqOQdlw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hLoZqOQdlw",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007101759001&code=940202",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 724684,
+			"friends_count": 78480,
+			"listed_count": 5970,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 84953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2121,
+		"favorite_count": 400,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[속보]경찰, ‘박원순 성추행 의혹’ 고소인 2차 가해행위 내사 착수\nhttps://t.co/hLoZqOQdlw"
+	},
+	{
+		"created_at": "Fri Jul 10 14:26:30 +0000 2020",
+		"id": 1281447737087549400,
+		"id_str": "1281595657493467138",
+		"full_text": "?? https://t.co/yY0JfBtVVv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281447720205512700,
+					"id_str": "1281447720205512706",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecid6YEVcAIHyz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecid6YEVcAIHyz_.jpg",
+					"url": "https://t.co/yY0JfBtVVv",
+					"display_url": "pic.twitter.com/yY0JfBtVVv",
+					"expanded_url": "https://twitter.com/annam_cat/status/1281447737087549441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 818,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 818,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 515,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281447720205512700,
+					"id_str": "1281447720205512706",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecid6YEVcAIHyz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecid6YEVcAIHyz_.jpg",
+					"url": "https://t.co/yY0JfBtVVv",
+					"display_url": "pic.twitter.com/yY0JfBtVVv",
+					"expanded_url": "https://twitter.com/annam_cat/status/1281447737087549441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 818,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 818,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 515,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281447728174645200,
+					"id_str": "1281447728174645248",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecid61wUwAAHM6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecid61wUwAAHM6U.jpg",
+					"url": "https://t.co/yY0JfBtVVv",
+					"display_url": "pic.twitter.com/yY0JfBtVVv",
+					"expanded_url": "https://twitter.com/annam_cat/status/1281447737087549441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1626,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148587563,
+			"id_str": "148587563",
+			"name": "안남고양ㅇl",
+			"screen_name": "annam_cat",
+			"location": "퀵폭력 타살도시 안남",
+			"description": "I❤KYOTO \nI❤OSAKA\nI❤Kirby\nアシュラ 家に多いです(아수라 집에 많아요)\n아수라 국제선교사\nSW-4973-6307-5303\n#FreeHongkong",
+			"url": "https://t.co/Da1ADW63gr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Da1ADW63gr",
+							"expanded_url": "http://iannam.net",
+							"display_url": "iannam.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2018,
+			"friends_count": 1242,
+			"listed_count": 13,
+			"created_at": "Thu May 27 02:43:38 +0000 2010",
+			"favourites_count": 103035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270927554853998593/t55GiYVL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270927554853998593/t55GiYVL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148587563/1569900450",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 424,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "?? https://t.co/yY0JfBtVVv"
+	},
+	{
 		"created_at": "Fri Jul 10 13:25:20 +0000 2020",
 		"id": 1281566036609781800,
 		"id_str": "1281580265907912704",
