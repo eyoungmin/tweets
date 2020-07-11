@@ -1,6 +1,803 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 09:25:36 +0000 2020",
+		"id": 1281876971530547200,
+		"id_str": "1281882322644676608",
+		"full_text": "200711 #음악중심\n\n▪️ #PLAY 세로캠\n▶️ https://t.co/NA5gCMpVPX\n\n#청하 #CHUNGHA #음중\n@MBC_entertain",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음악중심",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						68,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MBC_entertain",
+					"name": "MBC예능연구소",
+					"id": 4144012572,
+					"id_str": "4144012572",
+					"indices": [
+						72,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NA5gCMpVPX",
+					"expanded_url": "https://bit.ly/3fvnW9S",
+					"display_url": "bit.ly/3fvnW9S",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281871933458362400,
+		"in_reply_to_status_id_str": "1281871933458362368",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282564,
+			"friends_count": 0,
+			"listed_count": 1676,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200711 #음악중심\n\n▪️ #PLAY 세로캠\n▶️ https://t.co/NA5gCMpVPX\n\n#청하 #CHUNGHA #음중\n@MBC_entertain"
+	},
+	{
+		"created_at": "Sat Jul 11 09:25:28 +0000 2020",
+		"id": 1281873057213120500,
+		"id_str": "1281882288566009856",
+		"full_text": "200711 🔍[예능연구소 세로캠] \n#쇼음악중심 #음중 #청하 #CHUNGHA #PLAY @CHUNGHA_MNHent\n\n#청하 ▶ https://t.co/BdSMFKhaJO https://t.co/mZdc68c5wJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						68,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						51,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BdSMFKhaJO",
+					"expanded_url": "https://youtu.be/H1_ODBlK8aI",
+					"display_url": "youtu.be/H1_ODBlK8aI",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281873044823142400,
+					"id_str": "1281873044823142400",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EcogvhvU8AAInzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcogvhvU8AAInzv.jpg",
+					"url": "https://t.co/mZdc68c5wJ",
+					"display_url": "pic.twitter.com/mZdc68c5wJ",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1281873057213120512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281873044823142400,
+					"id_str": "1281873044823142400",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EcogvhvU8AAInzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcogvhvU8AAInzv.jpg",
+					"url": "https://t.co/mZdc68c5wJ",
+					"display_url": "pic.twitter.com/mZdc68c5wJ",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1281873057213120512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805986,
+			"friends_count": 5,
+			"listed_count": 745,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 987,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200711 🔍[예능연구소 세로캠] \n#쇼음악중심 #음중 #청하 #CHUNGHA #PLAY @CHUNGHA_MNHent\n\n#청하 ▶ https://t.co/BdSMFKhaJO https://t.co/mZdc68c5wJ"
+	},
+	{
+		"created_at": "Sat Jul 11 09:25:25 +0000 2020",
+		"id": 1281876336517111800,
+		"id_str": "1281882275471400962",
+		"full_text": "📸 200711 #음악중심\n\n청하와 함께 PLAY PLAY PLAY\nThat’s my way way way\n\n#청하 #CHUNGHA #PLAY\n#별하랑 #BYULHARANG https://t.co/FkUGxH6R8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음악중심",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281876326685634600,
+					"id_str": "1281876326685634560",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EcojujoUcAAg-w7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcojujoUcAAg-w7.jpg",
+					"url": "https://t.co/FkUGxH6R8O",
+					"display_url": "pic.twitter.com/FkUGxH6R8O",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281876336517111810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 721,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 721,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281876326685634600,
+					"id_str": "1281876326685634560",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EcojujoUcAAg-w7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcojujoUcAAg-w7.jpg",
+					"url": "https://t.co/FkUGxH6R8O",
+					"display_url": "pic.twitter.com/FkUGxH6R8O",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281876336517111810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 721,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 721,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281876326694023200,
+					"id_str": "1281876326694023173",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EcojujqUcAUgat_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcojujqUcAUgat_.jpg",
+					"url": "https://t.co/FkUGxH6R8O",
+					"display_url": "pic.twitter.com/FkUGxH6R8O",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281876336517111810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 721,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 721,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282564,
+			"friends_count": 0,
+			"listed_count": 1676,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 972,
+		"favorite_count": 3725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 200711 #음악중심\n\n청하와 함께 PLAY PLAY PLAY\nThat’s my way way way\n\n#청하 #CHUNGHA #PLAY\n#별하랑 #BYULHARANG https://t.co/FkUGxH6R8O"
+	},
+	{
+		"created_at": "Sat Jul 11 09:25:16 +0000 2020",
+		"id": 1281871933458362400,
+		"id_str": "1281882237303246848",
+		"full_text": "200711 #음악중심\n\n▪️ #PLAY 직캠\n▶️ https://t.co/QVQLKeQLZ5\n\n#청하 #CHUNGHA #음중\n@MBC_entertain",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음악중심",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						67,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MBC_entertain",
+					"name": "MBC예능연구소",
+					"id": 4144012572,
+					"id_str": "4144012572",
+					"indices": [
+						71,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QVQLKeQLZ5",
+					"expanded_url": "https://bit.ly/3iPzneN",
+					"display_url": "bit.ly/3iPzneN",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281856513351528400,
+		"in_reply_to_status_id_str": "1281856513351528449",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282564,
+			"friends_count": 0,
+			"listed_count": 1676,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200711 #음악중심\n\n▪️ #PLAY 직캠\n▶️ https://t.co/QVQLKeQLZ5\n\n#청하 #CHUNGHA #음중\n@MBC_entertain"
+	},
+	{
 		"created_at": "Sat Jul 11 08:25:40 +0000 2020",
 		"id": 1281865064459333600,
 		"id_str": "1281867239495434241",
