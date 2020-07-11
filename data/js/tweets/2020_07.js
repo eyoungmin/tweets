@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 15:25:11 +0000 2020",
+		"id": 1281957879046520800,
+		"id_str": "1281972813075755008",
+		"full_text": "📸 200711 영상 통화 팬사인회 \n\nMAXI SINGLE 앨범 발매 기념으로 진행되었던 영상통화 팬사인회!\n즐거운 시간 되셨길 바랍니다🧡\n\n내일 인기가요도 PLAY PLAY PLAY\n\n#청하 #CHUNGHA\n#PLAY #StayTonight\n#별하랑 #BYULHARANG https://t.co/R17bfmjVxh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						142,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281957862063792000,
+					"id_str": "1281957862063792130",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecpt4ilU4AIFXAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecpt4ilU4AIFXAj.jpg",
+					"url": "https://t.co/R17bfmjVxh",
+					"display_url": "pic.twitter.com/R17bfmjVxh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281957879046520832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281957862063792000,
+					"id_str": "1281957862063792130",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecpt4ilU4AIFXAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecpt4ilU4AIFXAj.jpg",
+					"url": "https://t.co/R17bfmjVxh",
+					"display_url": "pic.twitter.com/R17bfmjVxh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281957879046520832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281957862059552800,
+					"id_str": "1281957862059552770",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecpt4ikUMAIK9bQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecpt4ikUMAIK9bQ.jpg",
+					"url": "https://t.co/R17bfmjVxh",
+					"display_url": "pic.twitter.com/R17bfmjVxh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281957879046520832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281957862059597800,
+					"id_str": "1281957862059597824",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecpt4ikU4AAlmMr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecpt4ikU4AAlmMr.jpg",
+					"url": "https://t.co/R17bfmjVxh",
+					"display_url": "pic.twitter.com/R17bfmjVxh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1281957879046520832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282681,
+			"friends_count": 0,
+			"listed_count": 1679,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1213,
+		"favorite_count": 4392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 200711 영상 통화 팬사인회 \n\nMAXI SINGLE 앨범 발매 기념으로 진행되었던 영상통화 팬사인회!\n즐거운 시간 되셨길 바랍니다🧡\n\n내일 인기가요도 PLAY PLAY PLAY\n\n#청하 #CHUNGHA\n#PLAY #StayTonight\n#별하랑 #BYULHARANG https://t.co/R17bfmjVxh"
+	},
+	{
 		"created_at": "Sat Jul 11 14:25:11 +0000 2020",
 		"id": 1281956298460815400,
 		"id_str": "1281957714424455168",
