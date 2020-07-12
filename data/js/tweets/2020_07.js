@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 11:25:17 +0000 2020",
+		"id": 1282265883302219800,
+		"id_str": "1282274829236875264",
+		"full_text": "🎉블핑이들 인기가요 2관왕 축하해요🎊\n\n@BLACKPINK #HowYouLikeThat #앵콜캠 #인기가요\n\n👉https://t.co/RojfFiGTDD https://t.co/mYFe5ey2Ts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"text": "앵콜캠",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						54,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RojfFiGTDD",
+					"expanded_url": "http://youtu.be/k8dOD7NouZI",
+					"display_url": "youtu.be/k8dOD7NouZI",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282265875257540600,
+					"id_str": "1282265875257540609",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EcuGBRJUwAE2l_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcuGBRJUwAE2l_P.jpg",
+					"url": "https://t.co/mYFe5ey2Ts",
+					"display_url": "pic.twitter.com/mYFe5ey2Ts",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1282265883302219776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282265875257540600,
+					"id_str": "1282265875257540609",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EcuGBRJUwAE2l_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcuGBRJUwAE2l_P.jpg",
+					"url": "https://t.co/mYFe5ey2Ts",
+					"display_url": "pic.twitter.com/mYFe5ey2Ts",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1282265883302219776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86167,
+			"friends_count": 73,
+			"listed_count": 128,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1593406283",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5687,
+		"favorite_count": 18642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉블핑이들 인기가요 2관왕 축하해요🎊\n\n@BLACKPINK #HowYouLikeThat #앵콜캠 #인기가요\n\n👉https://t.co/RojfFiGTDD https://t.co/mYFe5ey2Ts"
+	},
+	{
+		"created_at": "Sun Jul 12 11:25:13 +0000 2020",
+		"id": 1282265174548729900,
+		"id_str": "1282274811994152961",
+		"full_text": "😈Red Velvet IRENE &amp; SEULGI ‘Monster’ MV Quiz Event😈\n\nWatch the MV &amp; Enter 🎬 https://t.co/fooe7phe4n\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster #MonsterMVQuiz https://t.co/xb2BglquEQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "MonsterMVQuiz",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fooe7phe4n",
+					"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+					"display_url": "youtu.be/Ujb-gvqsoi0",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282265056885919700,
+					"id_str": "1282265056885919744",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EcuFRoeU0AAfTuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcuFRoeU0AAfTuq.jpg",
+					"url": "https://t.co/xb2BglquEQ",
+					"display_url": "pic.twitter.com/xb2BglquEQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1282265174548729857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 866,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282265056885919700,
+					"id_str": "1282265056885919744",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EcuFRoeU0AAfTuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcuFRoeU0AAfTuq.jpg",
+					"url": "https://t.co/xb2BglquEQ",
+					"display_url": "pic.twitter.com/xb2BglquEQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1282265174548729857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 866,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282265098724073500,
+					"id_str": "1282265098724073472",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EcuFUEVUYAAr3RT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcuFUEVUYAAr3RT.jpg",
+					"url": "https://t.co/xb2BglquEQ",
+					"display_url": "pic.twitter.com/xb2BglquEQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1282265174548729857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 866,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2867426,
+			"friends_count": 2,
+			"listed_count": 6153,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4213,
+		"favorite_count": 12140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😈Red Velvet IRENE &amp; SEULGI ‘Monster’ MV Quiz Event😈\n\nWatch the MV &amp; Enter 🎬 https://t.co/fooe7phe4n\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster #MonsterMVQuiz https://t.co/xb2BglquEQ"
+	},
+	{
 		"created_at": "Sun Jul 12 10:27:57 +0000 2020",
 		"id": 1282247922109702100,
 		"id_str": "1282260398973083652",
