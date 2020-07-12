@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 09:25:15 +0000 2020",
+		"id": 1282238753285632000,
+		"id_str": "1282244620718678017",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기 \nThe 1st Mini Album [‘Monster’] Base Note Ver. - Album Details\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/wercCAzD4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						190,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282238608154300400,
+					"id_str": "1282238608154300416",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EcttOHRUEAAcg7v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcttOHRUEAAcg7v.jpg",
+					"url": "https://t.co/wercCAzD4H",
+					"display_url": "pic.twitter.com/wercCAzD4H",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1282238753285632001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 413,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 234,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282238608154300400,
+					"id_str": "1282238608154300416",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EcttOHRUEAAcg7v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcttOHRUEAAcg7v.jpg",
+					"url": "https://t.co/wercCAzD4H",
+					"display_url": "pic.twitter.com/wercCAzD4H",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1282238753285632001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 413,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 234,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282238651380850700,
+					"id_str": "1282238651380850689",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EcttQoTU4AEmzLV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcttQoTU4AEmzLV.jpg",
+					"url": "https://t.co/wercCAzD4H",
+					"display_url": "pic.twitter.com/wercCAzD4H",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1282238753285632001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 752,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 441,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282238690056523800,
+					"id_str": "1282238690056523777",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EcttS4YU0AEzed3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcttS4YU0AEzed3.jpg",
+					"url": "https://t.co/wercCAzD4H",
+					"display_url": "pic.twitter.com/wercCAzD4H",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1282238753285632001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 363,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 206,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282238731559161900,
+					"id_str": "1282238731559161856",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EcttVS_U0AAWS71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcttVS_U0AAWS71.jpg",
+					"url": "https://t.co/wercCAzD4H",
+					"display_url": "pic.twitter.com/wercCAzD4H",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1282238753285632001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 185,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 327,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2866680,
+			"friends_count": 2,
+			"listed_count": 6154,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7475,
+		"favorite_count": 18635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI 레드벨벳-아이린&amp;슬기 \nThe 1st Mini Album [‘Monster’] Base Note Ver. - Album Details\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster https://t.co/wercCAzD4H"
+	},
+	{
 		"created_at": "Sun Jul 12 08:27:57 +0000 2020",
 		"id": 1282226778216386600,
 		"id_str": "1282230202278576128",
