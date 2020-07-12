@@ -1,6 +1,1127 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 08:27:57 +0000 2020",
+		"id": 1282226778216386600,
+		"id_str": "1282230202278576128",
+		"full_text": "이제 예쁘고 멋있다고 하는 것도 지겨워...🤥\n기린한테 왜 목이 기냐고 하는 거 같아서...💘\n오늘의 인기가요... 아이린&amp;슬기가 찢었다...\n\n@RVsmtown #레드벨벳 #슬기 #아이린 #Monster #안방1열직캠\n#인기가요 \n\nhttps://t.co/8jNSJ8XkVM https://t.co/634xyiEQjn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8jNSJ8XkVM",
+					"expanded_url": "http://youtu.be/xpgkDZQlceA",
+					"display_url": "youtu.be/xpgkDZQlceA",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282226766401003500,
+					"id_str": "1282226766401003521",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ectic1TUYAEVF6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ectic1TUYAEVF6e.jpg",
+					"url": "https://t.co/634xyiEQjn",
+					"display_url": "pic.twitter.com/634xyiEQjn",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1282226778216386565/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282226766401003500,
+					"id_str": "1282226766401003521",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ectic1TUYAEVF6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ectic1TUYAEVF6e.jpg",
+					"url": "https://t.co/634xyiEQjn",
+					"display_url": "pic.twitter.com/634xyiEQjn",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1282226778216386565/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85740,
+			"friends_count": 73,
+			"listed_count": 127,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1593406283",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 459,
+		"favorite_count": 588,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제 예쁘고 멋있다고 하는 것도 지겨워...🤥\n기린한테 왜 목이 기냐고 하는 거 같아서...💘\n오늘의 인기가요... 아이린&amp;슬기가 찢었다...\n\n@RVsmtown #레드벨벳 #슬기 #아이린 #Monster #안방1열직캠\n#인기가요 \n\nhttps://t.co/8jNSJ8XkVM https://t.co/634xyiEQjn"
+	},
+	{
+		"created_at": "Sun Jul 12 08:25:37 +0000 2020",
+		"id": 1282229235583602700,
+		"id_str": "1282229616183316481",
+		"full_text": "어나더 레벨 유닛 ‘레드벨벳-아이린&amp;슬기’의 강렬한 변신♨ ‘Monster’ (출처 : SBS 인기가요 | 네이버TV)\n\n👉https://t.co/xKQkiCUGp1\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						176,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xKQkiCUGp1",
+					"expanded_url": "http://naver.me/Fn6Bvwqc",
+					"display_url": "naver.me/Fn6Bvwqc",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2866263,
+			"friends_count": 2,
+			"listed_count": 6148,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4330,
+		"favorite_count": 10644,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어나더 레벨 유닛 ‘레드벨벳-아이린&amp;슬기’의 강렬한 변신♨ ‘Monster’ (출처 : SBS 인기가요 | 네이버TV)\n\n👉https://t.co/xKQkiCUGp1\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster"
+	},
+	{
+		"created_at": "Sun Jul 12 08:25:28 +0000 2020",
+		"id": 1282229081539375000,
+		"id_str": "1282229577994174464",
+		"full_text": "📼 200712 #인기가요\n\n▪️ #PLAY #직캠\n▶️ https://t.co/lW2xilISXq\n\n#청하 #CHUNGHA #인가\n@SBSNOW @kpop_sbs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "직캠",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "인가",
+					"indices": [
+						70,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SBSNOW",
+					"name": "SBS",
+					"id": 113259902,
+					"id_str": "113259902",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"screen_name": "kpop_sbs",
+					"name": "스브스케이팝 / SBS KPOP",
+					"id": 1131475077650772000,
+					"id_str": "1131475077650771968",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lW2xilISXq",
+					"expanded_url": "https://bit.ly/3es7XII",
+					"display_url": "bit.ly/3es7XII",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1282228367165513700,
+		"in_reply_to_status_id_str": "1282228367165513728",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282879,
+			"friends_count": 0,
+			"listed_count": 1679,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "📼 200712 #인기가요\n\n▪️ #PLAY #직캠\n▶️ https://t.co/lW2xilISXq\n\n#청하 #CHUNGHA #인가\n@SBSNOW @kpop_sbs"
+	},
+	{
+		"created_at": "Sun Jul 12 08:25:26 +0000 2020",
+		"id": 1282222801928155100,
+		"id_str": "1282229569026756610",
+		"full_text": "이번에도 청하가 청하했다...❤ \n'완벽하다' 보다 더 '완벽한' 무대🥳⭐\n\n#안방1열직캠 #인기가요 @CHUNGHA_MNHent\n\nhttps://t.co/3lAMdOYcQm https://t.co/DzkhJwUFbv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						57,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3lAMdOYcQm",
+					"expanded_url": "http://youtu.be/Di1kBrEeBi4",
+					"display_url": "youtu.be/Di1kBrEeBi4",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282222791488503800,
+					"id_str": "1282222791488503808",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecte1dmVAAADalK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecte1dmVAAADalK.jpg",
+					"url": "https://t.co/DzkhJwUFbv",
+					"display_url": "pic.twitter.com/DzkhJwUFbv",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1282222801928155136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282222791488503800,
+					"id_str": "1282222791488503808",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecte1dmVAAADalK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecte1dmVAAADalK.jpg",
+					"url": "https://t.co/DzkhJwUFbv",
+					"display_url": "pic.twitter.com/DzkhJwUFbv",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1282222801928155136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85740,
+			"friends_count": 73,
+			"listed_count": 127,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1593406283",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 953,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번에도 청하가 청하했다...❤ \n'완벽하다' 보다 더 '완벽한' 무대🥳⭐\n\n#안방1열직캠 #인기가요 @CHUNGHA_MNHent\n\nhttps://t.co/3lAMdOYcQm https://t.co/DzkhJwUFbv"
+	},
+	{
+		"created_at": "Sun Jul 12 08:25:21 +0000 2020",
+		"id": 1282228367165513700,
+		"id_str": "1282229547535085568",
+		"full_text": "📼 200712 #인기가요\n\n▪️ #PLAY\n🔗 https://t.co/n74fV9FvV1\n\n#청하 #CHUNGHA #인가\n@SBSNOW @kpop_sbs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "PLAY",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "인가",
+					"indices": [
+						65,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SBSNOW",
+					"name": "SBS",
+					"id": 113259902,
+					"id_str": "113259902",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"screen_name": "kpop_sbs",
+					"name": "스브스케이팝 / SBS KPOP",
+					"id": 1131475077650772000,
+					"id_str": "1131475077650771968",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n74fV9FvV1",
+					"expanded_url": "https://bit.ly/2BVwicG",
+					"display_url": "bit.ly/2BVwicG",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282879,
+			"friends_count": 0,
+			"listed_count": 1679,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 442,
+		"favorite_count": 1474,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "📼 200712 #인기가요\n\n▪️ #PLAY\n🔗 https://t.co/n74fV9FvV1\n\n#청하 #CHUNGHA #인가\n@SBSNOW @kpop_sbs"
+	},
+	{
+		"created_at": "Sun Jul 12 08:25:19 +0000 2020",
+		"id": 1282226816753655800,
+		"id_str": "1282229538668281856",
+		"full_text": "[안방1열 직캠4K] 레드벨벳-아이린 &amp; 슬기 'Monster' (Redvelvet-Irene &amp; Seulgi Full Cam)│@ SBS Inkigayo_2020.7.12\n\n👉https://t.co/Op2jViZWm2\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						193,
+						203
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						210,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Op2jViZWm2",
+					"expanded_url": "https://youtu.be/xpgkDZQlceA",
+					"display_url": "youtu.be/xpgkDZQlceA",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2866263,
+			"friends_count": 2,
+			"listed_count": 6148,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4383,
+		"favorite_count": 9516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안방1열 직캠4K] 레드벨벳-아이린 &amp; 슬기 'Monster' (Redvelvet-Irene &amp; Seulgi Full Cam)│@ SBS Inkigayo_2020.7.12\n\n👉https://t.co/Op2jViZWm2\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster"
+	},
+	{
 		"created_at": "Sun Jul 12 07:58:35 +0000 2020",
 		"id": 1281937426307416000,
 		"id_str": "1282222811533070336",
