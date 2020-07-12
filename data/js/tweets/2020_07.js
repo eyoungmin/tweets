@@ -1,6 +1,1215 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 12:43:14 +0000 2020",
+		"id": 1282178855311040500,
+		"id_str": "1282294447833669633",
+		"full_text": "영화관 사라지나…번역·더빙은 '제2의 전성기' https://t.co/dYDCIvUhY3 코로나로 큰 위기에 봉착한 영화업계의 상황을 잘 보여주는 MBC뉴스 리포트. 영화관은 사라지는 것이 아닌가 하는 위기감… 그런데 OTT콘텐츠 수요가 높아지며 더빙, 번역회사, 또 특수효과 회사가 성장중.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dYDCIvUhY3",
+					"expanded_url": "https://www.youtube.com/watch?v=PBawarBqkKY",
+					"display_url": "youtube.com/watch?v=PBawar…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369924,
+			"friends_count": 2277,
+			"listed_count": 4506,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영화관 사라지나…번역·더빙은 '제2의 전성기' https://t.co/dYDCIvUhY3 코로나로 큰 위기에 봉착한 영화업계의 상황을 잘 보여주는 MBC뉴스 리포트. 영화관은 사라지는 것이 아닌가 하는 위기감… 그런데 OTT콘텐츠 수요가 높아지며 더빙, 번역회사, 또 특수효과 회사가 성장중."
+	},
+	{
+		"created_at": "Sun Jul 12 12:39:12 +0000 2020",
+		"id": 1282205992101404700,
+		"id_str": "1282293432874987520",
+		"full_text": "@John_Grib 예전에 이걸 https://t.co/PnVbW3U6AL 본 적이 있는데 그거랑 비슷한 컨셉이네요. ㅎㅎ  https://t.co/SQw1haNlfv",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "John_Grib",
+					"name": "기계인간 John Grib",
+					"id": 732911923,
+					"id_str": "732911923",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PnVbW3U6AL",
+					"expanded_url": "https://waitbutwhy.com/2014/05/life-weeks.html",
+					"display_url": "waitbutwhy.com/2014/05/life-w…",
+					"indices": [
+						18,
+						41
+					]
+				},
+				{
+					"url": "https://t.co/SQw1haNlfv",
+					"expanded_url": "https://4kweeks.com/",
+					"display_url": "4kweeks.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282167911101030400,
+		"in_reply_to_status_id_str": "1282167911101030400",
+		"in_reply_to_user_id": 732911923,
+		"in_reply_to_user_id_str": "732911923",
+		"in_reply_to_screen_name": "John_Grib",
+		"user": {
+			"id": 42583289,
+			"id_str": "42583289",
+			"name": "Hwang Start Here",
+			"screen_name": "deimos18770812",
+			"location": "모종의 센터",
+			"description": "정체불명의 dept. 에서 활동중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374,
+			"friends_count": 265,
+			"listed_count": 28,
+			"created_at": "Tue May 26 07:25:13 +0000 2009",
+			"favourites_count": 5751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129187063327121408/sybNHZnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129187063327121408/sybNHZnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42583289/1355791869",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF5C2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@John_Grib 예전에 이걸 https://t.co/PnVbW3U6AL 본 적이 있는데 그거랑 비슷한 컨셉이네요. ㅎㅎ  https://t.co/SQw1haNlfv"
+	},
+	{
+		"created_at": "Sun Jul 12 12:37:38 +0000 2020",
+		"id": 1282167911101030400,
+		"id_str": "1282293038706905088",
+		"full_text": "나는 늘 1년이 52주라는 걸 강하게 의식한다. 1주일은 1년의 약 1.92%. 1주일이 지날 때마다 1년이 2%씩 지나가는 셈이다. 군대에서도 이렇게 카운트하며 위안을 얻곤 했다.\n문득 이걸 시각화해보면 좋겠다는 생각이 들어서 스프레드시트로 표를 만들어 보았는데 70살까지 몇 주 안 남은 느낌이 드네. https://t.co/ibD81iH14R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282167203794542600,
+					"id_str": "1282167203794542593",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EcssR1TUYAEeAyK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcssR1TUYAEeAyK.png",
+					"url": "https://t.co/ibD81iH14R",
+					"display_url": "pic.twitter.com/ibD81iH14R",
+					"expanded_url": "https://twitter.com/John_Grib/status/1282167911101030400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1110,
+							"h": 803,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 803,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282167203794542600,
+					"id_str": "1282167203794542593",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EcssR1TUYAEeAyK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcssR1TUYAEeAyK.png",
+					"url": "https://t.co/ibD81iH14R",
+					"display_url": "pic.twitter.com/ibD81iH14R",
+					"expanded_url": "https://twitter.com/John_Grib/status/1282167911101030400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1110,
+							"h": 803,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 803,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732911923,
+			"id_str": "732911923",
+			"name": "기계인간 John Grib",
+			"screen_name": "John_Grib",
+			"location": "기하학의 이념",
+			"description": "유물론자.",
+			"url": "https://t.co/7YPkFr8iLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YPkFr8iLb",
+							"expanded_url": "https://johngrib.github.io",
+							"display_url": "johngrib.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7049,
+			"friends_count": 330,
+			"listed_count": 53,
+			"created_at": "Thu Aug 02 14:16:06 +0000 2012",
+			"favourites_count": 9239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732911923/1472973825",
+			"profile_link_color": "45619D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1931,
+		"favorite_count": 1724,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 늘 1년이 52주라는 걸 강하게 의식한다. 1주일은 1년의 약 1.92%. 1주일이 지날 때마다 1년이 2%씩 지나가는 셈이다. 군대에서도 이렇게 카운트하며 위안을 얻곤 했다.\n문득 이걸 시각화해보면 좋겠다는 생각이 들어서 스프레드시트로 표를 만들어 보았는데 70살까지 몇 주 안 남은 느낌이 드네. https://t.co/ibD81iH14R"
+	},
+	{
+		"created_at": "Sun Jul 12 12:37:37 +0000 2020",
+		"id": 1282293030855139300,
+		"id_str": "1282293030855139334",
+		"full_text": "이 트윗을 보니 뭔가 만들어보고 싶어졌다. 다음주에 만들어 볼 것. https://t.co/VUxGK5m8R7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUxGK5m8R7",
+					"expanded_url": "https://twitter.com/John_Grib/status/1282167911101030400",
+					"display_url": "twitter.com/John_Grib/stat…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282167911101030400,
+		"quoted_status_id_str": "1282167911101030400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VUxGK5m8R7",
+			"expanded": "https://twitter.com/John_Grib/status/1282167911101030400",
+			"display": "twitter.com/John_Grib/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 12 04:20:26 +0000 2020",
+			"id": 1282167911101030400,
+			"id_str": "1282167911101030400",
+			"full_text": "나는 늘 1년이 52주라는 걸 강하게 의식한다. 1주일은 1년의 약 1.92%. 1주일이 지날 때마다 1년이 2%씩 지나가는 셈이다. 군대에서도 이렇게 카운트하며 위안을 얻곤 했다.\n문득 이걸 시각화해보면 좋겠다는 생각이 들어서 스프레드시트로 표를 만들어 보았는데 70살까지 몇 주 안 남은 느낌이 드네. https://t.co/ibD81iH14R",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1282167203794542600,
+						"id_str": "1282167203794542593",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EcssR1TUYAEeAyK.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcssR1TUYAEeAyK.png",
+						"url": "https://t.co/ibD81iH14R",
+						"display_url": "pic.twitter.com/ibD81iH14R",
+						"expanded_url": "https://twitter.com/John_Grib/status/1282167911101030400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1110,
+								"h": 803,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1110,
+								"h": 803,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282167203794542600,
+						"id_str": "1282167203794542593",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EcssR1TUYAEeAyK.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcssR1TUYAEeAyK.png",
+						"url": "https://t.co/ibD81iH14R",
+						"display_url": "pic.twitter.com/ibD81iH14R",
+						"expanded_url": "https://twitter.com/John_Grib/status/1282167911101030400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1110,
+								"h": 803,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1110,
+								"h": 803,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 732911923,
+				"id_str": "732911923",
+				"name": "기계인간 John Grib",
+				"screen_name": "John_Grib",
+				"location": "기하학의 이념",
+				"description": "유물론자.",
+				"url": "https://t.co/7YPkFr8iLb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7YPkFr8iLb",
+								"expanded_url": "https://johngrib.github.io",
+								"display_url": "johngrib.github.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7049,
+				"friends_count": 330,
+				"listed_count": 53,
+				"created_at": "Thu Aug 02 14:16:06 +0000 2012",
+				"favourites_count": 9239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28157,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/732911923/1472973825",
+				"profile_link_color": "45619D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1931,
+			"favorite_count": 1724,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 트윗을 보니 뭔가 만들어보고 싶어졌다. 다음주에 만들어 볼 것. https://t.co/VUxGK5m8R7"
+	},
+	{
+		"created_at": "Sun Jul 12 12:35:53 +0000 2020",
+		"id": 1282234956782035000,
+		"id_str": "1282292595373162497",
+		"full_text": "⚡️ #BLACKPINK x #TwitterBlueroom: From @BLACKPINK official twitter account opening &amp; #HowYouLikeThat release To #TwitterBlueroom LIVE Q&amp;A events \nhttps://t.co/cFf4M6ksfK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						16,
+						32
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						89,
+						104
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cFf4M6ksfK",
+					"expanded_url": "https://twitter.com/i/moments/1282229965690298369",
+					"display_url": "twitter.com/i/moments/1282…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "트위터 코리아의 공식 계정입니다. 트위터 서비스 관련 문의는 https://t.co/jTMg7YsLw5 을, 광고 관련 문의는 @TwitterMktgKR 계정을 이용해 주세요",
+			"url": "https://t.co/SvWUEpsmUj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SvWUEpsmUj",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jTMg7YsLw5",
+							"expanded_url": "https://support.twitter.com",
+							"display_url": "support.twitter.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1178005,
+			"friends_count": 245,
+			"listed_count": 1946,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 2612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256433106891845632/OwLFJ_N4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256433106891845632/OwLFJ_N4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1520581920",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 380,
+		"favorite_count": 904,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⚡️ #BLACKPINK x #TwitterBlueroom: From @BLACKPINK official twitter account opening &amp; #HowYouLikeThat release To #TwitterBlueroom LIVE Q&amp;A events \nhttps://t.co/cFf4M6ksfK"
+	},
+	{
+		"created_at": "Sun Jul 12 12:21:23 +0000 2020",
+		"id": 1282254245643743200,
+		"id_str": "1282288947188559872",
+		"full_text": "@RVsmtown 몬스터 뮤비 1분 56초 슬기가 아니라 주현언니 인데요? ㅋㅋㅋㅋㅋ 주현언니가 들고 있는 게 슬기의 분신인 곰돌이 같은데😭 https://t.co/80rvBAY5Av",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282254230523240400,
+					"id_str": "1282254230523240451",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Ect7bdIUYAMFuan.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ect7bdIUYAMFuan.jpg",
+					"url": "https://t.co/80rvBAY5Av",
+					"display_url": "pic.twitter.com/80rvBAY5Av",
+					"expanded_url": "https://twitter.com/kang_kaku/status/1282254245643743232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 866,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282254230523240400,
+					"id_str": "1282254230523240451",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Ect7bdIUYAMFuan.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ect7bdIUYAMFuan.jpg",
+					"url": "https://t.co/80rvBAY5Av",
+					"display_url": "pic.twitter.com/80rvBAY5Av",
+					"expanded_url": "https://twitter.com/kang_kaku/status/1282254245643743232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 866,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282254230519025700,
+					"id_str": "1282254230519025666",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Ect7bdHUEAIAKnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ect7bdHUEAIAKnH.jpg",
+					"url": "https://t.co/80rvBAY5Av",
+					"display_url": "pic.twitter.com/80rvBAY5Av",
+					"expanded_url": "https://twitter.com/kang_kaku/status/1282254245643743232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1943,
+							"h": 868,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 3756091693,
+			"id_str": "3756091693",
+			"name": "카쿠🤓",
+			"screen_name": "kang_kaku",
+			"location": "슬기는 천재고 저는 바보입니다.",
+			"description": "엄청난 백세시대 / Fan Account",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12374,
+			"friends_count": 293,
+			"listed_count": 171,
+			"created_at": "Fri Oct 02 06:17:16 +0000 2015",
+			"favourites_count": 2290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096737816912920577/vY9izY9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096737816912920577/vY9izY9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3756091693/1516210801",
+			"profile_link_color": "E7AB90",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 239,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@RVsmtown 몬스터 뮤비 1분 56초 슬기가 아니라 주현언니 인데요? ㅋㅋㅋㅋㅋ 주현언니가 들고 있는 게 슬기의 분신인 곰돌이 같은데😭 https://t.co/80rvBAY5Av"
+	},
+	{
+		"created_at": "Sun Jul 12 12:19:13 +0000 2020",
+		"id": 1282150737800097800,
+		"id_str": "1282288402398711811",
+		"full_text": "정말정말 좋아하는 영상 https://t.co/ezHKyuDSuD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282150642438439000,
+					"id_str": "1282150642438438912",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282150642438438912/pu/img/xr3OyDOpgKyIbYc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282150642438438912/pu/img/xr3OyDOpgKyIbYc5.jpg",
+					"url": "https://t.co/ezHKyuDSuD",
+					"display_url": "pic.twitter.com/ezHKyuDSuD",
+					"expanded_url": "https://twitter.com/201701moha/status/1282150737800097794/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282150642438439000,
+					"id_str": "1282150642438438912",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282150642438438912/pu/img/xr3OyDOpgKyIbYc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282150642438438912/pu/img/xr3OyDOpgKyIbYc5.jpg",
+					"url": "https://t.co/ezHKyuDSuD",
+					"display_url": "pic.twitter.com/ezHKyuDSuD",
+					"expanded_url": "https://twitter.com/201701moha/status/1282150737800097794/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 52833,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282150642438438912/pu/vid/320x400/nz3XrTQ4wYthlng9.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282150642438438912/pu/vid/360x450/DeYaSzTP-LZho4aE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1282150642438438912/pu/pl/gdXUcbs5w_wdSB_9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282150642438438912/pu/vid/480x600/kv32u15g7u7nVH66.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 818694718196314100,
+			"id_str": "818694718196314112",
+			"name": "모하옷장",
+			"screen_name": "201701moha",
+			"location": "",
+			"description": "입고 싶은 옷을 입으세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10434,
+			"friends_count": 0,
+			"listed_count": 38,
+			"created_at": "Tue Jan 10 05:43:26 +0000 2017",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217089875259736065/fqZNnldT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217089875259736065/fqZNnldT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/818694718196314112/1578933099",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4358,
+		"favorite_count": 6137,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정말정말 좋아하는 영상 https://t.co/ezHKyuDSuD"
+	},
+	{
 		"created_at": "Sun Jul 12 11:25:17 +0000 2020",
 		"id": 1282265883302219800,
 		"id_str": "1282274829236875264",
