@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 01:28:05 +0000 2020",
+		"id": 1282481707598278700,
+		"id_str": "1282486926809927681",
+		"full_text": "걸크러시 유빈 언니! 옒 심장어택\nGirl Crush Yubin Unnie! Yeri's Fluttering Heart\n👉https://t.co/popPwCStFf\n\n#예리 #yeri #유빈 #레드벨벳 #원더걸스 #RedVelvet #Yubin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "유빈",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "원더걸스",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "Yubin",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/popPwCStFf",
+					"expanded_url": "https://youtu.be/Hekph3txWc4",
+					"display_url": "youtu.be/Hekph3txWc4",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeri's Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23899,
+			"friends_count": 0,
+			"listed_count": 96,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1591762226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 859,
+		"favorite_count": 1198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "걸크러시 유빈 언니! 옒 심장어택\nGirl Crush Yubin Unnie! Yeri's Fluttering Heart\n👉https://t.co/popPwCStFf\n\n#예리 #yeri #유빈 #레드벨벳 #원더걸스 #RedVelvet #Yubin"
+	},
+	{
+		"created_at": "Mon Jul 13 01:27:57 +0000 2020",
+		"id": 1282481212888473600,
+		"id_str": "1282486892831924230",
+		"full_text": "컨셉장인 끝판왕👑\n'신'인 가수 아이린&amp;슬기😈❤️\n\nSBS &lt;인기가요&gt;\n☞ 매주 일요일 오후 3시 50분 방송\n\n#SBS인기가요 #인기가요 #SpecialClip #스브스핫클립\n#아이린 #IRENE #슬기 #SEULGI #레드벨벳\n#RedVelvet #Monster #REDVELVET_IRENE_SEULGI https://t.co/EC29QVB3eV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS인기가요",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "SpecialClip",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "스브스핫클립",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "REDVELVET_IRENE_SEULGI",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282477871416479700,
+					"id_str": "1282477871416479745",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EcxJ0JlUYAAl_0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcxJ0JlUYAAl_0W.jpg",
+					"url": "https://t.co/EC29QVB3eV",
+					"display_url": "pic.twitter.com/EC29QVB3eV",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1282481212888473602/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282477871416479700,
+					"id_str": "1282477871416479745",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EcxJ0JlUYAAl_0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcxJ0JlUYAAl_0W.jpg",
+					"url": "https://t.co/EC29QVB3eV",
+					"display_url": "pic.twitter.com/EC29QVB3eV",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1282481212888473602/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 183950,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282477871416479745/vid/1280x720/DYCwTKNlmmFnq5ff.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1282477871416479745/pl/wQ1Qtq9HpuA3kzvz.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282477871416479745/vid/480x270/D0xa-w8BWJw3e8uf.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282477871416479745/vid/640x360/CSktmHkkihkXDObn.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1572777,
+			"friends_count": 5288,
+			"listed_count": 2768,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1592182957",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 421,
+		"favorite_count": 543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컨셉장인 끝판왕👑\n'신'인 가수 아이린&amp;슬기😈❤️\n\nSBS &lt;인기가요&gt;\n☞ 매주 일요일 오후 3시 50분 방송\n\n#SBS인기가요 #인기가요 #SpecialClip #스브스핫클립\n#아이린 #IRENE #슬기 #SEULGI #레드벨벳\n#RedVelvet #Monster #REDVELVET_IRENE_SEULGI https://t.co/EC29QVB3eV"
+	},
+	{
 		"created_at": "Sun Jul 12 23:25:11 +0000 2020",
 		"id": 1282449553254305800,
 		"id_str": "1282455997768962048",
