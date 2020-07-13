@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 09:28:17 +0000 2020",
+		"id": 1282604467049730000,
+		"id_str": "1282607772949938178",
+		"full_text": "나는 작은 몬스터...👹\n귓 속에 계속 맴돌아요...\nI’m a little monster... I’m a little monster...👹\n\n@RVsmtown #레드벨벳 #아이린 #슬기 \n#페이스캠 #FACECAM \n\n아이린: https://t.co/JMPf1H3Yl7\n슬기: https://t.co/jSbEOSux2v https://t.co/SkzGvNZJMe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "페이스캠",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "FACECAM",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						80,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JMPf1H3Yl7",
+					"expanded_url": "http://youtu.be/EyUwbNt0imc",
+					"display_url": "youtu.be/EyUwbNt0imc",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/jSbEOSux2v",
+					"expanded_url": "http://youtu.be/Y1v5kLxTKmI",
+					"display_url": "youtu.be/Y1v5kLxTKmI",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282603949963440000,
+					"id_str": "1282603949963440128",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecy5fzkVcAAGkXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecy5fzkVcAAGkXI.jpg",
+					"url": "https://t.co/SkzGvNZJMe",
+					"display_url": "pic.twitter.com/SkzGvNZJMe",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1282604467049730049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282603949963440000,
+					"id_str": "1282603949963440128",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecy5fzkVcAAGkXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecy5fzkVcAAGkXI.jpg",
+					"url": "https://t.co/SkzGvNZJMe",
+					"display_url": "pic.twitter.com/SkzGvNZJMe",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1282604467049730049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87323,
+			"friends_count": 73,
+			"listed_count": 128,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1593406283",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 425,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 작은 몬스터...👹\n귓 속에 계속 맴돌아요...\nI’m a little monster... I’m a little monster...👹\n\n@RVsmtown #레드벨벳 #아이린 #슬기 \n#페이스캠 #FACECAM \n\n아이린: https://t.co/JMPf1H3Yl7\n슬기: https://t.co/jSbEOSux2v https://t.co/SkzGvNZJMe"
+	},
+	{
+		"created_at": "Mon Jul 13 09:28:10 +0000 2020",
+		"id": 1282601681419554800,
+		"id_str": "1282607743153721350",
+		"full_text": "#주간아이돌 #주간아 @mbcweeklyidol\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기\n\n🚨&lt;주간아이돌&gt; 기습 LIVE 공지🚨\n\n레드벨벳-아이린&amp;슬기가 주간아와 함께 ⭐️곧⭐️ 기습 LIVE로 여러분을 찾아갑니다!\n\n🔽팔로우 하고 시작 알림받기🔽\nhttps://t.co/JqQL93bGsy\n\n#아이린 #슬기 https://t.co/t0XgkLsITH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "주간아",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						193,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mbcweeklyidol",
+					"name": "주간아이돌 (공식계정)",
+					"id": 1077860639928770600,
+					"id_str": "1077860639928770560",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JqQL93bGsy",
+					"expanded_url": "https://www.vlive.tv/video/202548",
+					"display_url": "vlive.tv/video/202548",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282601675216175000,
+					"id_str": "1282601675216175104",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecy3bZeUwAA81Ns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecy3bZeUwAA81Ns.jpg",
+					"url": "https://t.co/t0XgkLsITH",
+					"display_url": "pic.twitter.com/t0XgkLsITH",
+					"expanded_url": "https://twitter.com/mbcweeklyidol/status/1282601681419554816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282601675216175000,
+					"id_str": "1282601675216175104",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecy3bZeUwAA81Ns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecy3bZeUwAA81Ns.jpg",
+					"url": "https://t.co/t0XgkLsITH",
+					"display_url": "pic.twitter.com/t0XgkLsITH",
+					"expanded_url": "https://twitter.com/mbcweeklyidol/status/1282601681419554816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077860639928770600,
+			"id_str": "1077860639928770560",
+			"name": "주간아이돌 (공식계정)",
+			"screen_name": "mbcweeklyidol",
+			"location": "",
+			"description": "❣️MBC M & every1 매주 수요일 오후 5시 방송❣️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61109,
+			"friends_count": 8,
+			"listed_count": 105,
+			"created_at": "Wed Dec 26 09:36:17 +0000 2018",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229291978191323136/G_IQIfnl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229291978191323136/G_IQIfnl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077860639928770560/1581923218",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 780,
+		"favorite_count": 970,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#주간아이돌 #주간아 @mbcweeklyidol\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기\n\n🚨&lt;주간아이돌&gt; 기습 LIVE 공지🚨\n\n레드벨벳-아이린&amp;슬기가 주간아와 함께 ⭐️곧⭐️ 기습 LIVE로 여러분을 찾아갑니다!\n\n🔽팔로우 하고 시작 알림받기🔽\nhttps://t.co/JqQL93bGsy\n\n#아이린 #슬기 https://t.co/t0XgkLsITH"
+	},
+	{
+		"created_at": "Mon Jul 13 09:28:05 +0000 2020",
+		"id": 1282600654867959800,
+		"id_str": "1282607721695588353",
+		"full_text": "#아이린 #슬기(#레드벨벳) - #Monster♪ \n찐 이 세상 조합이 아니시다ㅠㅠㅠㅠㅠㅠ\n#RedVelvet #IRENE #SEULGI #뮤직뱅크 #MusicBank https://t.co/BtmIG81432",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이린",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "MusicBank",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282468098407194600,
+					"id_str": "1282468098407194625",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EcxY2IGUMAE6Ay1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcxY2IGUMAE6Ay1.jpg",
+					"url": "https://t.co/BtmIG81432",
+					"display_url": "pic.twitter.com/BtmIG81432",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1282600654867959813/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1314,
+							"h": 738,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282468098407194600,
+					"id_str": "1282468098407194625",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EcxY2IGUMAE6Ay1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcxY2IGUMAE6Ay1.jpg",
+					"url": "https://t.co/BtmIG81432",
+					"display_url": "pic.twitter.com/BtmIG81432",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1282600654867959813/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1314,
+							"h": 738,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 231298,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282468098407194625/vid/480x270/TMtJO_F94GZQ3e9Q.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1282468098407194625/pl/q9iTPOLqsbI3vccV.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282468098407194625/vid/640x360/yhh6Mm8y32yWIYOv.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282468098407194625/vid/1280x720/b8oDz5rMy3We1uYQ.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1078339,
+			"friends_count": 59263,
+			"listed_count": 2004,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1593483753",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아이린 #슬기(#레드벨벳) - #Monster♪ \n찐 이 세상 조합이 아니시다ㅠㅠㅠㅠㅠㅠ\n#RedVelvet #IRENE #SEULGI #뮤직뱅크 #MusicBank https://t.co/BtmIG81432"
+	},
+	{
 		"created_at": "Mon Jul 13 08:27:57 +0000 2020",
 		"id": 1282589006035730400,
 		"id_str": "1282592588101451778",
