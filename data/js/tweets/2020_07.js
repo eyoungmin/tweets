@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 04:27:58 +0000 2020",
+		"id": 1282531770286534700,
+		"id_str": "1282532194452414464",
+		"full_text": "라인업🌴\n러블리즈, 씨스타, 틴탑, 구구단, SF9, 에이프릴, 아스트로, AB6IX, 네이처, 레드벨벳, 빅스, 몬스타엑스, 워너원, 모모랜드, NCT 127, 카드, 여자친구, EXO-K, 방탄소년단, X1, 김동한, 더보이즈, 에이핑크, 펜타곤, EXID, 비투비, (여자)아이들 https://t.co/u4r0qhyNiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u4r0qhyNiK",
+					"expanded_url": "https://twitter.com/allthekpop/status/1282497428222955521",
+					"display_url": "twitter.com/allthekpop/sta…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43889,
+			"friends_count": 3266,
+			"listed_count": 206,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282497428222955500,
+		"quoted_status_id_str": "1282497428222955521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u4r0qhyNiK",
+			"expanded": "https://twitter.com/allthekpop/status/1282497428222955521",
+			"display": "twitter.com/allthekpop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 13 02:09:49 +0000 2020",
+			"id": 1282497428222955500,
+			"id_str": "1282497428222955521",
+			"full_text": "올케다방의 띵곡팔이👋🏻\n⏰PM 2:00~3:30\n\n정글 한 번 다녀왔으니까 같이 가도 좋지 않을까 ?-? 무인도 같이 가고 싶은 아이돌 특집 🤍\n-사실무인도는위험하니까더기가대신혼자다녀오고싶습니다( ◠‿◠ )-\n\n▶https://t.co/OFQP7dJDZJ\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/kwgkzJdWjp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OFQP7dJDZJ",
+						"expanded_url": "https://youtu.be/2ntrraLA7AI",
+						"display_url": "youtu.be/2ntrraLA7AI",
+						"indices": [
+							119,
+							142
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1282497422002802700,
+						"id_str": "1282497422002802688",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EcxYnD_U0AAoZwz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcxYnD_U0AAoZwz.jpg",
+						"url": "https://t.co/kwgkzJdWjp",
+						"display_url": "pic.twitter.com/kwgkzJdWjp",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1282497428222955521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282497422002802700,
+						"id_str": "1282497422002802688",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EcxYnD_U0AAoZwz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcxYnD_U0AAoZwz.jpg",
+						"url": "https://t.co/kwgkzJdWjp",
+						"display_url": "pic.twitter.com/kwgkzJdWjp",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1282497428222955521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/YpjchEd2rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpjchEd2rf",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43889,
+				"friends_count": 3266,
+				"listed_count": 206,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 8022,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5109,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 18,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라인업🌴\n러블리즈, 씨스타, 틴탑, 구구단, SF9, 에이프릴, 아스트로, AB6IX, 네이처, 레드벨벳, 빅스, 몬스타엑스, 워너원, 모모랜드, NCT 127, 카드, 여자친구, EXO-K, 방탄소년단, X1, 김동한, 더보이즈, 에이핑크, 펜타곤, EXID, 비투비, (여자)아이들 https://t.co/u4r0qhyNiK"
+	},
+	{
+		"created_at": "Mon Jul 13 04:07:40 +0000 2020",
+		"id": 1282449686457012200,
+		"id_str": "1282527089099341824",
+		"full_text": "기업이나 브랜드 로고에서 사용하고 있는 글꼴(Font)을 정리한 곳입니다.👍\nhttps://t.co/QxRm06lgqT\n#design #logo https://t.co/Lh5r3GG0W5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "design",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "logo",
+					"indices": [
+						75,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QxRm06lgqT",
+					"expanded_url": "https://buff.ly/2OgRNqX",
+					"display_url": "buff.ly/2OgRNqX",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282449684628418600,
+					"id_str": "1282449684628418561",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EcwtMYaWsAE4QFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcwtMYaWsAE4QFZ.jpg",
+					"url": "https://t.co/Lh5r3GG0W5",
+					"display_url": "pic.twitter.com/Lh5r3GG0W5",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1282449686457012224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1270,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282449684628418600,
+					"id_str": "1282449684628418561",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EcwtMYaWsAE4QFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcwtMYaWsAE4QFZ.jpg",
+					"url": "https://t.co/Lh5r3GG0W5",
+					"display_url": "pic.twitter.com/Lh5r3GG0W5",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1282449686457012224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1270,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214347436,
+			"id_str": "214347436",
+			"name": "개발자스럽다",
+			"screen_name": "gaeraecom",
+			"location": "Seoul, Korea",
+			"description": "개발자를 위한 다양한 정보를 공유합니다.\n다른 플랫폼에서 정보를 받고 싶다면 아래 링크로 접속해주세요❤️https://t.co/iHkINJk6f2",
+			"url": "https://t.co/BDUu9ojQrw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BDUu9ojQrw",
+							"expanded_url": "https://gaerae.com",
+							"display_url": "gaerae.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iHkINJk6f2",
+							"expanded_url": "http://blog.gaerae.com",
+							"display_url": "blog.gaerae.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3070,
+			"friends_count": 268,
+			"listed_count": 92,
+			"created_at": "Thu Nov 11 05:21:10 +0000 2010",
+			"favourites_count": 1350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277996224046497793/uxFuNBwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277996224046497793/uxFuNBwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214347436/1593533020",
+			"profile_link_color": "282C34",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기업이나 브랜드 로고에서 사용하고 있는 글꼴(Font)을 정리한 곳입니다.👍\nhttps://t.co/QxRm06lgqT\n#design #logo https://t.co/Lh5r3GG0W5"
+	},
+	{
+		"created_at": "Mon Jul 13 04:07:15 +0000 2020",
+		"id": 1282514998892228600,
+		"id_str": "1282526982169714689",
+		"full_text": "에어비앤비가 로고를 바꾸었을 때에도 인스타그램이 갬성 넘치는 카메라 로고를 버렸을 때에도 세상 끝날 것처럼 호들갑 떨었지만 이젠 언제 그랬냐는 듯 잘만 쓰고 있죠.\n\n중요한 것은 '왜' 입니다. 왜 이렇게 바꾼걸까.\n아니, 왜 그동안은 이렇게 바꾸지 않았던 걸까.\n\nhttps://t.co/Lq96dUL9rG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lq96dUL9rG",
+					"expanded_url": "https://ebadak.news/2020/07/13/what-is-watcha-for-watcha/",
+					"display_url": "ebadak.news/2020/07/13/wha…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114700851778449400,
+			"id_str": "1114700851778449408",
+			"name": "이바닥늬우스",
+			"screen_name": "ebadaknews",
+			"location": "",
+			"description": "찰지고 신나는 테크바닥 늬우스",
+			"url": "https://t.co/L0rYnRELas",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L0rYnRELas",
+							"expanded_url": "https://ebadak.news",
+							"display_url": "ebadak.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 0,
+			"listed_count": 19,
+			"created_at": "Sun Apr 07 01:26:07 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114700851778449408/1555415622",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에어비앤비가 로고를 바꾸었을 때에도 인스타그램이 갬성 넘치는 카메라 로고를 버렸을 때에도 세상 끝날 것처럼 호들갑 떨었지만 이젠 언제 그랬냐는 듯 잘만 쓰고 있죠.\n\n중요한 것은 '왜' 입니다. 왜 이렇게 바꾼걸까.\n아니, 왜 그동안은 이렇게 바꾸지 않았던 걸까.\n\nhttps://t.co/Lq96dUL9rG"
+	},
+	{
 		"created_at": "Mon Jul 13 03:01:12 +0000 2020",
 		"id": 1282510359107076000,
 		"id_str": "1282510359107076096",
