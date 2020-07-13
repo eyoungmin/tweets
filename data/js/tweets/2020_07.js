@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 14:16:32 +0000 2020",
+		"id": 1282611699984371700,
+		"id_str": "1282680315438219265",
+		"full_text": "아슬의 엔딩도 갓벽하다✨\n\n#쇼음악중심 #레드벨벳 #아이린 #슬기 https://t.co/SBYTW3NLoD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						33,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282611635216019500,
+					"id_str": "1282611635216019457",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EczAfJXVcAEyxMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EczAfJXVcAEyxMn.jpg",
+					"url": "https://t.co/SBYTW3NLoD",
+					"display_url": "pic.twitter.com/SBYTW3NLoD",
+					"expanded_url": "https://twitter.com/withMBC/status/1282611699984371712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 730,
+							"h": 410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282611635216019500,
+					"id_str": "1282611635216019457",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EczAfJXVcAEyxMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EczAfJXVcAEyxMn.jpg",
+					"url": "https://t.co/SBYTW3NLoD",
+					"display_url": "pic.twitter.com/SBYTW3NLoD",
+					"expanded_url": "https://twitter.com/withMBC/status/1282611699984371712/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 730,
+							"h": 410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							73,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EczAfJXVcAEyxMn.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1282611375282335700,
+		"in_reply_to_status_id_str": "1282611375282335746",
+		"in_reply_to_user_id": 104673579,
+		"in_reply_to_user_id_str": "104673579",
+		"in_reply_to_screen_name": "withMBC",
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997546,
+			"friends_count": 10356,
+			"listed_count": 4200,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1589438201",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 593,
+		"favorite_count": 1145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아슬의 엔딩도 갓벽하다✨\n\n#쇼음악중심 #레드벨벳 #아이린 #슬기 https://t.co/SBYTW3NLoD"
+	},
+	{
+		"created_at": "Mon Jul 13 14:16:29 +0000 2020",
+		"id": 1282611375282335700,
+		"id_str": "1282680299105615872",
+		"full_text": "Now Playing ♪\n아이린&amp;슬기(레드벨벳) -몬스터\n\n몬스터를 부르면서 이렇게 예쁘다고?\n아슬 비주얼 최고야 😭\n\n#쇼음악중심 #레드벨벳 #아이린 #슬기 #몬스터 https://t.co/AaJdNC1rgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "몬스터",
+					"indices": [
+						93,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282607349337743400,
+					"id_str": "1282607349337743361",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecy-jlWVAAEzNP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecy-jlWVAAEzNP8.jpg",
+					"url": "https://t.co/AaJdNC1rgq",
+					"display_url": "pic.twitter.com/AaJdNC1rgq",
+					"expanded_url": "https://twitter.com/withMBC/status/1282611375282335746/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282607349337743400,
+					"id_str": "1282607349337743361",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecy-jlWVAAEzNP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecy-jlWVAAEzNP8.jpg",
+					"url": "https://t.co/AaJdNC1rgq",
+					"display_url": "pic.twitter.com/AaJdNC1rgq",
+					"expanded_url": "https://twitter.com/withMBC/status/1282611375282335746/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 131531,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282607349337743361/vid/480x270/84TWhnizjgpqBzXp.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1282607349337743361/pl/Qb6sY2GzouXxYU-j.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282607349337743361/vid/640x360/SfHtXL3Bw68trafZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282607349337743361/vid/1280x720/wJb9qyAcmtkrccjw.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997546,
+			"friends_count": 10356,
+			"listed_count": 4200,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1589438201",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 796,
+		"favorite_count": 1341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "Now Playing ♪\n아이린&amp;슬기(레드벨벳) -몬스터\n\n몬스터를 부르면서 이렇게 예쁘다고?\n아슬 비주얼 최고야 😭\n\n#쇼음악중심 #레드벨벳 #아이린 #슬기 #몬스터 https://t.co/AaJdNC1rgq"
+	},
+	{
 		"created_at": "Mon Jul 13 12:25:15 +0000 2020",
 		"id": 1282646623726624800,
 		"id_str": "1282652307184910338",
