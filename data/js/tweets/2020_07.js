@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 06:28:03 +0000 2020",
+		"id": 1282553472080949200,
+		"id_str": "1282562416337981440",
+		"full_text": "Mini-album IRENE &amp; SEULGI ‘Monster’ Tempati Peringkat 1 Dalam Tangga Lagu Mingguan!\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉https://t.co/fNPNHSTzam\n\n@RVsmtown #IRENE #SEULGI https://t.co/pjWWkyqiQR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						181,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fNPNHSTzam",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/628917944391890/",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282553464204038100,
+					"id_str": "1282553464204038144",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EcyLlJdUEAA19tn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcyLlJdUEAA19tn.jpg",
+					"url": "https://t.co/pjWWkyqiQR",
+					"display_url": "pic.twitter.com/pjWWkyqiQR",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1282553472080949249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282553464204038100,
+					"id_str": "1282553464204038144",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EcyLlJdUEAA19tn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcyLlJdUEAA19tn.jpg",
+					"url": "https://t.co/pjWWkyqiQR",
+					"display_url": "pic.twitter.com/pjWWkyqiQR",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1282553472080949249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200769,
+			"friends_count": 25,
+			"listed_count": 169,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 918,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Mini-album IRENE &amp; SEULGI ‘Monster’ Tempati Peringkat 1 Dalam Tangga Lagu Mingguan!\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉https://t.co/fNPNHSTzam\n\n@RVsmtown #IRENE #SEULGI https://t.co/pjWWkyqiQR"
+	},
+	{
 		"created_at": "Mon Jul 13 04:27:58 +0000 2020",
 		"id": 1282531770286534700,
 		"id_str": "1282532194452414464",
