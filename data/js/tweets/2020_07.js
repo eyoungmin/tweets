@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 08:27:57 +0000 2020",
+		"id": 1282589006035730400,
+		"id_str": "1282592588101451778",
+		"full_text": "팬PD들이 뽑은 관찰 예능에 최적화된 아이돌은💝? \nWhich idol do you think will do well in observation reality show? \n\n🏆8강전 진행 중🏆\n#SEUNGKWAN vs #SEUNGHEE\n#JISOO vs #SEULGI\n#SEHUN vs #INSEONG \n#YERIN vs #DAEHWI \n\nVote here▶https://t.co/ApYzKhUq11 https://t.co/3ulo2cbnQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEUNGKWAN",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "SEUNGHEE",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "SEHUN",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "INSEONG",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "YERIN",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "DAEHWI",
+					"indices": [
+						180,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ApYzKhUq11",
+					"expanded_url": "https://bit.ly/32dF2Wa",
+					"display_url": "bit.ly/32dF2Wa",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282589000474083300,
+					"id_str": "1282589000474083328",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecyr5oYUwAANHhY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecyr5oYUwAANHhY.jpg",
+					"url": "https://t.co/3ulo2cbnQz",
+					"display_url": "pic.twitter.com/3ulo2cbnQz",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1282589006035730434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282589000474083300,
+					"id_str": "1282589000474083328",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecyr5oYUwAANHhY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecyr5oYUwAANHhY.jpg",
+					"url": "https://t.co/3ulo2cbnQz",
+					"display_url": "pic.twitter.com/3ulo2cbnQz",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1282589006035730434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282589000478322700,
+					"id_str": "1282589000478322688",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecyr5oZVcAA6KFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecyr5oZVcAA6KFp.jpg",
+					"url": "https://t.co/3ulo2cbnQz",
+					"display_url": "pic.twitter.com/3ulo2cbnQz",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1282589006035730434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282589000478294000,
+					"id_str": "1282589000478294016",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecyr5oZVAAAPdmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecyr5oZVAAAPdmj.jpg",
+					"url": "https://t.co/3ulo2cbnQz",
+					"display_url": "pic.twitter.com/3ulo2cbnQz",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1282589006035730434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282589000474095600,
+					"id_str": "1282589000474095616",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecyr5oYU8AAG5Bm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecyr5oYU8AAG5Bm.jpg",
+					"url": "https://t.co/3ulo2cbnQz",
+					"display_url": "pic.twitter.com/3ulo2cbnQz",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1282589006035730434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65533,
+			"friends_count": 638,
+			"listed_count": 108,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팬PD들이 뽑은 관찰 예능에 최적화된 아이돌은💝? \nWhich idol do you think will do well in observation reality show? \n\n🏆8강전 진행 중🏆\n#SEUNGKWAN vs #SEUNGHEE\n#JISOO vs #SEULGI\n#SEHUN vs #INSEONG \n#YERIN vs #DAEHWI \n\nVote here▶https://t.co/ApYzKhUq11 https://t.co/3ulo2cbnQz"
+	},
+	{
 		"created_at": "Mon Jul 13 07:59:29 +0000 2020",
 		"id": 1282585424641380400,
 		"id_str": "1282585424641380352",
