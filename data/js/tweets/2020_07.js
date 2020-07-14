@@ -1,6 +1,1363 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 03:47:06 +0000 2020",
+		"id": 1282884298786451500,
+		"id_str": "1282884298786451456",
+		"full_text": "❝그레잇은 또 이용자 범위를 내국인에서 외국인으로 확장하려고 했지만 관련 정부 부처들의 규제에 막혔다. 그레잇 관계자는 “정부는 해외송금 라이선스를 취득하라는 말만 반복했다”며 “기존 은행이 해왔다는 이유로 똑같은 요구를 했다”고 말했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1282884297284702200,
+		"in_reply_to_status_id_str": "1282884297284702208",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝그레잇은 또 이용자 범위를 내국인에서 외국인으로 확장하려고 했지만 관련 정부 부처들의 규제에 막혔다. 그레잇 관계자는 “정부는 해외송금 라이선스를 취득하라는 말만 반복했다”며 “기존 은행이 해왔다는 이유로 똑같은 요구를 했다”고 말했다."
+	},
+	{
+		"created_at": "Tue Jul 14 03:47:05 +0000 2020",
+		"id": 1282884297284702200,
+		"id_str": "1282884297284702208",
+		"full_text": "❝그레잇은 지난해 4월 기획재정부가 외국환거래 규정을 개정하면서 온라인 환전사업자 자격을 얻었다. 그러나 인천국제공항에서 이용자에게 외화를 전달하다가 공항에 입주한 은행들의 항의로 서비스를 제지받는 등 고충을 겪었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1282884296009674800,
+		"in_reply_to_status_id_str": "1282884296009674754",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝그레잇은 지난해 4월 기획재정부가 외국환거래 규정을 개정하면서 온라인 환전사업자 자격을 얻었다. 그러나 인천국제공항에서 이용자에게 외화를 전달하다가 공항에 입주한 은행들의 항의로 서비스를 제지받는 등 고충을 겪었다."
+	},
+	{
+		"created_at": "Tue Jul 14 03:47:05 +0000 2020",
+		"id": 1282884296009674800,
+		"id_str": "1282884296009674754",
+		"full_text": "정부 규제에 혁신벤처 또 좌절…이번엔 '온라인 반값 환전' 폐업\nhttps://t.co/x89aUNQSVk\n#공항 #온라인환전 #환전 #은행  #플랫폼비지니스 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공항",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "온라인환전",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "환전",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "은행",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "플랫폼비지니스",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x89aUNQSVk",
+					"expanded_url": "https://www.hankyung.com/it/article/2019110309041",
+					"display_url": "hankyung.com/it/article/201…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1282883387410100200,
+		"in_reply_to_status_id_str": "1282883387410100226",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정부 규제에 혁신벤처 또 좌절…이번엔 '온라인 반값 환전' 폐업\nhttps://t.co/x89aUNQSVk\n#공항 #온라인환전 #환전 #은행  #플랫폼비지니스 #minfav"
+	},
+	{
+		"created_at": "Tue Jul 14 03:43:29 +0000 2020",
+		"id": 1282883387410100200,
+		"id_str": "1282883387410100226",
+		"full_text": "환전 배달앱이 이렇게 됐었구나. 환전 앱은 여럿 있는 것 같은데 찾으러 가는 것(수령)이랑 배달이랑 다르다고 제한하는 건가. 왜 단속한 건지 찾아봐야겠다. https://t.co/4TnRonUvMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4TnRonUvMG",
+					"expanded_url": "https://twitter.com/estima7/status/1282840538517913600",
+					"display_url": "twitter.com/estima7/status…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282840538517913600,
+		"quoted_status_id_str": "1282840538517913600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4TnRonUvMG",
+			"expanded": "https://twitter.com/estima7/status/1282840538517913600",
+			"display": "twitter.com/estima7/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 14 00:53:13 +0000 2020",
+			"id": 1282840538517913600,
+			"id_str": "1282840538517913600",
+			"full_text": "도심 공유숙박, 온라인 환전… 규제에 또 막혔다 https://t.co/Mv8AVeRCYd 공유숙박 위홈과 온라인 환전 서비스 그레잇의 경우. https://t.co/9sWDO6VV5E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Mv8AVeRCYd",
+						"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003546150",
+						"display_url": "news.naver.com/main/read.nhn?…",
+						"indices": [
+							27,
+							50
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1282840531249229800,
+						"id_str": "1282840531249229824",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec2QqpiVcAAJsYg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec2QqpiVcAAJsYg.jpg",
+						"url": "https://t.co/9sWDO6VV5E",
+						"display_url": "pic.twitter.com/9sWDO6VV5E",
+						"expanded_url": "https://twitter.com/estima7/status/1282840538517913600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 647,
+								"h": 1061,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 415,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 647,
+								"h": 1061,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282840531249229800,
+						"id_str": "1282840531249229824",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec2QqpiVcAAJsYg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec2QqpiVcAAJsYg.jpg",
+						"url": "https://t.co/9sWDO6VV5E",
+						"display_url": "pic.twitter.com/9sWDO6VV5E",
+						"expanded_url": "https://twitter.com/estima7/status/1282840538517913600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 647,
+								"h": 1061,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 415,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 647,
+								"h": 1061,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14060875,
+				"id_str": "14060875",
+				"name": "에스티마",
+				"screen_name": "estima7",
+				"location": "Seoul",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 369924,
+				"friends_count": 2276,
+				"listed_count": 4502,
+				"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+				"favourites_count": 2895,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 74058,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "환전 배달앱이 이렇게 됐었구나. 환전 앱은 여럿 있는 것 같은데 찾으러 가는 것(수령)이랑 배달이랑 다르다고 제한하는 건가. 왜 단속한 건지 찾아봐야겠다. https://t.co/4TnRonUvMG"
+	},
+	{
+		"created_at": "Tue Jul 14 03:39:23 +0000 2020",
+		"id": 1282840538517913600,
+		"id_str": "1282882359340105731",
+		"full_text": "도심 공유숙박, 온라인 환전… 규제에 또 막혔다 https://t.co/Mv8AVeRCYd 공유숙박 위홈과 온라인 환전 서비스 그레잇의 경우. https://t.co/9sWDO6VV5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mv8AVeRCYd",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003546150",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282840531249229800,
+					"id_str": "1282840531249229824",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec2QqpiVcAAJsYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec2QqpiVcAAJsYg.jpg",
+					"url": "https://t.co/9sWDO6VV5E",
+					"display_url": "pic.twitter.com/9sWDO6VV5E",
+					"expanded_url": "https://twitter.com/estima7/status/1282840538517913600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 1061,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282840531249229800,
+					"id_str": "1282840531249229824",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec2QqpiVcAAJsYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec2QqpiVcAAJsYg.jpg",
+					"url": "https://t.co/9sWDO6VV5E",
+					"display_url": "pic.twitter.com/9sWDO6VV5E",
+					"expanded_url": "https://twitter.com/estima7/status/1282840538517913600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 1061,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369924,
+			"friends_count": 2276,
+			"listed_count": 4502,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도심 공유숙박, 온라인 환전… 규제에 또 막혔다 https://t.co/Mv8AVeRCYd 공유숙박 위홈과 온라인 환전 서비스 그레잇의 경우. https://t.co/9sWDO6VV5E"
+	},
+	{
+		"created_at": "Tue Jul 14 03:26:11 +0000 2020",
+		"id": 1282856360913195000,
+		"id_str": "1282879035186352129",
+		"full_text": "'A봇 진짜 별로다' 'B봇보다는 잘 만들어주세요' 라는 평가를, 어떻게 해석해야 할까요? 대화형 UX 사용성 체크리스트에 대해 다뤄봤습니다. \n젠틀파이에서 서비스기획자를 모시고 있어요. 봇기획 경험 유무 무관! 본인입사지원+관심가질만한분에게 공유 부탁드려요. https://t.co/pQVeqd7s9w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pQVeqd7s9w",
+					"expanded_url": "https://brunch.co.kr/@gentlepie/50",
+					"display_url": "brunch.co.kr/@gentlepie/50",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18551127,
+			"id_str": "18551127",
+			"name": "Jamie Park 제이미 🤖",
+			"screen_name": "jamiepark",
+			"location": "대한민국",
+			"description": "#AI봇 만드는 젠틀파이의 대표, 어쩌다보니 매달 한번씩 글쓰는 블로거, [START! 트위터와 미투데이] 저자. 아무거나 읽는 독후감 트위터러 & 스타워즈(9편 제외) 애호가. #샬롯홈 으로 쇼핑하는 사람. https://t.co/uaiwKCsDf5",
+			"url": "https://t.co/BnTh8A3AqX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BnTh8A3AqX",
+							"expanded_url": "http://www.brunch.co.kr/@gentlepie",
+							"display_url": "brunch.co.kr/@gentlepie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uaiwKCsDf5",
+							"expanded_url": "http://gentlepie.com",
+							"display_url": "gentlepie.com",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15244,
+			"friends_count": 3708,
+			"listed_count": 936,
+			"created_at": "Fri Jan 02 12:37:23 +0000 2009",
+			"favourites_count": 8344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063269802859421696/E_nWOFEm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063269802859421696/E_nWOFEm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18551127/1484703184",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'A봇 진짜 별로다' 'B봇보다는 잘 만들어주세요' 라는 평가를, 어떻게 해석해야 할까요? 대화형 UX 사용성 체크리스트에 대해 다뤄봤습니다. \n젠틀파이에서 서비스기획자를 모시고 있어요. 봇기획 경험 유무 무관! 본인입사지원+관심가질만한분에게 공유 부탁드려요. https://t.co/pQVeqd7s9w"
+	},
+	{
+		"created_at": "Tue Jul 14 03:25:11 +0000 2020",
+		"id": 1282876252093743000,
+		"id_str": "1282878784329453568",
+		"full_text": "3YE (써드아이) 'SUMMER SPECIAL' Released!\n♪https://t.co/O1GAyCDY8b https://t.co/WZPcrtPwqM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O1GAyCDY8b",
+					"expanded_url": "https://www.facebook.com/942907422391026/posts/3710993145582426/",
+					"display_url": "facebook.com/94290742239102…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282876240546762800,
+					"id_str": "1282876240546762754",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec2xJNCUEAINezX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec2xJNCUEAINezX.jpg",
+					"url": "https://t.co/WZPcrtPwqM",
+					"display_url": "pic.twitter.com/WZPcrtPwqM",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1282876252093743104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282876240546762800,
+					"id_str": "1282876240546762754",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec2xJNCUEAINezX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec2xJNCUEAINezX.jpg",
+					"url": "https://t.co/WZPcrtPwqM",
+					"display_url": "pic.twitter.com/WZPcrtPwqM",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1282876252093743104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6364,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3YE (써드아이) 'SUMMER SPECIAL' Released!\n♪https://t.co/O1GAyCDY8b https://t.co/WZPcrtPwqM"
+	},
+	{
+		"created_at": "Tue Jul 14 03:22:30 +0000 2020",
+		"id": 1282849051990352000,
+		"id_str": "1282878106902990848",
+		"full_text": "SideQuest - 슬랙전용 티켓 시스템 https://t.co/FKmJHbpGgg \n- 슬랙 앱으로 슬랙 안에서 모든 것이 사용가능 \n- 워크스페이스내 멤버간 티켓 발행 및 수신 \n- 개인 혹은 다수, 또는 채널 대상으로 티켓 발행 가능\n- 자동 일간 브리핑 \n- 슬랙 대화/DM 메시지에서 티켓 생성 가능 \n- 데드라인...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FKmJHbpGgg",
+					"expanded_url": "https://j.mp/3071BZZ",
+					"display_url": "j.mp/3071BZZ",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3311,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SideQuest - 슬랙전용 티켓 시스템 https://t.co/FKmJHbpGgg \n- 슬랙 앱으로 슬랙 안에서 모든 것이 사용가능 \n- 워크스페이스내 멤버간 티켓 발행 및 수신 \n- 개인 혹은 다수, 또는 채널 대상으로 티켓 발행 가능\n- 자동 일간 브리핑 \n- 슬랙 대화/DM 메시지에서 티켓 생성 가능 \n- 데드라인..."
+	},
+	{
+		"created_at": "Tue Jul 14 03:22:17 +0000 2020",
+		"id": 1282872964975743000,
+		"id_str": "1282878053299838977",
+		"full_text": "WindowSwap - 세상 다른 사람들 창밖에는 뭐가 보일까 https://t.co/MYkplQLlXf \n- 전 세계 사람들이 자신의 창밖 모습을 공유하는 서비스\n- 클릭해서 계속 다음 창으로 이동하면 전 세계의 창밖 풍경을 감상 가능\n- 실시간은 아니고, 10분 정도의 HD영상을 찍어서 운영자에게 보내면 그걸 랜덤으...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MYkplQLlXf",
+					"expanded_url": "https://j.mp/30bWRSK",
+					"display_url": "j.mp/30bWRSK",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3311,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WindowSwap - 세상 다른 사람들 창밖에는 뭐가 보일까 https://t.co/MYkplQLlXf \n- 전 세계 사람들이 자신의 창밖 모습을 공유하는 서비스\n- 클릭해서 계속 다음 창으로 이동하면 전 세계의 창밖 풍경을 감상 가능\n- 실시간은 아니고, 10분 정도의 HD영상을 찍어서 운영자에게 보내면 그걸 랜덤으..."
+	},
+	{
+		"created_at": "Tue Jul 14 03:21:39 +0000 2020",
+		"id": 1282810598795821000,
+		"id_str": "1282877896571281408",
+		"full_text": "흔들리는 틱톡 빈틈 파고드는 스냅챗 https://t.co/CSZJ4eymcj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CSZJ4eymcj",
+					"expanded_url": "http://www.bloter.net/archives/395562",
+					"display_url": "bloter.net/archives/395562",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55190,
+			"friends_count": 9,
+			"listed_count": 2389,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흔들리는 틱톡 빈틈 파고드는 스냅챗 https://t.co/CSZJ4eymcj"
+	},
+	{
 		"created_at": "Tue Jul 14 03:00:37 +0000 2020",
 		"id": 1282872603267432400,
 		"id_str": "1282872603267432448",
