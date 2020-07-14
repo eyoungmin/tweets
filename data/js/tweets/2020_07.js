@@ -1,6 +1,1278 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 06:25:31 +0000 2020",
+		"id": 1282912647311003600,
+		"id_str": "1282924165151023104",
+		"full_text": "#BLACKPINK #TwitterBlueRoom\n📺 CLIP #3 : BLACKPINK Q&amp;A with BLINK\n\n#블랙핑크 #HowYouLikeThat #JISOO #JENNIE #ROSÉ #LISA #YG https://t.co/23hoR1SovZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "TwitterBlueRoom",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						76,
+						91
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						119,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282911947994697700,
+					"id_str": "1282911947994697728",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1282911947994697728/img/_Uwql_jCYE0qsJ0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1282911947994697728/img/_Uwql_jCYE0qsJ0C.jpg",
+					"url": "https://t.co/23hoR1SovZ",
+					"display_url": "pic.twitter.com/23hoR1SovZ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1282912647311003648/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282911947994697700,
+					"id_str": "1282911947994697728",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1282911947994697728/img/_Uwql_jCYE0qsJ0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1282911947994697728/img/_Uwql_jCYE0qsJ0C.jpg",
+					"url": "https://t.co/23hoR1SovZ",
+					"display_url": "pic.twitter.com/23hoR1SovZ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1282912647311003648/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 109543,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1282911947994697728/pl/nRkhUw1sqDEgJmo5.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282911947994697728/vid/640x360/Rg_QSJCo7CYO8b9i.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282911947994697728/vid/480x270/o_ALQl8hb3ZwYpr_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282911947994697728/vid/1280x720/FvfMvOgvvOLYLF7W.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "CLIP #3 : BLACKPINK Q&A with BLINK",
+						"description": "CLIP #3 : BLACKPINK Q&A with BLINK",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/NiTWmcO2py",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NiTWmcO2py",
+							"expanded_url": "https://youtu.be/ioNng23DkIM",
+							"display_url": "youtu.be/ioNng23DkIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985213,
+			"friends_count": 0,
+			"listed_count": 1188,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1593159504",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10472,
+		"favorite_count": 33539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK #TwitterBlueRoom\n📺 CLIP #3 : BLACKPINK Q&amp;A with BLINK\n\n#블랙핑크 #HowYouLikeThat #JISOO #JENNIE #ROSÉ #LISA #YG https://t.co/23hoR1SovZ"
+	},
+	{
+		"created_at": "Tue Jul 14 06:25:26 +0000 2020",
+		"id": 1282912603417636900,
+		"id_str": "1282924143722340352",
+		"full_text": "🐶 '개는 훌륭하다’ 조이 활약 모아 보기 🐣💚\n\nhttps://t.co/Qi29blaOin\nhttps://t.co/6DAczvyVDq\nhttps://t.co/ssMbPyrcmM\nhttps://t.co/TXDTlfCsdJ\nhttps://t.co/wqYFv6hTWN\n\n#조이 #JOY #레드벨벳 #RedVelvet #개는훌륭하다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"text": "개는훌륭하다",
+					"indices": [
+						175,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qi29blaOin",
+					"expanded_url": "https://tv.naver.com/v/14766697",
+					"display_url": "tv.naver.com/v/14766697",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/6DAczvyVDq",
+					"expanded_url": "https://tv.naver.com/v/14766820",
+					"display_url": "tv.naver.com/v/14766820",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/ssMbPyrcmM",
+					"expanded_url": "https://tv.naver.com/v/14767014",
+					"display_url": "tv.naver.com/v/14767014",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/TXDTlfCsdJ",
+					"expanded_url": "https://tv.naver.com/v/14767015",
+					"display_url": "tv.naver.com/v/14767015",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/wqYFv6hTWN",
+					"expanded_url": "https://tv.naver.com/v/14767296",
+					"display_url": "tv.naver.com/v/14767296",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2879639,
+			"friends_count": 2,
+			"listed_count": 6175,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2819,
+		"favorite_count": 9595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐶 '개는 훌륭하다’ 조이 활약 모아 보기 🐣💚\n\nhttps://t.co/Qi29blaOin\nhttps://t.co/6DAczvyVDq\nhttps://t.co/ssMbPyrcmM\nhttps://t.co/TXDTlfCsdJ\nhttps://t.co/wqYFv6hTWN\n\n#조이 #JOY #레드벨벳 #RedVelvet #개는훌륭하다"
+	},
+	{
+		"created_at": "Tue Jul 14 06:25:12 +0000 2020",
+		"id": 1282912289184559000,
+		"id_str": "1282924088437215233",
+		"full_text": "#BLACKPINK #TwitterBlueRoom \n📺 CLIP #2 : BLACKPINK Customized Album Cover \n\n#블랙핑크 #HowYouLikeThat #JISOO #JENNIE #ROSÉ #LISA #YG https://t.co/TkJXwy7Uyw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "TwitterBlueRoom",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						125,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282911054758989800,
+					"id_str": "1282911054758989825",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1282911054758989825/img/oZdGsgmM14dQOLky.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1282911054758989825/img/oZdGsgmM14dQOLky.jpg",
+					"url": "https://t.co/TkJXwy7Uyw",
+					"display_url": "pic.twitter.com/TkJXwy7Uyw",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1282912289184559105/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282911054758989800,
+					"id_str": "1282911054758989825",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1282911054758989825/img/oZdGsgmM14dQOLky.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1282911054758989825/img/oZdGsgmM14dQOLky.jpg",
+					"url": "https://t.co/TkJXwy7Uyw",
+					"display_url": "pic.twitter.com/TkJXwy7Uyw",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1282912289184559105/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 174475,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282911054758989825/vid/1280x720/ZhNXX1xSJgZAyVaR.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282911054758989825/vid/480x270/U8zeFN5dT8jCF39s.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282911054758989825/vid/640x360/IkBG3uFJIr_drr76.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1282911054758989825/pl/-xYG2-gv5o9l1nrJ.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "CLIP #2 : BLACKPINK Customized Album Cover",
+						"description": "#BLACKPINK #TwitterBlueRoom\n📺 CLIP #2 : BLACKPINK Customized Album Cover\n\n#블랙핑크 #HowYouLikeThat #JISOO #JENNIE #ROSÉ #LISA #YG",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/NiTWmcO2py",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NiTWmcO2py",
+							"expanded_url": "https://youtu.be/ioNng23DkIM",
+							"display_url": "youtu.be/ioNng23DkIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985213,
+			"friends_count": 0,
+			"listed_count": 1188,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1593159504",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10825,
+		"favorite_count": 34049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK #TwitterBlueRoom \n📺 CLIP #2 : BLACKPINK Customized Album Cover \n\n#블랙핑크 #HowYouLikeThat #JISOO #JENNIE #ROSÉ #LISA #YG https://t.co/TkJXwy7Uyw"
+	},
+	{
+		"created_at": "Tue Jul 14 06:23:12 +0000 2020",
+		"id": 1282923584856273000,
+		"id_str": "1282923584856272897",
+		"full_text": "@kftcnews 와디즈 문제, 공정거래위원회와 대화하다!\nhttps://t.co/fwWJJeBksg\n\n국가기관 일처리가 체계가 이상하네. 문의 달라고 하고 전화했더니 따진다고  한다.\n\n#황경태 #변호사 #와디즈 #Wadiz #minfav",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "황경태",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "변호사",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "와디즈",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "Wadiz",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kftcnews",
+					"name": "공정거래위원회",
+					"id": 60856026,
+					"id_str": "60856026",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fwWJJeBksg",
+					"expanded_url": "https://youtu.be/vZnqpVavLtw",
+					"display_url": "youtu.be/vZnqpVavLtw",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1282918745736769500,
+		"in_reply_to_status_id_str": "1282918745736769537",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 935,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@kftcnews 와디즈 문제, 공정거래위원회와 대화하다!\nhttps://t.co/fwWJJeBksg\n\n국가기관 일처리가 체계가 이상하네. 문의 달라고 하고 전화했더니 따진다고  한다.\n\n#황경태 #변호사 #와디즈 #Wadiz #minfav"
+	},
+	{
+		"created_at": "Tue Jul 14 06:17:50 +0000 2020",
+		"id": 1282922234844086300,
+		"id_str": "1282922234844086272",
+		"full_text": "짭이나 불법유통 하는 업자들은 노났네. 앞으로 자금 조달이라고 하면서 투자 받으세요. 그러면 소보법 회피 OK!?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 935,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "짭이나 불법유통 하는 업자들은 노났네. 앞으로 자금 조달이라고 하면서 투자 받으세요. 그러면 소보법 회피 OK!?"
+	},
+	{
+		"created_at": "Tue Jul 14 06:16:38 +0000 2020",
+		"id": 1282921928773087200,
+		"id_str": "1282921928773087232",
+		"full_text": "한 번은 빡쳐서 그러지 말라고 하며 한 마디 하고 나왔는데 살면서 느끼는 것은 피해를 보면 목소리 큰 사람이 이기는 것임. 국가가 보호해주지 않으니까. 그니까 환불원정대 같은 말도 나오는 것이겠지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1282919754689216500,
+		"in_reply_to_status_id_str": "1282919754689216514",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 935,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "한 번은 빡쳐서 그러지 말라고 하며 한 마디 하고 나왔는데 살면서 느끼는 것은 피해를 보면 목소리 큰 사람이 이기는 것임. 국가가 보호해주지 않으니까. 그니까 환불원정대 같은 말도 나오는 것이겠지."
+	},
+	{
+		"created_at": "Tue Jul 14 06:11:21 +0000 2020",
+		"id": 1282920600382533600,
+		"id_str": "1282920600382533633",
+		"full_text": "연예인의 모든 활동을 모든 사람들이 인지하고 있는 것은 아니기 때문에 (팬들은 이런 CF/광고에 출연했다는 사실을 알지만) 소개하는 제품에 광고에 출연했다면 이에 대해 밝혀야 한다고 생각함. 이것은 추천보증심사지침에 쉽게 명시하여야 하고 소속사는 이에 대해 충분히 인식하고 알려야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 935,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "연예인의 모든 활동을 모든 사람들이 인지하고 있는 것은 아니기 때문에 (팬들은 이런 CF/광고에 출연했다는 사실을 알지만) 소개하는 제품에 광고에 출연했다면 이에 대해 밝혀야 한다고 생각함. 이것은 추천보증심사지침에 쉽게 명시하여야 하고 소속사는 이에 대해 충분히 인식하고 알려야."
+	},
+	{
+		"created_at": "Tue Jul 14 06:07:59 +0000 2020",
+		"id": 1282919754689216500,
+		"id_str": "1282919754689216514",
+		"full_text": "나는 와디즈 제품을 3개나 환불 받았지만 이때마다 느끼는 것은 알바인가 소비자인가 싶은 사람들이 인지부조화를 느끼며 합리화를 하는 것인데 피해자를 똑똑하지 못한 사람으로 몰아세우는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1282919313691652000,
+		"in_reply_to_status_id_str": "1282919313691652097",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 935,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나는 와디즈 제품을 3개나 환불 받았지만 이때마다 느끼는 것은 알바인가 소비자인가 싶은 사람들이 인지부조화를 느끼며 합리화를 하는 것인데 피해자를 똑똑하지 못한 사람으로 몰아세우는 것."
+	},
+	{
+		"created_at": "Tue Jul 14 06:06:14 +0000 2020",
+		"id": 1282919313691652000,
+		"id_str": "1282919313691652097",
+		"full_text": "해당 기업이 더 설칠 수 있는 것은 인지부조화임. 리워드가 판매와 다를 것 없는 것이 명명백백한데 구매한 이들 중에는 투자개념이다 이건 판매로 산 것이 아니다라고 말하면서 남들과 다른 나는 얼리어답터 투자자의 스탠스를 취하면서 쉴드 치는 것임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 935,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "해당 기업이 더 설칠 수 있는 것은 인지부조화임. 리워드가 판매와 다를 것 없는 것이 명명백백한데 구매한 이들 중에는 투자개념이다 이건 판매로 산 것이 아니다라고 말하면서 남들과 다른 나는 얼리어답터 투자자의 스탠스를 취하면서 쉴드 치는 것임."
+	},
+	{
 		"created_at": "Tue Jul 14 06:00:09 +0000 2020",
 		"id": 1282917784347787300,
 		"id_str": "1282917784347787264",
