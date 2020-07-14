@@ -1,6 +1,856 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 06:00:09 +0000 2020",
+		"id": 1282917784347787300,
+		"id_str": "1282917784347787264",
+		"full_text": "공정위 일 좀 해라. 논리가 없는 기업 편들기 도대체 국가 기관인가 싶은 이 답변서를 보면 화가 날 수 밖에 없음. 앞으로 프리오더 하면서 자금 조달이라고 하면 법적 문제 회피 오케이임? 프리오더도 소보원 보호를 받을 수 있는데 이 모순은 뭐임?\nhttps://t.co/bBRvn8iden",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bBRvn8iden",
+					"expanded_url": "https://youtu.be/FT7bky0oluc",
+					"display_url": "youtu.be/FT7bky0oluc",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Retweets & Favorites have various meanings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 934,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 41869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공정위 일 좀 해라. 논리가 없는 기업 편들기 도대체 국가 기관인가 싶은 이 답변서를 보면 화가 날 수 밖에 없음. 앞으로 프리오더 하면서 자금 조달이라고 하면 법적 문제 회피 오케이임? 프리오더도 소보원 보호를 받을 수 있는데 이 모순은 뭐임?\nhttps://t.co/bBRvn8iden"
+	},
+	{
+		"created_at": "Tue Jul 14 05:45:37 +0000 2020",
+		"id": 1282907126633861000,
+		"id_str": "1282914125589471232",
+		"full_text": "라인업💜🤍\nSF9, 워너원, 마마무, 에이핑크, AOA 크림, 더보이즈, 에버글로우, 청하, 뉴이스트, 이달의 소녀, 여자친구, CIX, 러블리즈, 프로미스나인, 공원소녀, 구구단, 엔플라잉, (여자)아이들, 드림캐쳐, 시크릿넘버, JBJ95, 트와이스, 오마이걸, 티오오, 위키미키, 아이즈원, 투모로우바이투게더 https://t.co/Sc55ls20cl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sc55ls20cl",
+					"expanded_url": "https://twitter.com/allthekpop/status/1282849966080225281",
+					"display_url": "twitter.com/allthekpop/sta…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43997,
+			"friends_count": 3266,
+			"listed_count": 206,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282849966080225300,
+		"quoted_status_id_str": "1282849966080225281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sc55ls20cl",
+			"expanded": "https://twitter.com/allthekpop/status/1282849966080225281",
+			"display": "twitter.com/allthekpop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 14 01:30:40 +0000 2020",
+			"id": 1282849966080225300,
+			"id_str": "1282849966080225281",
+			"full_text": "올케다방의 띵곡팔이👋🏻\n⏰PM 2:00~3:30\n\n보라색 코디로 맞춘 무대 보면 얼마나 좋게요 (((o(*ﾟ▽ﾟ*)o)))♡ (feat. 보랏빛향기)\n\n▶https://t.co/32HM1XmHBg\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/oxjx1t51X8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/32HM1XmHBg",
+						"expanded_url": "https://youtu.be/H3Vsq20FdCc",
+						"display_url": "youtu.be/H3Vsq20FdCc",
+						"indices": [
+							86,
+							109
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1282849951186215000,
+						"id_str": "1282849951186214912",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec2ZO9iU4AAl3YG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec2ZO9iU4AAl3YG.jpg",
+						"url": "https://t.co/oxjx1t51X8",
+						"display_url": "pic.twitter.com/oxjx1t51X8",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1282849966080225281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282849951186215000,
+						"id_str": "1282849951186214912",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec2ZO9iU4AAl3YG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec2ZO9iU4AAl3YG.jpg",
+						"url": "https://t.co/oxjx1t51X8",
+						"display_url": "pic.twitter.com/oxjx1t51X8",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1282849966080225281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/YpjchEd2rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpjchEd2rf",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43997,
+				"friends_count": 3266,
+				"listed_count": 206,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 8021,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5115,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 218,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 17,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라인업💜🤍\nSF9, 워너원, 마마무, 에이핑크, AOA 크림, 더보이즈, 에버글로우, 청하, 뉴이스트, 이달의 소녀, 여자친구, CIX, 러블리즈, 프로미스나인, 공원소녀, 구구단, 엔플라잉, (여자)아이들, 드림캐쳐, 시크릿넘버, JBJ95, 트와이스, 오마이걸, 티오오, 위키미키, 아이즈원, 투모로우바이투게더 https://t.co/Sc55ls20cl"
+	},
+	{
+		"created_at": "Tue Jul 14 05:27:59 +0000 2020",
+		"id": 1282902731468890000,
+		"id_str": "1282909688426893312",
+		"full_text": "아이린 슬기 Monster 무대\n이 조합 찬성일세🙆🏼♀️\n빵야빵야 팬심을 저격하는 케미스트리 무대\n#레드벨벳아이린슬기 #Monster #RedVelvetIRENESEULGI #레드벨벳 #RedVelvet #아이린 #슬기 #몬스터 #눈호강 #귀호강 https://t.co/UjKMz8tyrf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳아이린슬기",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "RedVelvetIRENESEULGI",
+					"indices": [
+						75,
+						96
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "몬스터",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "눈호강",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "귀호강",
+					"indices": [
+						133,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282895224499388400,
+					"id_str": "1282895224499388416",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3JNwnVcAA2HTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3JNwnVcAA2HTi.jpg",
+					"url": "https://t.co/UjKMz8tyrf",
+					"display_url": "pic.twitter.com/UjKMz8tyrf",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1282902731468890112/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282895224499388400,
+					"id_str": "1282895224499388416",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3JNwnVcAA2HTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3JNwnVcAA2HTi.jpg",
+					"url": "https://t.co/UjKMz8tyrf",
+					"display_url": "pic.twitter.com/UjKMz8tyrf",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1282902731468890112/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 242509,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282895224499388416/vid/1280x720/zAULGAnab5iISu-5.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1282895224499388416/pl/U-sqooUzrrmstO9N.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282895224499388416/vid/640x360/QCEUtCqhkP0yUnfe.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282895224499388416/vid/480x270/w3TyCBfxaXLfnRZR.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:00 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 117개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1872090,
+			"friends_count": 13,
+			"listed_count": 4683,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132120975451885568/0YlQJlD7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132120975451885568/0YlQJlD7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 331,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이린 슬기 Monster 무대\n이 조합 찬성일세🙆🏼♀️\n빵야빵야 팬심을 저격하는 케미스트리 무대\n#레드벨벳아이린슬기 #Monster #RedVelvetIRENESEULGI #레드벨벳 #RedVelvet #아이린 #슬기 #몬스터 #눈호강 #귀호강 https://t.co/UjKMz8tyrf"
+	},
+	{
+		"created_at": "Tue Jul 14 05:27:57 +0000 2020",
+		"id": 1282902212243370000,
+		"id_str": "1282909679526522880",
+		"full_text": "대기실 인터뷰 아이린 슬기 / 청하\n이리 봐도 예쁨💞 저리 봐도 멋짐⚡️\n레드벨벳 - 아이린&amp;슬기와 청하의 인터뷰 보러 go go! https://t.co/Z18NloaTtv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282895224507777000,
+					"id_str": "1282895224507777024",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3IvZcUYAAeZFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3IvZcUYAAeZFu.jpg",
+					"url": "https://t.co/Z18NloaTtv",
+					"display_url": "pic.twitter.com/Z18NloaTtv",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1282902212243369985/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282895224507777000,
+					"id_str": "1282895224507777024",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3IvZcUYAAeZFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3IvZcUYAAeZFu.jpg",
+					"url": "https://t.co/Z18NloaTtv",
+					"display_url": "pic.twitter.com/Z18NloaTtv",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1282902212243369985/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82583,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282895224507777024/vid/640x360/J-7a9M9ar9UK5Vjp.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1282895224507777024/pl/xO0RsGJiZzFxBTQA.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282895224507777024/vid/480x270/8xbZw_DJtTj2THY_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1282895224507777024/vid/1280x720/seIRFBwpkZWNjEmO.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:00 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 117개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1872090,
+			"friends_count": 13,
+			"listed_count": 4683,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132120975451885568/0YlQJlD7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132120975451885568/0YlQJlD7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대기실 인터뷰 아이린 슬기 / 청하\n이리 봐도 예쁨💞 저리 봐도 멋짐⚡️\n레드벨벳 - 아이린&amp;슬기와 청하의 인터뷰 보러 go go! https://t.co/Z18NloaTtv"
+	},
+	{
 		"created_at": "Tue Jul 14 04:43:22 +0000 2020",
 		"id": 1282898457733116000,
 		"id_str": "1282898457733115904",
