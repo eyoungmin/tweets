@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 00:27:57 +0000 2020",
+		"id": 1282832611224641500,
+		"id_str": "1282834181337251843",
+		"full_text": "Your key deserves it 💕💕\nRed Velvet Long Strap with Charm Keychain with Exclusive Photo Tag 👉 https://t.co/br35XMexLz https://t.co/uswgclZ7YU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/br35XMexLz",
+					"expanded_url": "http://smglobalshop.com/products/pre-order-red-velvet-day-2-long-strap-with-charm-keychain-with-exclusive-photo-tag",
+					"display_url": "smglobalshop.com/products/pre-o…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282832581419888600,
+					"id_str": "1282832581419888641",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282832581419888641/pu/img/LQp5u4LTw6h_SKdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282832581419888641/pu/img/LQp5u4LTw6h_SKdA.jpg",
+					"url": "https://t.co/uswgclZ7YU",
+					"display_url": "pic.twitter.com/uswgclZ7YU",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1282832611224641536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282832581419888600,
+					"id_str": "1282832581419888641",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282832581419888641/pu/img/LQp5u4LTw6h_SKdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282832581419888641/pu/img/LQp5u4LTw6h_SKdA.jpg",
+					"url": "https://t.co/uswgclZ7YU",
+					"display_url": "pic.twitter.com/uswgclZ7YU",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1282832611224641536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 8040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1282832581419888641/pu/pl/WpYkQh-UKh36QuyQ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282832581419888641/pu/vid/320x568/BGn2NY_WyX9QbbXg.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282832581419888641/pu/vid/360x640/ZkcEsS256hx8M5rx.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282832581419888641/pu/vid/720x1280/ZGm72LlmoPD0CIvH.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994706386696073200,
+			"id_str": "994706386696073221",
+			"name": "SMGlobalShop",
+			"screen_name": "SMGlobalShop",
+			"location": "Los Angeles, CA",
+			"description": "Official SM Entertainment Merchandise Shop ft. #SuperM #SHINee #RedVelvet #NCT #EXO #SuperJunior #TVXQ #GirlsGeneration #fx",
+			"url": "https://t.co/Rwg3fKZNIy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rwg3fKZNIy",
+							"expanded_url": "https://smglobalshop.com",
+							"display_url": "smglobalshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22791,
+			"friends_count": 21,
+			"listed_count": 30,
+			"created_at": "Thu May 10 22:30:58 +0000 2018",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994706386696073221/1567020643",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your key deserves it 💕💕\nRed Velvet Long Strap with Charm Keychain with Exclusive Photo Tag 👉 https://t.co/br35XMexLz https://t.co/uswgclZ7YU"
+	},
+	{
 		"created_at": "Mon Jul 13 23:25:11 +0000 2020",
 		"id": 1282811893048983600,
 		"id_str": "1282818386704109569",
