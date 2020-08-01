@@ -1,6 +1,2955 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 01 09:59:12 +0000 2020",
+		"id": 1289500922687578000,
+		"id_str": "1289500922687578112",
+		"full_text": "\"'미국 사용금지' 앞둔 틱톡, MS 등과 매각 협상 중\"(종합)\nhttps://t.co/0PGHIDstnw\n\n마소는 대안앱을 만들면 만들었지 인수할 것 같지는 않다. 떡밥 뿌리다 끝날듯. 구글에서 만든다는 건 어떻게 된걸까.\n\n#틱톡 #TIKTOK #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "틱톡",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "TIKTOK",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						140,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0PGHIDstnw",
+					"expanded_url": "https://m.yna.co.kr/amp/view/AKR20200801007451091",
+					"display_url": "m.yna.co.kr/amp/view/AKR20…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"'미국 사용금지' 앞둔 틱톡, MS 등과 매각 협상 중\"(종합)\nhttps://t.co/0PGHIDstnw\n\n마소는 대안앱을 만들면 만들었지 인수할 것 같지는 않다. 떡밥 뿌리다 끝날듯. 구글에서 만든다는 건 어떻게 된걸까.\n\n#틱톡 #TIKTOK #minfav"
+	},
+	{
+		"created_at": "Sat Aug 01 09:54:19 +0000 2020",
+		"id": 1289390846211588000,
+		"id_str": "1289499693806833667",
+		"full_text": "[속보] 트럼프, 이르면 1일 틱톡 미국 내 사용금지 조치 https://t.co/Dn5wpyQwud",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dn5wpyQwud",
+					"expanded_url": "http://yna.kr/AKR20200801032300009",
+					"display_url": "yna.kr/AKR20200801032…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.yonhapnews.co.kr\" rel=\"nofollow\">Yonhap News</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314842,
+			"friends_count": 70181,
+			"listed_count": 4490,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 218124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1562,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[속보] 트럼프, 이르면 1일 틱톡 미국 내 사용금지 조치 https://t.co/Dn5wpyQwud"
+	},
+	{
+		"created_at": "Sat Aug 01 09:53:59 +0000 2020",
+		"id": 1289360139938435000,
+		"id_str": "1289499609450999809",
+		"full_text": "틱톡 운영사인 중국 기업 바이트댄스가 중국 정부의 통제 아래 있기 때문에, 미국 사용자의 정보가 유출될 수 있다는 것입니다.\n\nhttps://t.co/f4XpTW0zYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f4XpTW0zYm",
+					"expanded_url": "https://imnews.imbc.com/replay/2020/nwtoday/article/5860468_32531.html",
+					"display_url": "imnews.imbc.com/replay/2020/nw…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC뉴스)",
+			"screen_name": "mbcnews",
+			"location": "대한민국",
+			"description": "MBC뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC뉴스와 함께 하세요!",
+			"url": "https://t.co/cUdF00ZfYh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cUdF00ZfYh",
+							"expanded_url": "https://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 399177,
+			"friends_count": 146255,
+			"listed_count": 3393,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 153218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1593406775",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "틱톡 운영사인 중국 기업 바이트댄스가 중국 정부의 통제 아래 있기 때문에, 미국 사용자의 정보가 유출될 수 있다는 것입니다.\n\nhttps://t.co/f4XpTW0zYm"
+	},
+	{
+		"created_at": "Sat Aug 01 09:51:16 +0000 2020",
+		"id": 1289498927478145000,
+		"id_str": "1289498927478145024",
+		"full_text": "[eng] 논나가 해설해주는 넥스트 인 패션 (feat. 민주킴)｜넷플릭스 유료광고 포함\nhttps://t.co/aBYb51ez4X\n\n#넷플릭스 #넥스트인패션 #밀라논나 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "넷플릭스",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "넥스트인패션",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "밀라논나",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aBYb51ez4X",
+					"expanded_url": "https://youtu.be/wQ3bjS-mJjY",
+					"display_url": "youtu.be/wQ3bjS-mJjY",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[eng] 논나가 해설해주는 넥스트 인 패션 (feat. 민주킴)｜넷플릭스 유료광고 포함\nhttps://t.co/aBYb51ez4X\n\n#넷플릭스 #넥스트인패션 #밀라논나 #minfav"
+	},
+	{
+		"created_at": "Sat Aug 01 09:41:39 +0000 2020",
+		"id": 1289419214952964000,
+		"id_str": "1289496505703792640",
+		"full_text": "지난해 10월 롯퐁기힐스에 등장했던 갓차갓차커피 팝업스토어 https://t.co/EkIZxqBA03 캡슐형 미니완구 자판기에서 아이디어. 고객이 캡슐형 커피원두를 사서 직접 드립커피를 만들어 마시는 경험을 할 수 있게 한 흥미로운 가게.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EkIZxqBA03",
+					"expanded_url": "https://www.youtube.com/watch?v=4Q2WcQoNz2g",
+					"display_url": "youtube.com/watch?v=4Q2WcQ…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369466,
+			"friends_count": 2272,
+			"listed_count": 4489,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난해 10월 롯퐁기힐스에 등장했던 갓차갓차커피 팝업스토어 https://t.co/EkIZxqBA03 캡슐형 미니완구 자판기에서 아이디어. 고객이 캡슐형 커피원두를 사서 직접 드립커피를 만들어 마시는 경험을 할 수 있게 한 흥미로운 가게."
+	},
+	{
+		"created_at": "Sat Aug 01 09:29:46 +0000 2020",
+		"id": 1289456339010240500,
+		"id_str": "1289493514774908929",
+		"full_text": "Google Earth Timelapse https://t.co/Vz10xdzo4f \n지난 35년간의 지구를 타임랩스로 보기\n몇개 지역 프리셋\n- Columbia Glacier (알라스카에 있는 세계에서 가장 빠르게 움직이는 빙하)\n- 두바이의 해안 확장(팜 주메이라)\n- 중국 대련의 도시화\n- 라스베가스의 확장 \n- 칠레 추키카마타의 ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vz10xdzo4f",
+					"expanded_url": "https://j.mp/33jBp1p",
+					"display_url": "j.mp/33jBp1p",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3587,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Google Earth Timelapse https://t.co/Vz10xdzo4f \n지난 35년간의 지구를 타임랩스로 보기\n몇개 지역 프리셋\n- Columbia Glacier (알라스카에 있는 세계에서 가장 빠르게 움직이는 빙하)\n- 두바이의 해안 확장(팜 주메이라)\n- 중국 대련의 도시화\n- 라스베가스의 확장 \n- 칠레 추키카마타의 ..."
+	},
+	{
+		"created_at": "Sat Aug 01 09:21:28 +0000 2020",
+		"id": 1289029288277217300,
+		"id_str": "1289491426531672066",
+		"full_text": "Billie Eilish wrote &amp; recorded \"My Future\" with Finneas in just 2 days https://t.co/0QOcQ0m8f6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QOcQ0m8f6",
+					"expanded_url": "http://blbrd.cm/pWvaplm",
+					"display_url": "blbrd.cm/pWvaplm",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9113733,
+			"friends_count": 3192,
+			"listed_count": 19273,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 255383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1595601244",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 629,
+		"favorite_count": 6672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish wrote &amp; recorded \"My Future\" with Finneas in just 2 days https://t.co/0QOcQ0m8f6"
+	},
+	{
+		"created_at": "Sat Aug 01 09:14:07 +0000 2020",
+		"id": 1289033168364818400,
+		"id_str": "1289489578391269377",
+		"full_text": "Billie Eilish - me &amp; dad radio with @finneas \nNew episode tomorrow at 12pm PT on @applemusic @beats1 https://t.co/xSnC1qneV9 https://t.co/9eL2Fl82xk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "finneas",
+					"name": "FINNEAS",
+					"id": 1573265498,
+					"id_str": "1573265498",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "Beats1",
+					"name": "Beats 1",
+					"id": 2204034272,
+					"id_str": "2204034272",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xSnC1qneV9",
+					"expanded_url": "http://apple.co/me-n-dad",
+					"display_url": "apple.co/me-n-dad",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1289028500880466000,
+					"id_str": "1289028500880465920",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOMl4xVoAAIT2k.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeOMl4xVoAAIT2k.png",
+					"url": "https://t.co/9eL2Fl82xk",
+					"display_url": "pic.twitter.com/9eL2Fl82xk",
+					"expanded_url": "https://twitter.com/billieeilish/status/1289033168364818432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289028500880466000,
+					"id_str": "1289028500880465920",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOMl4xVoAAIT2k.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeOMl4xVoAAIT2k.png",
+					"url": "https://t.co/9eL2Fl82xk",
+					"display_url": "pic.twitter.com/9eL2Fl82xk",
+					"expanded_url": "https://twitter.com/billieeilish/status/1289033168364818432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4715276,
+			"friends_count": 0,
+			"listed_count": 2757,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288897450313359360/NH44P9Ta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288897450313359360/NH44P9Ta_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1596150664",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1926,
+		"favorite_count": 27495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish - me &amp; dad radio with @finneas \nNew episode tomorrow at 12pm PT on @applemusic @beats1 https://t.co/xSnC1qneV9 https://t.co/9eL2Fl82xk"
+	},
+	{
+		"created_at": "Sat Aug 01 09:10:38 +0000 2020",
+		"id": 1289387386212741000,
+		"id_str": "1289488699596500992",
+		"full_text": "V8팀의 Respectful Code Policy  https://t.co/UVyfjHiWmL \n모두를 존중하며 차별하지 않고 포괄하기 위한 V8*팀의 용어 사용 지침\n- Policy : \"직접적이든 간접적이든 경멸적, 차별적, 해로운 용어는 피해야 합니다\"\n- Scope : 변수,함수명,파일제목,빌드규칙,테스트 데이터,시스템 출...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UVyfjHiWmL",
+					"expanded_url": "https://j.mp/2EF9WNu",
+					"display_url": "j.mp/2EF9WNu",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3587,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "V8팀의 Respectful Code Policy  https://t.co/UVyfjHiWmL \n모두를 존중하며 차별하지 않고 포괄하기 위한 V8*팀의 용어 사용 지침\n- Policy : \"직접적이든 간접적이든 경멸적, 차별적, 해로운 용어는 피해야 합니다\"\n- Scope : 변수,함수명,파일제목,빌드규칙,테스트 데이터,시스템 출..."
+	},
+	{
+		"created_at": "Sat Aug 01 09:09:37 +0000 2020",
+		"id": 1289066790702608400,
+		"id_str": "1289488444729651200",
+		"full_text": "백색 아이린 &amp; 흑색 슬기 대칭 뿐만 아니라, (V자 안쪽을 구성하는) 붉은 벽과 붉은 길 &amp; (V자 바깥쪽을 구성하는) 푸른 침대와 푸른 벽, 내부를 향하는 아이린의 손짓(닫히고 수축하는 이미지) &amp; 외부를 향하는 슬기의 손짓(열리고 확장하는 이미지)까지 완벽하게 대칭, 일치, 교차 구성을 보여준다. https://t.co/GkRYZR1SrZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289066564487012400,
+					"id_str": "1289066564487012352",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOvNewU4AA60Xi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOvNewU4AA60Xi.jpg",
+					"url": "https://t.co/GkRYZR1SrZ",
+					"display_url": "pic.twitter.com/GkRYZR1SrZ",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289066790702608384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289066564487012400,
+					"id_str": "1289066564487012352",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOvNewU4AA60Xi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOvNewU4AA60Xi.jpg",
+					"url": "https://t.co/GkRYZR1SrZ",
+					"display_url": "pic.twitter.com/GkRYZR1SrZ",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289066790702608384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289066564545679400,
+					"id_str": "1289066564545679361",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOvNe-UEAEw5F_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOvNe-UEAEw5F_.jpg",
+					"url": "https://t.co/GkRYZR1SrZ",
+					"display_url": "pic.twitter.com/GkRYZR1SrZ",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289066790702608384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289066142930108400,
+		"in_reply_to_status_id_str": "1289066142930108416",
+		"in_reply_to_user_id": 827121427685871600,
+		"in_reply_to_user_id_str": "827121427685871616",
+		"in_reply_to_screen_name": "iseulgiyou",
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백색 아이린 &amp; 흑색 슬기 대칭 뿐만 아니라, (V자 안쪽을 구성하는) 붉은 벽과 붉은 길 &amp; (V자 바깥쪽을 구성하는) 푸른 침대와 푸른 벽, 내부를 향하는 아이린의 손짓(닫히고 수축하는 이미지) &amp; 외부를 향하는 슬기의 손짓(열리고 확장하는 이미지)까지 완벽하게 대칭, 일치, 교차 구성을 보여준다. https://t.co/GkRYZR1SrZ"
+	},
+	{
+		"created_at": "Sat Aug 01 09:09:31 +0000 2020",
+		"id": 1289066142930108400,
+		"id_str": "1289488421551894534",
+		"full_text": "이 뮤비는 보색을 적극적으로 쓴다. 방 안의 조명도 한쪽에서 녹색, 한쪽에서 빨간색 조명만 비추고 있는 것이 아니라 이것 역시 아이린과 슬기쪽 각각 두 조명을 모두 가지고 있되 위아래로 위치를 달리하여 교차하는 방식으로 비추고 있다. 같지만 다르고, 다르지만 같은 둘의 성질을 무척 강조한다. https://t.co/YoHOyKptn1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289066084578889700,
+					"id_str": "1289066084578889729",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOuxi9UEAEkczu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeOuxi9UEAEkczu.png",
+					"url": "https://t.co/YoHOyKptn1",
+					"display_url": "pic.twitter.com/YoHOyKptn1",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289066142930108416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 485,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 485,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289066084578889700,
+					"id_str": "1289066084578889729",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOuxi9UEAEkczu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeOuxi9UEAEkczu.png",
+					"url": "https://t.co/YoHOyKptn1",
+					"display_url": "pic.twitter.com/YoHOyKptn1",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289066142930108416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 485,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 485,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289066105508466700,
+					"id_str": "1289066105508466688",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOuyw7UEAAKdBB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOuyw7UEAAKdBB.jpg",
+					"url": "https://t.co/YoHOyKptn1",
+					"display_url": "pic.twitter.com/YoHOyKptn1",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289066142930108416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289063142782189600,
+		"in_reply_to_status_id_str": "1289063142782189570",
+		"in_reply_to_user_id": 827121427685871600,
+		"in_reply_to_user_id_str": "827121427685871616",
+		"in_reply_to_screen_name": "iseulgiyou",
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 뮤비는 보색을 적극적으로 쓴다. 방 안의 조명도 한쪽에서 녹색, 한쪽에서 빨간색 조명만 비추고 있는 것이 아니라 이것 역시 아이린과 슬기쪽 각각 두 조명을 모두 가지고 있되 위아래로 위치를 달리하여 교차하는 방식으로 비추고 있다. 같지만 다르고, 다르지만 같은 둘의 성질을 무척 강조한다. https://t.co/YoHOyKptn1"
+	},
+	{
+		"created_at": "Sat Aug 01 09:09:23 +0000 2020",
+		"id": 1289063142782189600,
+		"id_str": "1289488387376680965",
+		"full_text": "이 둘을 하나로 겹치면 다이아몬드(◇) 형태가 된다. 두 사람이 거의 같은 모습으로 함께 등장하는 미스터리한 방도 V와 V의 결합인 다이아몬드형 구도. X와 X의 결합(XX)이 되기도. 마지막 장면은 커버 이미지처럼 아이린의 팔이 정 V자를, 슬기의 팔이 역 V자를 만들고 둘이 합쳐 교차하는 X자 형상. https://t.co/Zsgr2aLhmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289063060926156800,
+					"id_str": "1289063060926156801",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOsBi-U0AEG4ep.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOsBi-U0AEG4ep.jpg",
+					"url": "https://t.co/Zsgr2aLhmk",
+					"display_url": "pic.twitter.com/Zsgr2aLhmk",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289063142782189570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289063060926156800,
+					"id_str": "1289063060926156801",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOsBi-U0AEG4ep.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOsBi-U0AEG4ep.jpg",
+					"url": "https://t.co/Zsgr2aLhmk",
+					"display_url": "pic.twitter.com/Zsgr2aLhmk",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289063142782189570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289063073735614500,
+					"id_str": "1289063073735614464",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOsCSsVoAAvWtb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOsCSsVoAAvWtb.jpg",
+					"url": "https://t.co/Zsgr2aLhmk",
+					"display_url": "pic.twitter.com/Zsgr2aLhmk",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289063142782189570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289063092081500200,
+					"id_str": "1289063092081500163",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOsDXCVoAMa0F5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOsDXCVoAMa0F5.jpg",
+					"url": "https://t.co/Zsgr2aLhmk",
+					"display_url": "pic.twitter.com/Zsgr2aLhmk",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289063142782189570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289063103645118500,
+					"id_str": "1289063103645118465",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOsECHUcAEetdJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOsECHUcAEetdJ.jpg",
+					"url": "https://t.co/Zsgr2aLhmk",
+					"display_url": "pic.twitter.com/Zsgr2aLhmk",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289063142782189570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289061929709760500,
+		"in_reply_to_status_id_str": "1289061929709760512",
+		"in_reply_to_user_id": 827121427685871600,
+		"in_reply_to_user_id_str": "827121427685871616",
+		"in_reply_to_screen_name": "iseulgiyou",
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 둘을 하나로 겹치면 다이아몬드(◇) 형태가 된다. 두 사람이 거의 같은 모습으로 함께 등장하는 미스터리한 방도 V와 V의 결합인 다이아몬드형 구도. X와 X의 결합(XX)이 되기도. 마지막 장면은 커버 이미지처럼 아이린의 팔이 정 V자를, 슬기의 팔이 역 V자를 만들고 둘이 합쳐 교차하는 X자 형상. https://t.co/Zsgr2aLhmk"
+	},
+	{
+		"created_at": "Sat Aug 01 09:09:21 +0000 2020",
+		"id": 1289061929709760500,
+		"id_str": "1289488376702234624",
+		"full_text": "아이린과 슬기의 단독 장면에서 각각 올바른 V자와 뒤집힌 V자 구도가 사용되었다. 흥미로운 점! 아이린은 (슬기의 상징수) 20초에, 슬기는 (아이린의 상징수) 43초에 각각 1초 가량만을 할애해 서로 크기가 일치하는 V자 구도를 짧게 보여준다는 것이다. 둘의 합을 이토록 변태 같이(?) 강조한다. https://t.co/rwixa3RYUt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289061439349518300,
+					"id_str": "1289061439349518336",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOqjKIU8AAaMLJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOqjKIU8AAaMLJ.jpg",
+					"url": "https://t.co/rwixa3RYUt",
+					"display_url": "pic.twitter.com/rwixa3RYUt",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289061929709760512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289061439349518300,
+					"id_str": "1289061439349518336",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOqjKIU8AAaMLJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOqjKIU8AAaMLJ.jpg",
+					"url": "https://t.co/rwixa3RYUt",
+					"display_url": "pic.twitter.com/rwixa3RYUt",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289061929709760512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289061453631086600,
+					"id_str": "1289061453631086598",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOqj_VUYAYA3ev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOqj_VUYAYA3ev.jpg",
+					"url": "https://t.co/rwixa3RYUt",
+					"display_url": "pic.twitter.com/rwixa3RYUt",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289061929709760512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289061860243775500,
+					"id_str": "1289061860243775488",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOq7qFVoAA16zz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOq7qFVoAA16zz.jpg",
+					"url": "https://t.co/rwixa3RYUt",
+					"display_url": "pic.twitter.com/rwixa3RYUt",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289061929709760512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 569,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1791,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289061881697587200,
+					"id_str": "1289061881697587200",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOq86AU0AAlFDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOq86AU0AAlFDj.jpg",
+					"url": "https://t.co/rwixa3RYUt",
+					"display_url": "pic.twitter.com/rwixa3RYUt",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289061929709760512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1791,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289061246524772400,
+		"in_reply_to_status_id_str": "1289061246524772354",
+		"in_reply_to_user_id": 827121427685871600,
+		"in_reply_to_user_id_str": "827121427685871616",
+		"in_reply_to_screen_name": "iseulgiyou",
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이린과 슬기의 단독 장면에서 각각 올바른 V자와 뒤집힌 V자 구도가 사용되었다. 흥미로운 점! 아이린은 (슬기의 상징수) 20초에, 슬기는 (아이린의 상징수) 43초에 각각 1초 가량만을 할애해 서로 크기가 일치하는 V자 구도를 짧게 보여준다는 것이다. 둘의 합을 이토록 변태 같이(?) 강조한다. https://t.co/rwixa3RYUt"
+	},
+	{
+		"created_at": "Sat Aug 01 09:09:18 +0000 2020",
+		"id": 1289061246524772400,
+		"id_str": "1289488365784412160",
+		"full_text": "레드벨벳은 V자 형태를 만들고 응용하는 동작을 안무에 수없이 넣는다. (귀찮아서 캡쳐는 안 했지만 찾아보면 정말 많다. 가장 노골적이었던 건 &lt;RBB&gt;.) &lt;놀이 Naughty&gt; 무대 세트에도... 뮤비에도 넣는다. &lt;Monster&gt;가 그렇다. V자 구도가 비중있게 이용된다. 아래 캡쳐는 특히 눈여겨볼 두 장면이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289061243878178800,
+		"in_reply_to_status_id_str": "1289061243878178816",
+		"in_reply_to_user_id": 827121427685871600,
+		"in_reply_to_user_id_str": "827121427685871616",
+		"in_reply_to_screen_name": "iseulgiyou",
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레드벨벳은 V자 형태를 만들고 응용하는 동작을 안무에 수없이 넣는다. (귀찮아서 캡쳐는 안 했지만 찾아보면 정말 많다. 가장 노골적이었던 건 &lt;RBB&gt;.) &lt;놀이 Naughty&gt; 무대 세트에도... 뮤비에도 넣는다. &lt;Monster&gt;가 그렇다. V자 구도가 비중있게 이용된다. 아래 캡쳐는 특히 눈여겨볼 두 장면이다."
+	},
+	{
+		"created_at": "Sat Aug 01 09:09:15 +0000 2020",
+		"id": 1289061243878178800,
+		"id_str": "1289488350978555905",
+		"full_text": "팀명에도 들어가는 V는 아래 이유로 레드벨벳 세계관 콘셉트에서 자주 쓰인다. 먼저는 숫자 5의 로마자 표현이다. 레드벨벳이라는 팀의 수, 공식 뮤비에도 전면에 등장할 만큼 중요한 수. 나는 레드벨벳의 V란, Virtue이기도 하고 Vice이기도 하며 둘의 교집합(중간 상태)이기도 한 상징으로 해석한다. https://t.co/T2qafNCSUV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289060732978438100,
+					"id_str": "1289060732978438144",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOp6CsVoAA2Ux4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOp6CsVoAA2Ux4.jpg",
+					"url": "https://t.co/T2qafNCSUV",
+					"display_url": "pic.twitter.com/T2qafNCSUV",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289061243878178816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 730,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289060732978438100,
+					"id_str": "1289060732978438144",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOp6CsVoAA2Ux4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOp6CsVoAA2Ux4.jpg",
+					"url": "https://t.co/T2qafNCSUV",
+					"display_url": "pic.twitter.com/T2qafNCSUV",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289061243878178816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 730,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289061242288533500,
+		"in_reply_to_status_id_str": "1289061242288533504",
+		"in_reply_to_user_id": 827121427685871600,
+		"in_reply_to_user_id_str": "827121427685871616",
+		"in_reply_to_screen_name": "iseulgiyou",
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팀명에도 들어가는 V는 아래 이유로 레드벨벳 세계관 콘셉트에서 자주 쓰인다. 먼저는 숫자 5의 로마자 표현이다. 레드벨벳이라는 팀의 수, 공식 뮤비에도 전면에 등장할 만큼 중요한 수. 나는 레드벨벳의 V란, Virtue이기도 하고 Vice이기도 하며 둘의 교집합(중간 상태)이기도 한 상징으로 해석한다. https://t.co/T2qafNCSUV"
+	},
+	{
+		"created_at": "Sat Aug 01 09:09:12 +0000 2020",
+		"id": 1289061242288533500,
+		"id_str": "1289488340694130688",
+		"full_text": "많은 팬들이 쭉 느껴온 대로 두 사람(속성)의 합은 신기할 만큼 참 조화롭다. 이 앨범에 유독 진심이었다던 에스엠도 이걸 잘 아는 것 같다. 유난히 강조하던 이 합을 어떻게 표현했을까? 그 일부를 보기에 앞서서 레드벨벳에게 무척 중요한 의미를 갖는 알파벳 'V'에 대해 살펴야 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289059291693908000,
+		"in_reply_to_status_id_str": "1289059291693907968",
+		"in_reply_to_user_id": 827121427685871600,
+		"in_reply_to_user_id_str": "827121427685871616",
+		"in_reply_to_screen_name": "iseulgiyou",
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "많은 팬들이 쭉 느껴온 대로 두 사람(속성)의 합은 신기할 만큼 참 조화롭다. 이 앨범에 유독 진심이었다던 에스엠도 이걸 잘 아는 것 같다. 유난히 강조하던 이 합을 어떻게 표현했을까? 그 일부를 보기에 앞서서 레드벨벳에게 무척 중요한 의미를 갖는 알파벳 'V'에 대해 살펴야 한다."
+	},
+	{
+		"created_at": "Sat Aug 01 09:08:43 +0000 2020",
+		"id": 1289058571871641600,
+		"id_str": "1289488219919138816",
+		"full_text": "로고 속 글자 하나를 의도적으로 폭을 늘려 N과 S를 정중앙에 배치했다. 명과 암, +와 -, 양과 음, N극과 S극 등... 각자 반드시 존재하며 서로 상반되지만 이끌릴 수밖에 없음을 강조했다. 프레임 안에는 미지, 십자가, 교차, 합, 입맞춤을 의미하는 X자가 프레임 안에 촌스럽지 않게 삽입되어 있다. https://t.co/3XPUwMj7wL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289058471136997400,
+					"id_str": "1289058471136997378",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOn2YrUMAIj21c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOn2YrUMAIj21c.jpg",
+					"url": "https://t.co/3XPUwMj7wL",
+					"display_url": "pic.twitter.com/3XPUwMj7wL",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289058571871641600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289058471136997400,
+					"id_str": "1289058471136997378",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOn2YrUMAIj21c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOn2YrUMAIj21c.jpg",
+					"url": "https://t.co/3XPUwMj7wL",
+					"display_url": "pic.twitter.com/3XPUwMj7wL",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289058571871641600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289058512090230800,
+					"id_str": "1289058512090230784",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOn4xPU8AAFr-u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOn4xPU8AAFr-u.jpg",
+					"url": "https://t.co/3XPUwMj7wL",
+					"display_url": "pic.twitter.com/3XPUwMj7wL",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289058571871641600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289058119574724600,
+		"in_reply_to_status_id_str": "1289058119574724609",
+		"in_reply_to_user_id": 827121427685871600,
+		"in_reply_to_user_id_str": "827121427685871616",
+		"in_reply_to_screen_name": "iseulgiyou",
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로고 속 글자 하나를 의도적으로 폭을 늘려 N과 S를 정중앙에 배치했다. 명과 암, +와 -, 양과 음, N극과 S극 등... 각자 반드시 존재하며 서로 상반되지만 이끌릴 수밖에 없음을 강조했다. 프레임 안에는 미지, 십자가, 교차, 합, 입맞춤을 의미하는 X자가 프레임 안에 촌스럽지 않게 삽입되어 있다. https://t.co/3XPUwMj7wL"
+	},
+	{
+		"created_at": "Sat Aug 01 09:08:15 +0000 2020",
+		"id": 1289057571714654200,
+		"id_str": "1289488102336036865",
+		"full_text": "이 앨범은 아이린과 슬기가 표현하는 '사랑의 형태'다. 그 사랑은 바깥을, 혹은 내 안을 향한 것일 수도 있다. 빛&amp;그림자처럼 떼려야 뗄 수 없는 두 자아 내지 속성의 결합(Monster), 밀고 당김(놀이 Naughty), 발견과 유일함(Diamond), 모순(Feel Good), 질투(Jelly), 그리고 진심(Uncover). https://t.co/wcTHaonZPS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289056835530416000,
+					"id_str": "1289056835530416128",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOmXLkUYAAJVnG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOmXLkUYAAJVnG.jpg",
+					"url": "https://t.co/wcTHaonZPS",
+					"display_url": "pic.twitter.com/wcTHaonZPS",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289057571714654209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1717,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1006,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289056835530416000,
+					"id_str": "1289056835530416128",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOmXLkUYAAJVnG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOmXLkUYAAJVnG.jpg",
+					"url": "https://t.co/wcTHaonZPS",
+					"display_url": "pic.twitter.com/wcTHaonZPS",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289057571714654209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1717,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1006,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289056903562068000,
+					"id_str": "1289056903562067968",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOmbJAVAAAXAkn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOmbJAVAAAXAkn.jpg",
+					"url": "https://t.co/wcTHaonZPS",
+					"display_url": "pic.twitter.com/wcTHaonZPS",
+					"expanded_url": "https://twitter.com/iseulgiyou/status/1289057571714654209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 827121427685871600,
+			"id_str": "827121427685871616",
+			"name": "웅동자",
+			"screen_name": "iseulgiyou",
+			"location": "Cool World",
+			"description": "💿 레드벨벳 (Red Velvet, @RVsmtown) / 슬기 (SEULGI)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 396,
+			"listed_count": 24,
+			"created_at": "Thu Feb 02 11:48:10 +0000 2017",
+			"favourites_count": 19248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206088551227506689/CwfU5LMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827121427685871616/1521681062",
+			"profile_link_color": "F5D522",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 368,
+		"favorite_count": 510,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 앨범은 아이린과 슬기가 표현하는 '사랑의 형태'다. 그 사랑은 바깥을, 혹은 내 안을 향한 것일 수도 있다. 빛&amp;그림자처럼 떼려야 뗄 수 없는 두 자아 내지 속성의 결합(Monster), 밀고 당김(놀이 Naughty), 발견과 유일함(Diamond), 모순(Feel Good), 질투(Jelly), 그리고 진심(Uncover). https://t.co/wcTHaonZPS"
+	},
+	{
+		"created_at": "Sat Aug 01 09:03:16 +0000 2020",
+		"id": 1289053961618460700,
+		"id_str": "1289486849069608962",
+		"full_text": "다들 봐 랩하는 김제니 미쳤다고 https://t.co/qBMAsRpuEC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289053899379236900,
+					"id_str": "1289053899379236865",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289053899379236865/pu/img/a_gxPjo2fJugZoXn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289053899379236865/pu/img/a_gxPjo2fJugZoXn.jpg",
+					"url": "https://t.co/qBMAsRpuEC",
+					"display_url": "pic.twitter.com/qBMAsRpuEC",
+					"expanded_url": "https://twitter.com/dearyouaremine/status/1289053961618460672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289053899379236900,
+					"id_str": "1289053899379236865",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289053899379236865/pu/img/a_gxPjo2fJugZoXn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289053899379236865/pu/img/a_gxPjo2fJugZoXn.jpg",
+					"url": "https://t.co/qBMAsRpuEC",
+					"display_url": "pic.twitter.com/qBMAsRpuEC",
+					"expanded_url": "https://twitter.com/dearyouaremine/status/1289053961618460672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18942,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289053899379236865/pu/vid/1152x648/GPtL_jHHCnXEtte6.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289053899379236865/pu/vid/480x270/Hy_cgfYE2Q4nWhmf.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289053899379236865/pu/vid/640x360/C31jdoykdBr2Jacz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1289053899379236865/pu/pl/eBAP6J74R-B2oE-A.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1289052567427678200,
+		"in_reply_to_status_id_str": "1289052567427678209",
+		"in_reply_to_user_id": 1050710942504247300,
+		"in_reply_to_user_id_str": "1050710942504247298",
+		"in_reply_to_screen_name": "dearyouaremine",
+		"user": {
+			"id": 1050710942504247300,
+			"id_str": "1050710942504247298",
+			"name": "Dear.",
+			"screen_name": "dearyouaremine",
+			"location": "",
+			"description": "난 공주고 이건 취미야.",
+			"url": "https://t.co/RqwcrOmVKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RqwcrOmVKo",
+							"expanded_url": "http://decker.tistory.com/",
+							"display_url": "decker.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9669,
+			"friends_count": 78,
+			"listed_count": 23,
+			"created_at": "Fri Oct 12 11:33:04 +0000 2018",
+			"favourites_count": 16020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157998327255842817/AmnqtHYg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157998327255842817/AmnqtHYg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050710942504247298/1558762660",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다들 봐 랩하는 김제니 미쳤다고 https://t.co/qBMAsRpuEC"
+	},
+	{
 		"created_at": "Sat Aug 01 08:58:07 +0000 2020",
 		"id": 1289444258085183500,
 		"id_str": "1289485549254787072",
