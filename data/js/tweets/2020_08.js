@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 01 23:01:57 +0000 2020",
+		"id": 1287886065647276000,
+		"id_str": "1289697908690784256",
+		"full_text": "카페 로봇, 엘리베이터 타고 8층 회의실로 음료 배달 왔다 https://t.co/TZE246Z4Wb 배민의 배달로봇 '딜리타워’와 GS건설이 아파트 건설현장에 도입한 보스턴다이내믹스 로봇개 스팟이 화제. GS건설은 360도 3D가상현실 소프트웨어기술을 보유한 큐픽스와 협업해 스팟을 활용. https://t.co/cQDYgdzqPe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TZE246Z4Wb",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003549675",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1287886051466305500,
+					"id_str": "1287886051466305536",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed99ilDUYAAq4wZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed99ilDUYAAq4wZ.jpg",
+					"url": "https://t.co/cQDYgdzqPe",
+					"display_url": "pic.twitter.com/cQDYgdzqPe",
+					"expanded_url": "https://twitter.com/estima7/status/1287886065647276032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1086,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 616,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287886051466305500,
+					"id_str": "1287886051466305536",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed99ilDUYAAq4wZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed99ilDUYAAq4wZ.jpg",
+					"url": "https://t.co/cQDYgdzqPe",
+					"display_url": "pic.twitter.com/cQDYgdzqPe",
+					"expanded_url": "https://twitter.com/estima7/status/1287886065647276032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1086,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 616,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369417,
+			"friends_count": 2272,
+			"listed_count": 4488,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카페 로봇, 엘리베이터 타고 8층 회의실로 음료 배달 왔다 https://t.co/TZE246Z4Wb 배민의 배달로봇 '딜리타워’와 GS건설이 아파트 건설현장에 도입한 보스턴다이내믹스 로봇개 스팟이 화제. GS건설은 360도 3D가상현실 소프트웨어기술을 보유한 큐픽스와 협업해 스팟을 활용. https://t.co/cQDYgdzqPe"
+	},
+	{
+		"created_at": "Sat Aug 01 22:58:47 +0000 2020",
+		"id": 1287717212531220500,
+		"id_str": "1289697113572380674",
+		"full_text": "TikTok이 미국 크리에이터를 대상으로 하는 2억 달러(약 2394억원) 규모의 펀드 'TikTok Creator Fund' 발표. 최근 미국과 중국간 갈등으로 인해 중요한 시장을 놓칠 수 있다는 점에서, 미국에 대해 프렌들리한 면을 보이려는 행보인 듯 https://t.co/r0dBRFS4bP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r0dBRFS4bP",
+					"expanded_url": "https://tcrn.ch/2CUorfR",
+					"display_url": "tcrn.ch/2CUorfR",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65832992,
+			"id_str": "65832992",
+			"name": "금동우",
+			"screen_name": "ehddn1",
+			"location": ", Seoul",
+			"description": "한화생명 동경주재사무소장",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7660,
+			"friends_count": 175,
+			"listed_count": 465,
+			"created_at": "Sat Aug 15 05:14:42 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986257995569901569/mQbRpmI0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986257995569901569/mQbRpmI0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65832992/1401837640",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TikTok이 미국 크리에이터를 대상으로 하는 2억 달러(약 2394억원) 규모의 펀드 'TikTok Creator Fund' 발표. 최근 미국과 중국간 갈등으로 인해 중요한 시장을 놓칠 수 있다는 점에서, 미국에 대해 프렌들리한 면을 보이려는 행보인 듯 https://t.co/r0dBRFS4bP"
+	},
+	{
+		"created_at": "Sat Aug 01 22:55:01 +0000 2020",
+		"id": 1289664694584631300,
+		"id_str": "1289696163315105793",
+		"full_text": "- 그러나 WSJ의 다른 보도, MS와 바이트댄스의 협상은 트럼프가 MS의 틱톡 인수를 반대한다고 말한 후 중단되었다고 말해\n- 두 회사, 트럼프의 진짜 의도가 무엇인지 살피기 위한 것이기 때문에 협상 자체가 결렬된 것은 아니라고 말해\n- MS가 틱톡 미국 부문을 인수하면 3년 내 1만명 고용창출 가능",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289662120045379600,
+		"in_reply_to_status_id_str": "1289662120045379585",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46006,
+			"friends_count": 229,
+			"listed_count": 280,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 그러나 WSJ의 다른 보도, MS와 바이트댄스의 협상은 트럼프가 MS의 틱톡 인수를 반대한다고 말한 후 중단되었다고 말해\n- 두 회사, 트럼프의 진짜 의도가 무엇인지 살피기 위한 것이기 때문에 협상 자체가 결렬된 것은 아니라고 말해\n- MS가 틱톡 미국 부문을 인수하면 3년 내 1만명 고용창출 가능"
+	},
+	{
+		"created_at": "Sat Aug 01 22:54:59 +0000 2020",
+		"id": 1289662120045379600,
+		"id_str": "1289696156469956609",
+		"full_text": "- 바이트댄스, 이전에 백악관이 거부한 틱톡 미국 부문의 소수 지분 유지하려 해\n- 그러나 소스는 새로 제의된 계약 아래 바이트댄스, 완전히 퇴장하고 MS가 미국에서 틱톡을 인수할 것이라고 말해\n- 따라서 미국 거주 투자자(약 70%)들, 소수 지분 보유할 수 있는 기회 가질 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289660692614676500,
+		"in_reply_to_status_id_str": "1289660692614676480",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46006,
+			"friends_count": 229,
+			"listed_count": 280,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 바이트댄스, 이전에 백악관이 거부한 틱톡 미국 부문의 소수 지분 유지하려 해\n- 그러나 소스는 새로 제의된 계약 아래 바이트댄스, 완전히 퇴장하고 MS가 미국에서 틱톡을 인수할 것이라고 말해\n- 따라서 미국 거주 투자자(약 70%)들, 소수 지분 보유할 수 있는 기회 가질 것"
+	},
+	{
+		"created_at": "Sat Aug 01 22:54:57 +0000 2020",
+		"id": 1289660692614676500,
+		"id_str": "1289696147951382528",
+		"full_text": "로이터 단독: 중국 바이트댄스, 트럼프가 사용금지 언급한 후 틱톡 미국 부문 완전 매각하기로 합의\n- 이같은 바이트댄스의 양보, 트럼프의 위협이 협상 전략인지 또는 8000만명의 미국일일사용자를 보유한 소셜 미디어 앱을 엄벌에 처하려는 것인지 테스트하게 될 것\nhttps://t.co/riRGZwQT67",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/riRGZwQT67",
+					"expanded_url": "https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK?taid=5f25cc28f1042a00013d3021&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+					"display_url": "reuters.com/article/us-usa…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46006,
+			"friends_count": 229,
+			"listed_count": 280,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로이터 단독: 중국 바이트댄스, 트럼프가 사용금지 언급한 후 틱톡 미국 부문 완전 매각하기로 합의\n- 이같은 바이트댄스의 양보, 트럼프의 위협이 협상 전략인지 또는 8000만명의 미국일일사용자를 보유한 소셜 미디어 앱을 엄벌에 처하려는 것인지 테스트하게 될 것\nhttps://t.co/riRGZwQT67"
+	},
+	{
+		"created_at": "Sat Aug 01 22:54:18 +0000 2020",
+		"id": 1289695983438241800,
+		"id_str": "1289695983438241792",
+		"full_text": "Exclusive: TikTok's Chinese owner offers to forego stake to clinch U.S. deal - sources | Article [AMP] | Reuters https://t.co/rXFaL5mLr2\n#틱톡 #TikTok #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "틱톡",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "TikTok",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rXFaL5mLr2",
+					"expanded_url": "https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK",
+					"display_url": "reuters.com/article/us-usa…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exclusive: TikTok's Chinese owner offers to forego stake to clinch U.S. deal - sources | Article [AMP] | Reuters https://t.co/rXFaL5mLr2\n#틱톡 #TikTok #minfav"
+	},
+	{
 		"created_at": "Sat Aug 01 10:14:53 +0000 2020",
 		"id": 1289049871807402000,
 		"id_str": "1289504869271744512",
