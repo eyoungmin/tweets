@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 01 03:25:11 +0000 2020",
+		"id": 1289395427364745200,
+		"id_str": "1289401764739985409",
+		"full_text": "🗓 [달력을 넘겨주세요] 청하와 함께하는 8월.#SnapShot\n\n☕ https://t.co/kxQMtV74ve\n▶ https://t.co/pWYfaEXBUy\n✌🏻 https://t.co/rZV0wisWPB\n\n#청하 #CHUNGHA\n#2020_시즌그리팅\n#2020년 #8월 🐶 https://t.co/PBakJELC1L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SnapShot",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "2020_시즌그리팅",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "2020년",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "8월",
+					"indices": [
+						149,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kxQMtV74ve",
+					"expanded_url": "https://bit.ly/3jYcMxf",
+					"display_url": "bit.ly/3jYcMxf",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/pWYfaEXBUy",
+					"expanded_url": "https://bit.ly/3fjzrjU",
+					"display_url": "bit.ly/3fjzrjU",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/rZV0wisWPB",
+					"expanded_url": "https://bit.ly/3ggjM6n",
+					"display_url": "bit.ly/3ggjM6n",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1289211092518936600,
+					"id_str": "1289211092518936576",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EeQyqHoVoAAGtFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeQyqHoVoAAGtFm.jpg",
+					"url": "https://t.co/PBakJELC1L",
+					"display_url": "pic.twitter.com/PBakJELC1L",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1289395427364745221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289211092518936600,
+					"id_str": "1289211092518936576",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EeQyqHoVoAAGtFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeQyqHoVoAAGtFm.jpg",
+					"url": "https://t.co/PBakJELC1L",
+					"display_url": "pic.twitter.com/PBakJELC1L",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1289395427364745221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289211092539863000,
+					"id_str": "1289211092539863045",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EeQyqHtU8AUQrPO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeQyqHtU8AUQrPO.jpg",
+					"url": "https://t.co/PBakJELC1L",
+					"display_url": "pic.twitter.com/PBakJELC1L",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1289395427364745221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289210975086735400,
+					"id_str": "1289210975086735360",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EeQyjSKUcAAV6Wm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeQyjSKUcAAV6Wm.jpg",
+					"url": "https://t.co/PBakJELC1L",
+					"display_url": "pic.twitter.com/PBakJELC1L",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1289395427364745221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289210975158067200,
+					"id_str": "1289210975158067201",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EeQyjSbU4AEr1U8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeQyjSbU4AEr1U8.jpg",
+					"url": "https://t.co/PBakJELC1L",
+					"display_url": "pic.twitter.com/PBakJELC1L",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1289395427364745221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285918,
+			"friends_count": 0,
+			"listed_count": 1731,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 2206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗓 [달력을 넘겨주세요] 청하와 함께하는 8월.#SnapShot\n\n☕ https://t.co/kxQMtV74ve\n▶ https://t.co/pWYfaEXBUy\n✌🏻 https://t.co/rZV0wisWPB\n\n#청하 #CHUNGHA\n#2020_시즌그리팅\n#2020년 #8월 🐶 https://t.co/PBakJELC1L"
+	},
+	{
 		"created_at": "Sat Aug 01 03:00:55 +0000 2020",
 		"id": 1289395657791303700,
 		"id_str": "1289395657791303680",
