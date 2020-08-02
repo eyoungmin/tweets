@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 02 15:03:50 +0000 2020",
+		"id": 1289939974305939500,
+		"id_str": "1289939974305939459",
+		"full_text": "해당 내용이 개선되었습니다. 이제 드래그앤드롭을 지원합니다. 파일키위 많이 써주세요.\nhttps://t.co/LKS394ssFv\n\n#클라우드 #파일전송 #드라이브 #minfav https://t.co/kjUNQ8m4uJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클라우드",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "파일전송",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "드라이브",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LKS394ssFv",
+					"expanded_url": "https://file.kiwi/",
+					"display_url": "file.kiwi",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/kjUNQ8m4uJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1265092742159273989",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1265092742159274000,
+		"quoted_status_id_str": "1265092742159273989",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kjUNQ8m4uJ",
+			"expanded": "https://twitter.com/fromminn/status/1265092742159273989",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 26 01:29:48 +0000 2020",
+			"id": 1265092742159274000,
+			"id_str": "1265092742159273989",
+			"full_text": "파일키위 https://t.co/lhwJh7W7sq는 썸네일도 지원하고 카카오톡 공유도 지원하고 QR코드도 지원하는데 개념이 웹폴더라 아쉬움. 멀티 환경을 지원하지 않고 드래그앤드롭을 지원하지 않기 때문에 불편하여 제외. 서비스 CS 처리 또는 문의 시, 이용하면 편리함.\n\n#파일키위 #드라이브 #웹폴더",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "파일키위",
+						"indices": [
+							154,
+							159
+						]
+					},
+					{
+						"text": "드라이브",
+						"indices": [
+							160,
+							165
+						]
+					},
+					{
+						"text": "웹폴더",
+						"indices": [
+							166,
+							170
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lhwJh7W7sq",
+						"expanded_url": "http://file.kiwi",
+						"display_url": "file.kiwi",
+						"indices": [
+							5,
+							28
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1265089537266483200,
+			"in_reply_to_status_id_str": "1265089537266483200",
+			"in_reply_to_user_id": 4531360753,
+			"in_reply_to_user_id_str": "4531360753",
+			"in_reply_to_screen_name": "fromminn",
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 298,
+				"friends_count": 935,
+				"listed_count": 8,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 42074,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64820,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해당 내용이 개선되었습니다. 이제 드래그앤드롭을 지원합니다. 파일키위 많이 써주세요.\nhttps://t.co/LKS394ssFv\n\n#클라우드 #파일전송 #드라이브 #minfav https://t.co/kjUNQ8m4uJ"
+	},
+	{
 		"created_at": "Sun Aug 02 11:04:22 +0000 2020",
 		"id": 1289564995458445300,
 		"id_str": "1289879711242317825",
