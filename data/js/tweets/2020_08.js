@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 02 09:23:44 +0000 2020",
+		"id": 1289854386877784000,
+		"id_str": "1289854386877784064",
+		"full_text": "[문명특급 EP.134] 킄... 내 안의 흑염룡이 날뛰는군..중2 재재 사춘기 감성 크게 울린 자우림 만남.. 크큭...☆\nhttps://t.co/GlpXZDisO7 \n\n#자우림 #JAURIM #김윤아 #김진만 #이선규 #상상마당",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "김진만",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "이선규",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GlpXZDisO7",
+					"expanded_url": "https://youtu.be/DFeoTg67E9E",
+					"display_url": "youtu.be/DFeoTg67E9E",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[문명특급 EP.134] 킄... 내 안의 흑염룡이 날뛰는군..중2 재재 사춘기 감성 크게 울린 자우림 만남.. 크큭...☆\nhttps://t.co/GlpXZDisO7 \n\n#자우림 #JAURIM #김윤아 #김진만 #이선규 #상상마당"
+	},
+	{
+		"created_at": "Sun Aug 02 09:18:10 +0000 2020",
+		"id": 1289790812188893200,
+		"id_str": "1289852985435025410",
+		"full_text": "[INSTAGRAM VIDEO] hyoyeon_x_x: .\n티파짱 생일축하해잉🖤\n.\n.\n#dessertdance\n#dessert #디저트 #tiffany https://t.co/QPIEaCLlMe #hyostagram https://t.co/gUyxqFJfjg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dessertdance",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"text": "dessert",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "tiffany",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "hyostagram",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QPIEaCLlMe",
+					"expanded_url": "https://www.instagram.com/p/CDX-wWynX0s/",
+					"display_url": "instagram.com/p/CDX-wWynX0s/",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1289790791087521800,
+					"id_str": "1289790791087521800",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289790791087521800/pu/img/6n0jmjnhE24mKvJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289790791087521800/pu/img/6n0jmjnhE24mKvJ9.jpg",
+					"url": "https://t.co/gUyxqFJfjg",
+					"display_url": "pic.twitter.com/gUyxqFJfjg",
+					"expanded_url": "https://twitter.com/hyostagramtweet/status/1289790812188893186/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289790791087521800,
+					"id_str": "1289790791087521800",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289790791087521800/pu/img/6n0jmjnhE24mKvJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289790791087521800/pu/img/6n0jmjnhE24mKvJ9.jpg",
+					"url": "https://t.co/gUyxqFJfjg",
+					"display_url": "pic.twitter.com/gUyxqFJfjg",
+					"expanded_url": "https://twitter.com/hyostagramtweet/status/1289790812188893186/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 15100,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289790791087521800/pu/vid/640x800/4L_-hlJ1FVn5OShQ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1289790791087521800/pu/pl/b7FQzxrbj2kKD_KY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289790791087521800/pu/vid/320x400/w3S1eBM8Ezj_Io0b.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289790791087521800/pu/vid/360x450/Konyee5FOTow8EjN.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hyostagram.com\" rel=\"nofollow\">Hyostagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1399481588,
+			"id_str": "1399481588",
+			"name": "Hyostagram.com",
+			"screen_name": "hyostagramtweet",
+			"location": "Hyoyeon's phone",
+			"description": "Bot tweeting Hyoyeon's updates/comments on Instagram/Weibo. Built by @thegoguma. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @syoungstagram",
+			"url": "https://t.co/2GWOcVJZvR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2GWOcVJZvR",
+							"expanded_url": "https://hyostagramcom.tumblr.com/",
+							"display_url": "hyostagramcom.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34331,
+			"friends_count": 0,
+			"listed_count": 442,
+			"created_at": "Fri May 03 11:08:09 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3639562075/f81f3acbb354a290a1b0109f7c0bf29f_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3639562075/f81f3acbb354a290a1b0109f7c0bf29f_normal.png",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 526,
+		"favorite_count": 445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM VIDEO] hyoyeon_x_x: .\n티파짱 생일축하해잉🖤\n.\n.\n#dessertdance\n#dessert #디저트 #tiffany https://t.co/QPIEaCLlMe #hyostagram https://t.co/gUyxqFJfjg"
+	},
+	{
+		"created_at": "Sun Aug 02 09:17:12 +0000 2020",
+		"id": 1289852743184601000,
+		"id_str": "1289852743184601090",
+		"full_text": "김이나가 말하는 '야하고 지적인 사람'이 되는 법 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA)\nhttps://t.co/V13OfQOrzK\n#작사가 #김이나 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V13OfQOrzK",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/47816",
+					"display_url": "cosmopolitan.co.kr/article/47816",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김이나가 말하는 '야하고 지적인 사람'이 되는 법 | 코스모폴리탄 코리아 (COSMOPOLITAN KOREA)\nhttps://t.co/V13OfQOrzK\n#작사가 #김이나 #minfav"
+	},
+	{
+		"created_at": "Sun Aug 02 09:16:50 +0000 2020",
+		"id": 1289852650037502000,
+		"id_str": "1289852650037501952",
+		"full_text": "작사가 김이나가 말하는 루머 유포자! 악플러! 《혼드리》 EP.1 by 모비딕 Mobidic\nhttps://t.co/YpSw9O4x77\n#작사가 #김이나 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YpSw9O4x77",
+					"expanded_url": "https://youtu.be/Cf4dkGkSUC8",
+					"display_url": "youtu.be/Cf4dkGkSUC8",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "작사가 김이나가 말하는 루머 유포자! 악플러! 《혼드리》 EP.1 by 모비딕 Mobidic\nhttps://t.co/YpSw9O4x77\n#작사가 #김이나 #minfav"
+	},
+	{
 		"created_at": "Sun Aug 02 09:01:16 +0000 2020",
 		"id": 1289759080916033500,
 		"id_str": "1289848733434179589",
