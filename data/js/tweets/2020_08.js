@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 02 11:04:22 +0000 2020",
+		"id": 1289564995458445300,
+		"id_str": "1289879711242317825",
+		"full_text": "짤 하나로 표현하면 다음과 같다. https://t.co/LKYc6IyCdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289564992732147700,
+					"id_str": "1289564992732147713",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EeV0h0qUMAEWGwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeV0h0qUMAEWGwn.jpg",
+					"url": "https://t.co/LKYc6IyCdU",
+					"display_url": "pic.twitter.com/LKYc6IyCdU",
+					"expanded_url": "https://twitter.com/cfr0g/status/1289564995458445314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 536,
+							"h": 709,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 536,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289564992732147700,
+					"id_str": "1289564992732147713",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EeV0h0qUMAEWGwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeV0h0qUMAEWGwn.jpg",
+					"url": "https://t.co/LKYc6IyCdU",
+					"display_url": "pic.twitter.com/LKYc6IyCdU",
+					"expanded_url": "https://twitter.com/cfr0g/status/1289564995458445314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 536,
+							"h": 709,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 536,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1289564730793721900,
+		"in_reply_to_status_id_str": "1289564730793721857",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5002,
+			"friends_count": 159,
+			"listed_count": 111,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 305,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "짤 하나로 표현하면 다음과 같다. https://t.co/LKYc6IyCdU"
+	},
+	{
+		"created_at": "Sun Aug 02 11:04:09 +0000 2020",
+		"id": 1289564730793721900,
+		"id_str": "1289879654266855424",
+		"full_text": "한 문장으로 요약하면 다음과 같다.\n\n\"기술이 아직 인간 지능을 대체하지 못하지만, 평범한 사람들의 평범한 지능은 대체할 수 있을 거 같다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1289564239309312000,
+		"in_reply_to_status_id_str": "1289564239309312000",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5002,
+			"friends_count": 159,
+			"listed_count": 111,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 303,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한 문장으로 요약하면 다음과 같다.\n\n\"기술이 아직 인간 지능을 대체하지 못하지만, 평범한 사람들의 평범한 지능은 대체할 수 있을 거 같다.\""
+	},
+	{
+		"created_at": "Sun Aug 02 11:04:00 +0000 2020",
+		"id": 1289564239309312000,
+		"id_str": "1289879618627842048",
+		"full_text": "현재까지 AI 기술의 의미는 두가지로 요약됨.\n\n- 기술이 발전해도 아직 지능이 뭔지 잘 모른다. 현재까지는 고도의 패턴 인식 기술이다.\n- 패턴 인식이 고도화되는 것만으로 사람의 일을 상당히 대체할 수 있음을 알게되었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5002,
+			"friends_count": 159,
+			"listed_count": 111,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 582,
+		"favorite_count": 397,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "현재까지 AI 기술의 의미는 두가지로 요약됨.\n\n- 기술이 발전해도 아직 지능이 뭔지 잘 모른다. 현재까지는 고도의 패턴 인식 기술이다.\n- 패턴 인식이 고도화되는 것만으로 사람의 일을 상당히 대체할 수 있음을 알게되었다."
+	},
+	{
 		"created_at": "Sun Aug 02 09:23:44 +0000 2020",
 		"id": 1289854386877784000,
 		"id_str": "1289854386877784064",
