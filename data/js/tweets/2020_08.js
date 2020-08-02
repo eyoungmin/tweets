@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 02 01:27:57 +0000 2020",
+		"id": 1289727617990459400,
+		"id_str": "1289734650747744256",
+		"full_text": "🌟 인기가요 습스 엔딩픽 🌟\n엔딩 보려고 일욜 꾹 참고 기다렸잖아,,,,😉❤️\n\nSBS &lt;인기가요&gt;\n☞ 매주 일요일 오후 3시 50분 방송\n\n#SBS인기가요 #습스엔딩픽 #인기가요엔딩 #인기가요엔딩픽 #VERIVERY #강민 #동헌 #전소미 #여자친구 #예린 #레드벨벳 #아이린 #슬기 #인기가요엔딩맛집 https://t.co/WtH4DbuCG5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS인기가요",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "습스엔딩픽",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "인기가요엔딩",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "인기가요엔딩픽",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "강민",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "동헌",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "전소미",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "예린",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "인기가요엔딩맛집",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289024656221978600,
+					"id_str": "1289024656221978624",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOLMC3UcAEBgEJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOLMC3UcAEBgEJ.jpg",
+					"url": "https://t.co/WtH4DbuCG5",
+					"display_url": "pic.twitter.com/WtH4DbuCG5",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1289727617990459392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289024656221978600,
+					"id_str": "1289024656221978624",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOLMC3UcAEBgEJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeOLMC3UcAEBgEJ.jpg",
+					"url": "https://t.co/WtH4DbuCG5",
+					"display_url": "pic.twitter.com/WtH4DbuCG5",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1289727617990459392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15682,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1289024656221978624/pl/sybMUapB2AiZbjkj.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1289024656221978624/vid/480x480/Q35fyPrH-TW2gi7x.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1289024656221978624/vid/320x320/Fu04GwcrvyEN2DTd.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1289024656221978624/vid/720x720/LIuRgFSAO4NIO1NH.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1579756,
+			"friends_count": 5275,
+			"listed_count": 2773,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1592182957",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌟 인기가요 습스 엔딩픽 🌟\n엔딩 보려고 일욜 꾹 참고 기다렸잖아,,,,😉❤️\n\nSBS &lt;인기가요&gt;\n☞ 매주 일요일 오후 3시 50분 방송\n\n#SBS인기가요 #습스엔딩픽 #인기가요엔딩 #인기가요엔딩픽 #VERIVERY #강민 #동헌 #전소미 #여자친구 #예린 #레드벨벳 #아이린 #슬기 #인기가요엔딩맛집 https://t.co/WtH4DbuCG5"
+	},
+	{
 		"created_at": "Sat Aug 01 23:28:04 +0000 2020",
 		"id": 1288125069848322000,
 		"id_str": "1289704482545135616",
