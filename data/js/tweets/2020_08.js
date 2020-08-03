@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 19:45:38 +0000 2020",
+		"id": 1290362019472793600,
+		"id_str": "1290373278381625348",
+		"full_text": "Bringing this #LOONA gem back to your timeline from when they covered #BTS 'Not Today' at #KCON! 💥 https://t.co/wB4hjDpkFi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203112287093039000,
+					"id_str": "1203112287093039105",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203112287093039105/pu/img/Zj_VNpo7FZ4HxW4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203112287093039105/pu/img/Zj_VNpo7FZ4HxW4W.jpg",
+					"url": "https://t.co/wB4hjDpkFi",
+					"display_url": "pic.twitter.com/wB4hjDpkFi",
+					"expanded_url": "https://twitter.com/kconusa/status/1290362019472793600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203112287093039000,
+					"id_str": "1203112287093039105",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203112287093039105/pu/img/Zj_VNpo7FZ4HxW4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203112287093039105/pu/img/Zj_VNpo7FZ4HxW4W.jpg",
+					"url": "https://t.co/wB4hjDpkFi",
+					"display_url": "pic.twitter.com/wB4hjDpkFi",
+					"expanded_url": "https://twitter.com/kconusa/status/1290362019472793600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18433,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203112287093039105/pu/vid/480x270/LvDTvSnfegK0_UuB.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203112287093039105/pu/vid/1280x720/yKOXcgPGzO3OHaoF.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1203112287093039105/pu/pl/BBmB_VoXXXjkgx2G.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203112287093039105/pu/vid/640x360/Dtndmb9g5jbiGYeJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189252,
+			"friends_count": 3,
+			"listed_count": 385,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1590694428",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bringing this #LOONA gem back to your timeline from when they covered #BTS 'Not Today' at #KCON! 💥 https://t.co/wB4hjDpkFi"
+	},
+	{
 		"created_at": "Mon Aug 03 15:51:37 +0000 2020",
 		"id": 1290093790980530200,
 		"id_str": "1290314388918829056",
