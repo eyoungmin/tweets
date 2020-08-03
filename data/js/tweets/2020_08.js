@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 09:45:37 +0000 2020",
+		"id": 1290218664155701200,
+		"id_str": "1290222280551755777",
+		"full_text": "로켓펀치 (Rocket Punch)\n팩트인스타 현장 공개녹화 안내 \n\n일시 : 8월 10일 [오후 4시]\n장소 : TBS 오픈 스튜디오  \n          (서울 마포구 매봉산로 31)\n\n진행 : 유재환(UL), 이브(이달의 소녀)\n출연 : 로켓펀치(Rocket Punch)\n\n#로켓펀치 #RocketPunch\n#Juicy #Blue_Punch \n\n@RocketPunch https://t.co/MOJ7KsoRY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로켓펀치",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "RocketPunch",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "Juicy",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "Blue_Punch",
+					"indices": [
+						182,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RocketPunch",
+					"name": "Rocket Punch(로켓펀치)",
+					"id": 1138008279404040200,
+					"id_str": "1138008279404040193",
+					"indices": [
+						196,
+						208
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290218651925098500,
+					"id_str": "1290218651925098497",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EefHBy6UMAE9hRS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EefHBy6UMAE9hRS.jpg",
+					"url": "https://t.co/MOJ7KsoRY9",
+					"display_url": "pic.twitter.com/MOJ7KsoRY9",
+					"expanded_url": "https://twitter.com/factinstar/status/1290218664155701250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 933,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1593,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290218651925098500,
+					"id_str": "1290218651925098497",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EefHBy6UMAE9hRS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EefHBy6UMAE9hRS.jpg",
+					"url": "https://t.co/MOJ7KsoRY9",
+					"display_url": "pic.twitter.com/MOJ7KsoRY9",
+					"expanded_url": "https://twitter.com/factinstar/status/1290218664155701250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 933,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1593,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "All That Your K-POP BIAS / TBS Open Studio (SEOUL S-PLEX CENTER) / Friday at 9:00 PM(KST) Fact iN Star #Youtube Upload / Sunday at 12:30 PM(KST) TBS TV On Air",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4772,
+			"friends_count": 2818,
+			"listed_count": 27,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1589956779",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로켓펀치 (Rocket Punch)\n팩트인스타 현장 공개녹화 안내 \n\n일시 : 8월 10일 [오후 4시]\n장소 : TBS 오픈 스튜디오  \n          (서울 마포구 매봉산로 31)\n\n진행 : 유재환(UL), 이브(이달의 소녀)\n출연 : 로켓펀치(Rocket Punch)\n\n#로켓펀치 #RocketPunch\n#Juicy #Blue_Punch \n\n@RocketPunch https://t.co/MOJ7KsoRY9"
+	},
+	{
+		"created_at": "Mon Aug 03 09:25:11 +0000 2020",
+		"id": 1290212619572277200,
+		"id_str": "1290217137349578752",
+		"full_text": "연습실 라이브 짧은 클립2 ‘HOLA!’ \n자우림 유튜브 채널에 업로드 되었습니다💛\n\nfull ver👇\nhttps://t.co/xT5RASu9db",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xT5RASu9db",
+					"expanded_url": "https://youtu.be/9bEDBQqfZog",
+					"display_url": "youtu.be/9bEDBQqfZog",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2138,
+			"friends_count": 5,
+			"listed_count": 12,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279006030869852161/SowaiTxg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279006030869852161/SowaiTxg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1594186092",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연습실 라이브 짧은 클립2 ‘HOLA!’ \n자우림 유튜브 채널에 업로드 되었습니다💛\n\nfull ver👇\nhttps://t.co/xT5RASu9db"
+	},
+	{
+		"created_at": "Mon Aug 03 09:17:24 +0000 2020",
+		"id": 1290215178487730200,
+		"id_str": "1290215178487730177",
+		"full_text": "#팩트체크 #SNU팩트체크\n법무·검찰개혁위, 총장 힘빼고 장관권한만 일방강화한다\n▶ 대체로 사실이 아님\nhttps://t.co/Sj1AIcan10\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						84,
+						95
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sj1AIcan10",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2413",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n법무·검찰개혁위, 총장 힘빼고 장관권한만 일방강화한다\n▶ 대체로 사실이 아님\nhttps://t.co/Sj1AIcan10\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Mon Aug 03 09:17:23 +0000 2020",
+		"id": 1290215175568539600,
+		"id_str": "1290215175568539648",
+		"full_text": "#팩트체크 #SNU팩트체크\n공모주 청약하면 모두 대박을 터뜨렸다\n▶ 대체로 사실\nhttps://t.co/6CYGbeTA7z\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6CYGbeTA7z",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2406",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n공모주 청약하면 모두 대박을 터뜨렸다\n▶ 대체로 사실\nhttps://t.co/6CYGbeTA7z\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Mon Aug 03 09:16:26 +0000 2020",
+		"id": 1290214935885226000,
+		"id_str": "1290214935885225984",
+		"full_text": "#자우림 #Jaurim\n연습실 라이브 짧은 클립 2 - HOLA!\nhttps://t.co/lnNu60qZ77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Jaurim",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lnNu60qZ77",
+					"expanded_url": "https://youtu.be/9bEDBQqfZog",
+					"display_url": "youtu.be/9bEDBQqfZog",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#자우림 #Jaurim\n연습실 라이브 짧은 클립 2 - HOLA!\nhttps://t.co/lnNu60qZ77"
+	},
+	{
+		"created_at": "Mon Aug 03 09:04:15 +0000 2020",
+		"id": 1290211870972944400,
+		"id_str": "1290211870972944384",
+		"full_text": "[STATION/Our Beloved BoA #1] BAEKHYUN 백현 Interview #비하인더스테이션\nhttps://t.co/brBLHCc5LS\n#SM_STATION #STATION #스테이션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비하인더스테이션",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "SM_STATION",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/brBLHCc5LS",
+					"expanded_url": "https://youtu.be/L8PFpxD3Gbk",
+					"display_url": "youtu.be/L8PFpxD3Gbk",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION/Our Beloved BoA #1] BAEKHYUN 백현 Interview #비하인더스테이션\nhttps://t.co/brBLHCc5LS\n#SM_STATION #STATION #스테이션"
+	},
+	{
 		"created_at": "Mon Aug 03 08:45:37 +0000 2020",
 		"id": 1290197993992282000,
 		"id_str": "1290207181330030593",
@@ -218,7 +1012,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Mon Aug 03 08:25:11 +0000 2020",
 		"id": 1290201913472905200,
 		"id_str": "1290202037704171520",
-		"full_text": "돈 있어 차 있어 Make it we we on\n주말이면 She be throwin like 피융☄️\nYou know what I deserve?! DESSERT 🍰🍭🍦\n#DessertDance #DESSERT #HYOYEON #SEOHYUN \n*번외편 댄싱머신효(따라하는)현🙋🏻‍♀️🙅🏻‍♀️ https://t.co/ycAzEtl2gj",
+		"full_text": "돈 있어 차 있어 Make it we we on\n주말이면 She be throwin like 피융☄️\nYou know what I deserve?! DESSERT 🍰🍭🍦\n#DessertDance #DESSERT #HYOYEON #SEOHYUN \n*번외편 댄싱머신효(따라하는)현🙋🏻♀️🙅🏻♀️ https://t.co/ycAzEtl2gj",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -334,7 +1128,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "돈 있어 차 있어 Make it we we on\n주말이면 She be throwin like 피융☄️\nYou know what I deserve?! DESSERT 🍰🍭🍦\n#DessertDance #DESSERT #HYOYEON #SEOHYUN \n*번외편 댄싱머신효(따라하는)현🙋🏻‍♀️🙅🏻‍♀️ https://t.co/ycAzEtl2gj"
+		"text": "돈 있어 차 있어 Make it we we on\n주말이면 She be throwin like 피융☄️\nYou know what I deserve?! DESSERT 🍰🍭🍦\n#DessertDance #DESSERT #HYOYEON #SEOHYUN \n*번외편 댄싱머신효(따라하는)현🙋🏻♀️🙅🏻♀️ https://t.co/ycAzEtl2gj"
 	},
 	{
 		"created_at": "Mon Aug 03 08:17:14 +0000 2020",
