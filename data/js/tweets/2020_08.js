@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 00:59:27 +0000 2020",
+		"id": 1290089866936463400,
+		"id_str": "1290089866936463360",
+		"full_text": "#YG라이프 #YG엔터테인먼트\nYG 트레저, 데뷔 싱글앨범 선주문 15만↑..中 인기 폭증 ‘YG 역대 최대 초동’\nhttps://t.co/9YNzAttNRE\n#블랙핑크 #BLACKPINK https://t.co/e8XUvl3LCB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9YNzAttNRE",
+					"expanded_url": "https://yg-life.com/archives/157790?lang=ko",
+					"display_url": "yg-life.com/archives/15779…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290089865862770700,
+					"id_str": "1290089865862770688",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EedR5dcU8AADSRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EedR5dcU8AADSRi.jpg",
+					"url": "https://t.co/e8XUvl3LCB",
+					"display_url": "pic.twitter.com/e8XUvl3LCB",
+					"expanded_url": "https://twitter.com/fromminn/status/1290089866936463360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 530,
+							"h": 794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290089865862770700,
+					"id_str": "1290089865862770688",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EedR5dcU8AADSRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EedR5dcU8AADSRi.jpg",
+					"url": "https://t.co/e8XUvl3LCB",
+					"display_url": "pic.twitter.com/e8XUvl3LCB",
+					"expanded_url": "https://twitter.com/fromminn/status/1290089866936463360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 530,
+							"h": 794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\nYG 트레저, 데뷔 싱글앨범 선주문 15만↑..中 인기 폭증 ‘YG 역대 최대 초동’\nhttps://t.co/9YNzAttNRE\n#블랙핑크 #BLACKPINK https://t.co/e8XUvl3LCB"
+	},
+	{
 		"created_at": "Sun Aug 02 23:25:11 +0000 2020",
 		"id": 1290059726269452300,
 		"id_str": "1290066142568931328",
