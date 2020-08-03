@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 05:25:11 +0000 2020",
+		"id": 1290150495319806000,
+		"id_str": "1290156738667098114",
+		"full_text": "#BLACKPINK [How You Like That] ONLINE FANSIGNING EVENT\n\n📺NAVER TV : https://t.co/4DqH7dP5uR\n🎬YouTube : https://t.co/C9NbtE77AY\n\n#블랙핑크 #HowYouLikeThat #ONLINE_FANSIGNING_EVENT #BLINK #YG https://t.co/SiirKbGILc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						134,
+						149
+					]
+				},
+				{
+					"text": "ONLINE_FANSIGNING_EVENT",
+					"indices": [
+						150,
+						174
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						182,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4DqH7dP5uR",
+					"expanded_url": "https://tv.naver.com/v/15093564",
+					"display_url": "tv.naver.com/v/15093564",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/C9NbtE77AY",
+					"expanded_url": "https://youtu.be/BjAjGUVCpDU",
+					"display_url": "youtu.be/BjAjGUVCpDU",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290139765363232800,
+					"id_str": "1290139765363232773",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Eed_oIEUcAEkVAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eed_oIEUcAEkVAg.jpg",
+					"url": "https://t.co/SiirKbGILc",
+					"display_url": "pic.twitter.com/SiirKbGILc",
+					"expanded_url": "https://twitter.com/ygent_official/status/1290150495319805952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290139765363232800,
+					"id_str": "1290139765363232773",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Eed_oIEUcAEkVAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eed_oIEUcAEkVAg.jpg",
+					"url": "https://t.co/SiirKbGILc",
+					"display_url": "pic.twitter.com/SiirKbGILc",
+					"expanded_url": "https://twitter.com/ygent_official/status/1290150495319805952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 77869,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290139765363232773/vid/1280x720/9dqzd-T4K6xJ-711.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290139765363232773/vid/480x270/lbjG58nK6ufMJvUy.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290139765363232773/vid/640x360/sx2W-9j9y9q0Hze0.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1290139765363232773/pl/T1jlFjsrAeGl4l0R.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK [How You Like That] ONLINE FANSIGNING EVENT",
+						"description": "BLACKPINK [How You Like That] ONLINE FANSIGNING EVENT",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6434407,
+			"friends_count": 38,
+			"listed_count": 6522,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13433,
+		"favorite_count": 37096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK [How You Like That] ONLINE FANSIGNING EVENT\n\n📺NAVER TV : https://t.co/4DqH7dP5uR\n🎬YouTube : https://t.co/C9NbtE77AY\n\n#블랙핑크 #HowYouLikeThat #ONLINE_FANSIGNING_EVENT #BLINK #YG https://t.co/SiirKbGILc"
+	},
+	{
 		"created_at": "Mon Aug 03 04:27:57 +0000 2020",
 		"id": 1290140282793517000,
 		"id_str": "1290142336911986689",
