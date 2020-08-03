@@ -1,6 +1,1790 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 10:49:27 +0000 2020",
+		"id": 1290220705351516200,
+		"id_str": "1290238345490993153",
+		"full_text": "남의 얘기 같던 온라인 점포 진출, 중기부가 돕는다 https://t.co/T0lIu8D38m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T0lIu8D38m",
+					"expanded_url": "http://www.bloter.net/archives/399062",
+					"display_url": "bloter.net/archives/399062",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55056,
+			"friends_count": 9,
+			"listed_count": 2375,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남의 얘기 같던 온라인 점포 진출, 중기부가 돕는다 https://t.co/T0lIu8D38m"
+	},
+	{
+		"created_at": "Mon Aug 03 10:30:59 +0000 2020",
+		"id": 1290212285353349000,
+		"id_str": "1290233695819857920",
+		"full_text": "[🎧] (여자)아이들 - '덤디덤디 (DUMDi DUMDi)'\n\n✔ 멜론: https://t.co/5HUYaZbHS9\n✔ 지니: https://t.co/7YaPwf082E\n✔ 플로: https://t.co/mOTirucsrx\n✔ 바이브: https://t.co/uO8IpfEXY1\n\n#여자아이들 #GIDLE\n#덤디덤디 #DUMDiDUMDi https://t.co/7oKuzsSQuh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "덤디덤디",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "DUMDiDUMDi",
+					"indices": [
+						178,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5HUYaZbHS9",
+					"expanded_url": "https://bit.ly/2DrvsEM",
+					"display_url": "bit.ly/2DrvsEM",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/7YaPwf082E",
+					"expanded_url": "https://bit.ly/30lboNe",
+					"display_url": "bit.ly/30lboNe",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/mOTirucsrx",
+					"expanded_url": "https://bit.ly/2ELuSCv",
+					"display_url": "bit.ly/2ELuSCv",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/uO8IpfEXY1",
+					"expanded_url": "https://bit.ly/33jDJW9",
+					"display_url": "bit.ly/33jDJW9",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290212268785856500,
+					"id_str": "1290212268785856513",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EefBOP3U8AEisYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EefBOP3U8AEisYx.jpg",
+					"url": "https://t.co/7oKuzsSQuh",
+					"display_url": "pic.twitter.com/7oKuzsSQuh",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1290212285353349121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290212268785856500,
+					"id_str": "1290212268785856513",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EefBOP3U8AEisYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EefBOP3U8AEisYx.jpg",
+					"url": "https://t.co/7oKuzsSQuh",
+					"display_url": "pic.twitter.com/7oKuzsSQuh",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1290212285353349121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839528,
+			"friends_count": 36,
+			"listed_count": 2719,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1596419429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2514,
+		"favorite_count": 6720,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧] (여자)아이들 - '덤디덤디 (DUMDi DUMDi)'\n\n✔ 멜론: https://t.co/5HUYaZbHS9\n✔ 지니: https://t.co/7YaPwf082E\n✔ 플로: https://t.co/mOTirucsrx\n✔ 바이브: https://t.co/uO8IpfEXY1\n\n#여자아이들 #GIDLE\n#덤디덤디 #DUMDiDUMDi https://t.co/7oKuzsSQuh"
+	},
+	{
+		"created_at": "Mon Aug 03 10:30:50 +0000 2020",
+		"id": 1290210800410300400,
+		"id_str": "1290233659463671808",
+		"full_text": "퍼포먼스퀸👑 (여자)아이들의 귀환...!! 힙한 여름파티🎊 한바탕 열고 간 아이들의 ✨덤디덤디✨ 무대 최초 공개!! 아이들+썸머송 조합은 뭐다? 갓띵조합이다❤️\n#테이크원 #여자아이들 #GIDLE #덤디덤디 #DUMDiDUMDi #Take1 @G_I_DLE\n\nFUll ver. 👉 https://t.co/oh6CmT9hpa https://t.co/xnhtUI6U1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "테이크원",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "덤디덤디",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "DUMDiDUMDi",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"text": "Take1",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oh6CmT9hpa",
+					"expanded_url": "https://youtu.be/J7X6iK3Ox3U",
+					"display_url": "youtu.be/J7X6iK3Ox3U",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290187333539520500,
+					"id_str": "1290187333539520513",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EeevsRyU8AA7nTh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeevsRyU8AA7nTh.jpg",
+					"url": "https://t.co/xnhtUI6U1G",
+					"display_url": "pic.twitter.com/xnhtUI6U1G",
+					"expanded_url": "https://twitter.com/1theK/status/1290210800410300416/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290187333539520500,
+					"id_str": "1290187333539520513",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EeevsRyU8AA7nTh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeevsRyU8AA7nTh.jpg",
+					"url": "https://t.co/xnhtUI6U1G",
+					"display_url": "pic.twitter.com/xnhtUI6U1G",
+					"expanded_url": "https://twitter.com/1theK/status/1290210800410300416/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33667,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1290187333539520513/pl/O8Jg0NswSozaJe48.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290187333539520513/vid/480x270/IOAgvA6ZFZoJasN0.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290187333539520513/vid/640x360/d_iMqJIxT-cvyARF.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290187333539520513/vid/1280x720/L_5KPDzeRJ36LsBU.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/J7X6iK3Ox3U"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1998647,
+			"friends_count": 802,
+			"listed_count": 1684,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1596445212",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4586,
+		"favorite_count": 7511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "퍼포먼스퀸👑 (여자)아이들의 귀환...!! 힙한 여름파티🎊 한바탕 열고 간 아이들의 ✨덤디덤디✨ 무대 최초 공개!! 아이들+썸머송 조합은 뭐다? 갓띵조합이다❤️\n#테이크원 #여자아이들 #GIDLE #덤디덤디 #DUMDiDUMDi #Take1 @G_I_DLE\n\nFUll ver. 👉 https://t.co/oh6CmT9hpa https://t.co/xnhtUI6U1G"
+	},
+	{
+		"created_at": "Mon Aug 03 10:30:44 +0000 2020",
+		"id": 1290232427143499800,
+		"id_str": "1290233635920994304",
+		"full_text": "[📽] 아이들과 함께하는 덤디덤디 챌린지 오픈!🏝🔥🌊🥁\n네버랜드 여러분의 많은 참여 부탁드립니다❤💜\n\n#여자아이들 #GIDLE\n#덤디덤디 #DUMDiDUMDi\n#틱톡 #TikTok\n\n▶️ https://t.co/6e6GDiqLcE https://t.co/N4LgQ9mrC1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "덤디덤디",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "DUMDiDUMDi",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "TikTok",
+					"indices": [
+						93,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6e6GDiqLcE",
+					"expanded_url": "https://vt.tiktok.com/UnXX9k/",
+					"display_url": "vt.tiktok.com/UnXX9k/",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290232366472913000,
+					"id_str": "1290232366472912896",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290232366472912896/pu/img/yjJJ44-Vkwwu9AuP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290232366472912896/pu/img/yjJJ44-Vkwwu9AuP.jpg",
+					"url": "https://t.co/N4LgQ9mrC1",
+					"display_url": "pic.twitter.com/N4LgQ9mrC1",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1290232427143499776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 318,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 561,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290232366472913000,
+					"id_str": "1290232366472912896",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290232366472912896/pu/img/yjJJ44-Vkwwu9AuP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290232366472912896/pu/img/yjJJ44-Vkwwu9AuP.jpg",
+					"url": "https://t.co/N4LgQ9mrC1",
+					"display_url": "pic.twitter.com/N4LgQ9mrC1",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1290232427143499776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 318,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 561,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							36,
+							77
+						],
+						"duration_millis": 20965,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290232366472912896/pu/vid/576x1232/QpvHMX6sll_r4YId.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290232366472912896/pu/vid/320x684/J_7E063_pLjuzo2I.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1290232366472912896/pu/pl/k3ITOwMmU6s2roUJ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290232366472912896/pu/vid/360x770/dSk74lPJ5MTZSHPS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839528,
+			"friends_count": 36,
+			"listed_count": 2719,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1596419429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3205,
+		"favorite_count": 6852,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] 아이들과 함께하는 덤디덤디 챌린지 오픈!🏝🔥🌊🥁\n네버랜드 여러분의 많은 참여 부탁드립니다❤💜\n\n#여자아이들 #GIDLE\n#덤디덤디 #DUMDiDUMDi\n#틱톡 #TikTok\n\n▶️ https://t.co/6e6GDiqLcE https://t.co/N4LgQ9mrC1"
+	},
+	{
+		"created_at": "Mon Aug 03 10:30:40 +0000 2020",
+		"id": 1290210927862661000,
+		"id_str": "1290233616379842561",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Music Video\n\n#여자아이들 #GIDLE\n#덤디덤디 #DUMDiDUMDi\n\n▶️ https://t.co/ySuLZNOSXz https://t.co/8k4QYXJP6b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "덤디덤디",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "DUMDiDUMDi",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ySuLZNOSXz",
+					"expanded_url": "https://youtu.be/HPQ5mqovXHo",
+					"display_url": "youtu.be/HPQ5mqovXHo",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290210918689673200,
+					"id_str": "1290210918689673216",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee__qXUEAApwMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eee__qXUEAApwMp.jpg",
+					"url": "https://t.co/8k4QYXJP6b",
+					"display_url": "pic.twitter.com/8k4QYXJP6b",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1290210927862661120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290210918689673200,
+					"id_str": "1290210918689673216",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee__qXUEAApwMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eee__qXUEAApwMp.jpg",
+					"url": "https://t.co/8k4QYXJP6b",
+					"display_url": "pic.twitter.com/8k4QYXJP6b",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1290210927862661120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839528,
+			"friends_count": 36,
+			"listed_count": 2719,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1596419429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13072,
+		"favorite_count": 19564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Music Video\n\n#여자아이들 #GIDLE\n#덤디덤디 #DUMDiDUMDi\n\n▶️ https://t.co/ySuLZNOSXz https://t.co/8k4QYXJP6b"
+	},
+	{
+		"created_at": "Mon Aug 03 10:30:23 +0000 2020",
+		"id": 1290230090383519700,
+		"id_str": "1290233547551195137",
+		"full_text": "GUEST | (G)I-DLE·(여자)아이들\n@G_I_DLE\n\n📽 (여자)아이들((G)I-DLE) - \"DUMDi DUMDi\" Teaser | 뮤플리 스페셜\nㄴ 고화질: https://t.co/aoyrOShaBJ\n\n❗❗8/4(화) PM 8:00❗❗\n유튜브 #뮤플리 채널에서 최초 공개\n\n#여자아이들 #GIDLE\n#덤디덤디 #DUMDiDUMDi https://t.co/2k4jr1V8q3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤플리",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "덤디덤디",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "DUMDiDUMDi",
+					"indices": [
+						180,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aoyrOShaBJ",
+					"expanded_url": "https://youtu.be/piTOexvUgS0",
+					"display_url": "youtu.be/piTOexvUgS0",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290209826027389000,
+					"id_str": "1290209826027388929",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee_yVoUEAI4F-X.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eee_yVoUEAI4F-X.png",
+					"url": "https://t.co/2k4jr1V8q3",
+					"display_url": "pic.twitter.com/2k4jr1V8q3",
+					"expanded_url": "https://twitter.com/MuFully/status/1290230090383519744/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290209826027389000,
+					"id_str": "1290209826027388929",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee_yVoUEAI4F-X.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eee_yVoUEAI4F-X.png",
+					"url": "https://t.co/2k4jr1V8q3",
+					"display_url": "pic.twitter.com/2k4jr1V8q3",
+					"expanded_url": "https://twitter.com/MuFully/status/1290230090383519744/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24900,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290209826027388929/vid/1280x720/M4jxrt2WPBJTEe5a.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290209826027388929/vid/640x360/tQp8lFl2oqF4Gfpk.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1290209826027388929/pl/qWVuUX55QxSZWszP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290209826027388929/vid/480x270/eiWtV39O_-VpbmJe.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[뮤플리 스페셜] (여자)아이들 티저",
+						"description": "[뮤플리 스페셜] (여자)아이들 티저",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/piTOexvUgS0"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "mu:fully (뮤플리)",
+			"screen_name": "MuFully",
+			"location": "",
+			"description": "KPOP을 더 즐겁게! 풀 영상은 아래 링크 클릭!👇",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11952,
+			"friends_count": 51,
+			"listed_count": 23,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1585134058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1633,
+		"favorite_count": 3214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "GUEST | (G)I-DLE·(여자)아이들\n@G_I_DLE\n\n📽 (여자)아이들((G)I-DLE) - \"DUMDi DUMDi\" Teaser | 뮤플리 스페셜\nㄴ 고화질: https://t.co/aoyrOShaBJ\n\n❗❗8/4(화) PM 8:00❗❗\n유튜브 #뮤플리 채널에서 최초 공개\n\n#여자아이들 #GIDLE\n#덤디덤디 #DUMDiDUMDi https://t.co/2k4jr1V8q3"
+	},
+	{
+		"created_at": "Mon Aug 03 10:25:21 +0000 2020",
+		"id": 1289123938467889200,
+		"id_str": "1290232277801111556",
+		"full_text": "한여름 무더위를 잊게 해줄 향기를 찾고 있다면? #청하 (@CHUNGHA_MNHent)가 추천하는 #돌체앤가바나뷰티 #라이트블루 를 눈여겨보세요. 깔끔하고 쾌적한 향기가 매력적이고, 남녀 모두 사용하기 좋답니다!💙 \n - \n Chung Ha recommends Dolce &amp; Gabbana Beauty Light Blue. https://t.co/EF1uaNO0iz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "돌체앤가바나뷰티",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "라이트블루",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						32,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289123929953415200,
+					"id_str": "1289123929953415175",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EePjYlxUMAc7mlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EePjYlxUMAc7mlG.jpg",
+					"url": "https://t.co/EF1uaNO0iz",
+					"display_url": "pic.twitter.com/EF1uaNO0iz",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1289123938467889153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1626,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 953,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289123929953415200,
+					"id_str": "1289123929953415175",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EePjYlxUMAc7mlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EePjYlxUMAc7mlG.jpg",
+					"url": "https://t.co/EF1uaNO0iz",
+					"display_url": "pic.twitter.com/EF1uaNO0iz",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1289123938467889153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1626,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 953,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/A65jIiHpAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A65jIiHpAu",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93512,
+			"friends_count": 1,
+			"listed_count": 281,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1596171304",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 1644,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한여름 무더위를 잊게 해줄 향기를 찾고 있다면? #청하 (@CHUNGHA_MNHent)가 추천하는 #돌체앤가바나뷰티 #라이트블루 를 눈여겨보세요. 깔끔하고 쾌적한 향기가 매력적이고, 남녀 모두 사용하기 좋답니다!💙 \n - \n Chung Ha recommends Dolce &amp; Gabbana Beauty Light Blue. https://t.co/EF1uaNO0iz"
+	},
+	{
+		"created_at": "Mon Aug 03 10:25:11 +0000 2020",
+		"id": 1288770615940284400,
+		"id_str": "1290232238961909761",
+		"full_text": "#돌체앤가바나 뷰티 뮤즈, #청하 (@CHUNGHA_MNHent)와 함께한 바캉스 뷰티 필름! 돌체앤가바나 뷰티 제품으로 완성한 그의 사랑스러운 모습이 궁금하다면, 지금 마리끌레르 인스타그램을 확인하세요.🧡 \n- \nChung Ha's beauty film with Dolce &amp; Gabbana Beauty on Marie Claire Korea Instagram. https://t.co/MP1wmgYCnG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "돌체앤가바나",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						15,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						20,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288770554124628000,
+					"id_str": "1288770554124627968",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeKh_aOU8AAEJjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeKh_aOU8AAEJjx.jpg",
+					"url": "https://t.co/MP1wmgYCnG",
+					"display_url": "pic.twitter.com/MP1wmgYCnG",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1288770615940284416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288770554124628000,
+					"id_str": "1288770554124627968",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeKh_aOU8AAEJjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeKh_aOU8AAEJjx.jpg",
+					"url": "https://t.co/MP1wmgYCnG",
+					"display_url": "pic.twitter.com/MP1wmgYCnG",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1288770615940284416/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EeKh_aOU8AAEJjx.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/A65jIiHpAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A65jIiHpAu",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93512,
+			"friends_count": 1,
+			"listed_count": 281,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1596171304",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 1339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#돌체앤가바나 뷰티 뮤즈, #청하 (@CHUNGHA_MNHent)와 함께한 바캉스 뷰티 필름! 돌체앤가바나 뷰티 제품으로 완성한 그의 사랑스러운 모습이 궁금하다면, 지금 마리끌레르 인스타그램을 확인하세요.🧡 \n- \nChung Ha's beauty film with Dolce &amp; Gabbana Beauty on Marie Claire Korea Instagram. https://t.co/MP1wmgYCnG"
+	},
+	{
 		"created_at": "Mon Aug 03 09:45:37 +0000 2020",
 		"id": 1290218664155701200,
 		"id_str": "1290222280551755777",
