@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 03:00:40 +0000 2020",
+		"id": 1290120370973016000,
+		"id_str": "1290120370973016064",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Aug 3) https://t.co/2Hnms4v8dn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Hnms4v8dn",
+					"expanded_url": "https://nzzl.us/PqaiydH",
+					"display_url": "nzzl.us/PqaiydH",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Aug 3) https://t.co/2Hnms4v8dn"
+	},
+	{
+		"created_at": "Mon Aug 03 02:28:08 +0000 2020",
+		"id": 1290106159597199400,
+		"id_str": "1290112185956364288",
+		"full_text": "[#예리한방] 19, 20화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n예리한 방에 찾아온 구구콘즈..🎉\n#에이프릴 #나은 &amp; #위키미키 #김도연\n절친 텐션 x 이불킥 과거 소환😆\n\n📌매주 월요일 11시 '예리한 방'\n#Seezn 앱에서 무료 선공개💕\n\n#Seezn오리지널 #레드벨벳 #RedVelvet #YERI #덤덤스튜디오 https://t.co/lNrJnE4sAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리한방",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "나은",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "김도연",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "Seezn오리지널",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						190,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8zPMy9VfiF",
+					"expanded_url": "http://bit.ly/yeri_room",
+					"display_url": "bit.ly/yeri_room",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290106124037890000,
+					"id_str": "1290106124037890048",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Eedgrz3VoAAN9YV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eedgrz3VoAAN9YV.jpg",
+					"url": "https://t.co/lNrJnE4sAU",
+					"display_url": "pic.twitter.com/lNrJnE4sAU",
+					"expanded_url": "https://twitter.com/my_seezn/status/1290106159597199363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290106124037890000,
+					"id_str": "1290106124037890048",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Eedgrz3VoAAN9YV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eedgrz3VoAAN9YV.jpg",
+					"url": "https://t.co/lNrJnE4sAU",
+					"display_url": "pic.twitter.com/lNrJnE4sAU",
+					"expanded_url": "https://twitter.com/my_seezn/status/1290106159597199363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1290106143092555800,
+					"id_str": "1290106143092555776",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Eedgs62UwAAt2bP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eedgs62UwAAt2bP.jpg",
+					"url": "https://t.co/lNrJnE4sAU",
+					"display_url": "pic.twitter.com/lNrJnE4sAU",
+					"expanded_url": "https://twitter.com/my_seezn/status/1290106159597199363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194503596139671600,
+			"id_str": "1194503596139671558",
+			"name": "Seezn(시즌)",
+			"screen_name": "my_seezn",
+			"location": "대한민국 어디서나",
+			"description": "올레 tv 모바일🔁Seezn(시즌)의 공식 계정입니다!\n　\n👉Seezn_오리지널: #놓지마정신줄 #여은파 #아이돌다방 #NCT_LIFE #싱스테이 #위플레이_BH #아이랜드_BH #몬스타엑스_지금은휴가중 #예리한방 #아이돌_예병대캠프 #우석이의언박싱 #우정즈의인싸투어 #고막메이트",
+			"url": "https://t.co/qrz9LQKCbP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qrz9LQKCbP",
+							"expanded_url": "http://bit.ly/Seezn",
+							"display_url": "bit.ly/Seezn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25790,
+			"friends_count": 6,
+			"listed_count": 36,
+			"created_at": "Wed Nov 13 06:34:16 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194503596139671558/1588914430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 822,
+		"favorite_count": 1182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예리한방] 19, 20화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n예리한 방에 찾아온 구구콘즈..🎉\n#에이프릴 #나은 &amp; #위키미키 #김도연\n절친 텐션 x 이불킥 과거 소환😆\n\n📌매주 월요일 11시 '예리한 방'\n#Seezn 앱에서 무료 선공개💕\n\n#Seezn오리지널 #레드벨벳 #RedVelvet #YERI #덤덤스튜디오 https://t.co/lNrJnE4sAU"
+	},
+	{
 		"created_at": "Mon Aug 03 01:41:06 +0000 2020",
 		"id": 1290100346388230100,
 		"id_str": "1290100346388230144",
