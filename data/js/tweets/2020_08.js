@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 06:06:15 +0000 2020",
+		"id": 1290167074719858700,
+		"id_str": "1290167074719858688",
+		"full_text": "#TED_Talks #한국어자막\n회복력 강한 사람들의 세 가지 비밀 by. Lucy Hone (Jun 2020)\nhttps://t.co/JDTYH1GouW\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JDTYH1GouW",
+					"expanded_url": "https://www.ted.com/talks/lucy_hone_3_secrets_of_resilient_people?language=ko",
+					"display_url": "ted.com/talks/lucy_hon…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n회복력 강한 사람들의 세 가지 비밀 by. Lucy Hone (Jun 2020)\nhttps://t.co/JDTYH1GouW\n#TED #테드 #minfav"
+	},
+	{
+		"created_at": "Mon Aug 03 06:06:14 +0000 2020",
+		"id": 1290167071180050400,
+		"id_str": "1290167071180050437",
+		"full_text": "#TED_Talks #한국어자막\n아편 합성 마약에 중독되는 원인과 극복이 어려운 이유 - 마이크 데이비스 (Mike Davis) by. Mike Davis (May 2020)\nhttps://t.co/o3i5mNKm5G\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o3i5mNKm5G",
+					"expanded_url": "https://www.ted.com/talks/mike_davis_what_causes_opioid_addiction_and_why_is_it_so_tough_to_combat?language=ko",
+					"display_url": "ted.com/talks/mike_dav…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n아편 합성 마약에 중독되는 원인과 극복이 어려운 이유 - 마이크 데이비스 (Mike Davis) by. Mike Davis (May 2020)\nhttps://t.co/o3i5mNKm5G\n#TED #테드 #minfav"
+	},
+	{
 		"created_at": "Mon Aug 03 05:25:11 +0000 2020",
 		"id": 1290150495319806000,
 		"id_str": "1290156738667098114",
