@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 08:45:37 +0000 2020",
+		"id": 1290197993992282000,
+		"id_str": "1290207181330030593",
+		"full_text": "로켓펀치 (Roket Punch)\n팩트인스타 현장 공개녹화 안내 \n\n일시 : 8월 10일 [오후 4시]\n장소 : TBS 오픈 스튜디오  \n          (서울 마포구 매봉산로 31)\n\n진행 : 유재환(UL), 이브(이달의 소녀)\n출연 : 로켓펀치(Roket Punch)\n\n#로켓펀치 #RoketPunch\n#Juicy #Blue_Punch \n\n@RocketPunch https://t.co/AOGvgMQS44",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로켓펀치",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "RoketPunch",
+					"indices": [
+						160,
+						171
+					]
+				},
+				{
+					"text": "Juicy",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "Blue_Punch",
+					"indices": [
+						179,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RocketPunch",
+					"name": "Rocket Punch(로켓펀치)",
+					"id": 1138008279404040200,
+					"id_str": "1138008279404040193",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290197979995844600,
+					"id_str": "1290197979995844608",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee0Oh-UMAArVa2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eee0Oh-UMAArVa2.jpg",
+					"url": "https://t.co/AOGvgMQS44",
+					"display_url": "pic.twitter.com/AOGvgMQS44",
+					"expanded_url": "https://twitter.com/factinstar/status/1290197993992282118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 933,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1593,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290197979995844600,
+					"id_str": "1290197979995844608",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee0Oh-UMAArVa2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eee0Oh-UMAArVa2.jpg",
+					"url": "https://t.co/AOGvgMQS44",
+					"display_url": "pic.twitter.com/AOGvgMQS44",
+					"expanded_url": "https://twitter.com/factinstar/status/1290197993992282118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 933,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1593,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "All That Your K-POP BIAS / TBS Open Studio (SEOUL S-PLEX CENTER) / Friday at 9:00 PM(KST) Fact iN Star #Youtube Upload / Sunday at 12:30 PM(KST) TBS TV On Air",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4772,
+			"friends_count": 2818,
+			"listed_count": 27,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1589956779",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로켓펀치 (Roket Punch)\n팩트인스타 현장 공개녹화 안내 \n\n일시 : 8월 10일 [오후 4시]\n장소 : TBS 오픈 스튜디오  \n          (서울 마포구 매봉산로 31)\n\n진행 : 유재환(UL), 이브(이달의 소녀)\n출연 : 로켓펀치(Roket Punch)\n\n#로켓펀치 #RoketPunch\n#Juicy #Blue_Punch \n\n@RocketPunch https://t.co/AOGvgMQS44"
+	},
+	{
+		"created_at": "Mon Aug 03 08:25:11 +0000 2020",
+		"id": 1290201913472905200,
+		"id_str": "1290202037704171520",
+		"full_text": "돈 있어 차 있어 Make it we we on\n주말이면 She be throwin like 피융☄️\nYou know what I deserve?! DESSERT 🍰🍭🍦\n#DessertDance #DESSERT #HYOYEON #SEOHYUN \n*번외편 댄싱머신효(따라하는)현🙋🏻‍♀️🙅🏻‍♀️ https://t.co/ycAzEtl2gj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DessertDance",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ycAzEtl2gj",
+					"expanded_url": "https://www.instagram.com/p/CDa5wWYBidN/?igshid=1e7kdpodps0gv",
+					"display_url": "instagram.com/p/CDa5wWYBidN/…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383814,
+			"friends_count": 31,
+			"listed_count": 2863,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 852,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돈 있어 차 있어 Make it we we on\n주말이면 She be throwin like 피융☄️\nYou know what I deserve?! DESSERT 🍰🍭🍦\n#DessertDance #DESSERT #HYOYEON #SEOHYUN \n*번외편 댄싱머신효(따라하는)현🙋🏻‍♀️🙅🏻‍♀️ https://t.co/ycAzEtl2gj"
+	},
+	{
+		"created_at": "Mon Aug 03 08:17:14 +0000 2020",
+		"id": 1290200038908428300,
+		"id_str": "1290200038908428290",
+		"full_text": "#팩트체크 #SNU팩트체크\n하이드록시클로로퀸 코로나19 치료 효과 주장 근거있다\n▶ 전혀 사실 아님\nhttps://t.co/MERqTCi4V4\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MERqTCi4V4",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2412",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 935,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n하이드록시클로로퀸 코로나19 치료 효과 주장 근거있다\n▶ 전혀 사실 아님\nhttps://t.co/MERqTCi4V4\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Mon Aug 03 07:47:16 +0000 2020",
 		"id": 1290192498053329000,
 		"id_str": "1290192498053328896",
