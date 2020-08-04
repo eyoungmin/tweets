@@ -1,6 +1,2374 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 04 01:01:20 +0000 2020",
+		"id": 1290300460549591000,
+		"id_str": "1290452728515309569",
+		"full_text": "@giljaaa https://t.co/LHVYjneUrp",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "giljaaa",
+					"name": "길쟈",
+					"id": 1269673747260137500,
+					"id_str": "1269673747260137472",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LHVYjneUrp",
+					"expanded_url": "https://www.koti.re.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1017&q_bbscttSn=2015031000000134992&q_clCode=1",
+					"display_url": "koti.re.kr/user/bbs/BD_se…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1290296073106284500,
+		"in_reply_to_status_id_str": "1290296073106284547",
+		"in_reply_to_user_id": 1269673747260137500,
+		"in_reply_to_user_id_str": "1269673747260137472",
+		"in_reply_to_screen_name": "giljaaa",
+		"user": {
+			"id": 60264773,
+			"id_str": "60264773",
+			"name": "R.",
+			"screen_name": "raymondjung",
+			"location": "Tokyo,Seoul,Shanghai,S. Monica",
+			"description": "“In the midst of winter, I found there was, within me, an invincible Summer.” Albert Camus.",
+			"url": "https://t.co/IGiwbDFkNa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IGiwbDFkNa",
+							"expanded_url": "https://brunch.co.kr/@raymondjung",
+							"display_url": "brunch.co.kr/@raymondjung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1833,
+			"friends_count": 547,
+			"listed_count": 91,
+			"created_at": "Sun Jul 26 08:23:03 +0000 2009",
+			"favourites_count": 21640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCEBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241233557374136322/bL4MSOlu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241233557374136322/bL4MSOlu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60264773/1376232251",
+			"profile_link_color": "5E412F",
+			"profile_sidebar_border_color": "F0A830",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "CE7834",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "@giljaaa https://t.co/LHVYjneUrp"
+	},
+	{
+		"created_at": "Tue Aug 04 01:01:17 +0000 2020",
+		"id": 1290240287994859500,
+		"id_str": "1290452714758053889",
+		"full_text": "단편적으로 한국 지하철 노약자 무료 운행이 문제가 크다고 생각했으나, 노인 무료 운행이 노인 외출과 운동량을 증가시켜 치매와 질병증가에 큰 도움이 되고, 결과적으로의료보험과 사회적 비용에 더 큰 이익을 준다는 논문에 큰 공감을 했던 것이 생각남.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60264773,
+			"id_str": "60264773",
+			"name": "R.",
+			"screen_name": "raymondjung",
+			"location": "Tokyo,Seoul,Shanghai,S. Monica",
+			"description": "“In the midst of winter, I found there was, within me, an invincible Summer.” Albert Camus.",
+			"url": "https://t.co/IGiwbDFkNa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IGiwbDFkNa",
+							"expanded_url": "https://brunch.co.kr/@raymondjung",
+							"display_url": "brunch.co.kr/@raymondjung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1833,
+			"friends_count": 547,
+			"listed_count": 91,
+			"created_at": "Sun Jul 26 08:23:03 +0000 2009",
+			"favourites_count": 21640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCEBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241233557374136322/bL4MSOlu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241233557374136322/bL4MSOlu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60264773/1376232251",
+			"profile_link_color": "5E412F",
+			"profile_sidebar_border_color": "F0A830",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "CE7834",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3911,
+		"favorite_count": 1800,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "단편적으로 한국 지하철 노약자 무료 운행이 문제가 크다고 생각했으나, 노인 무료 운행이 노인 외출과 운동량을 증가시켜 치매와 질병증가에 큰 도움이 되고, 결과적으로의료보험과 사회적 비용에 더 큰 이익을 준다는 논문에 큰 공감을 했던 것이 생각남."
+	},
+	{
+		"created_at": "Tue Aug 04 01:01:11 +0000 2020",
+		"id": 1290452691391479800,
+		"id_str": "1290452691391479814",
+		"full_text": "이 이야기가 지하철 택배 무임승차 건과 연관 있는 이야기 아니었나. https://t.co/yyIT80aSvg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yyIT80aSvg",
+					"expanded_url": "https://twitter.com/raymondjung/status/1290240287994859520",
+					"display_url": "twitter.com/raymondjung/st…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290240287994859500,
+		"quoted_status_id_str": "1290240287994859520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yyIT80aSvg",
+			"expanded": "https://twitter.com/raymondjung/status/1290240287994859520",
+			"display": "twitter.com/raymondjung/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 03 10:57:10 +0000 2020",
+			"id": 1290240287994859500,
+			"id_str": "1290240287994859520",
+			"full_text": "단편적으로 한국 지하철 노약자 무료 운행이 문제가 크다고 생각했으나, 노인 무료 운행이 노인 외출과 운동량을 증가시켜 치매와 질병증가에 큰 도움이 되고, 결과적으로의료보험과 사회적 비용에 더 큰 이익을 준다는 논문에 큰 공감을 했던 것이 생각남.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60264773,
+				"id_str": "60264773",
+				"name": "R.",
+				"screen_name": "raymondjung",
+				"location": "Tokyo,Seoul,Shanghai,S. Monica",
+				"description": "“In the midst of winter, I found there was, within me, an invincible Summer.” Albert Camus.",
+				"url": "https://t.co/IGiwbDFkNa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IGiwbDFkNa",
+								"expanded_url": "https://brunch.co.kr/@raymondjung",
+								"display_url": "brunch.co.kr/@raymondjung",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1833,
+				"friends_count": 547,
+				"listed_count": 91,
+				"created_at": "Sun Jul 26 08:23:03 +0000 2009",
+				"favourites_count": 21640,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12848,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241233557374136322/bL4MSOlu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241233557374136322/bL4MSOlu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60264773/1376232251",
+				"profile_link_color": "5E412F",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "CE7834",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3911,
+			"favorite_count": 1800,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 이야기가 지하철 택배 무임승차 건과 연관 있는 이야기 아니었나. https://t.co/yyIT80aSvg"
+	},
+	{
+		"created_at": "Tue Aug 04 00:59:30 +0000 2020",
+		"id": 1290452267838197800,
+		"id_str": "1290452267838197762",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 두 번째 신곡 8월 28일 발표…특급 피처링은 누구?\nhttps://t.co/vCaiuTKmhP\n#블랙핑크 #BLACKPINK https://t.co/a9Qjdu42CR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vCaiuTKmhP",
+					"expanded_url": "https://yg-life.com/archives/157844?lang=ko",
+					"display_url": "yg-life.com/archives/15784…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290452266588278800,
+					"id_str": "1290452266588278784",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeibf9WXkAA4kn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeibf9WXkAA4kn3.jpg",
+					"url": "https://t.co/a9Qjdu42CR",
+					"display_url": "pic.twitter.com/a9Qjdu42CR",
+					"expanded_url": "https://twitter.com/fromminn/status/1290452267838197762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290452266588278800,
+					"id_str": "1290452266588278784",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeibf9WXkAA4kn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeibf9WXkAA4kn3.jpg",
+					"url": "https://t.co/a9Qjdu42CR",
+					"display_url": "pic.twitter.com/a9Qjdu42CR",
+					"expanded_url": "https://twitter.com/fromminn/status/1290452267838197762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 두 번째 신곡 8월 28일 발표…특급 피처링은 누구?\nhttps://t.co/vCaiuTKmhP\n#블랙핑크 #BLACKPINK https://t.co/a9Qjdu42CR"
+	},
+	{
+		"created_at": "Tue Aug 04 00:59:28 +0000 2020",
+		"id": 1290452257339838500,
+		"id_str": "1290452257339838465",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n트레저, 기존 YG 가수들과 무엇이 다른가 #군무 #퍼포먼스 #사운드\nhttps://t.co/wgXB0ODxlr\n#블랙핑크 #BLACKPINK https://t.co/1OYVPnlFFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "군무",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "퍼포먼스",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "사운드",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wgXB0ODxlr",
+					"expanded_url": "https://yg-life.com/archives/157834?lang=ko",
+					"display_url": "yg-life.com/archives/15783…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290452256266100700,
+					"id_str": "1290452256266100738",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EeibfW5XoAIg7bO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeibfW5XoAIg7bO.jpg",
+					"url": "https://t.co/1OYVPnlFFQ",
+					"display_url": "pic.twitter.com/1OYVPnlFFQ",
+					"expanded_url": "https://twitter.com/fromminn/status/1290452257339838465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290452256266100700,
+					"id_str": "1290452256266100738",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EeibfW5XoAIg7bO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeibfW5XoAIg7bO.jpg",
+					"url": "https://t.co/1OYVPnlFFQ",
+					"display_url": "pic.twitter.com/1OYVPnlFFQ",
+					"expanded_url": "https://twitter.com/fromminn/status/1290452257339838465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n트레저, 기존 YG 가수들과 무엇이 다른가 #군무 #퍼포먼스 #사운드\nhttps://t.co/wgXB0ODxlr\n#블랙핑크 #BLACKPINK https://t.co/1OYVPnlFFQ"
+	},
+	{
+		"created_at": "Tue Aug 04 00:54:21 +0000 2020",
+		"id": 1290450968673476600,
+		"id_str": "1290450968673476608",
+		"full_text": "이전에 나온 구독관리 앱도 설치하여 써봤는데 공식사이트와 고객센터로 붙여놓은 곳이 보통인 듯. 애초에 퍼머링크가 없는 곳도 많고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1290450015673028600,
+		"in_reply_to_status_id_str": "1290450015673028608",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이전에 나온 구독관리 앱도 설치하여 써봤는데 공식사이트와 고객센터로 붙여놓은 곳이 보통인 듯. 애초에 퍼머링크가 없는 곳도 많고."
+	},
+	{
+		"created_at": "Tue Aug 04 00:50:33 +0000 2020",
+		"id": 1290450015673028600,
+		"id_str": "1290450015673028608",
+		"full_text": "음.. 이건 요즘 온라인 뱅킹이나 간편 결제 앱에서 제공하고 있는데 최근에는 비대면 상담도 제공하는 앱이 많아졌는데 어떤 이점이 있는 건지 모르겠다. 결국 구독 관리만으로 수익구조를 낼 수 없으니 확장하는 걸로 보이는데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1290449265886662700,
+		"in_reply_to_status_id_str": "1290449265886662656",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "음.. 이건 요즘 온라인 뱅킹이나 간편 결제 앱에서 제공하고 있는데 최근에는 비대면 상담도 제공하는 앱이 많아졌는데 어떤 이점이 있는 건지 모르겠다. 결국 구독 관리만으로 수익구조를 낼 수 없으니 확장하는 걸로 보이는데."
+	},
+	{
+		"created_at": "Tue Aug 04 00:47:35 +0000 2020",
+		"id": 1290449265886662700,
+		"id_str": "1290449265886662656",
+		"full_text": "❝ 8월 5일부터 시행되는 마이데이터 산업에 왓섭은 본인신용정보관리업(‘마이데이터’) 예비허가를 신청해, 서비스 범위를 구독 서비스에서 정기적으로 지출되는 적금, 보험, 대출 등의 금융상품까지 확대할 예정이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1290447237982695400,
+		"in_reply_to_status_id_str": "1290447237982695429",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 8월 5일부터 시행되는 마이데이터 산업에 왓섭은 본인신용정보관리업(‘마이데이터’) 예비허가를 신청해, 서비스 범위를 구독 서비스에서 정기적으로 지출되는 적금, 보험, 대출 등의 금융상품까지 확대할 예정이다."
+	},
+	{
+		"created_at": "Tue Aug 04 00:39:31 +0000 2020",
+		"id": 1290447237982695400,
+		"id_str": "1290447237982695429",
+		"full_text": "직접 만든 구글 스프레드시트보다 나은 것은 UI/UX 좋다는 것뿐. 많이 부족한 서비스이고 매리트가 있으려면 서비스별 해지옵션을 잘 정리해서 제공해야. 일괄 해지 같은 기능 수요를 채워주진 못할 것이다. 이유는 앞서 말한 것과 같음.\n\n#구독관리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구독관리",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1290446493330157600,
+		"in_reply_to_status_id_str": "1290446493330157568",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "직접 만든 구글 스프레드시트보다 나은 것은 UI/UX 좋다는 것뿐. 많이 부족한 서비스이고 매리트가 있으려면 서비스별 해지옵션을 잘 정리해서 제공해야. 일괄 해지 같은 기능 수요를 채워주진 못할 것이다. 이유는 앞서 말한 것과 같음.\n\n#구독관리"
+	},
+	{
+		"created_at": "Tue Aug 04 00:36:34 +0000 2020",
+		"id": 1290446493330157600,
+		"id_str": "1290446493330157568",
+		"full_text": "모든 서비스에 두 가지 옵션을 디폴트로 띄운다. 제대로 정리가 안되어 있단 말이다. 예를 들어 음원 플랫폼 멜론에도 두 가지 옵션을 띄운다. 그러나 멜론은 구글 플레이 구독 정책을 따르지도 않고 바로 해지하는 전화번호도 제공하지 않는다.\n\n#구독관리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구독관리",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1290446491824394200,
+		"in_reply_to_status_id_str": "1290446491824394241",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "모든 서비스에 두 가지 옵션을 디폴트로 띄운다. 제대로 정리가 안되어 있단 말이다. 예를 들어 음원 플랫폼 멜론에도 두 가지 옵션을 띄운다. 그러나 멜론은 구글 플레이 구독 정책을 따르지도 않고 바로 해지하는 전화번호도 제공하지 않는다.\n\n#구독관리"
+	},
+	{
+		"created_at": "Tue Aug 04 00:36:33 +0000 2020",
+		"id": 1290446491824394200,
+		"id_str": "1290446491824394241",
+		"full_text": "새로운 구독 관리 서비스가 나와 사용해봤다. UI/UX는 훌륭하나 앞서 말한 것처럼 원하는 기능을 제공하지 않는다. 기사에서 말하기로는 해지가 어렵다고 이를 정리한 것처럼 소개했지만 전화 해지와 구글 플레이 해지 옵션 두 가지를 제공한다. 중요한건 서비스별로 정리한 것이 아니다.\n\n#구독관리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구독관리",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1290446490293477400,
+		"in_reply_to_status_id_str": "1290446490293477378",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "새로운 구독 관리 서비스가 나와 사용해봤다. UI/UX는 훌륭하나 앞서 말한 것처럼 원하는 기능을 제공하지 않는다. 기사에서 말하기로는 해지가 어렵다고 이를 정리한 것처럼 소개했지만 전화 해지와 구글 플레이 해지 옵션 두 가지를 제공한다. 중요한건 서비스별로 정리한 것이 아니다.\n\n#구독관리"
+	},
+	{
+		"created_at": "Tue Aug 04 00:36:33 +0000 2020",
+		"id": 1290446490293477400,
+		"id_str": "1290446490293477378",
+		"full_text": "'간편 해지, 결제 전 알림, 지출 관리' 마이데이터 기반 구독 서비스 통합관리 플랫폼 - 'Startup's Story Platform’\nhttps://t.co/oiMtgXdUQB\n\n#구독 #구독관리 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구독",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "구독관리",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oiMtgXdUQB",
+					"expanded_url": "https://platum.kr/archives/146142",
+					"display_url": "platum.kr/archives/146142",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1282634388073623600,
+		"in_reply_to_status_id_str": "1282634388073623552",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'간편 해지, 결제 전 알림, 지출 관리' 마이데이터 기반 구독 서비스 통합관리 플랫폼 - 'Startup's Story Platform’\nhttps://t.co/oiMtgXdUQB\n\n#구독 #구독관리 #minfav"
+	},
+	{
+		"created_at": "Tue Aug 04 00:25:16 +0000 2020",
+		"id": 1290437353048350700,
+		"id_str": "1290443652867792896",
+		"full_text": "#BLACKPINK NEW SINGLE (Feat. ?) RELEASE POSTER\n\n✅2020.08.28\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #NewSingle #ReleasePoster #ComingSoon #YG https://t.co/sYal9wrmdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "NewSingle",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "ReleasePoster",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "ComingSoon",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						132,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290435314364768300,
+					"id_str": "1290435314364768256",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EeiMFNZU4AAYdFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeiMFNZU4AAYdFy.jpg",
+					"url": "https://t.co/sYal9wrmdV",
+					"display_url": "pic.twitter.com/sYal9wrmdV",
+					"expanded_url": "https://twitter.com/ygent_official/status/1290437353048350721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290435314364768300,
+					"id_str": "1290435314364768256",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EeiMFNZU4AAYdFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeiMFNZU4AAYdFy.jpg",
+					"url": "https://t.co/sYal9wrmdV",
+					"display_url": "pic.twitter.com/sYal9wrmdV",
+					"expanded_url": "https://twitter.com/ygent_official/status/1290437353048350721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6438846,
+			"friends_count": 38,
+			"listed_count": 6529,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26873,
+		"favorite_count": 64631,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK NEW SINGLE (Feat. ?) RELEASE POSTER\n\n✅2020.08.28\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #NewSingle #ReleasePoster #ComingSoon #YG https://t.co/sYal9wrmdV"
+	},
+	{
+		"created_at": "Tue Aug 04 00:25:11 +0000 2020",
+		"id": 1290437292750905300,
+		"id_str": "1290443631380385795",
+		"full_text": "https://t.co/QjPrRAs7jd\n\n#BLACKPINK #블랙핑크 #NewSingle #ReleasePoster #20200828 #ComingSoon #YG https://t.co/zxLq9zpqJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "NewSingle",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "ReleasePoster",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"text": "ComingSoon",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						90,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QjPrRAs7jd",
+					"expanded_url": "http://smarturl.it/BLACKPINKPresave",
+					"display_url": "smarturl.it/BLACKPINKPresa…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290432018208051200,
+					"id_str": "1290432018208051200",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EeiJFWQU0AAp_Ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeiJFWQU0AAp_Ul.jpg",
+					"url": "https://t.co/zxLq9zpqJN",
+					"display_url": "pic.twitter.com/zxLq9zpqJN",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1290437292750905345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290432018208051200,
+					"id_str": "1290432018208051200",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EeiJFWQU0AAp_Ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeiJFWQU0AAp_Ul.jpg",
+					"url": "https://t.co/zxLq9zpqJN",
+					"display_url": "pic.twitter.com/zxLq9zpqJN",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1290437292750905345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/NiTWmcO2py",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NiTWmcO2py",
+							"expanded_url": "https://youtu.be/ioNng23DkIM",
+							"display_url": "youtu.be/ioNng23DkIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1203956,
+			"friends_count": 0,
+			"listed_count": 1631,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1593159504",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30395,
+		"favorite_count": 69307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/QjPrRAs7jd\n\n#BLACKPINK #블랙핑크 #NewSingle #ReleasePoster #20200828 #ComingSoon #YG https://t.co/zxLq9zpqJN"
+	},
+	{
+		"created_at": "Tue Aug 04 00:04:46 +0000 2020",
+		"id": 1290438492552605700,
+		"id_str": "1290438492552605698",
+		"full_text": "그러나 이번 발표한 스포티파이 출시국에는 한국은 없다고 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그러나 이번 발표한 스포티파이 출시국에는 한국은 없다고 한다."
+	},
+	{
+		"created_at": "Tue Aug 04 00:04:21 +0000 2020",
+		"id": 1290425404419793000,
+		"id_str": "1290438388198383616",
+		"full_text": "글로벌 음반사들 “한국 신인들 찾아라” https://t.co/xhuBHmSqeT 유니버설뮤직은 루아멜과, 소니뮤직엔터는 미스피츠와 전속계약. 해외음악을 한국에 유통하는 역할에 머물던 글로벌 음반사 한국법인이 요즘에는 국내 스타와 전속 계약. 스포티파이 한국시장 진출을 앞두고 기대도. https://t.co/ZOuz3teN1D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xhuBHmSqeT",
+					"expanded_url": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=020&aid=0003301300",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290425398803566600,
+					"id_str": "1290425398803566592",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EeiDEDDUEAAmj4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeiDEDDUEAAmj4J.jpg",
+					"url": "https://t.co/ZOuz3teN1D",
+					"display_url": "pic.twitter.com/ZOuz3teN1D",
+					"expanded_url": "https://twitter.com/estima7/status/1290425404419792896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 255,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 255,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290425398803566600,
+					"id_str": "1290425398803566592",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EeiDEDDUEAAmj4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeiDEDDUEAAmj4J.jpg",
+					"url": "https://t.co/ZOuz3teN1D",
+					"display_url": "pic.twitter.com/ZOuz3teN1D",
+					"expanded_url": "https://twitter.com/estima7/status/1290425404419792896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 255,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 255,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369392,
+			"friends_count": 2272,
+			"listed_count": 4488,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "글로벌 음반사들 “한국 신인들 찾아라” https://t.co/xhuBHmSqeT 유니버설뮤직은 루아멜과, 소니뮤직엔터는 미스피츠와 전속계약. 해외음악을 한국에 유통하는 역할에 머물던 글로벌 음반사 한국법인이 요즘에는 국내 스타와 전속 계약. 스포티파이 한국시장 진출을 앞두고 기대도. https://t.co/ZOuz3teN1D"
+	},
+	{
+		"created_at": "Tue Aug 04 00:03:56 +0000 2020",
+		"id": 1290394975780446200,
+		"id_str": "1290438281839116289",
+		"full_text": "틱톡, 국제본부 미국 밖으로 옮기는 것 고려 중이고 런던이 될 수 있어\n- 영국 선타임즈, 틱톡 중국 모회사 바이트댄스가 곧 런던에 틱톡본사 설립 발표할 것 보도\n- 대변인, 틱톡의 국제 본부 이동을 고려하고 있다고 말해\n- 이는 틱톡 미국 부문 매각 협상 중에 나온 소식\nhttps://t.co/rTJD9qUwiP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rTJD9qUwiP",
+					"expanded_url": "https://www.reuters.com/article/us-china-bytedance-britain-idUSKBN24Z0IE?taid=5f286f19cb760200018d1ec2&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+					"display_url": "reuters.com/article/us-chi…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46017,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "틱톡, 국제본부 미국 밖으로 옮기는 것 고려 중이고 런던이 될 수 있어\n- 영국 선타임즈, 틱톡 중국 모회사 바이트댄스가 곧 런던에 틱톡본사 설립 발표할 것 보도\n- 대변인, 틱톡의 국제 본부 이동을 고려하고 있다고 말해\n- 이는 틱톡 미국 부문 매각 협상 중에 나온 소식\nhttps://t.co/rTJD9qUwiP"
+	},
+	{
+		"created_at": "Tue Aug 04 00:03:38 +0000 2020",
+		"id": 1290379325578117000,
+		"id_str": "1290438208958930944",
+		"full_text": "- 트럼프의 조치, 미국 내 외국투자위원회(CFIUS)가 안보문제로 중국 바이트댄스가 틱톡 미국 부문을 매각해야 한다고 판정한 후 나온 것\n- 오늘 트럼프, MS 또는 다른 진정한 미국 회사가 틱톡 미국 부문을 인수하는 것은 괜찮다고 확인해 줘\n- 그러나 적절한 딜은 재무부가 큰 돈을 받는 것이 포함돼",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1290377248424558600,
+		"in_reply_to_status_id_str": "1290377248424558599",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46017,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 트럼프의 조치, 미국 내 외국투자위원회(CFIUS)가 안보문제로 중국 바이트댄스가 틱톡 미국 부문을 매각해야 한다고 판정한 후 나온 것\n- 오늘 트럼프, MS 또는 다른 진정한 미국 회사가 틱톡 미국 부문을 인수하는 것은 괜찮다고 확인해 줘\n- 그러나 적절한 딜은 재무부가 큰 돈을 받는 것이 포함돼"
+	},
+	{
 		"created_at": "Tue Aug 04 00:01:39 +0000 2020",
 		"id": 1290437709304037400,
 		"id_str": "1290437709304037379",
