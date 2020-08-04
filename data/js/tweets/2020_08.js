@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 04 09:25:23 +0000 2020",
+		"id": 1290573191547510800,
+		"id_str": "1290579575995535361",
+		"full_text": "📹 [Special Clips] 청하(CHUNG HA) - SUECOMMA BONNIE MAKING FILM\n\n▶ https://t.co/CzwLKLkhvU\n✌🏻 https://t.co/fTeZXo5mAE\n\n#청하 #CHUNGHA\n#SUECOMMABONNIE https://t.co/TLoQMruPXi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "SUECOMMABONNIE",
+					"indices": [
+						129,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CzwLKLkhvU",
+					"expanded_url": "https://bit.ly/33qdldw",
+					"display_url": "bit.ly/33qdldw",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/fTeZXo5mAE",
+					"expanded_url": "https://bit.ly/2DtUQKe",
+					"display_url": "bit.ly/2DtUQKe",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290544735652741000,
+					"id_str": "1290544735652741121",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290544735652741121/pu/img/OG_1rGYZIGrmSq9X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290544735652741121/pu/img/OG_1rGYZIGrmSq9X.jpg",
+					"url": "https://t.co/TLoQMruPXi",
+					"display_url": "pic.twitter.com/TLoQMruPXi",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1290573191547510784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290544735652741000,
+					"id_str": "1290544735652741121",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290544735652741121/pu/img/OG_1rGYZIGrmSq9X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290544735652741121/pu/img/OG_1rGYZIGrmSq9X.jpg",
+					"url": "https://t.co/TLoQMruPXi",
+					"display_url": "pic.twitter.com/TLoQMruPXi",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1290573191547510784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35903,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1290544735652741121/pu/pl/GdOiMQjzWYVwrQU1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290544735652741121/pu/vid/640x360/bTNlBB66kV_Rvt_j.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290544735652741121/pu/vid/480x270/MSesuN6sdtkyFMF4.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290544735652741121/pu/vid/1280x720/mTV8DcVD5OFmoFMd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286116,
+			"friends_count": 0,
+			"listed_count": 1738,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 326,
+		"favorite_count": 1328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📹 [Special Clips] 청하(CHUNG HA) - SUECOMMA BONNIE MAKING FILM\n\n▶ https://t.co/CzwLKLkhvU\n✌🏻 https://t.co/fTeZXo5mAE\n\n#청하 #CHUNGHA\n#SUECOMMABONNIE https://t.co/TLoQMruPXi"
+	},
+	{
+		"created_at": "Tue Aug 04 09:25:18 +0000 2020",
+		"id": 1290567503676969000,
+		"id_str": "1290579554550112256",
+		"full_text": "[#예술경영 웹진 : 기획특집②] \n\n코로나 이후의 공연예술-이제 어떻게 연극하지?\n: 청소년극 &lt;영지&gt;, 온라인 공연제작의 가능성을 묻다\n\n450호 기획특집② 더보기👇\nhttps://t.co/epB3SCv6P2\n\n#예술경영 #웹진 #예술경영지원센터 #국립극단 https://t.co/j5c0Lwt9Gz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "국립극단",
+					"indices": [
+						146,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/epB3SCv6P2",
+					"expanded_url": "https://bit.ly/3guzbQz",
+					"display_url": "bit.ly/3guzbQz",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290567134871875600,
+					"id_str": "1290567134871875584",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EekD-LDU8AAXgqR.png",
+					"media_url_https": "https://pbs.twimg.com/media/EekD-LDU8AAXgqR.png",
+					"url": "https://t.co/j5c0Lwt9Gz",
+					"display_url": "pic.twitter.com/j5c0Lwt9Gz",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1290567503676968960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 318,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290567134871875600,
+					"id_str": "1290567134871875584",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EekD-LDU8AAXgqR.png",
+					"media_url_https": "https://pbs.twimg.com/media/EekD-LDU8AAXgqR.png",
+					"url": "https://t.co/j5c0Lwt9Gz",
+					"display_url": "pic.twitter.com/j5c0Lwt9Gz",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1290567503676968960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 318,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6734,
+			"friends_count": 3030,
+			"listed_count": 102,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획특집②] \n\n코로나 이후의 공연예술-이제 어떻게 연극하지?\n: 청소년극 &lt;영지&gt;, 온라인 공연제작의 가능성을 묻다\n\n450호 기획특집② 더보기👇\nhttps://t.co/epB3SCv6P2\n\n#예술경영 #웹진 #예술경영지원센터 #국립극단 https://t.co/j5c0Lwt9Gz"
+	},
+	{
+		"created_at": "Tue Aug 04 09:25:12 +0000 2020",
+		"id": 1290566803245080600,
+		"id_str": "1290579528931258369",
+		"full_text": "[#예술경영 웹진 : 기획특집①] \n\n코로나 이후의 공연예술-이제 어떻게 연극하지?\n: 예고된 변화의 접근법, 어쩌면 담대하고 본질적인 그것으로부터\n\n450호 기획특집① 더보기👇\nhttps://t.co/u1ChqR4ht5\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/i4pOoC5Dh4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						135,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u1ChqR4ht5",
+					"expanded_url": "https://bit.ly/2EGnJmO",
+					"display_url": "bit.ly/2EGnJmO",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290566748555456500,
+					"id_str": "1290566748555456512",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EekDnr6UMAA9tA9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EekDnr6UMAA9tA9.png",
+					"url": "https://t.co/i4pOoC5Dh4",
+					"display_url": "pic.twitter.com/i4pOoC5Dh4",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1290566803245080576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 972,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 972,
+							"h": 319,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 223,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290566748555456500,
+					"id_str": "1290566748555456512",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EekDnr6UMAA9tA9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EekDnr6UMAA9tA9.png",
+					"url": "https://t.co/i4pOoC5Dh4",
+					"display_url": "pic.twitter.com/i4pOoC5Dh4",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1290566803245080576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 972,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 972,
+							"h": 319,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 223,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6734,
+			"friends_count": 3030,
+			"listed_count": 102,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획특집①] \n\n코로나 이후의 공연예술-이제 어떻게 연극하지?\n: 예고된 변화의 접근법, 어쩌면 담대하고 본질적인 그것으로부터\n\n450호 기획특집① 더보기👇\nhttps://t.co/u1ChqR4ht5\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/i4pOoC5Dh4"
+	},
+	{
 		"created_at": "Tue Aug 04 08:38:28 +0000 2020",
 		"id": 1290567767519895600,
 		"id_str": "1290567767519895553",
