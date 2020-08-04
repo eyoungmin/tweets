@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 04 01:34:13 +0000 2020",
+		"id": 1290456564810363000,
+		"id_str": "1290461003843604483",
+		"full_text": "구글코리아와 생활코딩의 무료 온라인 교육 프로그램 “머신러닝 야학” 신청이 오늘 오픈됐습니다! 평소 머신러닝에 관심 있던 모든 분들이 쉽게 공부 할 수 있는 머신러닝 교육 프로그램을 통해 디지털 뉴딜 시대를 준비해보세요. 구글코리아 블로그(https://t.co/UFNqCL2qVL)에서 자세히 알아보세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UFNqCL2qVL",
+					"expanded_url": "https://bit.ly/318UZdW",
+					"display_url": "bit.ly/318UZdW",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62717084,
+			"id_str": "62717084",
+			"name": "Google Korea",
+			"screen_name": "googlekorea",
+			"location": "Seoul",
+			"description": "Google Korea's Official Twitter\nhttp://t.co/q7ki3pU93d",
+			"url": "http://t.co/gJlHUbYNCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gJlHUbYNCd",
+							"expanded_url": "http://www.google.co.kr",
+							"display_url": "google.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/q7ki3pU93d",
+							"expanded_url": "http://googlekoreablog.blogspot.com/",
+							"display_url": "googlekoreablog.blogspot.com",
+							"indices": [
+								32,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 82783,
+			"friends_count": 796,
+			"listed_count": 1954,
+			"created_at": "Tue Aug 04 04:23:08 +0000 2009",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770139154898382848/ndFg-IDH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770139154898382848/ndFg-IDH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62717084/1427179644",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글코리아와 생활코딩의 무료 온라인 교육 프로그램 “머신러닝 야학” 신청이 오늘 오픈됐습니다! 평소 머신러닝에 관심 있던 모든 분들이 쉽게 공부 할 수 있는 머신러닝 교육 프로그램을 통해 디지털 뉴딜 시대를 준비해보세요. 구글코리아 블로그(https://t.co/UFNqCL2qVL)에서 자세히 알아보세요."
+	},
+	{
 		"created_at": "Tue Aug 04 01:01:20 +0000 2020",
 		"id": 1290300460549591000,
 		"id_str": "1290452728515309569",
