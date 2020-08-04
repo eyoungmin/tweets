@@ -1,6 +1,2141 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 04 00:01:39 +0000 2020",
+		"id": 1290437709304037400,
+		"id_str": "1290437709304037379",
+		"full_text": "@madebygoogle @Android please! Korea!!! 🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "madebygoogle",
+					"name": "Made by Google",
+					"id": 776196808909336600,
+					"id_str": "776196808909336577",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Android",
+					"name": "Android",
+					"id": 382267114,
+					"id_str": "382267114",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1290302540563673000,
+		"in_reply_to_status_id_str": "1290302540563673088",
+		"in_reply_to_user_id": 776196808909336600,
+		"in_reply_to_user_id_str": "776196808909336577",
+		"in_reply_to_screen_name": "madebygoogle",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@madebygoogle @Android please! Korea!!! 🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷"
+	},
+	{
+		"created_at": "Mon Aug 03 23:57:43 +0000 2020",
+		"id": 1290407562190311400,
+		"id_str": "1290436717393182727",
+		"full_text": "#BLACKPINK COLLECTIBLE DOLLS UNBOXING🖤💖\nToday's the day! BLACKPINK's Collectible Dolls Unboxing video is here!\n\nMORE INFO : https://t.co/U0pz7Ee8we\n\n🎬https://t.co/tFJDNMAirT\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #YG https://t.co/TpYb4oYLop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						208,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U0pz7Ee8we",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/videos/630602597864402",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/tFJDNMAirT",
+					"expanded_url": "https://youtu.be/2qJLqhjD38c",
+					"display_url": "youtu.be/2qJLqhjD38c",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290398423598784500,
+					"id_str": "1290398423598784512",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Eehs9nmVAAAhqCq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eehs9nmVAAAhqCq.jpg",
+					"url": "https://t.co/TpYb4oYLop",
+					"display_url": "pic.twitter.com/TpYb4oYLop",
+					"expanded_url": "https://twitter.com/ygent_official/status/1290407562190311424/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290398423598784500,
+					"id_str": "1290398423598784512",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Eehs9nmVAAAhqCq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eehs9nmVAAAhqCq.jpg",
+					"url": "https://t.co/TpYb4oYLop",
+					"display_url": "pic.twitter.com/TpYb4oYLop",
+					"expanded_url": "https://twitter.com/ygent_official/status/1290407562190311424/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 195000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1290398423598784512/pl/r2INp_CWE9FjTeXQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290398423598784512/vid/1280x720/httvTAgJKR4gLl7n.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290398423598784512/vid/480x270/zVECxwUbdTi8n6bi.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290398423598784512/vid/640x360/0MKT52xaEP2eB05f.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK COLLECTIBLE DOLLS UNBOXING🖤💖",
+						"description": "BLACKPINK COLLECTIBLE DOLLS UNBOXING🖤💖",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6438447,
+			"friends_count": 38,
+			"listed_count": 6531,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6720,
+		"favorite_count": 21926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "#BLACKPINK COLLECTIBLE DOLLS UNBOXING🖤💖\nToday's the day! BLACKPINK's Collectible Dolls Unboxing video is here!\n\nMORE INFO : https://t.co/U0pz7Ee8we\n\n🎬https://t.co/tFJDNMAirT\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #YG https://t.co/TpYb4oYLop"
+	},
+	{
+		"created_at": "Mon Aug 03 23:34:26 +0000 2020",
+		"id": 1290424778566729700,
+		"id_str": "1290430857778356224",
+		"full_text": "갑자기?…트럼프 “MS, 틱톡 사도 된다” https://t.co/vwQ1mqAb5u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vwQ1mqAb5u",
+					"expanded_url": "http://www.bloter.net/archives/399097",
+					"display_url": "bloter.net/archives/399097",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55048,
+			"friends_count": 9,
+			"listed_count": 2374,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "갑자기?…트럼프 “MS, 틱톡 사도 된다” https://t.co/vwQ1mqAb5u"
+	},
+	{
+		"created_at": "Mon Aug 03 23:34:18 +0000 2020",
+		"id": 1290286296880107500,
+		"id_str": "1290430823905165313",
+		"full_text": "박세리는 &lt;노는 언니&gt; 제작발표회에서 “여자 선수들은 왜 (예능에서) 노출되지 않았을까 하는 안타까움이 있었다”며 “운동선수들로, 특히 여자 선수로만 구성된 게 특별하고 취지가 굉장히 좋았다”고 밝혔다.\n\nhttps://t.co/IspTFasWxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IspTFasWxZ",
+					"expanded_url": "https://news.khan.kr/mMaJ",
+					"display_url": "news.khan.kr/mMaJ",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723875,
+			"friends_count": 78276,
+			"listed_count": 5961,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 85479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1235,
+		"favorite_count": 671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박세리는 &lt;노는 언니&gt; 제작발표회에서 “여자 선수들은 왜 (예능에서) 노출되지 않았을까 하는 안타까움이 있었다”며 “운동선수들로, 특히 여자 선수로만 구성된 게 특별하고 취지가 굉장히 좋았다”고 밝혔다.\n\nhttps://t.co/IspTFasWxZ"
+	},
+	{
+		"created_at": "Mon Aug 03 23:28:14 +0000 2020",
+		"id": 1290179807565590500,
+		"id_str": "1290429299049156609",
+		"full_text": "로제 4주년 삼성역 광고 오늘부터 시작되었습니다.\n#behindthe4years 태그와 함께 후기를 올려주시는 분들께 추첨을 통해 소정의 상품을 드립니다! 많이 방문해주시고 채영이의 블랙핑크 로제로서의 4주년을 함께 축하해주세요❤️\n#로제 #ROSÉ #BLACKPINK @BLACKPINK https://t.co/HvuDXTgSSv https://t.co/h1KQqJcLt9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "behindthe4years",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HvuDXTgSSv",
+					"expanded_url": "https://twitter.com/rosefanunion/status/1289531332918300677",
+					"display_url": "twitter.com/rosefanunion/s…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290179792784908300,
+					"id_str": "1290179792784908290",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeejr5VU4AIE558.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeejr5VU4AIE558.jpg",
+					"url": "https://t.co/h1KQqJcLt9",
+					"display_url": "pic.twitter.com/h1KQqJcLt9",
+					"expanded_url": "https://twitter.com/RoseFanUnion/status/1290179807565590530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290179792784908300,
+					"id_str": "1290179792784908290",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeejr5VU4AIE558.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeejr5VU4AIE558.jpg",
+					"url": "https://t.co/h1KQqJcLt9",
+					"display_url": "pic.twitter.com/h1KQqJcLt9",
+					"expanded_url": "https://twitter.com/RoseFanUnion/status/1290179807565590530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1290179792784957400,
+					"id_str": "1290179792784957445",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeejr5VVoAUJxVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeejr5VVoAUJxVX.jpg",
+					"url": "https://t.co/h1KQqJcLt9",
+					"display_url": "pic.twitter.com/h1KQqJcLt9",
+					"expanded_url": "https://twitter.com/RoseFanUnion/status/1290179807565590530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1726,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1001036256325730300,
+			"id_str": "1001036256325730304",
+			"name": "ROSÉ FAN UNION",
+			"screen_name": "RoseFanUnion",
+			"location": "",
+			"description": "ALL FOR BLACKPINK ROSÉ #SUPPORT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11134,
+			"friends_count": 3,
+			"listed_count": 98,
+			"created_at": "Mon May 28 09:43:36 +0000 2018",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281559906424811520/7pis2R2A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281559906424811520/7pis2R2A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1001036256325730304/1594382668",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1289531332918300700,
+		"quoted_status_id_str": "1289531332918300677",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HvuDXTgSSv",
+			"expanded": "https://twitter.com/rosefanunion/status/1289531332918300677",
+			"display": "twitter.com/rosefanunion/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 01 12:00:02 +0000 2020",
+			"id": 1289531332918300700,
+			"id_str": "1289531332918300677",
+			"full_text": "𝚋𝚎𝚑𝚒𝚗𝚍 𝚝𝚑𝚎 𝟺 𝚈𝚎𝚊𝚛𝚜\n𝚙𝚊𝚛𝚝.𝟷 𝚂𝚞𝚋𝚠𝚊𝚢 𝙰𝙳\n\n📍 Samseong Station(Line2), Seoul. \n📆 2020.08.03 - 2020.09.02\n\n채영이의 블랙핑크 로제로서의 데뷔 4주년을 축하하며 로제팬연합에서 삼성역 와이드 광고를 진행합니다.\n \n#로제 #ROSÉ #BLACKPINK #behindthe4years @BLACKPINK https://t.co/FRUOJo31jH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "로제",
+						"indices": [
+							157,
+							160
+						]
+					},
+					{
+						"text": "ROSÉ",
+						"indices": [
+							161,
+							166
+						]
+					},
+					{
+						"text": "BLACKPINK",
+						"indices": [
+							167,
+							177
+						]
+					},
+					{
+						"text": "behindthe4years",
+						"indices": [
+							178,
+							194
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BLACKPINK",
+						"name": "BLACKPINKOFFICIAL",
+						"id": 1273850774380884000,
+						"id_str": "1273850774380883975",
+						"indices": [
+							195,
+							205
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1289528627894222800,
+						"id_str": "1289528627894222849",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/EeVTdHFVAAEZGMd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeVTdHFVAAEZGMd.jpg",
+						"url": "https://t.co/FRUOJo31jH",
+						"display_url": "pic.twitter.com/FRUOJo31jH",
+						"expanded_url": "https://twitter.com/RoseFanUnion/status/1289531332918300677/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 857,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1463,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1289528627894222800,
+						"id_str": "1289528627894222849",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/EeVTdHFVAAEZGMd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeVTdHFVAAEZGMd.jpg",
+						"url": "https://t.co/FRUOJo31jH",
+						"display_url": "pic.twitter.com/FRUOJo31jH",
+						"expanded_url": "https://twitter.com/RoseFanUnion/status/1289531332918300677/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 857,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1463,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1001036256325730300,
+				"id_str": "1001036256325730304",
+				"name": "ROSÉ FAN UNION",
+				"screen_name": "RoseFanUnion",
+				"location": "",
+				"description": "ALL FOR BLACKPINK ROSÉ #SUPPORT",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11134,
+				"friends_count": 3,
+				"listed_count": 98,
+				"created_at": "Mon May 28 09:43:36 +0000 2018",
+				"favourites_count": 30,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 313,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1281559906424811520/7pis2R2A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281559906424811520/7pis2R2A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1001036256325730304/1594382668",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 322,
+			"favorite_count": 696,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 422,
+		"favorite_count": 839,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로제 4주년 삼성역 광고 오늘부터 시작되었습니다.\n#behindthe4years 태그와 함께 후기를 올려주시는 분들께 추첨을 통해 소정의 상품을 드립니다! 많이 방문해주시고 채영이의 블랙핑크 로제로서의 4주년을 함께 축하해주세요❤️\n#로제 #ROSÉ #BLACKPINK @BLACKPINK https://t.co/HvuDXTgSSv https://t.co/h1KQqJcLt9"
+	},
+	{
+		"created_at": "Mon Aug 03 23:27:30 +0000 2020",
+		"id": 1290153494352019500,
+		"id_str": "1290429113077862400",
+		"full_text": "📣 블랙핑크 데뷔 4주년을 맞이하여 코엑스 크라운 미디어 광고를 진행합니다.\n광고 인증샷을 멘션으로 남겨주시면 추첨을 통해 선물을 드립니다. (국내주소한정)\n\n#블랙핑크 #로제 #BLACKPINK #ROSÉ @BLACKPINK https://t.co/dEdu7FR6l5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290153397316771800,
+					"id_str": "1290153397316771842",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeeLrejUYAI7v_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeeLrejUYAI7v_-.jpg",
+					"url": "https://t.co/dEdu7FR6l5",
+					"display_url": "pic.twitter.com/dEdu7FR6l5",
+					"expanded_url": "https://twitter.com/record211/status/1290153494352019456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290153397316771800,
+					"id_str": "1290153397316771842",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeeLrejUYAI7v_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeeLrejUYAI7v_-.jpg",
+					"url": "https://t.co/dEdu7FR6l5",
+					"display_url": "pic.twitter.com/dEdu7FR6l5",
+					"expanded_url": "https://twitter.com/record211/status/1290153494352019456/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							400,
+							517
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EeeLrejUYAI7v_-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1290153324537213000,
+		"in_reply_to_status_id_str": "1290153324537212928",
+		"in_reply_to_user_id": 990715497619509200,
+		"in_reply_to_user_id_str": "990715497619509249",
+		"in_reply_to_screen_name": "record211",
+		"user": {
+			"id": 990715497619509200,
+			"id_str": "990715497619509249",
+			"name": "RÉCORD 레코드",
+			"screen_name": "record211",
+			"location": "HD=💙 / DON'T RE-UPLOAD & EDIT",
+			"description": "BLACKPINK ROSÉ🎥",
+			"url": "https://t.co/vUzomcx3tx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vUzomcx3tx",
+							"expanded_url": "https://www.youtube.com/c/RECORD211",
+							"display_url": "youtube.com/c/RECORD211",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115873,
+			"friends_count": 36,
+			"listed_count": 1391,
+			"created_at": "Sun Apr 29 22:12:36 +0000 2018",
+			"favourites_count": 222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245373274206269440/0uwe6KPl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245373274206269440/0uwe6KPl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/990715497619509249/1568785667",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 773,
+		"favorite_count": 1891,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣 블랙핑크 데뷔 4주년을 맞이하여 코엑스 크라운 미디어 광고를 진행합니다.\n광고 인증샷을 멘션으로 남겨주시면 추첨을 통해 선물을 드립니다. (국내주소한정)\n\n#블랙핑크 #로제 #BLACKPINK #ROSÉ @BLACKPINK https://t.co/dEdu7FR6l5"
+	},
+	{
+		"created_at": "Mon Aug 03 23:27:25 +0000 2020",
+		"id": 1290153324537213000,
+		"id_str": "1290429092953653249",
+		"full_text": "BLACKPINK 4th Anniversary Support\n\nCOEX Crown Media Video Ad\n\n📍 COEX (Samseoung St.)\n⏰ 2020.08.08 6pm - 12am\n🎞 https://t.co/cCN1gi1DvN\n\n#블랙핑크 #로제 #BLACKPINK #ROSÉ @BLACKPINK https://t.co/zERsMRvU72",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						157,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cCN1gi1DvN",
+					"expanded_url": "https://youtu.be/elD9llQ5gJk",
+					"display_url": "youtu.be/elD9llQ5gJk",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290153217364394000,
+					"id_str": "1290153217364393984",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290153217364393984/pu/img/AKJZ3so711eh202Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290153217364393984/pu/img/AKJZ3so711eh202Y.jpg",
+					"url": "https://t.co/zERsMRvU72",
+					"display_url": "pic.twitter.com/zERsMRvU72",
+					"expanded_url": "https://twitter.com/record211/status/1290153324537212928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290153217364394000,
+					"id_str": "1290153217364393984",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290153217364393984/pu/img/AKJZ3so711eh202Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290153217364393984/pu/img/AKJZ3so711eh202Y.jpg",
+					"url": "https://t.co/zERsMRvU72",
+					"display_url": "pic.twitter.com/zERsMRvU72",
+					"expanded_url": "https://twitter.com/record211/status/1290153324537212928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21467,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290153217364393984/pu/vid/1280x720/qkkKd_2h352g1Dyi.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290153217364393984/pu/vid/480x270/9qUCo85oDT2LvaMf.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290153217364393984/pu/vid/640x360/-hZpThTCOEzblCnQ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1290153217364393984/pu/pl/edUXSF1lyz9KlNof.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 990715497619509200,
+			"id_str": "990715497619509249",
+			"name": "RÉCORD 레코드",
+			"screen_name": "record211",
+			"location": "HD=💙 / DON'T RE-UPLOAD & EDIT",
+			"description": "BLACKPINK ROSÉ🎥",
+			"url": "https://t.co/vUzomcx3tx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vUzomcx3tx",
+							"expanded_url": "https://www.youtube.com/c/RECORD211",
+							"display_url": "youtube.com/c/RECORD211",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115873,
+			"friends_count": 36,
+			"listed_count": 1391,
+			"created_at": "Sun Apr 29 22:12:36 +0000 2018",
+			"favourites_count": 222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245373274206269440/0uwe6KPl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245373274206269440/0uwe6KPl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/990715497619509249/1568785667",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2977,
+		"favorite_count": 7031,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK 4th Anniversary Support\n\nCOEX Crown Media Video Ad\n\n📍 COEX (Samseoung St.)\n⏰ 2020.08.08 6pm - 12am\n🎞 https://t.co/cCN1gi1DvN\n\n#블랙핑크 #로제 #BLACKPINK #ROSÉ @BLACKPINK https://t.co/zERsMRvU72"
+	},
+	{
+		"created_at": "Mon Aug 03 23:21:26 +0000 2020",
+		"id": 1290427586707742700,
+		"id_str": "1290427586707742720",
+		"full_text": "가성비 폰으로 매력적이다. 샤오미 말고 그냥 가격 조금 더 주고 픽셀4a 세컨폰으로 영입하는 것을 고려해보세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1290427123010662400,
+		"in_reply_to_status_id_str": "1290427123010662401",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "가성비 폰으로 매력적이다. 샤오미 말고 그냥 가격 조금 더 주고 픽셀4a 세컨폰으로 영입하는 것을 고려해보세요."
+	},
+	{
+		"created_at": "Mon Aug 03 23:19:35 +0000 2020",
+		"id": 1290427123010662400,
+		"id_str": "1290427123010662401",
+		"full_text": "원카메라여도 디자인 가격 무게 3박자가 완벽함. 카메라는 구글카메라라서 기본적인 촬영은 실망시키지 않을 듯. 픽셀 카메라 퍼포먼스는 최고니까. 이제 유플 별정에서 정발만 하면 더할나위 없이 좋을 듯. https://t.co/mjX5MiqUYN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mjX5MiqUYN",
+					"expanded_url": "https://twitter.com/wkchoi/status/1290330030371934210",
+					"display_url": "twitter.com/wkchoi/status/…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290330030371934200,
+		"quoted_status_id_str": "1290330030371934210",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mjX5MiqUYN",
+			"expanded": "https://twitter.com/wkchoi/status/1290330030371934210",
+			"display": "twitter.com/wkchoi/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 03 16:53:47 +0000 2020",
+			"id": 1290330030371934200,
+			"id_str": "1290330030371934210",
+			"full_text": "구글, iPhone SE 경쟁제품 $349 픽셀 4a 공식 공개\n- 올해 말 5G 버전 출시 예고\n- SD 730G 칩, 6GB/128GB, 타이탄 M 보안 모듈\n- 5.81인치 1080x2340 OLED 패널, 443ppi, 19.5:9 화면비율\n- 헤드폰 잭, USB-C 포트\n- 12.2MP 듀얼 픽셀 카메라, 나이트사이트 및 인물사진 지원\nhttps://t.co/HcZPguAZPH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HcZPguAZPH",
+						"expanded_url": "https://9to5mac.com/2020/08/03/google-pixel-4a-iphone-se-more/",
+						"display_url": "9to5mac.com/2020/08/03/goo…",
+						"indices": [
+							194,
+							217
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45398722,
+				"id_str": "45398722",
+				"name": "Wan Ki Choi",
+				"screen_name": "wkchoi",
+				"location": "",
+				"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46016,
+				"friends_count": 229,
+				"listed_count": 281,
+				"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38396,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원카메라여도 디자인 가격 무게 3박자가 완벽함. 카메라는 구글카메라라서 기본적인 촬영은 실망시키지 않을 듯. 픽셀 카메라 퍼포먼스는 최고니까. 이제 유플 별정에서 정발만 하면 더할나위 없이 좋을 듯. https://t.co/mjX5MiqUYN"
+	},
+	{
+		"created_at": "Mon Aug 03 23:11:36 +0000 2020",
+		"id": 1290330030371934200,
+		"id_str": "1290425110839488512",
+		"full_text": "구글, iPhone SE 경쟁제품 $349 픽셀 4a 공식 공개\n- 올해 말 5G 버전 출시 예고\n- SD 730G 칩, 6GB/128GB, 타이탄 M 보안 모듈\n- 5.81인치 1080x2340 OLED 패널, 443ppi, 19.5:9 화면비율\n- 헤드폰 잭, USB-C 포트\n- 12.2MP 듀얼 픽셀 카메라, 나이트사이트 및 인물사진 지원\nhttps://t.co/HcZPguAZPH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HcZPguAZPH",
+					"expanded_url": "https://9to5mac.com/2020/08/03/google-pixel-4a-iphone-se-more/",
+					"display_url": "9to5mac.com/2020/08/03/goo…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46016,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글, iPhone SE 경쟁제품 $349 픽셀 4a 공식 공개\n- 올해 말 5G 버전 출시 예고\n- SD 730G 칩, 6GB/128GB, 타이탄 M 보안 모듈\n- 5.81인치 1080x2340 OLED 패널, 443ppi, 19.5:9 화면비율\n- 헤드폰 잭, USB-C 포트\n- 12.2MP 듀얼 픽셀 카메라, 나이트사이트 및 인물사진 지원\nhttps://t.co/HcZPguAZPH"
+	},
+	{
+		"created_at": "Mon Aug 03 23:07:14 +0000 2020",
+		"id": 1290143186275295200,
+		"id_str": "1290424013143986177",
+		"full_text": "180619 Fine\n\n➖\nhttps://t.co/bsH50yiw2w\n\n#태연 #TAEYEON https://t.co/Hj2lmI48K5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bsH50yiw2w",
+					"expanded_url": "https://youtu.be/wypaSdMZCRs",
+					"display_url": "youtu.be/wypaSdMZCRs",
+					"indices": [
+						15,
+						38
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290143040615547000,
+					"id_str": "1290143040615546881",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290143040615546881/pu/img/0_bWV8w4lBFh642H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290143040615546881/pu/img/0_bWV8w4lBFh642H.jpg",
+					"url": "https://t.co/Hj2lmI48K5",
+					"display_url": "pic.twitter.com/Hj2lmI48K5",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1290143186275295232/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290143040615547000,
+					"id_str": "1290143040615546881",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290143040615546881/pu/img/0_bWV8w4lBFh642H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290143040615546881/pu/img/0_bWV8w4lBFh642H.jpg",
+					"url": "https://t.co/Hj2lmI48K5",
+					"display_url": "pic.twitter.com/Hj2lmI48K5",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1290143186275295232/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17536,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1290143040615546881/pu/pl/o8tKyzaLK8sIyQGa.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290143040615546881/pu/vid/640x360/3B8X5rV2kCsEgSVf.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290143040615546881/pu/vid/1280x720/OYYtsz5se0qZghAx.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290143040615546881/pu/vid/480x270/mv58sjYORztv4DN4.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3247398667,
+			"id_str": "3247398667",
+			"name": "Alluring voice",
+			"screen_name": "alluring_voice",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/0Hbtw9STT5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Hbtw9STT5",
+							"expanded_url": "http://taeyeon.smtown.com",
+							"display_url": "taeyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34950,
+			"friends_count": 4,
+			"listed_count": 724,
+			"created_at": "Wed Jun 17 02:13:44 +0000 2015",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263556978334261248/1G3yP9Sb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263556978334261248/1G3yP9Sb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3247398667/1590090513",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1215,
+		"favorite_count": 2019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "180619 Fine\n\n➖\nhttps://t.co/bsH50yiw2w\n\n#태연 #TAEYEON https://t.co/Hj2lmI48K5"
+	},
+	{
 		"created_at": "Mon Aug 03 19:45:38 +0000 2020",
 		"id": 1290362019472793600,
 		"id_str": "1290373278381625348",
