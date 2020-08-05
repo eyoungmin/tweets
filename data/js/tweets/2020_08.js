@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 09:27:57 +0000 2020",
+		"id": 1290935634232672300,
+		"id_str": "1290942610224357377",
+		"full_text": "💌WENDY letter 구독자를 위한 깜짝 선물!\n포토카드 추가 증정 EVENT🎁\n\n- 이벤트대상: 7/17~8/16 중 WENDY letter 1회권, 정기결제권, 9개월 구독권 구매자\n- 당첨인원: 10명\n- 당첨자발표: 개별 안내\n\nWENDY letter 구독 신청(~8/16)\n&gt; https://t.co/oKW0yElQZV (한국)\n\n#Dear_U_letter #웬디 #WENDY https://t.co/6eYJRPpNvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_letter",
+					"indices": [
+						195,
+						209
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						214,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKW0yElQZV",
+					"expanded_url": "http://dear-u.lysn.com",
+					"display_url": "dear-u.lysn.com",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290934924644479000,
+					"id_str": "1290934924644478976",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EepSeWuUcAAzVwI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EepSeWuUcAAzVwI.png",
+					"url": "https://t.co/6eYJRPpNvW",
+					"display_url": "pic.twitter.com/6eYJRPpNvW",
+					"expanded_url": "https://twitter.com/lysn_official/status/1290935634232672256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290934924644479000,
+					"id_str": "1290934924644478976",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EepSeWuUcAAzVwI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EepSeWuUcAAzVwI.png",
+					"url": "https://t.co/6eYJRPpNvW",
+					"display_url": "pic.twitter.com/6eYJRPpNvW",
+					"expanded_url": "https://twitter.com/lysn_official/status/1290935634232672256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "이 세상 어느 커뮤니티보다 내 관심사에 대해 자유롭게 이야기할 수 있는 공간. 당신은 어떤 이야기를 나누고 싶나요?",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9786,
+			"friends_count": 0,
+			"listed_count": 17,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌WENDY letter 구독자를 위한 깜짝 선물!\n포토카드 추가 증정 EVENT🎁\n\n- 이벤트대상: 7/17~8/16 중 WENDY letter 1회권, 정기결제권, 9개월 구독권 구매자\n- 당첨인원: 10명\n- 당첨자발표: 개별 안내\n\nWENDY letter 구독 신청(~8/16)\n&gt; https://t.co/oKW0yElQZV (한국)\n\n#Dear_U_letter #웬디 #WENDY https://t.co/6eYJRPpNvW"
+	},
+	{
+		"created_at": "Wed Aug 05 09:25:11 +0000 2020",
+		"id": 1290937405961248800,
+		"id_str": "1290941913957306368",
+		"full_text": "연습실 라이브 짧은 클립3 \n‘모닝왈츠, 우리들의 실패’ \n\n자우림 유튜브 채널에 업로드 되었습니다☺️\n\nfull ver👇\nhttps://t.co/UM71xrzyXQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UM71xrzyXQ",
+					"expanded_url": "https://youtu.be/IhbSY8eYzdU",
+					"display_url": "youtu.be/IhbSY8eYzdU",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2146,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279006030869852161/SowaiTxg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279006030869852161/SowaiTxg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1594186092",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연습실 라이브 짧은 클립3 \n‘모닝왈츠, 우리들의 실패’ \n\n자우림 유튜브 채널에 업로드 되었습니다☺️\n\nfull ver👇\nhttps://t.co/UM71xrzyXQ"
+	},
+	{
 		"created_at": "Wed Aug 05 08:38:31 +0000 2020",
 		"id": 1290930171139305500,
 		"id_str": "1290930171139305472",
