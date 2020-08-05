@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 00:23:55 +0000 2020",
+		"id": 1290805699820183600,
+		"id_str": "1290805699820183553",
+		"full_text": "네이버 새 스마트 에디터\nhttps://t.co/lTNMyQWnqF\n#네이버 #네이버카페 #스마트에디터 #에디터 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "네이버카페",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "스마트에디터",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "에디터",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lTNMyQWnqF",
+					"expanded_url": "https://cafe.naver.com/cafesupport/146776",
+					"display_url": "cafe.naver.com/cafesupport/14…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버 새 스마트 에디터\nhttps://t.co/lTNMyQWnqF\n#네이버 #네이버카페 #스마트에디터 #에디터 #minfav"
+	},
+	{
+		"created_at": "Wed Aug 05 00:22:32 +0000 2020",
+		"id": 1290805352967991300,
+		"id_str": "1290805352967991299",
+		"full_text": "네이버 카페 새 에디터 도입된 듯. 블로그랑은 차이가 있는 듯. 적절히 개선하여 카페에 맞게 잘 붙인 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1281135447721169000,
+		"in_reply_to_status_id_str": "1281135447721168896",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "네이버 카페 새 에디터 도입된 듯. 블로그랑은 차이가 있는 듯. 적절히 개선하여 카페에 맞게 잘 붙인 듯."
+	},
+	{
+		"created_at": "Wed Aug 05 00:18:46 +0000 2020",
+		"id": 1290804403985817600,
+		"id_str": "1290804403985817600",
+		"full_text": "소셜미디어 바이럴과 인플루언서 광고 절레절레.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1290802594433007600,
+		"in_reply_to_status_id_str": "1290802594433007616",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "소셜미디어 바이럴과 인플루언서 광고 절레절레."
+	},
+	{
 		"created_at": "Tue Aug 04 23:45:13 +0000 2020",
 		"id": 1290614763144110000,
 		"id_str": "1290795959849324544",
