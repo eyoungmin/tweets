@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 01:26:41 +0000 2020",
+		"id": 1290814034212565000,
+		"id_str": "1290821495220920322",
+		"full_text": "디즈니의 회계 3분기 매출은 40% 감소한 1170억 달러입니다. 핵심 사업인 테마 파크가 코로나19에 타격을 받으며 20억 달러 손실을 보았습니다. 영화 극장 배급, 영화/TV 제작도 영향을 받았고, 스포츠 경기 중지로 ESPN 광고 수익도 감소했습니다. https://t.co/rNYFnvX08v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rNYFnvX08v",
+					"expanded_url": "https://variety.com/2020/film/news/disney-suffers-brutal-quarterly-earnings-due-to-theme-park-closures-1234725267/",
+					"display_url": "variety.com/2020/film/news…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1290814031993831400,
+		"in_reply_to_status_id_str": "1290814031993831424",
+		"in_reply_to_user_id": 4838971693,
+		"in_reply_to_user_id_str": "4838971693",
+		"in_reply_to_screen_name": "tailorcontents",
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15353,
+			"friends_count": 747,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디즈니의 회계 3분기 매출은 40% 감소한 1170억 달러입니다. 핵심 사업인 테마 파크가 코로나19에 타격을 받으며 20억 달러 손실을 보았습니다. 영화 극장 배급, 영화/TV 제작도 영향을 받았고, 스포츠 경기 중지로 ESPN 광고 수익도 감소했습니다. https://t.co/rNYFnvX08v"
+	},
+	{
 		"created_at": "Wed Aug 05 00:23:55 +0000 2020",
 		"id": 1290805699820183600,
 		"id_str": "1290805699820183553",
