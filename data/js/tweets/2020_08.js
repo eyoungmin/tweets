@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 03:00:48 +0000 2020",
+		"id": 1290845179176509400,
+		"id_str": "1290845179176509440",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Aug 5) https://t.co/gy4P9pcrP8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gy4P9pcrP8",
+					"expanded_url": "https://nzzl.us/hX3DqpH",
+					"display_url": "nzzl.us/hX3DqpH",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Aug 5) https://t.co/gy4P9pcrP8"
+	},
+	{
+		"created_at": "Wed Aug 05 02:27:57 +0000 2020",
+		"id": 1290829878695256000,
+		"id_str": "1290836913415389184",
+		"full_text": "[#레벨업 아슬한 프로젝트]\n\n아이린&amp;슬기X레전드 김완선\n역대급 조합+스케일 기대해주세요!😍\n\n5주차 본편 공개! \n-&gt; https://t.co/x5O3Vhmm9F\n\n본방사수 매주 수요일 오전 11시 #wavve 에서!!\n\n#아이린 #슬기 #RedVelvet #IRENE #SEULGI #아슬한프로젝트 #SMCC_STUDIO #웨이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "wavve",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "아슬한프로젝트",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"text": "웨이브",
+					"indices": [
+						189,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x5O3Vhmm9F",
+					"expanded_url": "http://bitly.kr/EwbeIK7dj0R",
+					"display_url": "bitly.kr/EwbeIK7dj0R",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n💙슈주 리턴즈4 \n🟢NCT LIFE: DREAM in Wonderland \n♥️레벨업 아슬한 프로젝트",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8659,
+			"friends_count": 0,
+			"listed_count": 28,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업 아슬한 프로젝트]\n\n아이린&amp;슬기X레전드 김완선\n역대급 조합+스케일 기대해주세요!😍\n\n5주차 본편 공개! \n-&gt; https://t.co/x5O3Vhmm9F\n\n본방사수 매주 수요일 오전 11시 #wavve 에서!!\n\n#아이린 #슬기 #RedVelvet #IRENE #SEULGI #아슬한프로젝트 #SMCC_STUDIO #웨이브"
+	},
+	{
+		"created_at": "Wed Aug 05 02:25:17 +0000 2020",
+		"id": 1290832111075614700,
+		"id_str": "1290836243136339969",
+		"full_text": "[EN] 예리한 화방? 예리한 모방? 찬혁이 손민수에 푹 빠진 뚜뚜 [EP.9-2]\n\n👉https://t.co/1Lx85lQLeH\n\n#예리 #YERI #레드벨벳 #RedVelvet #찬혁 #CHANHYUK #AKMU #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "찬혁",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "CHANHYUK",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "AKMU",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Lx85lQLeH",
+					"expanded_url": "https://youtu.be/PC33Z5VtxgM",
+					"display_url": "youtu.be/PC33Z5VtxgM",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2991926,
+			"friends_count": 1,
+			"listed_count": 6382,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1998,
+		"favorite_count": 6369,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN] 예리한 화방? 예리한 모방? 찬혁이 손민수에 푹 빠진 뚜뚜 [EP.9-2]\n\n👉https://t.co/1Lx85lQLeH\n\n#예리 #YERI #레드벨벳 #RedVelvet #찬혁 #CHANHYUK #AKMU #예리한방"
+	},
+	{
 		"created_at": "Wed Aug 05 01:26:41 +0000 2020",
 		"id": 1290814034212565000,
 		"id_str": "1290821495220920322",
