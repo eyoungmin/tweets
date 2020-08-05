@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 05:25:11 +0000 2020",
+		"id": 1290878420734288000,
+		"id_str": "1290881515031846914",
+		"full_text": "항상 그 이상을 이뤄낼 수 있었던건 우리 서로의 믿음과 열정이 있었다고 생각해 그리고 우리 소원과의 믿음과 사랑이지 우헤헤 13주년 축하해!\n지•소, 앞•소, 영원히 소녀시대!💗\n아. \n#13YearsWithGirlsGeneration #GirlsGeneration13thAnniversary #13SummersWithGG #13년째_지금은_소녀시대 https://t.co/0CFxERdv4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "13YearsWithGirlsGeneration",
+					"indices": [
+						104,
+						131
+					]
+				},
+				{
+					"text": "GirlsGeneration13thAnniversary",
+					"indices": [
+						132,
+						163
+					]
+				},
+				{
+					"text": "13SummersWithGG",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"text": "13년째_지금은_소녀시대",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290878412769304600,
+					"id_str": "1290878412769304578",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EeofE7lVoAITrzy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeofE7lVoAITrzy.jpg",
+					"url": "https://t.co/0CFxERdv4U",
+					"display_url": "pic.twitter.com/0CFxERdv4U",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1290878420734287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290878412769304600,
+					"id_str": "1290878412769304578",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EeofE7lVoAITrzy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeofE7lVoAITrzy.jpg",
+					"url": "https://t.co/0CFxERdv4U",
+					"display_url": "pic.twitter.com/0CFxERdv4U",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1290878420734287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1304,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1290878412769210400,
+					"id_str": "1290878412769210370",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EeofE7lUMAIqXFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeofE7lUMAIqXFq.jpg",
+					"url": "https://t.co/0CFxERdv4U",
+					"display_url": "pic.twitter.com/0CFxERdv4U",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1290878420734287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1290878412769210400,
+					"id_str": "1290878412769210369",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EeofE7lUMAEAot6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeofE7lUMAEAot6.jpg",
+					"url": "https://t.co/0CFxERdv4U",
+					"display_url": "pic.twitter.com/0CFxERdv4U",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1290878420734287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 1218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 792687101842186200,
+			"id_str": "792687101842186240",
+			"name": "Hyoyeon",
+			"screen_name": "Hyoyeon_djhyo",
+			"location": "K",
+			"description": "HyoYeon from Girls’ Generation DJ Hyo",
+			"url": "https://t.co/U9OPugEoAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U9OPugEoAv",
+							"expanded_url": "http://hyoyeon.smtown.com",
+							"display_url": "hyoyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228224,
+			"friends_count": 9,
+			"listed_count": 472,
+			"created_at": "Sun Oct 30 11:18:27 +0000 2016",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283064144585875459/dPooBWS4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283064144585875459/dPooBWS4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/792687101842186240/1594741306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4892,
+		"favorite_count": 6553,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "항상 그 이상을 이뤄낼 수 있었던건 우리 서로의 믿음과 열정이 있었다고 생각해 그리고 우리 소원과의 믿음과 사랑이지 우헤헤 13주년 축하해!\n지•소, 앞•소, 영원히 소녀시대!💗\n아. \n#13YearsWithGirlsGeneration #GirlsGeneration13thAnniversary #13SummersWithGG #13년째_지금은_소녀시대 https://t.co/0CFxERdv4U"
+	},
+	{
 		"created_at": "Wed Aug 05 04:45:37 +0000 2020",
 		"id": 1290871340564545500,
 		"id_str": "1290871557913563137",
