@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 04 23:45:13 +0000 2020",
+		"id": 1290614763144110000,
+		"id_str": "1290795959849324544",
+		"full_text": "코로나는 시작일 뿐. 수백만 죽일 만큼 독하지만 증상 없이 퍼뜨릴 만큼 순하다. 그만큼 통제가 어렵다. 사스/메르스만큼 치명적이지도 홍역만큼 전염성 높진 않지만 더 치명적인 게 잠복한다는 사실. 4만종의 바이러스가 야생동물에 기생, 이중 1/4이 인수전염 기회 기다린다.https://t.co/I4BPy6lDtV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I4BPy6lDtV",
+					"expanded_url": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/",
+					"display_url": "theatlantic.com/magazine/archi…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100878,
+			"friends_count": 2397,
+			"listed_count": 307,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나는 시작일 뿐. 수백만 죽일 만큼 독하지만 증상 없이 퍼뜨릴 만큼 순하다. 그만큼 통제가 어렵다. 사스/메르스만큼 치명적이지도 홍역만큼 전염성 높진 않지만 더 치명적인 게 잠복한다는 사실. 4만종의 바이러스가 야생동물에 기생, 이중 1/4이 인수전염 기회 기다린다.https://t.co/I4BPy6lDtV"
+	},
+	{
+		"created_at": "Tue Aug 04 23:44:29 +0000 2020",
+		"id": 1290622858608042000,
+		"id_str": "1290795774066847747",
+		"full_text": "호텔 연회장 예약을 온라인으로 할 수 있도록 도와주는 루북 김한결 대표 https://t.co/BquQVwVJEF 직접 방문하지 않아도 VR영상으로 현장을 파악 가능한 서비스. 루북 https://t.co/24upG9Hw0b 홈페이지를 조금만 봐도 유명 호텔에서 행사하면 얼마나 비용이 드는지 쉽게 파악할 수 있습니다. https://t.co/mUrwRxJ6c0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BquQVwVJEF",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=030&aid=0002896265",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/24upG9Hw0b",
+					"expanded_url": "https://www.roovook.com/",
+					"display_url": "roovook.com",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290622852215914500,
+					"id_str": "1290622852215914496",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eek2pWVUwAABxIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eek2pWVUwAABxIB.jpg",
+					"url": "https://t.co/mUrwRxJ6c0",
+					"display_url": "pic.twitter.com/mUrwRxJ6c0",
+					"expanded_url": "https://twitter.com/estima7/status/1290622858608041984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 647,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290622852215914500,
+					"id_str": "1290622852215914496",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eek2pWVUwAABxIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eek2pWVUwAABxIB.jpg",
+					"url": "https://t.co/mUrwRxJ6c0",
+					"display_url": "pic.twitter.com/mUrwRxJ6c0",
+					"expanded_url": "https://twitter.com/estima7/status/1290622858608041984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 647,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369370,
+			"friends_count": 2271,
+			"listed_count": 4485,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "호텔 연회장 예약을 온라인으로 할 수 있도록 도와주는 루북 김한결 대표 https://t.co/BquQVwVJEF 직접 방문하지 않아도 VR영상으로 현장을 파악 가능한 서비스. 루북 https://t.co/24upG9Hw0b 홈페이지를 조금만 봐도 유명 호텔에서 행사하면 얼마나 비용이 드는지 쉽게 파악할 수 있습니다. https://t.co/mUrwRxJ6c0"
+	},
+	{
+		"created_at": "Tue Aug 04 23:43:58 +0000 2020",
+		"id": 1290705744657109000,
+		"id_str": "1290795647356960768",
+		"full_text": "[업데이트] 애플, 틱톡 인수 관심 없어\n- Axios, 오늘 소스를 통해 애플이 틱톡 인수에 '진정한 관심' 표명했다고 보도했음에도 불구하고 The Verge에 현재까지 틱톡 인수 위한 협상 없고 또한 그런 딜을 추진할 계획 없다고 말해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1290686925230276600,
+		"in_reply_to_status_id_str": "1290686925230276608",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46030,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[업데이트] 애플, 틱톡 인수 관심 없어\n- Axios, 오늘 소스를 통해 애플이 틱톡 인수에 '진정한 관심' 표명했다고 보도했음에도 불구하고 The Verge에 현재까지 틱톡 인수 위한 협상 없고 또한 그런 딜을 추진할 계획 없다고 말해"
+	},
+	{
+		"created_at": "Tue Aug 04 23:43:55 +0000 2020",
+		"id": 1290686925230276600,
+		"id_str": "1290795633771610112",
+		"full_text": "- 또한 폭스 비즈니스, 구글과 페이스북도 틱톡 인수에 관심 표명했다고 보도했지만 그들이 바이트댄스와 협상 중인지는 분명치 않아\n- MS, 블로그 게시를 통해 9월 15일까지 틱톡을 인수할 것이라고 말해\n- 애플, 틱톡을 인수한다면 이제까지 기록인 30억 달러 Beats 인수 후 최대 규모 인수가 될 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1290685556830228500,
+		"in_reply_to_status_id_str": "1290685556830228480",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46030,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 또한 폭스 비즈니스, 구글과 페이스북도 틱톡 인수에 관심 표명했다고 보도했지만 그들이 바이트댄스와 협상 중인지는 분명치 않아\n- MS, 블로그 게시를 통해 9월 15일까지 틱톡을 인수할 것이라고 말해\n- 애플, 틱톡을 인수한다면 이제까지 기록인 30억 달러 Beats 인수 후 최대 규모 인수가 될 것"
+	},
+	{
+		"created_at": "Tue Aug 04 23:43:44 +0000 2020",
+		"id": 1290685556830228500,
+		"id_str": "1290795586162024450",
+		"full_text": "Axios: 애플, 틱톡 인수에 '진정한 관심' 표명해\n- 복수의 소스 통해 애플이 잠재적으로 틱톡 인수에 관심을 표명했다고 말해\n- 그러나 아직 애플 내부 소스, 이 정보에 대해 언급하지 않아\n- MS와 다른 투자자들, 틱톡 모회사 바이크댄스와 협상 중이고 미국정부 또한 연관돼\nhttps://t.co/Zujdo4L0x8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zujdo4L0x8",
+					"expanded_url": "https://9to5mac.com/2020/08/04/apple-acquire-tiktok/",
+					"display_url": "9to5mac.com/2020/08/04/app…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46030,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Axios: 애플, 틱톡 인수에 '진정한 관심' 표명해\n- 복수의 소스 통해 애플이 잠재적으로 틱톡 인수에 관심을 표명했다고 말해\n- 그러나 아직 애플 내부 소스, 이 정보에 대해 언급하지 않아\n- MS와 다른 투자자들, 틱톡 모회사 바이크댄스와 협상 중이고 미국정부 또한 연관돼\nhttps://t.co/Zujdo4L0x8"
+	},
+	{
+		"created_at": "Tue Aug 04 23:42:27 +0000 2020",
+		"id": 1290664036250525700,
+		"id_str": "1290795265926946816",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/QedWjYQPQV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "아틀란티스소녀",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "Atlantis_Princess",
+					"indices": [
+						183,
+						201
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290197001854840800,
+					"id_str": "1290197001854840832",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EeezVmHU8AA5hFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeezVmHU8AA5hFu.jpg",
+					"url": "https://t.co/QedWjYQPQV",
+					"display_url": "pic.twitter.com/QedWjYQPQV",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1290664036250525696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290197001854840800,
+					"id_str": "1290197001854840832",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EeezVmHU8AA5hFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeezVmHU8AA5hFu.jpg",
+					"url": "https://t.co/QedWjYQPQV",
+					"display_url": "pic.twitter.com/QedWjYQPQV",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1290664036250525696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8120927,
+			"friends_count": 50,
+			"listed_count": 7989,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 709,
+		"favorite_count": 4154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/QedWjYQPQV"
+	},
+	{
 		"created_at": "Tue Aug 04 22:40:59 +0000 2020",
 		"id": 1290779794649432000,
 		"id_str": "1290779794649432064",
