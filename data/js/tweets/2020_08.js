@@ -1,6 +1,1836 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 15:19:20 +0000 2020",
+		"id": 1291031037556879400,
+		"id_str": "1291031037556879360",
+		"full_text": "국내 음원 플랫폼에 국매랑 해외반이랑 분류 시키면 좋겠는데 왜 필터 안 만들어주는 걸까. 따로 플레이리스트를 만들면 되지만 제공하는 거랑은 다른 개념임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국내 음원 플랫폼에 국매랑 해외반이랑 분류 시키면 좋겠는데 왜 필터 안 만들어주는 걸까. 따로 플레이리스트를 만들면 되지만 제공하는 거랑은 다른 개념임."
+	},
+	{
+		"created_at": "Wed Aug 05 15:13:07 +0000 2020",
+		"id": 1291029472594940000,
+		"id_str": "1291029472594939904",
+		"full_text": "일본반 부르는 아티스트는 왜 없징 일본 정규에 갓곡 짱많은데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "일본반 부르는 아티스트는 왜 없징 일본 정규에 갓곡 짱많은데..."
+	},
+	{
+		"created_at": "Wed Aug 05 15:11:47 +0000 2020",
+		"id": 1291029137692348400,
+		"id_str": "1291029137692348416",
+		"full_text": "근데 보아 명곡이 몇 갠데 너무 아쉬운데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "근데 보아 명곡이 몇 갠데 너무 아쉬운데."
+	},
+	{
+		"created_at": "Wed Aug 05 15:11:15 +0000 2020",
+		"id": 1290573307880697900,
+		"id_str": "1291029003327823878",
+		"full_text": "TAEMIN 태민 '2 KIDS' MV\n\n🎬https://t.co/fZ9C1PyhH4\n\n#태민 #TAEMIN #샤이니 #SHINee\n#2KIDS\n#NeverGonnaDanceAgain\n#Prologue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "2KIDS",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						81,
+						102
+					]
+				},
+				{
+					"text": "Prologue",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fZ9C1PyhH4",
+					"expanded_url": "https://youtu.be/7UZRHi0kh3c",
+					"display_url": "youtu.be/7UZRHi0kh3c",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1308660,
+			"friends_count": 2,
+			"listed_count": 2963,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288348431472160769/RUBTNBsP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288348431472160769/RUBTNBsP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1596532212",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23903,
+		"favorite_count": 42575,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEMIN 태민 '2 KIDS' MV\n\n🎬https://t.co/fZ9C1PyhH4\n\n#태민 #TAEMIN #샤이니 #SHINee\n#2KIDS\n#NeverGonnaDanceAgain\n#Prologue"
+	},
+	{
+		"created_at": "Wed Aug 05 15:11:09 +0000 2020",
+		"id": 1290663784709677000,
+		"id_str": "1291028979550281728",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/2PaycsUlWv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "아틀란티스소녀",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "Atlantis_Princess",
+					"indices": [
+						183,
+						201
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290196988571472000,
+					"id_str": "1290196988571471872",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EeezU0oU0AAA-ZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeezU0oU0AAA-ZO.jpg",
+					"url": "https://t.co/2PaycsUlWv",
+					"display_url": "pic.twitter.com/2PaycsUlWv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1290663784709677056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290196988571472000,
+					"id_str": "1290196988571471872",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EeezU0oU0AAA-ZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeezU0oU0AAA-ZO.jpg",
+					"url": "https://t.co/2PaycsUlWv",
+					"display_url": "pic.twitter.com/2PaycsUlWv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1290663784709677056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8121423,
+			"friends_count": 50,
+			"listed_count": 7989,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 852,
+		"favorite_count": 5110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/2PaycsUlWv"
+	},
+	{
+		"created_at": "Wed Aug 05 15:10:59 +0000 2020",
+		"id": 1290822025775214600,
+		"id_str": "1291028936567078913",
+		"full_text": "💛 The 2nd runner of STATION's project, celebrating #BoA's 20th anniversary, is BOL4!\n\n💿 #BOL4's '#Atlantis_Princess' will be released on August 7 at 6PM KST!\n\n🎶 Stay tuned for the 'Atlantis Princess' which will be reborn with BOL4's unique voice!\n\n#Our_Beloved_BoA https://t.co/4nP2YZJFJr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "Atlantis_Princess",
+					"indices": [
+						97,
+						115
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						248,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290822016241553400,
+					"id_str": "1290822016241553410",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/EenryOJU0AI_X2A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EenryOJU0AI_X2A.jpg",
+					"url": "https://t.co/4nP2YZJFJr",
+					"display_url": "pic.twitter.com/4nP2YZJFJr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1290822025775214592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290822016241553400,
+					"id_str": "1290822016241553410",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/EenryOJU0AI_X2A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EenryOJU0AI_X2A.jpg",
+					"url": "https://t.co/4nP2YZJFJr",
+					"display_url": "pic.twitter.com/4nP2YZJFJr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1290822025775214592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1290822016245698600,
+					"id_str": "1290822016245698560",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/EenryOKUEAAjcxc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EenryOKUEAAjcxc.jpg",
+					"url": "https://t.co/4nP2YZJFJr",
+					"display_url": "pic.twitter.com/4nP2YZJFJr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1290822025775214592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8121423,
+			"friends_count": 50,
+			"listed_count": 7989,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 978,
+		"favorite_count": 6867,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "💛 The 2nd runner of STATION's project, celebrating #BoA's 20th anniversary, is BOL4!\n\n💿 #BOL4's '#Atlantis_Princess' will be released on August 7 at 6PM KST!\n\n🎶 Stay tuned for the 'Atlantis Princess' which will be reborn with BOL4's unique voice!\n\n#Our_Beloved_BoA https://t.co/4nP2YZJFJr"
+	},
+	{
+		"created_at": "Wed Aug 05 15:10:11 +0000 2020",
+		"id": 1291028735798345700,
+		"id_str": "1291028735798345730",
+		"full_text": "스엠 마케킹툴로 자동작성하고 반응안보는 모양이네. 에휴.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스엠 마케킹툴로 자동작성하고 반응안보는 모양이네. 에휴."
+	},
+	{
+		"created_at": "Wed Aug 05 15:09:48 +0000 2020",
+		"id": 1291026424359530500,
+		"id_str": "1291028638125547521",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/CL8oqohBR2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "아틀란티스소녀",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "Atlantis_Princess",
+					"indices": [
+						183,
+						201
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290198982170251300,
+					"id_str": "1290198982170251264",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee1I3XUEAAoNzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eee1I3XUEAAoNzc.jpg",
+					"url": "https://t.co/CL8oqohBR2",
+					"display_url": "pic.twitter.com/CL8oqohBR2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1291026424359530499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290198982170251300,
+					"id_str": "1290198982170251264",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee1I3XUEAAoNzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eee1I3XUEAAoNzc.jpg",
+					"url": "https://t.co/CL8oqohBR2",
+					"display_url": "pic.twitter.com/CL8oqohBR2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1291026424359530499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8121423,
+			"friends_count": 50,
+			"listed_count": 7989,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 2078,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/CL8oqohBR2"
+	},
+	{
+		"created_at": "Wed Aug 05 15:09:37 +0000 2020",
+		"id": 1291028592596357000,
+		"id_str": "1291028592596357125",
+		"full_text": "@SMTOWNGLOBAL 민감한 트윗 좀 풀라고요.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1291026174278131700,
+		"in_reply_to_status_id_str": "1291026174278131713",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@SMTOWNGLOBAL 민감한 트윗 좀 풀라고요."
+	},
+	{
+		"created_at": "Wed Aug 05 15:09:17 +0000 2020",
+		"id": 1291026174278131700,
+		"id_str": "1291028507724664832",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/5clFcNZ0Dz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "아틀란티스소녀",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "Atlantis_Princess",
+					"indices": [
+						183,
+						201
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290198981037891600,
+					"id_str": "1290198981037891584",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee1IzJVoAA0bbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eee1IzJVoAA0bbV.jpg",
+					"url": "https://t.co/5clFcNZ0Dz",
+					"display_url": "pic.twitter.com/5clFcNZ0Dz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1291026174278131713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290198981037891600,
+					"id_str": "1290198981037891584",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Eee1IzJVoAA0bbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eee1IzJVoAA0bbV.jpg",
+					"url": "https://t.co/5clFcNZ0Dz",
+					"display_url": "pic.twitter.com/5clFcNZ0Dz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1291026174278131713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8121423,
+			"friends_count": 50,
+			"listed_count": 7989,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 2103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/5clFcNZ0Dz"
+	},
+	{
+		"created_at": "Wed Aug 05 15:09:07 +0000 2020",
+		"id": 1291016991977820200,
+		"id_str": "1291028466612109313",
+		"full_text": "[SXSW 2020 Official Virtual Showcase]\n새소년과 함께하는 명상의 시간.\n풀 영상은 BeatBites 유튜브에서 확인하세요.\nMeditation time with SE SO NEON\nThe full clip is now available on Beatbites YouTube channel.\nThanks @beatbites.tv @sxsw \n\nhttps://t.co/nybZhiHpGc - @YouTube https://t.co/1lG4tyPkK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beatbites",
+					"name": "beatbites",
+					"id": 863075329,
+					"id_str": "863075329",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"screen_name": "sxsw",
+					"name": "SXSW",
+					"id": 784304,
+					"id_str": "784304",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						233,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nybZhiHpGc",
+					"expanded_url": "https://youtu.be/fhQOVBzOJEo",
+					"display_url": "youtu.be/fhQOVBzOJEo",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291016983576641500,
+					"id_str": "1291016983576641536",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EeqdG0EVAAAWCH3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeqdG0EVAAAWCH3.jpg",
+					"url": "https://t.co/1lG4tyPkK6",
+					"display_url": "pic.twitter.com/1lG4tyPkK6",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1291016991977820161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291016983576641500,
+					"id_str": "1291016983576641536",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EeqdG0EVAAAWCH3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeqdG0EVAAAWCH3.jpg",
+					"url": "https://t.co/1lG4tyPkK6",
+					"display_url": "pic.twitter.com/1lG4tyPkK6",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1291016991977820161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9502,
+			"friends_count": 15,
+			"listed_count": 53,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[SXSW 2020 Official Virtual Showcase]\n새소년과 함께하는 명상의 시간.\n풀 영상은 BeatBites 유튜브에서 확인하세요.\nMeditation time with SE SO NEON\nThe full clip is now available on Beatbites YouTube channel.\nThanks @beatbites.tv @sxsw \n\nhttps://t.co/nybZhiHpGc - @YouTube https://t.co/1lG4tyPkK6"
+	},
+	{
+		"created_at": "Wed Aug 05 15:04:54 +0000 2020",
+		"id": 1290834714689810400,
+		"id_str": "1291027404522008578",
+		"full_text": "아이스크림 도매업자 입장에서 생각해 봅시다. 어차피 냉동창고가 필요한데 그걸 소매점처럼 활용하면 ‘창고도 되고, 돈도 벌고’ 일석이조 아니겠습니까. 인건비만 건질 수 있다면요. 그런데 인건비 문제가 단박에 해결되어 버렸습니다. 바로 무인계산대의 등장입니다.\nhttps://t.co/UckxjIeWGC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UckxjIeWGC",
+					"expanded_url": "https://outstanding.kr/icecream20200805",
+					"display_url": "outstanding.kr/icecream202008…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45514,
+			"friends_count": 442,
+			"listed_count": 117,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 467,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이스크림 도매업자 입장에서 생각해 봅시다. 어차피 냉동창고가 필요한데 그걸 소매점처럼 활용하면 ‘창고도 되고, 돈도 벌고’ 일석이조 아니겠습니까. 인건비만 건질 수 있다면요. 그런데 인건비 문제가 단박에 해결되어 버렸습니다. 바로 무인계산대의 등장입니다.\nhttps://t.co/UckxjIeWGC"
+	},
+	{
 		"created_at": "Wed Aug 05 15:01:44 +0000 2020",
 		"id": 1291026607881089000,
 		"id_str": "1291026607881089025",
