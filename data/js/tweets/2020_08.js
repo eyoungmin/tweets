@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 13:25:11 +0000 2020",
+		"id": 1290997830543319000,
+		"id_str": "1291002313629409280",
+		"full_text": "'더 짠내투어' 조이 활약 모아 보기🐥💚\n\nhttps://t.co/wCRHdc33LM\nhttps://t.co/t9WeB1pqpd\nhttps://t.co/iaCPowIjN4\nhttps://t.co/jmLJZe8gEk\n\n#조이 #JOY #레드벨벳 #RedVelvet #짠내투어 #더짠내투어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "짠내투어",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "더짠내투어",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wCRHdc33LM",
+					"expanded_url": "http://naver.me/5Lf1EODe",
+					"display_url": "naver.me/5Lf1EODe",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/t9WeB1pqpd",
+					"expanded_url": "https://m.tv.naver.com/v/15133684",
+					"display_url": "m.tv.naver.com/v/15133684",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/iaCPowIjN4",
+					"expanded_url": "http://naver.me/5X3exASi",
+					"display_url": "naver.me/5X3exASi",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/jmLJZe8gEk",
+					"expanded_url": "http://naver.me/xqyYBUqr",
+					"display_url": "naver.me/xqyYBUqr",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2994338,
+			"friends_count": 1,
+			"listed_count": 6384,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2109,
+		"favorite_count": 7208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'더 짠내투어' 조이 활약 모아 보기🐥💚\n\nhttps://t.co/wCRHdc33LM\nhttps://t.co/t9WeB1pqpd\nhttps://t.co/iaCPowIjN4\nhttps://t.co/jmLJZe8gEk\n\n#조이 #JOY #레드벨벳 #RedVelvet #짠내투어 #더짠내투어"
+	},
+	{
+		"created_at": "Wed Aug 05 13:08:56 +0000 2020",
+		"id": 1290847004197675000,
+		"id_str": "1290998223469912064",
+		"full_text": "카카오, 다음 웹마스터도구 베타 공개 https://t.co/O1gKqb08hf \nDaum 검색이 나의 웹사이트를 어떻게 분석하고 있는지, Daum 검색 엔진에 최적화(SEO) 되어 있는지를 확인하는 도구\n\n- 수집정보 : Daum 검색 크롤러가 수집한 정보를 기간별 통계 차트로 제공\n- 색인정보 : Daum 검색엔진이 색인...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O1gKqb08hf",
+					"expanded_url": "https://j.mp/3kd0mSh",
+					"display_url": "j.mp/3kd0mSh",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3625,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카카오, 다음 웹마스터도구 베타 공개 https://t.co/O1gKqb08hf \nDaum 검색이 나의 웹사이트를 어떻게 분석하고 있는지, Daum 검색 엔진에 최적화(SEO) 되어 있는지를 확인하는 도구\n\n- 수집정보 : Daum 검색 크롤러가 수집한 정보를 기간별 통계 차트로 제공\n- 색인정보 : Daum 검색엔진이 색인..."
+	},
+	{
 		"created_at": "Wed Aug 05 12:02:14 +0000 2020",
 		"id": 1290959844048953300,
 		"id_str": "1290981438158864384",
