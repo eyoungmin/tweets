@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 15:25:18 +0000 2020",
+		"id": 1291389818820321300,
+		"id_str": "1291394929684611076",
+		"full_text": "🎨 #FANSHIPonly\n\n📸 HAPPY BAMBI DAY 🥳\n✌🏻 https://t.co/xw8uUlxSfH\n\n#밤비 #BAMBI\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd\n#밤비DAY 🐶💚💙💜 https://t.co/5EsSaBeoRB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FANSHIPonly",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "밤비",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "BAMBI",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						105,
+						127
+					]
+				},
+				{
+					"text": "밤비DAY",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xw8uUlxSfH",
+					"expanded_url": "https://bit.ly/30u5CZU",
+					"display_url": "bit.ly/30u5CZU",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291284742327869400,
+					"id_str": "1291284742327869440",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuQobJVoAA6GFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuQobJVoAA6GFK.jpg",
+					"url": "https://t.co/5EsSaBeoRB",
+					"display_url": "pic.twitter.com/5EsSaBeoRB",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1291389818820321280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291284742327869400,
+					"id_str": "1291284742327869440",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuQobJVoAA6GFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuQobJVoAA6GFK.jpg",
+					"url": "https://t.co/5EsSaBeoRB",
+					"display_url": "pic.twitter.com/5EsSaBeoRB",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1291389818820321280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291284742331961300,
+					"id_str": "1291284742331961344",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuQobKUEAAaAfJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuQobKUEAAaAfJ.jpg",
+					"url": "https://t.co/5EsSaBeoRB",
+					"display_url": "pic.twitter.com/5EsSaBeoRB",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1291389818820321280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286339,
+			"friends_count": 0,
+			"listed_count": 1741,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1069,
+		"favorite_count": 3753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎨 #FANSHIPonly\n\n📸 HAPPY BAMBI DAY 🥳\n✌🏻 https://t.co/xw8uUlxSfH\n\n#밤비 #BAMBI\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd\n#밤비DAY 🐶💚💙💜 https://t.co/5EsSaBeoRB"
+	},
+	{
+		"created_at": "Thu Aug 06 15:25:13 +0000 2020",
+		"id": 1291388568334749700,
+		"id_str": "1291394908239138816",
+		"full_text": "🧡 HAPPY BIRTHDAY TO BAMBI 🤎\n\n🐶🎂\n\n청하와 별하랑의 귀여운 친구\n밤비야 생일 축하해 🥳\n\n#밤비 #BAMBI\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#밤비DAY 💚💙💜 https://t.co/qbC5Z7onjf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "밤비",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "BAMBI",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"text": "밤비DAY",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291278124462690300,
+					"id_str": "1291278124462690304",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuKnNrU0AAx_me.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuKnNrU0AAx_me.jpg",
+					"url": "https://t.co/qbC5Z7onjf",
+					"display_url": "pic.twitter.com/qbC5Z7onjf",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1291388568334749702/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291278124462690300,
+					"id_str": "1291278124462690304",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuKnNrU0AAx_me.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuKnNrU0AAx_me.jpg",
+					"url": "https://t.co/qbC5Z7onjf",
+					"display_url": "pic.twitter.com/qbC5Z7onjf",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1291388568334749702/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286339,
+			"friends_count": 0,
+			"listed_count": 1741,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1328,
+		"favorite_count": 4463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧡 HAPPY BIRTHDAY TO BAMBI 🤎\n\n🐶🎂\n\n청하와 별하랑의 귀여운 친구\n밤비야 생일 축하해 🥳\n\n#밤비 #BAMBI\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#밤비DAY 💚💙💜 https://t.co/qbC5Z7onjf"
+	},
+	{
 		"created_at": "Thu Aug 06 15:13:38 +0000 2020",
 		"id": 1291391991847297000,
 		"id_str": "1291391991847297026",
