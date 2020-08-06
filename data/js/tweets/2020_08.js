@@ -1,6 +1,1124 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 01:59:26 +0000 2020",
+		"id": 1291192123568595000,
+		"id_str": "1291192123568594945",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n‘데뷔 D-1’ YG 트레저, ‘BOY’로 보여줄 틴크러쉬..”YG역대 제작비” 뮤비 티저 공개\nhttps://t.co/8k6RANEC6b\n#블랙핑크 #BLACKPINK https://t.co/SpxXSjMpP7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8k6RANEC6b",
+					"expanded_url": "https://yg-life.com/archives/157921?lang=ko",
+					"display_url": "yg-life.com/archives/15792…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291192122591318000,
+					"id_str": "1291192122591318016",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Ees8ZPvWkAAe5aF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ees8ZPvWkAAe5aF.jpg",
+					"url": "https://t.co/SpxXSjMpP7",
+					"display_url": "pic.twitter.com/SpxXSjMpP7",
+					"expanded_url": "https://twitter.com/fromminn/status/1291192123568594945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291192122591318000,
+					"id_str": "1291192122591318016",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Ees8ZPvWkAAe5aF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ees8ZPvWkAAe5aF.jpg",
+					"url": "https://t.co/SpxXSjMpP7",
+					"display_url": "pic.twitter.com/SpxXSjMpP7",
+					"expanded_url": "https://twitter.com/fromminn/status/1291192123568594945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n‘데뷔 D-1’ YG 트레저, ‘BOY’로 보여줄 틴크러쉬..”YG역대 제작비” 뮤비 티저 공개\nhttps://t.co/8k6RANEC6b\n#블랙핑크 #BLACKPINK https://t.co/SpxXSjMpP7"
+	},
+	{
+		"created_at": "Thu Aug 06 01:38:05 +0000 2020",
+		"id": 1291186754095997000,
+		"id_str": "1291186754095996929",
+		"full_text": "티스토리 업데이트 빠릿빠릿하네. 내가 알던 티스토리가 아니네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "티스토리 업데이트 빠릿빠릿하네. 내가 알던 티스토리가 아니네."
+	},
+	{
+		"created_at": "Thu Aug 06 01:37:34 +0000 2020",
+		"id": 1291186623531475000,
+		"id_str": "1291186623531474945",
+		"full_text": "❝ 또한, 노션 등 다른 유용한 소프트웨어의 API 사용이 가능한 상황이 되면 해당 플러그인으로의 교체도 검토할 계획입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1291186622248050700,
+		"in_reply_to_status_id_str": "1291186622248050688",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 또한, 노션 등 다른 유용한 소프트웨어의 API 사용이 가능한 상황이 되면 해당 플러그인으로의 교체도 검토할 계획입니다."
+	},
+	{
+		"created_at": "Thu Aug 06 01:37:34 +0000 2020",
+		"id": 1291186622248050700,
+		"id_str": "1291186622248050688",
+		"full_text": "❝ 에버노트 플러그인\n\n2017년 5월 이후 제작사 SDK 업데이트 및 오류 발생에 대한 지원이 중단되어 원활한 서비스 이용이 어려운 상황입니다. 에버노트 측의 지원이 재개될 때까지 플러그인 유지보수를 중단합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1291186503553491000,
+		"in_reply_to_status_id_str": "1291186503553490944",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 에버노트 플러그인\n\n2017년 5월 이후 제작사 SDK 업데이트 및 오류 발생에 대한 지원이 중단되어 원활한 서비스 이용이 어려운 상황입니다. 에버노트 측의 지원이 재개될 때까지 플러그인 유지보수를 중단합니다."
+	},
+	{
+		"created_at": "Thu Aug 06 01:37:06 +0000 2020",
+		"id": 1291186503553491000,
+		"id_str": "1291186503553490944",
+		"full_text": "[안내] 2020년 하반기 달라지는 티스토리 https://t.co/UZzO1sGjCK\n#티스토리 #TISTORY #블로그 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티스토리",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "TISTORY",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UZzO1sGjCK",
+					"expanded_url": "https://notice.tistory.com/2547",
+					"display_url": "notice.tistory.com/2547",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안내] 2020년 하반기 달라지는 티스토리 https://t.co/UZzO1sGjCK\n#티스토리 #TISTORY #블로그 #minfav"
+	},
+	{
+		"created_at": "Thu Aug 06 01:27:29 +0000 2020",
+		"id": 1291184084450857000,
+		"id_str": "1291184084450856965",
+		"full_text": "johnjkjung/backup-blogpost: backup tistory blog https://t.co/LT7YjDIa8H\n#티스토리 #TISTORY #블로그 #백업 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티스토리",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "TISTORY",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "백업",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LT7YjDIa8H",
+					"expanded_url": "https://github.com/johnjkjung/backup-blogpost",
+					"display_url": "github.com/johnjkjung/bac…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "johnjkjung/backup-blogpost: backup tistory blog https://t.co/LT7YjDIa8H\n#티스토리 #TISTORY #블로그 #백업 #minfav"
+	},
+	{
+		"created_at": "Thu Aug 06 01:18:58 +0000 2020",
+		"id": 1291181942046634000,
+		"id_str": "1291181942046633989",
+		"full_text": "이 시점으로 이후로 쳐다도 안 봤는데 사이트도 열고 스킨도 만들고 개선도 이뤄짐. 그때 백업기능 종료하면 요청해도 안 보내줄 거야 그래서 이 무슨 정책이지 하고 기존 블로그 백업하고 신경 끔.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1291180885056790500,
+		"in_reply_to_status_id_str": "1291180885056790528",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 시점으로 이후로 쳐다도 안 봤는데 사이트도 열고 스킨도 만들고 개선도 이뤄짐. 그때 백업기능 종료하면 요청해도 안 보내줄 거야 그래서 이 무슨 정책이지 하고 기존 블로그 백업하고 신경 끔."
+	},
+	{
+		"created_at": "Thu Aug 06 01:14:46 +0000 2020",
+		"id": 1291180885056790500,
+		"id_str": "1291180885056790528",
+		"full_text": "프로그램이 미덥지 못하다는 것이 아니라 티스토리 정책이 바뀌면 어떻게 될 지 모르니까. 국내 기업의 이런 것을 많이 봐왔으니까. 적어도 유저가 사용자가 내보내기 Export 할 수 있는 서비스를 쓰고 싶음. 국내 법 적용 받아서 표현도 제약되는 곳 말고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1291180405031395300,
+		"in_reply_to_status_id_str": "1291180405031395329",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "프로그램이 미덥지 못하다는 것이 아니라 티스토리 정책이 바뀌면 어떻게 될 지 모르니까. 국내 기업의 이런 것을 많이 봐왔으니까. 적어도 유저가 사용자가 내보내기 Export 할 수 있는 서비스를 쓰고 싶음. 국내 법 적용 받아서 표현도 제약되는 곳 말고."
+	},
+	{
+		"created_at": "Thu Aug 06 01:12:52 +0000 2020",
+		"id": 1291180405031395300,
+		"id_str": "1291180405031395329",
+		"full_text": "블로그 하면서 신경쓰는 것은 SEO나 데이터 주도권이라고 생각하는데 티스토리는 16년 데이터 백업기능 메뉴를 내려서.... 개발자의 노고로 백업 프로그램이 만들어져 있지만 불안해서 못 쓰겠음. https://t.co/iee0hLto52",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iee0hLto52",
+					"expanded_url": "https://neurowhai.tistory.com/297",
+					"display_url": "neurowhai.tistory.com/297",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블로그 하면서 신경쓰는 것은 SEO나 데이터 주도권이라고 생각하는데 티스토리는 16년 데이터 백업기능 메뉴를 내려서.... 개발자의 노고로 백업 프로그램이 만들어져 있지만 불안해서 못 쓰겠음. https://t.co/iee0hLto52"
+	},
+	{
+		"created_at": "Thu Aug 06 01:05:03 +0000 2020",
+		"id": 1291178438041239600,
+		"id_str": "1291178438041239553",
+		"full_text": "그냥 편의상 막는다고 솔직하게 말하자.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1291178249360466000,
+		"in_reply_to_status_id_str": "1291178249360465920",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그냥 편의상 막는다고 솔직하게 말하자."
+	},
+	{
+		"created_at": "Thu Aug 06 01:04:18 +0000 2020",
+		"id": 1291178249360466000,
+		"id_str": "1291178249360465920",
+		"full_text": "❝ 먼저, 쿠키 보안 정책이 변경된 사유를 간략히 말씀드리면,\n\n일관되고 개인화된 안전한 웹사이트 환경을 만들고자\n\n동일하지 않은 도메인으로의 접근은 보안상 제한된다고 합니다.\n\n 자세한 내용은 아래에서 참고하실 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1291177704486768600,
+		"in_reply_to_status_id_str": "1291177704486768640",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 먼저, 쿠키 보안 정책이 변경된 사유를 간략히 말씀드리면,\n\n일관되고 개인화된 안전한 웹사이트 환경을 만들고자\n\n동일하지 않은 도메인으로의 접근은 보안상 제한된다고 합니다.\n\n 자세한 내용은 아래에서 참고하실 수 있습니다."
+	},
+	{
 		"created_at": "Thu Aug 06 00:58:07 +0000 2020",
 		"id": 1291171895023370200,
 		"id_str": "1291176693961564160",
