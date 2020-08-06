@@ -1,6 +1,88 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 14:01:47 +0000 2020",
+		"id": 1291373912152891400,
+		"id_str": "1291373912152891393",
+		"full_text": "적어도 언론은 미디어는 기자는 최소한의 지점을 포기하면 안된다. 직업윤리도 없고 목표도 없이 내던지고 저널리즘을 망각한다면 그것이야말로 자가당착에 빠지는 길이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1291372429093171200,
+		"in_reply_to_status_id_str": "1291372429093171203",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "적어도 언론은 미디어는 기자는 최소한의 지점을 포기하면 안된다. 직업윤리도 없고 목표도 없이 내던지고 저널리즘을 망각한다면 그것이야말로 자가당착에 빠지는 길이다."
+	},
+	{
 		"created_at": "Thu Aug 06 12:41:57 +0000 2020",
 		"id": 1291133167919722500,
 		"id_str": "1291353820014886912",
@@ -951,7 +1033,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Thu Aug 06 12:35:15 +0000 2020",
 		"id": 1290915551535960000,
 		"id_str": "1291352132034076672",
-		"full_text": "곧 강릉과 양양 여행을 가는데, 혹여나 현지인분이나 가보신 분들의 좋았던 곳을 추천해주실 수 있을까요? 저는 기사문, 강릉전집, 청송칼국수정도만 생각하고 있습니다. 양양쪽은 더 정보가 없네오 🤦‍♂️ 여러분들의 피와 살이 담긴 정보 공유해주시면 감사하겠습니다! 🙌",
+		"full_text": "곧 강릉과 양양 여행을 가는데, 혹여나 현지인분이나 가보신 분들의 좋았던 곳을 추천해주실 수 있을까요? 저는 기사문, 강릉전집, 청송칼국수정도만 생각하고 있습니다. 양양쪽은 더 정보가 없네오 🤦♂️ 여러분들의 피와 살이 담긴 정보 공유해주시면 감사하겠습니다! 🙌",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1027,7 +1109,7 @@ Grailbird.data.tweets_2020_08 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "곧 강릉과 양양 여행을 가는데, 혹여나 현지인분이나 가보신 분들의 좋았던 곳을 추천해주실 수 있을까요? 저는 기사문, 강릉전집, 청송칼국수정도만 생각하고 있습니다. 양양쪽은 더 정보가 없네오 🤦‍♂️ 여러분들의 피와 살이 담긴 정보 공유해주시면 감사하겠습니다! 🙌"
+		"text": "곧 강릉과 양양 여행을 가는데, 혹여나 현지인분이나 가보신 분들의 좋았던 곳을 추천해주실 수 있을까요? 저는 기사문, 강릉전집, 청송칼국수정도만 생각하고 있습니다. 양양쪽은 더 정보가 없네오 🤦♂️ 여러분들의 피와 살이 담긴 정보 공유해주시면 감사하겠습니다! 🙌"
 	},
 	{
 		"created_at": "Thu Aug 06 12:34:38 +0000 2020",
