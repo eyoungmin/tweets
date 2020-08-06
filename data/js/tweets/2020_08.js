@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 15:13:38 +0000 2020",
+		"id": 1291391991847297000,
+		"id_str": "1291391991847297026",
+		"full_text": "#서늘한마음썰 #마음썰\n162화_정신과, 무엇이든 물어봤습니다 with 뇌부자들 김지용\nhttps://t.co/7USmI3gmVZ\n\n#서밤 #블블 #봄봄\n#팟캐스트 #Podcast",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서늘한마음썰",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "마음썰",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "서밤",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "블블",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "봄봄",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "Podcast",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7USmI3gmVZ",
+					"expanded_url": "http://kbspodcastad.kbs.co.kr/cgi-bin/podcast.fcgi/kbsaod/I0000-1902/I0000-1902_S000_20200807_PI-1596673298-23-8AA_00_00_99_M3A30012.mp3",
+					"display_url": "kbspodcastad.kbs.co.kr/cgi-bin/podcas…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서늘한마음썰 #마음썰\n162화_정신과, 무엇이든 물어봤습니다 with 뇌부자들 김지용\nhttps://t.co/7USmI3gmVZ\n\n#서밤 #블블 #봄봄\n#팟캐스트 #Podcast"
+	},
+	{
+		"created_at": "Thu Aug 06 15:11:13 +0000 2020",
+		"id": 1291391385451421700,
+		"id_str": "1291391385451421696",
+		"full_text": "와 이걸 다 정리했네... 👍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와 이걸 다 정리했네... 👍"
+	},
+	{
+		"created_at": "Thu Aug 06 15:10:55 +0000 2020",
+		"id": 1291054739937927200,
+		"id_str": "1291391309492584448",
+		"full_text": "LOONA's Baskin Robbins ice creams flavours preferences\n\nWho you match with the most :3 ?\n\n#이달의소녀 #LOONA @loonatheworld https://t.co/ftpQY2pBKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						104,
+						118
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291054127976312800,
+					"id_str": "1291054127976312837",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeq-45vUcAUyEnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeq-45vUcAUyEnI.jpg",
+					"url": "https://t.co/ftpQY2pBKg",
+					"display_url": "pic.twitter.com/ftpQY2pBKg",
+					"expanded_url": "https://twitter.com/bluebettasoul/status/1291054739937927168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 511,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 290,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1996,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291054127976312800,
+					"id_str": "1291054127976312837",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeq-45vUcAUyEnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeq-45vUcAUyEnI.jpg",
+					"url": "https://t.co/ftpQY2pBKg",
+					"display_url": "pic.twitter.com/ftpQY2pBKg",
+					"expanded_url": "https://twitter.com/bluebettasoul/status/1291054739937927168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 511,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 290,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1996,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1038403710747996200,
+			"id_str": "1038403710747996161",
+			"name": "v.",
+			"screen_name": "bluebettasoul",
+			"location": "she/her ㅣ ㅇㄷㅇㅅㄴ ㅣ ㅅㄴㅅㄷ ㅣ ㄹㄷㅂㅂ",
+			"description": "이달소 죽도록 사랑해 ٩( ᐛ )و",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2888,
+			"friends_count": 288,
+			"listed_count": 22,
+			"created_at": "Sat Sep 08 12:28:32 +0000 2018",
+			"favourites_count": 12191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286642016902815744/XQnhc2Cc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286642016902815744/XQnhc2Cc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1038403710747996161/1595594337",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA's Baskin Robbins ice creams flavours preferences\n\nWho you match with the most :3 ?\n\n#이달의소녀 #LOONA @loonatheworld https://t.co/ftpQY2pBKg"
+	},
+	{
+		"created_at": "Thu Aug 06 15:06:27 +0000 2020",
+		"id": 1291388569035055000,
+		"id_str": "1291390185775591428",
+		"full_text": "[#STATION] BOL4 볼빨간사춘기 '아틀란티스 소녀 (Atlantis Princess)' Teaser - Our Beloved BoA #2\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/7iG5fFBp43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						92,
+						108
+					]
+				},
+				{
+					"text": "아틀란티스소녀",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "Atlantis_Princess",
+					"indices": [
+						118,
+						136
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						145,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291387183413092400,
+					"id_str": "1291387183413092352",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Eevt_71UYAMQt0V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eevt_71UYAMQt0V.jpg",
+					"url": "https://t.co/7iG5fFBp43",
+					"display_url": "pic.twitter.com/7iG5fFBp43",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1291388569035055106/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291387183413092400,
+					"id_str": "1291387183413092352",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Eevt_71UYAMQt0V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eevt_71UYAMQt0V.jpg",
+					"url": "https://t.co/7iG5fFBp43",
+					"display_url": "pic.twitter.com/7iG5fFBp43",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1291388569035055106/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22458,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291387183413092352/vid/1280x720/Bvz99s7g8TwRaW2Q.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1291387183413092352/pl/EUJ09Vm3BufzOmcb.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291387183413092352/vid/480x270/5bL4HGJv_B-aCmn7.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291387183413092352/vid/640x360/8Rwy9O4bi7MAGJJp.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8121957,
+			"friends_count": 50,
+			"listed_count": 7994,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 908,
+		"favorite_count": 2507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[#STATION] BOL4 볼빨간사춘기 '아틀란티스 소녀 (Atlantis Princess)' Teaser - Our Beloved BoA #2\n\n#보아 #BoA #Our_Beloved_BoA #아틀란티스소녀 #Atlantis_Princess #볼빨간사춘기 #BOL4 https://t.co/7iG5fFBp43"
+	},
+	{
 		"created_at": "Thu Aug 06 14:37:34 +0000 2020",
 		"id": 1291382916270837800,
 		"id_str": "1291382916270837760",
