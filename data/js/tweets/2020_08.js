@@ -1,6 +1,1754 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 12:41:57 +0000 2020",
+		"id": 1291133167919722500,
+		"id_str": "1291353820014886912",
+		"full_text": "디즈니 OTT ‘디즈니플러스’, 구독자 6천만 돌파 https://t.co/0zE3Q4IY0K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0zE3Q4IY0K",
+					"expanded_url": "http://www.bloter.net/archives/399425",
+					"display_url": "bloter.net/archives/399425",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55040,
+			"friends_count": 9,
+			"listed_count": 2372,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디즈니 OTT ‘디즈니플러스’, 구독자 6천만 돌파 https://t.co/0zE3Q4IY0K"
+	},
+	{
+		"created_at": "Thu Aug 06 12:41:34 +0000 2020",
+		"id": 1291147052886483000,
+		"id_str": "1291353724967743488",
+		"full_text": "실시간 댓글 구현을 위한 설계부터 성능 개선까지 3탄에 걸친 개발 후기입니다.👍\n1탄 이벤트 기반 아키텍처: https://t.co/e9d04zY9fA\n2탄 웹소켓 스트레스 테스트: https://t.co/TKQw3zSlTW\n3탄 Spring의 동시성: https://t.co/KFfypNymkN\n#architecture #spring #java https://t.co/EHEPtyBOgC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "architecture",
+					"indices": [
+						166,
+						179
+					]
+				},
+				{
+					"text": "spring",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "java",
+					"indices": [
+						188,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e9d04zY9fA",
+					"expanded_url": "https://buff.ly/2ENaVLu",
+					"display_url": "buff.ly/2ENaVLu",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/TKQw3zSlTW",
+					"expanded_url": "https://buff.ly/30vbKBh",
+					"display_url": "buff.ly/30vbKBh",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/KFfypNymkN",
+					"expanded_url": "https://buff.ly/3ibGRHM",
+					"display_url": "buff.ly/3ibGRHM",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291147048700584000,
+					"id_str": "1291147048700583936",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EesTZmaXoAAnc2G.png",
+					"media_url_https": "https://pbs.twimg.com/media/EesTZmaXoAAnc2G.png",
+					"url": "https://t.co/EHEPtyBOgC",
+					"display_url": "pic.twitter.com/EHEPtyBOgC",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1291147052886482947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 802,
+							"h": 333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 802,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291147048700584000,
+					"id_str": "1291147048700583936",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EesTZmaXoAAnc2G.png",
+					"media_url_https": "https://pbs.twimg.com/media/EesTZmaXoAAnc2G.png",
+					"url": "https://t.co/EHEPtyBOgC",
+					"display_url": "pic.twitter.com/EHEPtyBOgC",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1291147052886482947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 802,
+							"h": 333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 802,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291147049803690000,
+					"id_str": "1291147049803689984",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EesTZqhXsAA0vwy.png",
+					"media_url_https": "https://pbs.twimg.com/media/EesTZqhXsAA0vwy.png",
+					"url": "https://t.co/EHEPtyBOgC",
+					"display_url": "pic.twitter.com/EHEPtyBOgC",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1291147052886482947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291147049593864200,
+					"id_str": "1291147049593864200",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EesTZpvWAAg60Km.png",
+					"media_url_https": "https://pbs.twimg.com/media/EesTZpvWAAg60Km.png",
+					"url": "https://t.co/EHEPtyBOgC",
+					"display_url": "pic.twitter.com/EHEPtyBOgC",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1291147052886482947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214347436,
+			"id_str": "214347436",
+			"name": "개발자스럽다",
+			"screen_name": "gaeraecom",
+			"location": "Seoul, Korea",
+			"description": "개발자를 위한 다양한 정보를 공유합니다.\n다른 플랫폼에서 정보를 받고 싶다면 아래 링크로 접속해주세요❤️https://t.co/iHkINJk6f2",
+			"url": "https://t.co/BDUu9ojQrw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BDUu9ojQrw",
+							"expanded_url": "https://gaerae.com",
+							"display_url": "gaerae.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iHkINJk6f2",
+							"expanded_url": "http://blog.gaerae.com",
+							"display_url": "blog.gaerae.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3148,
+			"friends_count": 265,
+			"listed_count": 92,
+			"created_at": "Thu Nov 11 05:21:10 +0000 2010",
+			"favourites_count": 1371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277996224046497793/uxFuNBwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277996224046497793/uxFuNBwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214347436/1593533020",
+			"profile_link_color": "282C34",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 81,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실시간 댓글 구현을 위한 설계부터 성능 개선까지 3탄에 걸친 개발 후기입니다.👍\n1탄 이벤트 기반 아키텍처: https://t.co/e9d04zY9fA\n2탄 웹소켓 스트레스 테스트: https://t.co/TKQw3zSlTW\n3탄 Spring의 동시성: https://t.co/KFfypNymkN\n#architecture #spring #java https://t.co/EHEPtyBOgC"
+	},
+	{
+		"created_at": "Thu Aug 06 12:38:56 +0000 2020",
+		"id": 1291168369018896400,
+		"id_str": "1291353059545628674",
+		"full_text": "페이스북이 접근성 개선을 위해 한 작업 https://t.co/kex63LMZrR \n새 테크스택을 만들면서 초기부터 접근성에 대한 고려\n- Linting &amp; Flow : ARIA 강제\n- 폰트 크기 조절 : rems 적용으로 가능하지만, 강제하기 쉽지 않아서 CSS pixel 값에서 자동변환 되도록 \n- Contextual headings : Re...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kex63LMZrR",
+					"expanded_url": "https://j.mp/3gx6LFv",
+					"display_url": "j.mp/3gx6LFv",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북이 접근성 개선을 위해 한 작업 https://t.co/kex63LMZrR \n새 테크스택을 만들면서 초기부터 접근성에 대한 고려\n- Linting &amp; Flow : ARIA 강제\n- 폰트 크기 조절 : rems 적용으로 가능하지만, 강제하기 쉽지 않아서 CSS pixel 값에서 자동변환 되도록 \n- Contextual headings : Re..."
+	},
+	{
+		"created_at": "Thu Aug 06 12:37:53 +0000 2020",
+		"id": 1290900391949869000,
+		"id_str": "1291352795325423617",
+		"full_text": "인터넷 혐오발언을 금지하는 프랑스 '아비아법' \n'아비아법'이 지난 6월 위헌 판결을 받았다. \n한국의 \"n번방 방지법\"도 이대론 안 된다.\n\nhttps://t.co/0OaFleToic BY 오픈넷 #n번방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "n번방",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0OaFleToic",
+					"expanded_url": "https://slownews.kr/77262",
+					"display_url": "slownews.kr/77262",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532161219,
+			"id_str": "532161219",
+			"name": "슬로우뉴스",
+			"screen_name": "slownewskr",
+			"location": "",
+			"description": "Fast is good, slow is better. 느리지만 꼼꼼한 뉴스, 슬로우뉴스입니다. \n기고 문의: editor@slownews.kr",
+			"url": "http://t.co/hUa0sZzIii",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/hUa0sZzIii",
+							"expanded_url": "http://slownews.kr",
+							"display_url": "slownews.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23966,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Wed Mar 21 09:27:25 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532161219/1398608454",
+			"profile_link_color": "947F15",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인터넷 혐오발언을 금지하는 프랑스 '아비아법' \n'아비아법'이 지난 6월 위헌 판결을 받았다. \n한국의 \"n번방 방지법\"도 이대론 안 된다.\n\nhttps://t.co/0OaFleToic BY 오픈넷 #n번방"
+	},
+	{
+		"created_at": "Thu Aug 06 12:37:02 +0000 2020",
+		"id": 1291180953860296700,
+		"id_str": "1291352582141521920",
+		"full_text": "NSFW Filter - 부적절한 이미지를 가려주는 크롬/FF 확장 https://t.co/39gYRk8puV \n- NSFW : Not Safe for Work\n- TensorFlow.js 를 이용하여 웹페이지에서 업무상 부적절한 이미지들을 자동으로 가려주는 플러그인 \n- 로컬에서 모든 걸 처리\n- 일단 모든 이미지를 가린뒤 nsfwjs 로 검사하고 ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/39gYRk8puV",
+					"expanded_url": "https://j.mp/2DDKh7r",
+					"display_url": "j.mp/2DDKh7r",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NSFW Filter - 부적절한 이미지를 가려주는 크롬/FF 확장 https://t.co/39gYRk8puV \n- NSFW : Not Safe for Work\n- TensorFlow.js 를 이용하여 웹페이지에서 업무상 부적절한 이미지들을 자동으로 가려주는 플러그인 \n- 로컬에서 모든 걸 처리\n- 일단 모든 이미지를 가린뒤 nsfwjs 로 검사하고 ..."
+	},
+	{
+		"created_at": "Thu Aug 06 12:36:48 +0000 2020",
+		"id": 1291190014185939000,
+		"id_str": "1291352524641824769",
+		"full_text": "온라인으로 ‘러시아 명품 공연’ 즐겨요…문체부, ‘한-러 온라인 공연주간’ 운영 https://t.co/vQtz9o6iLn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vQtz9o6iLn",
+					"expanded_url": "http://www.bloter.net/archives/399514",
+					"display_url": "bloter.net/archives/399514",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55040,
+			"friends_count": 9,
+			"listed_count": 2372,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온라인으로 ‘러시아 명품 공연’ 즐겨요…문체부, ‘한-러 온라인 공연주간’ 운영 https://t.co/vQtz9o6iLn"
+	},
+	{
+		"created_at": "Thu Aug 06 12:36:42 +0000 2020",
+		"id": 1291194292384305200,
+		"id_str": "1291352500289695747",
+		"full_text": "StoryCreator - 온라인 비디오 편집기  https://t.co/TLUxgFoqW3 \n- After Effect 와 비슷한 기능을 웹브라우저에서 구현한 서비스 \n- 사진/비디오/텍스트/모션그래픽/사운드를 다양한 효과로 묶어서 만들기\n- 팟캐스트/유튜브/이커머스등 소셜미디어용 동영상 편집에 적합\n- 다양한 템플릿 지원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLUxgFoqW3",
+					"expanded_url": "https://j.mp/33vrqGh",
+					"display_url": "j.mp/33vrqGh",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "StoryCreator - 온라인 비디오 편집기  https://t.co/TLUxgFoqW3 \n- After Effect 와 비슷한 기능을 웹브라우저에서 구현한 서비스 \n- 사진/비디오/텍스트/모션그래픽/사운드를 다양한 효과로 묶어서 만들기\n- 팟캐스트/유튜브/이커머스등 소셜미디어용 동영상 편집에 적합\n- 다양한 템플릿 지원"
+	},
+	{
+		"created_at": "Thu Aug 06 12:35:15 +0000 2020",
+		"id": 1290915551535960000,
+		"id_str": "1291352132034076672",
+		"full_text": "곧 강릉과 양양 여행을 가는데, 혹여나 현지인분이나 가보신 분들의 좋았던 곳을 추천해주실 수 있을까요? 저는 기사문, 강릉전집, 청송칼국수정도만 생각하고 있습니다. 양양쪽은 더 정보가 없네오 🤦‍♂️ 여러분들의 피와 살이 담긴 정보 공유해주시면 감사하겠습니다! 🙌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970882143088865300,
+			"id_str": "970882143088865280",
+			"name": "전마",
+			"screen_name": "JeoNMa_FREE",
+			"location": "대한민국 종로구",
+			"description": "남김 없이 기록",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15346,
+			"friends_count": 36,
+			"listed_count": 99,
+			"created_at": "Tue Mar 06 04:41:55 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278332689766993920/aRhQfCDJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278332689766993920/aRhQfCDJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970882143088865280/1520311869",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3446,
+		"favorite_count": 5045,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "곧 강릉과 양양 여행을 가는데, 혹여나 현지인분이나 가보신 분들의 좋았던 곳을 추천해주실 수 있을까요? 저는 기사문, 강릉전집, 청송칼국수정도만 생각하고 있습니다. 양양쪽은 더 정보가 없네오 🤦‍♂️ 여러분들의 피와 살이 담긴 정보 공유해주시면 감사하겠습니다! 🙌"
+	},
+	{
+		"created_at": "Thu Aug 06 12:34:38 +0000 2020",
+		"id": 1291204606748274700,
+		"id_str": "1291351978786746368",
+		"full_text": "구글에 접속하는 사용자의 1/3 이 IPv6 이용 https://t.co/Z24y68xFfd \n- 매년 1월 기준 : 2015년 5%, 2016년 10%, 2017년 15%, 2018년 20%, 2019년 25% 등으로 매년 5%씩 상승\n- 2020년 7월말 33.7%\n- 국가별로는 독일 48%, 인도 47%, 미국 42%, 프랑스 40%, 일본/브라질 34%, 영국 30%, 호주 2...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z24y68xFfd",
+					"expanded_url": "https://j.mp/3i9yn47",
+					"display_url": "j.mp/3i9yn47",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글에 접속하는 사용자의 1/3 이 IPv6 이용 https://t.co/Z24y68xFfd \n- 매년 1월 기준 : 2015년 5%, 2016년 10%, 2017년 15%, 2018년 20%, 2019년 25% 등으로 매년 5%씩 상승\n- 2020년 7월말 33.7%\n- 국가별로는 독일 48%, 인도 47%, 미국 42%, 프랑스 40%, 일본/브라질 34%, 영국 30%, 호주 2..."
+	},
+	{
+		"created_at": "Thu Aug 06 12:33:54 +0000 2020",
+		"id": 1291264114946216000,
+		"id_str": "1291351796036722688",
+		"full_text": "안녕하세요. 아웃스탠딩이 편집에디터를 공개모집합니다. 주 업무는 외부필진과 제휴미디어의 콘텐츠를 소싱 및 관리하는 것이고, 부수적으로는 뉴스레터 제작 및 사이트 운영에 참여하는 것입니다. 리디-아웃스탠딩과 함께 구독경제를 이끌어나갈 분, 꼭 지원해주세요. :) \n\nhttps://t.co/6FuCGgZkss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6FuCGgZkss",
+					"expanded_url": "https://outstanding.kr/oseditorrecruiting20200806",
+					"display_url": "outstanding.kr/oseditorrecrui…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45520,
+			"friends_count": 442,
+			"listed_count": 117,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. 아웃스탠딩이 편집에디터를 공개모집합니다. 주 업무는 외부필진과 제휴미디어의 콘텐츠를 소싱 및 관리하는 것이고, 부수적으로는 뉴스레터 제작 및 사이트 운영에 참여하는 것입니다. 리디-아웃스탠딩과 함께 구독경제를 이끌어나갈 분, 꼭 지원해주세요. :) \n\nhttps://t.co/6FuCGgZkss"
+	},
+	{
+		"created_at": "Thu Aug 06 12:33:36 +0000 2020",
+		"id": 1291270579547332600,
+		"id_str": "1291351717959708674",
+		"full_text": "미국 1위의 음식배달서비스인 도어대쉬가 온라인 편의점인 대쉬마트를 시작한다고 발표. 도어대쉬앱안에서 과자, 아이스크림, 음료 등을 주문해 30분만에 받는 것이 가능 https://t.co/8GNMV7NCj9 이건 마치 배민의 B마트를 따라하는 느낌. https://t.co/OnRXnIgE0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8GNMV7NCj9",
+					"expanded_url": "https://blog.doordash.com/introducing-dashmart-1891ecc0257d",
+					"display_url": "blog.doordash.com/introducing-da…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291270575780851700,
+					"id_str": "1291270575780851712",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuDv0pU8AA5v70.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuDv0pU8AA5v70.jpg",
+					"url": "https://t.co/OnRXnIgE0a",
+					"display_url": "pic.twitter.com/OnRXnIgE0a",
+					"expanded_url": "https://twitter.com/estima7/status/1291270579547332608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 375,
+							"h": 812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 375,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291270575780851700,
+					"id_str": "1291270575780851712",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuDv0pU8AA5v70.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuDv0pU8AA5v70.jpg",
+					"url": "https://t.co/OnRXnIgE0a",
+					"display_url": "pic.twitter.com/OnRXnIgE0a",
+					"expanded_url": "https://twitter.com/estima7/status/1291270579547332608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 375,
+							"h": 812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 375,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369364,
+			"friends_count": 2271,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 1위의 음식배달서비스인 도어대쉬가 온라인 편의점인 대쉬마트를 시작한다고 발표. 도어대쉬앱안에서 과자, 아이스크림, 음료 등을 주문해 30분만에 받는 것이 가능 https://t.co/8GNMV7NCj9 이건 마치 배민의 B마트를 따라하는 느낌. https://t.co/OnRXnIgE0a"
+	},
+	{
+		"created_at": "Thu Aug 06 12:33:02 +0000 2020",
+		"id": 1291281661695365000,
+		"id_str": "1291351575714119686",
+		"full_text": "최근 정혜승 작가를 만나 인터뷰를 진행했습니다. 정 작가는 문화일보 기자, 다음 인터넷 정책과 대외협력 담당자, 카카오 부사장을 거치며 올드미디어와 뉴미디어를 두루 경험했습니다. 그리고 뉴미디어 비서관으로 청와대에 합류해 정부와 국민 간 소통을 이끌었죠.\n\nhttps://t.co/z1oyO8HIUn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z1oyO8HIUn",
+					"expanded_url": "https://outstanding.kr/petition20200806",
+					"display_url": "outstanding.kr/petition202008…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45520,
+			"friends_count": 442,
+			"listed_count": 117,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 정혜승 작가를 만나 인터뷰를 진행했습니다. 정 작가는 문화일보 기자, 다음 인터넷 정책과 대외협력 담당자, 카카오 부사장을 거치며 올드미디어와 뉴미디어를 두루 경험했습니다. 그리고 뉴미디어 비서관으로 청와대에 합류해 정부와 국민 간 소통을 이끌었죠.\n\nhttps://t.co/z1oyO8HIUn"
+	},
+	{
+		"created_at": "Thu Aug 06 12:27:13 +0000 2020",
+		"id": 1291350112791191600,
+		"id_str": "1291350112791191553",
+		"full_text": "손혜주 민초 무시 못참아 😤😤😤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1291271346094309400,
+		"in_reply_to_status_id_str": "1291271346094309376",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "손혜주 민초 무시 못참아 😤😤😤"
+	},
+	{
+		"created_at": "Thu Aug 06 12:24:55 +0000 2020",
+		"id": 1291311821350002700,
+		"id_str": "1291349531687129088",
+		"full_text": "[ENG] [유리한 식탁] EP8-2. 찐친들의 오지는 티키타카 현장 \n\n👉🏻https://t.co/TDhy78u8pw \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TDhy78u8pw",
+					"expanded_url": "https://youtu.be/sSF_BGYqgKA",
+					"display_url": "youtu.be/sSF_BGYqgKA",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541809,
+			"friends_count": 4,
+			"listed_count": 5031,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1740,
+		"favorite_count": 3315,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[ENG] [유리한 식탁] EP8-2. 찐친들의 오지는 티키타카 현장 \n\n👉🏻https://t.co/TDhy78u8pw \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Aug 06 10:17:25 +0000 2020",
 		"id": 1291317447413424000,
 		"id_str": "1291317447413424129",
