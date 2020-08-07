@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 07 03:00:44 +0000 2020",
+		"id": 1291569938130440200,
+		"id_str": "1291569938130440198",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Aug 7) https://t.co/WFqOcUfl6i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WFqOcUfl6i",
+					"expanded_url": "https://nzzl.us/fJ2QmGX",
+					"display_url": "nzzl.us/fJ2QmGX",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Aug 7) https://t.co/WFqOcUfl6i"
+	},
+	{
+		"created_at": "Fri Aug 07 02:27:57 +0000 2020",
+		"id": 1291554656510832600,
+		"id_str": "1291561689775853568",
+		"full_text": "[#레벨업_아슬한_프로젝트]\n\n#레드벨벳 의 첫 유닛 ❤아이린&amp;슬기💛\n#웨이브오리지널 로 돌아온 #아슬한프로젝트 !\n\n5주차 하이라이트 영상!!\n👉 https://t.co/HmHnaoyKf7\n👉 https://t.co/SU7C3p6ZkW\n\n본방사수 매주 수요일 오전 11시 #wavve 에서!!\n\n#RedVelvet #아이린 #슬기 #SMCC_STUDIO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업_아슬한_프로젝트",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "웨이브오리지널",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "아슬한프로젝트",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "wavve",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HmHnaoyKf7",
+					"expanded_url": "https://youtu.be/lMr-NHi8j0U",
+					"display_url": "youtu.be/lMr-NHi8j0U",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/SU7C3p6ZkW",
+					"expanded_url": "https://youtu.be/hF4Gef5sWQs",
+					"display_url": "youtu.be/hF4Gef5sWQs",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n💙슈주 리턴즈4 \n🟢NCT LIFE: DREAM in Wonderland \n♥️레벨업 아슬한 프로젝트",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8756,
+			"friends_count": 0,
+			"listed_count": 29,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업_아슬한_프로젝트]\n\n#레드벨벳 의 첫 유닛 ❤아이린&amp;슬기💛\n#웨이브오리지널 로 돌아온 #아슬한프로젝트 !\n\n5주차 하이라이트 영상!!\n👉 https://t.co/HmHnaoyKf7\n👉 https://t.co/SU7C3p6ZkW\n\n본방사수 매주 수요일 오전 11시 #wavve 에서!!\n\n#RedVelvet #아이린 #슬기 #SMCC_STUDIO"
+	},
+	{
 		"created_at": "Fri Aug 07 01:25:11 +0000 2020",
 		"id": 1291543386625675300,
 		"id_str": "1291545893175517185",
