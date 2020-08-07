@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 07 11:35:06 +0000 2020",
+		"id": 1291699384413876200,
+		"id_str": "1291699384413876226",
+		"full_text": "메일을 채팅형태로 보여주는 스파이크도 있는데 뭐랄까 메신저, 협업툴 그리고 요즘은 웹사이트 고객상담채팅 인터콤 같은 플랫폼을 다 붙이는 추세라서. 메일은 메일로 쓰는 것이 좋지 않나 싶기도 함. 붙여놓긴 했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1291697662283010000,
+		"in_reply_to_status_id_str": "1291697662283010048",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "메일을 채팅형태로 보여주는 스파이크도 있는데 뭐랄까 메신저, 협업툴 그리고 요즘은 웹사이트 고객상담채팅 인터콤 같은 플랫폼을 다 붙이는 추세라서. 메일은 메일로 쓰는 것이 좋지 않나 싶기도 함. 붙여놓긴 했다."
+	},
+	{
+		"created_at": "Fri Aug 07 11:28:15 +0000 2020",
+		"id": 1291697662283010000,
+		"id_str": "1291697662283010048",
+		"full_text": "슈퍼휴먼은 메일 남기면 연락오긴하던데 이것저것 물어보고 컨설팅이 기본인데 돈이 넘 부담되고 결국 메일은 메일이라는 한계가 있어 그 정도 돈을 내는 것은 부의 상징 같은 느낌.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "슈퍼휴먼은 메일 남기면 연락오긴하던데 이것저것 물어보고 컨설팅이 기본인데 돈이 넘 부담되고 결국 메일은 메일이라는 한계가 있어 그 정도 돈을 내는 것은 부의 상징 같은 느낌."
+	},
+	{
+		"created_at": "Fri Aug 07 11:25:13 +0000 2020",
+		"id": 1278156884495626200,
+		"id_str": "1291696895434190848",
+		"full_text": "Hey vs Superhuman vs Gmail https://t.co/RKNOUi5ED8 \n- Hey 8일, Superhuman 9개월, Gmail 15년 사용한 경험으로 정리 \n\n- Hey의 똘똘한 기능\nㅤ→ Label 별로 다른 보기 모드 \nㅤ→ 특정인이 미래에 보낼 메일에 대한 라벨링이 클릭 두번으로 끝 ( 지메일은 검색 필터 창을 여러번 )\nㅤ→ ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RKNOUi5ED8",
+					"expanded_url": "https://j.mp/3gklaVj",
+					"display_url": "j.mp/3gklaVj",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3650,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Hey vs Superhuman vs Gmail https://t.co/RKNOUi5ED8 \n- Hey 8일, Superhuman 9개월, Gmail 15년 사용한 경험으로 정리 \n\n- Hey의 똘똘한 기능\nㅤ→ Label 별로 다른 보기 모드 \nㅤ→ 특정인이 미래에 보낼 메일에 대한 라벨링이 클릭 두번으로 끝 ( 지메일은 검색 필터 창을 여러번 )\nㅤ→ ..."
+	},
+	{
 		"created_at": "Fri Aug 07 10:35:14 +0000 2020",
 		"id": 1291683189908369400,
 		"id_str": "1291684319778365445",
@@ -544,7 +813,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Fri Aug 07 10:31:00 +0000 2020",
 		"id": 1291613592031092700,
 		"id_str": "1291683251950477313",
-		"full_text": "[특집 공감 D-day : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻‍♀️\n공감을 채워주시오💓\n\n진지영😶 아련졍🥺\n과연 어떤 곡일까요?💭\n특별한 선곡🎶  놓치지 마세요🙌\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #오늘밤 #금요일밤12시 #EBS1tv https://t.co/XgGRo2WfYc",
+		"full_text": "[특집 공감 D-day : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻♀️\n공감을 채워주시오💓\n\n진지영😶 아련졍🥺\n과연 어떤 곡일까요?💭\n특별한 선곡🎶  놓치지 마세요🙌\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #오늘밤 #금요일밤12시 #EBS1tv https://t.co/XgGRo2WfYc",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -820,13 +1089,13 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[특집 공감 D-day : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻‍♀️\n공감을 채워주시오💓\n\n진지영😶 아련졍🥺\n과연 어떤 곡일까요?💭\n특별한 선곡🎶  놓치지 마세요🙌\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #오늘밤 #금요일밤12시 #EBS1tv https://t.co/XgGRo2WfYc"
+		"text": "[특집 공감 D-day : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻♀️\n공감을 채워주시오💓\n\n진지영😶 아련졍🥺\n과연 어떤 곡일까요?💭\n특별한 선곡🎶  놓치지 마세요🙌\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #오늘밤 #금요일밤12시 #EBS1tv https://t.co/XgGRo2WfYc"
 	},
 	{
 		"created_at": "Fri Aug 07 10:30:57 +0000 2020",
 		"id": 1290950776286666800,
 		"id_str": "1291683240936263681",
-		"full_text": "[특집 공감 D-2 : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻‍♀️\n공감을 채워주시오💓\n\n여기가 야경 핫플인가요?\n안졍 눈 안에 별있다👀✨\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #금요일밤12시 #EBS1tv \n\n공감사수 해주세요💘 https://t.co/O6sLvbmHLJ",
+		"full_text": "[특집 공감 D-2 : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻♀️\n공감을 채워주시오💓\n\n여기가 야경 핫플인가요?\n안졍 눈 안에 별있다👀✨\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #금요일밤12시 #EBS1tv \n\n공감사수 해주세요💘 https://t.co/O6sLvbmHLJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1095,13 +1364,13 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[특집 공감 D-2 : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻‍♀️\n공감을 채워주시오💓\n\n여기가 야경 핫플인가요?\n안졍 눈 안에 별있다👀✨\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #금요일밤12시 #EBS1tv \n\n공감사수 해주세요💘 https://t.co/O6sLvbmHLJ"
+		"text": "[특집 공감 D-2 : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻♀️\n공감을 채워주시오💓\n\n여기가 야경 핫플인가요?\n안졍 눈 안에 별있다👀✨\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #금요일밤12시 #EBS1tv \n\n공감사수 해주세요💘 https://t.co/O6sLvbmHLJ"
 	},
 	{
 		"created_at": "Fri Aug 07 10:30:55 +0000 2020",
 		"id": 1290841072512319500,
 		"id_str": "1291683232384053249",
-		"full_text": "[특집 공감 D-2 : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻‍♀️\n공감을 채워주시오💓\n\nBOL수록 4랑스러운\n❣️#BOL4❣️의 무대☺️\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #금요일밤12시 #EBS1tv \n\n공감사수 해주세요💘 https://t.co/UUbGV4omvK",
+		"full_text": "[특집 공감 D-2 : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻♀️\n공감을 채워주시오💓\n\nBOL수록 4랑스러운\n❣️#BOL4❣️의 무대☺️\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #금요일밤12시 #EBS1tv \n\n공감사수 해주세요💘 https://t.co/UUbGV4omvK",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1377,7 +1646,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[특집 공감 D-2 : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻‍♀️\n공감을 채워주시오💓\n\nBOL수록 4랑스러운\n❣️#BOL4❣️의 무대☺️\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #금요일밤12시 #EBS1tv \n\n공감사수 해주세요💘 https://t.co/UUbGV4omvK"
+		"text": "[특집 공감 D-2 : 비하인드 컷 📸]\n\n볼빨간사춘기👱🏻♀️\n공감을 채워주시오💓\n\nBOL수록 4랑스러운\n❣️#BOL4❣️의 무대☺️\n\n&lt;EBS 공사 창립 20주년&gt;\nCOVID19 극복을 위한 특집 공연\n네 번째 주인공 #볼빨간사춘기\n\n📺 방송 : #8월7일 #금요일밤12시 #EBS1tv \n\n공감사수 해주세요💘 https://t.co/UUbGV4omvK"
 	},
 	{
 		"created_at": "Fri Aug 07 10:30:53 +0000 2020",
