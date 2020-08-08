@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 11:25:20 +0000 2020",
+		"id": 1292053277786300400,
+		"id_str": "1292059314891493376",
+		"full_text": "#BLACKPINK 4TH ANNIVERSARY\n\n💗V: https://t.co/ng72pSgXcs\n🖤NAVER TV: https://t.co/LHBXh6S0Q0\n💖YouTube: https://t.co/f4JXcscugq\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #BLACKPINK4thANNIVERSARY #YG https://t.co/fYurnQRuqs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "BLACKPINK4thANNIVERSARY",
+					"indices": [
+						159,
+						183
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						184,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ng72pSgXcs",
+					"expanded_url": "http://vlive.tv/video/207049",
+					"display_url": "vlive.tv/video/207049",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/LHBXh6S0Q0",
+					"expanded_url": "http://tv.naver.com/v/15179564",
+					"display_url": "tv.naver.com/v/15179564",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/f4JXcscugq",
+					"expanded_url": "http://youtu.be/784TL-z1P5g",
+					"display_url": "youtu.be/784TL-z1P5g",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292053246136078300,
+					"id_str": "1292053246136078337",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee5LlO7U0AEK1Nd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee5LlO7U0AEK1Nd.jpg",
+					"url": "https://t.co/fYurnQRuqs",
+					"display_url": "pic.twitter.com/fYurnQRuqs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1292053277786300416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292053246136078300,
+					"id_str": "1292053246136078337",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee5LlO7U0AEK1Nd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee5LlO7U0AEK1Nd.jpg",
+					"url": "https://t.co/fYurnQRuqs",
+					"display_url": "pic.twitter.com/fYurnQRuqs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1292053277786300416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4755133,
+			"friends_count": 2,
+			"listed_count": 5253,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1592265711",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19636,
+		"favorite_count": 48163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 4TH ANNIVERSARY\n\n💗V: https://t.co/ng72pSgXcs\n🖤NAVER TV: https://t.co/LHBXh6S0Q0\n💖YouTube: https://t.co/f4JXcscugq\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #BLACKPINK4thANNIVERSARY #YG https://t.co/fYurnQRuqs"
+	},
+	{
 		"created_at": "Sat Aug 08 09:25:12 +0000 2020",
 		"id": 1292022806939488300,
 		"id_str": "1292029079949123585",
