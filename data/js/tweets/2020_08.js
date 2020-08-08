@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 15:18:03 +0000 2020",
+		"id": 1292052862466326500,
+		"id_str": "1292117879391842304",
+		"full_text": "어니스트매뉴얼 https://t.co/EKB8uT57OY 어니스트펀드, 배민, 아이디어스 등의 조직문화 매뉴얼을 소개한 기사. https://t.co/hVdShvbzfx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EKB8uT57OY",
+					"expanded_url": "https://n.news.naver.com/article/009/0004631495",
+					"display_url": "n.news.naver.com/article/009/00…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292052854161596400,
+					"id_str": "1292052854161596417",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee5LOatU4AEjitp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee5LOatU4AEjitp.jpg",
+					"url": "https://t.co/hVdShvbzfx",
+					"display_url": "pic.twitter.com/hVdShvbzfx",
+					"expanded_url": "https://twitter.com/estima7/status/1292052862466326529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292052854161596400,
+					"id_str": "1292052854161596417",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee5LOatU4AEjitp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee5LOatU4AEjitp.jpg",
+					"url": "https://t.co/hVdShvbzfx",
+					"display_url": "pic.twitter.com/hVdShvbzfx",
+					"expanded_url": "https://twitter.com/estima7/status/1292052862466326529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369373,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어니스트매뉴얼 https://t.co/EKB8uT57OY 어니스트펀드, 배민, 아이디어스 등의 조직문화 매뉴얼을 소개한 기사. https://t.co/hVdShvbzfx"
+	},
+	{
+		"created_at": "Sat Aug 08 15:16:26 +0000 2020",
+		"id": 1292074509021806600,
+		"id_str": "1292117471692906497",
+		"full_text": "亲爱的KDG们大家好，我们是大王KDG——新少年乐队！\n非常荣幸可以在此向各位粉丝们问好，也非常感谢每一位购买了MD的朋友们。同时也想祝贺所有热爱新少年的大家正式成为KDG的一员。\n我们向各位KDG们承诺，无论何时我们都会坚守初心，和大家一起携手走下去。新少年祝愿大家生活幸福美满。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292074453615034400,
+		"in_reply_to_status_id_str": "1292074453615034374",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9505,
+			"friends_count": 15,
+			"listed_count": 55,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "zh",
+		"text": "亲爱的KDG们大家好，我们是大王KDG——新少年乐队！\n非常荣幸可以在此向各位粉丝们问好，也非常感谢每一位购买了MD的朋友们。同时也想祝贺所有热爱新少年的大家正式成为KDG的一员。\n我们向各位KDG们承诺，无论何时我们都会坚守初心，和大家一起携手走下去。新少年祝愿大家生活幸福美满。"
+	},
+	{
+		"created_at": "Sat Aug 08 15:16:22 +0000 2020",
+		"id": 1292074436112203800,
+		"id_str": "1292117457797185536",
+		"full_text": "親愛なるKDGの皆様私達は大王KDGバンドセソニョンです。\nこのように皆さんにご挨拶する事が出来て、とても光栄で喜ばしく思っております。GOODSをご購入頂きました全ての方に感謝すると共に、セソニョンを愛する気持ちで一つにまとまり、正式なKDGになられたことを心からお祝い申し上げます。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292074373101179000,
+		"in_reply_to_status_id_str": "1292074373101178880",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9505,
+			"friends_count": 15,
+			"listed_count": 55,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "親愛なるKDGの皆様私達は大王KDGバンドセソニョンです。\nこのように皆さんにご挨拶する事が出来て、とても光栄で喜ばしく思っております。GOODSをご購入頂きました全ての方に感謝すると共に、セソニョンを愛する気持ちで一つにまとまり、正式なKDGになられたことを心からお祝い申し上げます。"
+	},
+	{
+		"created_at": "Sat Aug 08 15:16:19 +0000 2020",
+		"id": 1292074373101179000,
+		"id_str": "1292117444060823553",
+		"full_text": "My beloved KDG!Thank you for loving our merch and congrats for becoming official members of KDG.We're so glad to see you all come together under the love for SESONEON.We'll always remember where we came from and promise to keep doing our best. Sending loads of happiness your way.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292074130959868000,
+		"in_reply_to_status_id_str": "1292074130959867904",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9505,
+			"friends_count": 15,
+			"listed_count": 55,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My beloved KDG!Thank you for loving our merch and congrats for becoming official members of KDG.We're so glad to see you all come together under the love for SESONEON.We'll always remember where we came from and promise to keep doing our best. Sending loads of happiness your way."
+	},
+	{
+		"created_at": "Sat Aug 08 15:16:16 +0000 2020",
+		"id": 1292074130959868000,
+		"id_str": "1292117429703729152",
+		"full_text": "시간이 지나도 저희는 초심을 잃지 않고 열심히 달릴 것을 코딱지 여러분께 약속합니다. 새소년 안에서 언제나 행복하시길 기원합니다. \n\nFROM.SESONEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292074005831118800,
+		"in_reply_to_status_id_str": "1292074005831118850",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9505,
+			"friends_count": 15,
+			"listed_count": 55,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "시간이 지나도 저희는 초심을 잃지 않고 열심히 달릴 것을 코딱지 여러분께 약속합니다. 새소년 안에서 언제나 행복하시길 기원합니다. \n\nFROM.SESONEON"
+	},
+	{
 		"created_at": "Sat Aug 08 14:25:11 +0000 2020",
 		"id": 1292097253243367400,
 		"id_str": "1292104574447353859",
