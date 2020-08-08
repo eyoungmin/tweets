@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 05:27:57 +0000 2020",
+		"id": 1291968677974118400,
+		"id_str": "1291969376007135235",
+		"full_text": "#에스크얼루어 HOXY... 본인이 곰돌이인 거 알고 있나요? #레드벨벳 #슬기 에게 ‘이거 알아요?’ 라는 주제의 질문을 멘션에 남겨주세요!(DM X, ~8/9일 까지)\n*재치있는 질문일 수록 채택될 확률 UP!\nLeave a Mention with a question to find out if #RedVelvet #SEULGI , knows this?\n@RVsmtown https://t.co/kXcZDzeQhm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에스크얼루어",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						178,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						200,
+						209
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291968602870911000,
+					"id_str": "1291968602870910977",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1291968602870910977/pu/img/c6naNwN1-7n6ksXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1291968602870910977/pu/img/c6naNwN1-7n6ksXJ.jpg",
+					"url": "https://t.co/kXcZDzeQhm",
+					"display_url": "pic.twitter.com/kXcZDzeQhm",
+					"expanded_url": "https://twitter.com/allurekorea/status/1291968677974118408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291968602870911000,
+					"id_str": "1291968602870910977",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1291968602870910977/pu/img/c6naNwN1-7n6ksXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1291968602870910977/pu/img/c6naNwN1-7n6ksXJ.jpg",
+					"url": "https://t.co/kXcZDzeQhm",
+					"display_url": "pic.twitter.com/kXcZDzeQhm",
+					"expanded_url": "https://twitter.com/allurekorea/status/1291968677974118408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 11520,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291968602870910977/pu/vid/320x400/kkKsc7MyGfAyLNuV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291968602870910977/pu/vid/720x900/Lq5eI9ww_JKcp04b.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1291968602870910977/pu/pl/MgSET3CrRR-423kD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291968602870910977/pu/vid/360x450/XGABGieJfU34YT4U.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/arFVZMPfxh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arFVZMPfxh",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36052,
+			"friends_count": 1,
+			"listed_count": 278,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1594881527",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#에스크얼루어 HOXY... 본인이 곰돌이인 거 알고 있나요? #레드벨벳 #슬기 에게 ‘이거 알아요?’ 라는 주제의 질문을 멘션에 남겨주세요!(DM X, ~8/9일 까지)\n*재치있는 질문일 수록 채택될 확률 UP!\nLeave a Mention with a question to find out if #RedVelvet #SEULGI , knows this?\n@RVsmtown https://t.co/kXcZDzeQhm"
+	},
+	{
 		"created_at": "Sat Aug 08 04:50:54 +0000 2020",
 		"id": 1291960051008024600,
 		"id_str": "1291960051008024577",
