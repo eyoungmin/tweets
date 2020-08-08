@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 00:25:16 +0000 2020",
+		"id": 1291887057510400000,
+		"id_str": "1291893203667423232",
+		"full_text": "#BLACKPINK '24/365 with BLACKPINK' EP.6\n\n🎬https://t.co/vO5tXuKzVL\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #24_365_WITH_BLACKPINK #EP6 #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "24_365_WITH_BLACKPINK",
+					"indices": [
+						100,
+						122
+					]
+				},
+				{
+					"text": "EP6",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vO5tXuKzVL",
+					"expanded_url": "https://youtu.be/2Ccv0YfDLBc",
+					"display_url": "youtu.be/2Ccv0YfDLBc",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6465892,
+			"friends_count": 38,
+			"listed_count": 6580,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14046,
+		"favorite_count": 35842,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK '24/365 with BLACKPINK' EP.6\n\n🎬https://t.co/vO5tXuKzVL\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #24_365_WITH_BLACKPINK #EP6 #YOUTUBE #YG"
+	},
+	{
 		"created_at": "Fri Aug 07 23:25:19 +0000 2020",
 		"id": 1291870751021101000,
 		"id_str": "1291878114696585216",
