@@ -1,6 +1,3187 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 15:47:39 +0000 2020",
+		"id": 1292125328416977000,
+		"id_str": "1292125328416976896",
+		"full_text": "잘된 스타트업의 그럴듯한 조직문화 매뉴얼. 할 말은 많지만 할 수 없는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 937,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "잘된 스타트업의 그럴듯한 조직문화 매뉴얼. 할 말은 많지만 할 수 없는."
+	},
+	{
+		"created_at": "Sat Aug 08 15:41:36 +0000 2020",
+		"id": 1291541274214846500,
+		"id_str": "1292123805800755200",
+		"full_text": "&gt;&gt;열일하는 경기도천년바탕체&lt;&lt;\n요조님의 인터뷰 영상 자막에 낯익은 서체가 나와서 혹시 ? 하고 찾아보니 이 서체였네요\n\nps. 또 영화 봉오동 전투의 시작화면에도 이 서체가 사용되었습니다\n\n다운로드\nhttps://t.co/UCnwHlEvs3\n\nhttps://t.co/IAvUQRdVel https://t.co/gbke031Qso",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UCnwHlEvs3",
+					"expanded_url": "https://www.gg.go.kr/archives/3734940",
+					"display_url": "gg.go.kr/archives/37349…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/IAvUQRdVel",
+					"expanded_url": "https://www.youtube.com/watch?time_continue=6&v=iQhTeIRcgik&feature=emb_logo",
+					"display_url": "youtube.com/watch?time_con…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291541017712160800,
+					"id_str": "1291541017712160770",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eex5tnWUcAIhlHM.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eex5tnWUcAIhlHM.png",
+					"url": "https://t.co/gbke031Qso",
+					"display_url": "pic.twitter.com/gbke031Qso",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1291541274214846467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1406,
+							"h": 952,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 813,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291541017712160800,
+					"id_str": "1291541017712160770",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eex5tnWUcAIhlHM.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eex5tnWUcAIhlHM.png",
+					"url": "https://t.co/gbke031Qso",
+					"display_url": "pic.twitter.com/gbke031Qso",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1291541274214846467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1406,
+							"h": 952,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 813,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1291541017716338700,
+					"id_str": "1291541017716338689",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eex5tnXUMAEubqg.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eex5tnXUMAEubqg.png",
+					"url": "https://t.co/gbke031Qso",
+					"display_url": "pic.twitter.com/gbke031Qso",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1291541274214846467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1430,
+							"h": 684,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 325,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 574,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865973278493466600,
+			"id_str": "865973278493466624",
+			"name": "윤고선",
+			"screen_name": "chaeumbooks",
+			"location": "대한민국 서울",
+			"description": "단짝 친구 처럼 편집&디자인 관련 알짜 정보와 노하우를 무한으로 공유합니다.  (๑˃̵ᴗ˂̵)و \n강의상담  https://t.co/fLCq1jJjYr",
+			"url": "https://t.co/RcSO0Ujw13",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RcSO0Ujw13",
+							"expanded_url": "http://blog.naver.com/midorisoo",
+							"display_url": "blog.naver.com/midorisoo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLCq1jJjYr",
+							"expanded_url": "http://open.kakao.com/o/spFkrZeb",
+							"display_url": "open.kakao.com/o/spFkrZeb",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7501,
+			"friends_count": 33,
+			"listed_count": 34,
+			"created_at": "Sat May 20 16:51:33 +0000 2017",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256583707843899392/D5ARDaYZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256583707843899392/D5ARDaYZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865973278493466624/1573567837",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&gt;&gt;열일하는 경기도천년바탕체&lt;&lt;\n요조님의 인터뷰 영상 자막에 낯익은 서체가 나와서 혹시 ? 하고 찾아보니 이 서체였네요\n\nps. 또 영화 봉오동 전투의 시작화면에도 이 서체가 사용되었습니다\n\n다운로드\nhttps://t.co/UCnwHlEvs3\n\nhttps://t.co/IAvUQRdVel https://t.co/gbke031Qso"
+	},
+	{
+		"created_at": "Sat Aug 08 15:39:38 +0000 2020",
+		"id": 1291684899276173300,
+		"id_str": "1292123311032291331",
+		"full_text": "- 트위터, 이미 중국, 프랑스, 러시아, 영국, 미국 소속 계정에 레이블 붙여\n- 앞으로 다른 국가 소속 계정에 이를 확장할 계획\n- 트위터, 정부 소속 계정에 작은 국기 아이콘 사용할 것\n- 정부 레이블은 외무부장관, 대사, 대변인, 주요 외교관 등에 적용될 것 https://t.co/qmEV8VAQtu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291684870406668300,
+					"id_str": "1291684870406668291",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Eez8i8ZWAAMc_vN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eez8i8ZWAAMc_vN.jpg",
+					"url": "https://t.co/qmEV8VAQtu",
+					"display_url": "pic.twitter.com/qmEV8VAQtu",
+					"expanded_url": "https://twitter.com/wkchoi/status/1291684899276173312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291684870406668300,
+					"id_str": "1291684870406668291",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Eez8i8ZWAAMc_vN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eez8i8ZWAAMc_vN.jpg",
+					"url": "https://t.co/qmEV8VAQtu",
+					"display_url": "pic.twitter.com/qmEV8VAQtu",
+					"expanded_url": "https://twitter.com/wkchoi/status/1291684899276173312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1291683544205537300,
+		"in_reply_to_status_id_str": "1291683544205537280",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46079,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 트위터, 이미 중국, 프랑스, 러시아, 영국, 미국 소속 계정에 레이블 붙여\n- 앞으로 다른 국가 소속 계정에 이를 확장할 계획\n- 트위터, 정부 소속 계정에 작은 국기 아이콘 사용할 것\n- 정부 레이블은 외무부장관, 대사, 대변인, 주요 외교관 등에 적용될 것 https://t.co/qmEV8VAQtu"
+	},
+	{
+		"created_at": "Sat Aug 08 15:39:34 +0000 2020",
+		"id": 1291683544205537300,
+		"id_str": "1292123293919531008",
+		"full_text": "트위터, 정부와 국가 소속 미디어 계정에 레이블 붙일 것\n- 또한 이런 계정과 트윗을 추천하거나 부연하지 않을 것이라고 말해\n- 이는 사용자가 그런 국가 소속 계정의 프로필 페이지에 나타나는 레이블을 보고 쉽게 확인할 수 있게 하려는 것\nhttps://t.co/JUa4xCwFgO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JUa4xCwFgO",
+					"expanded_url": "https://www.cnet.com/news/twitter-will-now-label-government-and-state-affiliated-media-accounts/?UniqueID=BE74AF36-D818-11EA-98AE-9DCA4744363C&ServiceType=twitter&ftag=COS-05-10aaa0b&PostType=link&TheTime=2020-08-06T19%3A12%3A17",
+					"display_url": "cnet.com/news/twitter-w…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46079,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터, 정부와 국가 소속 미디어 계정에 레이블 붙일 것\n- 또한 이런 계정과 트윗을 추천하거나 부연하지 않을 것이라고 말해\n- 이는 사용자가 그런 국가 소속 계정의 프로필 페이지에 나타나는 레이블을 보고 쉽게 확인할 수 있게 하려는 것\nhttps://t.co/JUa4xCwFgO"
+	},
+	{
+		"created_at": "Sat Aug 08 15:39:11 +0000 2020",
+		"id": 1291691934696779800,
+		"id_str": "1292123197840609280",
+		"full_text": "- 틱톡, 금요일 트럼프의 행정명령에 충격 받았고 법정으로 갈 수도 있다고 경고\n- 성명에서 트럼프의 행정명령은 정당한 절차 없이 나온 것이라고 비난\n- 그리고 이 행정명령은 글로벌 비즈니스가 법 준수를 약속하는 미국의 신뢰를 침식하는 위험을 가져올 것이라고 말해\nhttps://t.co/dypmF0pjQE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dypmF0pjQE",
+					"expanded_url": "https://www.forbes.com/sites/isabeltogoh/2020/08/07/tiktok-shocked-over-trumps-executive-order-against-the-app-warns-it-might-go-to-court/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Gordie/#13f049354704",
+					"display_url": "forbes.com/sites/isabelto…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1291681836435935200,
+		"in_reply_to_status_id_str": "1291681836435935232",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46079,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 틱톡, 금요일 트럼프의 행정명령에 충격 받았고 법정으로 갈 수도 있다고 경고\n- 성명에서 트럼프의 행정명령은 정당한 절차 없이 나온 것이라고 비난\n- 그리고 이 행정명령은 글로벌 비즈니스가 법 준수를 약속하는 미국의 신뢰를 침식하는 위험을 가져올 것이라고 말해\nhttps://t.co/dypmF0pjQE"
+	},
+	{
+		"created_at": "Sat Aug 08 15:39:09 +0000 2020",
+		"id": 1291681836435935200,
+		"id_str": "1292123190299254785",
+		"full_text": "트럼프, 틱톡과 위챗 모회사와 거래 금지 행정명령 서명\n- 트럼프 행정부, 미국 회사들이 국가안보 위해 바이트댄스와 텐센트와 거래하는 것 금지시켜\n- 이 행정명령, 45일 후 발효\n- 앞으로 플레이스토어와 앱스토어에서 중국 앱들 금지하는 네트워크 청소 조치 볼 수 있어\nhttps://t.co/xd96Hb2a8i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xd96Hb2a8i",
+					"expanded_url": "https://www.androidcentral.com/trump-admin-announces-initiative-ban-chinese-apps-cloud-platforms?utm_source=ac_tw&utm_medium=tw_card&utm_content=92358&utm_campaign=social",
+					"display_url": "androidcentral.com/trump-admin-an…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46079,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트럼프, 틱톡과 위챗 모회사와 거래 금지 행정명령 서명\n- 트럼프 행정부, 미국 회사들이 국가안보 위해 바이트댄스와 텐센트와 거래하는 것 금지시켜\n- 이 행정명령, 45일 후 발효\n- 앞으로 플레이스토어와 앱스토어에서 중국 앱들 금지하는 네트워크 청소 조치 볼 수 있어\nhttps://t.co/xd96Hb2a8i"
+	},
+	{
+		"created_at": "Sat Aug 08 15:34:57 +0000 2020",
+		"id": 1291716740125057000,
+		"id_str": "1292122133343027205",
+		"full_text": "남녀보다 개인 기질 차이가 더 크다. 그럼에도 남녀 정형화하고 역할 규정한다. 해방은 각 개인을 다양한 창의적 방식으로 표현될 수 있는 가능성의 꾸러미로 보고 사회가 만든 성 역할과 무관하게 인간적 잠재력 발휘하게 하는 것. 문화는 의복. 맞지 않다고 느낄 때 바뀐다.https://t.co/rUnotZKvWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rUnotZKvWx",
+					"expanded_url": "http://m.nautil.us/issue/88/love--sex/gender-is-what-you-make-of-it",
+					"display_url": "m.nautil.us/issue/88/love-…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100921,
+			"friends_count": 2397,
+			"listed_count": 307,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남녀보다 개인 기질 차이가 더 크다. 그럼에도 남녀 정형화하고 역할 규정한다. 해방은 각 개인을 다양한 창의적 방식으로 표현될 수 있는 가능성의 꾸러미로 보고 사회가 만든 성 역할과 무관하게 인간적 잠재력 발휘하게 하는 것. 문화는 의복. 맞지 않다고 느낄 때 바뀐다.https://t.co/rUnotZKvWx"
+	},
+	{
+		"created_at": "Sat Aug 08 15:34:41 +0000 2020",
+		"id": 1291738318929944600,
+		"id_str": "1292122064069865475",
+		"full_text": "트럼프 대통령이 미국회사가 텐센트와 바이트댄스와의 거래를 금지하는 행정명령에 서명한 뒤 텐센트의 주가가 10% 하락 https://t.co/zDUIvU4cqj 그 직전까지 텐센트의 주가는 사상최고치를 찍으며 페이스북의 시총에 근접. US앱스토어를 통해 위챗을 쓰는 사람들도 엄청 많을텐데 큰 타격… https://t.co/p0BpfIJymj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zDUIvU4cqj",
+					"expanded_url": "https://www.wsj.com/articles/tencent-stock-drops-after-firm-is-targeted-by-trump-executive-order-11596777677?mod=djemalertNEWS",
+					"display_url": "wsj.com/articles/tence…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291738310637887500,
+					"id_str": "1291738310637887490",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee0tJkxVoAIb8W3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee0tJkxVoAIb8W3.jpg",
+					"url": "https://t.co/p0BpfIJymj",
+					"display_url": "pic.twitter.com/p0BpfIJymj",
+					"expanded_url": "https://twitter.com/estima7/status/1291738318929944577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 696,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291738310637887500,
+					"id_str": "1291738310637887490",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee0tJkxVoAIb8W3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee0tJkxVoAIb8W3.jpg",
+					"url": "https://t.co/p0BpfIJymj",
+					"display_url": "pic.twitter.com/p0BpfIJymj",
+					"expanded_url": "https://twitter.com/estima7/status/1291738318929944577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 696,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369373,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트럼프 대통령이 미국회사가 텐센트와 바이트댄스와의 거래를 금지하는 행정명령에 서명한 뒤 텐센트의 주가가 10% 하락 https://t.co/zDUIvU4cqj 그 직전까지 텐센트의 주가는 사상최고치를 찍으며 페이스북의 시총에 근접. US앱스토어를 통해 위챗을 쓰는 사람들도 엄청 많을텐데 큰 타격… https://t.co/p0BpfIJymj"
+	},
+	{
+		"created_at": "Sat Aug 08 15:34:25 +0000 2020",
+		"id": 1292121999410520000,
+		"id_str": "1292121999410520065",
+		"full_text": "인질범이 추천한 다큐? 비 오는 주말 방구석 ‘동물 영화제’\nhttps://t.co/luRz3pdzpq\n#동물영화제 #영화제 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동물영화제",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "영화제",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/luRz3pdzpq",
+					"expanded_url": "http://www.hani.co.kr/arti/animalpeople/human_animal/956918.html",
+					"display_url": "hani.co.kr/arti/animalpeo…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 937,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인질범이 추천한 다큐? 비 오는 주말 방구석 ‘동물 영화제’\nhttps://t.co/luRz3pdzpq\n#동물영화제 #영화제 #minfav"
+	},
+	{
+		"created_at": "Sat Aug 08 15:31:24 +0000 2020",
+		"id": 1292121238672830500,
+		"id_str": "1292121238672830466",
+		"full_text": "❝ 올레tv 고객 중 넷플릭스 콘텐츠 이용을 원하는 사람은 기존 요금제에서 추가 결제해야 한다. 기존에 따로 넷플릭스를 이용하고 있던 고객이라면 올레tv에서 아이디와 비밀번호를 입력해 바로 IPTV로 시청할 수 있다.\n\n#올레tv #넷플릭스 #EIDF #EBS국제다큐영화제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올레tv",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "EIDF",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "EBS국제다큐영화제",
+					"indices": [
+						141,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1292121237632630800,
+		"in_reply_to_status_id_str": "1292121237632630784",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 937,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 올레tv 고객 중 넷플릭스 콘텐츠 이용을 원하는 사람은 기존 요금제에서 추가 결제해야 한다. 기존에 따로 넷플릭스를 이용하고 있던 고객이라면 올레tv에서 아이디와 비밀번호를 입력해 바로 IPTV로 시청할 수 있다.\n\n#올레tv #넷플릭스 #EIDF #EBS국제다큐영화제"
+	},
+	{
+		"created_at": "Sat Aug 08 15:31:24 +0000 2020",
+		"id": 1292121237632630800,
+		"id_str": "1292121237632630784",
+		"full_text": "❝ KT가 넷플릭스와 제휴를 맺고 8월 3일부터 자사의 IPTV 올레tv에서 넷플릭스 콘텐츠를 서비스한다\n\n#올레tv #넷플릭스 #EIDF #EBS국제다큐영화제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올레tv",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "EIDF",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "EBS국제다큐영화제",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 937,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ KT가 넷플릭스와 제휴를 맺고 8월 3일부터 자사의 IPTV 올레tv에서 넷플릭스 콘텐츠를 서비스한다\n\n#올레tv #넷플릭스 #EIDF #EBS국제다큐영화제"
+	},
+	{
+		"created_at": "Sat Aug 08 15:29:02 +0000 2020",
+		"id": 1291632668476498000,
+		"id_str": "1292120644033732608",
+		"full_text": "8월 17일부터 23일까지 제17회 EBS국제다큐영화제(EIDF)가 열린다. 상영작은 EBS 1TV와 VOD 서비스 ‘디박스’(D-BOX)를 통해 상영된다. \n\nhttps://t.co/1dUY8QAxBV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1dUY8QAxBV",
+					"expanded_url": "http://www.cine21.com/news/view/?mag_id=95947&utm_source=t.co&utm_medium=referral&utm_campaign=article",
+					"display_url": "cine21.com/news/view/?mag…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130821868,
+			"id_str": "130821868",
+			"name": "cine21_editor",
+			"screen_name": "cine21_editor",
+			"location": "서울, 영등포구, 당산",
+			"description": "창간 25주년을 맞은 씨네21입니다. 📙최신호, 과월호 구입 http://cine21store.com5e 📕e북 👉🏻 리디북스, 교보문고, 모아진, 중앙 조인스, 밀리의 서재 https://t.co/GssGgw8ESm",
+			"url": "https://t.co/2oKMERpkOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2oKMERpkOg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GssGgw8ESm",
+							"expanded_url": "https://www.youtube.com/channel/UCz4vMhiedEWgICIF7NBYiYA",
+							"display_url": "youtube.com/channel/UCz4vM…",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 448504,
+			"friends_count": 545,
+			"listed_count": 1696,
+			"created_at": "Thu Apr 08 12:28:06 +0000 2010",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130821868/1596766895",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8월 17일부터 23일까지 제17회 EBS국제다큐영화제(EIDF)가 열린다. 상영작은 EBS 1TV와 VOD 서비스 ‘디박스’(D-BOX)를 통해 상영된다. \n\nhttps://t.co/1dUY8QAxBV"
+	},
+	{
+		"created_at": "Sat Aug 08 15:27:08 +0000 2020",
+		"id": 1291879541246320600,
+		"id_str": "1292120164490596353",
+		"full_text": "인생 첫 마련한 내 집, 천장 뜯었더니 비빔밥·김치가 와르르 https://t.co/02GaiCENcR 인천 송도의 한 아파트. 천장에서 물방울이 떨어지고 도배지에 곰팡이가 생기기 시작. 뜯어보니 천장 빈 공간에 먹다 남긴 음식쓰레기와 건축폐기물. 입주 한 달 전 에어콘 설치공사를 한 기능공들이 그랬다고. https://t.co/L6eEamiAfE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02GaiCENcR",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003552404",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291879530412388400,
+					"id_str": "1291879530412388352",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2tlpbUMAAlUgW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2tlpbUMAAlUgW.jpg",
+					"url": "https://t.co/L6eEamiAfE",
+					"display_url": "pic.twitter.com/L6eEamiAfE",
+					"expanded_url": "https://twitter.com/estima7/status/1291879541246320640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291879530412388400,
+					"id_str": "1291879530412388352",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2tlpbUMAAlUgW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2tlpbUMAAlUgW.jpg",
+					"url": "https://t.co/L6eEamiAfE",
+					"display_url": "pic.twitter.com/L6eEamiAfE",
+					"expanded_url": "https://twitter.com/estima7/status/1291879541246320640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369373,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1248,
+		"favorite_count": 191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인생 첫 마련한 내 집, 천장 뜯었더니 비빔밥·김치가 와르르 https://t.co/02GaiCENcR 인천 송도의 한 아파트. 천장에서 물방울이 떨어지고 도배지에 곰팡이가 생기기 시작. 뜯어보니 천장 빈 공간에 먹다 남긴 음식쓰레기와 건축폐기물. 입주 한 달 전 에어콘 설치공사를 한 기능공들이 그랬다고. https://t.co/L6eEamiAfE"
+	},
+	{
+		"created_at": "Sat Aug 08 15:26:52 +0000 2020",
+		"id": 1291888621029531600,
+		"id_str": "1292120099428556805",
+		"full_text": "@oneDuckoo 원문자료를 찾아주셔서 감사합니다. 여기에는 한국통계도 있네요! https://t.co/aYE9uLzCL0 https://t.co/dZJc6FvgI3",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oneDuckoo",
+					"name": "oneGeek",
+					"id": 2880328174,
+					"id_str": "2880328174",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aYE9uLzCL0",
+					"expanded_url": "https://nistep.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=6700&item_no=1&page_id=13&block_id=21",
+					"display_url": "nistep.repo.nii.ac.jp/?action=pages_…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291888609818116000,
+					"id_str": "1291888609818116096",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee212I2VAAATI6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee212I2VAAATI6W.jpg",
+					"url": "https://t.co/dZJc6FvgI3",
+					"display_url": "pic.twitter.com/dZJc6FvgI3",
+					"expanded_url": "https://twitter.com/estima7/status/1291888621029531648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 729,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291888609818116000,
+					"id_str": "1291888609818116096",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee212I2VAAATI6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee212I2VAAATI6W.jpg",
+					"url": "https://t.co/dZJc6FvgI3",
+					"display_url": "pic.twitter.com/dZJc6FvgI3",
+					"expanded_url": "https://twitter.com/estima7/status/1291888621029531648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 729,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1291887124254466000,
+		"in_reply_to_status_id_str": "1291887124254466048",
+		"in_reply_to_user_id": 2880328174,
+		"in_reply_to_user_id_str": "2880328174",
+		"in_reply_to_screen_name": "oneDuckoo",
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369373,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@oneDuckoo 원문자료를 찾아주셔서 감사합니다. 여기에는 한국통계도 있네요! https://t.co/aYE9uLzCL0 https://t.co/dZJc6FvgI3"
+	},
+	{
+		"created_at": "Sat Aug 08 15:26:21 +0000 2020",
+		"id": 1291887948959568000,
+		"id_str": "1292119968868270080",
+		"full_text": "비율로 봤을때 상위 10프로 논문 비율에서 미국이 물리학, 지구과학, 임상의학, 기초생명과학에서 / 중국이 화학, 재료과학, 수학, 공학에서 우위 https://t.co/42Dq1i2b0E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291887193863192600,
+					"id_str": "1291887193863192576",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee20juAXgAAT70i.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ee20juAXgAAT70i.png",
+					"url": "https://t.co/42Dq1i2b0E",
+					"display_url": "pic.twitter.com/42Dq1i2b0E",
+					"expanded_url": "https://twitter.com/oneDuckoo/status/1291887948959567872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1802,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291887193863192600,
+					"id_str": "1291887193863192576",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee20juAXgAAT70i.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ee20juAXgAAT70i.png",
+					"url": "https://t.co/42Dq1i2b0E",
+					"display_url": "pic.twitter.com/42Dq1i2b0E",
+					"expanded_url": "https://twitter.com/oneDuckoo/status/1291887948959567872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1802,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1291887124254466000,
+		"in_reply_to_status_id_str": "1291887124254466048",
+		"in_reply_to_user_id": 2880328174,
+		"in_reply_to_user_id_str": "2880328174",
+		"in_reply_to_screen_name": "oneDuckoo",
+		"user": {
+			"id": 2880328174,
+			"id_str": "2880328174",
+			"name": "oneGeek",
+			"screen_name": "oneDuckoo",
+			"location": "Toronto, Ontario",
+			"description": "Tech / Stock / Real Estate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 457,
+			"listed_count": 3,
+			"created_at": "Mon Nov 17 01:15:34 +0000 2014",
+			"favourites_count": 3198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940610692134129665/ulq_qimr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940610692134129665/ulq_qimr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2880328174/1593568612",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비율로 봤을때 상위 10프로 논문 비율에서 미국이 물리학, 지구과학, 임상의학, 기초생명과학에서 / 중국이 화학, 재료과학, 수학, 공학에서 우위 https://t.co/42Dq1i2b0E"
+	},
+	{
+		"created_at": "Sat Aug 08 15:26:15 +0000 2020",
+		"id": 1291887124254466000,
+		"id_str": "1292119943111090178",
+		"full_text": "에스티마님께서 유용한 기사를 올려주셔서 원문자료를 직접 찾아봤는데 자료 자체가 꽤나 자세한것에 놀람.\nhttps://t.co/a7H0xw5uOO https://t.co/trXFbqQGds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a7H0xw5uOO",
+					"expanded_url": "https://nistep.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=6700&item_no=1&page_id=13&block_id=21",
+					"display_url": "nistep.repo.nii.ac.jp/?action=pages_…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/trXFbqQGds",
+					"expanded_url": "https://twitter.com/estima7/status/1291882064925487105",
+					"display_url": "twitter.com/estima7/status…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2880328174,
+			"id_str": "2880328174",
+			"name": "oneGeek",
+			"screen_name": "oneDuckoo",
+			"location": "Toronto, Ontario",
+			"description": "Tech / Stock / Real Estate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 457,
+			"listed_count": 3,
+			"created_at": "Mon Nov 17 01:15:34 +0000 2014",
+			"favourites_count": 3198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940610692134129665/ulq_qimr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940610692134129665/ulq_qimr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2880328174/1593568612",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1291882064925487000,
+		"quoted_status_id_str": "1291882064925487105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/trXFbqQGds",
+			"expanded": "https://twitter.com/estima7/status/1291882064925487105",
+			"display": "twitter.com/estima7/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 07 23:41:00 +0000 2020",
+			"id": 1291882064925487000,
+			"id_str": "1291882064925487105",
+			"full_text": "일본의 문부과학성의 분석에 따르면 중국이 자연과학분야 논문수에서 미국을 제치고 세계 1위가 됐다고. (닛케이) https://t.co/9oXDe6zRQa https://t.co/rwNaUlBP0N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9oXDe6zRQa",
+						"expanded_url": "https://www.nikkei.com/article/DGKKZO62428000X00C20A8MM8000/",
+						"display_url": "nikkei.com/article/DGKKZO…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1291882016917426200,
+						"id_str": "1291882016917426176",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Ee2v2YYUEAAhqCX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ee2v2YYUEAAhqCX.jpg",
+						"url": "https://t.co/rwNaUlBP0N",
+						"display_url": "pic.twitter.com/rwNaUlBP0N",
+						"expanded_url": "https://twitter.com/estima7/status/1291882064925487105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 787,
+								"h": 787,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 787,
+								"h": 787,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1291882016917426200,
+						"id_str": "1291882016917426176",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Ee2v2YYUEAAhqCX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ee2v2YYUEAAhqCX.jpg",
+						"url": "https://t.co/rwNaUlBP0N",
+						"display_url": "pic.twitter.com/rwNaUlBP0N",
+						"expanded_url": "https://twitter.com/estima7/status/1291882064925487105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 787,
+								"h": 787,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 787,
+								"h": 787,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1291882018708394000,
+						"id_str": "1291882018708393985",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Ee2v2fDUEAE9CR0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ee2v2fDUEAE9CR0.jpg",
+						"url": "https://t.co/rwNaUlBP0N",
+						"display_url": "pic.twitter.com/rwNaUlBP0N",
+						"expanded_url": "https://twitter.com/estima7/status/1291882064925487105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 787,
+								"h": 787,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 787,
+								"h": 787,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14060875,
+				"id_str": "14060875",
+				"name": "에스티마",
+				"screen_name": "estima7",
+				"location": "Seoul",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 369373,
+				"friends_count": 2272,
+				"listed_count": 4484,
+				"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+				"favourites_count": 2904,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 74341,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 91,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스티마님께서 유용한 기사를 올려주셔서 원문자료를 직접 찾아봤는데 자료 자체가 꽤나 자세한것에 놀람.\nhttps://t.co/a7H0xw5uOO https://t.co/trXFbqQGds"
+	},
+	{
+		"created_at": "Sat Aug 08 15:26:07 +0000 2020",
+		"id": 1291882064925487000,
+		"id_str": "1292119909338460160",
+		"full_text": "일본의 문부과학성의 분석에 따르면 중국이 자연과학분야 논문수에서 미국을 제치고 세계 1위가 됐다고. (닛케이) https://t.co/9oXDe6zRQa https://t.co/rwNaUlBP0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9oXDe6zRQa",
+					"expanded_url": "https://www.nikkei.com/article/DGKKZO62428000X00C20A8MM8000/",
+					"display_url": "nikkei.com/article/DGKKZO…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291882016917426200,
+					"id_str": "1291882016917426176",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2v2YYUEAAhqCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2v2YYUEAAhqCX.jpg",
+					"url": "https://t.co/rwNaUlBP0N",
+					"display_url": "pic.twitter.com/rwNaUlBP0N",
+					"expanded_url": "https://twitter.com/estima7/status/1291882064925487105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 787,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 787,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291882016917426200,
+					"id_str": "1291882016917426176",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2v2YYUEAAhqCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2v2YYUEAAhqCX.jpg",
+					"url": "https://t.co/rwNaUlBP0N",
+					"display_url": "pic.twitter.com/rwNaUlBP0N",
+					"expanded_url": "https://twitter.com/estima7/status/1291882064925487105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 787,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 787,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291882018708394000,
+					"id_str": "1291882018708393985",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2v2fDUEAE9CR0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2v2fDUEAE9CR0.jpg",
+					"url": "https://t.co/rwNaUlBP0N",
+					"display_url": "pic.twitter.com/rwNaUlBP0N",
+					"expanded_url": "https://twitter.com/estima7/status/1291882064925487105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 787,
+							"h": 787,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 787,
+							"h": 787,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369373,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본의 문부과학성의 분석에 따르면 중국이 자연과학분야 논문수에서 미국을 제치고 세계 1위가 됐다고. (닛케이) https://t.co/9oXDe6zRQa https://t.co/rwNaUlBP0N"
+	},
+	{
+		"created_at": "Sat Aug 08 15:24:51 +0000 2020",
+		"id": 1291898102161371100,
+		"id_str": "1292119590315556865",
+		"full_text": "‘사랑의 불시착’ 씩씩한 여성 덕…일본서 또 달아오르는 한류 붐 https://t.co/506WvHqziD 나리카와 아야 전 아사히신문 기자의 생생한 요즘 일본의 한류붐 이야기. 공감가는 부분이 많음. https://t.co/BnFsq909ZA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/506WvHqziD",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=353&aid=0000037555",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291898085191295000,
+					"id_str": "1291898085191294976",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2-drXVoAAUGJA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2-drXVoAAUGJA.jpg",
+					"url": "https://t.co/BnFsq909ZA",
+					"display_url": "pic.twitter.com/BnFsq909ZA",
+					"expanded_url": "https://twitter.com/estima7/status/1291898102161371137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 559,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291898085191295000,
+					"id_str": "1291898085191294976",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2-drXVoAAUGJA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2-drXVoAAUGJA.jpg",
+					"url": "https://t.co/BnFsq909ZA",
+					"display_url": "pic.twitter.com/BnFsq909ZA",
+					"expanded_url": "https://twitter.com/estima7/status/1291898102161371137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 559,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291898086277566500,
+					"id_str": "1291898086277566466",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2-dvaU0AIUSLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2-dvaU0AIUSLx.jpg",
+					"url": "https://t.co/BnFsq909ZA",
+					"display_url": "pic.twitter.com/BnFsq909ZA",
+					"expanded_url": "https://twitter.com/estima7/status/1291898102161371137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369373,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘사랑의 불시착’ 씩씩한 여성 덕…일본서 또 달아오르는 한류 붐 https://t.co/506WvHqziD 나리카와 아야 전 아사히신문 기자의 생생한 요즘 일본의 한류붐 이야기. 공감가는 부분이 많음. https://t.co/BnFsq909ZA"
+	},
+	{
+		"created_at": "Sat Aug 08 15:24:42 +0000 2020",
+		"id": 1291899341762748400,
+		"id_str": "1292119551706980352",
+		"full_text": "BTS 소속사 빅히트, 상장 초읽기…\"기업가치 5조 이상\" https://t.co/r5GjSp779z \"시장이 예상하는 빅히트의 기업가치는 약 4조~5조원 이상이다. 현재 엔터 대장주인 JYP Ent 시총 1조1536억원을 훌쩍 뛰어 넘는다.\" 에스엠(8067억원) 와이지엔터테인먼트(8035억원) https://t.co/vYIxZB2qUg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r5GjSp779z",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=008&aid=0004452287",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291899331243434000,
+					"id_str": "1291899331243433984",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2_mNRUYAAsxG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2_mNRUYAAsxG9.jpg",
+					"url": "https://t.co/vYIxZB2qUg",
+					"display_url": "pic.twitter.com/vYIxZB2qUg",
+					"expanded_url": "https://twitter.com/estima7/status/1291899341762748417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 647,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291899331243434000,
+					"id_str": "1291899331243433984",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee2_mNRUYAAsxG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee2_mNRUYAAsxG9.jpg",
+					"url": "https://t.co/vYIxZB2qUg",
+					"display_url": "pic.twitter.com/vYIxZB2qUg",
+					"expanded_url": "https://twitter.com/estima7/status/1291899341762748417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 647,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369373,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BTS 소속사 빅히트, 상장 초읽기…\"기업가치 5조 이상\" https://t.co/r5GjSp779z \"시장이 예상하는 빅히트의 기업가치는 약 4조~5조원 이상이다. 현재 엔터 대장주인 JYP Ent 시총 1조1536억원을 훌쩍 뛰어 넘는다.\" 에스엠(8067억원) 와이지엔터테인먼트(8035억원) https://t.co/vYIxZB2qUg"
+	},
+	{
+		"created_at": "Sat Aug 08 15:24:32 +0000 2020",
+		"id": 1291917304192626700,
+		"id_str": "1292119512238546945",
+		"full_text": "Pysa - 파이썬 코드의 보안을 점검해주는 정적 분석 도구 https://t.co/4cA6zExcru \n페이스북이 공개한 오픈소스. 타입체커인 Pyre에 함께 배포.\n파이썬 코드를 정적 분석해서 잘못된 데이터 접근, XSS 와 SQL 인젝션 같은 문제들을 감지.\n페북내에서는 인스타그램 서버가 가장 큰 파이썬 코드여...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4cA6zExcru",
+					"expanded_url": "https://j.mp/31p3p0U",
+					"display_url": "j.mp/31p3p0U",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3678,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Pysa - 파이썬 코드의 보안을 점검해주는 정적 분석 도구 https://t.co/4cA6zExcru \n페이스북이 공개한 오픈소스. 타입체커인 Pyre에 함께 배포.\n파이썬 코드를 정적 분석해서 잘못된 데이터 접근, XSS 와 SQL 인젝션 같은 문제들을 감지.\n페북내에서는 인스타그램 서버가 가장 큰 파이썬 코드여..."
+	},
+	{
+		"created_at": "Sat Aug 08 15:24:22 +0000 2020",
+		"id": 1291911318975287300,
+		"id_str": "1292119469993549824",
+		"full_text": "AI데이터 가공 분야에서 사회적 가치를 창출하다 https://t.co/ByZ16s7JjM 자폐인과 청각장애인, 경력단절여성들을 통해 최고수준의 AI데이터가공서비스를 제공하는 테스트웍스 윤석원 대표. 이렇게 멋진 소셜벤처가 있다니 감탄하며 만났습니다. https://t.co/objj8OV7B8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ByZ16s7JjM",
+					"expanded_url": "http://eiec.kdi.re.kr/publish/columnView.do?cidx=12971&ccode=&pp=20&pg=&sel_year=2020&sel_month=08",
+					"display_url": "eiec.kdi.re.kr/publish/column…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291911310305661000,
+					"id_str": "1291911310305660928",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee3KfewUEAAtLZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee3KfewUEAAtLZe.jpg",
+					"url": "https://t.co/objj8OV7B8",
+					"display_url": "pic.twitter.com/objj8OV7B8",
+					"expanded_url": "https://twitter.com/estima7/status/1291911318975287297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291911310305661000,
+					"id_str": "1291911310305660928",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee3KfewUEAAtLZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee3KfewUEAAtLZe.jpg",
+					"url": "https://t.co/objj8OV7B8",
+					"display_url": "pic.twitter.com/objj8OV7B8",
+					"expanded_url": "https://twitter.com/estima7/status/1291911318975287297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369373,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AI데이터 가공 분야에서 사회적 가치를 창출하다 https://t.co/ByZ16s7JjM 자폐인과 청각장애인, 경력단절여성들을 통해 최고수준의 AI데이터가공서비스를 제공하는 테스트웍스 윤석원 대표. 이렇게 멋진 소셜벤처가 있다니 감탄하며 만났습니다. https://t.co/objj8OV7B8"
+	},
+	{
 		"created_at": "Sat Aug 08 15:18:03 +0000 2020",
 		"id": 1292052862466326500,
 		"id_str": "1292117879391842304",
