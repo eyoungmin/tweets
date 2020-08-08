@@ -1,6 +1,636 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 04:50:54 +0000 2020",
+		"id": 1291960051008024600,
+		"id_str": "1291960051008024577",
+		"full_text": "Spotify CEO talks Covid-19, artist incomes and podcasting (interview)\nhttps://t.co/P7pxzOHCFP\n#스포티파이 #Spotify #다니엘에크 #DanielEk #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "다니엘에크",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "DanielEk",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P7pxzOHCFP",
+					"expanded_url": "https://musically.com/2020/07/30/spotify-ceo-talks-covid-19-artist-incomes-and-podcasting-interview/",
+					"display_url": "musically.com/2020/07/30/spo…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 936,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spotify CEO talks Covid-19, artist incomes and podcasting (interview)\nhttps://t.co/P7pxzOHCFP\n#스포티파이 #Spotify #다니엘에크 #DanielEk #minfav"
+	},
+	{
+		"created_at": "Sat Aug 08 04:40:04 +0000 2020",
+		"id": 1289210999313064000,
+		"id_str": "1291957327277355009",
+		"full_text": "You are an obnoxious greedy little shit Daniel Ek https://t.co/8tZx55LeDe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8tZx55LeDe",
+					"expanded_url": "https://twitter.com/m_millsey/status/1289057242894028800",
+					"display_url": "twitter.com/m_millsey/stat…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275361193,
+			"id_str": "275361193",
+			"name": "David Crosby",
+			"screen_name": "thedavidcrosby",
+			"location": "California",
+			"description": "musician, singer, songwriter. 'Here If You Listen' out now.",
+			"url": "https://t.co/ukoETKDUPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ukoETKDUPu",
+							"expanded_url": "http://smarturl.it/DavidCrosbyHIYL",
+							"display_url": "smarturl.it/DavidCrosbyHIYL",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169320,
+			"friends_count": 652,
+			"listed_count": 1200,
+			"created_at": "Fri Apr 01 03:49:09 +0000 2011",
+			"favourites_count": 151738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 62355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295576713/crosby1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295576713/crosby1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275361193/1545064725",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1289057242894028800,
+		"quoted_status_id_str": "1289057242894028800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8tZx55LeDe",
+			"expanded": "https://twitter.com/m_millsey/status/1289057242894028800",
+			"display": "twitter.com/m_millsey/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 31 04:36:10 +0000 2020",
+			"id": 1289057242894028800,
+			"id_str": "1289057242894028800",
+			"full_text": "Music=product, and must be churned out regularly, says billionaire Daniel Ek. \n\nGo fuck yourself. https://t.co/zJjl3NWjLl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zJjl3NWjLl",
+						"expanded_url": "https://twitter.com/thefader/status/1288945993900339200",
+						"display_url": "twitter.com/thefader/statu…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1475827646,
+				"id_str": "1475827646",
+				"name": "Mike Mills 🌿",
+				"screen_name": "m_millsey",
+				"location": "",
+				"description": "Music, sports, funny, politics--often at the same time. Follow me, don't follow me. No DMs, please.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46288,
+				"friends_count": 236,
+				"listed_count": 348,
+				"created_at": "Sat Jun 01 22:24:50 +0000 2013",
+				"favourites_count": 23127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32496,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071949316388872192/o8iKhBDX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071949316388872192/o8iKhBDX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1475827646/1468011348",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1288945993900339200,
+			"quoted_status_id_str": "1288945993900339200",
+			"quoted_status_permalink": {
+				"url": "https://t.co/zJjl3NWjLl",
+				"expanded": "https://twitter.com/thefader/status/1288945993900339200",
+				"display": "twitter.com/thefader/statu…"
+			},
+			"retweet_count": 672,
+			"favorite_count": 3441,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 454,
+		"favorite_count": 3198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You are an obnoxious greedy little shit Daniel Ek https://t.co/8tZx55LeDe"
+	},
+	{
+		"created_at": "Sat Aug 08 04:35:50 +0000 2020",
+		"id": 1289057242894028800,
+		"id_str": "1291956261743816706",
+		"full_text": "Music=product, and must be churned out regularly, says billionaire Daniel Ek. \n\nGo fuck yourself. https://t.co/zJjl3NWjLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zJjl3NWjLl",
+					"expanded_url": "https://twitter.com/thefader/status/1288945993900339200",
+					"display_url": "twitter.com/thefader/statu…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1475827646,
+			"id_str": "1475827646",
+			"name": "Mike Mills 🌿",
+			"screen_name": "m_millsey",
+			"location": "",
+			"description": "Music, sports, funny, politics--often at the same time. Follow me, don't follow me. No DMs, please.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46288,
+			"friends_count": 236,
+			"listed_count": 348,
+			"created_at": "Sat Jun 01 22:24:50 +0000 2013",
+			"favourites_count": 23127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071949316388872192/o8iKhBDX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071949316388872192/o8iKhBDX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1475827646/1468011348",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288945993900339200,
+		"quoted_status_id_str": "1288945993900339200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zJjl3NWjLl",
+			"expanded": "https://twitter.com/thefader/status/1288945993900339200",
+			"display": "twitter.com/thefader/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 30 21:14:07 +0000 2020",
+			"id": 1288945993900339200,
+			"id_str": "1288945993900339200",
+			"full_text": "Spotify CEO Daniel Ek says working musicians can no longer release music only “once every three to four years.”\n\nhttps://t.co/svS0HPD5CA https://t.co/xXe8uth0Ah",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/svS0HPD5CA",
+						"expanded_url": "https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years?utm_source=tftw",
+						"display_url": "thefader.com/2020/07/30/spo…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1288945927659696000,
+						"id_str": "1288945927659696130",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/EeNBffjXsAIbu9y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeNBffjXsAIbu9y.jpg",
+						"url": "https://t.co/xXe8uth0Ah",
+						"display_url": "pic.twitter.com/xXe8uth0Ah",
+						"expanded_url": "https://twitter.com/thefader/status/1288945993900339200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1288945927659696000,
+						"id_str": "1288945927659696130",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/EeNBffjXsAIbu9y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeNBffjXsAIbu9y.jpg",
+						"url": "https://t.co/xXe8uth0Ah",
+						"display_url": "pic.twitter.com/xXe8uth0Ah",
+						"expanded_url": "https://twitter.com/thefader/status/1288945993900339200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18038269,
+				"id_str": "18038269",
+				"name": "The FADER",
+				"screen_name": "thefader",
+				"location": "New York, NY",
+				"description": "Look ahead. Instagram: https://t.co/BJ1Y98z78z Mags & merch: https://t.co/GGu06qE913",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BJ1Y98z78z",
+								"expanded_url": "http://instagram.com/thefader",
+								"display_url": "instagram.com/thefader",
+								"indices": [
+									23,
+									46
+								]
+							},
+							{
+								"url": "https://t.co/GGu06qE913",
+								"expanded_url": "http://shop.thefader.com",
+								"display_url": "shop.thefader.com",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 674076,
+				"friends_count": 1966,
+				"listed_count": 7806,
+				"created_at": "Thu Dec 11 02:25:05 +0000 2008",
+				"favourites_count": 32503,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 128410,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986728617483776000/aLJhitmF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986728617483776000/aLJhitmF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18038269/1576170392",
+				"profile_link_color": "006DA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 346,
+			"favorite_count": 1065,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 672,
+		"favorite_count": 3441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Music=product, and must be churned out regularly, says billionaire Daniel Ek. \n\nGo fuck yourself. https://t.co/zJjl3NWjLl"
+	},
+	{
 		"created_at": "Sat Aug 08 03:25:11 +0000 2020",
 		"id": 1291932195141980200,
 		"id_str": "1291938479295930368",
