@@ -1,6 +1,1235 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 15:19:19 +0000 2020",
+		"id": 1291716691727016000,
+		"id_str": "1292480585194070016",
+		"full_text": "레아X한잔의 룰루랄라 \n\n오늘은 레아에서의 한잔의 룰루랄라 팝업 마지막 날이기도 하지만 레아가 공식적인 영업을 마치는 날이기도 합니다. 가게가 나갈 때까지 제가 맡아 운영하기로 했었는데.. 맡자마자 나가버렸네요. 하하.. 두 분 사장님과 스텝분들, 7년 동안 수고 많으셨습니다. https://t.co/d40NfYEq8Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291716683166490600,
+					"id_str": "1291716683166490625",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee0ZesKVoAEBrPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee0ZesKVoAEBrPU.jpg",
+					"url": "https://t.co/d40NfYEq8Y",
+					"display_url": "pic.twitter.com/d40NfYEq8Y",
+					"expanded_url": "https://twitter.com/ruloorala/status/1291716691727015937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1084,
+							"h": 816,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1084,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291716683166490600,
+					"id_str": "1291716683166490625",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee0ZesKVoAEBrPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee0ZesKVoAEBrPU.jpg",
+					"url": "https://t.co/d40NfYEq8Y",
+					"display_url": "pic.twitter.com/d40NfYEq8Y",
+					"expanded_url": "https://twitter.com/ruloorala/status/1291716691727015937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1084,
+							"h": 816,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1084,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291716683170590700,
+					"id_str": "1291716683170590722",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee0ZesLUMAIYQyV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee0ZesLUMAIYQyV.jpg",
+					"url": "https://t.co/d40NfYEq8Y",
+					"display_url": "pic.twitter.com/d40NfYEq8Y",
+					"expanded_url": "https://twitter.com/ruloorala/status/1291716691727015937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1085,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10247,
+			"friends_count": 4500,
+			"listed_count": 226,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레아X한잔의 룰루랄라 \n\n오늘은 레아에서의 한잔의 룰루랄라 팝업 마지막 날이기도 하지만 레아가 공식적인 영업을 마치는 날이기도 합니다. 가게가 나갈 때까지 제가 맡아 운영하기로 했었는데.. 맡자마자 나가버렸네요. 하하.. 두 분 사장님과 스텝분들, 7년 동안 수고 많으셨습니다. https://t.co/d40NfYEq8Y"
+	},
+	{
+		"created_at": "Sun Aug 09 15:18:12 +0000 2020",
+		"id": 1292480303336796200,
+		"id_str": "1292480303336796161",
+		"full_text": "❝ “틱톡을 미국 기업에 매각하라는 트럼프 대통령의 원칙이 이상하지만 인수 수익의 큰 부분을 미국 재무부에 지불해야 한다는 원칙은 배로 이상하다”고 지적하며 “결국 MS가 모든 일을 처리해야 할 것”이라고 말했다.\n\n#틱톡 #TIKTOK #마이크로소프트 #MS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "틱톡",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "TIKTOK",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "마이크로소프트",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "MS",
+					"indices": [
+						142,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1292479862473539600,
+		"in_reply_to_status_id_str": "1292479862473539584",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ “틱톡을 미국 기업에 매각하라는 트럼프 대통령의 원칙이 이상하지만 인수 수익의 큰 부분을 미국 재무부에 지불해야 한다는 원칙은 배로 이상하다”고 지적하며 “결국 MS가 모든 일을 처리해야 할 것”이라고 말했다.\n\n#틱톡 #TIKTOK #마이크로소프트 #MS"
+	},
+	{
+		"created_at": "Sun Aug 09 15:16:26 +0000 2020",
+		"id": 1292479862473539600,
+		"id_str": "1292479862473539584",
+		"full_text": "빌게이츠 \"MS의 틱톡 인수는 독이 든 성배” - 지디넷코리아\nhttps://t.co/CJyos5DL4h\n#빌게이츠 #MS #마이크로소프트\n#틱톡 #TIKTOK #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빌게이츠",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "MS",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "마이크로소프트",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "TIKTOK",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CJyos5DL4h",
+					"expanded_url": "https://zdnet.co.kr/view/?no=20200809113506",
+					"display_url": "zdnet.co.kr/view/?no=20200…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌게이츠 \"MS의 틱톡 인수는 독이 든 성배” - 지디넷코리아\nhttps://t.co/CJyos5DL4h\n#빌게이츠 #MS #마이크로소프트\n#틱톡 #TIKTOK #minfav"
+	},
+	{
+		"created_at": "Sun Aug 09 15:13:20 +0000 2020",
+		"id": 1292479081427042300,
+		"id_str": "1292479081427042304",
+		"full_text": "중국 셀러 중에 판매를 위챗으로만 하는 사람이 꽤 되는 것으로 안다. 상품페이지를 올려놓고 위챗으로만 받는 식. 중국에 공장이 많으니 일부 셀러는 공장에서 떼다 직판을 하기도 하고. https://t.co/rUq2MRNUet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rUq2MRNUet",
+					"expanded_url": "https://twitter.com/wkchoi/status/1292438125105623042",
+					"display_url": "twitter.com/wkchoi/status/…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1292438125105623000,
+		"quoted_status_id_str": "1292438125105623042",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rUq2MRNUet",
+			"expanded": "https://twitter.com/wkchoi/status/1292438125105623042",
+			"display": "twitter.com/wkchoi/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 09 12:30:36 +0000 2020",
+			"id": 1292438125105623000,
+			"id_str": "1292438125105623042",
+			"full_text": "트럼프의 위챗 금지명령, 애플의 중국 비즈니스 황폐시킬 수 있어\n- 애플, 상당한 중국 고객 기반 보유 또한 주요 제조/조립 파트너 중국에 소재해\n- 중국에서 위챗의 두드러짐은 다른 국가와 비교할 수 없을 정도\n- 뉴스 읽기, 택시 호출, 점심 결제 등 전반에 자리잡고 있어\nhttps://t.co/gN90hg8OY0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gN90hg8OY0",
+						"expanded_url": "https://www.theverge.com/2020/8/8/21358941/wechat-ban-apple-china-business-trump-tariffs-trade-manufacturing-impact?scrolla=5eb6d68b7fedc32c19ef33b4",
+						"display_url": "theverge.com/2020/8/8/21358…",
+						"indices": [
+							154,
+							177
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45398722,
+				"id_str": "45398722",
+				"name": "Wan Ki Choi",
+				"screen_name": "wkchoi",
+				"location": "",
+				"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46098,
+				"friends_count": 229,
+				"listed_count": 281,
+				"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38552,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중국 셀러 중에 판매를 위챗으로만 하는 사람이 꽤 되는 것으로 안다. 상품페이지를 올려놓고 위챗으로만 받는 식. 중국에 공장이 많으니 일부 셀러는 공장에서 떼다 직판을 하기도 하고. https://t.co/rUq2MRNUet"
+	},
+	{
+		"created_at": "Sun Aug 09 15:07:10 +0000 2020",
+		"id": 1292312764468191200,
+		"id_str": "1292477527600984066",
+		"full_text": "“K-웹툰 날았다”···네이버웹툰·카카오페이지 거래액 연일 신기록 https://t.co/0xs94Q42qW 네이버웹툰 일본 하루 거래액 30억원을 돌파. 카카오페이지가 일본에서 서비스하는 픽코마도 전년대비 2.5배 성장. 이제 한 5~10년뒤면 네이버와 카카오가 글로벌 콘텐츠 파워하우스가 될 가능성도 있어 보임. https://t.co/je8v5bHjMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0xs94Q42qW",
+					"expanded_url": "https://n.news.naver.com/mnews/article/011/0003780119?sid=105",
+					"display_url": "n.news.naver.com/mnews/article/…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292312757128200200,
+					"id_str": "1292312757128200192",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee83mwtVAAAyrRN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee83mwtVAAAyrRN.jpg",
+					"url": "https://t.co/je8v5bHjMO",
+					"display_url": "pic.twitter.com/je8v5bHjMO",
+					"expanded_url": "https://twitter.com/estima7/status/1292312764468191233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292312757128200200,
+					"id_str": "1292312757128200192",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee83mwtVAAAyrRN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee83mwtVAAAyrRN.jpg",
+					"url": "https://t.co/je8v5bHjMO",
+					"display_url": "pic.twitter.com/je8v5bHjMO",
+					"expanded_url": "https://twitter.com/estima7/status/1292312764468191233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369370,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“K-웹툰 날았다”···네이버웹툰·카카오페이지 거래액 연일 신기록 https://t.co/0xs94Q42qW 네이버웹툰 일본 하루 거래액 30억원을 돌파. 카카오페이지가 일본에서 서비스하는 픽코마도 전년대비 2.5배 성장. 이제 한 5~10년뒤면 네이버와 카카오가 글로벌 콘텐츠 파워하우스가 될 가능성도 있어 보임. https://t.co/je8v5bHjMO"
+	},
+	{
+		"created_at": "Sun Aug 09 15:07:07 +0000 2020",
+		"id": 1292306775379648500,
+		"id_str": "1292477514728710151",
+		"full_text": "전세계 각국별로 넷플릭스 콘텐츠 Top 10 인기순위를 파악할 수 있는 플릭스 패트롤 사이트 https://t.co/QrE7iEhpmo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QrE7iEhpmo",
+					"expanded_url": "https://flixpatrol.com/top10/netflix",
+					"display_url": "flixpatrol.com/top10/netflix",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369370,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전세계 각국별로 넷플릭스 콘텐츠 Top 10 인기순위를 파악할 수 있는 플릭스 패트롤 사이트 https://t.co/QrE7iEhpmo"
+	},
+	{
+		"created_at": "Sun Aug 09 15:05:44 +0000 2020",
+		"id": 1292322591022096400,
+		"id_str": "1292477167893274626",
+		"full_text": "음악 콘텐츠 다 모았다 …KT, 보는 뮤직 서비스 ‘MU:Z’ 출시 https://t.co/9imEEnECiE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9imEEnECiE",
+					"expanded_url": "http://www.bloter.net/archives/399928",
+					"display_url": "bloter.net/archives/399928",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55053,
+			"friends_count": 9,
+			"listed_count": 2371,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음악 콘텐츠 다 모았다 …KT, 보는 뮤직 서비스 ‘MU:Z’ 출시 https://t.co/9imEEnECiE"
+	},
+	{
+		"created_at": "Sun Aug 09 15:04:55 +0000 2020",
+		"id": 1292330276337533000,
+		"id_str": "1292476962733056000",
+		"full_text": "중국, TLS 1.3과 ESNI를 사용하는 모든 HTTPS 트래픽 차단 https://t.co/Rcryr21Ocu \n중국의 Great Firewall(GFW) 업데이트로 암호화된 HTTPS 접속을 차단 하기 시작.\nTLS 1.1 과 1.2 및 SNI 같은 예전 버전은 가능. SNI를 통해서 어디로 접속하는지 알 수 있기 때문인듯\n하지만, TLS 1.3과 ESNI...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rcryr21Ocu",
+					"expanded_url": "https://j.mp/3adrv2L",
+					"display_url": "j.mp/3adrv2L",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3691,
+			"friends_count": 0,
+			"listed_count": 55,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중국, TLS 1.3과 ESNI를 사용하는 모든 HTTPS 트래픽 차단 https://t.co/Rcryr21Ocu \n중국의 Great Firewall(GFW) 업데이트로 암호화된 HTTPS 접속을 차단 하기 시작.\nTLS 1.1 과 1.2 및 SNI 같은 예전 버전은 가능. SNI를 통해서 어디로 접속하는지 알 수 있기 때문인듯\n하지만, TLS 1.3과 ESNI..."
+	},
+	{
+		"created_at": "Sun Aug 09 15:04:37 +0000 2020",
+		"id": 1292345371780214800,
+		"id_str": "1292476886044405761",
+		"full_text": "Firefox Voice https://t.co/yrkTzxQMOi \n파이어폭스에서 음성 명령이 가능함 (애플의 시리나 구글의 OK Google 이 브라우저 확장으로 깔린 느낌)\n\n현재 베타 서비스 중",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yrkTzxQMOi",
+					"expanded_url": "https://j.mp/31zVKgl",
+					"display_url": "j.mp/31zVKgl",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3691,
+			"friends_count": 0,
+			"listed_count": 55,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Firefox Voice https://t.co/yrkTzxQMOi \n파이어폭스에서 음성 명령이 가능함 (애플의 시리나 구글의 OK Google 이 브라우저 확장으로 깔린 느낌)\n\n현재 베타 서비스 중"
+	},
+	{
 		"created_at": "Sun Aug 09 15:00:11 +0000 2020",
 		"id": 1292356271119585300,
 		"id_str": "1292475770128883712",
