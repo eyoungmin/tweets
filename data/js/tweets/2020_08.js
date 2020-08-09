@@ -1,6 +1,1068 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 15:38:02 +0000 2020",
+		"id": 1292485295804276700,
+		"id_str": "1292485295804276737",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n105]인터뷰/없던 길도 만드는 뉴미디어, '닷페이스' 조소담 대표\nhttps://t.co/4VmB1MIeVB\n팟티: https://t.co/3P6VuCJyZY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4VmB1MIeVB",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1596987214525.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/3P6VuCJyZY",
+					"expanded_url": "https://www.podty.me/episode/14061397",
+					"display_url": "podty.me/episode/140613…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n105]인터뷰/없던 길도 만드는 뉴미디어, '닷페이스' 조소담 대표\nhttps://t.co/4VmB1MIeVB\n팟티: https://t.co/3P6VuCJyZY"
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:50 +0000 2020",
+		"id": 1292312804284752000,
+		"id_str": "1292481220790509568",
+		"full_text": "무언가를 주장하고자 쓴 글이 아니다. 다만, 남영동의 조그만 가게 하나가 닫는 일에 불과하지만, 그 가게가 어떻게 열리고 다시 닫히게 되었는 지에 조금은 더 많은 사람들이 기억해주었으면 하는 마음에서 썼다. 그리고 그곳에서 삶을 꾸려나간 어떤 사람들에 대해서도.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292311980808605700,
+		"in_reply_to_status_id_str": "1292311980808605696",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "무언가를 주장하고자 쓴 글이 아니다. 다만, 남영동의 조그만 가게 하나가 닫는 일에 불과하지만, 그 가게가 어떻게 열리고 다시 닫히게 되었는 지에 조금은 더 많은 사람들이 기억해주었으면 하는 마음에서 썼다. 그리고 그곳에서 삶을 꾸려나간 어떤 사람들에 대해서도."
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:49 +0000 2020",
+		"id": 1292311980808605700,
+		"id_str": "1292481213303726082",
+		"full_text": "다행인지 불행인지 룰사장님이 레아를 맡아 영업을 시작한 첫 날, 가게가 나갔다. 때문에 레아 X 한 잔의 룰루랄라는 2주 만에 종료되었다. 여기까지가 내가 알고 있는 것들이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292310627638063000,
+		"in_reply_to_status_id_str": "1292310627638063105",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다행인지 불행인지 룰사장님이 레아를 맡아 영업을 시작한 첫 날, 가게가 나갔다. 때문에 레아 X 한 잔의 룰루랄라는 2주 만에 종료되었다. 여기까지가 내가 알고 있는 것들이다."
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:42 +0000 2020",
+		"id": 1292310627638063000,
+		"id_str": "1292481187248664576",
+		"full_text": "카페 운영을 그만 두고 팝업 스토어를 연다던지, 공연을 만든다던지, 친환경 페인트 칠한다던지 하며 생계를 유지하던 룰사장 님에게 연락한 것은 두리반의 안종녀 사장이었다. 레아 사장님이 건강이 편찮아 더이상 가게를 운영할 수가 없어 가게가 나갈 때까지만 맡아달라 했다. 그러하겠다 했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292310085079711700,
+		"in_reply_to_status_id_str": "1292310085079711745",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "카페 운영을 그만 두고 팝업 스토어를 연다던지, 공연을 만든다던지, 친환경 페인트 칠한다던지 하며 생계를 유지하던 룰사장 님에게 연락한 것은 두리반의 안종녀 사장이었다. 레아 사장님이 건강이 편찮아 더이상 가게를 운영할 수가 없어 가게가 나갈 때까지만 맡아달라 했다. 그러하겠다 했다."
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:39 +0000 2020",
+		"id": 1292310085079711700,
+		"id_str": "1292481174292459521",
+		"full_text": "2010년 인근의 두리반 농성 당시, 물심으로 도운 것이 룰사장이었다. 앞장 서서 티내며 돕진 않았으나, 농성에 지친 활동가나 예술가들이 눈치 안 보고 쉴 수 있도록 배려했고, 인쇄 등이 필요할 때는 본인 카페의 인쇄기를 제공했다. 자연스레 농성이 끝난 이후로도 아지트처럼 기능하게 되었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292300345503178800,
+		"in_reply_to_status_id_str": "1292300345503178752",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2010년 인근의 두리반 농성 당시, 물심으로 도운 것이 룰사장이었다. 앞장 서서 티내며 돕진 않았으나, 농성에 지친 활동가나 예술가들이 눈치 안 보고 쉴 수 있도록 배려했고, 인쇄 등이 필요할 때는 본인 카페의 인쇄기를 제공했다. 자연스레 농성이 끝난 이후로도 아지트처럼 기능하게 되었다."
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:37 +0000 2020",
+		"id": 1292300345503178800,
+		"id_str": "1292481164683304960",
+		"full_text": "동교동 삼거리 근방에 위치했던 카페 한잔의 룰루랄라는 카레 맛집이자, 많은 이들의 안식처이자, 독립 예술가들의 아지트였다. 2019년 건물주가 재건축을 해야겠다며 돌연 나가라고 통보했다. 10여 년 간의 자영업에 이골이 나있던 룰사장 님도 싸우면서까지 카페를 계속 운영하기엔 여력이 없었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292298737423773700,
+		"in_reply_to_status_id_str": "1292298737423773697",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "동교동 삼거리 근방에 위치했던 카페 한잔의 룰루랄라는 카레 맛집이자, 많은 이들의 안식처이자, 독립 예술가들의 아지트였다. 2019년 건물주가 재건축을 해야겠다며 돌연 나가라고 통보했다. 10여 년 간의 자영업에 이골이 나있던 룰사장 님도 싸우면서까지 카페를 계속 운영하기엔 여력이 없었다."
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:35 +0000 2020",
+		"id": 1292298737423773700,
+		"id_str": "1292481154415648769",
+		"full_text": "레아가 수제맥주 펍으로 남영동에서 재개장하게 된 것은 2014년, 참사로부터 5년이 지난 후였다. 이상림 님의 아들 이충연 님은 특수공무집행방해치사죄로 4년을 복역했다. 용산4구역의 재개발은 막아내질 못했고, 받아낸 얼마 간의 보상으로 새로운 곳에 터전을 꾸렸다. 그리고 다시 6년이 지났다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292296713663733800,
+		"in_reply_to_status_id_str": "1292296713663733761",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레아가 수제맥주 펍으로 남영동에서 재개장하게 된 것은 2014년, 참사로부터 5년이 지난 후였다. 이상림 님의 아들 이충연 님은 특수공무집행방해치사죄로 4년을 복역했다. 용산4구역의 재개발은 막아내질 못했고, 받아낸 얼마 간의 보상으로 새로운 곳에 터전을 꾸렸다. 그리고 다시 6년이 지났다."
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:33 +0000 2020",
+		"id": 1292296713663733800,
+		"id_str": "1292481146463215619",
+		"full_text": "레아 호프를 거점으로 활동하던 이들은 이후 2010년, 마포구 동교동 삼거리 부근의 재개발에 반대해 농성을 시작한 칼국수집 두리반에도 연대하게 된다. (지금의 애경 AK&amp;홍대와 다이소가 들어선 자리.) 젠트리피케이션이라는 단어도 그때쯤부터 두루 회자되기 시작했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292295230608142300,
+		"in_reply_to_status_id_str": "1292295230608142336",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레아 호프를 거점으로 활동하던 이들은 이후 2010년, 마포구 동교동 삼거리 부근의 재개발에 반대해 농성을 시작한 칼국수집 두리반에도 연대하게 된다. (지금의 애경 AK&amp;홍대와 다이소가 들어선 자리.) 젠트리피케이션이라는 단어도 그때쯤부터 두루 회자되기 시작했다."
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:31 +0000 2020",
+		"id": 1292295230608142300,
+		"id_str": "1292481138456293376",
+		"full_text": "아버지 또는 시아비를 잃은 내외는 용산4구역 재개발을 막는 투쟁에 적극적으로 결합했으며, 자신의 가게를 당시 재개발에 반대해 연대하던 시민, 예술가, 그리고 활동가들의 거점으로 제공했다. 촛불미디어센터, 촛불방송국, 레아 갤러리 등 다양한 활동들이 이곳을 베이스로 진행되었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292294100624892000,
+		"in_reply_to_status_id_str": "1292294100624891904",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아버지 또는 시아비를 잃은 내외는 용산4구역 재개발을 막는 투쟁에 적극적으로 결합했으며, 자신의 가게를 당시 재개발에 반대해 연대하던 시민, 예술가, 그리고 활동가들의 거점으로 제공했다. 촛불미디어센터, 촛불방송국, 레아 갤러리 등 다양한 활동들이 이곳을 베이스로 진행되었다."
+	},
+	{
+		"created_at": "Sun Aug 09 15:21:29 +0000 2020",
+		"id": 1292294100624892000,
+		"id_str": "1292481131607072771",
+		"full_text": "레아 호프는 1993년부터 운영되었다. 거리의 오래된 터줏대감이었지만, 인근의 오래된 세입자와 주민들의 힘 만으로는 행정의 주도로 밀어붙여지는 재개발을 막을 수 없었다. 극한의 대립 속에서 여러 목숨이 사그러 들었고, 그러나 사그라든 목숨이 무색하게 그 이후로도 분쟁과 탄압이 이어졌다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292292773706494000,
+		"in_reply_to_status_id_str": "1292292773706493952",
+		"in_reply_to_user_id": 64089669,
+		"in_reply_to_user_id_str": "64089669",
+		"in_reply_to_screen_name": "danpyunsun",
+		"user": {
+			"id": 64089669,
+			"id_str": "64089669",
+			"name": "단편선 Danpyunsun 2020",
+			"screen_name": "danpyunsun",
+			"location": "Seoul, Korea",
+			"description": "직업 : 일시적 프리랜서 | 오소리웍스 @osoriworks | 그들이 기획한 @planned_by_them | 랏도의 밴드뮤직 @ratdo_music | 글 모아두는 곳 https://t.co/Vg1e8euaxE",
+			"url": "https://t.co/r3eDmIaMmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3eDmIaMmI",
+							"expanded_url": "http://osoriworks.creatorlink.net",
+							"display_url": "osoriworks.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg1e8euaxE",
+							"expanded_url": "http://brunch.co.kr/@danpyunsun",
+							"display_url": "brunch.co.kr/@danpyunsun",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9322,
+			"friends_count": 2701,
+			"listed_count": 190,
+			"created_at": "Sun Aug 09 02:11:50 +0000 2009",
+			"favourites_count": 2804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230145479549145088/NgamejfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64089669/1408261704",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레아 호프는 1993년부터 운영되었다. 거리의 오래된 터줏대감이었지만, 인근의 오래된 세입자와 주민들의 힘 만으로는 행정의 주도로 밀어붙여지는 재개발을 막을 수 없었다. 극한의 대립 속에서 여러 목숨이 사그러 들었고, 그러나 사그라든 목숨이 무색하게 그 이후로도 분쟁과 탄압이 이어졌다."
+	},
+	{
 		"created_at": "Sun Aug 09 15:19:19 +0000 2020",
 		"id": 1291716691727016000,
 		"id_str": "1292480585194070016",
