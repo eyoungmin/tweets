@@ -1,6 +1,2171 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 15:00:11 +0000 2020",
+		"id": 1292356271119585300,
+		"id_str": "1292475770128883712",
+		"full_text": "\"회사 몰래 이직에 성공했어요\"… 직장인 사이에서 입소문 타는 이 앱 https://t.co/VV3NMNNyeZ 명함앱 리멤버의 이직 플랫폼 '리멤버 커리어’가 8개월만에 회원수 70만 돌파. 현재 다니는 회사에서는 내 프로필이 검색되지 않도록 제한할 수 있는 것이 특징. 조심스럽게 이직하는데 최적화. https://t.co/IE8JdD3S93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VV3NMNNyeZ",
+					"expanded_url": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=366&aid=0000568074",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292356265092366300,
+					"id_str": "1292356265092366336",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee9fLQgUwAAg8tR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee9fLQgUwAAg8tR.jpg",
+					"url": "https://t.co/IE8JdD3S93",
+					"display_url": "pic.twitter.com/IE8JdD3S93",
+					"expanded_url": "https://twitter.com/estima7/status/1292356271119585280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 312,
+							"h": 626,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 312,
+							"h": 626,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292356265092366300,
+					"id_str": "1292356265092366336",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee9fLQgUwAAg8tR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee9fLQgUwAAg8tR.jpg",
+					"url": "https://t.co/IE8JdD3S93",
+					"display_url": "pic.twitter.com/IE8JdD3S93",
+					"expanded_url": "https://twitter.com/estima7/status/1292356271119585280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 312,
+							"h": 626,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 312,
+							"h": 626,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369369,
+			"friends_count": 2272,
+			"listed_count": 4485,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"회사 몰래 이직에 성공했어요\"… 직장인 사이에서 입소문 타는 이 앱 https://t.co/VV3NMNNyeZ 명함앱 리멤버의 이직 플랫폼 '리멤버 커리어’가 8개월만에 회원수 70만 돌파. 현재 다니는 회사에서는 내 프로필이 검색되지 않도록 제한할 수 있는 것이 특징. 조심스럽게 이직하는데 최적화. https://t.co/IE8JdD3S93"
+	},
+	{
+		"created_at": "Sun Aug 09 14:59:19 +0000 2020",
+		"id": 1292395803902763000,
+		"id_str": "1292475554923339776",
+		"full_text": "쓰러지던 알뜰폰, 9월에는 일어설까…정부, ‘알뜰폰 활성화 대책’ 추진 https://t.co/PwoFA2B1ye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PwoFA2B1ye",
+					"expanded_url": "http://www.bloter.net/archives/399965",
+					"display_url": "bloter.net/archives/399965",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55053,
+			"friends_count": 9,
+			"listed_count": 2371,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쓰러지던 알뜰폰, 9월에는 일어설까…정부, ‘알뜰폰 활성화 대책’ 추진 https://t.co/PwoFA2B1ye"
+	},
+	{
+		"created_at": "Sun Aug 09 14:57:32 +0000 2020",
+		"id": 1292378830775021600,
+		"id_str": "1292475102014005253",
+		"full_text": "아이패드 프로와 워드프레스로 설치형 블로그 구축하기 (2) | Open Sea : 어제 썼던 글에 이어 2탄입니다. 이번엔 좀 어렵고 번잡한 부분입니다. Let’s Encrypt를 정상적으로 설치할 수 없는 일반 웹 호스팅에서 SSL을 사용하는 방법입니다. https://t.co/OagzJpwf9Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OagzJpwf9Q",
+					"expanded_url": "https://opensea.kr/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C-%ED%94%84%EB%A1%9C%EC%99%80-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EB%A1%9C-%EC%84%A4%EC%B9%98%ED%98%95-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EC%B6%95/",
+					"display_url": "opensea.kr/%EC%95%84%EC%9…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98779257,
+			"id_str": "98779257",
+			"name": "떠돌이",
+			"screen_name": "bugbear5",
+			"location": "Seoul",
+			"description": "테크 잉여 / Welcome to Ubuntu, 우분투 투게더 글쓴이 / 물에 술타면 물이듯, 술에 물타면 술이듯.",
+			"url": "https://t.co/Un7XGbE6Fz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Un7XGbE6Fz",
+							"expanded_url": "https://opensea.kr",
+							"display_url": "opensea.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1531,
+			"friends_count": 287,
+			"listed_count": 111,
+			"created_at": "Wed Dec 23 03:02:21 +0000 2009",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277770423757766661/0VKQL4v0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277770423757766661/0VKQL4v0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98779257/1350307568",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이패드 프로와 워드프레스로 설치형 블로그 구축하기 (2) | Open Sea : 어제 썼던 글에 이어 2탄입니다. 이번엔 좀 어렵고 번잡한 부분입니다. Let’s Encrypt를 정상적으로 설치할 수 없는 일반 웹 호스팅에서 SSL을 사용하는 방법입니다. https://t.co/OagzJpwf9Q"
+	},
+	{
+		"created_at": "Sun Aug 09 14:56:53 +0000 2020",
+		"id": 1292435031739121700,
+		"id_str": "1292474942030663680",
+		"full_text": "Museum은 전시교육장인가 사회참여기관인가. 정체성 논란. 기존 정의는 인류 유산의 전시/교육/연구/향유 위한 환경, 사회에 봉사하는 비영리 기관. 사회정의 세계불평등 환경 등 현안 다뤄야 한다는 요구 따라 국제박물관협회 재정의 작업. 국가들 이견. 위원 회장 사임 진통.https://t.co/FtnDWz63yg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FtnDWz63yg",
+					"expanded_url": "https://www.nytimes.com/2020/08/06/arts/what-is-a-museum.html",
+					"display_url": "nytimes.com/2020/08/06/art…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100936,
+			"friends_count": 2396,
+			"listed_count": 307,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Museum은 전시교육장인가 사회참여기관인가. 정체성 논란. 기존 정의는 인류 유산의 전시/교육/연구/향유 위한 환경, 사회에 봉사하는 비영리 기관. 사회정의 세계불평등 환경 등 현안 다뤄야 한다는 요구 따라 국제박물관협회 재정의 작업. 국가들 이견. 위원 회장 사임 진통.https://t.co/FtnDWz63yg"
+	},
+	{
+		"created_at": "Sun Aug 09 14:56:23 +0000 2020",
+		"id": 1292442824059871200,
+		"id_str": "1292474816151224324",
+		"full_text": "- 팀 쿡 리더십 아래 애플의 성공은 제조 허브와 상당한 고객 기반 등 주로 중국 확장에 근거해\n- 그러나 트럼프의 위챗 금지명령, 가장 큰 고객 기반과 거의 모든 자사 제품을 생산할 수 있는 능력 등 한 때 애플의 견고한 근거를 강타할 수 있어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292441576988381200,
+		"in_reply_to_status_id_str": "1292441576988381185",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46098,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 팀 쿡 리더십 아래 애플의 성공은 제조 허브와 상당한 고객 기반 등 주로 중국 확장에 근거해\n- 그러나 트럼프의 위챗 금지명령, 가장 큰 고객 기반과 거의 모든 자사 제품을 생산할 수 있는 능력 등 한 때 애플의 견고한 근거를 강타할 수 있어"
+	},
+	{
+		"created_at": "Sun Aug 09 14:56:22 +0000 2020",
+		"id": 1292441576988381200,
+		"id_str": "1292474810023337985",
+		"full_text": "- 또한 2020년 6월 분기에 중국 매출은 애플 전체 매출의 15% 차지해\n- 그러나 위챗/텐센트 금지명령, 미-중 간 무역분쟁을 더 가속화시키고 애플에 치명적 영향 끼칠 수 있어\n- 애플, 자사의 가장 중요한 제품 iPhone 관세 15% 간신히 피할 수 있었지만 미-중 간 갈등 더 심화되면 이를 피할 수 없어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292440183703515100,
+		"in_reply_to_status_id_str": "1292440183703515136",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46098,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 또한 2020년 6월 분기에 중국 매출은 애플 전체 매출의 15% 차지해\n- 그러나 위챗/텐센트 금지명령, 미-중 간 무역분쟁을 더 가속화시키고 애플에 치명적 영향 끼칠 수 있어\n- 애플, 자사의 가장 중요한 제품 iPhone 관세 15% 간신히 피할 수 있었지만 미-중 간 갈등 더 심화되면 이를 피할 수 없어"
+	},
+	{
+		"created_at": "Sun Aug 09 14:56:20 +0000 2020",
+		"id": 1292440183703515100,
+		"id_str": "1292474800313573376",
+		"full_text": "- 중국 소비자들, 위챗 사용 위해 폰을 구매한다 해도 과언이 아님\n- 따라서 위챗이 없는 iPhone, 사실상 폰이 아님\n- 트럼프 금지명령으로 인해 애플이 iPhone에서 위챗을 제공할 수 없다면 중국 비즈니스는 하룻밤 새에 사라질 것\n- 애플, 2019년 중국에서 440억 달러 벌어 중국은 세번째 큰 시장 돼",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292438125105623000,
+		"in_reply_to_status_id_str": "1292438125105623042",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46098,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 중국 소비자들, 위챗 사용 위해 폰을 구매한다 해도 과언이 아님\n- 따라서 위챗이 없는 iPhone, 사실상 폰이 아님\n- 트럼프 금지명령으로 인해 애플이 iPhone에서 위챗을 제공할 수 없다면 중국 비즈니스는 하룻밤 새에 사라질 것\n- 애플, 2019년 중국에서 440억 달러 벌어 중국은 세번째 큰 시장 돼"
+	},
+	{
+		"created_at": "Sun Aug 09 14:56:17 +0000 2020",
+		"id": 1292438125105623000,
+		"id_str": "1292474788196151297",
+		"full_text": "트럼프의 위챗 금지명령, 애플의 중국 비즈니스 황폐시킬 수 있어\n- 애플, 상당한 중국 고객 기반 보유 또한 주요 제조/조립 파트너 중국에 소재해\n- 중국에서 위챗의 두드러짐은 다른 국가와 비교할 수 없을 정도\n- 뉴스 읽기, 택시 호출, 점심 결제 등 전반에 자리잡고 있어\nhttps://t.co/gN90hg8OY0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gN90hg8OY0",
+					"expanded_url": "https://www.theverge.com/2020/8/8/21358941/wechat-ban-apple-china-business-trump-tariffs-trade-manufacturing-impact?scrolla=5eb6d68b7fedc32c19ef33b4",
+					"display_url": "theverge.com/2020/8/8/21358…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46098,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트럼프의 위챗 금지명령, 애플의 중국 비즈니스 황폐시킬 수 있어\n- 애플, 상당한 중국 고객 기반 보유 또한 주요 제조/조립 파트너 중국에 소재해\n- 중국에서 위챗의 두드러짐은 다른 국가와 비교할 수 없을 정도\n- 뉴스 읽기, 택시 호출, 점심 결제 등 전반에 자리잡고 있어\nhttps://t.co/gN90hg8OY0"
+	},
+	{
+		"created_at": "Sun Aug 09 14:53:29 +0000 2020",
+		"id": 1292474083364413400,
+		"id_str": "1292474083364413441",
+		"full_text": "Life Stats\nhttps://t.co/d1oQJhca6A\n\n내가 태어난 날로부터 이런 일들이 있었어요\n를 알려주는 웹 사이트 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d1oQJhca6A",
+					"expanded_url": "https://neal.fun/life-stats/",
+					"display_url": "neal.fun/life-stats/",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Life Stats\nhttps://t.co/d1oQJhca6A\n\n내가 태어난 날로부터 이런 일들이 있었어요\n를 알려주는 웹 사이트 #minfav"
+	},
+	{
+		"created_at": "Sun Aug 09 14:52:00 +0000 2020",
+		"id": 1292473712084578300,
+		"id_str": "1292473712084578304",
+		"full_text": "예전에 한국인가 일본 개발자가 만든 서드파티에서 자동 분할됐는데 지금은 사라짐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1292471057232703500,
+		"in_reply_to_status_id_str": "1292471057232703489",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "예전에 한국인가 일본 개발자가 만든 서드파티에서 자동 분할됐는데 지금은 사라짐."
+	},
+	{
+		"created_at": "Sun Aug 09 14:50:30 +0000 2020",
+		"id": 1292251224318845000,
+		"id_str": "1292473332349034496",
+		"full_text": "- 따라서 시총 290억 달러 회사 트위터가 인수 자금을 조달할 수 있을지 의문\n- 한편 MS 시총, 1.6조 달러 이상\n- 트위터, 회사 가치 면에서 MS보다 훨씬 작지만 MS와 같은 수준의 반독점 조사에 직면할 가능성 낮아\n- 6월 말 현금보유 78억 달러인 트위터, 틱톡 인수한다면 다른 투자자들의 도움 필요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292249964781936600,
+		"in_reply_to_status_id_str": "1292249964781936641",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46098,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 따라서 시총 290억 달러 회사 트위터가 인수 자금을 조달할 수 있을지 의문\n- 한편 MS 시총, 1.6조 달러 이상\n- 트위터, 회사 가치 면에서 MS보다 훨씬 작지만 MS와 같은 수준의 반독점 조사에 직면할 가능성 낮아\n- 6월 말 현금보유 78억 달러인 트위터, 틱톡 인수한다면 다른 투자자들의 도움 필요"
+	},
+	{
+		"created_at": "Sun Aug 09 14:50:28 +0000 2020",
+		"id": 1292249964781936600,
+		"id_str": "1292473323805261824",
+		"full_text": "WSJ: 트위터, 틱톡 미국 비즈니스 합병에 대해 예비 협상 중\n- 이는 MS보다 반독점 조사 면에서 유리해\n- MS, 수주 동안 틱톡 모회사 바이트댄스와 인수 협상하고 있어\n- 아직 틱톡 미국 비즈니스 가치가 얼마인지 분명치 않지만 아마도 수백억 달러 가치 예상\nhttps://t.co/Q8V6DW6d75",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q8V6DW6d75",
+					"expanded_url": "https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449?mod=djemalertNEWS",
+					"display_url": "wsj.com/articles/twitt…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46098,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WSJ: 트위터, 틱톡 미국 비즈니스 합병에 대해 예비 협상 중\n- 이는 MS보다 반독점 조사 면에서 유리해\n- MS, 수주 동안 틱톡 모회사 바이트댄스와 인수 협상하고 있어\n- 아직 틱톡 미국 비즈니스 가치가 얼마인지 분명치 않지만 아마도 수백억 달러 가치 예상\nhttps://t.co/Q8V6DW6d75"
+	},
+	{
+		"created_at": "Sun Aug 09 14:49:23 +0000 2020",
+		"id": 1292253439951421400,
+		"id_str": "1292473051020369920",
+		"full_text": "“천막 치고 영업…추가 지원금 기대” / KBS뉴스\n https://t.co/lkSUKUYCcC 코로나가 덮친 요즘 실리콘밸리상황을 현지에서 생생하게 설명해주는 황장석 작가의 KBS 이코노미투데이 출연 동영상.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lkSUKUYCcC",
+					"expanded_url": "https://www.youtube.com/watch?v=Vlc_IVvI8Rw",
+					"display_url": "youtube.com/watch?v=Vlc_IV…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369369,
+			"friends_count": 2272,
+			"listed_count": 4485,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“천막 치고 영업…추가 지원금 기대” / KBS뉴스\n https://t.co/lkSUKUYCcC 코로나가 덮친 요즘 실리콘밸리상황을 현지에서 생생하게 설명해주는 황장석 작가의 KBS 이코노미투데이 출연 동영상."
+	},
+	{
+		"created_at": "Sun Aug 09 14:48:32 +0000 2020",
+		"id": 1292423368818360300,
+		"id_str": "1292472837685383173",
+		"full_text": "제시 틱톡 티파니 눈누난나 챌린지\n\nServing you that posiTIFFANY. ❤️ @tiffanyyoung 💗#nununanachallenge #fyp #foryou #duet #jessi #제시 #tiffany #티파니 #소녀시대 #girlsgeneration\n\nhttps://t.co/N3MJxqwxkg https://t.co/Lw8qfScnQY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nununanachallenge",
+					"indices": [
+						68,
+						86
+					]
+				},
+				{
+					"text": "fyp",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "foryou",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "duet",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "jessi",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "제시",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "tiffany",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "girlsgeneration",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						53,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N3MJxqwxkg",
+					"expanded_url": "https://www.tiktok.com/@itsjessibaby/video/6858941788904852737",
+					"display_url": "tiktok.com/@itsjessibaby/…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292423317492621300,
+					"id_str": "1292423317492621312",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1292423317492621312/pu/img/CVfEHjCw0CPiCojw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1292423317492621312/pu/img/CVfEHjCw0CPiCojw.jpg",
+					"url": "https://t.co/Lw8qfScnQY",
+					"display_url": "pic.twitter.com/Lw8qfScnQY",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1292423368818360320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292423317492621300,
+					"id_str": "1292423317492621312",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1292423317492621312/pu/img/CVfEHjCw0CPiCojw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1292423317492621312/pu/img/CVfEHjCw0CPiCojw.jpg",
+					"url": "https://t.co/Lw8qfScnQY",
+					"display_url": "pic.twitter.com/Lw8qfScnQY",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1292423368818360320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 20433,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292423317492621312/pu/vid/720x1280/dyV2He1CC9kiu0oc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1292423317492621312/pu/pl/76JbPmwBY3laIc0R.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292423317492621312/pu/vid/360x640/rt1GtTKxu3x6X83s.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292423317492621312/pu/vid/320x568/9gNNhM74C8Stx2VO.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173447107,
+			"id_str": "173447107",
+			"name": "화수은화",
+			"screen_name": "SNSD_0805",
+			"location": "",
+			"description": "소녀시대 / SNSD / Girls' Generation / 少女時代\n#13SummersWithGG #13년째_지금은_소녀시대 #GG4EVA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39997,
+			"friends_count": 61,
+			"listed_count": 205,
+			"created_at": "Sun Aug 01 14:08:18 +0000 2010",
+			"favourites_count": 307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267997667306528768/bfXEfrYE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267997667306528768/bfXEfrYE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/173447107/1548207558",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2938,
+		"favorite_count": 2469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제시 틱톡 티파니 눈누난나 챌린지\n\nServing you that posiTIFFANY. ❤️ @tiffanyyoung 💗#nununanachallenge #fyp #foryou #duet #jessi #제시 #tiffany #티파니 #소녀시대 #girlsgeneration\n\nhttps://t.co/N3MJxqwxkg https://t.co/Lw8qfScnQY"
+	},
+	{
+		"created_at": "Sun Aug 09 14:47:45 +0000 2020",
+		"id": 1292363391617716200,
+		"id_str": "1292472640800583681",
+		"full_text": "레드벨벳에게 점령당해버린 k뷰티 https://t.co/IXmVy7371d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292363315025293300,
+					"id_str": "1292363315025293313",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee9llnjUMAErwTr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee9llnjUMAErwTr.jpg",
+					"url": "https://t.co/IXmVy7371d",
+					"display_url": "pic.twitter.com/IXmVy7371d",
+					"expanded_url": "https://twitter.com/hi_sseulgi___/status/1292363391617716224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292363315025293300,
+					"id_str": "1292363315025293313",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee9llnjUMAErwTr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee9llnjUMAErwTr.jpg",
+					"url": "https://t.co/IXmVy7371d",
+					"display_url": "pic.twitter.com/IXmVy7371d",
+					"expanded_url": "https://twitter.com/hi_sseulgi___/status/1292363391617716224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292363334570803200,
+					"id_str": "1292363334570803200",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee9lmwXVAAA9iRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee9lmwXVAAA9iRt.jpg",
+					"url": "https://t.co/IXmVy7371d",
+					"display_url": "pic.twitter.com/IXmVy7371d",
+					"expanded_url": "https://twitter.com/hi_sseulgi___/status/1292363391617716224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292363355760418800,
+					"id_str": "1292363355760418816",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee9ln_TU4AAKYGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee9ln_TU4AAKYGA.jpg",
+					"url": "https://t.co/IXmVy7371d",
+					"display_url": "pic.twitter.com/IXmVy7371d",
+					"expanded_url": "https://twitter.com/hi_sseulgi___/status/1292363391617716224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292363376429944800,
+					"id_str": "1292363376429944833",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee9lpMTU0AEOl2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee9lpMTU0AEOl2t.jpg",
+					"url": "https://t.co/IXmVy7371d",
+					"display_url": "pic.twitter.com/IXmVy7371d",
+					"expanded_url": "https://twitter.com/hi_sseulgi___/status/1292363391617716224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882564400774758400,
+			"id_str": "882564400774758401",
+			"name": "초빵",
+			"screen_name": "hi_sseulgi___",
+			"location": "사시사철 과몰입",
+			"description": "빨머강슬기는 신이다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1465,
+			"friends_count": 331,
+			"listed_count": 3,
+			"created_at": "Wed Jul 05 11:38:45 +0000 2017",
+			"favourites_count": 1544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285236366062706688/DgvKddu3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285236366062706688/DgvKddu3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882564400774758401/1585753158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1944,
+		"favorite_count": 2476,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳에게 점령당해버린 k뷰티 https://t.co/IXmVy7371d"
+	},
+	{
+		"created_at": "Sun Aug 09 14:41:27 +0000 2020",
+		"id": 1292471057232703500,
+		"id_str": "1292471057232703489",
+		"full_text": "관련 깃헙 레포\nhttps://t.co/6VqUDEPGjS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6VqUDEPGjS",
+					"expanded_url": "https://github.com/search?o=desc&q=twitter+split&s=updated&type=Repositories",
+					"display_url": "github.com/search?o=desc&…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1292470369203269600,
+		"in_reply_to_status_id_str": "1292470369203269632",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "관련 깃헙 레포\nhttps://t.co/6VqUDEPGjS"
+	},
+	{
+		"created_at": "Sun Aug 09 14:38:43 +0000 2020",
+		"id": 1292470369203269600,
+		"id_str": "1292470369203269632",
+		"full_text": "트위터에 라이브스트림으로 돌아가는 연예인 인스타그램 봇들은 잘림없이 ...처리 없이 자동 분할(Split) 되어 올라가는 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1292469656096084000,
+		"in_reply_to_status_id_str": "1292469656096083969",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터에 라이브스트림으로 돌아가는 연예인 인스타그램 봇들은 잘림없이 ...처리 없이 자동 분할(Split) 되어 올라가는 듯."
+	},
+	{
+		"created_at": "Sun Aug 09 14:35:53 +0000 2020",
+		"id": 1292469656096084000,
+		"id_str": "1292469656096083969",
+		"full_text": "트윗 분할 해주는 웹 서비스 몇 가지.\nhttps://t.co/e6g85lSWeD @SplittersCo\nhttps://t.co/eWmvug9le3\nhttps://t.co/NmrLDA8eRY\n\n*장문 텍스트 페이지 서비스 아님\n\n#Twitter #트위터 #Split #분할 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "트위터",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "Split",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "분할",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						153,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SplittersCo",
+					"name": "Splitters ✂️",
+					"id": 897167784379125800,
+					"id_str": "897167784379125763",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e6g85lSWeD",
+					"expanded_url": "https://splitters.co",
+					"display_url": "splitters.co",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/eWmvug9le3",
+					"expanded_url": "https://getchirrapp.com",
+					"display_url": "getchirrapp.com",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/NmrLDA8eRY",
+					"expanded_url": "http://twittersplitter.com",
+					"display_url": "twittersplitter.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1292469654582001700,
+		"in_reply_to_status_id_str": "1292469654582001664",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트윗 분할 해주는 웹 서비스 몇 가지.\nhttps://t.co/e6g85lSWeD @SplittersCo\nhttps://t.co/eWmvug9le3\nhttps://t.co/NmrLDA8eRY\n\n*장문 텍스트 페이지 서비스 아님\n\n#Twitter #트위터 #Split #분할 #minfav"
+	},
+	{
 		"created_at": "Sun Aug 09 10:59:23 +0000 2020",
 		"id": 1292415173051986000,
 		"id_str": "1292415173051985922",
