@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 03:45:37 +0000 2020",
+		"id": 1292294533284130800,
+		"id_str": "1292306010133209088",
+		"full_text": "오랜만에 찾아온 ❁이달의(봄)소녀❁ 지우랑 예림이🐧🦇\n#복면가왕 오늘 저녁 6시 20분\n#LOONA #이달의소녀 #츄 #최리 @loonatheworld https://t.co/7GeRNfoNJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "복면가왕",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						63,
+						65
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						66,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						70,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291624409912901600,
+					"id_str": "1291624409912901632",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EezFjrgVAAAT77c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EezFjrgVAAAT77c.jpg",
+					"url": "https://t.co/7GeRNfoNJy",
+					"display_url": "pic.twitter.com/7GeRNfoNJy",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1292294533284130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291624409912901600,
+					"id_str": "1291624409912901632",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EezFjrgVAAAT77c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EezFjrgVAAAT77c.jpg",
+					"url": "https://t.co/7GeRNfoNJy",
+					"display_url": "pic.twitter.com/7GeRNfoNJy",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1292294533284130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291624422982353000,
+					"id_str": "1291624422982352896",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EezFkcMVAAAYKiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EezFkcMVAAAYKiJ.jpg",
+					"url": "https://t.co/7GeRNfoNJy",
+					"display_url": "pic.twitter.com/7GeRNfoNJy",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1292294533284130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291624432847339500,
+					"id_str": "1291624432847339520",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EezFlA8UwAAspjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EezFlA8UwAAspjq.jpg",
+					"url": "https://t.co/7GeRNfoNJy",
+					"display_url": "pic.twitter.com/7GeRNfoNJy",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1292294533284130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 816160,
+			"friends_count": 5,
+			"listed_count": 763,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 620,
+		"favorite_count": 1448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜만에 찾아온 ❁이달의(봄)소녀❁ 지우랑 예림이🐧🦇\n#복면가왕 오늘 저녁 6시 20분\n#LOONA #이달의소녀 #츄 #최리 @loonatheworld https://t.co/7GeRNfoNJy"
+	},
+	{
 		"created_at": "Sun Aug 09 03:00:37 +0000 2020",
 		"id": 1292294684702900200,
 		"id_str": "1292294684702900230",
