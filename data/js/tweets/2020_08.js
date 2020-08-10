@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 10:25:16 +0000 2020",
+		"id": 1292756833627562000,
+		"id_str": "1292768972866232322",
+		"full_text": "[EN] 99년도에 도대체 무슨 일이?! 예리X나은X도연 핵인싸 친구들 [EP.10-1]\n\n👉https://t.co/POo2QDmGM2\n\n#예리 #YERI #레드벨벳 #RedVelvet #나은 #NAEUN #에이프릴 #APRIL #김도연 #KIMDOYEON #위키미키 #WekiMeki #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "나은",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "NAEUN",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "APRIL",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "김도연",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "KIMDOYEON",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "WekiMeki",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/POo2QDmGM2",
+					"expanded_url": "https://youtu.be/GWCcPQElNjc",
+					"display_url": "youtu.be/GWCcPQElNjc",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3013876,
+			"friends_count": 1,
+			"listed_count": 6395,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2161,
+		"favorite_count": 6676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN] 99년도에 도대체 무슨 일이?! 예리X나은X도연 핵인싸 친구들 [EP.10-1]\n\n👉https://t.co/POo2QDmGM2\n\n#예리 #YERI #레드벨벳 #RedVelvet #나은 #NAEUN #에이프릴 #APRIL #김도연 #KIMDOYEON #위키미키 #WekiMeki #예리한방"
+	},
+	{
+		"created_at": "Mon Aug 10 10:25:11 +0000 2020",
+		"id": 1292755957965979600,
+		"id_str": "1292768951429140482",
+		"full_text": "[NOTICE] Exchange Guidelines for ’Every letter I sent you.’ Regular Edition Vinyl • ‘Every letter I sent you.’ 일반반 교환 안내 ▶️ https://t.co/G5xhOpT6gw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G5xhOpT6gw",
+					"expanded_url": "http://instagram.com/p/CDtChTLjf7w/",
+					"display_url": "instagram.com/p/CDtChTLjf7w/",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl\ncontact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12954,
+			"friends_count": 0,
+			"listed_count": 85,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[NOTICE] Exchange Guidelines for ’Every letter I sent you.’ Regular Edition Vinyl • ‘Every letter I sent you.’ 일반반 교환 안내 ▶️ https://t.co/G5xhOpT6gw"
+	},
+	{
 		"created_at": "Mon Aug 10 09:59:27 +0000 2020",
 		"id": 1292762477307011000,
 		"id_str": "1292762477307011074",
