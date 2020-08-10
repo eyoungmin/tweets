@@ -1,6 +1,765 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 03:28:03 +0000 2020",
+		"id": 1292661166569734100,
+		"id_str": "1292663977009446912",
+		"full_text": "99년도에 도대체 무슨 일이?! 예리X나은X도연 핵인싸 친구들\nJust what in the world happened in Year 1999? Super Sociable Friends Yeri X Naeun X Doyeon\n👉https://t.co/N4rVE7nThi\n\n#예리 #나은 #도연 #Yeri #Naeun #Doyeon #예리한방 #APRIL #WekiMeki #에이프릴 #위키미키",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "나은",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "도연",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "Naeun",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "Doyeon",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "APRIL",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "WekiMeki",
+					"indices": [
+						198,
+						207
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N4rVE7nThi",
+					"expanded_url": "https://youtu.be/GWCcPQElNjc",
+					"display_url": "youtu.be/GWCcPQElNjc",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeri's Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26528,
+			"friends_count": 0,
+			"listed_count": 114,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1591762226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 731,
+		"favorite_count": 1014,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "99년도에 도대체 무슨 일이?! 예리X나은X도연 핵인싸 친구들\nJust what in the world happened in Year 1999? Super Sociable Friends Yeri X Naeun X Doyeon\n👉https://t.co/N4rVE7nThi\n\n#예리 #나은 #도연 #Yeri #Naeun #Doyeon #예리한방 #APRIL #WekiMeki #에이프릴 #위키미키"
+	},
+	{
+		"created_at": "Mon Aug 10 03:27:57 +0000 2020",
+		"id": 1292653032254054400,
+		"id_str": "1292663951403122689",
+		"full_text": "[#예리한방] 21-22화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n구구콘즈 두 번째 이야기!\n#예리 &amp; #나은 &amp; #김도연\n취향저격 비즈공방으로 놀러와요~🤸‍♀️\n\n📌매주 월요일 11시 예리한 방\n#Seezn 앱에서 무료 선공개💕\n\n#Seezn오리지널 #레드벨벳 #RedVelvet #YERI #에이프릴 #위키미키 #덤덤스튜디오 https://t.co/ARC4TiH8BU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리한방",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "나은",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "김도연",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "Seezn오리지널",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						196,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8zPMy9VfiF",
+					"expanded_url": "http://bit.ly/yeri_room",
+					"display_url": "bit.ly/yeri_room",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292652982366953500,
+					"id_str": "1292652982366953473",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBtCefU4AEs6Oa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBtCefU4AEs6Oa.jpg",
+					"url": "https://t.co/ARC4TiH8BU",
+					"display_url": "pic.twitter.com/ARC4TiH8BU",
+					"expanded_url": "https://twitter.com/my_seezn/status/1292653032254054400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292652982366953500,
+					"id_str": "1292652982366953473",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBtCefU4AEs6Oa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBtCefU4AEs6Oa.jpg",
+					"url": "https://t.co/ARC4TiH8BU",
+					"display_url": "pic.twitter.com/ARC4TiH8BU",
+					"expanded_url": "https://twitter.com/my_seezn/status/1292653032254054400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292653000964546600,
+					"id_str": "1292653000964546560",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBtDjxVoAA2C2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBtDjxVoAA2C2r.jpg",
+					"url": "https://t.co/ARC4TiH8BU",
+					"display_url": "pic.twitter.com/ARC4TiH8BU",
+					"expanded_url": "https://twitter.com/my_seezn/status/1292653032254054400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292653017917882400,
+					"id_str": "1292653017917882368",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBtEi7VAAAU-Ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBtEi7VAAAU-Ke.jpg",
+					"url": "https://t.co/ARC4TiH8BU",
+					"display_url": "pic.twitter.com/ARC4TiH8BU",
+					"expanded_url": "https://twitter.com/my_seezn/status/1292653032254054400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194503596139671600,
+			"id_str": "1194503596139671558",
+			"name": "Seezn(시즌)",
+			"screen_name": "my_seezn",
+			"location": "대한민국 어디서나",
+			"description": "올레 tv 모바일🔁Seezn(시즌)의 공식 계정입니다!\n　\n👉Seezn_오리지널: #놓지마정신줄 #여은파 #아이돌다방 #NCT_LIFE #싱스테이 #위플레이_BH #아이랜드_BH #몬스타엑스_지금은휴가중 #예리한방 #아이돌_예병대캠프 #우석이의언박싱 #우정즈의인싸투어 #고막메이트",
+			"url": "https://t.co/qrz9LQKCbP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qrz9LQKCbP",
+							"expanded_url": "http://bit.ly/Seezn",
+							"display_url": "bit.ly/Seezn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27716,
+			"friends_count": 6,
+			"listed_count": 38,
+			"created_at": "Wed Nov 13 06:34:16 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194503596139671558/1588914430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예리한방] 21-22화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n구구콘즈 두 번째 이야기!\n#예리 &amp; #나은 &amp; #김도연\n취향저격 비즈공방으로 놀러와요~🤸‍♀️\n\n📌매주 월요일 11시 예리한 방\n#Seezn 앱에서 무료 선공개💕\n\n#Seezn오리지널 #레드벨벳 #RedVelvet #YERI #에이프릴 #위키미키 #덤덤스튜디오 https://t.co/ARC4TiH8BU"
+	},
+	{
+		"created_at": "Mon Aug 10 03:25:15 +0000 2020",
+		"id": 1292657274213687300,
+		"id_str": "1292663271540039680",
+		"full_text": "[이달의소녀탐구 #610]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/ddk863MXFh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292657162951393300,
+					"id_str": "1292657162951393280",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1292657162951393280/pu/img/yutAYCEq2a0PWyq7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1292657162951393280/pu/img/yutAYCEq2a0PWyq7.jpg",
+					"url": "https://t.co/ddk863MXFh",
+					"display_url": "pic.twitter.com/ddk863MXFh",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1292657274213687296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292657162951393300,
+					"id_str": "1292657162951393280",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1292657162951393280/pu/img/yutAYCEq2a0PWyq7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1292657162951393280/pu/img/yutAYCEq2a0PWyq7.jpg",
+					"url": "https://t.co/ddk863MXFh",
+					"display_url": "pic.twitter.com/ddk863MXFh",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1292657274213687296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60594,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292657162951393280/pu/vid/480x270/zXcEt16gm3x6RoaH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292657162951393280/pu/vid/640x360/rBG1AY3GcyJIauu_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292657162951393280/pu/vid/1280x720/sZLOZeD_UP-8TXkT.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1292657162951393280/pu/pl/Y5vHbUsYaSKem9JC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 507020,
+			"friends_count": 0,
+			"listed_count": 5314,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2709,
+		"favorite_count": 8402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #610]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/ddk863MXFh"
+	},
+	{
 		"created_at": "Mon Aug 10 03:00:17 +0000 2020",
 		"id": 1292656990754349000,
 		"id_str": "1292656990754349059",
