@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 12:59:59 +0000 2020",
+		"id": 1292701752328765400,
+		"id_str": "1292807911563907075",
+		"full_text": "인디 음악 생태계의 발전을 위해 다양한 사업을 해왔던 서울인디뮤직페스타가 올해는 코로나 19로 인해 9월부터 12월 말까지 진행됩니다.\n세부 사업들은 공식 SNS와 올해부터 운영을 하는 유튜브 채널을 통해 공지됩니다.\n공식 SNS : https://t.co/bt68LfxlXJ\n유튜브 채널 : https://t.co/OUJqu55VHv https://t.co/kb98LzRkoM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bt68LfxlXJ",
+					"expanded_url": "https://www.facebook.com/simfesta",
+					"display_url": "facebook.com/simfesta",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/OUJqu55VHv",
+					"expanded_url": "https://youtu.be/4jRnKmts6E0",
+					"display_url": "youtu.be/4jRnKmts6E0",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292701746066649000,
+					"id_str": "1292701746066649090",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCZY5bUcAIkEmF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCZY5bUcAIkEmF.jpg",
+					"url": "https://t.co/kb98LzRkoM",
+					"display_url": "pic.twitter.com/kb98LzRkoM",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1292701752328765440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292701746066649000,
+					"id_str": "1292701746066649090",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCZY5bUcAIkEmF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCZY5bUcAIkEmF.jpg",
+					"url": "https://t.co/kb98LzRkoM",
+					"display_url": "pic.twitter.com/kb98LzRkoM",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1292701752328765440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/arOqhmk3eP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arOqhmk3eP",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 284,
+			"listed_count": 6,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1597038472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인디 음악 생태계의 발전을 위해 다양한 사업을 해왔던 서울인디뮤직페스타가 올해는 코로나 19로 인해 9월부터 12월 말까지 진행됩니다.\n세부 사업들은 공식 SNS와 올해부터 운영을 하는 유튜브 채널을 통해 공지됩니다.\n공식 SNS : https://t.co/bt68LfxlXJ\n유튜브 채널 : https://t.co/OUJqu55VHv https://t.co/kb98LzRkoM"
+	},
+	{
+		"created_at": "Mon Aug 10 12:17:28 +0000 2020",
+		"id": 1292797208702722000,
+		"id_str": "1292797208702722050",
+		"full_text": "#팩트체크 #SNU팩트체크\n한강ㆍ금강ㆍ영산강ㆍ낙동강 등에 대형 보(洑)를 설치하고 하천 바닥은 파내는 작업(준설)을 통한 4대강 사업을 통해 ‘물그릇’을 키워 홍수 피해를 막을 수 있다.\n▶ 전혀 사실 아님\nhttps://t.co/pX75nnCkud\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						154,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pX75nnCkud",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2416",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n한강ㆍ금강ㆍ영산강ㆍ낙동강 등에 대형 보(洑)를 설치하고 하천 바닥은 파내는 작업(준설)을 통한 4대강 사업을 통해 ‘물그릇’을 키워 홍수 피해를 막을 수 있다.\n▶ 전혀 사실 아님\nhttps://t.co/pX75nnCkud\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Mon Aug 10 11:45:47 +0000 2020",
 		"id": 1292774184888594400,
 		"id_str": "1292789235813158912",
