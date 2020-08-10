@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 07:59:27 +0000 2020",
+		"id": 1292732278582517800,
+		"id_str": "1292732278582517760",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 제니 K팝 최초 인공위성+리사 초대형 드론쇼..4주년 맞아 中팬 역대급 이벤트\nhttps://t.co/rqHdhItH7U\n#블랙핑크 #BLACKPINK https://t.co/agbJncjLY4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rqHdhItH7U",
+					"expanded_url": "https://yg-life.com/archives/158270?lang=ko",
+					"display_url": "yg-life.com/archives/15827…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292732276556669000,
+					"id_str": "1292732276556668928",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EfC1KAXXoAAFYbz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfC1KAXXoAAFYbz.png",
+					"url": "https://t.co/agbJncjLY4",
+					"display_url": "pic.twitter.com/agbJncjLY4",
+					"expanded_url": "https://twitter.com/fromminn/status/1292732278582517760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 790,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292732276556669000,
+					"id_str": "1292732276556668928",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EfC1KAXXoAAFYbz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfC1KAXXoAAFYbz.png",
+					"url": "https://t.co/agbJncjLY4",
+					"display_url": "pic.twitter.com/agbJncjLY4",
+					"expanded_url": "https://twitter.com/fromminn/status/1292732278582517760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 790,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 제니 K팝 최초 인공위성+리사 초대형 드론쇼..4주년 맞아 中팬 역대급 이벤트\nhttps://t.co/rqHdhItH7U\n#블랙핑크 #BLACKPINK https://t.co/agbJncjLY4"
+	},
+	{
+		"created_at": "Mon Aug 10 07:27:57 +0000 2020",
+		"id": 1292719499355934700,
+		"id_str": "1292724349959577600",
+		"full_text": "Red Velvet - IRENE &amp; SEULGI - Monster 👻\n\nRed Velvet - IRENE &amp; SEULGI - Monster 앨범의 무드를 느낄 수 있는 아티스트 케이스가 출시 되었습니다. \n매력적인 아티스트 케이스가 SMTOWN &amp;STORE에서 여러분을 기다립니다! 😋\n\nhttps://t.co/kH4eeysJwf https://t.co/SlGjUbswI6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kH4eeysJwf",
+					"expanded_url": "http://bitly.kr/2a6k5t6Mdse",
+					"display_url": "bitly.kr/2a6k5t6Mdse",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292719487284723700,
+					"id_str": "1292719487284723712",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCphknUwAAt0lj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCphknUwAAt0lj.jpg",
+					"url": "https://t.co/SlGjUbswI6",
+					"display_url": "pic.twitter.com/SlGjUbswI6",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1292719499355934720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1610,
+							"h": 1610,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292719487284723700,
+					"id_str": "1292719487284723712",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCphknUwAAt0lj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCphknUwAAt0lj.jpg",
+					"url": "https://t.co/SlGjUbswI6",
+					"display_url": "pic.twitter.com/SlGjUbswI6",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1292719499355934720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1610,
+							"h": 1610,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66335,
+			"friends_count": 0,
+			"listed_count": 126,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 408,
+		"favorite_count": 737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - IRENE &amp; SEULGI - Monster 👻\n\nRed Velvet - IRENE &amp; SEULGI - Monster 앨범의 무드를 느낄 수 있는 아티스트 케이스가 출시 되었습니다. \n매력적인 아티스트 케이스가 SMTOWN &amp;STORE에서 여러분을 기다립니다! 😋\n\nhttps://t.co/kH4eeysJwf https://t.co/SlGjUbswI6"
+	},
+	{
 		"created_at": "Mon Aug 10 06:10:20 +0000 2020",
 		"id": 1292704815852781600,
 		"id_str": "1292704815852781568",
