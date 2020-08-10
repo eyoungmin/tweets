@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 11:45:47 +0000 2020",
+		"id": 1292774184888594400,
+		"id_str": "1292789235813158912",
+		"full_text": "온앤오프 (ONF)\n팩트iN스타 현장 공개녹화 안내 \n\n일시 : 8월 17일 [오후 4시]\n장소 : TBS 오픈 스튜디오  \n          (서울 마포구 매봉산로 31)\n\n진행 : 유재환(UL), 이브(이달의 소녀)\n출연 : 온앤오프 (ONF)\n\n#온앤오프 #ONF #ONforDYNAMITE #SukhumvitSwimming #스쿰빗스위밍\n@wm_on7off https://t.co/aMOeedfXAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온앤오프",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "ONforDYNAMITE",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "SukhumvitSwimming",
+					"indices": [
+						166,
+						184
+					]
+				},
+				{
+					"text": "스쿰빗스위밍",
+					"indices": [
+						185,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wm_on7off",
+					"name": "온앤오프 (ONF) Official",
+					"id": 893085958119211000,
+					"id_str": "893085958119211011",
+					"indices": [
+						193,
+						203
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292774168912486400,
+					"id_str": "1292774168912486400",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDbQdjUYAAlWvK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDbQdjUYAAlWvK.jpg",
+					"url": "https://t.co/aMOeedfXAB",
+					"display_url": "pic.twitter.com/aMOeedfXAB",
+					"expanded_url": "https://twitter.com/factinstar/status/1292774184888594432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 867,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292774168912486400,
+					"id_str": "1292774168912486400",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDbQdjUYAAlWvK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDbQdjUYAAlWvK.jpg",
+					"url": "https://t.co/aMOeedfXAB",
+					"display_url": "pic.twitter.com/aMOeedfXAB",
+					"expanded_url": "https://twitter.com/factinstar/status/1292774184888594432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 867,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "All That Your K-POP BIAS / TBS Open Studio (SEOUL S-PLEX CENTER) / Friday at 9:00 PM(KST) Fact iN Star #Youtube Upload / Sunday at 12:30 PM(KST) TBS TV On Air",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4838,
+			"friends_count": 2813,
+			"listed_count": 26,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1589956779",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온앤오프 (ONF)\n팩트iN스타 현장 공개녹화 안내 \n\n일시 : 8월 17일 [오후 4시]\n장소 : TBS 오픈 스튜디오  \n          (서울 마포구 매봉산로 31)\n\n진행 : 유재환(UL), 이브(이달의 소녀)\n출연 : 온앤오프 (ONF)\n\n#온앤오프 #ONF #ONforDYNAMITE #SukhumvitSwimming #스쿰빗스위밍\n@wm_on7off https://t.co/aMOeedfXAB"
+	},
+	{
 		"created_at": "Mon Aug 10 10:25:16 +0000 2020",
 		"id": 1292756833627562000,
 		"id_str": "1292768972866232322",
