@@ -1,6 +1,1224 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 09:59:27 +0000 2020",
+		"id": 1292762477307011000,
+		"id_str": "1292762477307011074",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n트레저 “기록제조기 YG 선배들, 큰힘이자 동기부여…부담NO”\nhttps://t.co/xttldfuIgJ\n#블랙핑크 #BLACKPINK https://t.co/wOZYAPvHM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xttldfuIgJ",
+					"expanded_url": "https://yg-life.com/archives/158290?lang=ko",
+					"display_url": "yg-life.com/archives/15829…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292762475847389200,
+					"id_str": "1292762475847389185",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDQn1fWkAEPRko.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDQn1fWkAEPRko.jpg",
+					"url": "https://t.co/wOZYAPvHM6",
+					"display_url": "pic.twitter.com/wOZYAPvHM6",
+					"expanded_url": "https://twitter.com/fromminn/status/1292762477307011074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 589,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 589,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 589,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292762475847389200,
+					"id_str": "1292762475847389185",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDQn1fWkAEPRko.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDQn1fWkAEPRko.jpg",
+					"url": "https://t.co/wOZYAPvHM6",
+					"display_url": "pic.twitter.com/wOZYAPvHM6",
+					"expanded_url": "https://twitter.com/fromminn/status/1292762477307011074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 589,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 589,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 589,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n트레저 “기록제조기 YG 선배들, 큰힘이자 동기부여…부담NO”\nhttps://t.co/xttldfuIgJ\n#블랙핑크 #BLACKPINK https://t.co/wOZYAPvHM6"
+	},
+	{
+		"created_at": "Mon Aug 10 09:25:33 +0000 2020",
+		"id": 1292752323396026400,
+		"id_str": "1292753946956767233",
+		"full_text": "#돌체앤가바나 뷰티 뮤즈 #청하(@CHUNGHA_MNHent)의 서머 바캉스 룩. 메이크업에 사용한 제품은?💗 \n\nFACE 솔라글로우 유니버셜 일루미네이팅 드롭+프레셔스킨 퍼펙트 피니쉬쿠션 파운데이션\nCHEEK 솔라 글로우 일루미네이팅 파우더 듀오 #1 스위트 핑크\nLIPS 돌치시모 매트 리퀴드 립 컬러 #6 푸시아 https://t.co/eg1gihQ4KR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "돌체앤가바나",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						14,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						18,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292752281360674800,
+					"id_str": "1292752281360674816",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1292752281360674816/pu/img/TgbbLGQLpx_9KfX5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1292752281360674816/pu/img/TgbbLGQLpx_9KfX5.jpg",
+					"url": "https://t.co/eg1gihQ4KR",
+					"display_url": "pic.twitter.com/eg1gihQ4KR",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1292752323396026368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292752281360674800,
+					"id_str": "1292752281360674816",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1292752281360674816/pu/img/TgbbLGQLpx_9KfX5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1292752281360674816/pu/img/TgbbLGQLpx_9KfX5.jpg",
+					"url": "https://t.co/eg1gihQ4KR",
+					"display_url": "pic.twitter.com/eg1gihQ4KR",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1292752323396026368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1100,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							11
+						],
+						"duration_millis": 11053,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1292752281360674816/pu/pl/-54K5c2I4tRYPFOS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292752281360674816/pu/vid/360x440/XdROkwEDmlZYhFyo.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292752281360674816/pu/vid/720x880/Ps2_foBgmlzxh-3-.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292752281360674816/pu/vid/320x390/ajn1_8PG5AQw5lKo.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/A65jIiHpAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A65jIiHpAu",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93511,
+			"friends_count": 1,
+			"listed_count": 280,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1596171304",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 598,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#돌체앤가바나 뷰티 뮤즈 #청하(@CHUNGHA_MNHent)의 서머 바캉스 룩. 메이크업에 사용한 제품은?💗 \n\nFACE 솔라글로우 유니버셜 일루미네이팅 드롭+프레셔스킨 퍼펙트 피니쉬쿠션 파운데이션\nCHEEK 솔라 글로우 일루미네이팅 파우더 듀오 #1 스위트 핑크\nLIPS 돌치시모 매트 리퀴드 립 컬러 #6 푸시아 https://t.co/eg1gihQ4KR"
+	},
+	{
+		"created_at": "Mon Aug 10 09:25:29 +0000 2020",
+		"id": 1292751609772957700,
+		"id_str": "1292753929764327424",
+		"full_text": "[#예술경영 웹진: 자료읽기]\n\n&lt;문화예술 소셜벤처는 사회문제를 얼마나 해결하고 있는가?&gt;\n\n450호 자료읽기 더보기👇\nhttps://t.co/SPS5dszbbz\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/yLtZSUUkwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SPS5dszbbz",
+					"expanded_url": "https://bit.ly/3gK3Fyd",
+					"display_url": "bit.ly/3gK3Fyd",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292751528810254300,
+					"id_str": "1292751528810254336",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDGqomUEAA8a96.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDGqomUEAA8a96.jpg",
+					"url": "https://t.co/yLtZSUUkwJ",
+					"display_url": "pic.twitter.com/yLtZSUUkwJ",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1292751609772957696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1130,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1130,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292751528810254300,
+					"id_str": "1292751528810254336",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDGqomUEAA8a96.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDGqomUEAA8a96.jpg",
+					"url": "https://t.co/yLtZSUUkwJ",
+					"display_url": "pic.twitter.com/yLtZSUUkwJ",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1292751609772957696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1130,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1130,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6735,
+			"friends_count": 3023,
+			"listed_count": 102,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진: 자료읽기]\n\n&lt;문화예술 소셜벤처는 사회문제를 얼마나 해결하고 있는가?&gt;\n\n450호 자료읽기 더보기👇\nhttps://t.co/SPS5dszbbz\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/yLtZSUUkwJ"
+	},
+	{
+		"created_at": "Mon Aug 10 09:25:25 +0000 2020",
+		"id": 1292750802377797600,
+		"id_str": "1292753912496357376",
+		"full_text": "온앤오프 (ONF) 'SPIN OFF' Released!\n👍https://t.co/MczupF0zpE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MczupF0zpE",
+					"expanded_url": "https://www.facebook.com/942907422391026/posts/3793114617370278/",
+					"display_url": "facebook.com/94290742239102…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6436,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 242,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온앤오프 (ONF) 'SPIN OFF' Released!\n👍https://t.co/MczupF0zpE"
+	},
+	{
+		"created_at": "Mon Aug 10 09:25:17 +0000 2020",
+		"id": 1292750718835634200,
+		"id_str": "1292753878472183809",
+		"full_text": "한승우 'Fame' Released!\n🔊https://t.co/SKiL9jLMhD https://t.co/BBwL5NdsDq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SKiL9jLMhD",
+					"expanded_url": "https://www.facebook.com/942907422391026/posts/3793120230703050/",
+					"display_url": "facebook.com/94290742239102…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292750595476959200,
+					"id_str": "1292750595476959233",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDF0TqUMAE4G8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDF0TqUMAE4G8Y.jpg",
+					"url": "https://t.co/BBwL5NdsDq",
+					"display_url": "pic.twitter.com/BBwL5NdsDq",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1292750718835634176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292750595476959200,
+					"id_str": "1292750595476959233",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDF0TqUMAE4G8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDF0TqUMAE4G8Y.jpg",
+					"url": "https://t.co/BBwL5NdsDq",
+					"display_url": "pic.twitter.com/BBwL5NdsDq",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1292750718835634176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6436,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한승우 'Fame' Released!\n🔊https://t.co/SKiL9jLMhD https://t.co/BBwL5NdsDq"
+	},
+	{
+		"created_at": "Mon Aug 10 09:25:15 +0000 2020",
+		"id": 1292740011654123500,
+		"id_str": "1292753869706088449",
+		"full_text": "💌 2020 CHUNG HA ONLINE FANMEETING ＜BYULHARANG of CHUNG HA Nation &gt; \n\n🐰 2020. 08. 10. 6PM (KST) ~\n🐰 V LIVE+ VOD 🆙\n✌🏻 https://t.co/dCHmDKUZ5P\n\nIf you've been waiting for the replay VOD, please check out the time!\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						215,
+						218
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						219,
+						227
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						228,
+						232
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						233,
+						244
+					]
+				},
+				{
+					"text": "청하나라의_별하랑",
+					"indices": [
+						245,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dCHmDKUZ5P",
+					"expanded_url": "https://bit.ly/2XL3smU",
+					"display_url": "bit.ly/2XL3smU",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292740009808638000,
+		"in_reply_to_status_id_str": "1292740009808637953",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286452,
+			"friends_count": 0,
+			"listed_count": 1743,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 366,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💌 2020 CHUNG HA ONLINE FANMEETING ＜BYULHARANG of CHUNG HA Nation &gt; \n\n🐰 2020. 08. 10. 6PM (KST) ~\n🐰 V LIVE+ VOD 🆙\n✌🏻 https://t.co/dCHmDKUZ5P\n\nIf you've been waiting for the replay VOD, please check out the time!\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜"
+	},
+	{
+		"created_at": "Mon Aug 10 09:25:11 +0000 2020",
+		"id": 1292740009808638000,
+		"id_str": "1292753852538724353",
+		"full_text": "💌 2020 청하 온라인 팬미팅 ＜청하나라의 별하랑 &gt; \n\n🐰 2020. 08. 10. 6PM (KST) ~\n🐰 V LIVE+ 다시보기 VOD 🆙\n✌🏻 https://t.co/Ws8bxNIADH\n\n다시보기 VOD를 기다리셨던 별하랑분들은 시간 참고해주시기 바랍니다!\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"text": "청하나라의_별하랑",
+					"indices": [
+						183,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ws8bxNIADH",
+					"expanded_url": "http://bit.ly/31CjRuX",
+					"display_url": "bit.ly/31CjRuX",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286452,
+			"friends_count": 0,
+			"listed_count": 1743,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 950,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 2020 청하 온라인 팬미팅 ＜청하나라의 별하랑 &gt; \n\n🐰 2020. 08. 10. 6PM (KST) ~\n🐰 V LIVE+ 다시보기 VOD 🆙\n✌🏻 https://t.co/Ws8bxNIADH\n\n다시보기 VOD를 기다리셨던 별하랑분들은 시간 참고해주시기 바랍니다!\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜"
+	},
+	{
 		"created_at": "Mon Aug 10 08:56:24 +0000 2020",
 		"id": 1292746610297000000,
 		"id_str": "1292746610296999936",
