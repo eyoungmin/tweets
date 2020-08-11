@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 04:51:13 +0000 2020",
+		"id": 1292916253762388000,
+		"id_str": "1293047294959337475",
+		"full_text": "- 구글 지도, 이제 사용자들이 오랫동안 구글에 요청했던 애플 카플레이의 분할 스크린 기능도 지원\n- 사용자, iPhone에서 장소를 탐색한 후 애플워치에서 계속 경로를 제공받고 웨어러블에 예상 도착시간도 표시돼 https://t.co/IzDdmSeTv9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292916242995699700,
+					"id_str": "1292916242995699715",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EfFceQwXYAMgJbF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfFceQwXYAMgJbF.jpg",
+					"url": "https://t.co/IzDdmSeTv9",
+					"display_url": "pic.twitter.com/IzDdmSeTv9",
+					"expanded_url": "https://twitter.com/wkchoi/status/1292916253762387970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292916242995699700,
+					"id_str": "1292916242995699715",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EfFceQwXYAMgJbF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfFceQwXYAMgJbF.jpg",
+					"url": "https://t.co/IzDdmSeTv9",
+					"display_url": "pic.twitter.com/IzDdmSeTv9",
+					"expanded_url": "https://twitter.com/wkchoi/status/1292916253762387970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292915225377886200,
+		"in_reply_to_status_id_str": "1292915225377886213",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46109,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 구글 지도, 이제 사용자들이 오랫동안 구글에 요청했던 애플 카플레이의 분할 스크린 기능도 지원\n- 사용자, iPhone에서 장소를 탐색한 후 애플워치에서 계속 경로를 제공받고 웨어러블에 예상 도착시간도 표시돼 https://t.co/IzDdmSeTv9"
+	},
+	{
 		"created_at": "Tue Aug 11 03:25:11 +0000 2020",
 		"id": 1293019348622168000,
 		"id_str": "1293025642771079168",
