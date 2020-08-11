@@ -1,6 +1,830 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 06:47:10 +0000 2020",
+		"id": 1293076475776819200,
+		"id_str": "1293076475776819200",
+		"full_text": "#레드벨벳 #RedVelvet #일본 #JAPAN\n『a-nation online 2020』Red Velvet出演決定！\nhttps://t.co/T3E7yYIKPg https://t.co/K7xMHVnsTx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "일본",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "JAPAN",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T3E7yYIKPg",
+					"expanded_url": "http://redvelvet-jp.net/news/detail.php?id=1085256",
+					"display_url": "redvelvet-jp.net/news/detail.ph…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293076474644267000,
+					"id_str": "1293076474644267008",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHuM-KWAAABz5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHuM-KWAAABz5P.jpg",
+					"url": "https://t.co/K7xMHVnsTx",
+					"display_url": "pic.twitter.com/K7xMHVnsTx",
+					"expanded_url": "https://twitter.com/fromminn/status/1293076475776819200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 745,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 745,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293076474644267000,
+					"id_str": "1293076474644267008",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHuM-KWAAABz5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHuM-KWAAABz5P.jpg",
+					"url": "https://t.co/K7xMHVnsTx",
+					"display_url": "pic.twitter.com/K7xMHVnsTx",
+					"expanded_url": "https://twitter.com/fromminn/status/1293076475776819200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 745,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 745,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#레드벨벳 #RedVelvet #일본 #JAPAN\n『a-nation online 2020』Red Velvet出演決定！\nhttps://t.co/T3E7yYIKPg https://t.co/K7xMHVnsTx"
+	},
+	{
+		"created_at": "Tue Aug 11 06:28:01 +0000 2020",
+		"id": 1293062725287833600,
+		"id_str": "1293071654894153728",
+		"full_text": "📢 #SUPERJUNIOR, #EXO_SC, #RedVelvet &amp; #SuperM to take part in the online concert of Japan’s biggest summer music festival ‘#anation’ on 8/29!\n\n⭐To participate as K-pop representatives at ‘a-nation online 2020’, among prominent Asian stars! \n\n#anationonline2020 #anation2020 https://t.co/dBSzwq3ELQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "EXO_SC",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "anation",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "anationonline2020",
+					"indices": [
+						246,
+						264
+					]
+				},
+				{
+					"text": "anation2020",
+					"indices": [
+						265,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293061750657433600,
+					"id_str": "1293061750657433606",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHgz7CUwAYe9-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHgz7CUwAYe9-Q.jpg",
+					"url": "https://t.co/dBSzwq3ELQ",
+					"display_url": "pic.twitter.com/dBSzwq3ELQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1293062725287833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293061750657433600,
+					"id_str": "1293061750657433606",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHgz7CUwAYe9-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHgz7CUwAYe9-Q.jpg",
+					"url": "https://t.co/dBSzwq3ELQ",
+					"display_url": "pic.twitter.com/dBSzwq3ELQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1293062725287833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293061782248988700,
+					"id_str": "1293061782248988673",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHg1wuVoAEU76L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHg1wuVoAEU76L.jpg",
+					"url": "https://t.co/dBSzwq3ELQ",
+					"display_url": "pic.twitter.com/dBSzwq3ELQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1293062725287833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293061807679053800,
+					"id_str": "1293061807679053824",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHg3PdVoAA3SMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHg3PdVoAA3SMY.jpg",
+					"url": "https://t.co/dBSzwq3ELQ",
+					"display_url": "pic.twitter.com/dBSzwq3ELQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1293062725287833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293061835621425200,
+					"id_str": "1293061835621425152",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHg43jUYAAsJwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHg43jUYAAsJwH.jpg",
+					"url": "https://t.co/dBSzwq3ELQ",
+					"display_url": "pic.twitter.com/dBSzwq3ELQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1293062725287833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8130264,
+			"friends_count": 52,
+			"listed_count": 7997,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9063,
+		"favorite_count": 23410,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 #SUPERJUNIOR, #EXO_SC, #RedVelvet &amp; #SuperM to take part in the online concert of Japan’s biggest summer music festival ‘#anation’ on 8/29!\n\n⭐To participate as K-pop representatives at ‘a-nation online 2020’, among prominent Asian stars! \n\n#anationonline2020 #anation2020 https://t.co/dBSzwq3ELQ"
+	},
+	{
+		"created_at": "Tue Aug 11 06:27:57 +0000 2020",
+		"id": 1293061267914014700,
+		"id_str": "1293071637735145478",
+		"full_text": "SUPER JUNIOR, SuperM, EXO-SC, dan Red Velvet Hadir Dalam Pertunjukan Online Jepang ’a-nation’! 🙌🏻\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉 https://t.co/GnrV2Yv4fV https://t.co/M6jBkPvLSw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GnrV2Yv4fV",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/646874509262900/",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293061259932233700,
+					"id_str": "1293061259932233728",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHgXW8UcAAjE1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHgXW8UcAAjE1l.jpg",
+					"url": "https://t.co/M6jBkPvLSw",
+					"display_url": "pic.twitter.com/M6jBkPvLSw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1293061267914014721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293061259932233700,
+					"id_str": "1293061259932233728",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHgXW8UcAAjE1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHgXW8UcAAjE1l.jpg",
+					"url": "https://t.co/M6jBkPvLSw",
+					"display_url": "pic.twitter.com/M6jBkPvLSw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1293061267914014721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293061259932262400,
+					"id_str": "1293061259932262400",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHgXW8U4AA2mwh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHgXW8U4AA2mwh.jpg",
+					"url": "https://t.co/M6jBkPvLSw",
+					"display_url": "pic.twitter.com/M6jBkPvLSw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1293061267914014721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293061259936428000,
+					"id_str": "1293061259936428033",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHgXW9UcAEfttj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHgXW9UcAEfttj.jpg",
+					"url": "https://t.co/M6jBkPvLSw",
+					"display_url": "pic.twitter.com/M6jBkPvLSw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1293061267914014721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293061259995123700,
+					"id_str": "1293061259995123712",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EfHgXXLUEAAxFcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfHgXXLUEAAxFcy.jpg",
+					"url": "https://t.co/M6jBkPvLSw",
+					"display_url": "pic.twitter.com/M6jBkPvLSw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1293061267914014721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223183,
+			"friends_count": 25,
+			"listed_count": 165,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 534,
+		"favorite_count": 2330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "SUPER JUNIOR, SuperM, EXO-SC, dan Red Velvet Hadir Dalam Pertunjukan Online Jepang ’a-nation’! 🙌🏻\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉 https://t.co/GnrV2Yv4fV https://t.co/M6jBkPvLSw"
+	},
+	{
 		"created_at": "Tue Aug 11 05:27:57 +0000 2020",
 		"id": 1293043252300415000,
 		"id_str": "1293056539348131840",
