@@ -1,6 +1,786 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 12:58:12 +0000 2020",
+		"id": 1293169846767751200,
+		"id_str": "1293169846767751169",
+		"full_text": "#라이브네이션코리아 #Live_Nation\nPENTAGON Official Fanclub UNIVERSE 3rd Online Fan Meeting［PENTAG-ON AIR］ at Seoul Online Concert (2020. 8월. 11. 화)\nhttps://t.co/Ly69soBnS3\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/4I7fPMPPcK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브네이션코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Live_Nation",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						179,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ly69soBnS3",
+					"expanded_url": "https://www.livenation.kr/show/1318019/pentagon-official-fanclub-universe-3rd-online-fan-meeting-pentag-on-air-/seoul/2020-08-11/kr",
+					"display_url": "livenation.kr/show/1318019/p…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293169845480104000,
+					"id_str": "1293169845480103936",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJDH3oWoAADUGk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfJDH3oWoAADUGk.jpg",
+					"url": "https://t.co/4I7fPMPPcK",
+					"display_url": "pic.twitter.com/4I7fPMPPcK",
+					"expanded_url": "https://twitter.com/fromminn/status/1293169846767751169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293169845480104000,
+					"id_str": "1293169845480103936",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJDH3oWoAADUGk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfJDH3oWoAADUGk.jpg",
+					"url": "https://t.co/4I7fPMPPcK",
+					"display_url": "pic.twitter.com/4I7fPMPPcK",
+					"expanded_url": "https://twitter.com/fromminn/status/1293169846767751169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#라이브네이션코리아 #Live_Nation\nPENTAGON Official Fanclub UNIVERSE 3rd Online Fan Meeting［PENTAG-ON AIR］ at Seoul Online Concert (2020. 8월. 11. 화)\nhttps://t.co/Ly69soBnS3\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/4I7fPMPPcK"
+	},
+	{
+		"created_at": "Tue Aug 11 12:55:17 +0000 2020",
+		"id": 1293169113402146800,
+		"id_str": "1293169113402146821",
+		"full_text": "세계관 최강자들의 싸움, 삼성전자 vs 카카오 I 반도체, 금융, IP, 바이오\nhttps://t.co/BrfddKvLxC\n#듣똑라 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣똑라",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						74,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BrfddKvLxC",
+					"expanded_url": "https://youtu.be/uF9L1jB-_Yc",
+					"display_url": "youtu.be/uF9L1jB-_Yc",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계관 최강자들의 싸움, 삼성전자 vs 카카오 I 반도체, 금융, IP, 바이오\nhttps://t.co/BrfddKvLxC\n#듣똑라 #minfav"
+	},
+	{
+		"created_at": "Tue Aug 11 12:25:19 +0000 2020",
+		"id": 1293154375368454100,
+		"id_str": "1293161572928561153",
+		"full_text": "#HYO #TwitterBlueroom 360💙 Thanks for joining the LIVE! 함께해주신 여러분 너무 고마워요~ 사랑해요💗 https://t.co/NUsyWi4PXQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						5,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293154346843086800,
+					"id_str": "1293154346843086850",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1293154346843086850/img/tqd-F-Vbx-DlLzxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1293154346843086850/img/tqd-F-Vbx-DlLzxV.jpg",
+					"url": "https://t.co/NUsyWi4PXQ",
+					"display_url": "pic.twitter.com/NUsyWi4PXQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1293154375368454144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293154346843086800,
+					"id_str": "1293154346843086850",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1293154346843086850/img/tqd-F-Vbx-DlLzxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1293154346843086850/img/tqd-F-Vbx-DlLzxV.jpg",
+					"url": "https://t.co/NUsyWi4PXQ",
+					"display_url": "pic.twitter.com/NUsyWi4PXQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1293154375368454144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15268,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293154346843086850/vid/320x568/2ygng_3hPZCU0d-v.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293154346843086850/vid/360x640/fZPzlugbUIjs_K2i.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293154346843086850/vid/576x1024/l0j8eje3jpu3FRTM.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1293154346843086850/pl/CtLugZtIghNJd6Qa.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541474,
+			"friends_count": 4,
+			"listed_count": 5037,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1698,
+		"favorite_count": 3687,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#HYO #TwitterBlueroom 360💙 Thanks for joining the LIVE! 함께해주신 여러분 너무 고마워요~ 사랑해요💗 https://t.co/NUsyWi4PXQ"
+	},
+	{
+		"created_at": "Tue Aug 11 12:25:16 +0000 2020",
+		"id": 1293153468010528800,
+		"id_str": "1293161559884206081",
+		"full_text": "Q: #AskHYO Do you want to visit Brazil? Send a special message to the brazilian fandom, please. We &lt;3 you.\n- @SpotifyBR\n\nA: #HYO #TwitterBlueroom💙👇 https://t.co/ZMXPMEcJ7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AskHYO",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						132,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyBR",
+					"name": "Spotify Brasil",
+					"id": 365658152,
+					"id_str": "365658152",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293153422548455400,
+					"id_str": "1293153422548455424",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1293153422548455424/img/VD8Hw8wU6aPVr73e.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1293153422548455424/img/VD8Hw8wU6aPVr73e.jpg",
+					"url": "https://t.co/ZMXPMEcJ7J",
+					"display_url": "pic.twitter.com/ZMXPMEcJ7J",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1293153468010528770/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293153422548455400,
+					"id_str": "1293153422548455424",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1293153422548455424/img/VD8Hw8wU6aPVr73e.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1293153422548455424/img/VD8Hw8wU6aPVr73e.jpg",
+					"url": "https://t.co/ZMXPMEcJ7J",
+					"display_url": "pic.twitter.com/ZMXPMEcJ7J",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1293153468010528770/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20267,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293153422548455424/vid/720x720/LoY7pnrwRGBS_02g.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293153422548455424/vid/320x320/H1xY_XAJLQ-BSBnN.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293153422548455424/vid/480x480/4ArYeHJius-x2wXx.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1293153422548455424/pl/Py7j08VIFXzqPBkP.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+		"in_reply_to_status_id": 1293150642630832000,
+		"in_reply_to_status_id_str": "1293150642630832128",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541474,
+			"friends_count": 4,
+			"listed_count": 5037,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 615,
+		"favorite_count": 1644,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q: #AskHYO Do you want to visit Brazil? Send a special message to the brazilian fandom, please. We &lt;3 you.\n- @SpotifyBR\n\nA: #HYO #TwitterBlueroom💙👇 https://t.co/ZMXPMEcJ7J"
+	},
+	{
 		"created_at": "Tue Aug 11 11:25:11 +0000 2020",
 		"id": 1293141485290954800,
 		"id_str": "1293146438143299584",
