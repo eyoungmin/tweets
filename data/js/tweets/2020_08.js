@@ -1,6 +1,2461 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 16:56:52 +0000 2020",
+		"id": 1293011755719958500,
+		"id_str": "1293229910324961280",
+		"full_text": "최근 100년에 한 번 꼴로 일어날 수 있는, 또는 특정한 연도에 발생할 확률이 1퍼센트인 극단적인 날씨 빈도가 급격하게 증가하고 있다. 지구는 인간이 가하는 온실가스라는 충격을 받아 오늘날 인간에게 기후위기로 되돌려 주고 있기 때문이다. https://t.co/147usNYeSf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/147usNYeSf",
+					"expanded_url": "http://www.hani.co.kr/arti/science/science_general/957285.html",
+					"display_url": "hani.co.kr/arti/science/s…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문, 한겨레 공식 트위터입니다. https://t.co/gaFSERTpRb",
+			"url": "https://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gaFSERTpRb",
+							"expanded_url": "http://youtube.com/hanitv",
+							"display_url": "youtube.com/hanitv",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 546195,
+			"friends_count": 138667,
+			"listed_count": 7189,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 678,
+		"favorite_count": 228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 100년에 한 번 꼴로 일어날 수 있는, 또는 특정한 연도에 발생할 확률이 1퍼센트인 극단적인 날씨 빈도가 급격하게 증가하고 있다. 지구는 인간이 가하는 온실가스라는 충격을 받아 오늘날 인간에게 기후위기로 되돌려 주고 있기 때문이다. https://t.co/147usNYeSf"
+	},
+	{
+		"created_at": "Tue Aug 11 16:56:48 +0000 2020",
+		"id": 1293125002301243400,
+		"id_str": "1293229893749112835",
+		"full_text": "공교육 과정에서 인종차별에 대해 가르쳐야 한다는 국민청원이 올라왔다.\n\nhttps://t.co/2m1tvyxhJi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2m1tvyxhJi",
+					"expanded_url": "https://news.khan.kr/DKsE",
+					"display_url": "news.khan.kr/DKsE",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723763,
+			"friends_count": 78175,
+			"listed_count": 5957,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 85645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3219,
+		"favorite_count": 782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공교육 과정에서 인종차별에 대해 가르쳐야 한다는 국민청원이 올라왔다.\n\nhttps://t.co/2m1tvyxhJi"
+	},
+	{
+		"created_at": "Tue Aug 11 16:38:57 +0000 2020",
+		"id": 1293225402421227500,
+		"id_str": "1293225402421227520",
+		"full_text": "이 시장을 노려 카카오톡 이모티콘으로 사감티콘(국군장병 단체채팅방), 업무 관련 이모티콘, 대답용 이모티콘 만드신 분도 계신다. 얼마나 버셨을까? 수익이 궁금하다. https://t.co/1Neg4hJQCr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Neg4hJQCr",
+					"expanded_url": "https://twitter.com/simnalamburt/status/1293067156427481089",
+					"display_url": "twitter.com/simnalamburt/s…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293067156427481000,
+		"quoted_status_id_str": "1293067156427481089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1Neg4hJQCr",
+			"expanded": "https://twitter.com/simnalamburt/status/1293067156427481089",
+			"display": "twitter.com/simnalamburt/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 11 06:10:08 +0000 2020",
+			"id": 1293067156427481000,
+			"id_str": "1293067156427481089",
+			"full_text": "카카오톡 단체 채팅이 하는일\n\n한국 시민들의 의사소통공간\n한국 중소기업들을 책임지는 협업도구\n대한민국 국군 하사관/장교들의 효과적인 지휘통제수단 (..?)\n대한민국 도로교통을 책임지는 하이브마인드 (NEW!!!) https://t.co/Buldme3eG9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Buldme3eG9",
+						"expanded_url": "https://twitter.com/YTN24/status/1292911104285241344",
+						"display_url": "twitter.com/YTN24/status/1…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130779448,
+				"id_str": "130779448",
+				"name": "김지현",
+				"screen_name": "simnalamburt",
+				"location": "Seoul, Republic of Korea",
+				"description": "Feminist, Software Engineer, Free Software Supporter, SNUCSE",
+				"url": "https://t.co/yAvhAV56iP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yAvhAV56iP",
+								"expanded_url": "https://hyeon.me",
+								"display_url": "hyeon.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2196,
+				"friends_count": 1405,
+				"listed_count": 53,
+				"created_at": "Thu Apr 08 08:32:30 +0000 2010",
+				"favourites_count": 113253,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51156,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130779448/1475522732",
+				"profile_link_color": "744D25",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1292911104285241300,
+			"quoted_status_id_str": "1292911104285241344",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Buldme3eG9",
+				"expanded": "https://twitter.com/YTN24/status/1292911104285241344",
+				"display": "twitter.com/YTN24/status/1…"
+			},
+			"retweet_count": 44,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 시장을 노려 카카오톡 이모티콘으로 사감티콘(국군장병 단체채팅방), 업무 관련 이모티콘, 대답용 이모티콘 만드신 분도 계신다. 얼마나 버셨을까? 수익이 궁금하다. https://t.co/1Neg4hJQCr"
+	},
+	{
+		"created_at": "Tue Aug 11 16:35:55 +0000 2020",
+		"id": 1293224637363449900,
+		"id_str": "1293224637363449856",
+		"full_text": "@kakaoteam 1만건 메시지도 없애고 월렛에 아아아주 가끔 크레딧 채워주는 것이 끝임.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kakaoteam",
+					"name": "카카오팀",
+					"id": 107294734,
+					"id_str": "107294734",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293224229211533300,
+		"in_reply_to_status_id_str": "1293224229211533312",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@kakaoteam 1만건 메시지도 없애고 월렛에 아아아주 가끔 크레딧 채워주는 것이 끝임."
+	},
+	{
+		"created_at": "Tue Aug 11 16:34:17 +0000 2020",
+		"id": 1293224229211533300,
+		"id_str": "1293224229211533312",
+		"full_text": "솔직히 이정도면 국가인프라인데 채널 기능은 무료플랜으로 풀어야 하는 것 아닌지. 공지용 채널 서비스 메신저마다 거의 다 있는 기능임. 유료화 하고 월렛 붙여서 기존 고객 다 떠나게한 카톡 채널. @kakaoteam https://t.co/1Neg4hJQCr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kakaoteam",
+					"name": "카카오팀",
+					"id": 107294734,
+					"id_str": "107294734",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1Neg4hJQCr",
+					"expanded_url": "https://twitter.com/simnalamburt/status/1293067156427481089",
+					"display_url": "twitter.com/simnalamburt/s…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293067156427481000,
+		"quoted_status_id_str": "1293067156427481089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1Neg4hJQCr",
+			"expanded": "https://twitter.com/simnalamburt/status/1293067156427481089",
+			"display": "twitter.com/simnalamburt/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 11 06:10:08 +0000 2020",
+			"id": 1293067156427481000,
+			"id_str": "1293067156427481089",
+			"full_text": "카카오톡 단체 채팅이 하는일\n\n한국 시민들의 의사소통공간\n한국 중소기업들을 책임지는 협업도구\n대한민국 국군 하사관/장교들의 효과적인 지휘통제수단 (..?)\n대한민국 도로교통을 책임지는 하이브마인드 (NEW!!!) https://t.co/Buldme3eG9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Buldme3eG9",
+						"expanded_url": "https://twitter.com/YTN24/status/1292911104285241344",
+						"display_url": "twitter.com/YTN24/status/1…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130779448,
+				"id_str": "130779448",
+				"name": "김지현",
+				"screen_name": "simnalamburt",
+				"location": "Seoul, Republic of Korea",
+				"description": "Feminist, Software Engineer, Free Software Supporter, SNUCSE",
+				"url": "https://t.co/yAvhAV56iP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yAvhAV56iP",
+								"expanded_url": "https://hyeon.me",
+								"display_url": "hyeon.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2196,
+				"friends_count": 1405,
+				"listed_count": 53,
+				"created_at": "Thu Apr 08 08:32:30 +0000 2010",
+				"favourites_count": 113253,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51156,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130779448/1475522732",
+				"profile_link_color": "744D25",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1292911104285241300,
+			"quoted_status_id_str": "1292911104285241344",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Buldme3eG9",
+				"expanded": "https://twitter.com/YTN24/status/1292911104285241344",
+				"display": "twitter.com/YTN24/status/1…"
+			},
+			"retweet_count": 44,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "솔직히 이정도면 국가인프라인데 채널 기능은 무료플랜으로 풀어야 하는 것 아닌지. 공지용 채널 서비스 메신저마다 거의 다 있는 기능임. 유료화 하고 월렛 붙여서 기존 고객 다 떠나게한 카톡 채널. @kakaoteam https://t.co/1Neg4hJQCr"
+	},
+	{
+		"created_at": "Tue Aug 11 16:31:07 +0000 2020",
+		"id": 1293067156427481000,
+		"id_str": "1293223429366116352",
+		"full_text": "카카오톡 단체 채팅이 하는일\n\n한국 시민들의 의사소통공간\n한국 중소기업들을 책임지는 협업도구\n대한민국 국군 하사관/장교들의 효과적인 지휘통제수단 (..?)\n대한민국 도로교통을 책임지는 하이브마인드 (NEW!!!) https://t.co/Buldme3eG9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Buldme3eG9",
+					"expanded_url": "https://twitter.com/YTN24/status/1292911104285241344",
+					"display_url": "twitter.com/YTN24/status/1…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130779448,
+			"id_str": "130779448",
+			"name": "김지현",
+			"screen_name": "simnalamburt",
+			"location": "Seoul, Republic of Korea",
+			"description": "Feminist, Software Engineer, Free Software Supporter, SNUCSE",
+			"url": "https://t.co/yAvhAV56iP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAvhAV56iP",
+							"expanded_url": "https://hyeon.me",
+							"display_url": "hyeon.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 1405,
+			"listed_count": 53,
+			"created_at": "Thu Apr 08 08:32:30 +0000 2010",
+			"favourites_count": 113253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130779448/1475522732",
+			"profile_link_color": "744D25",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1292911104285241300,
+		"quoted_status_id_str": "1292911104285241344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Buldme3eG9",
+			"expanded": "https://twitter.com/YTN24/status/1292911104285241344",
+			"display": "twitter.com/YTN24/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 10 19:50:03 +0000 2020",
+			"id": 1292911104285241300,
+			"id_str": "1292911104285241344",
+			"full_text": "곡소리 나는 출근길…곳곳에서 ’먹통 내비’ 분통\n통제 구간 실시간 반영 안 되는 내비게이션\n서울 경찰, 업체와 ’단체 대화방’에서 정보 공유\n밤 10시 이후 대화방 중단…야간 대응 ’빈틈’https://t.co/D6knCIKcFt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D6knCIKcFt",
+						"expanded_url": "https://m.ytn.co.kr/news/202008110426518274_0101_018.html",
+						"display_url": "m.ytn.co.kr/news/202008110…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.ytn.co.kr\" rel=\"nofollow\">YTN</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108872550,
+				"id_str": "108872550",
+				"name": "YTN NEWS",
+				"screen_name": "YTN24",
+				"location": "Seoul, Korea",
+				"description": "뉴스 덕후 YTN의 공식 트위터 계정",
+				"url": "https://t.co/nmpmv3VegU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nmpmv3VegU",
+								"expanded_url": "http://www.ytn.co.kr",
+								"display_url": "ytn.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 324084,
+				"friends_count": 113565,
+				"listed_count": 3394,
+				"created_at": "Wed Jan 27 07:58:07 +0000 2010",
+				"favourites_count": 6567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101737,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291265911114960897/GzlpDNVV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291265911114960897/GzlpDNVV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108872550/1596696760",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 44,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카카오톡 단체 채팅이 하는일\n\n한국 시민들의 의사소통공간\n한국 중소기업들을 책임지는 협업도구\n대한민국 국군 하사관/장교들의 효과적인 지휘통제수단 (..?)\n대한민국 도로교통을 책임지는 하이브마인드 (NEW!!!) https://t.co/Buldme3eG9"
+	},
+	{
+		"created_at": "Tue Aug 11 16:29:09 +0000 2020",
+		"id": 1290639221250642000,
+		"id_str": "1293222937747525633",
+		"full_text": "그래도 카카오 왕국은 건재하다. 왜냐 암만 좋은 툴이 있어도 카카오를 쓸 것이기 때문이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1290639063339344000,
+		"in_reply_to_status_id_str": "1290639063339343873",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래도 카카오 왕국은 건재하다. 왜냐 암만 좋은 툴이 있어도 카카오를 쓸 것이기 때문이다."
+	},
+	{
+		"created_at": "Tue Aug 11 16:25:09 +0000 2020",
+		"id": 1293221931022348300,
+		"id_str": "1293221931022348289",
+		"full_text": "이 기사가 공유되면서 나온 말이 뭔데 카카오톡 마비되면 큰 영향으로 같이 마비된다는 것이었음. 그렇다면 만약 카카오톡 서버가 죽는다면 이 사람들은 그때 어떤 매뉴얼로 표준을 따라 이 일을 하게 되나요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293221053896863700,
+		"in_reply_to_status_id_str": "1293221053896863744",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 기사가 공유되면서 나온 말이 뭔데 카카오톡 마비되면 큰 영향으로 같이 마비된다는 것이었음. 그렇다면 만약 카카오톡 서버가 죽는다면 이 사람들은 그때 어떤 매뉴얼로 표준을 따라 이 일을 하게 되나요?"
+	},
+	{
+		"created_at": "Tue Aug 11 16:23:08 +0000 2020",
+		"id": 1293203317808488400,
+		"id_str": "1293221419975770113",
+		"full_text": "@JongwonKim 기사에서 지적한 것은 가장 돌발적이면서도 엄청난 파급 효과를 빚는 주요 간선도로의 전구간 통제 정보가 제때 전파되지 못하는 상황이었고, 이렇게 큰 이벤트 정보가 1) 표준화/자동화되지 않고 2) 정시제 운영되는 비표준 채널로 전달된다는 것은 충분히 문제라고 생각합니다.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JongwonKim",
+					"name": "모루",
+					"id": 45753838,
+					"id_str": "45753838",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1293202348446081000,
+		"in_reply_to_status_id_str": "1293202348446081024",
+		"in_reply_to_user_id": 353097742,
+		"in_reply_to_user_id_str": "353097742",
+		"in_reply_to_screen_name": "aransistore",
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 대멸종 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2666,
+			"friends_count": 197,
+			"listed_count": 34,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 16658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 414106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@JongwonKim 기사에서 지적한 것은 가장 돌발적이면서도 엄청난 파급 효과를 빚는 주요 간선도로의 전구간 통제 정보가 제때 전파되지 못하는 상황이었고, 이렇게 큰 이벤트 정보가 1) 표준화/자동화되지 않고 2) 정시제 운영되는 비표준 채널로 전달된다는 것은 충분히 문제라고 생각합니다."
+	},
+	{
+		"created_at": "Tue Aug 11 16:21:40 +0000 2020",
+		"id": 1293221053896863700,
+		"id_str": "1293221053896863744",
+		"full_text": "말대로면 필요한 업무라면 따로 유사 서비스를 개발하고 DB를 쌓아도 모자랄 일인데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293220734399942700,
+		"in_reply_to_status_id_str": "1293220734399942657",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "말대로면 필요한 업무라면 따로 유사 서비스를 개발하고 DB를 쌓아도 모자랄 일인데."
+	},
+	{
+		"created_at": "Tue Aug 11 16:20:24 +0000 2020",
+		"id": 1293220734399942700,
+		"id_str": "1293220734399942657",
+		"full_text": "이것을 개발자나 서비스 기획자들이 보는 시각은  이러해도 문제라는 지점에 있는 것임. 아예 모르고 하는 이야기도 아닐테고. 공공데이터/API를 활용하려고 노력을 해야지 그마저도 캐시형태로 저장되는 채팅방인 카카오톡에서 한다? 절레절레. https://t.co/y0tbgmOXsp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y0tbgmOXsp",
+					"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601",
+					"display_url": "twitter.com/JongwonKim/sta…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293173850620825600,
+		"quoted_status_id_str": "1293173850620825601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y0tbgmOXsp",
+			"expanded": "https://twitter.com/JongwonKim/status/1293173850620825601",
+			"display": "twitter.com/JongwonKim/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 11 13:14:06 +0000 2020",
+			"id": 1293173850620825600,
+			"id_str": "1293173850620825601",
+			"full_text": "긴급 교통 정보를 카톡을 통해 입력한다는 기사에 대한 관련 업계 사람의 글. \nhttps://t.co/qL0B1Cr2G2 https://t.co/qg9NSieS5B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qL0B1Cr2G2",
+						"expanded_url": "https://www.ytn.co.kr/_ln/0101_202008110426518274",
+						"display_url": "ytn.co.kr/_ln/0101_20200…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1293173843628929000,
+						"id_str": "1293173843628929025",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/EfJGwl5UMAER9Ay.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfJGwl5UMAER9Ay.jpg",
+						"url": "https://t.co/qg9NSieS5B",
+						"display_url": "pic.twitter.com/qg9NSieS5B",
+						"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 1584,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 416,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 735,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1293173843628929000,
+						"id_str": "1293173843628929025",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/EfJGwl5UMAER9Ay.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfJGwl5UMAER9Ay.jpg",
+						"url": "https://t.co/qg9NSieS5B",
+						"display_url": "pic.twitter.com/qg9NSieS5B",
+						"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 1584,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 416,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 735,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1293173843683508200,
+						"id_str": "1293173843683508225",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/EfJGwmGVAAEYEFq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfJGwmGVAAEYEFq.jpg",
+						"url": "https://t.co/qg9NSieS5B",
+						"display_url": "pic.twitter.com/qg9NSieS5B",
+						"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 435,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 967,
+								"h": 1511,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1293173843717001200,
+						"id_str": "1293173843717001216",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/EfJGwmOUEAA8vx6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfJGwmOUEAA8vx6.jpg",
+						"url": "https://t.co/qg9NSieS5B",
+						"display_url": "pic.twitter.com/qg9NSieS5B",
+						"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 975,
+								"h": 1621,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 409,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 722,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45753838,
+				"id_str": "45753838",
+				"name": "모루",
+				"screen_name": "JongwonKim",
+				"location": "",
+				"description": "프로그래머 / 테스트 자동화 / 리니지 이터널 / ZDNet컬럼, 망치와 모루 / 멋진신세계 / Tech 관련 트윗은 가끔 @nvil 에서 합니다",
+				"url": "https://t.co/uU9OU3BSOy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uU9OU3BSOy",
+								"expanded_url": "http://www.forge.kr",
+								"display_url": "forge.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1446,
+				"friends_count": 463,
+				"listed_count": 68,
+				"created_at": "Tue Jun 09 03:31:57 +0000 2009",
+				"favourites_count": 38874,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20394,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684489988608638978/jyIB9xKc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684489988608638978/jyIB9xKc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45753838/1395409032",
+				"profile_link_color": "6559C2",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이것을 개발자나 서비스 기획자들이 보는 시각은  이러해도 문제라는 지점에 있는 것임. 아예 모르고 하는 이야기도 아닐테고. 공공데이터/API를 활용하려고 노력을 해야지 그마저도 캐시형태로 저장되는 채팅방인 카카오톡에서 한다? 절레절레. https://t.co/y0tbgmOXsp"
+	},
+	{
+		"created_at": "Tue Aug 11 16:17:29 +0000 2020",
+		"id": 1293028467068424200,
+		"id_str": "1293219998937182209",
+		"full_text": "이러나 저러나 굴러만 가면 되지 뭐가 문제냐고요? 만약 내비게이션 시장에 새 사업자가 진입하면, 실시간 도로교통정보를 반영하기 위해서 경찰청과 협약을 맺고 저 단톡방을 매일 사람이 주시하고 있어야 한다는 문턱이 생기는 것이고요. 공개정보/API의 신뢰성이 높으면 처음부터 없을 일인데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1293023787462451200,
+		"in_reply_to_status_id_str": "1293023787462451200",
+		"in_reply_to_user_id": 353097742,
+		"in_reply_to_user_id_str": "353097742",
+		"in_reply_to_screen_name": "aransistore",
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 대멸종 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2666,
+			"friends_count": 197,
+			"listed_count": 34,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 16658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 414106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이러나 저러나 굴러만 가면 되지 뭐가 문제냐고요? 만약 내비게이션 시장에 새 사업자가 진입하면, 실시간 도로교통정보를 반영하기 위해서 경찰청과 협약을 맺고 저 단톡방을 매일 사람이 주시하고 있어야 한다는 문턱이 생기는 것이고요. 공개정보/API의 신뢰성이 높으면 처음부터 없을 일인데."
+	},
+	{
+		"created_at": "Tue Aug 11 16:17:27 +0000 2020",
+		"id": 1293023787462451200,
+		"id_str": "1293219992859578368",
+		"full_text": "공식 정보공개창구가 있음에도 신뢰성과 호환성에 의문이 있어 아무도 안 쓴다는데, 공식창구의 신뢰성은 ad-hoc, de facto로 굴러가는 이런 비공식 채널이 존재하는 한 절대 개선되지 않습니다. 저 단톡방을 폐쇄해야 비로소 공인정보의 신뢰도가 올라가고 호환성이 보장될 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1293022927437226000,
+		"in_reply_to_status_id_str": "1293022927437225991",
+		"in_reply_to_user_id": 353097742,
+		"in_reply_to_user_id_str": "353097742",
+		"in_reply_to_screen_name": "aransistore",
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 대멸종 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2666,
+			"friends_count": 197,
+			"listed_count": 34,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 16658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 414106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "공식 정보공개창구가 있음에도 신뢰성과 호환성에 의문이 있어 아무도 안 쓴다는데, 공식창구의 신뢰성은 ad-hoc, de facto로 굴러가는 이런 비공식 채널이 존재하는 한 절대 개선되지 않습니다. 저 단톡방을 폐쇄해야 비로소 공인정보의 신뢰도가 올라가고 호환성이 보장될 것."
+	},
+	{
+		"created_at": "Tue Aug 11 16:17:26 +0000 2020",
+		"id": 1293022927437226000,
+		"id_str": "1293219988875042816",
+		"full_text": "일본이 코로나19 확진자 정보를 팩스로 받는다고 혀를 찼죠. 고개를 돌려보니 한국은 실시간 도로통제정보를 카톡으로 전파하고 있었던 거에요.\nhttps://t.co/WMMViIiZQn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WMMViIiZQn",
+					"expanded_url": "https://twitter.com/YTN24/status/1292911104285241344?s=19",
+					"display_url": "twitter.com/YTN24/status/1…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 대멸종 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2666,
+			"friends_count": 197,
+			"listed_count": 34,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 16658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 414106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1292911104285241300,
+		"quoted_status_id_str": "1292911104285241344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WMMViIiZQn",
+			"expanded": "https://twitter.com/YTN24/status/1292911104285241344?s=19",
+			"display": "twitter.com/YTN24/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 10 19:50:03 +0000 2020",
+			"id": 1292911104285241300,
+			"id_str": "1292911104285241344",
+			"full_text": "곡소리 나는 출근길…곳곳에서 ’먹통 내비’ 분통\n통제 구간 실시간 반영 안 되는 내비게이션\n서울 경찰, 업체와 ’단체 대화방’에서 정보 공유\n밤 10시 이후 대화방 중단…야간 대응 ’빈틈’https://t.co/D6knCIKcFt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D6knCIKcFt",
+						"expanded_url": "https://m.ytn.co.kr/news/202008110426518274_0101_018.html",
+						"display_url": "m.ytn.co.kr/news/202008110…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.ytn.co.kr\" rel=\"nofollow\">YTN</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108872550,
+				"id_str": "108872550",
+				"name": "YTN NEWS",
+				"screen_name": "YTN24",
+				"location": "Seoul, Korea",
+				"description": "뉴스 덕후 YTN의 공식 트위터 계정",
+				"url": "https://t.co/nmpmv3VegU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nmpmv3VegU",
+								"expanded_url": "http://www.ytn.co.kr",
+								"display_url": "ytn.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 324084,
+				"friends_count": 113565,
+				"listed_count": 3394,
+				"created_at": "Wed Jan 27 07:58:07 +0000 2010",
+				"favourites_count": 6567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101737,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291265911114960897/GzlpDNVV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291265911114960897/GzlpDNVV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108872550/1596696760",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 893,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본이 코로나19 확진자 정보를 팩스로 받는다고 혀를 찼죠. 고개를 돌려보니 한국은 실시간 도로통제정보를 카톡으로 전파하고 있었던 거에요.\nhttps://t.co/WMMViIiZQn"
+	},
+	{
+		"created_at": "Tue Aug 11 16:17:06 +0000 2020",
+		"id": 1293173850620825600,
+		"id_str": "1293219901373427714",
+		"full_text": "긴급 교통 정보를 카톡을 통해 입력한다는 기사에 대한 관련 업계 사람의 글. \nhttps://t.co/qL0B1Cr2G2 https://t.co/qg9NSieS5B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qL0B1Cr2G2",
+					"expanded_url": "https://www.ytn.co.kr/_ln/0101_202008110426518274",
+					"display_url": "ytn.co.kr/_ln/0101_20200…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293173843628929000,
+					"id_str": "1293173843628929025",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJGwl5UMAER9Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfJGwl5UMAER9Ay.jpg",
+					"url": "https://t.co/qg9NSieS5B",
+					"display_url": "pic.twitter.com/qg9NSieS5B",
+					"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 1584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 735,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293173843628929000,
+					"id_str": "1293173843628929025",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJGwl5UMAER9Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfJGwl5UMAER9Ay.jpg",
+					"url": "https://t.co/qg9NSieS5B",
+					"display_url": "pic.twitter.com/qg9NSieS5B",
+					"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 1584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 735,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293173843683508200,
+					"id_str": "1293173843683508225",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJGwmGVAAEYEFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfJGwmGVAAEYEFq.jpg",
+					"url": "https://t.co/qg9NSieS5B",
+					"display_url": "pic.twitter.com/qg9NSieS5B",
+					"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 967,
+							"h": 1511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293173843717001200,
+					"id_str": "1293173843717001216",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJGwmOUEAA8vx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfJGwmOUEAA8vx6.jpg",
+					"url": "https://t.co/qg9NSieS5B",
+					"display_url": "pic.twitter.com/qg9NSieS5B",
+					"expanded_url": "https://twitter.com/JongwonKim/status/1293173850620825601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 975,
+							"h": 1621,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 722,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45753838,
+			"id_str": "45753838",
+			"name": "모루",
+			"screen_name": "JongwonKim",
+			"location": "",
+			"description": "프로그래머 / 테스트 자동화 / 리니지 이터널 / ZDNet컬럼, 망치와 모루 / 멋진신세계 / Tech 관련 트윗은 가끔 @nvil 에서 합니다",
+			"url": "https://t.co/uU9OU3BSOy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uU9OU3BSOy",
+							"expanded_url": "http://www.forge.kr",
+							"display_url": "forge.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1446,
+			"friends_count": 463,
+			"listed_count": 68,
+			"created_at": "Tue Jun 09 03:31:57 +0000 2009",
+			"favourites_count": 38874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/684489988608638978/jyIB9xKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/684489988608638978/jyIB9xKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45753838/1395409032",
+			"profile_link_color": "6559C2",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "긴급 교통 정보를 카톡을 통해 입력한다는 기사에 대한 관련 업계 사람의 글. \nhttps://t.co/qL0B1Cr2G2 https://t.co/qg9NSieS5B"
+	},
+	{
+		"created_at": "Tue Aug 11 16:15:35 +0000 2020",
+		"id": 1293017916699336700,
+		"id_str": "1293219523026227200",
+		"full_text": "독일 헌법재판소가 세계 최대의 온라인 쇼핑업체 아마존이 낸 반노조 소송에서 노조의 편을 들었습니다. \n\n\"기업은 노조보다 ‘구조적으로 우월’하기 때문에 노조가 효과적인 파업권을 갖지 못할 경우, 노동자가 할 수 있는 것은 ‘집단적으로 구걸’하는 것 뿐\"\n\nhttps://t.co/gxuJwyZRnL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gxuJwyZRnL",
+					"expanded_url": "http://www.newscham.net/news/view.php?board=news&nid=105239",
+					"display_url": "newscham.net/news/view.php?…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705580216576380900,
+			"id_str": "705580216576380928",
+			"name": "워커스",
+			"screen_name": "workersmag",
+			"location": "",
+			"description": "색깔 진한 언론, 워커스WORKERS -정기구독 신청 https://t.co/VErmMHE5W3 (CMS 매월 10,000원)",
+			"url": "https://t.co/8TBMVzfEOv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TBMVzfEOv",
+							"expanded_url": "http://workers-zine.net/",
+							"display_url": "workers-zine.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VErmMHE5W3",
+							"expanded_url": "http://workers-zine.net/cms",
+							"display_url": "workers-zine.net/cms",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1923,
+			"friends_count": 177,
+			"listed_count": 23,
+			"created_at": "Fri Mar 04 02:26:47 +0000 2016",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/718277855042531328/kXkK7yaG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/718277855042531328/kXkK7yaG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705580216576380928/1461204931",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 300,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "독일 헌법재판소가 세계 최대의 온라인 쇼핑업체 아마존이 낸 반노조 소송에서 노조의 편을 들었습니다. \n\n\"기업은 노조보다 ‘구조적으로 우월’하기 때문에 노조가 효과적인 파업권을 갖지 못할 경우, 노동자가 할 수 있는 것은 ‘집단적으로 구걸’하는 것 뿐\"\n\nhttps://t.co/gxuJwyZRnL"
+	},
+	{
 		"created_at": "Tue Aug 11 15:28:06 +0000 2020",
 		"id": 1293200751616041000,
 		"id_str": "1293207570728071168",
