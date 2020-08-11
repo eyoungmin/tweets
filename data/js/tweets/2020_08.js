@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 05:27:57 +0000 2020",
+		"id": 1293043252300415000,
+		"id_str": "1293056539348131840",
+		"full_text": "라인업👖\n원어스, 동키즈아이캔, 세러데이, 시크릿넘버, 베리베리, 골든차일드, 로켓펀치, 티오오, I.O.I, 프로미스나인, 에이티즈, CIX, 에이핑크, 몬스타엑스, TXT, (여자)아이들, 솔라, AB6IX, 아스트로, 위키미키,펜타곤,여자친구,우주소녀,세븐틴,엔시티드림,아이즈원,레드벨벳,방탄소년단,비투비 https://t.co/LILdHOIGOk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LILdHOIGOk",
+					"expanded_url": "https://twitter.com/allthekpop/status/1293011392727900160",
+					"display_url": "twitter.com/allthekpop/sta…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48610,
+			"friends_count": 2577,
+			"listed_count": 213,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293011392727900200,
+		"quoted_status_id_str": "1293011392727900160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LILdHOIGOk",
+			"expanded": "https://twitter.com/allthekpop/status/1293011392727900160",
+			"display": "twitter.com/allthekpop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 11 02:28:33 +0000 2020",
+			"id": 1293011392727900200,
+			"id_str": "1293011392727900160",
+			"full_text": "올케다방의 띵곡팔이👋🏻\n⏰PM 2:00~3:30\n\n안 어울리는 옷이 없는 울 ♥ㅐ들 ‼️ 청바지랑 청자켓 입은 내 최애 좋아하는 올케들 모여라 ＼＼\\\\٩( 'ω' )و //／／\n\n▶https://t.co/c4RABIBsIa\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/mC3YAMfhrA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c4RABIBsIa",
+						"expanded_url": "https://youtu.be/mijybYvynQ8",
+						"display_url": "youtu.be/mijybYvynQ8",
+						"indices": [
+							101,
+							124
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1293011383374684200,
+						"id_str": "1293011383374684161",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EfGzAKSVoAExrkm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfGzAKSVoAExrkm.jpg",
+						"url": "https://t.co/mC3YAMfhrA",
+						"display_url": "pic.twitter.com/mC3YAMfhrA",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1293011392727900160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1293011383374684200,
+						"id_str": "1293011383374684161",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EfGzAKSVoAExrkm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfGzAKSVoAExrkm.jpg",
+						"url": "https://t.co/mC3YAMfhrA",
+						"display_url": "pic.twitter.com/mC3YAMfhrA",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1293011392727900160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/YpjchEd2rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpjchEd2rf",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48610,
+				"friends_count": 2577,
+				"listed_count": 213,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 8010,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5365,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 15,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라인업👖\n원어스, 동키즈아이캔, 세러데이, 시크릿넘버, 베리베리, 골든차일드, 로켓펀치, 티오오, I.O.I, 프로미스나인, 에이티즈, CIX, 에이핑크, 몬스타엑스, TXT, (여자)아이들, 솔라, AB6IX, 아스트로, 위키미키,펜타곤,여자친구,우주소녀,세븐틴,엔시티드림,아이즈원,레드벨벳,방탄소년단,비투비 https://t.co/LILdHOIGOk"
+	},
+	{
+		"created_at": "Tue Aug 11 05:25:16 +0000 2020",
+		"id": 1293049550718918700,
+		"id_str": "1293055863482200064",
+		"full_text": "🛎 The additional application for the 2nd BYULHARANG - the official fan club of CHUNG HA\n\n✔️ Application period : ~ 2020. 8. 31\n✌🏻 Details : https://t.co/xxJ68ux685\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						169,
+						177
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						183,
+						194
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						195,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xxJ68ux685",
+					"expanded_url": "https://bit.ly/30KMBCF",
+					"display_url": "bit.ly/30KMBCF",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1293049547833319400,
+		"in_reply_to_status_id_str": "1293049547833319424",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286539,
+			"friends_count": 0,
+			"listed_count": 1739,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🛎 The additional application for the 2nd BYULHARANG - the official fan club of CHUNG HA\n\n✔️ Application period : ~ 2020. 8. 31\n✌🏻 Details : https://t.co/xxJ68ux685\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#OfficialBYULHARANG2nd"
+	},
+	{
 		"created_at": "Tue Aug 11 04:51:13 +0000 2020",
 		"id": 1292916253762388000,
 		"id_str": "1293047294959337475",
