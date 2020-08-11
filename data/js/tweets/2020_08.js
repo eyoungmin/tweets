@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 23:37:42 +0000 2020",
+		"id": 1292960019177070600,
+		"id_str": "1292968397706207233",
+		"full_text": "[글로벌 피플] 잡스처럼 천재 아니지만 쿡의 ‘함께 멀리’ 리더십…애플, 꿈의 시총 2조 달러로 https://t.co/cGbKJs9SV8 CEO가 된지 9년만에 시총 5배 넘게 늘린 팀 쿡. 그의 리더십에 대한 WSJ주말기사가 화제였는데 그 주요 내용을 중앙이 소개. https://t.co/4X3ADTpsUy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cGbKJs9SV8",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=025&aid=0003024980",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292960005964984300,
+					"id_str": "1292960005964984320",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EfGERmhUcAA0G_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfGERmhUcAA0G_T.jpg",
+					"url": "https://t.co/4X3ADTpsUy",
+					"display_url": "pic.twitter.com/4X3ADTpsUy",
+					"expanded_url": "https://twitter.com/estima7/status/1292960019177070592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 250,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292960005964984300,
+					"id_str": "1292960005964984320",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EfGERmhUcAA0G_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfGERmhUcAA0G_T.jpg",
+					"url": "https://t.co/4X3ADTpsUy",
+					"display_url": "pic.twitter.com/4X3ADTpsUy",
+					"expanded_url": "https://twitter.com/estima7/status/1292960019177070592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 250,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369346,
+			"friends_count": 2272,
+			"listed_count": 4484,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[글로벌 피플] 잡스처럼 천재 아니지만 쿡의 ‘함께 멀리’ 리더십…애플, 꿈의 시총 2조 달러로 https://t.co/cGbKJs9SV8 CEO가 된지 9년만에 시총 5배 넘게 늘린 팀 쿡. 그의 리더십에 대한 WSJ주말기사가 화제였는데 그 주요 내용을 중앙이 소개. https://t.co/4X3ADTpsUy"
+	},
+	{
+		"created_at": "Mon Aug 10 23:37:25 +0000 2020",
+		"id": 1292968228927357000,
+		"id_str": "1292968326344237057",
+		"full_text": "P2 - 워드프레스가 만든 팀 협업 도구 https://t.co/RaOOosC5aR \n- 2005년부터 리모트로 일해왔던 Automattic이 내부에서 사용하던 도구를 공개한 것\n- 팀 협업을 위한 문서편집/프로젝트/대화를 하나로 묶은 도구 \nㅤ→ 실시간 문서 동시 편집 및 메시징, 멘션 기능\nㅤ→ Private / Public 설정...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RaOOosC5aR",
+					"expanded_url": "https://j.mp/2DvYRhG",
+					"display_url": "j.mp/2DvYRhG",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3701,
+			"friends_count": 0,
+			"listed_count": 55,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "P2 - 워드프레스가 만든 팀 협업 도구 https://t.co/RaOOosC5aR \n- 2005년부터 리모트로 일해왔던 Automattic이 내부에서 사용하던 도구를 공개한 것\n- 팀 협업을 위한 문서편집/프로젝트/대화를 하나로 묶은 도구 \nㅤ→ 실시간 문서 동시 편집 및 메시징, 멘션 기능\nㅤ→ Private / Public 설정..."
+	},
+	{
+		"created_at": "Mon Aug 10 23:31:17 +0000 2020",
+		"id": 1292929099892048000,
+		"id_str": "1292966782072795136",
+		"full_text": "👆 For non-profits and teams contributing to the Jangmi disaster relief efforts - if Notion can help, we’d love to give you a free workspace. Please fill out the form below and we will get back to you ASAP! Our hearts go out to everyone affected. https://t.co/wq9bJP2e36",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wq9bJP2e36",
+					"expanded_url": "https://notionup.typeform.com/to/nlhrVv",
+					"display_url": "notionup.typeform.com/to/nlhrVv",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292929098910544000,
+		"in_reply_to_status_id_str": "1292929098910543872",
+		"in_reply_to_user_id": 708915428454576100,
+		"in_reply_to_user_id_str": "708915428454576128",
+		"in_reply_to_screen_name": "NotionHQ",
+		"user": {
+			"id": 708915428454576100,
+			"id_str": "708915428454576128",
+			"name": "Notion",
+			"screen_name": "NotionHQ",
+			"location": "San Francisco, CA",
+			"description": "The all-in-one workspace — for notes, tasks, wikis, and databases.",
+			"url": "https://t.co/bYQzF3Owwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bYQzF3Owwn",
+							"expanded_url": "http://www.notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103021,
+			"friends_count": 3167,
+			"listed_count": 1388,
+			"created_at": "Sun Mar 13 07:19:43 +0000 2016",
+			"favourites_count": 27506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/708915428454576128/1584118335",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👆 For non-profits and teams contributing to the Jangmi disaster relief efforts - if Notion can help, we’d love to give you a free workspace. Please fill out the form below and we will get back to you ASAP! Our hearts go out to everyone affected. https://t.co/wq9bJP2e36"
+	},
+	{
+		"created_at": "Mon Aug 10 23:31:14 +0000 2020",
+		"id": 1292929098910544000,
+		"id_str": "1292966768810442752",
+		"full_text": "❤️ 태풍 장미 구호 활동에 힘써 주시는 비영리 단체 및 기타 조직에게 도움이 될 수 있도록 워크스페이스를 무료로 제공해 드리고 싶습니다. 아래의 양식을 작성해 주시면 최대한 빨리 답변 드릴게요! 태풍 장미 피해자들에게 위로의 말씀을 드립니다.\nhttps://t.co/4QlTbm2ZTA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4QlTbm2ZTA",
+					"expanded_url": "https://notionup.typeform.com/to/cSKAL2LL",
+					"display_url": "notionup.typeform.com/to/cSKAL2LL",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1292929097388052500,
+		"in_reply_to_status_id_str": "1292929097388052481",
+		"in_reply_to_user_id": 708915428454576100,
+		"in_reply_to_user_id_str": "708915428454576128",
+		"in_reply_to_screen_name": "NotionHQ",
+		"user": {
+			"id": 708915428454576100,
+			"id_str": "708915428454576128",
+			"name": "Notion",
+			"screen_name": "NotionHQ",
+			"location": "San Francisco, CA",
+			"description": "The all-in-one workspace — for notes, tasks, wikis, and databases.",
+			"url": "https://t.co/bYQzF3Owwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bYQzF3Owwn",
+							"expanded_url": "http://www.notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103021,
+			"friends_count": 3167,
+			"listed_count": 1388,
+			"created_at": "Sun Mar 13 07:19:43 +0000 2016",
+			"favourites_count": 27506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/708915428454576128/1584118335",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️ 태풍 장미 구호 활동에 힘써 주시는 비영리 단체 및 기타 조직에게 도움이 될 수 있도록 워크스페이스를 무료로 제공해 드리고 싶습니다. 아래의 양식을 작성해 주시면 최대한 빨리 답변 드릴게요! 태풍 장미 피해자들에게 위로의 말씀을 드립니다.\nhttps://t.co/4QlTbm2ZTA"
+	},
+	{
+		"created_at": "Mon Aug 10 23:31:05 +0000 2020",
+		"id": 1292929089536274400,
+		"id_str": "1292966731145650176",
+		"full_text": "🇰🇷 Big news today: We just launched Notion in Korean!\nNotion 한국어 버전이 출시되었다는 기쁜 소식을 알려드립니다! https://t.co/s7bl32GBWr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292926867024957400,
+					"id_str": "1292926867024957440",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfFmIqWU0AAaFAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfFmIqWU0AAaFAX.jpg",
+					"url": "https://t.co/s7bl32GBWr",
+					"display_url": "pic.twitter.com/s7bl32GBWr",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1292929089536274432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292926867024957400,
+					"id_str": "1292926867024957440",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfFmIqWU0AAaFAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfFmIqWU0AAaFAX.jpg",
+					"url": "https://t.co/s7bl32GBWr",
+					"display_url": "pic.twitter.com/s7bl32GBWr",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1292929089536274432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 708915428454576100,
+			"id_str": "708915428454576128",
+			"name": "Notion",
+			"screen_name": "NotionHQ",
+			"location": "San Francisco, CA",
+			"description": "The all-in-one workspace — for notes, tasks, wikis, and databases.",
+			"url": "https://t.co/bYQzF3Owwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bYQzF3Owwn",
+							"expanded_url": "http://www.notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103021,
+			"friends_count": 3167,
+			"listed_count": 1388,
+			"created_at": "Sun Mar 13 07:19:43 +0000 2016",
+			"favourites_count": 27506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/708915428454576128/1584118335",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 345,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🇰🇷 Big news today: We just launched Notion in Korean!\nNotion 한국어 버전이 출시되었다는 기쁜 소식을 알려드립니다! https://t.co/s7bl32GBWr"
+	},
+	{
 		"created_at": "Mon Aug 10 16:43:34 +0000 2020",
 		"id": 1292864175719342000,
 		"id_str": "1292864175719342080",
