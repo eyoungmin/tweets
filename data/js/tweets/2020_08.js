@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 04:59:15 +0000 2020",
+		"id": 1293411705402392600,
+		"id_str": "1293411705402392576",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n셀레나 고메즈 “블랙핑크 콜라보곡 28일 발표, 매우 설레”..셀핑 IN YOUR AREA\nhttps://t.co/7qRPvonYn1\n#블랙핑크 #BLACKPINK https://t.co/eJgZGFePxr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7qRPvonYn1",
+					"expanded_url": "https://yg-life.com/archives/158368?lang=ko",
+					"display_url": "yg-life.com/archives/15836…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293411704215351300,
+					"id_str": "1293411704215351296",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EfMfF5oWsAAuOWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfMfF5oWsAAuOWp.jpg",
+					"url": "https://t.co/eJgZGFePxr",
+					"display_url": "pic.twitter.com/eJgZGFePxr",
+					"expanded_url": "https://twitter.com/fromminn/status/1293411705402392576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293411704215351300,
+					"id_str": "1293411704215351296",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EfMfF5oWsAAuOWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfMfF5oWsAAuOWp.jpg",
+					"url": "https://t.co/eJgZGFePxr",
+					"display_url": "pic.twitter.com/eJgZGFePxr",
+					"expanded_url": "https://twitter.com/fromminn/status/1293411705402392576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 938,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n셀레나 고메즈 “블랙핑크 콜라보곡 28일 발표, 매우 설레”..셀핑 IN YOUR AREA\nhttps://t.co/7qRPvonYn1\n#블랙핑크 #BLACKPINK https://t.co/eJgZGFePxr"
+	},
+	{
+		"created_at": "Wed Aug 12 04:27:56 +0000 2020",
+		"id": 1293403377070612500,
+		"id_str": "1293403825693437952",
+		"full_text": "라인업🎧\n블락비, 슈퍼주니어M, 우주소녀, (여자)아이들, AB6IX, 골든차일드, 여자친구, 러블리즈, 펜타곤, Stray Kids, 에이핑크, 에이프릴, 아스트로, 세븐틴, 위키미키, 프로미스나인, 비투비, SF9, 마마무, 트와이스, 더보이즈, NCT 127, 레드벨벳, 아이즈원, BTS, 엑소, 있지, 오마이걸, TXT https://t.co/CBMCT7QTkj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CBMCT7QTkj",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1293374144197918721",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48805,
+			"friends_count": 2575,
+			"listed_count": 214,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293374144197918700,
+		"quoted_status_id_str": "1293374144197918721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CBMCT7QTkj",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1293374144197918721",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 12 02:30:00 +0000 2020",
+			"id": 1293374144197918700,
+			"id_str": "1293374144197918721",
+			"full_text": "올케다방의 띵곡팔이👋🏻\n⏰PM 2:00~3:30\n\n띵곡팔이 200회 맞이🎊 진짜 아.무.노래 갑니다-!\n아무노래나 틀어 일단~♪(^∇^*)\n\n▶https://t.co/Sb1wGRioIh\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/hcTebW2Lub",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Sb1wGRioIh",
+						"expanded_url": "http://youtu.be/32y1mGl3XdE",
+						"display_url": "youtu.be/32y1mGl3XdE",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1293352479430598700,
+						"id_str": "1293352479430598657",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/EfLpOkHU4AEuybd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfLpOkHU4AEuybd.jpg",
+						"url": "https://t.co/hcTebW2Lub",
+						"display_url": "pic.twitter.com/hcTebW2Lub",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1293374144197918721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1293352479430598700,
+						"id_str": "1293352479430598657",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/EfLpOkHU4AEuybd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfLpOkHU4AEuybd.jpg",
+						"url": "https://t.co/hcTebW2Lub",
+						"display_url": "pic.twitter.com/hcTebW2Lub",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1293374144197918721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/YpjchEd2rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpjchEd2rf",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48805,
+				"friends_count": 2575,
+				"listed_count": 214,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 8008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5376,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 226,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 17,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라인업🎧\n블락비, 슈퍼주니어M, 우주소녀, (여자)아이들, AB6IX, 골든차일드, 여자친구, 러블리즈, 펜타곤, Stray Kids, 에이핑크, 에이프릴, 아스트로, 세븐틴, 위키미키, 프로미스나인, 비투비, SF9, 마마무, 트와이스, 더보이즈, NCT 127, 레드벨벳, 아이즈원, BTS, 엑소, 있지, 오마이걸, TXT https://t.co/CBMCT7QTkj"
+	},
+	{
 		"created_at": "Wed Aug 12 03:27:57 +0000 2020",
 		"id": 1293386726497349600,
 		"id_str": "1293388727079907330",
