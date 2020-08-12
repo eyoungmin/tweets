@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 03:27:57 +0000 2020",
+		"id": 1293386726497349600,
+		"id_str": "1293388727079907330",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n1. 공중정원 / BAEKHYUN\n2. 아틀란티스 소녀 / 볼빨간사춘기\n3. Only One / Gallant\n4. Milky Way / Red Velvet\n5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #Only_One #Gallant @BoAkwon @BoA_Official @SoGallant https://t.co/Ke3LszAXwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						152,
+						168
+					]
+				},
+				{
+					"text": "Only_One",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "Gallant",
+					"indices": [
+						179,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoAkwon",
+					"name": "BoA",
+					"id": 169927844,
+					"id_str": "169927844",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"screen_name": "BoA_Official",
+					"name": "BoA Official",
+					"id": 1288694479197581300,
+					"id_str": "1288694479197581312",
+					"indices": [
+						197,
+						210
+					]
+				},
+				{
+					"screen_name": "SoGallant",
+					"name": "gallant",
+					"id": 23324892,
+					"id_str": "23324892",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293354122263978000,
+					"id_str": "1293354122263977985",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EfLquMJU4AEJ2oI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfLquMJU4AEJ2oI.jpg",
+					"url": "https://t.co/Ke3LszAXwL",
+					"display_url": "pic.twitter.com/Ke3LszAXwL",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1293386726497349633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293354122263978000,
+					"id_str": "1293354122263977985",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EfLquMJU4AEJ2oI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfLquMJU4AEJ2oI.jpg",
+					"url": "https://t.co/Ke3LszAXwL",
+					"display_url": "pic.twitter.com/Ke3LszAXwL",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1293386726497349633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293354122263974000,
+					"id_str": "1293354122263973888",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EfLquMJU0AAtP8q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfLquMJU0AAtP8q.jpg",
+					"url": "https://t.co/Ke3LszAXwL",
+					"display_url": "pic.twitter.com/Ke3LszAXwL",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1293386726497349633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1280628247747678200,
+			"id_str": "1280628247747678208",
+			"name": "SMTOWNUSA",
+			"screen_name": "SMTOWN_USA",
+			"location": "",
+			"description": "The Official Twitter of SMUSA",
+			"url": "https://t.co/KdM169wLtq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KdM169wLtq",
+							"expanded_url": "http://smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38519,
+			"friends_count": 25,
+			"listed_count": 63,
+			"created_at": "Tue Jul 07 22:25:11 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280628247747678208/1596129921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 668,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n1. 공중정원 / BAEKHYUN\n2. 아틀란티스 소녀 / 볼빨간사춘기\n3. Only One / Gallant\n4. Milky Way / Red Velvet\n5. 나무 / SM Classics\n\n#보아 #BoA #Our_Beloved_BoA #Only_One #Gallant @BoAkwon @BoA_Official @SoGallant https://t.co/Ke3LszAXwL"
+	},
+	{
 		"created_at": "Wed Aug 12 03:00:42 +0000 2020",
 		"id": 1293381872236535800,
 		"id_str": "1293381872236535808",
