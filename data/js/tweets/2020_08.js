@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 10:25:10 +0000 2020",
+		"id": 1293493148845371400,
+		"id_str": "1293493726225063936",
+		"full_text": "[#희진 / #HeeJin] 오빛들 어떻게 지내고 있나요오 요즘 너무 좋은 노래가 있어서 오빛한테 추천해 주려고 왔어요! ‘스텔라장 - 우르릉 쾅쾅쾅’이라는 노랜데 꼭 한번 들어봐요!💓\n\n#이달의소녀 #LOONA https://t.co/u2n527ryW1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293493136497373200,
+					"id_str": "1293493136497373185",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EfNpJ4hU8AEIPXt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfNpJ4hU8AEIPXt.jpg",
+					"url": "https://t.co/u2n527ryW1",
+					"display_url": "pic.twitter.com/u2n527ryW1",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1293493148845371392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293493136497373200,
+					"id_str": "1293493136497373185",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EfNpJ4hU8AEIPXt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfNpJ4hU8AEIPXt.jpg",
+					"url": "https://t.co/u2n527ryW1",
+					"display_url": "pic.twitter.com/u2n527ryW1",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1293493148845371392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293493136501534700,
+					"id_str": "1293493136501534720",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EfNpJ4iUcAAwj-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfNpJ4iUcAAwj-m.jpg",
+					"url": "https://t.co/u2n527ryW1",
+					"display_url": "pic.twitter.com/u2n527ryW1",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1293493148845371392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293493136501555200,
+					"id_str": "1293493136501555200",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EfNpJ4iUwAAFXH5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfNpJ4iUwAAFXH5.jpg",
+					"url": "https://t.co/u2n527ryW1",
+					"display_url": "pic.twitter.com/u2n527ryW1",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1293493148845371392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 507488,
+			"friends_count": 0,
+			"listed_count": 5312,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6335,
+		"favorite_count": 13630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 오빛들 어떻게 지내고 있나요오 요즘 너무 좋은 노래가 있어서 오빛한테 추천해 주려고 왔어요! ‘스텔라장 - 우르릉 쾅쾅쾅’이라는 노랜데 꼭 한번 들어봐요!💓\n\n#이달의소녀 #LOONA https://t.co/u2n527ryW1"
+	},
+	{
 		"created_at": "Wed Aug 12 10:00:29 +0000 2020",
 		"id": 1293487511793045500,
 		"id_str": "1293487511793045509",
