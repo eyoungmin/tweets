@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 13:57:55 +0000 2020",
+		"id": 1293520908821229600,
+		"id_str": "1293547264409968640",
+		"full_text": "실수나 실패를 너무 심각히 받아들이고 자책에 빠지면 위험 피하게 되고 창의력 잃고 배움도 얕아진다. 실수란 없을 수 없고 힘든 도전일수록 그렇다는 것 이해하면 목적뿐 아니라 과정에서 얻는 것도 중요함을 깨닫게 된다. 자질과 능력은 가변적. 매번 좀 더 나아질 기회로. https://t.co/w7g4N0HFok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w7g4N0HFok",
+					"expanded_url": "https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html",
+					"display_url": "nytimes.com/2020/08/12/wel…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100956,
+			"friends_count": 2395,
+			"listed_count": 308,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 230,
+		"favorite_count": 254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실수나 실패를 너무 심각히 받아들이고 자책에 빠지면 위험 피하게 되고 창의력 잃고 배움도 얕아진다. 실수란 없을 수 없고 힘든 도전일수록 그렇다는 것 이해하면 목적뿐 아니라 과정에서 얻는 것도 중요함을 깨닫게 된다. 자질과 능력은 가변적. 매번 좀 더 나아질 기회로. https://t.co/w7g4N0HFok"
+	},
+	{
 		"created_at": "Wed Aug 12 10:25:10 +0000 2020",
 		"id": 1293493148845371400,
 		"id_str": "1293493726225063936",
