@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 16:45:37 +0000 2020",
+		"id": 1293580612054347800,
+		"id_str": "1293589466393784321",
+		"full_text": "[KCON:TACT 2020 SUMMER] #KCONTACTzip\n\n#KCONTACT Unreleased B CUT\n\n#LOONA\n\n#KCON #KCON2020 #LetsKCON https://t.co/1bzX3idLRu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTzip",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293580583038095400,
+					"id_str": "1293580583038095360",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EfO4r8RUEAAx5yI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfO4r8RUEAAx5yI.jpg",
+					"url": "https://t.co/1bzX3idLRu",
+					"display_url": "pic.twitter.com/1bzX3idLRu",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1293580612054347778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293580583038095400,
+					"id_str": "1293580583038095360",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EfO4r8RUEAAx5yI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfO4r8RUEAAx5yI.jpg",
+					"url": "https://t.co/1bzX3idLRu",
+					"display_url": "pic.twitter.com/1bzX3idLRu",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1293580612054347778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293580583021367300,
+					"id_str": "1293580583021367296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EfO4r8NU0AAdnib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfO4r8NU0AAdnib.jpg",
+					"url": "https://t.co/1bzX3idLRu",
+					"display_url": "pic.twitter.com/1bzX3idLRu",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1293580612054347778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293580583025557500,
+					"id_str": "1293580583025557507",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EfO4r8OUwAMg_y2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfO4r8OUwAMg_y2.jpg",
+					"url": "https://t.co/1bzX3idLRu",
+					"display_url": "pic.twitter.com/1bzX3idLRu",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1293580612054347778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293580583021367300,
+					"id_str": "1293580583021367297",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EfO4r8NU0AE2ed6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfO4r8NU0AE2ed6.jpg",
+					"url": "https://t.co/1bzX3idLRu",
+					"display_url": "pic.twitter.com/1bzX3idLRu",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1293580612054347778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "LET'S KCON! Welcome to KCON :)",
+			"url": "https://t.co/oapPjcm602",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oapPjcm602",
+							"expanded_url": "https://www.youtube.com/Mnet",
+							"display_url": "youtube.com/Mnet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273116,
+			"friends_count": 127,
+			"listed_count": 844,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260715684926902274/jInUHvti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1590630440",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT 2020 SUMMER] #KCONTACTzip\n\n#KCONTACT Unreleased B CUT\n\n#LOONA\n\n#KCON #KCON2020 #LetsKCON https://t.co/1bzX3idLRu"
+	},
+	{
 		"created_at": "Wed Aug 12 15:45:54 +0000 2020",
 		"id": 1293570439600468000,
 		"id_str": "1293574441360859136",
