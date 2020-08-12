@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 14:03:32 +0000 2020",
+		"id": 1293203675452645400,
+		"id_str": "1293548678825693186",
+		"full_text": "동성애 '전환 치료'를 옹호해 온 Allen E. Bergin 박사가 수십 년간 수많은 동성애자들에게 상처를 준 과거 행적에 대한 공식 사과문을 발표했다고. 자신의 두 아들과 손자도 동성애자라는 고백도. https://t.co/zklAGPRbrZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293201568938913800,
+					"id_str": "1293201568938913795",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJf-auU8AMYw3p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfJf-auU8AMYw3p.jpg",
+					"url": "https://t.co/zklAGPRbrZ",
+					"display_url": "pic.twitter.com/zklAGPRbrZ",
+					"expanded_url": "https://twitter.com/jongwon1917/status/1293203675452645378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 695,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293201568938913800,
+					"id_str": "1293201568938913795",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJf-auU8AMYw3p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfJf-auU8AMYw3p.jpg",
+					"url": "https://t.co/zklAGPRbrZ",
+					"display_url": "pic.twitter.com/zklAGPRbrZ",
+					"expanded_url": "https://twitter.com/jongwon1917/status/1293203675452645378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 695,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835741294798368800,
+			"id_str": "835741294798368769",
+			"name": "입헌민주당원 나보코프",
+			"screen_name": "jongwon1917",
+			"location": "",
+			"description": "Умение и труд на благо Родине",
+			"url": "https://t.co/poFiR0A1bJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/poFiR0A1bJ",
+							"expanded_url": "https://jongwon1917.tistory.com",
+							"display_url": "jongwon1917.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3523,
+			"friends_count": 1307,
+			"listed_count": 22,
+			"created_at": "Sun Feb 26 06:40:26 +0000 2017",
+			"favourites_count": 86905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284356516644978689/Uz9jeeOW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284356516644978689/Uz9jeeOW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835741294798368769/1525438850",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3230,
+		"favorite_count": 1087,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동성애 '전환 치료'를 옹호해 온 Allen E. Bergin 박사가 수십 년간 수많은 동성애자들에게 상처를 준 과거 행적에 대한 공식 사과문을 발표했다고. 자신의 두 아들과 손자도 동성애자라는 고백도. https://t.co/zklAGPRbrZ"
+	},
+	{
 		"created_at": "Wed Aug 12 13:57:55 +0000 2020",
 		"id": 1293520908821229600,
 		"id_str": "1293547264409968640",
