@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 00:25:24 +0000 2020",
+		"id": 1293336485903528000,
+		"id_str": "1293342788436865026",
+		"full_text": "#BLACKPINK X Selena Gomez - NEW SINGLE RELEASE TEASER POSTER\n\nNEW SINGLE\n✅2020.08.28\n\n#블랙핑크 #SelenaGomez #셀레나고메즈 #NewSingle #TeaserPoster #20200828_12amEST #20200828_1pmKST #ComingSoon #YG https://t.co/raz0CNqn9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "SelenaGomez",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "셀레나고메즈",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "NewSingle",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "TeaserPoster",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"text": "20200828_12amEST",
+					"indices": [
+						138,
+						155
+					]
+				},
+				{
+					"text": "20200828_1pmKST",
+					"indices": [
+						156,
+						172
+					]
+				},
+				{
+					"text": "ComingSoon",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						185,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293335517832949800,
+					"id_str": "1293335517832949760",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EfLZzRPUMAA_2d9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfLZzRPUMAA_2d9.jpg",
+					"url": "https://t.co/raz0CNqn9o",
+					"display_url": "pic.twitter.com/raz0CNqn9o",
+					"expanded_url": "https://twitter.com/ygent_official/status/1293336485903527936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293335517832949800,
+					"id_str": "1293335517832949760",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EfLZzRPUMAA_2d9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfLZzRPUMAA_2d9.jpg",
+					"url": "https://t.co/raz0CNqn9o",
+					"display_url": "pic.twitter.com/raz0CNqn9o",
+					"expanded_url": "https://twitter.com/ygent_official/status/1293336485903527936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6492510,
+			"friends_count": 38,
+			"listed_count": 6616,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41656,
+		"favorite_count": 97348,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK X Selena Gomez - NEW SINGLE RELEASE TEASER POSTER\n\nNEW SINGLE\n✅2020.08.28\n\n#블랙핑크 #SelenaGomez #셀레나고메즈 #NewSingle #TeaserPoster #20200828_12amEST #20200828_1pmKST #ComingSoon #YG https://t.co/raz0CNqn9o"
+	},
+	{
 		"created_at": "Tue Aug 11 16:56:52 +0000 2020",
 		"id": 1293011755719958500,
 		"id_str": "1293229910324961280",
