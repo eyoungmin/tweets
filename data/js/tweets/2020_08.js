@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 23:32:25 +0000 2020",
+		"id": 1293368392200552400,
+		"id_str": "1293691842458918912",
+		"full_text": "안녕하세요. 독립단편영화 &lt;유산&gt;의 제작비 펀딩을 시작합니다. 여성영화와 독립영화를 사랑하는 관객여러분들의 많은 관심과 지지를 부탁드립니다!\n\n후원하기👇🏻\nhttps://t.co/StcG0RUTzR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/StcG0RUTzR",
+					"expanded_url": "https://forms.gle/emoeY1A5E8YJfxHi6",
+					"display_url": "forms.gle/emoeY1A5E8YJfx…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291884787855048700,
+			"id_str": "1291884787855048705",
+			"name": "유산",
+			"screen_name": "filmthedaughter",
+			"location": "",
+			"description": "2020년 CJ문화재단 제작지원작 단편영화 ‘유산’입니다.       💥후원폼 바로가기👇🏻",
+			"url": "https://t.co/g4AqR1PqRX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g4AqR1PqRX",
+							"expanded_url": "https://forms.gle/emoeY1A5E8YJfxHi6",
+							"display_url": "forms.gle/emoeY1A5E8YJfx…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Fri Aug 07 23:52:02 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291884874127699968/YEP5u0QS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291884874127699968/YEP5u0QS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291884787855048705/1596844475",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. 독립단편영화 &lt;유산&gt;의 제작비 펀딩을 시작합니다. 여성영화와 독립영화를 사랑하는 관객여러분들의 많은 관심과 지지를 부탁드립니다!\n\n후원하기👇🏻\nhttps://t.co/StcG0RUTzR"
+	},
+	{
+		"created_at": "Wed Aug 12 23:32:20 +0000 2020",
+		"id": 1293687042518290400,
+		"id_str": "1293691822871437312",
+		"full_text": "30억 명이 매달 사용하는 소셜 제국 페이스북. 마크 주커버그의 개인 자산은 120조 원에 달합니다. 하지만 이 거대한 제국의 시작도, 집요한 괴짜 대학생들의 방학 프로젝트(!)부터였습니다. 아담 피셔가 와이어드에 기고한 글을 번역했습니다. \n\nhttps://t.co/JcFIGUMBcS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JcFIGUMBcS",
+					"expanded_url": "https://ebadak.news/2020/08/12/sex-beer-and-coding-inside-facebooks-wild-early-days-in-palo-alto/",
+					"display_url": "ebadak.news/2020/08/12/sex…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114700851778449400,
+			"id_str": "1114700851778449408",
+			"name": "이바닥늬우스",
+			"screen_name": "ebadaknews",
+			"location": "",
+			"description": "찰지고 신나는 테크바닥 늬우스",
+			"url": "https://t.co/L0rYnRELas",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L0rYnRELas",
+							"expanded_url": "https://ebadak.news",
+							"display_url": "ebadak.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 707,
+			"friends_count": 0,
+			"listed_count": 19,
+			"created_at": "Sun Apr 07 01:26:07 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114700851778449408/1555415622",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "30억 명이 매달 사용하는 소셜 제국 페이스북. 마크 주커버그의 개인 자산은 120조 원에 달합니다. 하지만 이 거대한 제국의 시작도, 집요한 괴짜 대학생들의 방학 프로젝트(!)부터였습니다. 아담 피셔가 와이어드에 기고한 글을 번역했습니다. \n\nhttps://t.co/JcFIGUMBcS"
+	},
+	{
 		"created_at": "Wed Aug 12 20:57:15 +0000 2020",
 		"id": 1293652795195666400,
 		"id_str": "1293652795195666433",
