@@ -1,6 +1,6120 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 13 09:00:31 +0000 2020",
+		"id": 1293834808489984000,
+		"id_str": "1293834808489984001",
+		"full_text": "저도 한때는 무언가를 얻고자 생산성 앱 강의를 듣고는 했습니다만 영양가가 없어 가지 않습니다 😕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1293833585519022000,
+		"in_reply_to_status_id_str": "1293833585519022082",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "저도 한때는 무언가를 얻고자 생산성 앱 강의를 듣고는 했습니다만 영양가가 없어 가지 않습니다 😕"
+	},
+	{
+		"created_at": "Thu Aug 13 08:55:39 +0000 2020",
+		"id": 1293833585519022000,
+		"id_str": "1293833585519022082",
+		"full_text": "한국의 에잔젤리스트라는 개념은 몇 명이 독점하는 느낌이다. 그 자체로 그 사람의 브랜딩이나 커리어가 되고(잘못되었다는 것이 아니다) 열린 커뮤니티를 형성하거나 서비스를 소개하고 더 무엇인가를 할 수 있는지 확장성에 대해 고민하는 것보다 두드러지다가 어느순간 사그라든다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "한국의 에잔젤리스트라는 개념은 몇 명이 독점하는 느낌이다. 그 자체로 그 사람의 브랜딩이나 커리어가 되고(잘못되었다는 것이 아니다) 열린 커뮤니티를 형성하거나 서비스를 소개하고 더 무엇인가를 할 수 있는지 확장성에 대해 고민하는 것보다 두드러지다가 어느순간 사그라든다."
+	},
+	{
+		"created_at": "Thu Aug 13 08:51:59 +0000 2020",
+		"id": 1293832661824241700,
+		"id_str": "1293832661824241664",
+		"full_text": "이 바닥은 좁디 좁아서 인지도가 쌓이면 금세 네임드화 된다. 그런데 그것을 대놓고 티내기도 하고 형형 부르면서 세상좁다며 댓글 남기는 것도 자주본다. 커뮤니티에 이런 규정도 제한도 있는 곳도 드물다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293831889875214300,
+		"in_reply_to_status_id_str": "1293831889875214338",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 바닥은 좁디 좁아서 인지도가 쌓이면 금세 네임드화 된다. 그런데 그것을 대놓고 티내기도 하고 형형 부르면서 세상좁다며 댓글 남기는 것도 자주본다. 커뮤니티에 이런 규정도 제한도 있는 곳도 드물다."
+	},
+	{
+		"created_at": "Thu Aug 13 08:48:55 +0000 2020",
+		"id": 1293831889875214300,
+		"id_str": "1293831889875214338",
+		"full_text": "페북 페이지/그룹에서 둥지 형성하거나 지인끼리 치켜세워주는 것 너무 보기 싫다. 그래서 잘 안간다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293831366556045300,
+		"in_reply_to_status_id_str": "1293831366556045312",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "페북 페이지/그룹에서 둥지 형성하거나 지인끼리 치켜세워주는 것 너무 보기 싫다. 그래서 잘 안간다."
+	},
+	{
+		"created_at": "Thu Aug 13 08:46:50 +0000 2020",
+		"id": 1293831366556045300,
+		"id_str": "1293831366556045312",
+		"full_text": "나는 한국 생산성앱 전문가를 신뢰하지 않는 편이다. 마치 소셜미디어 마케팅 전문가 같은 느낌이랄까. 그것의 진화버전인 셈.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293831123563212800,
+		"in_reply_to_status_id_str": "1293831123563212805",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나는 한국 생산성앱 전문가를 신뢰하지 않는 편이다. 마치 소셜미디어 마케팅 전문가 같은 느낌이랄까. 그것의 진화버전인 셈."
+	},
+	{
+		"created_at": "Thu Aug 13 08:45:52 +0000 2020",
+		"id": 1293831123563212800,
+		"id_str": "1293831123563212805",
+		"full_text": "해외 포럼/커뮤니티에서 타인의 것을 그대로 가져다 쓰는 사람을 잘 쓰고 있는 사람으로 소개했다는 것을 알았다... 사용하는 것이야 상관 없지만 적어도 이런 사람을 선정해서 소개하는 것은 뭐랄까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293830793563799600,
+		"in_reply_to_status_id_str": "1293830793563799552",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "해외 포럼/커뮤니티에서 타인의 것을 그대로 가져다 쓰는 사람을 잘 쓰고 있는 사람으로 소개했다는 것을 알았다... 사용하는 것이야 상관 없지만 적어도 이런 사람을 선정해서 소개하는 것은 뭐랄까."
+	},
+	{
+		"created_at": "Thu Aug 13 08:44:34 +0000 2020",
+		"id": 1293830793563799600,
+		"id_str": "1293830793563799552",
+		"full_text": "페이스북에서 주변 혹은 지식이 전무하거나 없는 사람으로부터 칭송 받으며 강의를 팔고 책을 팔고... 열정 경제와 디지털 노마드가 화두라지만 가끔은 이런 이들이 오픈 커뮤니티를 저해하고 서비스의 취지를 곡해한다고 생각한다. 뭐 그게 대수겠냐만.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1288121554170044400,
+		"in_reply_to_status_id_str": "1288121554170044418",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "페이스북에서 주변 혹은 지식이 전무하거나 없는 사람으로부터 칭송 받으며 강의를 팔고 책을 팔고... 열정 경제와 디지털 노마드가 화두라지만 가끔은 이런 이들이 오픈 커뮤니티를 저해하고 서비스의 취지를 곡해한다고 생각한다. 뭐 그게 대수겠냐만."
+	},
+	{
+		"created_at": "Thu Aug 13 08:41:13 +0000 2020",
+		"id": 1288121554170044400,
+		"id_str": "1293829951062331394",
+		"full_text": "몇 몇 대중 인기에 힘 입은 생산성 앱이나 마케팅 강의는 영양가가 없을 확률이 크다. 그 시간에 도움말을 정독하고 플랫폼 고객센터로 문의하는 것이 훨씬 도움이 된다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1288121020247756800,
+		"in_reply_to_status_id_str": "1288121020247756804",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "몇 몇 대중 인기에 힘 입은 생산성 앱이나 마케팅 강의는 영양가가 없을 확률이 크다. 그 시간에 도움말을 정독하고 플랫폼 고객센터로 문의하는 것이 훨씬 도움이 된다."
+	},
+	{
+		"created_at": "Thu Aug 13 08:41:09 +0000 2020",
+		"id": 1288121020247756800,
+		"id_str": "1293829933593030657",
+		"full_text": "한국에서 대개 생산성앱 전문가라 함은 생산성앱을 잘 쓰는 사람이라기보단 남들보다 빨리 알리고 커뮤니티를 형성한 사람에 가깝다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국에서 대개 생산성앱 전문가라 함은 생산성앱을 잘 쓰는 사람이라기보단 남들보다 빨리 알리고 커뮤니티를 형성한 사람에 가깝다."
+	},
+	{
+		"created_at": "Thu Aug 13 08:36:39 +0000 2020",
+		"id": 1293828801147711500,
+		"id_str": "1293828801147711488",
+		"full_text": "그래서 그런 개선에 맡게 봇들 업뎃 및 마이그레이션(migration) 해야 하는데 귀찮고 의욕이 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293828249542209500,
+		"in_reply_to_status_id_str": "1293828249542209543",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그래서 그런 개선에 맡게 봇들 업뎃 및 마이그레이션(migration) 해야 하는데 귀찮고 의욕이 없다."
+	},
+	{
+		"created_at": "Thu Aug 13 08:35:06 +0000 2020",
+		"id": 1293828414173053000,
+		"id_str": "1293828414173052930",
+		"full_text": "고기를 맛있게 굽는 방법\nhttps://t.co/KiervuqYoi\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KiervuqYoi",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20334122",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고기를 맛있게 굽는 방법\nhttps://t.co/KiervuqYoi\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Thu Aug 13 08:35:06 +0000 2020",
+		"id": 1293828412063195100,
+		"id_str": "1293828412063195137",
+		"full_text": "이상룡의 마지막 유언\nhttps://t.co/rBd7OvoLN3\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rBd7OvoLN3",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20334120",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이상룡의 마지막 유언\nhttps://t.co/rBd7OvoLN3\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Thu Aug 13 08:34:27 +0000 2020",
+		"id": 1293828249542209500,
+		"id_str": "1293828249542209543",
+		"full_text": "봇 API랑 제도 개편하고 팀 기능 추가하고. 게이밍 메신저에서 메신저로 도약하려는. 텔레그램이 '어 이것도 업데이트 된단 말이야' 싶을정도로 꾸준히 업데이트 되는데 디스코드도 비슷하다. 감탄나옴.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1293828248296550400,
+		"in_reply_to_status_id_str": "1293828248296550401",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "봇 API랑 제도 개편하고 팀 기능 추가하고. 게이밍 메신저에서 메신저로 도약하려는. 텔레그램이 '어 이것도 업데이트 된단 말이야' 싶을정도로 꾸준히 업데이트 되는데 디스코드도 비슷하다. 감탄나옴."
+	},
+	{
+		"created_at": "Thu Aug 13 08:34:27 +0000 2020",
+		"id": 1293828248296550400,
+		"id_str": "1293828248296550401",
+		"full_text": "디스코드 업데이트 장난 아니다. 내용이 너무 많은데 완전 알참. 커뮤니티 생긴 것도 좋고 멀티 콘텐츠 이것저것 지원하는 것도 대단함. @discord ❤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "discord",
+					"name": "Discord",
+					"id": 3065618342,
+					"id_str": "3065618342",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "디스코드 업데이트 장난 아니다. 내용이 너무 많은데 완전 알참. 커뮤니티 생긴 것도 좋고 멀티 콘텐츠 이것저것 지원하는 것도 대단함. @discord ❤"
+	},
+	{
+		"created_at": "Thu Aug 13 08:26:21 +0000 2020",
+		"id": 1293812069880361000,
+		"id_str": "1293826209336274944",
+		"full_text": "아이유 혼자서 귀엽고 멋지고\n또 예쁘기까지 하느라 바빴던\n어제의 집콕바캉스를\n다시 보고 싶다면? 🏖 \n\nEDAM YouTube ▶▶ https://t.co/dfKdO1VVjp\n\n#아이유 #IU #집콕시그널\n#이담_프로젝트 #EDAM_Project https://t.co/QqsoKPoGOI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "집콕시그널",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "이담_프로젝트",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "EDAM_Project",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dfKdO1VVjp",
+					"expanded_url": "https://youtu.be/YPCkl1tIktw",
+					"display_url": "youtu.be/YPCkl1tIktw",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293812042814460000,
+					"id_str": "1293812042814459904",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EfSLMrIUEAAgdec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfSLMrIUEAAgdec.jpg",
+					"url": "https://t.co/QqsoKPoGOI",
+					"display_url": "pic.twitter.com/QqsoKPoGOI",
+					"expanded_url": "https://twitter.com/edam_ent/status/1293812069880360960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293812042814460000,
+					"id_str": "1293812042814459904",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EfSLMrIUEAAgdec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfSLMrIUEAAgdec.jpg",
+					"url": "https://t.co/QqsoKPoGOI",
+					"display_url": "pic.twitter.com/QqsoKPoGOI",
+					"expanded_url": "https://twitter.com/edam_ent/status/1293812069880360960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27906,
+			"friends_count": 1,
+			"listed_count": 79,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1589,
+		"favorite_count": 4890,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유 혼자서 귀엽고 멋지고\n또 예쁘기까지 하느라 바빴던\n어제의 집콕바캉스를\n다시 보고 싶다면? 🏖 \n\nEDAM YouTube ▶▶ https://t.co/dfKdO1VVjp\n\n#아이유 #IU #집콕시그널\n#이담_프로젝트 #EDAM_Project https://t.co/QqsoKPoGOI"
+	},
+	{
+		"created_at": "Thu Aug 13 08:23:52 +0000 2020",
+		"id": 1293481854238986200,
+		"id_str": "1293825585999880192",
+		"full_text": "&lt;잔다리 라이브 투어&gt;\n\n✨신청서 다운로드 : https://t.co/Ghd0yJOU5Z\n✨신청기간 : 2020년 8월 18일 (화) ~ 8월 28일 (금)\n✨결과발표 : 2020년 9월 1일 (화) \n✨상세보기 : https://t.co/ubtQwd2Jvy\n✨기타문의 : seoulindiemusicfesta@naver.com\n\n#서울인디뮤직페스타 #잔다리라이브투어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"text": "잔다리라이브투어",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ghd0yJOU5Z",
+					"expanded_url": "https://url.kr/aI8LHo",
+					"display_url": "url.kr/aI8LHo",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/ubtQwd2Jvy",
+					"expanded_url": "http://reurl.kr/32C98071FN",
+					"display_url": "reurl.kr/32C98071FN",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293481852078928000,
+		"in_reply_to_status_id_str": "1293481852078927872",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2793,
+			"friends_count": 2707,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;잔다리 라이브 투어&gt;\n\n✨신청서 다운로드 : https://t.co/Ghd0yJOU5Z\n✨신청기간 : 2020년 8월 18일 (화) ~ 8월 28일 (금)\n✨결과발표 : 2020년 9월 1일 (화) \n✨상세보기 : https://t.co/ubtQwd2Jvy\n✨기타문의 : seoulindiemusicfesta@naver.com\n\n#서울인디뮤직페스타 #잔다리라이브투어"
+	},
+	{
+		"created_at": "Thu Aug 13 08:23:36 +0000 2020",
+		"id": 1293481852078928000,
+		"id_str": "1293825517255159808",
+		"full_text": "[잔다리 라이브 투어]\n\n'잔다리 라이브 투어(구, 잔다리 클럽 투어)' 신청이 곧 시작됩니다🎉\n평소 접하기 어려웠던 장르의 기획공연에 회당 140만원씩 지원하는 프로그램으로,\n9~11월 개최예정이며 코로나19 방역 지침을 준수하는 공연에 한해 지원이 가능하다고 합니다.\n많은 관심과 신청 바랍니다😊 https://t.co/zf6IOXICZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293481637301239800,
+					"id_str": "1293481637301239808",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EfNesirUwAA5nbC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfNesirUwAA5nbC.jpg",
+					"url": "https://t.co/zf6IOXICZk",
+					"display_url": "pic.twitter.com/zf6IOXICZk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1293481852078927872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293481637301239800,
+					"id_str": "1293481637301239808",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EfNesirUwAA5nbC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfNesirUwAA5nbC.jpg",
+					"url": "https://t.co/zf6IOXICZk",
+					"display_url": "pic.twitter.com/zf6IOXICZk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1293481852078927872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2793,
+			"friends_count": 2707,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[잔다리 라이브 투어]\n\n'잔다리 라이브 투어(구, 잔다리 클럽 투어)' 신청이 곧 시작됩니다🎉\n평소 접하기 어려웠던 장르의 기획공연에 회당 140만원씩 지원하는 프로그램으로,\n9~11월 개최예정이며 코로나19 방역 지침을 준수하는 공연에 한해 지원이 가능하다고 합니다.\n많은 관심과 신청 바랍니다😊 https://t.co/zf6IOXICZk"
+	},
+	{
+		"created_at": "Thu Aug 13 08:21:16 +0000 2020",
+		"id": 1293824929729851400,
+		"id_str": "1293824929729851392",
+		"full_text": "#EDAM엔터테인먼트 #카카오M\n[집콕시그널] 아이유와 함께하는 집콕바캉스 (Live) [Full]\nhttps://t.co/0WWkY7xvBH\n#아이유 #IU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDAM엔터테인먼트",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "카카오M",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0WWkY7xvBH",
+					"expanded_url": "https://youtu.be/YPCkl1tIktw",
+					"display_url": "youtu.be/YPCkl1tIktw",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EDAM엔터테인먼트 #카카오M\n[집콕시그널] 아이유와 함께하는 집콕바캉스 (Live) [Full]\nhttps://t.co/0WWkY7xvBH\n#아이유 #IU"
+	},
+	{
+		"created_at": "Thu Aug 13 08:20:22 +0000 2020",
+		"id": 1293824703761494000,
+		"id_str": "1293824703761494017",
+		"full_text": "#예술경영지원센터 #온라인참가신청\n2020 예술경영아카데미 경영관리분야 &lt;�법률(저작권) 심화&gt; 수강 신청\nhttps://t.co/EOSOGgVbny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EOSOGgVbny",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=974&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청\n2020 예술경영아카데미 경영관리분야 &lt;�법률(저작권) 심화&gt; 수강 신청\nhttps://t.co/EOSOGgVbny"
+	},
+	{
+		"created_at": "Thu Aug 13 08:20:21 +0000 2020",
+		"id": 1293824702239199200,
+		"id_str": "1293824702239199233",
+		"full_text": "#예술경영지원센터 #온라인참가신청\n2020 예술경영아카데미 경영전략 분야 재원조성 과정 &lt;�심풀하게 투자유치&gt; 수강 신청\nhttps://t.co/trhehDfm2R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/trhehDfm2R",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=973&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청\n2020 예술경영아카데미 경영전략 분야 재원조성 과정 &lt;�심풀하게 투자유치&gt; 수강 신청\nhttps://t.co/trhehDfm2R"
+	},
+	{
+		"created_at": "Thu Aug 13 08:20:21 +0000 2020",
+		"id": 1293824699311566800,
+		"id_str": "1293824699311566848",
+		"full_text": "#예술경영지원센터 #온라인참가신청\n2020 예술경영아카데미 경영관리분야 하반기 &lt;�세무회계 심화&gt; 수강 신청\nhttps://t.co/khbTzc7a2v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/khbTzc7a2v",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=972&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청\n2020 예술경영아카데미 경영관리분야 하반기 &lt;�세무회계 심화&gt; 수강 신청\nhttps://t.co/khbTzc7a2v"
+	},
+	{
+		"created_at": "Thu Aug 13 08:13:22 +0000 2020",
+		"id": 1293802411706871800,
+		"id_str": "1293822941721894912",
+		"full_text": "차현지 @aimersamo 작가와 교제 중 상대에게 잘못한 일이 있습니다. 이에 대해 개인적으로 사과를 했고 차현지 작가님 역시 해당 사과를 받기로 했습니다. 앞으로 관계에 신중하고 상대를 더 소중하게 생각하는 사람이 되겠습니다. https://t.co/BxE1VgmVA2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aimersamo",
+					"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+					"id": 344538643,
+					"id_str": "344538643",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BxE1VgmVA2",
+					"expanded_url": "https://twitter.com/aimersamo/status/1293764340890312704",
+					"display_url": "twitter.com/aimersamo/stat…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @officialkpopin💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5384,
+			"friends_count": 1228,
+			"listed_count": 76,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 8028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293764340890312700,
+		"quoted_status_id_str": "1293764340890312704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BxE1VgmVA2",
+			"expanded": "https://twitter.com/aimersamo/status/1293764340890312704",
+			"display": "twitter.com/aimersamo/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 13 04:20:30 +0000 2020",
+			"id": 1293764340890312700,
+			"id_str": "1293764340890312704",
+			"full_text": "음악평론가이면서 일렉트로닉 음반사 대표이시고 케이파핑이라는 유튜브를 만들고 계신 하박국님(@HAVAQQUQ) 그간 저에게 계속 네 잘못이라고, 제 행동 하나 하나에 평가와 재단하시고, 마치 내가 제대로 못살고 있는 사람처럼 말씀해주셨죠. 헤어지고 나서도 성관계 가졌고, 집으로 초대했었죠.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HAVAQQUQ",
+						"name": "하박국HAVAQQUQ",
+						"id": 8098922,
+						"id_str": "8098922",
+						"indices": [
+							50,
+							59
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 344538643,
+				"id_str": "344538643",
+				"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+				"screen_name": "aimersamo",
+				"location": "",
+				"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+				"url": "https://t.co/yhBW9KEPxv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yhBW9KEPxv",
+								"expanded_url": "http://s-r-s.kr",
+								"display_url": "s-r-s.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1725,
+				"friends_count": 1202,
+				"listed_count": 7,
+				"created_at": "Fri Jul 29 06:16:17 +0000 2011",
+				"favourites_count": 25226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19721,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/344538643/1561378037",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 37,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차현지 @aimersamo 작가와 교제 중 상대에게 잘못한 일이 있습니다. 이에 대해 개인적으로 사과를 했고 차현지 작가님 역시 해당 사과를 받기로 했습니다. 앞으로 관계에 신중하고 상대를 더 소중하게 생각하는 사람이 되겠습니다. https://t.co/BxE1VgmVA2"
+	},
+	{
+		"created_at": "Thu Aug 13 08:13:11 +0000 2020",
+		"id": 1293764347211026400,
+		"id_str": "1293822897522319361",
+		"full_text": "단정하셨던 것 전부 다 사과하세요. 저는 기회를 드렸고 대화를 하고자 전화도 드렸습니다. 거절하셨고요. 문자를 통해서도 제가 받은 상처에 대해서 말씀드렸는데 그때도 생각을 해라, 네가 어떤 행동을 했는지, 라는 식으로 계속 가스라이팅 하셨죠. 사과하세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293764344535081000,
+		"in_reply_to_status_id_str": "1293764344535080962",
+		"in_reply_to_user_id": 344538643,
+		"in_reply_to_user_id_str": "344538643",
+		"in_reply_to_screen_name": "aimersamo",
+		"user": {
+			"id": 344538643,
+			"id_str": "344538643",
+			"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+			"screen_name": "aimersamo",
+			"location": "",
+			"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+			"url": "https://t.co/yhBW9KEPxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhBW9KEPxv",
+							"expanded_url": "http://s-r-s.kr",
+							"display_url": "s-r-s.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725,
+			"friends_count": 1202,
+			"listed_count": 7,
+			"created_at": "Fri Jul 29 06:16:17 +0000 2011",
+			"favourites_count": 25226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/344538643/1561378037",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "단정하셨던 것 전부 다 사과하세요. 저는 기회를 드렸고 대화를 하고자 전화도 드렸습니다. 거절하셨고요. 문자를 통해서도 제가 받은 상처에 대해서 말씀드렸는데 그때도 생각을 해라, 네가 어떤 행동을 했는지, 라는 식으로 계속 가스라이팅 하셨죠. 사과하세요."
+	},
+	{
+		"created_at": "Thu Aug 13 08:13:09 +0000 2020",
+		"id": 1293764344535081000,
+		"id_str": "1293822887397212161",
+		"full_text": "너는 그런 애야, 라는 말을 세상에서 가장 경멸하는데 사귀는 동안 제게 그런 식의 말과 행동을 보여주셨죠. 가스라이팅하지 말라는 제 말에 농담처럼 \"너 나 가스라이팅 해?\" 하면서 되받아치기도 하셨고요. 제게 사과하십시오. 알콜중독자라는 식으로 제게 말씀하셨던 것부터 제 행동거지 하나 하나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293764342731559000,
+		"in_reply_to_status_id_str": "1293764342731558915",
+		"in_reply_to_user_id": 344538643,
+		"in_reply_to_user_id_str": "344538643",
+		"in_reply_to_screen_name": "aimersamo",
+		"user": {
+			"id": 344538643,
+			"id_str": "344538643",
+			"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+			"screen_name": "aimersamo",
+			"location": "",
+			"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+			"url": "https://t.co/yhBW9KEPxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhBW9KEPxv",
+							"expanded_url": "http://s-r-s.kr",
+							"display_url": "s-r-s.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725,
+			"friends_count": 1202,
+			"listed_count": 7,
+			"created_at": "Fri Jul 29 06:16:17 +0000 2011",
+			"favourites_count": 25226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/344538643/1561378037",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "너는 그런 애야, 라는 말을 세상에서 가장 경멸하는데 사귀는 동안 제게 그런 식의 말과 행동을 보여주셨죠. 가스라이팅하지 말라는 제 말에 농담처럼 \"너 나 가스라이팅 해?\" 하면서 되받아치기도 하셨고요. 제게 사과하십시오. 알콜중독자라는 식으로 제게 말씀하셨던 것부터 제 행동거지 하나 하나"
+	},
+	{
+		"created_at": "Thu Aug 13 08:13:07 +0000 2020",
+		"id": 1293764342731559000,
+		"id_str": "1293822882175303680",
+		"full_text": "헤어지고 나서 친구로 지내면서 이런 관계로 되었던 과거가 있어 힘들다고 했을 때에 다시 사귀기로 해놓고선 그때부터 감정이 식었다고 대놓고 말씀하셨죠. 매일 연락하고 전화하시기도 하셨고요. 헤어진 이유가 모두 제 탓이라고 말씀하셨는데 그 이유가 아직도 납득이 안 되네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293764340890312700,
+		"in_reply_to_status_id_str": "1293764340890312704",
+		"in_reply_to_user_id": 344538643,
+		"in_reply_to_user_id_str": "344538643",
+		"in_reply_to_screen_name": "aimersamo",
+		"user": {
+			"id": 344538643,
+			"id_str": "344538643",
+			"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+			"screen_name": "aimersamo",
+			"location": "",
+			"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+			"url": "https://t.co/yhBW9KEPxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhBW9KEPxv",
+							"expanded_url": "http://s-r-s.kr",
+							"display_url": "s-r-s.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725,
+			"friends_count": 1202,
+			"listed_count": 7,
+			"created_at": "Fri Jul 29 06:16:17 +0000 2011",
+			"favourites_count": 25226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/344538643/1561378037",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "헤어지고 나서 친구로 지내면서 이런 관계로 되었던 과거가 있어 힘들다고 했을 때에 다시 사귀기로 해놓고선 그때부터 감정이 식었다고 대놓고 말씀하셨죠. 매일 연락하고 전화하시기도 하셨고요. 헤어진 이유가 모두 제 탓이라고 말씀하셨는데 그 이유가 아직도 납득이 안 되네요."
+	},
+	{
+		"created_at": "Thu Aug 13 08:13:06 +0000 2020",
+		"id": 1293764340890312700,
+		"id_str": "1293822876609474560",
+		"full_text": "음악평론가이면서 일렉트로닉 음반사 대표이시고 케이파핑이라는 유튜브를 만들고 계신 하박국님(@HAVAQQUQ) 그간 저에게 계속 네 잘못이라고, 제 행동 하나 하나에 평가와 재단하시고, 마치 내가 제대로 못살고 있는 사람처럼 말씀해주셨죠. 헤어지고 나서도 성관계 가졌고, 집으로 초대했었죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 344538643,
+			"id_str": "344538643",
+			"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+			"screen_name": "aimersamo",
+			"location": "",
+			"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+			"url": "https://t.co/yhBW9KEPxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhBW9KEPxv",
+							"expanded_url": "http://s-r-s.kr",
+							"display_url": "s-r-s.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725,
+			"friends_count": 1202,
+			"listed_count": 7,
+			"created_at": "Fri Jul 29 06:16:17 +0000 2011",
+			"favourites_count": 25226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197313806482853894/w_qh_4Te_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/344538643/1561378037",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "음악평론가이면서 일렉트로닉 음반사 대표이시고 케이파핑이라는 유튜브를 만들고 계신 하박국님(@HAVAQQUQ) 그간 저에게 계속 네 잘못이라고, 제 행동 하나 하나에 평가와 재단하시고, 마치 내가 제대로 못살고 있는 사람처럼 말씀해주셨죠. 헤어지고 나서도 성관계 가졌고, 집으로 초대했었죠."
+	},
+	{
+		"created_at": "Thu Aug 13 08:11:07 +0000 2020",
+		"id": 1293822377567170600,
+		"id_str": "1293822377567170562",
+		"full_text": "#레드벨벳_아이린_슬기 #Notice\nRed Velvet - IRENE &amp; SEULGI ‘Monster’ - OFFICIAL MD 예약 판매 안내!\nhttps://t.co/aTE5zuTo6s\n#레드벨벳 #RedVelvet\n#IRENE #아이린 #SEULGI #슬기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "Notice",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						148,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aTE5zuTo6s",
+					"expanded_url": "http://redvelvet-ireneseulgi.smtown.com/Board/List/11044",
+					"display_url": "redvelvet-ireneseulgi.smtown.com/Board/List/110…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳_아이린_슬기 #Notice\nRed Velvet - IRENE &amp; SEULGI ‘Monster’ - OFFICIAL MD 예약 판매 안내!\nhttps://t.co/aTE5zuTo6s\n#레드벨벳 #RedVelvet\n#IRENE #아이린 #SEULGI #슬기"
+	},
+	{
+		"created_at": "Thu Aug 13 08:08:03 +0000 2020",
+		"id": 1293745166109442000,
+		"id_str": "1293821603705270273",
+		"full_text": "지상파가 인기 프로그램을 조각조각 쪼개는 이유는?\n그래야 사이에 '프리미엄광고'(PCM)을 넣을 수 있으니까...\n이제 60분짜리 드라마가 3조각으로까지 쪼개진다! (피자냐?)\n\nhttps://t.co/iuy43KZhPa BY 언론인권센터 (강소영)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iuy43KZhPa",
+					"expanded_url": "https://slownews.kr/77431",
+					"display_url": "slownews.kr/77431",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532161219,
+			"id_str": "532161219",
+			"name": "슬로우뉴스",
+			"screen_name": "slownewskr",
+			"location": "",
+			"description": "Fast is good, slow is better. 느리지만 꼼꼼한 뉴스, 슬로우뉴스입니다. \n기고 문의: editor@slownews.kr",
+			"url": "http://t.co/hUa0sZzIii",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/hUa0sZzIii",
+							"expanded_url": "http://slownews.kr",
+							"display_url": "slownews.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23961,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Wed Mar 21 09:27:25 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532161219/1398608454",
+			"profile_link_color": "947F15",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지상파가 인기 프로그램을 조각조각 쪼개는 이유는?\n그래야 사이에 '프리미엄광고'(PCM)을 넣을 수 있으니까...\n이제 60분짜리 드라마가 3조각으로까지 쪼개진다! (피자냐?)\n\nhttps://t.co/iuy43KZhPa BY 언론인권센터 (강소영)"
+	},
+	{
+		"created_at": "Thu Aug 13 08:07:24 +0000 2020",
+		"id": 1293821441520017400,
+		"id_str": "1293821441520017409",
+		"full_text": "보아 @BoA_Official 공식 계정 생겼다고?! 😭😭😭😭😭",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoA_Official",
+					"name": "BoA Official",
+					"id": 1288694479197581300,
+					"id_str": "1288694479197581312",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "보아 @BoA_Official 공식 계정 생겼다고?! 😭😭😭😭😭"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:58 +0000 2020",
+		"id": 1293745088166637600,
+		"id_str": "1293821332245757952",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/CkIZbOfNsK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293549989860266000,
+					"id_str": "1293549989860265984",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOc3LzU0AAIOjp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOc3LzU0AAIOjp.jpg",
+					"url": "https://t.co/CkIZbOfNsK",
+					"display_url": "pic.twitter.com/CkIZbOfNsK",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293745088166637570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 785,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1340,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293549989860266000,
+					"id_str": "1293549989860265984",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOc3LzU0AAIOjp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOc3LzU0AAIOjp.jpg",
+					"url": "https://t.co/CkIZbOfNsK",
+					"display_url": "pic.twitter.com/CkIZbOfNsK",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293745088166637570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 785,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1340,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 687,
+		"favorite_count": 3613,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/CkIZbOfNsK"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:56 +0000 2020",
+		"id": 1293744836768665600,
+		"id_str": "1293821325224501249",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/AD4CZvCyLt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293549878006562800,
+					"id_str": "1293549878006562822",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcwrHUwAY9trW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcwrHUwAY9trW.jpg",
+					"url": "https://t.co/AD4CZvCyLt",
+					"display_url": "pic.twitter.com/AD4CZvCyLt",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744836768665605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293549878006562800,
+					"id_str": "1293549878006562822",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcwrHUwAY9trW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcwrHUwAY9trW.jpg",
+					"url": "https://t.co/AD4CZvCyLt",
+					"display_url": "pic.twitter.com/AD4CZvCyLt",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744836768665605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 679,
+		"favorite_count": 3327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/AD4CZvCyLt"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:55 +0000 2020",
+		"id": 1293744584804020200,
+		"id_str": "1293821318882709505",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/ecXjqKk04e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293549696816881700,
+					"id_str": "1293549696816881664",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcmIIVoAATwpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcmIIVoAATwpT.jpg",
+					"url": "https://t.co/ecXjqKk04e",
+					"display_url": "pic.twitter.com/ecXjqKk04e",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744584804020225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293549696816881700,
+					"id_str": "1293549696816881664",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcmIIVoAATwpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcmIIVoAATwpT.jpg",
+					"url": "https://t.co/ecXjqKk04e",
+					"display_url": "pic.twitter.com/ecXjqKk04e",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744584804020225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1293549696879755300,
+					"id_str": "1293549696879755265",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcmIXVAAEc_6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcmIXVAAEc_6_.jpg",
+					"url": "https://t.co/ecXjqKk04e",
+					"display_url": "pic.twitter.com/ecXjqKk04e",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744584804020225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 793,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1353,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 678,
+		"favorite_count": 3694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/ecXjqKk04e"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:53 +0000 2020",
+		"id": 1293744333271703600,
+		"id_str": "1293821311874027521",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/UD3ShzYf0J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293549461675716600,
+					"id_str": "1293549461675716608",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcYcKUMAA7nxi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcYcKUMAA7nxi.jpg",
+					"url": "https://t.co/UD3ShzYf0J",
+					"display_url": "pic.twitter.com/UD3ShzYf0J",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744333271703553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 821,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1401,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293549461675716600,
+					"id_str": "1293549461675716608",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcYcKUMAA7nxi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcYcKUMAA7nxi.jpg",
+					"url": "https://t.co/UD3ShzYf0J",
+					"display_url": "pic.twitter.com/UD3ShzYf0J",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744333271703553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 821,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1401,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 556,
+		"favorite_count": 2922,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/UD3ShzYf0J"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:50 +0000 2020",
+		"id": 1293744086772519000,
+		"id_str": "1293821301581205510",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/UDbP0cyF5s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293549313952321500,
+					"id_str": "1293549313952321541",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcP12UEAU3qDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcP12UEAU3qDg.jpg",
+					"url": "https://t.co/UDbP0cyF5s",
+					"display_url": "pic.twitter.com/UDbP0cyF5s",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744086772518912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1616,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 947,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293549313952321500,
+					"id_str": "1293549313952321541",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfOcP12UEAU3qDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfOcP12UEAU3qDg.jpg",
+					"url": "https://t.co/UDbP0cyF5s",
+					"display_url": "pic.twitter.com/UDbP0cyF5s",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293744086772518912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1616,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 947,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 554,
+		"favorite_count": 3061,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/UDbP0cyF5s"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:48 +0000 2020",
+		"id": 1293382196909215700,
+		"id_str": "1293821292475330561",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/hR04QlWwC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292773306542653400,
+					"id_str": "1292773306542653440",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDaeQ-VAAArfcH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDaeQ-VAAArfcH.jpg",
+					"url": "https://t.co/hR04QlWwC4",
+					"display_url": "pic.twitter.com/hR04QlWwC4",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293382196909215745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292773306542653400,
+					"id_str": "1292773306542653440",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDaeQ-VAAArfcH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDaeQ-VAAArfcH.jpg",
+					"url": "https://t.co/hR04QlWwC4",
+					"display_url": "pic.twitter.com/hR04QlWwC4",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293382196909215745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1709,
+		"favorite_count": 8072,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/hR04QlWwC4"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:47 +0000 2020",
+		"id": 1293381945305440300,
+		"id_str": "1293821285814775810",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/MMe3MPmWeO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292773232991297500,
+					"id_str": "1292773232991297536",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDaZ--UYAA-HSC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDaZ--UYAA-HSC.jpg",
+					"url": "https://t.co/MMe3MPmWeO",
+					"display_url": "pic.twitter.com/MMe3MPmWeO",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293381945305440256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292773232991297500,
+					"id_str": "1292773232991297536",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDaZ--UYAA-HSC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDaZ--UYAA-HSC.jpg",
+					"url": "https://t.co/MMe3MPmWeO",
+					"display_url": "pic.twitter.com/MMe3MPmWeO",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293381945305440256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1106,
+		"favorite_count": 5748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/MMe3MPmWeO"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:45 +0000 2020",
+		"id": 1293381697375895600,
+		"id_str": "1293821278357303296",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/mwelcDhst3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292773116779753500,
+					"id_str": "1292773116779753473",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDaTODU8AEHNBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDaTODU8AEHNBL.jpg",
+					"url": "https://t.co/mwelcDhst3",
+					"display_url": "pic.twitter.com/mwelcDhst3",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293381697375895552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292773116779753500,
+					"id_str": "1292773116779753473",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDaTODU8AEHNBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDaTODU8AEHNBL.jpg",
+					"url": "https://t.co/mwelcDhst3",
+					"display_url": "pic.twitter.com/mwelcDhst3",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293381697375895552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1238,
+		"favorite_count": 5602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/mwelcDhst3"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:43 +0000 2020",
+		"id": 1293380027728269300,
+		"id_str": "1293821270954373120",
+		"full_text": "💛 BoA EMOJI is OUT! 💛\n\n#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/Y3TfUWkA7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						32,
+						50
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						51,
+						78
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						79,
+						96
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293379798023078000,
+					"id_str": "1293379798023077888",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EfMCEtzVAAAtLq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfMCEtzVAAAtLq4.jpg",
+					"url": "https://t.co/Y3TfUWkA7E",
+					"display_url": "pic.twitter.com/Y3TfUWkA7E",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293380027728269312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1484,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293379798023078000,
+					"id_str": "1293379798023077888",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EfMCEtzVAAAtLq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfMCEtzVAAAtLq4.jpg",
+					"url": "https://t.co/Y3TfUWkA7E",
+					"display_url": "pic.twitter.com/Y3TfUWkA7E",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1293380027728269312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1484,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1394,
+		"favorite_count": 3945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💛 BoA EMOJI is OUT! 💛\n\n#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/Y3TfUWkA7E"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:41 +0000 2020",
+		"id": 1293019809031094300,
+		"id_str": "1293821261609492481",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/aW9EALk9xT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292770863742251000,
+					"id_str": "1292770863742251010",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDYQE1U8AIEioz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDYQE1U8AIEioz.jpg",
+					"url": "https://t.co/aW9EALk9xT",
+					"display_url": "pic.twitter.com/aW9EALk9xT",
+					"expanded_url": "https://twitter.com/BOA_Official/status/1293019809031094272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292770863742251000,
+					"id_str": "1292770863742251010",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDYQE1U8AIEioz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDYQE1U8AIEioz.jpg",
+					"url": "https://t.co/aW9EALk9xT",
+					"display_url": "pic.twitter.com/aW9EALk9xT",
+					"expanded_url": "https://twitter.com/BOA_Official/status/1293019809031094272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1642,
+		"favorite_count": 7399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/aW9EALk9xT"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:39 +0000 2020",
+		"id": 1293019557314035700,
+		"id_str": "1293821252293939200",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/Y6Z2cXIzR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292770712298516500,
+					"id_str": "1292770712298516480",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDYHQqU8AAquE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDYHQqU8AAquE4.jpg",
+					"url": "https://t.co/Y6Z2cXIzR6",
+					"display_url": "pic.twitter.com/Y6Z2cXIzR6",
+					"expanded_url": "https://twitter.com/BOA_Official/status/1293019557314035712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292770712298516500,
+					"id_str": "1292770712298516480",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDYHQqU8AAquE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDYHQqU8AAquE4.jpg",
+					"url": "https://t.co/Y6Z2cXIzR6",
+					"display_url": "pic.twitter.com/Y6Z2cXIzR6",
+					"expanded_url": "https://twitter.com/BOA_Official/status/1293019557314035712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1569,
+		"favorite_count": 6356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/Y6Z2cXIzR6"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:37 +0000 2020",
+		"id": 1293019307719319600,
+		"id_str": "1293821245335588865",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/1yyuT54AQY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292770578063974400,
+					"id_str": "1292770578063974401",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDX_cmUYAEkS0z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDX_cmUYAEkS0z.jpg",
+					"url": "https://t.co/1yyuT54AQY",
+					"display_url": "pic.twitter.com/1yyuT54AQY",
+					"expanded_url": "https://twitter.com/BOA_Official/status/1293019307719319558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292770578063974400,
+					"id_str": "1292770578063974401",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDX_cmUYAEkS0z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDX_cmUYAEkS0z.jpg",
+					"url": "https://t.co/1yyuT54AQY",
+					"display_url": "pic.twitter.com/1yyuT54AQY",
+					"expanded_url": "https://twitter.com/BOA_Official/status/1293019307719319558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2069,
+		"favorite_count": 8447,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/1yyuT54AQY"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:35 +0000 2020",
+		"id": 1292657421236797400,
+		"id_str": "1293821238435962882",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/gqwgqtVulU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292656536733364200,
+					"id_str": "1292656536733364224",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBwRXiUMAA3WgE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBwRXiUMAA3WgE.jpg",
+					"url": "https://t.co/gqwgqtVulU",
+					"display_url": "pic.twitter.com/gqwgqtVulU",
+					"expanded_url": "https://twitter.com/BoAsmtown/status/1292657421236797443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292656536733364200,
+					"id_str": "1292656536733364224",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBwRXiUMAA3WgE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBwRXiUMAA3WgE.jpg",
+					"url": "https://t.co/gqwgqtVulU",
+					"display_url": "pic.twitter.com/gqwgqtVulU",
+					"expanded_url": "https://twitter.com/BoAsmtown/status/1292657421236797443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292656536859185200,
+					"id_str": "1292656536859185152",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBwRYAUEAA0ABd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBwRYAUEAA0ABd.jpg",
+					"url": "https://t.co/gqwgqtVulU",
+					"display_url": "pic.twitter.com/gqwgqtVulU",
+					"expanded_url": "https://twitter.com/BoAsmtown/status/1292657421236797443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292656536901185500,
+					"id_str": "1292656536901185536",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBwRYKU8AAhhvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBwRYKU8AAhhvZ.jpg",
+					"url": "https://t.co/gqwgqtVulU",
+					"display_url": "pic.twitter.com/gqwgqtVulU",
+					"expanded_url": "https://twitter.com/BoAsmtown/status/1292657421236797443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4958,
+		"favorite_count": 16552,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/gqwgqtVulU"
+	},
+	{
+		"created_at": "Thu Aug 13 08:06:34 +0000 2020",
+		"id": 1292657169456861200,
+		"id_str": "1293821230869430272",
+		"full_text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/BVvCrsBaUB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						28,
+						55
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						56,
+						73
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292656042992517000,
+					"id_str": "1292656042992517120",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBv0oNUwAAvdA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBv0oNUwAAvdA8.jpg",
+					"url": "https://t.co/BVvCrsBaUB",
+					"display_url": "pic.twitter.com/BVvCrsBaUB",
+					"expanded_url": "https://twitter.com/BoAsmtown/status/1292657169456861186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1954,
+							"h": 1579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 970,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292656042992517000,
+					"id_str": "1292656042992517120",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfBv0oNUwAAvdA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfBv0oNUwAAvdA8.jpg",
+					"url": "https://t.co/BVvCrsBaUB",
+					"display_url": "pic.twitter.com/BVvCrsBaUB",
+					"expanded_url": "https://twitter.com/BoAsmtown/status/1292657169456861186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1954,
+							"h": 1579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 970,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6562,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1809,
+		"favorite_count": 7467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BoA #보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA https://t.co/BVvCrsBaUB"
+	},
+	{
 		"created_at": "Thu Aug 13 08:01:04 +0000 2020",
 		"id": 1293810919907061800,
 		"id_str": "1293819847176908800",
