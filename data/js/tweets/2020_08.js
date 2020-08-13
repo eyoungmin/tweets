@@ -1,6 +1,835 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 13 09:27:08 +0000 2020",
+		"id": 1293841507233886200,
+		"id_str": "1293841507233886209",
+		"full_text": "뭐 인간환멸 오늘도 적립합니다. 커뮤니티에서는\n- 네이버가 숙이고 들어가네\n- 네이버랑 계속 일하려면\n- 무도가 이러다가 망했지\n- 이게 사과할 일? 말세다\n- 나혼산 망하겠다\n- 공황장애 더 심해질듯\n\n이정도네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "뭐 인간환멸 오늘도 적립합니다. 커뮤니티에서는\n- 네이버가 숙이고 들어가네\n- 네이버랑 계속 일하려면\n- 무도가 이러다가 망했지\n- 이게 사과할 일? 말세다\n- 나혼산 망하겠다\n- 공황장애 더 심해질듯\n\n이정도네요."
+	},
+	{
+		"created_at": "Thu Aug 13 09:25:11 +0000 2020",
+		"id": 1293839732997148700,
+		"id_str": "1293841014856220672",
+		"full_text": "[#예술경영 웹진 제451호]를 발행했습니다!  📢\n\n&lt;페스티벌 취소, 그 이후&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 👇\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/q827TobjsK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nnJOswx4up",
+					"expanded_url": "http://www.gokams.or.kr/webzine/",
+					"display_url": "gokams.or.kr/webzine/",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/ot3uNW18eC",
+					"expanded_url": "http://www.gokams.or.kr/webzine/mobile/",
+					"display_url": "gokams.or.kr/webzine/mobile/",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293839368973455400,
+					"id_str": "1293839368973455361",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EfSkDRAUEAEyRRi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfSkDRAUEAEyRRi.png",
+					"url": "https://t.co/q827TobjsK",
+					"display_url": "pic.twitter.com/q827TobjsK",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1293839732997148672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 829,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293839368973455400,
+					"id_str": "1293839368973455361",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EfSkDRAUEAEyRRi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfSkDRAUEAEyRRi.png",
+					"url": "https://t.co/q827TobjsK",
+					"display_url": "pic.twitter.com/q827TobjsK",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1293839732997148672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 829,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6733,
+			"friends_count": 3022,
+			"listed_count": 102,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 제451호]를 발행했습니다!  📢\n\n&lt;페스티벌 취소, 그 이후&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 👇\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/q827TobjsK"
+	},
+	{
+		"created_at": "Thu Aug 13 09:24:05 +0000 2020",
+		"id": 1293695143011213300,
+		"id_str": "1293840739231625216",
+		"full_text": "기안84 남자들 사이에서 '븅신같지만 그래도 애는 착해' 쯤으로 받아들여지는게 진짜 개빡치는 부분임 생활력, 사회성, 상식 전부 없어서 무례한 헛소리만하는 남자 만화가가 공중파 정규방송 고정패널로, 대형포털사이트애서 몇년 째 연재중인 웹툰작가인 것도 그들의 비호가 존재했기에 가능했던 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3270820658,
+			"id_str": "3270820658",
+			"name": "텐더",
+			"screen_name": "HimNaeRyeo46",
+			"location": "",
+			"description": "힘들 때 힘 내려 사람",
+			"url": "https://t.co/2eFuVQahwy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2eFuVQahwy",
+							"expanded_url": "http://ask.fm/HimNaeRyeo46",
+							"display_url": "ask.fm/HimNaeRyeo46",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25022,
+			"friends_count": 266,
+			"listed_count": 57,
+			"created_at": "Tue Jul 07 08:54:21 +0000 2015",
+			"favourites_count": 4675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201184036518891520/vUas9Gx6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201184036518891520/vUas9Gx6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3270820658/1542790385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7678,
+		"favorite_count": 2227,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "기안84 남자들 사이에서 '븅신같지만 그래도 애는 착해' 쯤으로 받아들여지는게 진짜 개빡치는 부분임 생활력, 사회성, 상식 전부 없어서 무례한 헛소리만하는 남자 만화가가 공중파 정규방송 고정패널로, 대형포털사이트애서 몇년 째 연재중인 웹툰작가인 것도 그들의 비호가 존재했기에 가능했던 것"
+	},
+	{
+		"created_at": "Thu Aug 13 09:16:16 +0000 2020",
+		"id": 1293838773491363800,
+		"id_str": "1293838773491363840",
+		"full_text": "직접 전한 적은 드물고 생각만 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "직접 전한 적은 드물고 생각만 한다."
+	},
+	{
+		"created_at": "Thu Aug 13 09:13:51 +0000 2020",
+		"id": 1293838162851061800,
+		"id_str": "1293838162851061760",
+		"full_text": "덕질하면서도 래퍼런스 출처 쓰는 것을 중요시 하는 편인데 한 번은 계속 퍼오시는 분께 출처 표기하면 좋을 것 같다고 했다가 KIBUN이 나쁘다며 댓글이 길어지자 내가 이상한 사람으로 몰린 적이 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "덕질하면서도 래퍼런스 출처 쓰는 것을 중요시 하는 편인데 한 번은 계속 퍼오시는 분께 출처 표기하면 좋을 것 같다고 했다가 KIBUN이 나쁘다며 댓글이 길어지자 내가 이상한 사람으로 몰린 적이 있음."
+	},
+	{
+		"created_at": "Thu Aug 13 09:09:53 +0000 2020",
+		"id": 1293836692952998000,
+		"id_str": "1293837165797863424",
+		"full_text": "더불어민주당 소속 부산시의원 A 의원이 \"억울하다\"며 성추행 의혹을 부인하자 피해자 측이 당시 성추행을 촬영한 CCTV를 공개했다. 영상 속에서 A 의원은 피해자가 머뭇거리는 데도 불구하고 다가가 몸을 쓰다듬는 등 모습을 보였다. \nhttps://t.co/A1jqDhCBvP https://t.co/V2VC0Jup4e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A1jqDhCBvP",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=310&aid=0000080066",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293836614678876200,
+					"id_str": "1293836614678876161",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfShi8dUEAEZMJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfShi8dUEAEZMJ6.jpg",
+					"url": "https://t.co/V2VC0Jup4e",
+					"display_url": "pic.twitter.com/V2VC0Jup4e",
+					"expanded_url": "https://twitter.com/wnewskr/status/1293836692952997890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 348,
+							"h": 198,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 348,
+							"h": 198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 348,
+							"h": 198,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293836614678876200,
+					"id_str": "1293836614678876161",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfShi8dUEAEZMJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfShi8dUEAEZMJ6.jpg",
+					"url": "https://t.co/V2VC0Jup4e",
+					"display_url": "pic.twitter.com/V2VC0Jup4e",
+					"expanded_url": "https://twitter.com/wnewskr/status/1293836692952997890/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 348,
+							"h": 198,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 348,
+							"h": 198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 348,
+							"h": 198,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							58,
+							33
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EfShi8dUEAEZMJ6.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195912,
+			"friends_count": 3533,
+			"listed_count": 286,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 345,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더불어민주당 소속 부산시의원 A 의원이 \"억울하다\"며 성추행 의혹을 부인하자 피해자 측이 당시 성추행을 촬영한 CCTV를 공개했다. 영상 속에서 A 의원은 피해자가 머뭇거리는 데도 불구하고 다가가 몸을 쓰다듬는 등 모습을 보였다. \nhttps://t.co/A1jqDhCBvP https://t.co/V2VC0Jup4e"
+	},
+	{
+		"created_at": "Thu Aug 13 09:08:44 +0000 2020",
+		"id": 1293836877573714000,
+		"id_str": "1293836877573713920",
+		"full_text": "음 어떤 사람들은 그것을 애초부터 강조하고. PDF파일을 강의 플랫폼으로 파는데 플랫폼 도움말 한국어 번역? 그정도 수준의 것을 비싸게 판다. 참담한 수준이지만 입을 너무 잘 털어서. 플랫폼별 비즈니스 센터 가면 무료로 강의를 들을 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1293830793563799600,
+		"in_reply_to_status_id_str": "1293830793563799552",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "음 어떤 사람들은 그것을 애초부터 강조하고. PDF파일을 강의 플랫폼으로 파는데 플랫폼 도움말 한국어 번역? 그정도 수준의 것을 비싸게 판다. 참담한 수준이지만 입을 너무 잘 털어서. 플랫폼별 비즈니스 센터 가면 무료로 강의를 들을 수 있습니다."
+	},
+	{
 		"created_at": "Thu Aug 13 09:00:31 +0000 2020",
 		"id": 1293834808489984000,
 		"id_str": "1293834808489984001",
@@ -2197,7 +3026,7 @@ Grailbird.data.tweets_2020_08 =
 			"user_mentions": [
 				{
 					"screen_name": "aimersamo",
-					"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+					"name": "차현지👩🏻🎤차고익🧝♂️SRS",
 					"id": 344538643,
 					"id_str": "344538643",
 					"indices": [
@@ -2230,7 +3059,7 @@ Grailbird.data.tweets_2020_08 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @officialkpopin💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @officialkpopin💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
@@ -2333,10 +3162,10 @@ Grailbird.data.tweets_2020_08 =
 			"user": {
 				"id": 344538643,
 				"id_str": "344538643",
-				"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+				"name": "차현지👩🏻🎤차고익🧝♂️SRS",
 				"screen_name": "aimersamo",
 				"location": "",
-				"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+				"description": "소설가.👩🏽💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
 				"url": "https://t.co/yhBW9KEPxv",
 				"entities": {
 					"url": {
@@ -2435,10 +3264,10 @@ Grailbird.data.tweets_2020_08 =
 		"user": {
 			"id": 344538643,
 			"id_str": "344538643",
-			"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+			"name": "차현지👩🏻🎤차고익🧝♂️SRS",
 			"screen_name": "aimersamo",
 			"location": "",
-			"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+			"description": "소설가.👩🏽💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
 			"url": "https://t.co/yhBW9KEPxv",
 			"entities": {
 				"url": {
@@ -2530,10 +3359,10 @@ Grailbird.data.tweets_2020_08 =
 		"user": {
 			"id": 344538643,
 			"id_str": "344538643",
-			"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+			"name": "차현지👩🏻🎤차고익🧝♂️SRS",
 			"screen_name": "aimersamo",
 			"location": "",
-			"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+			"description": "소설가.👩🏽💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
 			"url": "https://t.co/yhBW9KEPxv",
 			"entities": {
 				"url": {
@@ -2625,10 +3454,10 @@ Grailbird.data.tweets_2020_08 =
 		"user": {
 			"id": 344538643,
 			"id_str": "344538643",
-			"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+			"name": "차현지👩🏻🎤차고익🧝♂️SRS",
 			"screen_name": "aimersamo",
 			"location": "",
-			"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+			"description": "소설가.👩🏽💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
 			"url": "https://t.co/yhBW9KEPxv",
 			"entities": {
 				"url": {
@@ -2731,10 +3560,10 @@ Grailbird.data.tweets_2020_08 =
 		"user": {
 			"id": 344538643,
 			"id_str": "344538643",
-			"name": "차현지👩🏻‍🎤차고익🧝‍♂️SRS",
+			"name": "차현지👩🏻🎤차고익🧝♂️SRS",
 			"screen_name": "aimersamo",
 			"location": "",
-			"description": "소설가.👩🏽‍💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
+			"description": "소설가.👩🏽💻SRS 큐레이터🍊팀 왓에버 멤버🌱고양이 깅가, 밍가랑 같이 살아요. 🙌🏼 🌳 SRS 후원: 카카오뱅크 3333-08-5139876 차현지💝 수업 문의는 DM으로!",
 			"url": "https://t.co/yhBW9KEPxv",
 			"entities": {
 				"url": {
