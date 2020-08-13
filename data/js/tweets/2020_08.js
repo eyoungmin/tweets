@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 13 12:25:11 +0000 2020",
+		"id": 1293880536994218000,
+		"id_str": "1293886314014744582",
+		"full_text": "#이달의소녀 2020 SUMMER PACKAGE &lt;LOONA ISLAND : 소녀들이 만난 여름&gt; CONCEPT ZONE이 드디어 내일 오픈합니다🌴 \n이달의 소녀 공식 팬카페를 통해 수정된 공지사항을 함께 확인해 주세요💚\n\n▶️ https://t.co/XKuLryfjHE\n\n#LOONA https://t.co/AHQ3VbxXKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						159,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XKuLryfjHE",
+					"expanded_url": "http://cafe.daum.net/loonatheworld",
+					"display_url": "cafe.daum.net/loonatheworld",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293880387685380000,
+					"id_str": "1293880387685380096",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293880387685380096/pu/img/Twadh2gU8spGhm3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293880387685380096/pu/img/Twadh2gU8spGhm3L.jpg",
+					"url": "https://t.co/AHQ3VbxXKr",
+					"display_url": "pic.twitter.com/AHQ3VbxXKr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1293880536994217984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293880387685380000,
+					"id_str": "1293880387685380096",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293880387685380096/pu/img/Twadh2gU8spGhm3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293880387685380096/pu/img/Twadh2gU8spGhm3L.jpg",
+					"url": "https://t.co/AHQ3VbxXKr",
+					"display_url": "pic.twitter.com/AHQ3VbxXKr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1293880536994217984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 84067,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293880387685380096/pu/vid/640x360/fm_3dG4InYWPlXlS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1293880387685380096/pu/pl/lgpAm3cEhdQNehPh.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293880387685380096/pu/vid/1280x720/XtiO_SqthYISGfMH.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293880387685380096/pu/vid/480x270/XfBJflLDrF19wpQd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 508140,
+			"friends_count": 0,
+			"listed_count": 5344,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2890,
+		"favorite_count": 8167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 2020 SUMMER PACKAGE &lt;LOONA ISLAND : 소녀들이 만난 여름&gt; CONCEPT ZONE이 드디어 내일 오픈합니다🌴 \n이달의 소녀 공식 팬카페를 통해 수정된 공지사항을 함께 확인해 주세요💚\n\n▶️ https://t.co/XKuLryfjHE\n\n#LOONA https://t.co/AHQ3VbxXKr"
+	},
+	{
 		"created_at": "Thu Aug 13 11:25:17 +0000 2020",
 		"id": 1293859672898691000,
 		"id_str": "1293871239988117507",
