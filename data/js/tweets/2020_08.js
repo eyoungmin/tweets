@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 00:27:57 +0000 2020",
+		"id": 1294068166151139300,
+		"id_str": "1294068204675969026",
+		"full_text": "Congrats to Red Velvet for taking home this year's Soribada Music of the Year &amp; Bonsang Awards!! 🏆🥳 Thank you to everyone that worked hard to achieve this for our girls 🧡\n\n#레드벨벳 #RedVelvet #소리바다어워즈 #SOBA2020 #SORIBADA2020 @RVsmtown https://t.co/cABGErY6Pu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						182,
+						192
+					]
+				},
+				{
+					"text": "소리바다어워즈",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "SOBA2020",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"text": "SORIBADA2020",
+					"indices": [
+						212,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						226,
+						235
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294067383238156300,
+					"id_str": "1294067383238156289",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EfVzbcVUYAEKsXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfVzbcVUYAEKsXY.jpg",
+					"url": "https://t.co/cABGErY6Pu",
+					"display_url": "pic.twitter.com/cABGErY6Pu",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1294068166151139329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294067383238156300,
+					"id_str": "1294067383238156289",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EfVzbcVUYAEKsXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfVzbcVUYAEKsXY.jpg",
+					"url": "https://t.co/cABGErY6Pu",
+					"display_url": "pic.twitter.com/cABGErY6Pu",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1294068166151139329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1294067383242379300,
+					"id_str": "1294067383242379265",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EfVzbcWU0AEpWhj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfVzbcWU0AEpWhj.jpg",
+					"url": "https://t.co/cABGErY6Pu",
+					"display_url": "pic.twitter.com/cABGErY6Pu",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1294068166151139329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1294067383238197200,
+					"id_str": "1294067383238197249",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EfVzbcVVAAEjpSJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfVzbcVVAAEjpSJ.jpg",
+					"url": "https://t.co/cABGErY6Pu",
+					"display_url": "pic.twitter.com/cABGErY6Pu",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1294068166151139329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1280628247747678200,
+			"id_str": "1280628247747678208",
+			"name": "SMTOWNUSA",
+			"screen_name": "SMTOWN_USA",
+			"location": "",
+			"description": "The Official Twitter of SMUSA",
+			"url": "https://t.co/KdM169wLtq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KdM169wLtq",
+							"expanded_url": "http://smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41789,
+			"friends_count": 25,
+			"listed_count": 73,
+			"created_at": "Tue Jul 07 22:25:11 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 53,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280628247747678208/1596129921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1219,
+		"favorite_count": 3306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats to Red Velvet for taking home this year's Soribada Music of the Year &amp; Bonsang Awards!! 🏆🥳 Thank you to everyone that worked hard to achieve this for our girls 🧡\n\n#레드벨벳 #RedVelvet #소리바다어워즈 #SOBA2020 #SORIBADA2020 @RVsmtown https://t.co/cABGErY6Pu"
+	},
+	{
 		"created_at": "Thu Aug 13 23:25:11 +0000 2020",
 		"id": 1294044703948566500,
 		"id_str": "1294052408100888576",
