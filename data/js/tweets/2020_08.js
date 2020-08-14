@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 09:27:56 +0000 2020",
+		"id": 1294197958972448800,
+		"id_str": "1294204098141716480",
+		"full_text": "4회차 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~8월 16일 23:59)\n&gt; https://t.co/oKW0yE4g8n (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/F0GBnBmq0j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_letter",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "WENDY_letter",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "디어유레터",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKW0yE4g8n",
+					"expanded_url": "http://dear-u.lysn.com",
+					"display_url": "dear-u.lysn.com",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1294197926613328000,
+					"id_str": "1294197926613327872",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXqKETVoAAKy1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXqKETVoAAKy1G.jpg",
+					"url": "https://t.co/F0GBnBmq0j",
+					"display_url": "pic.twitter.com/F0GBnBmq0j",
+					"expanded_url": "https://twitter.com/lysn_official/status/1294197958972448775/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1186,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1228,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294197926613328000,
+					"id_str": "1294197926613327872",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXqKETVoAAKy1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXqKETVoAAKy1G.jpg",
+					"url": "https://t.co/F0GBnBmq0j",
+					"display_url": "pic.twitter.com/F0GBnBmq0j",
+					"expanded_url": "https://twitter.com/lysn_official/status/1294197958972448775/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1186,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1228,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "이 세상 어느 커뮤니티보다 내 관심사에 대해 자유롭게 이야기할 수 있는 공간. 당신은 어떤 이야기를 나누고 싶나요?",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10087,
+			"friends_count": 0,
+			"listed_count": 17,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4회차 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~8월 16일 23:59)\n&gt; https://t.co/oKW0yE4g8n (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/F0GBnBmq0j"
+	},
+	{
 		"created_at": "Fri Aug 14 07:47:13 +0000 2020",
 		"id": 1294178749592871000,
 		"id_str": "1294178749592870912",
