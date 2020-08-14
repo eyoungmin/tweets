@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 18:56:59 +0000 2020",
+		"id": 1290097789276323800,
+		"id_str": "1294347301507305472",
+		"full_text": "‘룸살롱’과 ‘가라오케’의 차이를 구분하지 않았다며 유죄가 선고된 것을 이례적이라고 비판하는 목소리도 나왔다.\n\n“문제의 핵심은, 왜 한 회사의 대표이사 자리에 있는 남성이 여성 도우미가 나오는 가라오케에 여직원들을 데려가서 옆자리에 앉혔는지 여부다.”\nhttps://t.co/IK7BnTd09S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IK7BnTd09S",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008031024001&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232470362991939600,
+			"id_str": "1232470362991939584",
+			"name": "플랫",
+			"screen_name": "flatflat38",
+			"location": "",
+			"description": "여성 서사 아카이브. 평평한, 반듯한, 균일한, 반음 낮은 플랫(flat). 플랫의 뜻만큼이나 다양한 여성들의 삶을 지지한다. instagram@flatflat38",
+			"url": "https://t.co/FWa3Dfp7Bw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FWa3Dfp7Bw",
+							"expanded_url": "http://bitly.kr/IPoAJLja",
+							"display_url": "bitly.kr/IPoAJLja",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1064,
+			"friends_count": 57,
+			"listed_count": 3,
+			"created_at": "Wed Feb 26 01:00:20 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232471779337109504/WmrmOmIg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232471779337109504/WmrmOmIg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232470362991939584/1582680592",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘룸살롱’과 ‘가라오케’의 차이를 구분하지 않았다며 유죄가 선고된 것을 이례적이라고 비판하는 목소리도 나왔다.\n\n“문제의 핵심은, 왜 한 회사의 대표이사 자리에 있는 남성이 여성 도우미가 나오는 가라오케에 여직원들을 데려가서 옆자리에 앉혔는지 여부다.”\nhttps://t.co/IK7BnTd09S"
+	},
+	{
+		"created_at": "Fri Aug 14 18:56:40 +0000 2020",
+		"id": 1291206712972599300,
+		"id_str": "1294347225024196608",
+		"full_text": "룸살롱, 가라오케를 혼동해서 썼고, 음주를 강권했지만 1인당 소주 3병을 마시게 한 것은 아니어서 허위사실 적시라고 S 스타트업의 전 대표의 갑질을 내부고발한 사람에게 200만원의 벌금을 내린 1심재판. 항소심에서 여러분의 무죄탄원이 필요한 이유입니다. \n탄원참여:https://t.co/R7ctxp9TZv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R7ctxp9TZv",
+					"expanded_url": "https://www.angrypeople.co.kr/progress/v/57",
+					"display_url": "angrypeople.co.kr/progress/v/57",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1290839877706104800,
+		"in_reply_to_status_id_str": "1290839877706104834",
+		"in_reply_to_user_id": 1192279148007264300,
+		"in_reply_to_user_id_str": "1192279148007264257",
+		"in_reply_to_screen_name": "angrypeople_co",
+		"user": {
+			"id": 1192279148007264300,
+			"id_str": "1192279148007264257",
+			"name": "화난사람들 공식트위터",
+			"screen_name": "angrypeople_co",
+			"location": "서울, 대한민국",
+			"description": "화나는 일, 짜증나는 일, 억울한 일!\n함께 모여 법대로 해결하는 공동소송 플랫폼 화난사람들입니다. \n\nhttps://t.co/JE1zorKsy1 is a legal startup in Korea specialized in class action lawsuit cases",
+			"url": "https://t.co/WgT0VCMEdS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WgT0VCMEdS",
+							"expanded_url": "http://www.angrypeople.co.kr",
+							"display_url": "angrypeople.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JE1zorKsy1",
+							"expanded_url": "http://Angrypeople.co.kr",
+							"display_url": "Angrypeople.co.kr",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 37,
+			"listed_count": 2,
+			"created_at": "Thu Nov 07 03:14:50 +0000 2019",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222386387166457856/3YoDnqH-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222386387166457856/3YoDnqH-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192279148007264257/1580274602",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "룸살롱, 가라오케를 혼동해서 썼고, 음주를 강권했지만 1인당 소주 3병을 마시게 한 것은 아니어서 허위사실 적시라고 S 스타트업의 전 대표의 갑질을 내부고발한 사람에게 200만원의 벌금을 내린 1심재판. 항소심에서 여러분의 무죄탄원이 필요한 이유입니다. \n탄원참여:https://t.co/R7ctxp9TZv"
+	},
+	{
+		"created_at": "Fri Aug 14 18:56:40 +0000 2020",
+		"id": 1290839877706104800,
+		"id_str": "1294347222969016326",
+		"full_text": "이 사연을 제보해주신 분들은 방청연대를 비롯한 다양한 활동을 하시는 @Shadow__Pins 입니다. @kyunghyang 심윤지 기자님께서 이 사연의 중심이 되는 'S사 내부고발자 역고소'를 심층취재해주신 기사도 공유합니다. \n기사보러가기: https://t.co/DM6ACTOgnL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shadow__Pins",
+					"name": "SP",
+					"id": 700498171621875700,
+					"id_str": "700498171621875713",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "kyunghyang",
+					"name": "경향신문",
+					"id": 118720645,
+					"id_str": "118720645",
+					"indices": [
+						57,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DM6ACTOgnL",
+					"expanded_url": "https://m.khan.co.kr/view.html?art_id=202008031024001&code=940100#c2b",
+					"display_url": "m.khan.co.kr/view.html?art_…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1290839433747427300,
+		"in_reply_to_status_id_str": "1290839433747427328",
+		"in_reply_to_user_id": 1192279148007264300,
+		"in_reply_to_user_id_str": "1192279148007264257",
+		"in_reply_to_screen_name": "angrypeople_co",
+		"user": {
+			"id": 1192279148007264300,
+			"id_str": "1192279148007264257",
+			"name": "화난사람들 공식트위터",
+			"screen_name": "angrypeople_co",
+			"location": "서울, 대한민국",
+			"description": "화나는 일, 짜증나는 일, 억울한 일!\n함께 모여 법대로 해결하는 공동소송 플랫폼 화난사람들입니다. \n\nhttps://t.co/JE1zorKsy1 is a legal startup in Korea specialized in class action lawsuit cases",
+			"url": "https://t.co/WgT0VCMEdS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WgT0VCMEdS",
+							"expanded_url": "http://www.angrypeople.co.kr",
+							"display_url": "angrypeople.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JE1zorKsy1",
+							"expanded_url": "http://Angrypeople.co.kr",
+							"display_url": "Angrypeople.co.kr",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 37,
+			"listed_count": 2,
+			"created_at": "Thu Nov 07 03:14:50 +0000 2019",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222386387166457856/3YoDnqH-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222386387166457856/3YoDnqH-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192279148007264257/1580274602",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 사연을 제보해주신 분들은 방청연대를 비롯한 다양한 활동을 하시는 @Shadow__Pins 입니다. @kyunghyang 심윤지 기자님께서 이 사연의 중심이 되는 'S사 내부고발자 역고소'를 심층취재해주신 기사도 공유합니다. \n기사보러가기: https://t.co/DM6ACTOgnL"
+	},
+	{
+		"created_at": "Fri Aug 14 18:56:37 +0000 2020",
+		"id": 1290839433747427300,
+		"id_str": "1294347212466479106",
+		"full_text": "#화난사람들 제보사연. 재직 당시 회사 대표의 갑질, 직장내 괴롭힘, 성희롱, 폭언을 내부고발했지만 돌아온 것은 명예훼손 역고소와 200만원 벌금형. 내부고발자는 이제 싸울 힘도 점점 잃어가고 있다는데요, \n제보자분의 상담영상 #유튜브채널 에서 보시죠. \n영상보러가기: https://t.co/64LVXllQ51",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "화난사람들",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "유튜브채널",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/64LVXllQ51",
+					"expanded_url": "https://www.youtube.com/watch?v=HU84Q0SLpCg",
+					"display_url": "youtube.com/watch?v=HU84Q0…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192279148007264300,
+			"id_str": "1192279148007264257",
+			"name": "화난사람들 공식트위터",
+			"screen_name": "angrypeople_co",
+			"location": "서울, 대한민국",
+			"description": "화나는 일, 짜증나는 일, 억울한 일!\n함께 모여 법대로 해결하는 공동소송 플랫폼 화난사람들입니다. \n\nhttps://t.co/JE1zorKsy1 is a legal startup in Korea specialized in class action lawsuit cases",
+			"url": "https://t.co/WgT0VCMEdS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WgT0VCMEdS",
+							"expanded_url": "http://www.angrypeople.co.kr",
+							"display_url": "angrypeople.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JE1zorKsy1",
+							"expanded_url": "http://Angrypeople.co.kr",
+							"display_url": "Angrypeople.co.kr",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1157,
+			"friends_count": 37,
+			"listed_count": 2,
+			"created_at": "Thu Nov 07 03:14:50 +0000 2019",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222386387166457856/3YoDnqH-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222386387166457856/3YoDnqH-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192279148007264257/1580274602",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#화난사람들 제보사연. 재직 당시 회사 대표의 갑질, 직장내 괴롭힘, 성희롱, 폭언을 내부고발했지만 돌아온 것은 명예훼손 역고소와 200만원 벌금형. 내부고발자는 이제 싸울 힘도 점점 잃어가고 있다는데요, \n제보자분의 상담영상 #유튜브채널 에서 보시죠. \n영상보러가기: https://t.co/64LVXllQ51"
+	},
+	{
 		"created_at": "Fri Aug 14 16:59:57 +0000 2020",
 		"id": 1294061175047676000,
 		"id_str": "1294317852191633409",
