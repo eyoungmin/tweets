@@ -1,6 +1,2156 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 07:02:04 +0000 2020",
+		"id": 1294167387235909600,
+		"id_str": "1294167387235909633",
+		"full_text": "#대한민국 #보건복지부\n[브리핑Live] 코로나19 대응현황 중앙재난안전대책본부 정례브리핑 8/14(금)\nhttps://t.co/hOiicvq7PU\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hOiicvq7PU",
+					"expanded_url": "https://www.youtube.com/watch?v=I7gMvH3ETQ4",
+					"display_url": "youtube.com/watch?v=I7gMvH…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[브리핑Live] 코로나19 대응현황 중앙재난안전대책본부 정례브리핑 8/14(금)\nhttps://t.co/hOiicvq7PU\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Aug 14 07:02:03 +0000 2020",
+		"id": 1294167383817543700,
+		"id_str": "1294167383817543680",
+		"full_text": "#대한민국 #보건복지부\n[요약] 8월13일14시10분│서울시, 집회 강행 시 주최자·참여자 고발조치│정부브리핑\nhttps://t.co/x9sjTueuqY\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x9sjTueuqY",
+					"expanded_url": "https://www.youtube.com/watch?v=00flLJ7kAZo",
+					"display_url": "youtube.com/watch?v=00flLJ…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 8월13일14시10분│서울시, 집회 강행 시 주최자·참여자 고발조치│정부브리핑\nhttps://t.co/x9sjTueuqY\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Aug 14 06:59:28 +0000 2020",
+		"id": 1294166731980767200,
+		"id_str": "1294166731980767232",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 두 번째 서머 시즌 그리팅 출시..예약판매 시작\nhttps://t.co/7D6m6EHxab\n#블랙핑크 #BLACKPINK https://t.co/GgMEHFKl9p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7D6m6EHxab",
+					"expanded_url": "https://yg-life.com/archives/158427?lang=ko",
+					"display_url": "yg-life.com/archives/15842…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1294166730990858200,
+					"id_str": "1294166730990858240",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXNyPjWsAABMBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXNyPjWsAABMBb.jpg",
+					"url": "https://t.co/GgMEHFKl9p",
+					"display_url": "pic.twitter.com/GgMEHFKl9p",
+					"expanded_url": "https://twitter.com/fromminn/status/1294166731980767232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294166730990858200,
+					"id_str": "1294166730990858240",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXNyPjWsAABMBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXNyPjWsAABMBb.jpg",
+					"url": "https://t.co/GgMEHFKl9p",
+					"display_url": "pic.twitter.com/GgMEHFKl9p",
+					"expanded_url": "https://twitter.com/fromminn/status/1294166731980767232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 두 번째 서머 시즌 그리팅 출시..예약판매 시작\nhttps://t.co/7D6m6EHxab\n#블랙핑크 #BLACKPINK https://t.co/GgMEHFKl9p"
+	},
+	{
+		"created_at": "Fri Aug 14 06:59:26 +0000 2020",
+		"id": 1294166725605363700,
+		"id_str": "1294166725605363712",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n트레저 ‘BOY’ 뮤비 2000만뷰 돌파..신기록 행진ing\nhttps://t.co/48HSBYxlN3\n#블랙핑크 #BLACKPINK https://t.co/xoaxjFTEbY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/48HSBYxlN3",
+					"expanded_url": "https://yg-life.com/archives/158422?lang=ko",
+					"display_url": "yg-life.com/archives/15842…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1294166724531630000,
+					"id_str": "1294166724531630080",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXNx3fWsAAAIh6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXNx3fWsAAAIh6.jpg",
+					"url": "https://t.co/xoaxjFTEbY",
+					"display_url": "pic.twitter.com/xoaxjFTEbY",
+					"expanded_url": "https://twitter.com/fromminn/status/1294166725605363712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294166724531630000,
+					"id_str": "1294166724531630080",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXNx3fWsAAAIh6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXNx3fWsAAAIh6.jpg",
+					"url": "https://t.co/xoaxjFTEbY",
+					"display_url": "pic.twitter.com/xoaxjFTEbY",
+					"expanded_url": "https://twitter.com/fromminn/status/1294166725605363712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n트레저 ‘BOY’ 뮤비 2000만뷰 돌파..신기록 행진ing\nhttps://t.co/48HSBYxlN3\n#블랙핑크 #BLACKPINK https://t.co/xoaxjFTEbY"
+	},
+	{
+		"created_at": "Fri Aug 14 06:55:38 +0000 2020",
+		"id": 1294165770008633300,
+		"id_str": "1294165770008633349",
+		"full_text": "Microsoft 365 Family (구 오피스365 HOME)을 쓰고 있는데 여기에 붙으면 더 좋겠다는 생각이 있다. 이미 금액을 내고 있는데 5100원을 더 주고 쓰는 것은 뭐랄까. 그럴바에는 G suite를 쓰는 것이 낫다는 결론으로 도달하게 만든다.\n\n#스타트업 #도메인메일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타트업",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "도메인메일",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294165768465047600,
+		"in_reply_to_status_id_str": "1294165768465047552",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Microsoft 365 Family (구 오피스365 HOME)을 쓰고 있는데 여기에 붙으면 더 좋겠다는 생각이 있다. 이미 금액을 내고 있는데 5100원을 더 주고 쓰는 것은 뭐랄까. 그럴바에는 G suite를 쓰는 것이 낫다는 결론으로 도달하게 만든다.\n\n#스타트업 #도메인메일"
+	},
+	{
+		"created_at": "Fri Aug 14 06:55:38 +0000 2020",
+		"id": 1294165768465047600,
+		"id_str": "1294165768465047552",
+		"full_text": "당시에는 비즈니스 플랜에서만 도메인 메일이 가능하다는 내용이 명확하게 쓰여 있지 않았고 플랜도 복잡했다. 지금은 마이크로소프트365로 변경과 함께 정리가 되었다.\n\n지금은 비즈니스 베이직 플랜에서 도메인 메일을 설정해 사용할 수 있다\n\n#스타트업 #도메인메일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타트업",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "도메인메일",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294165766640504800,
+		"in_reply_to_status_id_str": "1294165766640504832",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "당시에는 비즈니스 플랜에서만 도메인 메일이 가능하다는 내용이 명확하게 쓰여 있지 않았고 플랜도 복잡했다. 지금은 마이크로소프트365로 변경과 함께 정리가 되었다.\n\n지금은 비즈니스 베이직 플랜에서 도메인 메일을 설정해 사용할 수 있다\n\n#스타트업 #도메인메일"
+	},
+	{
+		"created_at": "Fri Aug 14 06:55:37 +0000 2020",
+		"id": 1294165766640504800,
+		"id_str": "1294165766640504832",
+		"full_text": "마소 플랜 소개해주셨는데 오피스365(현 마이크로소프트365) 당시, 플랜이 제대로 정리되어 있지 않고 혼동하여 작성이 되어 있었다. 담당자와 전화도 했고 플랜 정리해야 된다고 이야기 했었던 기억이 있다.\n\n#스타트업 #도메인메일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타트업",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "도메인메일",
+					"indices": [
+						122,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293998691280330800,
+		"in_reply_to_status_id_str": "1293998691280330752",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "마소 플랜 소개해주셨는데 오피스365(현 마이크로소프트365) 당시, 플랜이 제대로 정리되어 있지 않고 혼동하여 작성이 되어 있었다. 담당자와 전화도 했고 플랜 정리해야 된다고 이야기 했었던 기억이 있다.\n\n#스타트업 #도메인메일"
+	},
+	{
+		"created_at": "Fri Aug 14 06:45:37 +0000 2020",
+		"id": 1294163249013731300,
+		"id_str": "1294163249013731329",
+		"full_text": "Billie Eilish x Telekom: What We Do Next https://t.co/r1Zn7GUhox \n\n빌리 아일리시가 다양한 Z세대 청소년을 위한 캠페인에 참여. 포용과 지속가능성에 대하여.\nhttps://t.co/jiY5xWQ20M\n\n#BillieEilish #빌리아일리시 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillieEilish",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "빌리아일리시",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						164,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r1Zn7GUhox",
+					"expanded_url": "https://youtu.be/Uj-zpXspfxQ",
+					"display_url": "youtu.be/Uj-zpXspfxQ",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/jiY5xWQ20M",
+					"expanded_url": "https://whatwedonext.electronicbeats.net/",
+					"display_url": "whatwedonext.electronicbeats.net",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 939,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Billie Eilish x Telekom: What We Do Next https://t.co/r1Zn7GUhox \n\n빌리 아일리시가 다양한 Z세대 청소년을 위한 캠페인에 참여. 포용과 지속가능성에 대하여.\nhttps://t.co/jiY5xWQ20M\n\n#BillieEilish #빌리아일리시 #minfav"
+	},
+	{
+		"created_at": "Fri Aug 14 06:27:57 +0000 2020",
+		"id": 1294154497728475100,
+		"id_str": "1294158800585400320",
+		"full_text": "[#SMTrue_PreOrder] สินค้าออฟฟิเชียลจากอัลบั้ม ‘#Monster’ ของ ‘#RedVelvet_IRENE_SEULGI’ \n\n😈 เริ่มสั่งได้ 14 ส.ค.63 (13.00 น. เป็นต้นไป) ~ 21 ส.ค.63 (12.00 น.) ทาง https://t.co/WCIqokSdtm\n\n😈 สินค้าจะถูกจัดส่งไม่เกิน 31 ต.ค.63\n\n😈 https://t.co/sZ24Bi9mAN\n\n#IRENE #SEULGI #RedVelvet https://t.co/E6sDIyLPOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTrue_PreOrder",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "Monster",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						252,
+						258
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						259,
+						266
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						267,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WCIqokSdtm",
+					"expanded_url": "http://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						162,
+						185
+					]
+				},
+				{
+					"url": "https://t.co/sZ24Bi9mAN",
+					"expanded_url": "http://facebook.com/212568845457738/posts/3247360511978541",
+					"display_url": "facebook.com/21256884545773…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1294153574268588000,
+					"id_str": "1294153574268588032",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXB0a8U0AAivvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXB0a8U0AAivvO.jpg",
+					"url": "https://t.co/E6sDIyLPOL",
+					"display_url": "pic.twitter.com/E6sDIyLPOL",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1294154497728475137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 283,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294153574268588000,
+					"id_str": "1294153574268588032",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXB0a8U0AAivvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXB0a8U0AAivvO.jpg",
+					"url": "https://t.co/E6sDIyLPOL",
+					"display_url": "pic.twitter.com/E6sDIyLPOL",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1294154497728475137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 283,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82692,
+			"friends_count": 47,
+			"listed_count": 136,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "[#SMTrue_PreOrder] สินค้าออฟฟิเชียลจากอัลบั้ม ‘#Monster’ ของ ‘#RedVelvet_IRENE_SEULGI’ \n\n😈 เริ่มสั่งได้ 14 ส.ค.63 (13.00 น. เป็นต้นไป) ~ 21 ส.ค.63 (12.00 น.) ทาง https://t.co/WCIqokSdtm\n\n😈 สินค้าจะถูกจัดส่งไม่เกิน 31 ต.ค.63\n\n😈 https://t.co/sZ24Bi9mAN\n\n#IRENE #SEULGI #RedVelvet https://t.co/E6sDIyLPOL"
+	},
+	{
+		"created_at": "Fri Aug 14 06:25:29 +0000 2020",
+		"id": 1294137225991475200,
+		"id_str": "1294158180847624192",
+		"full_text": "#BLACKPINK 2020 BLACKPINK’S SUMMER DIARY IN SEOUL KiT VIDEO\nPre-order notice has been uploaded\n\n▶️https://t.co/LlfmcfTPTa\n\n#블랙핑크 #SUMMERDIARY #INSEOUL #20200831 #OFFLINERELEASE #BLINK #YG https://t.co/fLDBggjjmZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "SUMMERDIARY",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "INSEOUL",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "OFFLINERELEASE",
+					"indices": [
+						161,
+						176
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						184,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LlfmcfTPTa",
+					"expanded_url": "https://business.facebook.com/BLACKPINKOFFICIAL/posts/1206622663052489",
+					"display_url": "business.facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1294131524049096700,
+					"id_str": "1294131524049096705",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfWtw7eU0AEP3PE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfWtw7eU0AEP3PE.jpg",
+					"url": "https://t.co/fLDBggjjmZ",
+					"display_url": "pic.twitter.com/fLDBggjjmZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1294137225991475200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294131524049096700,
+					"id_str": "1294131524049096705",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfWtw7eU0AEP3PE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfWtw7eU0AEP3PE.jpg",
+					"url": "https://t.co/fLDBggjjmZ",
+					"display_url": "pic.twitter.com/fLDBggjjmZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1294137225991475200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1294131539765153800,
+					"id_str": "1294131539765153792",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfWtx2BU0AAzFCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfWtx2BU0AAzFCP.jpg",
+					"url": "https://t.co/fLDBggjjmZ",
+					"display_url": "pic.twitter.com/fLDBggjjmZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1294137225991475200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1294131573910933500,
+					"id_str": "1294131573910933504",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfWtz1OUEAAulxH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfWtz1OUEAAulxH.jpg",
+					"url": "https://t.co/fLDBggjjmZ",
+					"display_url": "pic.twitter.com/fLDBggjjmZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1294137225991475200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1734,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1294131586795843600,
+					"id_str": "1294131586795843585",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfWt0lOUMAEWwgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfWt0lOUMAEWwgt.jpg",
+					"url": "https://t.co/fLDBggjjmZ",
+					"display_url": "pic.twitter.com/fLDBggjjmZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1294137225991475200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 835,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1425,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6507350,
+			"friends_count": 38,
+			"listed_count": 6641,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21204,
+		"favorite_count": 59477,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2020 BLACKPINK’S SUMMER DIARY IN SEOUL KiT VIDEO\nPre-order notice has been uploaded\n\n▶️https://t.co/LlfmcfTPTa\n\n#블랙핑크 #SUMMERDIARY #INSEOUL #20200831 #OFFLINERELEASE #BLINK #YG https://t.co/fLDBggjjmZ"
+	},
+	{
+		"created_at": "Fri Aug 14 06:25:25 +0000 2020",
+		"id": 1294151864712216600,
+		"id_str": "1294158163516837895",
+		"full_text": "#BLACKPINK 2020 BLACKPINK'S SUMMER DIARY [IN SEOUL] PREVIEW\n\n📺NAVER TV : https://t.co/S0CPagHbUS\n🎬YouTube : https://t.co/d8uvKMlARt\n\n#블랙핑크 #SUMMERDIARY #INSEOUL #RAKKOJAE\n#20200831 #OFFLINERELEASE #BLINK #YG https://t.co/h2az8GcTZt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "SUMMERDIARY",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "INSEOUL",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "RAKKOJAE",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "OFFLINERELEASE",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						204,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S0CPagHbUS",
+					"expanded_url": "https://tv.naver.com/v/15268691",
+					"display_url": "tv.naver.com/v/15268691",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/d8uvKMlARt",
+					"expanded_url": "https://youtu.be/TqEPcWkPEBk",
+					"display_url": "youtu.be/TqEPcWkPEBk",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1294148740924596200,
+					"id_str": "1294148740924596224",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EfW9pb9U8AI4F5L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfW9pb9U8AI4F5L.jpg",
+					"url": "https://t.co/h2az8GcTZt",
+					"display_url": "pic.twitter.com/h2az8GcTZt",
+					"expanded_url": "https://twitter.com/ygent_official/status/1294151864712216577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294148740924596200,
+					"id_str": "1294148740924596224",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EfW9pb9U8AI4F5L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfW9pb9U8AI4F5L.jpg",
+					"url": "https://t.co/h2az8GcTZt",
+					"display_url": "pic.twitter.com/h2az8GcTZt",
+					"expanded_url": "https://twitter.com/ygent_official/status/1294151864712216577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 51051,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1294148740924596224/vid/480x270/HkJbBYekep4rneGF.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1294148740924596224/pl/GIxXq7kHh29h3ksy.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1294148740924596224/vid/1280x720/a5xN08PJWeohIzBL.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1294148740924596224/vid/640x360/2lqRS8ojfjoijeE9.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK - 2020 BLACKPINK'S SUMMER DIARY [IN SEOUL] PREVIEW",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/TqEPcWkPEBk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6507350,
+			"friends_count": 38,
+			"listed_count": 6641,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14604,
+		"favorite_count": 34400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2020 BLACKPINK'S SUMMER DIARY [IN SEOUL] PREVIEW\n\n📺NAVER TV : https://t.co/S0CPagHbUS\n🎬YouTube : https://t.co/d8uvKMlARt\n\n#블랙핑크 #SUMMERDIARY #INSEOUL #RAKKOJAE\n#20200831 #OFFLINERELEASE #BLINK #YG https://t.co/h2az8GcTZt"
+	},
+	{
+		"created_at": "Fri Aug 14 06:25:19 +0000 2020",
+		"id": 1294147660136423400,
+		"id_str": "1294158137902145536",
+		"full_text": "9월 26일 출연 예정이었던 레인보우 뮤직&amp;캠핑 페스티벌 2020이 코로나 19와 지역 홍수 피해로 인해 취소되었습니다. 레인보우 뮤직&amp;캠핑 페스티벌 홈페이지 및 sns 계정에서 환불 및 기타 사항을 확인하여 주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294147658722889700,
+		"in_reply_to_status_id_str": "1294147658722889730",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek_bv",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl\ncontact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13036,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "9월 26일 출연 예정이었던 레인보우 뮤직&amp;캠핑 페스티벌 2020이 코로나 19와 지역 홍수 피해로 인해 취소되었습니다. 레인보우 뮤직&amp;캠핑 페스티벌 홈페이지 및 sns 계정에서 환불 및 기타 사항을 확인하여 주시기 바랍니다."
+	},
+	{
+		"created_at": "Fri Aug 14 06:25:10 +0000 2020",
+		"id": 1294147658722889700,
+		"id_str": "1294158103878012928",
+		"full_text": "[Schedule] The Rainbow Music&amp;Camping Festival 2020, where Yerin Baek was scheduled appear on September 26th, has been canceled due to COVID-19 and local flooding. Please refer to Rainbow Music&amp;Camping Festival’s website and social media for info on refunds.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl\ncontact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13036,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[Schedule] The Rainbow Music&amp;Camping Festival 2020, where Yerin Baek was scheduled appear on September 26th, has been canceled due to COVID-19 and local flooding. Please refer to Rainbow Music&amp;Camping Festival’s website and social media for info on refunds."
+	},
+	{
 		"created_at": "Fri Aug 14 05:27:56 +0000 2020",
 		"id": 1294130740930596900,
 		"id_str": "1294143700394704896",
