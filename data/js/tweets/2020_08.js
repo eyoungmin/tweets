@@ -1,6 +1,2821 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 01:01:41 +0000 2020",
+		"id": 1294439083926667300,
+		"id_str": "1294439083926667265",
+		"full_text": "예전에 화제된 화살표 청년과 같은 사례. https://t.co/3C7tCZaHm3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3C7tCZaHm3",
+					"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664",
+					"display_url": "twitter.com/nimishel/statu…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 940,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1292701827813617700,
+		"quoted_status_id_str": "1292701827813617664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3C7tCZaHm3",
+			"expanded": "https://twitter.com/nimishel/status/1292701827813617664",
+			"display": "twitter.com/nimishel/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 10 05:58:27 +0000 2020",
+			"id": 1292701827813617700,
+			"id_str": "1292701827813617664",
+			"full_text": "신주쿠역의 안내판 폰트가 특이해서 뭐지?했더니 사토 슈에츠佐藤修悦 라는 경비원이 공사중인 신주쿠역이 너무 던전이라 독단(!)으로 색테이프를 잘라 안내문을 붙인 것이 시작. 하지만 예쁘고 실용적이라 나중엔 역에 허가를 받고 이제는 폰트 슈에츠체 修悦体 로 인정됨.\nhttps://t.co/BTONIxbcx5 https://t.co/PVXm0JW13c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BTONIxbcx5",
+						"expanded_url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E4%BF%AE%E6%82%A6",
+						"display_url": "ja.wikipedia.org/wiki/%E4%BD%90…",
+						"indices": [
+							147,
+							170
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1292701806217162800,
+						"id_str": "1292701806217162752",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EfCZcZgUcAA78CI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfCZcZgUcAA78CI.jpg",
+						"url": "https://t.co/PVXm0JW13c",
+						"display_url": "pic.twitter.com/PVXm0JW13c",
+						"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 460,
+								"h": 345,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 345,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 460,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1292701806217162800,
+						"id_str": "1292701806217162752",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EfCZcZgUcAA78CI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfCZcZgUcAA78CI.jpg",
+						"url": "https://t.co/PVXm0JW13c",
+						"display_url": "pic.twitter.com/PVXm0JW13c",
+						"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 460,
+								"h": 345,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 345,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 460,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1292701806535929900,
+						"id_str": "1292701806535929857",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EfCZcasUcAE1V18.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfCZcasUcAE1V18.jpg",
+						"url": "https://t.co/PVXm0JW13c",
+						"display_url": "pic.twitter.com/PVXm0JW13c",
+						"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1292701806217191400,
+						"id_str": "1292701806217191426",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EfCZcZgU4AIuqfJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfCZcZgU4AIuqfJ.jpg",
+						"url": "https://t.co/PVXm0JW13c",
+						"display_url": "pic.twitter.com/PVXm0JW13c",
+						"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1292701806225584000,
+						"id_str": "1292701806225584129",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EfCZcZiU8AEWzVx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfCZcZiU8AEWzVx.jpg",
+						"url": "https://t.co/PVXm0JW13c",
+						"display_url": "pic.twitter.com/PVXm0JW13c",
+						"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 218,
+								"h": 304,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 218,
+								"h": 304,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 218,
+								"h": 304,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57837980,
+				"id_str": "57837980",
+				"name": "nimishel",
+				"screen_name": "nimishel",
+				"location": "",
+				"description": "올해는 어번나인만 열심히 만들 생각입니다.\n\n무장궁녀들의 세계 어번나인 계정 @Eobeon_Nain",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1175,
+				"friends_count": 1956,
+				"listed_count": 12,
+				"created_at": "Sat Jul 18 03:08:11 +0000 2009",
+				"favourites_count": 44462,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49813,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1288766976848826369/S64iw6cA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288766976848826369/S64iw6cA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57837980/1596100968",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1524,
+			"favorite_count": 758,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예전에 화제된 화살표 청년과 같은 사례. https://t.co/3C7tCZaHm3"
+	},
+	{
+		"created_at": "Sat Aug 15 00:55:37 +0000 2020",
+		"id": 1292701827813617700,
+		"id_str": "1294437557950746624",
+		"full_text": "신주쿠역의 안내판 폰트가 특이해서 뭐지?했더니 사토 슈에츠佐藤修悦 라는 경비원이 공사중인 신주쿠역이 너무 던전이라 독단(!)으로 색테이프를 잘라 안내문을 붙인 것이 시작. 하지만 예쁘고 실용적이라 나중엔 역에 허가를 받고 이제는 폰트 슈에츠체 修悦体 로 인정됨.\nhttps://t.co/BTONIxbcx5 https://t.co/PVXm0JW13c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BTONIxbcx5",
+					"expanded_url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E4%BF%AE%E6%82%A6",
+					"display_url": "ja.wikipedia.org/wiki/%E4%BD%90…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292701806217162800,
+					"id_str": "1292701806217162752",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCZcZgUcAA78CI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCZcZgUcAA78CI.jpg",
+					"url": "https://t.co/PVXm0JW13c",
+					"display_url": "pic.twitter.com/PVXm0JW13c",
+					"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292701806217162800,
+					"id_str": "1292701806217162752",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCZcZgUcAA78CI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCZcZgUcAA78CI.jpg",
+					"url": "https://t.co/PVXm0JW13c",
+					"display_url": "pic.twitter.com/PVXm0JW13c",
+					"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292701806535929900,
+					"id_str": "1292701806535929857",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCZcasUcAE1V18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCZcasUcAE1V18.jpg",
+					"url": "https://t.co/PVXm0JW13c",
+					"display_url": "pic.twitter.com/PVXm0JW13c",
+					"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292701806217191400,
+					"id_str": "1292701806217191426",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCZcZgU4AIuqfJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCZcZgU4AIuqfJ.jpg",
+					"url": "https://t.co/PVXm0JW13c",
+					"display_url": "pic.twitter.com/PVXm0JW13c",
+					"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292701806225584000,
+					"id_str": "1292701806225584129",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCZcZiU8AEWzVx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCZcZiU8AEWzVx.jpg",
+					"url": "https://t.co/PVXm0JW13c",
+					"display_url": "pic.twitter.com/PVXm0JW13c",
+					"expanded_url": "https://twitter.com/nimishel/status/1292701827813617664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 218,
+							"h": 304,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 218,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 218,
+							"h": 304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57837980,
+			"id_str": "57837980",
+			"name": "nimishel",
+			"screen_name": "nimishel",
+			"location": "",
+			"description": "올해는 어번나인만 열심히 만들 생각입니다.\n\n무장궁녀들의 세계 어번나인 계정 @Eobeon_Nain",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1175,
+			"friends_count": 1956,
+			"listed_count": 12,
+			"created_at": "Sat Jul 18 03:08:11 +0000 2009",
+			"favourites_count": 44462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288766976848826369/S64iw6cA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288766976848826369/S64iw6cA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57837980/1596100968",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1524,
+		"favorite_count": 758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "신주쿠역의 안내판 폰트가 특이해서 뭐지?했더니 사토 슈에츠佐藤修悦 라는 경비원이 공사중인 신주쿠역이 너무 던전이라 독단(!)으로 색테이프를 잘라 안내문을 붙인 것이 시작. 하지만 예쁘고 실용적이라 나중엔 역에 허가를 받고 이제는 폰트 슈에츠체 修悦体 로 인정됨.\nhttps://t.co/BTONIxbcx5 https://t.co/PVXm0JW13c"
+	},
+	{
+		"created_at": "Sat Aug 15 00:53:30 +0000 2020",
+		"id": 1294305404097355800,
+		"id_str": "1294437021755166721",
+		"full_text": "구글, 홍콩 당국으로부터 데이터 요청에 더 이상 응답하지 않을 것\n- 이 결정, 중국이 7월 초 홍콩에 시행한 국가안전법에 대한 조치\n- 이는 또한 페이스북과 트위터의 유사한 결정에 합류하는 것\n- 이전까지 홍콩, 중국 본토와 달리 개방적이고 자유로운 인터넷 제공해\nhttps://t.co/Ovx8sFvk3L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ovx8sFvk3L",
+					"expanded_url": "https://www.engadget.com/google-hong-kong-stops-data-requests-134700801.html",
+					"display_url": "engadget.com/google-hong-ko…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글, 홍콩 당국으로부터 데이터 요청에 더 이상 응답하지 않을 것\n- 이 결정, 중국이 7월 초 홍콩에 시행한 국가안전법에 대한 조치\n- 이는 또한 페이스북과 트위터의 유사한 결정에 합류하는 것\n- 이전까지 홍콩, 중국 본토와 달리 개방적이고 자유로운 인터넷 제공해\nhttps://t.co/Ovx8sFvk3L"
+	},
+	{
+		"created_at": "Sat Aug 15 00:50:17 +0000 2020",
+		"id": 1294327383470874600,
+		"id_str": "1294436215492509699",
+		"full_text": "Exactly 7 years ago Telegram started as an iPhone app. Today we are launching encrypted Video Calls – first on Android due to reasons explained below. Unlike 2013, 2020 is a year when most mobile apps (including Telegram) are best used on an Android phone. https://t.co/e4BlUpLXsi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4BlUpLXsi",
+					"expanded_url": "https://telegram.org/blog/video-calls",
+					"display_url": "telegram.org/blog/video-cal…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16477634,
+			"id_str": "16477634",
+			"name": "Pavel Durov",
+			"screen_name": "durov",
+			"location": "EU",
+			"description": "Founder, CEO at @telegram (2013), founder, ex-CEO of @vkontakte (2006), part-time troll.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1349361,
+			"friends_count": 0,
+			"listed_count": 4420,
+			"created_at": "Sat Sep 27 00:12:22 +0000 2008",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/658376777258151936/-Jz8l4Rr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/658376777258151936/-Jz8l4Rr_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 472,
+		"favorite_count": 2360,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exactly 7 years ago Telegram started as an iPhone app. Today we are launching encrypted Video Calls – first on Android due to reasons explained below. Unlike 2013, 2020 is a year when most mobile apps (including Telegram) are best used on an Android phone. https://t.co/e4BlUpLXsi"
+	},
+	{
+		"created_at": "Sat Aug 15 00:49:29 +0000 2020",
+		"id": 1294366627463667700,
+		"id_str": "1294436014270713857",
+		"full_text": "- \"불행하게도 그들은 우리의 요청을 모두 기각했고 따라서 소상공인은 힘들게 번 매출의 70%만 받게 될 것이다... 페이스북이 자사 수수료를 면제하는 동안 우리는 모든 수수료를 우리의 제품에 명시할 것이다.\"\n- 실제로 이 기능 iOS 버전의 스크린샷, \"애플이 이 구매 30%를 취한다\"는 것 보여줘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294364831529742300,
+		"in_reply_to_status_id_str": "1294364831529742336",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- \"불행하게도 그들은 우리의 요청을 모두 기각했고 따라서 소상공인은 힘들게 번 매출의 70%만 받게 될 것이다... 페이스북이 자사 수수료를 면제하는 동안 우리는 모든 수수료를 우리의 제품에 명시할 것이다.\"\n- 실제로 이 기능 iOS 버전의 스크린샷, \"애플이 이 구매 30%를 취한다\"는 것 보여줘"
+	},
+	{
+		"created_at": "Sat Aug 15 00:49:18 +0000 2020",
+		"id": 1294364831529742300,
+		"id_str": "1294435965499396096",
+		"full_text": "- 페이스북, 성명에서 자사는 소상공인과 창작자 지원 위해 최소 내년까지 유료 온라인 이벤트에서 수수료 받지 않을 것이라고 말해\n- \"우리는 애플에 30% 앱스토어 세금을 줄이거나 코로나19 동안 어려움 겪는 기업의 모든 비용을 자사가 부담하도록 레이스북페이 제공을 허용할 것 요청했다\"고 말해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294363000179167200,
+		"in_reply_to_status_id_str": "1294363000179167234",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 페이스북, 성명에서 자사는 소상공인과 창작자 지원 위해 최소 내년까지 유료 온라인 이벤트에서 수수료 받지 않을 것이라고 말해\n- \"우리는 애플에 30% 앱스토어 세금을 줄이거나 코로나19 동안 어려움 겪는 기업의 모든 비용을 자사가 부담하도록 레이스북페이 제공을 허용할 것 요청했다\"고 말해"
+	},
+	{
+		"created_at": "Sat Aug 15 00:48:49 +0000 2020",
+		"id": 1294363000179167200,
+		"id_str": "1294435843071860736",
+		"full_text": "- 페이스북, 애플에게 iOS 앱 안에서 발생하는 모든 거래에 대해 30% 수수료 면제 요청했으나 이를 거부했다고 말해\n- 그리고 애플, 페이스북이 iOS 사용자에게 자사 기술을 사용해 결제 처리하는 것을 허락하지 않을 것이라고 말해\n- 이는 애플에게 에픽과 법적 투쟁 가운데 또 다른 압력을 가하는 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294361808963338200,
+		"in_reply_to_status_id_str": "1294361808963338244",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 페이스북, 애플에게 iOS 앱 안에서 발생하는 모든 거래에 대해 30% 수수료 면제 요청했으나 이를 거부했다고 말해\n- 그리고 애플, 페이스북이 iOS 사용자에게 자사 기술을 사용해 결제 처리하는 것을 허락하지 않을 것이라고 말해\n- 이는 애플에게 에픽과 법적 투쟁 가운데 또 다른 압력을 가하는 것"
+	},
+	{
+		"created_at": "Sat Aug 15 00:48:46 +0000 2020",
+		"id": 1294361808963338200,
+		"id_str": "1294435830094639104",
+		"full_text": "- 페이스북의 비판, 피트니스 강습과 세미나 같은 유료 실시간 스트리밍 이벤트를 주최하는 새로운 서비스 론칭하면서 나온 것\n- 오늘 페이스북, 20개 국가에 유료 이벤트 기능 론칭\n- 이는 기업이 사용자에게 요가 수업, 세미나 같은 실시간 비디오 스트리밍에 액세스하게 하고 구독료를 받게 해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294359696615317500,
+		"in_reply_to_status_id_str": "1294359696615317505",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 페이스북의 비판, 피트니스 강습과 세미나 같은 유료 실시간 스트리밍 이벤트를 주최하는 새로운 서비스 론칭하면서 나온 것\n- 오늘 페이스북, 20개 국가에 유료 이벤트 기능 론칭\n- 이는 기업이 사용자에게 요가 수업, 세미나 같은 실시간 비디오 스트리밍에 액세스하게 하고 구독료를 받게 해"
+	},
+	{
+		"created_at": "Sat Aug 15 00:48:32 +0000 2020",
+		"id": 1294359696615317500,
+		"id_str": "1294435771970019328",
+		"full_text": "페이스북, 팬데믹 동안 이벤트 매출 손실에 대해 애플 비난\n- 페이스북, 금요일 소셜 미디어 플랫폼에서 새로운 이벤트 스트리밍 서비스와 관련된 앱스토어 운영 방식에 대해 애플 비판\n- 애플의 30% 앱스토어 수수료, 글로벌 팬데믹 동안 소상공인에 피해를 주고 있다고 말해\nhttps://t.co/HN5zKPF5iD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HN5zKPF5iD",
+					"expanded_url": "https://9to5mac.com/2020/08/14/facebook-criticizes-apple-over-app-store-commission/",
+					"display_url": "9to5mac.com/2020/08/14/fac…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북, 팬데믹 동안 이벤트 매출 손실에 대해 애플 비난\n- 페이스북, 금요일 소셜 미디어 플랫폼에서 새로운 이벤트 스트리밍 서비스와 관련된 앱스토어 운영 방식에 대해 애플 비판\n- 애플의 30% 앱스토어 수수료, 글로벌 팬데믹 동안 소상공인에 피해를 주고 있다고 말해\nhttps://t.co/HN5zKPF5iD"
+	},
+	{
+		"created_at": "Sat Aug 15 00:47:50 +0000 2020",
+		"id": 1294373025421426700,
+		"id_str": "1294435595897323521",
+		"full_text": "- 싱크: \"그럼, 당신은 개의치 않는다는 말인가요?\"\n- 트럼프: \"국가 안보 면에서 좋은 것을 해야 합니다. 중국은 우리 위신을 아주 형편없이 떨어뜨렸어요.\"\n* 참고로 밍-치 궈, 금주 초 만일 위챗이 미국에 의해 전세계적으로 금지된다면 iPhone 판매 30%까지 하락할 것이라고 예측",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294370971617558500,
+		"in_reply_to_status_id_str": "1294370971617558528",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 싱크: \"그럼, 당신은 개의치 않는다는 말인가요?\"\n- 트럼프: \"국가 안보 면에서 좋은 것을 해야 합니다. 중국은 우리 위신을 아주 형편없이 떨어뜨렸어요.\"\n* 참고로 밍-치 궈, 금주 초 만일 위챗이 미국에 의해 전세계적으로 금지된다면 iPhone 판매 30%까지 하락할 것이라고 예측"
+	},
+	{
+		"created_at": "Sat Aug 15 00:47:48 +0000 2020",
+		"id": 1294370971617558500,
+		"id_str": "1294435589417078786",
+		"full_text": "\"애플, 포드, 디즈니, 그들은 그것(위챗)이 중국에서 아주 큰 커뮤니케이션 및 결제 플랫폼이기 때문에 당신이 미국 회사들로 하여금 그들과 영업하는 것을 금지한다면 그들은 중국 또는 유사한 시장에서 iPhone을 판매할 수 없을 것이라고 염려합니다.\"\n- 트럼프: \"무엇이든(whatever).\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294369491682562000,
+		"in_reply_to_status_id_str": "1294369491682562049",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"애플, 포드, 디즈니, 그들은 그것(위챗)이 중국에서 아주 큰 커뮤니케이션 및 결제 플랫폼이기 때문에 당신이 미국 회사들로 하여금 그들과 영업하는 것을 금지한다면 그들은 중국 또는 유사한 시장에서 iPhone을 판매할 수 없을 것이라고 염려합니다.\"\n- 트럼프: \"무엇이든(whatever).\""
+	},
+	{
+		"created_at": "Sat Aug 15 00:47:46 +0000 2020",
+		"id": 1294369491682562000,
+		"id_str": "1294435581099823104",
+		"full_text": "트럼프, 위챗 금지가 iPhone 판매에 영향 줄 수 있다는 애플의 염려에 대해 '무엇이든'이라고 대답해\n- 아래는 오늘 백악관 기자회견 중 블룸버그 기자 저스틴 싱크와 주고 받은 대화\n- 싱크: \"위챗에 대한 당신의 명령에 대해 미국 회사들의 많은 경고가 있습니다.\"\nhttps://t.co/ZjZ9WcpwUL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZjZ9WcpwUL",
+					"expanded_url": "https://9to5mac.com/2020/08/14/trump-wechat-ban-iphone/",
+					"display_url": "9to5mac.com/2020/08/14/tru…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46116,
+			"friends_count": 229,
+			"listed_count": 281,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트럼프, 위챗 금지가 iPhone 판매에 영향 줄 수 있다는 애플의 염려에 대해 '무엇이든'이라고 대답해\n- 아래는 오늘 백악관 기자회견 중 블룸버그 기자 저스틴 싱크와 주고 받은 대화\n- 싱크: \"위챗에 대한 당신의 명령에 대해 미국 회사들의 많은 경고가 있습니다.\"\nhttps://t.co/ZjZ9WcpwUL"
+	},
+	{
+		"created_at": "Sat Aug 15 00:46:22 +0000 2020",
+		"id": 1294435228585357300,
+		"id_str": "1294435228585357312",
+		"full_text": "자기 생각 없이 앵무새처럼 자기가 따르는 타인의 생각을 그대로 가져다 되뇌는 사람보다는 냉소라도 있는 사람이 낫다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 940,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "자기 생각 없이 앵무새처럼 자기가 따르는 타인의 생각을 그대로 가져다 되뇌는 사람보다는 냉소라도 있는 사람이 낫다."
+	},
+	{
+		"created_at": "Sat Aug 15 00:33:06 +0000 2020",
+		"id": 1294428351835148300,
+		"id_str": "1294431888812027906",
+		"full_text": "Unified Gatsby https://t.co/SibxUdGlvy \n- React + GraphQL 기반의 정적 웹 페이지 프레임워크 Gatsby가 기존 .org 와 .com 사이트를 통합해서 하나의 사이트를 오픈하고 모든 리소스를 한 곳에 모으기로\n- 오픈소스 버전의 Gatsby는 계속 발전시킬 것\nㅤ→ Gatsby Recipes : 워드프레스처럼 5...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SibxUdGlvy",
+					"expanded_url": "https://j.mp/2DTIpb1",
+					"display_url": "j.mp/2DTIpb1",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3725,
+			"friends_count": 0,
+			"listed_count": 55,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Unified Gatsby https://t.co/SibxUdGlvy \n- React + GraphQL 기반의 정적 웹 페이지 프레임워크 Gatsby가 기존 .org 와 .com 사이트를 통합해서 하나의 사이트를 오픈하고 모든 리소스를 한 곳에 모으기로\n- 오픈소스 버전의 Gatsby는 계속 발전시킬 것\nㅤ→ Gatsby Recipes : 워드프레스처럼 5..."
+	},
+	{
+		"created_at": "Sat Aug 15 00:32:15 +0000 2020",
+		"id": 1294166979088019500,
+		"id_str": "1294431675116433408",
+		"full_text": "집에 기타가 있다면,\n집에 키보드가 있다면,\n노래를 부르고 싶다면\n독립음악 코드악보를 구독하세요.\n⠀\n2주마다 한번씩 인디 뮤지션의 음악을\n코드악보로 받아 보실 수 있습니다.\n\n신청 : https://t.co/glaSGpty6Y\n\n문의 : baanjiha@gmail.com\n후원 : 서울문화재단 https://t.co/XWkPMxvdE4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/glaSGpty6Y",
+					"expanded_url": "https://bit.ly/3kToqKm",
+					"display_url": "bit.ly/3kToqKm",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1294166966286995500,
+					"id_str": "1294166966286995456",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXN_8GU0AA80FT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXN_8GU0AA80FT.jpg",
+					"url": "https://t.co/XWkPMxvdE4",
+					"display_url": "pic.twitter.com/XWkPMxvdE4",
+					"expanded_url": "https://twitter.com/hyangni/status/1294166979088019462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294166966286995500,
+					"id_str": "1294166966286995456",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXN_8GU0AA80FT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXN_8GU0AA80FT.jpg",
+					"url": "https://t.co/XWkPMxvdE4",
+					"display_url": "pic.twitter.com/XWkPMxvdE4",
+					"expanded_url": "https://twitter.com/hyangni/status/1294166979088019462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196570704,
+			"id_str": "196570704",
+			"name": "향니 hyangni 이지향",
+			"screen_name": "hyangni",
+			"location": "south korea",
+			"description": "향니 - 핫소스 MV",
+			"url": "https://t.co/6qAo1NdQRV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6qAo1NdQRV",
+							"expanded_url": "https://youtu.be/5X5jE4MjZCs",
+							"display_url": "youtu.be/5X5jE4MjZCs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 953,
+			"friends_count": 239,
+			"listed_count": 10,
+			"created_at": "Wed Sep 29 12:34:33 +0000 2010",
+			"favourites_count": 544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197856466637443078/ed0B_rlD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197856466637443078/ed0B_rlD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196570704/1574426214",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "집에 기타가 있다면,\n집에 키보드가 있다면,\n노래를 부르고 싶다면\n독립음악 코드악보를 구독하세요.\n⠀\n2주마다 한번씩 인디 뮤지션의 음악을\n코드악보로 받아 보실 수 있습니다.\n\n신청 : https://t.co/glaSGpty6Y\n\n문의 : baanjiha@gmail.com\n후원 : 서울문화재단 https://t.co/XWkPMxvdE4"
+	},
+	{
+		"created_at": "Sat Aug 15 00:29:58 +0000 2020",
+		"id": 1294168151882514400,
+		"id_str": "1294431099326668800",
+		"full_text": "큰 사랑에 힘입어, #블랙핑크 (@BLACKPINK) #지수 와 함께한 마리끌레르 9월호 두 번째 커버도 공개합니다. #디올뷰티 #울트라벨벳틴트 #635 를 바른 지수! 또 다른 매력이 느껴지지 않나요?😘\n-\n2nd version of Marie Claire Korea x Jisoo x Dior cover. https://t.co/wxaPgt2OKA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "디올뷰티",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "울트라벨벳틴트",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294168137697382400,
+					"id_str": "1294168137697382400",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXPEH8U0AAcTv4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXPEH8U0AAcTv4.jpg",
+					"url": "https://t.co/wxaPgt2OKA",
+					"display_url": "pic.twitter.com/wxaPgt2OKA",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1294168151882514433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1580,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294168137697382400,
+					"id_str": "1294168137697382400",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXPEH8U0AAcTv4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXPEH8U0AAcTv4.jpg",
+					"url": "https://t.co/wxaPgt2OKA",
+					"display_url": "pic.twitter.com/wxaPgt2OKA",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1294168151882514433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1580,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/A65jIiHpAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A65jIiHpAu",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93859,
+			"friends_count": 1,
+			"listed_count": 281,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1596171304",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9035,
+		"favorite_count": 20971,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "큰 사랑에 힘입어, #블랙핑크 (@BLACKPINK) #지수 와 함께한 마리끌레르 9월호 두 번째 커버도 공개합니다. #디올뷰티 #울트라벨벳틴트 #635 를 바른 지수! 또 다른 매력이 느껴지지 않나요?😘\n-\n2nd version of Marie Claire Korea x Jisoo x Dior cover. https://t.co/wxaPgt2OKA"
+	},
+	{
+		"created_at": "Sat Aug 15 00:25:11 +0000 2020",
+		"id": 1294423695998333000,
+		"id_str": "1294429895662153731",
+		"full_text": "#BLACKPINK '24/365 with BLACKPINK' EP.7\n\n🎬https://t.co/jdNrWi46Lo\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #24_365_WITH_BLACKPINK #EP7 #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "24_365_WITH_BLACKPINK",
+					"indices": [
+						100,
+						122
+					]
+				},
+				{
+					"text": "EP7",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jdNrWi46Lo",
+					"expanded_url": "https://youtu.be/Cct4uQTwkF4",
+					"display_url": "youtu.be/Cct4uQTwkF4",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6511785,
+			"friends_count": 38,
+			"listed_count": 6640,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11557,
+		"favorite_count": 33277,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK '24/365 with BLACKPINK' EP.7\n\n🎬https://t.co/jdNrWi46Lo\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #24_365_WITH_BLACKPINK #EP7 #YOUTUBE #YG"
+	},
+	{
+		"created_at": "Sat Aug 15 00:20:40 +0000 2020",
+		"id": 1294428759433478100,
+		"id_str": "1294428759433478144",
+		"full_text": "포토샵7.0이 그리워도 이제는 웹에서 쓰면 되니까. 간단간단 작업을 대신할 웹 서비스도 많고 대안도 많다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 940,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "포토샵7.0이 그리워도 이제는 웹에서 쓰면 되니까. 간단간단 작업을 대신할 웹 서비스도 많고 대안도 많다."
+	},
+	{
+		"created_at": "Sat Aug 15 00:17:13 +0000 2020",
+		"id": 1294427890877046800,
+		"id_str": "1294427890877046785",
+		"full_text": "'장미가족의 태그교실'을 아는지 모르는지도 추가. https://t.co/gNjUpNjXKp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gNjUpNjXKp",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1294104285429391361",
+					"display_url": "twitter.com/MADCAT135/stat…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #TwitterGeeks #NotionGeeks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 940,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1294104285429391400,
+		"quoted_status_id_str": "1294104285429391361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gNjUpNjXKp",
+			"expanded": "https://twitter.com/MADCAT135/status/1294104285429391361",
+			"display": "twitter.com/MADCAT135/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 14 02:51:19 +0000 2020",
+			"id": 1294104285429391400,
+			"id_str": "1294104285429391361",
+			"full_text": "뭔지 모름 = 요즘 디자이너\n본적 있음 = 슬슬 옛날 디자이너\n현역때 씀 = 빼박 옛날 사람 https://t.co/zOmaqc1hmM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1294104147856257000,
+						"id_str": "1294104147856257029",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EfWU3bNU8AUNsoR.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfWU3bNU8AUNsoR.png",
+						"url": "https://t.co/zOmaqc1hmM",
+						"display_url": "pic.twitter.com/zOmaqc1hmM",
+						"expanded_url": "https://twitter.com/MADCAT135/status/1294104285429391361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 602,
+								"h": 420,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 602,
+								"h": 420,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 602,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1294104147856257000,
+						"id_str": "1294104147856257029",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EfWU3bNU8AUNsoR.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfWU3bNU8AUNsoR.png",
+						"url": "https://t.co/zOmaqc1hmM",
+						"display_url": "pic.twitter.com/zOmaqc1hmM",
+						"expanded_url": "https://twitter.com/MADCAT135/status/1294104285429391361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 602,
+								"h": 420,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 602,
+								"h": 420,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 602,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87702189,
+				"id_str": "87702189",
+				"name": "MADCAT🍊",
+				"screen_name": "MADCAT135",
+				"location": "대한민국",
+				"description": "사진/영상촬영,편집/그림쟁이/러브라이브,페그오 광인/작품 아카이브 계정 @artmadcat / 디스코드 MADCAT135#2688/ Team CNS (@teamcns) / 트위치 https://t.co/dm1XYqKOsC",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dm1XYqKOsC",
+								"expanded_url": "http://twitch.tv/madcat2790",
+								"display_url": "twitch.tv/madcat2790",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4308,
+				"friends_count": 2715,
+				"listed_count": 57,
+				"created_at": "Thu Nov 05 14:42:17 +0000 2009",
+				"favourites_count": 5926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75683,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1281156674644922369/2cO4N1wI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281156674644922369/2cO4N1wI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87702189/1583796184",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8508,
+			"favorite_count": 2674,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'장미가족의 태그교실'을 아는지 모르는지도 추가. https://t.co/gNjUpNjXKp"
+	},
+	{
+		"created_at": "Sat Aug 15 00:14:16 +0000 2020",
+		"id": 1294104285429391400,
+		"id_str": "1294427149357551616",
+		"full_text": "뭔지 모름 = 요즘 디자이너\n본적 있음 = 슬슬 옛날 디자이너\n현역때 씀 = 빼박 옛날 사람 https://t.co/zOmaqc1hmM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294104147856257000,
+					"id_str": "1294104147856257029",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EfWU3bNU8AUNsoR.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfWU3bNU8AUNsoR.png",
+					"url": "https://t.co/zOmaqc1hmM",
+					"display_url": "pic.twitter.com/zOmaqc1hmM",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1294104285429391361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 602,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 602,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294104147856257000,
+					"id_str": "1294104147856257029",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EfWU3bNU8AUNsoR.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfWU3bNU8AUNsoR.png",
+					"url": "https://t.co/zOmaqc1hmM",
+					"display_url": "pic.twitter.com/zOmaqc1hmM",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1294104285429391361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 602,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 602,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87702189,
+			"id_str": "87702189",
+			"name": "MADCAT🍊",
+			"screen_name": "MADCAT135",
+			"location": "대한민국",
+			"description": "사진/영상촬영,편집/그림쟁이/러브라이브,페그오 광인/작품 아카이브 계정 @artmadcat / 디스코드 MADCAT135#2688/ Team CNS (@teamcns) / 트위치 https://t.co/dm1XYqKOsC",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dm1XYqKOsC",
+							"expanded_url": "http://twitch.tv/madcat2790",
+							"display_url": "twitch.tv/madcat2790",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4308,
+			"friends_count": 2715,
+			"listed_count": 57,
+			"created_at": "Thu Nov 05 14:42:17 +0000 2009",
+			"favourites_count": 5926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281156674644922369/2cO4N1wI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281156674644922369/2cO4N1wI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87702189/1583796184",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8508,
+		"favorite_count": 2674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뭔지 모름 = 요즘 디자이너\n본적 있음 = 슬슬 옛날 디자이너\n현역때 씀 = 빼박 옛날 사람 https://t.co/zOmaqc1hmM"
+	},
+	{
 		"created_at": "Fri Aug 14 22:25:29 +0000 2020",
 		"id": 1294397523130343400,
 		"id_str": "1294399772913270784",
