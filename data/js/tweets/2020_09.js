@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 01 10:00:01 +0000 2020",
+		"id": 1300696477988040700,
+		"id_str": "1300735152901873664",
+		"full_text": "[INSTAGRAM STORY VIDEO] taeyeon_ss : @/wkorea \n@/louisvuitton \nhttps://t.co/0fvRSZFppP\nhttps://t.co/5A36iVePY3\nhttps://t.co/r9YVKtWThK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0fvRSZFppP",
+					"expanded_url": "https://www.instagram.com/stories/taeyeon_ss/2388447613906427461",
+					"display_url": "instagram.com/stories/taeyeo…",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/5A36iVePY3",
+					"expanded_url": "https://instagram.ftpe3-1.fna.fbcdn.net/v/t50.12441-16/118616832_1013895242385095_5953088945692770167_n.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ19wcm9ncmVzc2l2ZV91cmxnZW4ucHJvZHVjdF90eXBlLnN0b3J5XCJdIn0&_nc_ht=instagram.ftpe3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=NYqoogan8b0AX_8n5VO&oe=5F50211E&oh=4d1744883d5d721d0051207ed63e60ef",
+					"display_url": "instagram.ftpe3-1.fna.fbcdn.net/v/t50.12441-16…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300696447831007200,
+					"id_str": "1300696447831007233",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1300696447831007233/pu/img/2xDEIrmPGt1aNbsS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1300696447831007233/pu/img/2xDEIrmPGt1aNbsS.jpg",
+					"url": "https://t.co/r9YVKtWThK",
+					"display_url": "pic.twitter.com/r9YVKtWThK",
+					"expanded_url": "https://twitter.com/abcdefghij/status/1300696475056316416/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1300696475056316400,
+					"source_status_id_str": "1300696475056316416",
+					"source_user_id": 1155501133437104000,
+					"source_user_id_str": "1155501133437104129"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300696447831007200,
+					"id_str": "1300696447831007233",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1300696447831007233/pu/img/2xDEIrmPGt1aNbsS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1300696447831007233/pu/img/2xDEIrmPGt1aNbsS.jpg",
+					"url": "https://t.co/r9YVKtWThK",
+					"display_url": "pic.twitter.com/r9YVKtWThK",
+					"expanded_url": "https://twitter.com/abcdefghij/status/1300696475056316416/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1300696475056316400,
+					"source_status_id_str": "1300696475056316416",
+					"source_user_id": 1155501133437104000,
+					"source_user_id_str": "1155501133437104129",
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							427
+						],
+						"duration_millis": 14634,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1300696447831007233/pu/vid/480x854/PtGeKCp7tnpzAQr8.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1300696447831007233/pu/vid/320x568/vUMkA4dK2FU_eLmR.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1300696447831007233/pu/vid/360x640/bFwpwTwQUb3D6viB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1300696447831007233/pu/pl/KvmAM22LExhs9vr3.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1155501133437104000,
+							"id_str": "1155501133437104129",
+							"name": "📺",
+							"screen_name": "qleldhlibrary",
+							"location": "",
+							"description": "PLEASE DON'T: LIKE / REPLY / FOLLOW / RETWEET /QUOTE WITH TWEET / To quote video method, add '/video/1' after the link",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 0,
+							"friends_count": 0,
+							"listed_count": 2,
+							"created_at": "Sun Jul 28 15:31:53 +0000 2019",
+							"favourites_count": 1,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1066,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1255904028036218881/zdfDL8qO_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255904028036218881/zdfDL8qO_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": " HᗩᑭᑭY ",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7926,
+			"friends_count": 0,
+			"listed_count": 116,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295999113696141312/ayiwEacE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295999113696141312/ayiwEacE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1578968177",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[INSTAGRAM STORY VIDEO] taeyeon_ss : @/wkorea \n@/louisvuitton \nhttps://t.co/0fvRSZFppP\nhttps://t.co/5A36iVePY3\nhttps://t.co/r9YVKtWThK"
+	},
+	{
 		"created_at": "Tue Sep 01 08:59:01 +0000 2020",
 		"id": 1300419730755342300,
 		"id_str": "1300719801115922432",
