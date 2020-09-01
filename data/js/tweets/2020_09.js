@@ -1,6 +1,1074 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 01 10:21:09 +0000 2020",
+		"id": 1300740468972585000,
+		"id_str": "1300740468972584960",
+		"full_text": "#EDAM엔터테인먼트 #카카오M\n[아이유의 집콕시그널] 아이유의 팔레트 Ep.1 (With 적재)\nhttps://t.co/UhIKdVU5F0\n#아이유 #IU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDAM엔터테인먼트",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "카카오M",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						84,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UhIKdVU5F0",
+					"expanded_url": "https://youtu.be/caCVe6fRPQQ",
+					"display_url": "youtu.be/caCVe6fRPQQ",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EDAM엔터테인먼트 #카카오M\n[아이유의 집콕시그널] 아이유의 팔레트 Ep.1 (With 적재)\nhttps://t.co/UhIKdVU5F0\n#아이유 #IU"
+	},
+	{
+		"created_at": "Tue Sep 01 10:11:31 +0000 2020",
+		"id": 1300738045960880000,
+		"id_str": "1300738045960880128",
+		"full_text": "#Melon #멜론 #비디오\nIce Cream (with Selena Gomez) M/V MAKING FILM (03:50)\nhttps://t.co/CzlYUxIsQr\n#블랙핑크 #BLACKPINK https://t.co/Na6vmzXhXH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CzlYUxIsQr",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50225428&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300738044618711000,
+					"id_str": "1300738044618711042",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0mXCdVoAIls1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0mXCdVoAIls1c.jpg",
+					"url": "https://t.co/Na6vmzXhXH",
+					"display_url": "pic.twitter.com/Na6vmzXhXH",
+					"expanded_url": "https://twitter.com/fromminn/status/1300738045960880128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300738044618711000,
+					"id_str": "1300738044618711042",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0mXCdVoAIls1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0mXCdVoAIls1c.jpg",
+					"url": "https://t.co/Na6vmzXhXH",
+					"display_url": "pic.twitter.com/Na6vmzXhXH",
+					"expanded_url": "https://twitter.com/fromminn/status/1300738045960880128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Melon #멜론 #비디오\nIce Cream (with Selena Gomez) M/V MAKING FILM (03:50)\nhttps://t.co/CzlYUxIsQr\n#블랙핑크 #BLACKPINK https://t.co/Na6vmzXhXH"
+	},
+	{
+		"created_at": "Tue Sep 01 10:07:08 +0000 2020",
+		"id": 1300736943131484200,
+		"id_str": "1300736943131484162",
+		"full_text": "봇에 문제가 또 있는 모양이다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "봇에 문제가 또 있는 모양이다..."
+	},
+	{
+		"created_at": "Tue Sep 01 10:06:57 +0000 2020",
+		"id": 1300702613684383700,
+		"id_str": "1300736895580737537",
+		"full_text": "마리끌레르 비하인드컷💜 https://t.co/Bdx7V7ZOcv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bdx7V7ZOcv",
+					"expanded_url": "https://www.instagram.com/p/CElg7VQBzDS/?igshid=1ubx2ytzqypmz",
+					"display_url": "instagram.com/p/CElg7VQBzDS/…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383609,
+			"friends_count": 31,
+			"listed_count": 2864,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 863,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마리끌레르 비하인드컷💜 https://t.co/Bdx7V7ZOcv"
+	},
+	{
+		"created_at": "Tue Sep 01 10:06:51 +0000 2020",
+		"id": 1300678295961260000,
+		"id_str": "1300736871782256641",
+		"full_text": "BLACKPINK - ‘Ice Cream’ @ COEX MEDIA TOWER\n\nAD PERIOD ▶️ ~ 2020.09.13 (SUN)\n\n#BLACKPINK #블랙핑크 #SelenaGomez #셀레나고메즈 #IceCream #NewSingle #MV #YG https://t.co/2hkout61AJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "SelenaGomez",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "셀레나고메즈",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "NewSingle",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						140,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1300677914812280800,
+					"id_str": "1300677914812280833",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1300677914812280833/img/Y4uA49O5bBL3qmAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1300677914812280833/img/Y4uA49O5bBL3qmAg.jpg",
+					"url": "https://t.co/2hkout61AJ",
+					"display_url": "pic.twitter.com/2hkout61AJ",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1300678295961260032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 1272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300677914812280800,
+					"id_str": "1300677914812280833",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1300677914812280833/img/Y4uA49O5bBL3qmAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1300677914812280833/img/Y4uA49O5bBL3qmAg.jpg",
+					"url": "https://t.co/2hkout61AJ",
+					"display_url": "pic.twitter.com/2hkout61AJ",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1300678295961260032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 1272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							227,
+							318
+						],
+						"duration_millis": 30118,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1300677914812280833/vid/360x504/Mwd4Nvs3Z0GzyADx.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1300677914812280833/pl/tJv_BhbE_a6ZUpZu.m3u8?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1300677914812280833/vid/320x448/zmCcFT3RC6j3wqr8.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1300677914812280833/vid/720x1008/IjmzI-dfdDigSvfw.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4978243,
+			"friends_count": 2,
+			"listed_count": 5416,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1598587243",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17340,
+		"favorite_count": 62434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK - ‘Ice Cream’ @ COEX MEDIA TOWER\n\nAD PERIOD ▶️ ~ 2020.09.13 (SUN)\n\n#BLACKPINK #블랙핑크 #SelenaGomez #셀레나고메즈 #IceCream #NewSingle #MV #YG https://t.co/2hkout61AJ"
+	},
+	{
+		"created_at": "Tue Sep 01 10:06:32 +0000 2020",
+		"id": 1300659708248780800,
+		"id_str": "1300736792484745216",
+		"full_text": "#BLACKPINK Coming soon! Be the first one to check out the Ice Cream Dance Performance Video in Zepeto and on Blackpink’s YouTube Channel\n\n🎬https://t.co/MrBlGIfAPA\n\n #블랙핑크 #SelenaGomez #셀레나고메즈\n#IceCream #DancePerformance #Youtube #Release #ZEPETO #YG https://t.co/r3PrGjSm7K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "SelenaGomez",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"text": "셀레나고메즈",
+					"indices": [
+						184,
+						191
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"text": "DancePerformance",
+					"indices": [
+						202,
+						219
+					]
+				},
+				{
+					"text": "Youtube",
+					"indices": [
+						220,
+						228
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						238,
+						245
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						246,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MrBlGIfAPA",
+					"expanded_url": "https://youtu.be/GGRN3OUKX50",
+					"display_url": "youtu.be/GGRN3OUKX50",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300618676152856600,
+					"id_str": "1300618676152856577",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1300618676152856577/img/-G2AUKGWosCzE3Z-.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1300618676152856577/img/-G2AUKGWosCzE3Z-.jpg",
+					"url": "https://t.co/r3PrGjSm7K",
+					"display_url": "pic.twitter.com/r3PrGjSm7K",
+					"expanded_url": "https://twitter.com/ygent_official/status/1300659708248780801/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300618676152856600,
+					"id_str": "1300618676152856577",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1300618676152856577/img/-G2AUKGWosCzE3Z-.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1300618676152856577/img/-G2AUKGWosCzE3Z-.jpg",
+					"url": "https://t.co/r3PrGjSm7K",
+					"display_url": "pic.twitter.com/r3PrGjSm7K",
+					"expanded_url": "https://twitter.com/ygent_official/status/1300659708248780801/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18033,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1300618676152856577/vid/1280x720/AsuCcLbQj6jXQ_T9.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1300618676152856577/vid/640x360/J6P_o9ZN_Gn_7iYV.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1300618676152856577/pl/4jfBDBhZtJeW4_u1.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1300618676152856577/vid/480x270/NdRkJEJv1oLxeM6b.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK X Selena Gomez - 'Ice Cream' DANCE PERFORMANCE VIDEO Teaser",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6607989,
+			"friends_count": 38,
+			"listed_count": 6725,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22955,
+		"favorite_count": 83067,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK Coming soon! Be the first one to check out the Ice Cream Dance Performance Video in Zepeto and on Blackpink’s YouTube Channel\n\n🎬https://t.co/MrBlGIfAPA\n\n #블랙핑크 #SelenaGomez #셀레나고메즈\n#IceCream #DancePerformance #Youtube #Release #ZEPETO #YG https://t.co/r3PrGjSm7K"
+	},
+	{
 		"created_at": "Tue Sep 01 10:00:01 +0000 2020",
 		"id": 1300696477988040700,
 		"id_str": "1300735152901873664",
