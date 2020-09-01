@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 01 20:43:14 +0000 2020",
+		"id": 1300897024171274200,
+		"id_str": "1300897024171274248",
+		"full_text": "#뉴닉 #NEWNEEK\n🦔터키vs.그리스, 갈등만 1000년\nhttps://t.co/dApnwZBKhh\n#뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴닉",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "NEWNEEK",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dApnwZBKhh",
+					"expanded_url": "https://notifier.in/item/gtrfslqamz2kf5bpyhfh4gfarh3csuf3/2025048.html",
+					"display_url": "notifier.in/item/gtrfslqam…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뉴닉 #NEWNEEK\n🦔터키vs.그리스, 갈등만 1000년\nhttps://t.co/dApnwZBKhh\n#뉴스레터 #Newsletter"
+	},
+	{
+		"created_at": "Tue Sep 01 20:37:18 +0000 2020",
+		"id": 1300895529522679800,
+		"id_str": "1300895529522679808",
+		"full_text": "surprising my dog after 7 months apart!!!!!!! :) *emotional*\nhttps://t.co/BWhhVMeezi\n#TroyeSivan #트로이시반",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TroyeSivan",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "트로이시반",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BWhhVMeezi",
+					"expanded_url": "https://youtu.be/4FMn_K-iyDY",
+					"display_url": "youtu.be/4FMn_K-iyDY",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "surprising my dog after 7 months apart!!!!!!! :) *emotional*\nhttps://t.co/BWhhVMeezi\n#TroyeSivan #트로이시반"
+	},
+	{
+		"created_at": "Tue Sep 01 20:12:36 +0000 2020",
+		"id": 1300631043418931200,
+		"id_str": "1300889313681371139",
+		"full_text": "포토그래퍼 인스타그램 태연\n\nhttps://t.co/GXMLfCvl8q\nhttps://t.co/ucyKQANxOz\n#태연 #Taeyeon #어퓨 #퍼스트룩 https://t.co/dfZomPSNjL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "어퓨",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						81,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GXMLfCvl8q",
+					"expanded_url": "https://www.instagram.com/p/CEk_yISJr8K/",
+					"display_url": "instagram.com/p/CEk_yISJr8K/",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/ucyKQANxOz",
+					"expanded_url": "https://www.instagram.com/p/CElAFLIJPrN/",
+					"display_url": "instagram.com/p/CElAFLIJPrN/",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300631017686888400,
+					"id_str": "1300631017686888449",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzFBQEU8AE8nsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzFBQEU8AE8nsM.jpg",
+					"url": "https://t.co/dfZomPSNjL",
+					"display_url": "pic.twitter.com/dfZomPSNjL",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1300631043418931201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300631017686888400,
+					"id_str": "1300631017686888449",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzFBQEU8AE8nsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzFBQEU8AE8nsM.jpg",
+					"url": "https://t.co/dfZomPSNjL",
+					"display_url": "pic.twitter.com/dfZomPSNjL",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1300631043418931201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300631032765456400,
+					"id_str": "1300631032765456386",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzFCIPVoAIpThS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzFCIPVoAIpThS.jpg",
+					"url": "https://t.co/dfZomPSNjL",
+					"display_url": "pic.twitter.com/dfZomPSNjL",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1300631043418931201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 803,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1300630847976956000,
+		"in_reply_to_status_id_str": "1300630847976955907",
+		"in_reply_to_user_id": 173447107,
+		"in_reply_to_user_id_str": "173447107",
+		"in_reply_to_screen_name": "SNSD_0805",
+		"user": {
+			"id": 173447107,
+			"id_str": "173447107",
+			"name": "화수은화",
+			"screen_name": "SNSD_0805",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40409,
+			"friends_count": 60,
+			"listed_count": 215,
+			"created_at": "Sun Aug 01 14:08:18 +0000 2010",
+			"favourites_count": 326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/173447107/1597651840",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포토그래퍼 인스타그램 태연\n\nhttps://t.co/GXMLfCvl8q\nhttps://t.co/ucyKQANxOz\n#태연 #Taeyeon #어퓨 #퍼스트룩 https://t.co/dfZomPSNjL"
+	},
+	{
+		"created_at": "Tue Sep 01 20:12:32 +0000 2020",
+		"id": 1300630847976956000,
+		"id_str": "1300889298984550400",
+		"full_text": "포토그래퍼 인스타그램 태연 B cut\n\nhttps://t.co/xN2iolGLCL\n#태연 #Taeyeon #어퓨 #퍼스트룩 https://t.co/PSeI8CQ1jN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "어퓨",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						63,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xN2iolGLCL",
+					"expanded_url": "https://www.instagram.com/p/CEk__WpJ9Ua/",
+					"display_url": "instagram.com/p/CEk__WpJ9Ua/",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300630791777517600,
+					"id_str": "1300630791777517568",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzE0GfVgAA15Mw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzE0GfVgAA15Mw.jpg",
+					"url": "https://t.co/PSeI8CQ1jN",
+					"display_url": "pic.twitter.com/PSeI8CQ1jN",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1300630847976955907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300630791777517600,
+					"id_str": "1300630791777517568",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzE0GfVgAA15Mw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzE0GfVgAA15Mw.jpg",
+					"url": "https://t.co/PSeI8CQ1jN",
+					"display_url": "pic.twitter.com/PSeI8CQ1jN",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1300630847976955907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300630804519739400,
+					"id_str": "1300630804519739392",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzE019UYAADklE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzE019UYAADklE.jpg",
+					"url": "https://t.co/PSeI8CQ1jN",
+					"display_url": "pic.twitter.com/PSeI8CQ1jN",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1300630847976955907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300630814485438500,
+					"id_str": "1300630814485438464",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzE1bFU4AAomfY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzE1bFU4AAomfY.jpg",
+					"url": "https://t.co/PSeI8CQ1jN",
+					"display_url": "pic.twitter.com/PSeI8CQ1jN",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1300630847976955907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173447107,
+			"id_str": "173447107",
+			"name": "화수은화",
+			"screen_name": "SNSD_0805",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40409,
+			"friends_count": 60,
+			"listed_count": 215,
+			"created_at": "Sun Aug 01 14:08:18 +0000 2010",
+			"favourites_count": 326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/173447107/1597651840",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 438,
+		"favorite_count": 650,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포토그래퍼 인스타그램 태연 B cut\n\nhttps://t.co/xN2iolGLCL\n#태연 #Taeyeon #어퓨 #퍼스트룩 https://t.co/PSeI8CQ1jN"
+	},
+	{
 		"created_at": "Tue Sep 01 15:02:15 +0000 2020",
 		"id": 1300811213748744200,
 		"id_str": "1300811213748744197",
