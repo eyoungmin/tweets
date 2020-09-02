@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 02 21:41:15 +0000 2020",
+		"id": 1300105844504162300,
+		"id_str": "1301274010450190336",
+		"full_text": "행동강령의 중요성은 재귀적입니다. 행동강령 준수를 위해 노력하는 사람들을 보호하기 위해서라도 행동강령이 필요합니다. 단체가 반드시 어떤 선택을 내려야하는 순간에 개인에게 책임을 전가해 회피하려 하지 않고, 단체로 마주해 문제를 해결하려면 행동강령이 반드시 필요합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1300104761010565000,
+		"in_reply_to_status_id_str": "1300104761010565121",
+		"in_reply_to_user_id": 109503585,
+		"in_reply_to_user_id_str": "109503585",
+		"in_reply_to_screen_name": "lqez",
+		"user": {
+			"id": 109503585,
+			"id_str": "109503585",
+			"name": "Hyun-woo Park",
+			"screen_name": "lqez",
+			"location": "",
+			"description": "Being a pixel of the universe @zerobasedco",
+			"url": "https://t.co/7LK7SxOThd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LK7SxOThd",
+							"expanded_url": "https://lqez.github.io",
+							"display_url": "lqez.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3715,
+			"friends_count": 334,
+			"listed_count": 106,
+			"created_at": "Fri Jan 29 07:52:58 +0000 2010",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "485961",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285954595764596738/zoV5kyIW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285954595764596738/zoV5kyIW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109503585/1546877473",
+			"profile_link_color": "667799",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "행동강령의 중요성은 재귀적입니다. 행동강령 준수를 위해 노력하는 사람들을 보호하기 위해서라도 행동강령이 필요합니다. 단체가 반드시 어떤 선택을 내려야하는 순간에 개인에게 책임을 전가해 회피하려 하지 않고, 단체로 마주해 문제를 해결하려면 행동강령이 반드시 필요합니다."
+	},
+	{
 		"created_at": "Wed Sep 02 20:51:29 +0000 2020",
 		"id": 1301261487466451000,
 		"id_str": "1301261487466450950",
