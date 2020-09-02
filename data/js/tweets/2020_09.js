@@ -1,6 +1,2968 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 02 16:48:30 +0000 2020",
+		"id": 1301200339681587200,
+		"id_str": "1301200339681587206",
+		"full_text": "Integromat 장점이 보통 2-3만원대 플랜 제공하는 자동화 플랫폼이랑 달리 낮은 요금의 플랜이 있다는 것인데. 메일 보낼 때 트위터 유료라서 돈 내야 쓸 수 있다고 보내면 될 껄 무슨 프리미엄 모듈이 포함되어 있다고 써서 유저가 찾아보게 하는 건지.\n\n#자동화 #Automation #Integromat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자동화",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "Automation",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "Integromat",
+					"indices": [
+						162,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1301199664943775700,
+		"in_reply_to_status_id_str": "1301199664943775745",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Integromat 장점이 보통 2-3만원대 플랜 제공하는 자동화 플랫폼이랑 달리 낮은 요금의 플랜이 있다는 것인데. 메일 보낼 때 트위터 유료라서 돈 내야 쓸 수 있다고 보내면 될 껄 무슨 프리미엄 모듈이 포함되어 있다고 써서 유저가 찾아보게 하는 건지.\n\n#자동화 #Automation #Integromat"
+	},
+	{
+		"created_at": "Wed Sep 02 16:45:49 +0000 2020",
+		"id": 1301199664943775700,
+		"id_str": "1301199664943775745",
+		"full_text": "Zapier도 Webhooks 무료에서 유료로 변경했는데 Zapier는 기존 앱 이용자들에게는 계속 사용할 수 있게 허용해줬다. 그리고 설령 풀렸으면 문의하라고 친히 멘션도 보내줬음.\n\n#자동화 #Automation #Integromat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자동화",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "Automation",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"text": "Integromat",
+					"indices": [
+						121,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1301198622378266600,
+		"in_reply_to_status_id_str": "1301198622378266626",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Zapier도 Webhooks 무료에서 유료로 변경했는데 Zapier는 기존 앱 이용자들에게는 계속 사용할 수 있게 허용해줬다. 그리고 설령 풀렸으면 문의하라고 친히 멘션도 보내줬음.\n\n#자동화 #Automation #Integromat"
+	},
+	{
+		"created_at": "Wed Sep 02 16:41:41 +0000 2020",
+		"id": 1301198622378266600,
+		"id_str": "1301198622378266626",
+		"full_text": "원인을 찾았다. 트위터 앱 프리미엄 모듈로 분류해서 유료 플랜을 써야지만 가능한 것이었음. 최소 플랜 9달러.\n\n#자동화 #Automation #Integromat https://t.co/qgz3Esn30f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자동화",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "Automation",
+					"indices": [
+						68,
+						79
+					]
+				},
+				{
+					"text": "Integromat",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qgz3Esn30f",
+					"expanded_url": "https://twitter.com/abumuailek/status/1295827589710454784",
+					"display_url": "twitter.com/abumuailek/sta…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1301197212056051700,
+		"in_reply_to_status_id_str": "1301197212056051712",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295827589710454800,
+		"quoted_status_id_str": "1295827589710454784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qgz3Esn30f",
+			"expanded": "https://twitter.com/abumuailek/status/1295827589710454784",
+			"display": "twitter.com/abumuailek/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 18 20:59:07 +0000 2020",
+			"id": 1295827589710454800,
+			"id_str": "1295827589710454784",
+			"full_text": "Sad news from @integromat \nInstead of saying “Twitter module is a highly demanded and we want to increase profitability\", they say that it's people are misusing it! \nYou should apply more protocols to keep your service working well. Making it premium will only tax the misusage!! https://t.co/L6pEfZ7KG4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "integromat",
+						"name": "Integromat",
+						"id": 2214615696,
+						"id_str": "2214615696",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1295827585558077400,
+						"id_str": "1295827585558077440",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Efu0Us9XYAAeFHd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Efu0Us9XYAAeFHd.jpg",
+						"url": "https://t.co/L6pEfZ7KG4",
+						"display_url": "pic.twitter.com/L6pEfZ7KG4",
+						"expanded_url": "https://twitter.com/abumuailek/status/1295827589710454784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 503,
+								"h": 278,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 278,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 503,
+								"h": 278,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1295827585558077400,
+						"id_str": "1295827585558077440",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Efu0Us9XYAAeFHd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Efu0Us9XYAAeFHd.jpg",
+						"url": "https://t.co/L6pEfZ7KG4",
+						"display_url": "pic.twitter.com/L6pEfZ7KG4",
+						"expanded_url": "https://twitter.com/abumuailek/status/1295827589710454784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 503,
+								"h": 278,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 278,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 503,
+								"h": 278,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 392434909,
+				"id_str": "392434909",
+				"name": "abumuailek 🤝",
+				"screen_name": "abumuailek",
+				"location": "In your mind :P ",
+				"description": "FullStack Anarchist. Self-Taught Tinkerer. Professional Relaxer. 💰+🎮+🍔+🐱+🐒=💙 \"If you are defined by others, then you are not yourself anymore.\"",
+				"url": "https://t.co/Dbno0v0Pf1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dbno0v0Pf1",
+								"expanded_url": "http://abumuailek.com",
+								"display_url": "abumuailek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 641,
+				"friends_count": 1025,
+				"listed_count": 48,
+				"created_at": "Mon Oct 17 01:29:34 +0000 2011",
+				"favourites_count": 2576,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11598,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1286058976300478465/RFB94J-W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286058976300478465/RFB94J-W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/392434909/1459381702",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원인을 찾았다. 트위터 앱 프리미엄 모듈로 분류해서 유료 플랜을 써야지만 가능한 것이었음. 최소 플랜 9달러.\n\n#자동화 #Automation #Integromat https://t.co/qgz3Esn30f"
+	},
+	{
+		"created_at": "Wed Sep 02 16:36:05 +0000 2020",
+		"id": 1301197212056051700,
+		"id_str": "1301197212056051712",
+		"full_text": "IFTTT는 단일작업이라서 여러 멀티 작업이 가능한 레시피를 사용할 수 없음. 유료인 Zapier로 넘어가거나 플랜 지불 방식이 조금 다른 Integromat이 적절한데 일단 앱이 지원을 안 하면 의미가 없음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1301195088958161000,
+		"in_reply_to_status_id_str": "1301195088958160896",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "IFTTT는 단일작업이라서 여러 멀티 작업이 가능한 레시피를 사용할 수 없음. 유료인 Zapier로 넘어가거나 플랜 지불 방식이 조금 다른 Integromat이 적절한데 일단 앱이 지원을 안 하면 의미가 없음."
+	},
+	{
+		"created_at": "Wed Sep 02 16:27:38 +0000 2020",
+		"id": 1301195088958161000,
+		"id_str": "1301195088958160896",
+		"full_text": "그런데 기능 요청 포럼가서 보면 https://t.co/0oX9HNRvdO 이런 글이 있다. 이미 API 내 계정에서 받아오도록 설정해둔 상태이고 한동안 계속 잘 썼는데 뭔가 문제가 있는 모양.\n\n#자동화 #Automation #Integromat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자동화",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "Automation",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "Integromat",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0oX9HNRvdO",
+					"expanded_url": "https://www.integromat.com/en/requests/new-app-requests/p/youtube",
+					"display_url": "integromat.com/en/requests/ne…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1301194691736608800,
+		"in_reply_to_status_id_str": "1301194691736608769",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그런데 기능 요청 포럼가서 보면 https://t.co/0oX9HNRvdO 이런 글이 있다. 이미 API 내 계정에서 받아오도록 설정해둔 상태이고 한동안 계속 잘 썼는데 뭔가 문제가 있는 모양.\n\n#자동화 #Automation #Integromat"
+	},
+	{
+		"created_at": "Wed Sep 02 16:26:04 +0000 2020",
+		"id": 1301194691736608800,
+		"id_str": "1301194691736608769",
+		"full_text": "앱 목록 가서 찾아봤는데 아무래도 유튜브를 지원하지 않는 것 같다. 그럼 지원이 안 된다고 알려줘야지 왜 결제를 유도하는 건지?\nhttps://t.co/tuDViG5Dgv\n\n#자동화 #Automation #Integromat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자동화",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "Automation",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"text": "Integromat",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tuDViG5Dgv",
+					"expanded_url": "https://www.integromat.com/en/integrations#filter:video",
+					"display_url": "integromat.com/en/integration…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1301193401400844300,
+		"in_reply_to_status_id_str": "1301193401400844288",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앱 목록 가서 찾아봤는데 아무래도 유튜브를 지원하지 않는 것 같다. 그럼 지원이 안 된다고 알려줘야지 왜 결제를 유도하는 건지?\nhttps://t.co/tuDViG5Dgv\n\n#자동화 #Automation #Integromat"
+	},
+	{
+		"created_at": "Wed Sep 02 16:20:56 +0000 2020",
+		"id": 1301193401400844300,
+		"id_str": "1301193401400844288",
+		"full_text": "프리미엄 모듈을 이용하려면 9달러 플랜으로 옮기라는데 아니 뭐가 프리미엄 모듈인지를 알려줘야지. 고민을 해보지? 하나씩 끊거나 지우고 해봐도 실행을 킬 수가 없음.\n\n#자동화 #Automation #Integromat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자동화",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "Automation",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"text": "Integromat",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1301192996965085200,
+		"in_reply_to_status_id_str": "1301192996965085185",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "프리미엄 모듈을 이용하려면 9달러 플랜으로 옮기라는데 아니 뭐가 프리미엄 모듈인지를 알려줘야지. 고민을 해보지? 하나씩 끊거나 지우고 해봐도 실행을 킬 수가 없음.\n\n#자동화 #Automation #Integromat"
+	},
+	{
+		"created_at": "Wed Sep 02 16:19:20 +0000 2020",
+		"id": 1301192996965085200,
+		"id_str": "1301192996965085185",
+		"full_text": "Integromat 프리미엄 모듈 오류라면서 작동 안하는데 이유를 모르겠음. 자세한 내용 보기 누르면 시나리오가 켜지는데 뭐가 정확한 원인인지 알려주질 않는다. 여지껏 잘 작동했고 손댄적 없던 건데.... \n\n#자동화 #Automation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자동화",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "Automation",
+					"indices": [
+						122,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Integromat 프리미엄 모듈 오류라면서 작동 안하는데 이유를 모르겠음. 자세한 내용 보기 누르면 시나리오가 켜지는데 뭐가 정확한 원인인지 알려주질 않는다. 여지껏 잘 작동했고 손댄적 없던 건데.... \n\n#자동화 #Automation"
+	},
+	{
+		"created_at": "Wed Sep 02 16:15:18 +0000 2020",
+		"id": 1301048005596831700,
+		"id_str": "1301191983306739712",
+		"full_text": "Happy Birthday JOY 💗\n\nRed Velvet 조이 생일을 맞아, ARTIST BIRTHDAY NECKLACE를 SMTOWN &amp;STORE에서 만나 보실 수 있습니다.\n9월의 탄생석 사파이어 컬러 크리스탈 스톤으로 포인트를 준 제품입니다. ✨\n\n🔸9월 탄생석 의미 : 성실, 진실\n🔸소재 : METAL, CRYSTAL STONE\n\nhttps://t.co/THLLxkmG5V https://t.co/Kq2TbiX9Ks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/THLLxkmG5V",
+					"expanded_url": "http://www.SMTOWNandSTORE.com",
+					"display_url": "SMTOWNandSTORE.com",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301047632077312000,
+					"id_str": "1301047632077312002",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg4_7ZnU0AILTU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg4_7ZnU0AILTU9.jpg",
+					"url": "https://t.co/Kq2TbiX9Ks",
+					"display_url": "pic.twitter.com/Kq2TbiX9Ks",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1301048005596831745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301047632077312000,
+					"id_str": "1301047632077312002",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg4_7ZnU0AILTU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg4_7ZnU0AILTU9.jpg",
+					"url": "https://t.co/Kq2TbiX9Ks",
+					"display_url": "pic.twitter.com/Kq2TbiX9Ks",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1301048005596831745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301047637181755400,
+					"id_str": "1301047637181755393",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg4_7soUcAEqp4M.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eg4_7soUcAEqp4M.png",
+					"url": "https://t.co/Kq2TbiX9Ks",
+					"display_url": "pic.twitter.com/Kq2TbiX9Ks",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1301048005596831745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73730,
+			"friends_count": 0,
+			"listed_count": 132,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1306,
+		"favorite_count": 3427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Happy Birthday JOY 💗\n\nRed Velvet 조이 생일을 맞아, ARTIST BIRTHDAY NECKLACE를 SMTOWN &amp;STORE에서 만나 보실 수 있습니다.\n9월의 탄생석 사파이어 컬러 크리스탈 스톤으로 포인트를 준 제품입니다. ✨\n\n🔸9월 탄생석 의미 : 성실, 진실\n🔸소재 : METAL, CRYSTAL STONE\n\nhttps://t.co/THLLxkmG5V https://t.co/Kq2TbiX9Ks"
+	},
+	{
+		"created_at": "Wed Sep 02 16:15:14 +0000 2020",
+		"id": 1300984626580615200,
+		"id_str": "1301191968135864320",
+		"full_text": "[#레벨업_아슬한_프로젝트_외전] \n#아슬 이 원하면 현실이 된다!\n외전으로 찾아온 아이린&amp;슬기의 특별한 일상, 그 못다한 이야기❤️\n \n#SMCC_STUDIO 유튜브 채널, 그리고 #웨이브 에서 만나요\n👉 https://t.co/Z5CxGQasHE\n👉 https://t.co/x5O3VhDX1d\n\n#RedVelvet #아이린 #슬기 #SMCC_STUDIO_A #wavve https://t.co/1cwwmY6aT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업_아슬한_프로젝트_외전",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "아슬",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "웨이브",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "SMCC_STUDIO_A",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"text": "wavve",
+					"indices": [
+						206,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z5CxGQasHE",
+					"expanded_url": "https://youtu.be/p_zh1J_kduU",
+					"display_url": "youtu.be/p_zh1J_kduU",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/x5O3VhDX1d",
+					"expanded_url": "http://bitly.kr/EwbeIK7dj0R",
+					"display_url": "bitly.kr/EwbeIK7dj0R",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300984092536656000,
+					"id_str": "1300984092536655874",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg4GI6YU0AIhu0M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg4GI6YU0AIhu0M.jpg",
+					"url": "https://t.co/1cwwmY6aT6",
+					"display_url": "pic.twitter.com/1cwwmY6aT6",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1300984626580615168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300984092536656000,
+					"id_str": "1300984092536655874",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg4GI6YU0AIhu0M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg4GI6YU0AIhu0M.jpg",
+					"url": "https://t.co/1cwwmY6aT6",
+					"display_url": "pic.twitter.com/1cwwmY6aT6",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1300984626580615168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n💙슈주 리턴즈4 \n🟢NCT LIFE: DREAM in Wonderland \n♥️레벨업 아슬한 프로젝트",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11106,
+			"friends_count": 0,
+			"listed_count": 34,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1298213648922316801/cK_qY6if_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298213648922316801/cK_qY6if_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1598353231",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 922,
+		"favorite_count": 1746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업_아슬한_프로젝트_외전] \n#아슬 이 원하면 현실이 된다!\n외전으로 찾아온 아이린&amp;슬기의 특별한 일상, 그 못다한 이야기❤️\n \n#SMCC_STUDIO 유튜브 채널, 그리고 #웨이브 에서 만나요\n👉 https://t.co/Z5CxGQasHE\n👉 https://t.co/x5O3VhDX1d\n\n#RedVelvet #아이린 #슬기 #SMCC_STUDIO_A #wavve https://t.co/1cwwmY6aT6"
+	},
+	{
+		"created_at": "Wed Sep 02 16:13:41 +0000 2020",
+		"id": 1301134664615125000,
+		"id_str": "1301191577763708929",
+		"full_text": "[INSTAGRAM STORY VIDEO] taeyeon_ss \nhttps://t.co/5y4sGLxbXX\nhttps://t.co/Uq55X5IxDZ\nhttps://t.co/vWu0UDD7cl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5y4sGLxbXX",
+					"expanded_url": "https://www.instagram.com/stories/taeyeon_ss/2389060280966774604",
+					"display_url": "instagram.com/stories/taeyeo…",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/Uq55X5IxDZ",
+					"expanded_url": "https://instagram.ftpe3-2.fna.fbcdn.net/v/t72.14836-16/76888848_1633059613567598_8453257938470414389_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5zdG9yeS5kZWZhdWx0In0&_nc_ht=instagram.ftpe3-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=50t5rsQbJn0AX8A-FJw&vs=17863154423052659_2738876873&_nc_vs=HBksFQAYJEdCQTdsUVJ1NmlsU1FzMEZBRFdvUjhsT0FWQjFidlE1QUFBRhUAAsgBABUAGCRHUHZ1ZndUMmZzYS1NNE1BQU9jYVNRSWJqQUVBYnZRNUFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAABgAFub%2F4au3nLs%2FFQIoAkMzLBdAK%2Bp%2B%2Bdsi0RgSZGFzaF9iYXNlbGluZV8xX3YxEQB16AcA&_nc_rid=4dca3be4b9&oe=5F519E64&oh=18b23badcce415da816f980ebb3b2f43",
+					"display_url": "instagram.ftpe3-2.fna.fbcdn.net/v/t72.14836-16…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301134559728156700,
+					"id_str": "1301134559728156673",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301134559728156673/pu/img/t8HVCLUQYl2LQ6WD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301134559728156673/pu/img/t8HVCLUQYl2LQ6WD.jpg",
+					"url": "https://t.co/vWu0UDD7cl",
+					"display_url": "pic.twitter.com/vWu0UDD7cl",
+					"expanded_url": "https://twitter.com/abcdefghij/status/1301134599930613762/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1301134599930613800,
+					"source_status_id_str": "1301134599930613762",
+					"source_user_id": 1155501133437104000,
+					"source_user_id_str": "1155501133437104129"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301134559728156700,
+					"id_str": "1301134559728156673",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301134559728156673/pu/img/t8HVCLUQYl2LQ6WD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301134559728156673/pu/img/t8HVCLUQYl2LQ6WD.jpg",
+					"url": "https://t.co/vWu0UDD7cl",
+					"display_url": "pic.twitter.com/vWu0UDD7cl",
+					"expanded_url": "https://twitter.com/abcdefghij/status/1301134599930613762/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1301134599930613800,
+					"source_status_id_str": "1301134599930613762",
+					"source_user_id": 1155501133437104000,
+					"source_user_id_str": "1155501133437104129",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 13959,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1301134559728156673/pu/pl/HeZjSljp_RFM4h-z.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301134559728156673/pu/vid/320x568/3JMN0_G_4RmyYXpO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301134559728156673/pu/vid/720x1280/2Yd8bldesf0JYqD3.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301134559728156673/pu/vid/360x640/O_sudmiIyJdR7lOL.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1155501133437104000,
+							"id_str": "1155501133437104129",
+							"name": "📺",
+							"screen_name": "qleldhlibrary",
+							"location": "",
+							"description": "PLEASE DON'T: LIKE / REPLY / FOLLOW / RETWEET /QUOTE WITH TWEET / To quote video method, add '/video/1' after the link",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 0,
+							"friends_count": 0,
+							"listed_count": 2,
+							"created_at": "Sun Jul 28 15:31:53 +0000 2019",
+							"favourites_count": 1,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1067,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1255904028036218881/zdfDL8qO_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255904028036218881/zdfDL8qO_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": " HᗩᑭᑭY ",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7916,
+			"friends_count": 0,
+			"listed_count": 116,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295999113696141312/ayiwEacE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295999113696141312/ayiwEacE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1578968177",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "[INSTAGRAM STORY VIDEO] taeyeon_ss \nhttps://t.co/5y4sGLxbXX\nhttps://t.co/Uq55X5IxDZ\nhttps://t.co/vWu0UDD7cl"
+	},
+	{
+		"created_at": "Wed Sep 02 16:13:21 +0000 2020",
+		"id": 1301083864299835400,
+		"id_str": "1301191492665405441",
+		"full_text": "[4K] [ENG] [유리한 식탁] EP12-1. 찐친과 청담에서 밥 먹다가 연예인 영접?! \n\n👉🏻https://t.co/INLZr0lcU0 \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/INLZr0lcU0",
+					"expanded_url": "https://youtu.be/hHoWgJLFkis",
+					"display_url": "youtu.be/hHoWgJLFkis",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3549721,
+			"friends_count": 4,
+			"listed_count": 5031,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1386,
+		"favorite_count": 3092,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4K] [ENG] [유리한 식탁] EP12-1. 찐친과 청담에서 밥 먹다가 연예인 영접?! \n\n👉🏻https://t.co/INLZr0lcU0 \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Wed Sep 02 16:13:09 +0000 2020",
+		"id": 1301059946583212000,
+		"id_str": "1301191443336187911",
+		"full_text": "💜 HAPPY BIRTHDAY ZERO 💜\n\n태연이의 우당탕탕 수제 간식 만들기 🧁 &amp; 제로 생일 파티 현장 🥳\n\n👉🏻 https://t.co/f8PGUJEdAz\n \n#태연 #TAEYEON #소녀시대 #GirlsGeneration #제로 #ZERO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						116,
+						132
+					]
+				},
+				{
+					"text": "제로",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "ZERO",
+					"indices": [
+						137,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f8PGUJEdAz",
+					"expanded_url": "https://youtu.be/bqCpVFMrF6c",
+					"display_url": "youtu.be/bqCpVFMrF6c",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3549721,
+			"friends_count": 4,
+			"listed_count": 5031,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3838,
+		"favorite_count": 7610,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜 HAPPY BIRTHDAY ZERO 💜\n\n태연이의 우당탕탕 수제 간식 만들기 🧁 &amp; 제로 생일 파티 현장 🥳\n\n👉🏻 https://t.co/f8PGUJEdAz\n \n#태연 #TAEYEON #소녀시대 #GirlsGeneration #제로 #ZERO"
+	},
+	{
+		"created_at": "Wed Sep 02 16:12:35 +0000 2020",
+		"id": 1300735252051099600,
+		"id_str": "1301191299421278209",
+		"full_text": "음악과 마이크만 있다면\n그곳은 바로 천국😇\n아이유의 고품격 라이브를\n적재와 함께 시작합니다🎤\n\nEDAM YouTube ▶▶ https://t.co/giVqnlJtac\n\n#아이유 #IU #집콕시그널\n#아이유의팔레트\n#이담_프로젝트 #EDAM_Project https://t.co/4nQ9n1BT7C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "집콕시그널",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "아이유의팔레트",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "이담_프로젝트",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "EDAM_Project",
+					"indices": [
+						128,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/giVqnlJtac",
+					"expanded_url": "https://youtu.be/caCVe6fRPQQ",
+					"display_url": "youtu.be/caCVe6fRPQQ",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300735239761797000,
+					"id_str": "1300735239761797122",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0jzxjVoAIuTL6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0jzxjVoAIuTL6.jpg",
+					"url": "https://t.co/4nQ9n1BT7C",
+					"display_url": "pic.twitter.com/4nQ9n1BT7C",
+					"expanded_url": "https://twitter.com/edam_ent/status/1300735252051099648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300735239761797000,
+					"id_str": "1300735239761797122",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0jzxjVoAIuTL6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0jzxjVoAIuTL6.jpg",
+					"url": "https://t.co/4nQ9n1BT7C",
+					"display_url": "pic.twitter.com/4nQ9n1BT7C",
+					"expanded_url": "https://twitter.com/edam_ent/status/1300735252051099648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29187,
+			"friends_count": 1,
+			"listed_count": 79,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2871,
+		"favorite_count": 9557,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음악과 마이크만 있다면\n그곳은 바로 천국😇\n아이유의 고품격 라이브를\n적재와 함께 시작합니다🎤\n\nEDAM YouTube ▶▶ https://t.co/giVqnlJtac\n\n#아이유 #IU #집콕시그널\n#아이유의팔레트\n#이담_프로젝트 #EDAM_Project https://t.co/4nQ9n1BT7C"
+	},
+	{
+		"created_at": "Wed Sep 02 16:12:05 +0000 2020",
+		"id": 1301082494599532500,
+		"id_str": "1301191174770753536",
+		"full_text": "#BLACKPINK ‘Ice Cream’ Official Dance Performance Video is OUT NOW! \nCheck out Selpink's first ever performance in ZEPETO 💖 \nFull video is now available on YouTube!\n\n🎬https://t.co/zExXU8XcrZ\n\n#블랙핑크 #SelenaGomez #셀레나고메즈 \n#IceCream #DancePerformance #Release #ZEPETO #YG https://t.co/W5LtjhMlYN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "SelenaGomez",
+					"indices": [
+						198,
+						210
+					]
+				},
+				{
+					"text": "셀레나고메즈",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						220,
+						229
+					]
+				},
+				{
+					"text": "DancePerformance",
+					"indices": [
+						230,
+						247
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						248,
+						256
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						257,
+						264
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						265,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zExXU8XcrZ",
+					"expanded_url": "https://youtu.be/27h9SJcIdM0",
+					"display_url": "youtu.be/27h9SJcIdM0",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301078223803957200,
+					"id_str": "1301078223803957249",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg5bwErUwAEWd1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg5bwErUwAEWd1c.jpg",
+					"url": "https://t.co/W5LtjhMlYN",
+					"display_url": "pic.twitter.com/W5LtjhMlYN",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301082494599532544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301078223803957200,
+					"id_str": "1301078223803957249",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg5bwErUwAEWd1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg5bwErUwAEWd1c.jpg",
+					"url": "https://t.co/W5LtjhMlYN",
+					"display_url": "pic.twitter.com/W5LtjhMlYN",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301082494599532544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6615291,
+			"friends_count": 38,
+			"listed_count": 6730,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31360,
+		"favorite_count": 103245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Ice Cream’ Official Dance Performance Video is OUT NOW! \nCheck out Selpink's first ever performance in ZEPETO 💖 \nFull video is now available on YouTube!\n\n🎬https://t.co/zExXU8XcrZ\n\n#블랙핑크 #SelenaGomez #셀레나고메즈 \n#IceCream #DancePerformance #Release #ZEPETO #YG https://t.co/W5LtjhMlYN"
+	},
+	{
+		"created_at": "Wed Sep 02 16:11:02 +0000 2020",
+		"id": 1301167824535126000,
+		"id_str": "1301190909908770816",
+		"full_text": "패트리온은 약 20만명의 크리에이터들에게 2B정도를 펀딩. 패트리온CEO 잭 콘트를 처음 알게 된 것은 10년전 그가 폼플라무스라는 샌프란 듀오로 유튜브에 나왔을 때. https://t.co/SBeCcpTsjx 뮤지션으로서 자신이 겪은 문제를 가지고 창업해 유니콘이 된 경우.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SBeCcpTsjx",
+					"expanded_url": "https://www.youtube.com/watch?v=oIr8-f2OWhs",
+					"display_url": "youtube.com/watch?v=oIr8-f…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1301166817033896000,
+		"in_reply_to_status_id_str": "1301166817033895938",
+		"in_reply_to_user_id": 14060875,
+		"in_reply_to_user_id_str": "14060875",
+		"in_reply_to_screen_name": "estima7",
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368923,
+			"friends_count": 2269,
+			"listed_count": 4477,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "패트리온은 약 20만명의 크리에이터들에게 2B정도를 펀딩. 패트리온CEO 잭 콘트를 처음 알게 된 것은 10년전 그가 폼플라무스라는 샌프란 듀오로 유튜브에 나왔을 때. https://t.co/SBeCcpTsjx 뮤지션으로서 자신이 겪은 문제를 가지고 창업해 유니콘이 된 경우."
+	},
+	{
+		"created_at": "Wed Sep 02 16:10:39 +0000 2020",
+		"id": 1301085641959116800,
+		"id_str": "1301190814098358273",
+		"full_text": "안전한 가명정보 활용을 위한 ‘가명정보 처리 가이드라인’ 나왔다 https://t.co/BdY8smZkGA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BdY8smZkGA",
+					"expanded_url": "http://www.boannews.com/media/view.asp?idx=90902",
+					"display_url": "boannews.com/media/view.asp…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176323740,
+			"id_str": "176323740",
+			"name": "보안뉴스",
+			"screen_name": "boannews",
+			"location": "Seoul, Korea",
+			"description": "안전한 세상을 위한 뉴스 - 보안뉴스",
+			"url": "http://t.co/trvvahhtRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/trvvahhtRr",
+							"expanded_url": "http://www.boannews.com",
+							"display_url": "boannews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1887,
+			"friends_count": 53,
+			"listed_count": 83,
+			"created_at": "Mon Aug 09 06:22:28 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098884272/boannews_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098884272/boannews_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176323740/1541039308",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안전한 가명정보 활용을 위한 ‘가명정보 처리 가이드라인’ 나왔다 https://t.co/BdY8smZkGA"
+	},
+	{
+		"created_at": "Wed Sep 02 16:10:24 +0000 2020",
+		"id": 1301124383784616000,
+		"id_str": "1301190752026816512",
+		"full_text": "미국이 틱톡 사용을 금지한다고 엄포를 놓는 등, 중국을 강하게 압박하고 있습니다. 중국 시장을 공략하던 실리콘밸리 IT 대기업들이 대안으로 보는 곳은 인도입니다. 이미 인도 출신이 많은 실리콘밸리는 인도 본토를 주목하고 있습니다.\nhttps://t.co/cnmI26FPH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cnmI26FPH4",
+					"expanded_url": "https://outstanding.kr/india20200902",
+					"display_url": "outstanding.kr/india20200902",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45575,
+			"friends_count": 441,
+			"listed_count": 115,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국이 틱톡 사용을 금지한다고 엄포를 놓는 등, 중국을 강하게 압박하고 있습니다. 중국 시장을 공략하던 실리콘밸리 IT 대기업들이 대안으로 보는 곳은 인도입니다. 이미 인도 출신이 많은 실리콘밸리는 인도 본토를 주목하고 있습니다.\nhttps://t.co/cnmI26FPH4"
+	},
+	{
+		"created_at": "Wed Sep 02 16:07:09 +0000 2020",
+		"id": 1301189931222462500,
+		"id_str": "1301189931222462465",
+		"full_text": "유리한 식탁 4K 지원하는 영상이 올라왔네. 일회성인가? 앞으로 쭉 4K로 올라오는 건가 궁금.\n\n#소녀시대 #권유리 #유리 #YURI #SM엔터테인먼트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1301086773922144300,
+		"in_reply_to_status_id_str": "1301086773922144261",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유리한 식탁 4K 지원하는 영상이 올라왔네. 일회성인가? 앞으로 쭉 4K로 올라오는 건가 궁금.\n\n#소녀시대 #권유리 #유리 #YURI #SM엔터테인먼트"
+	},
+	{
 		"created_at": "Wed Sep 02 15:55:32 +0000 2020",
 		"id": 1301187010820857900,
 		"id_str": "1301187010820857856",
