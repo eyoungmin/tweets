@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 04:45:03 +0000 2020",
+		"id": 1301371432580997000,
+		"id_str": "1301380664885903360",
+		"full_text": "#BLACKPINK Celebrate the release of 'Ice Cream' Dance Performance Video with BLACKPINK's virtual signing event🖤💕\nCollect all 36 autographs to receive special rewards!\n\n#블랙핑크 #fansign #BPfansign #IceCream #DancePerformance #ZEPETO #YG https://t.co/sPJ43eMQKQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "fansign",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "BPfansign",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "DancePerformance",
+					"indices": [
+						204,
+						221
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						222,
+						229
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						230,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301370904824311800,
+					"id_str": "1301370904824311808",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg9mLAlVoAIpA-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg9mLAlVoAIpA-q.jpg",
+					"url": "https://t.co/sPJ43eMQKQ",
+					"display_url": "pic.twitter.com/sPJ43eMQKQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301371432580997120/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301370904824311800,
+					"id_str": "1301370904824311808",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg9mLAlVoAIpA-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg9mLAlVoAIpA-q.jpg",
+					"url": "https://t.co/sPJ43eMQKQ",
+					"display_url": "pic.twitter.com/sPJ43eMQKQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301371432580997120/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1301370904824311808/pl/Fsnh33x_bVHjuCM7.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301370904824311808/vid/720x720/RapHsuKXNLYfY-eV.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301370904824311808/vid/480x480/3-NmRe1WQQiyzTh8.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301370904824311808/vid/320x320/enh6dCDQr9my4ptC.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "'Ice Cream' Dance Performance Video with BLACKPINK's virtual signing",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6616472,
+			"friends_count": 38,
+			"listed_count": 6725,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4471,
+		"favorite_count": 20758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK Celebrate the release of 'Ice Cream' Dance Performance Video with BLACKPINK's virtual signing event🖤💕\nCollect all 36 autographs to receive special rewards!\n\n#블랙핑크 #fansign #BPfansign #IceCream #DancePerformance #ZEPETO #YG https://t.co/sPJ43eMQKQ"
+	},
+	{
+		"created_at": "Thu Sep 03 04:44:59 +0000 2020",
+		"id": 1301371357062545400,
+		"id_str": "1301380647349448704",
+		"full_text": "#BLACKPINK Celebrate the release of 'Ice Cream' Dance Performance Video with BLACKPINK's virtual signing event🖤💕\nCollect all 36 autographs to receive special rewards!\n\n#블랙핑크 #fansign #BPfansign #IceCream #DancePerformance #ZEPETO #YG https://t.co/1moIAFe4a2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "fansign",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "BPfansign",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "DancePerformance",
+					"indices": [
+						204,
+						221
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						222,
+						229
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						230,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301370418876432400,
+					"id_str": "1301370418876432389",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg9lgEJUwAUFG6G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg9lgEJUwAUFG6G.jpg",
+					"url": "https://t.co/1moIAFe4a2",
+					"display_url": "pic.twitter.com/1moIAFe4a2",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301371357062545408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301370418876432400,
+					"id_str": "1301370418876432389",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg9lgEJUwAUFG6G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg9lgEJUwAUFG6G.jpg",
+					"url": "https://t.co/1moIAFe4a2",
+					"display_url": "pic.twitter.com/1moIAFe4a2",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301371357062545408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301370433929769000,
+					"id_str": "1301370433929768961",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg9lg8OUcAEUkVO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg9lg8OUcAEUkVO.jpg",
+					"url": "https://t.co/1moIAFe4a2",
+					"display_url": "pic.twitter.com/1moIAFe4a2",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301371357062545408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301370454079283200,
+					"id_str": "1301370454079283201",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg9liHSVoAEDLF5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg9liHSVoAEDLF5.jpg",
+					"url": "https://t.co/1moIAFe4a2",
+					"display_url": "pic.twitter.com/1moIAFe4a2",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301371357062545408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6616472,
+			"friends_count": 38,
+			"listed_count": 6725,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2807,
+		"favorite_count": 14371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK Celebrate the release of 'Ice Cream' Dance Performance Video with BLACKPINK's virtual signing event🖤💕\nCollect all 36 autographs to receive special rewards!\n\n#블랙핑크 #fansign #BPfansign #IceCream #DancePerformance #ZEPETO #YG https://t.co/1moIAFe4a2"
+	},
+	{
 		"created_at": "Thu Sep 03 03:00:34 +0000 2020",
 		"id": 1301354368546099200,
 		"id_str": "1301354368546099200",
