@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 01:44:56 +0000 2020",
+		"id": 1301331636856914000,
+		"id_str": "1301335336493232128",
+		"full_text": "#HappyJOYDay 🎂🎉\n\n#200903 #조이 #JOY #레드벨벳 #RedVelvet https://t.co/Jjr4pEPeab",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyJOYDay",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						40,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301328631604457500,
+					"id_str": "1301328631604457473",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg8_fubUMAEcFya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg8_fubUMAEcFya.jpg",
+					"url": "https://t.co/Jjr4pEPeab",
+					"display_url": "pic.twitter.com/Jjr4pEPeab",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1301331636856913920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301328631604457500,
+					"id_str": "1301328631604457473",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg8_fubUMAEcFya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg8_fubUMAEcFya.jpg",
+					"url": "https://t.co/Jjr4pEPeab",
+					"display_url": "pic.twitter.com/Jjr4pEPeab",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1301331636856913920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3123613,
+			"friends_count": 1,
+			"listed_count": 6613,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17614,
+		"favorite_count": 32344,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#HappyJOYDay 🎂🎉\n\n#200903 #조이 #JOY #레드벨벳 #RedVelvet https://t.co/Jjr4pEPeab"
+	},
+	{
 		"created_at": "Thu Sep 03 00:52:27 +0000 2020",
 		"id": 1301035812557971500,
 		"id_str": "1301322130110345216",
