@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 17:47:09 +0000 2020",
+		"id": 1301577485063090200,
+		"id_str": "1301577485063090176",
+		"full_text": "@wangtian @IgorBrigadir @josematthew @mwiik @TwitterSupport @TwitterAPI @Twitter Works only on the Web App. It doesn't work at a third-party.",
+		"truncated": false,
+		"display_text_range": [
+			81,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wangtian",
+					"name": "Tian Wang 王天",
+					"id": 7342422,
+					"id_str": "7342422",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "IgorBrigadir",
+					"name": "Igor Brigadir",
+					"id": 495430242,
+					"id_str": "495430242",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "josematthew",
+					"name": "Jose Mathew",
+					"id": 27710681,
+					"id_str": "27710681",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "mwiik",
+					"name": "Michael Wiik",
+					"id": 647773,
+					"id_str": "647773",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1301564016762826800,
+		"in_reply_to_status_id_str": "1301564016762826754",
+		"in_reply_to_user_id": 7342422,
+		"in_reply_to_user_id_str": "7342422",
+		"in_reply_to_screen_name": "wangtian",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wangtian @IgorBrigadir @josematthew @mwiik @TwitterSupport @TwitterAPI @Twitter Works only on the Web App. It doesn't work at a third-party."
+	},
+	{
 		"created_at": "Thu Sep 03 16:29:06 +0000 2020",
 		"id": 1301557842583847000,
 		"id_str": "1301557842583846912",
