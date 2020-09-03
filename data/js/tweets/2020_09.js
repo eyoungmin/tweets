@@ -1,6 +1,840 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 12:55:41 +0000 2020",
+		"id": 1301445215065047000,
+		"id_str": "1301504136802742272",
+		"full_text": "#에스크얼루어 [속보] 레드벨벳 #슬기, '저 곰돌이 안 닮았어요' 발언.. '이거 알아요?'라는 주제의 질문에 슬기는 어떤 답변을 했을까요? 얼루어 유튜브에서 확인해보세요 👉🏻 https://t.co/URWF5zYATo\n\n#RedVelvet #Seulgi Q&amp;A Ask allure uploaded with Eng subs!🐻\n@RVsmtown #레드벨벳 #곰슬기 https://t.co/M6Shj7joYQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에스크얼루어",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "Seulgi",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "곰슬기",
+					"indices": [
+						204,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						188,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/URWF5zYATo",
+					"expanded_url": "https://youtu.be/mYHLJDP5iz4",
+					"display_url": "youtu.be/mYHLJDP5iz4",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301445070239875000,
+					"id_str": "1301445070239875073",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-pZWJUwAEONFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-pZWJUwAEONFq.jpg",
+					"url": "https://t.co/M6Shj7joYQ",
+					"display_url": "pic.twitter.com/M6Shj7joYQ",
+					"expanded_url": "https://twitter.com/allurekorea/status/1301445215065047040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301445070239875000,
+					"id_str": "1301445070239875073",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-pZWJUwAEONFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-pZWJUwAEONFq.jpg",
+					"url": "https://t.co/M6Shj7joYQ",
+					"display_url": "pic.twitter.com/M6Shj7joYQ",
+					"expanded_url": "https://twitter.com/allurekorea/status/1301445215065047040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/arFVZMPfxh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arFVZMPfxh",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35996,
+			"friends_count": 1,
+			"listed_count": 282,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1597731350",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1536,
+		"favorite_count": 1967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#에스크얼루어 [속보] 레드벨벳 #슬기, '저 곰돌이 안 닮았어요' 발언.. '이거 알아요?'라는 주제의 질문에 슬기는 어떤 답변을 했을까요? 얼루어 유튜브에서 확인해보세요 👉🏻 https://t.co/URWF5zYATo\n\n#RedVelvet #Seulgi Q&amp;A Ask allure uploaded with Eng subs!🐻\n@RVsmtown #레드벨벳 #곰슬기 https://t.co/M6Shj7joYQ"
+	},
+	{
+		"created_at": "Thu Sep 03 12:36:31 +0000 2020",
+		"id": 1301328964628091000,
+		"id_str": "1301499313747492870",
+		"full_text": "벌써 내일이 &lt;우리는 연결되어 있다&gt; 문화제 날이네요!\n코로나로 인해 오프라인 행사가 취소되어 많이 아쉬운데요. 대신 온라인 스트리밍으로 행사를 관람하실 수 있도록 유튜브 채널 링크를 보내드립니다.\n\nhttps://t.co/KrLg7TQsbj\n\n그럼 내일 뵈어요! https://t.co/afDyGEBXDZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KrLg7TQsbj",
+					"expanded_url": "https://www.youtube.com/channel/UCDfXbM4Amr56gjPvpEFzWkQ",
+					"display_url": "youtube.com/channel/UCDfXb…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301328886618235000,
+					"id_str": "1301328886618234881",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg8_ukbVoAENywl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg8_ukbVoAENywl.jpg",
+					"url": "https://t.co/afDyGEBXDZ",
+					"display_url": "pic.twitter.com/afDyGEBXDZ",
+					"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1473,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301328886618235000,
+					"id_str": "1301328886618234881",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg8_ukbVoAENywl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg8_ukbVoAENywl.jpg",
+					"url": "https://t.co/afDyGEBXDZ",
+					"display_url": "pic.twitter.com/afDyGEBXDZ",
+					"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1473,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301328907497431000,
+					"id_str": "1301328907497431043",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg8_vyNU4AMfFUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg8_vyNU4AMfFUn.jpg",
+					"url": "https://t.co/afDyGEBXDZ",
+					"display_url": "pic.twitter.com/afDyGEBXDZ",
+					"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1473,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301328869375369200,
+					"id_str": "1301328869375369216",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg8_tkMUYAA_IB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg8_tkMUYAA_IB6.jpg",
+					"url": "https://t.co/afDyGEBXDZ",
+					"display_url": "pic.twitter.com/afDyGEBXDZ",
+					"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1473,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 557499232,
+			"id_str": "557499232",
+			"name": "대전여성단체연합",
+			"screen_name": "djwomen2012",
+			"location": "대전광역시 중구 동서대로 1332번길 9-3",
+			"description": "대전 진보여성단체들의 연합단체, 대전여성정책, 여성인권, 여성평화, 여성정치, 여성장애, 여성풀뿌리, 성평등한 세상만들기",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84,
+			"friends_count": 21,
+			"listed_count": 1,
+			"created_at": "Thu Apr 19 07:15:58 +0000 2012",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118438909589897216/Asta-Lpg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118438909589897216/Asta-Lpg_normal.jpg",
+			"profile_link_color": "733D89",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벌써 내일이 &lt;우리는 연결되어 있다&gt; 문화제 날이네요!\n코로나로 인해 오프라인 행사가 취소되어 많이 아쉬운데요. 대신 온라인 스트리밍으로 행사를 관람하실 수 있도록 유튜브 채널 링크를 보내드립니다.\n\nhttps://t.co/KrLg7TQsbj\n\n그럼 내일 뵈어요! https://t.co/afDyGEBXDZ"
+	},
+	{
+		"created_at": "Thu Sep 03 12:36:27 +0000 2020",
+		"id": 1301477964786184200,
+		"id_str": "1301499295816843264",
+		"full_text": "9/4 저녁 온라인 공연으로 변경되었습니다. 오랜만에 혜지와 함께 연주합니다. https://t.co/FJvY3yYWwu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FJvY3yYWwu",
+					"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880",
+					"display_url": "twitter.com/djwomen2012/st…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "금융예술인🔥의뢰|문의 📧 info.langlee@gmail.com 📧日本の仕事はinfo.sweetdreams@gmail.com STAFF @info_langlee",
+			"url": "https://t.co/CxKklAUBvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CxKklAUBvk",
+							"expanded_url": "http://www.youtube.com/langleeschool",
+							"display_url": "youtube.com/langleeschool",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31577,
+			"friends_count": 1030,
+			"listed_count": 172,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301328964628091000,
+		"quoted_status_id_str": "1301328964628090880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FJvY3yYWwu",
+			"expanded": "https://twitter.com/djwomen2012/status/1301328964628090880",
+			"display": "twitter.com/djwomen2012/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 03 01:19:37 +0000 2020",
+			"id": 1301328964628091000,
+			"id_str": "1301328964628090880",
+			"full_text": "벌써 내일이 &lt;우리는 연결되어 있다&gt; 문화제 날이네요!\n코로나로 인해 오프라인 행사가 취소되어 많이 아쉬운데요. 대신 온라인 스트리밍으로 행사를 관람하실 수 있도록 유튜브 채널 링크를 보내드립니다.\n\nhttps://t.co/KrLg7TQsbj\n\n그럼 내일 뵈어요! https://t.co/afDyGEBXDZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KrLg7TQsbj",
+						"expanded_url": "https://www.youtube.com/channel/UCDfXbM4Amr56gjPvpEFzWkQ",
+						"display_url": "youtube.com/channel/UCDfXb…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1301328886618235000,
+						"id_str": "1301328886618234881",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg8_ukbVoAENywl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg8_ukbVoAENywl.jpg",
+						"url": "https://t.co/afDyGEBXDZ",
+						"display_url": "pic.twitter.com/afDyGEBXDZ",
+						"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1473,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 489,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 863,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1301328886618235000,
+						"id_str": "1301328886618234881",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg8_ukbVoAENywl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg8_ukbVoAENywl.jpg",
+						"url": "https://t.co/afDyGEBXDZ",
+						"display_url": "pic.twitter.com/afDyGEBXDZ",
+						"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1473,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 489,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 863,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1301328907497431000,
+						"id_str": "1301328907497431043",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg8_vyNU4AMfFUn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg8_vyNU4AMfFUn.jpg",
+						"url": "https://t.co/afDyGEBXDZ",
+						"display_url": "pic.twitter.com/afDyGEBXDZ",
+						"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 489,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 863,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1473,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1301328869375369200,
+						"id_str": "1301328869375369216",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg8_tkMUYAA_IB6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg8_tkMUYAA_IB6.jpg",
+						"url": "https://t.co/afDyGEBXDZ",
+						"display_url": "pic.twitter.com/afDyGEBXDZ",
+						"expanded_url": "https://twitter.com/djwomen2012/status/1301328964628090880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1473,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 489,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 863,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 557499232,
+				"id_str": "557499232",
+				"name": "대전여성단체연합",
+				"screen_name": "djwomen2012",
+				"location": "대전광역시 중구 동서대로 1332번길 9-3",
+				"description": "대전 진보여성단체들의 연합단체, 대전여성정책, 여성인권, 여성평화, 여성정치, 여성장애, 여성풀뿌리, 성평등한 세상만들기",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84,
+				"friends_count": 21,
+				"listed_count": 1,
+				"created_at": "Thu Apr 19 07:15:58 +0000 2012",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118438909589897216/Asta-Lpg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118438909589897216/Asta-Lpg_normal.jpg",
+				"profile_link_color": "733D89",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 14,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9/4 저녁 온라인 공연으로 변경되었습니다. 오랜만에 혜지와 함께 연주합니다. https://t.co/FJvY3yYWwu"
+	},
+	{
 		"created_at": "Thu Sep 03 10:28:17 +0000 2020",
 		"id": 1301467042764206000,
 		"id_str": "1301467042764206080",
