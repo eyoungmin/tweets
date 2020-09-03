@@ -1,6 +1,1293 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 00:52:27 +0000 2020",
+		"id": 1301035812557971500,
+		"id_str": "1301322130110345216",
+		"full_text": "&gt;&gt;CMYK프로파일에 포함된 정보&lt;&lt;\n이런 정보가 필요하신 분들이\n저말고도 분명 계실듯 하여 읽기 쉽게 정리해 보았습니다\n\nGCR / UCR / 총잉크허용량 / web / Sheetfed / 인쇄용지 종류와 등급분류\nhttps://t.co/bILE7W4ZcA https://t.co/VLfBIOpTFP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bILE7W4ZcA",
+					"expanded_url": "https://midorisoo.blog.me/222077761768",
+					"display_url": "midorisoo.blog.me/222077761768",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301034721862803500,
+					"id_str": "1301034721862803457",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg40L7UU4AEnXod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg40L7UU4AEnXod.jpg",
+					"url": "https://t.co/VLfBIOpTFP",
+					"display_url": "pic.twitter.com/VLfBIOpTFP",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1301035812557971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 985,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301034721862803500,
+					"id_str": "1301034721862803457",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg40L7UU4AEnXod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg40L7UU4AEnXod.jpg",
+					"url": "https://t.co/VLfBIOpTFP",
+					"display_url": "pic.twitter.com/VLfBIOpTFP",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1301035812557971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 985,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1208,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301034767291306000,
+					"id_str": "1301034767291305984",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg40OkjU0AAmzon.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg40OkjU0AAmzon.jpg",
+					"url": "https://t.co/VLfBIOpTFP",
+					"display_url": "pic.twitter.com/VLfBIOpTFP",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1301035812557971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865973278493466600,
+			"id_str": "865973278493466624",
+			"name": "윤고선",
+			"screen_name": "chaeumbooks",
+			"location": "대한민국 서울",
+			"description": "단짝 친구 처럼 편집&디자인 관련 알짜 정보와 노하우를 무한으로 공유합니다.  (๑˃̵ᴗ˂̵)و \n강의상담  https://t.co/fLCq1jJjYr",
+			"url": "https://t.co/RcSO0Ujw13",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RcSO0Ujw13",
+							"expanded_url": "http://blog.naver.com/midorisoo",
+							"display_url": "blog.naver.com/midorisoo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLCq1jJjYr",
+							"expanded_url": "http://open.kakao.com/o/spFkrZeb",
+							"display_url": "open.kakao.com/o/spFkrZeb",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7512,
+			"friends_count": 33,
+			"listed_count": 32,
+			"created_at": "Sat May 20 16:51:33 +0000 2017",
+			"favourites_count": 389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256583707843899392/D5ARDaYZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256583707843899392/D5ARDaYZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865973278493466624/1573567837",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&gt;&gt;CMYK프로파일에 포함된 정보&lt;&lt;\n이런 정보가 필요하신 분들이\n저말고도 분명 계실듯 하여 읽기 쉽게 정리해 보았습니다\n\nGCR / UCR / 총잉크허용량 / web / Sheetfed / 인쇄용지 종류와 등급분류\nhttps://t.co/bILE7W4ZcA https://t.co/VLfBIOpTFP"
+	},
+	{
+		"created_at": "Thu Sep 03 00:45:20 +0000 2020",
+		"id": 1301252695961956400,
+		"id_str": "1301320337213267968",
+		"full_text": "[서울특별시]제9호 태풍 '마이삭'으로 출근길에 강한 바람과 비로 인해 가로수 쓰러짐 등 교통체증이 예상되오니 가급적 대중교통을 이용해 주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4142,
+			"friends_count": 920,
+			"listed_count": 37,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[서울특별시]제9호 태풍 '마이삭'으로 출근길에 강한 바람과 비로 인해 가로수 쓰러짐 등 교통체증이 예상되오니 가급적 대중교통을 이용해 주시기 바랍니다."
+	},
+	{
+		"created_at": "Thu Sep 03 00:45:12 +0000 2020",
+		"id": 1301112637900468200,
+		"id_str": "1301320302639669249",
+		"full_text": "🎨 #FANSHIPonly\n\n📸 'C'HUNG HA RANGㅣEP 2. 청하의 도자기 체험 with 우주소녀 연정\n✌🏻 https://t.co/HtC4RW7O7N\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/US3Ik8Mq3f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FANSHIPonly",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						130,
+						145
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						146,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HtC4RW7O7N",
+					"expanded_url": "https://bit.ly/2YTBFkE",
+					"display_url": "bit.ly/2YTBFkE",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300744280428880000,
+					"id_str": "1300744280428879878",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0sCAqVoAYwD45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0sCAqVoAYwD45.jpg",
+					"url": "https://t.co/US3Ik8Mq3f",
+					"display_url": "pic.twitter.com/US3Ik8Mq3f",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112637900468224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300744280428880000,
+					"id_str": "1300744280428879878",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0sCAqVoAYwD45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0sCAqVoAYwD45.jpg",
+					"url": "https://t.co/US3Ik8Mq3f",
+					"display_url": "pic.twitter.com/US3Ik8Mq3f",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112637900468224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300744280441454600,
+					"id_str": "1300744280441454598",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0sCAtVgAYXoPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0sCAtVgAYXoPg.jpg",
+					"url": "https://t.co/US3Ik8Mq3f",
+					"display_url": "pic.twitter.com/US3Ik8Mq3f",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112637900468224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286628,
+			"friends_count": 0,
+			"listed_count": 1749,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 546,
+		"favorite_count": 2385,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎨 #FANSHIPonly\n\n📸 'C'HUNG HA RANGㅣEP 2. 청하의 도자기 체험 with 우주소녀 연정\n✌🏻 https://t.co/HtC4RW7O7N\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/US3Ik8Mq3f"
+	},
+	{
+		"created_at": "Thu Sep 03 00:45:10 +0000 2020",
+		"id": 1301112636814184400,
+		"id_str": "1301320293751967746",
+		"full_text": "🎨 #FANSHIPonly\n\n📸 'C'HUNG HA RANGㅣEP 2. 청하의 도자기 체험 with 우주소녀 연정\n✌🏻 https://t.co/HtC4RW7O7N\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/hk2CtzUyuv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FANSHIPonly",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						130,
+						145
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						146,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HtC4RW7O7N",
+					"expanded_url": "https://bit.ly/2YTBFkE",
+					"display_url": "bit.ly/2YTBFkE",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300744336036958200,
+					"id_str": "1300744336036958209",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0sFP0VkAESlU0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0sFP0VkAESlU0.jpg",
+					"url": "https://t.co/hk2CtzUyuv",
+					"display_url": "pic.twitter.com/hk2CtzUyuv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112636814184450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300744336036958200,
+					"id_str": "1300744336036958209",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0sFP0VkAESlU0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0sFP0VkAESlU0.jpg",
+					"url": "https://t.co/hk2CtzUyuv",
+					"display_url": "pic.twitter.com/hk2CtzUyuv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112636814184450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300744336036884500,
+					"id_str": "1300744336036884481",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0sFP0UcAELg3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0sFP0UcAELg3B.jpg",
+					"url": "https://t.co/hk2CtzUyuv",
+					"display_url": "pic.twitter.com/hk2CtzUyuv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112636814184450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300744336045297700,
+					"id_str": "1300744336045297670",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0sFP2U0AYYZoj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0sFP2U0AYYZoj.jpg",
+					"url": "https://t.co/hk2CtzUyuv",
+					"display_url": "pic.twitter.com/hk2CtzUyuv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112636814184450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300744336057880600,
+					"id_str": "1300744336057880578",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0sFP5U0AIYTcH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0sFP5U0AIYTcH.jpg",
+					"url": "https://t.co/hk2CtzUyuv",
+					"display_url": "pic.twitter.com/hk2CtzUyuv",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112636814184450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286628,
+			"friends_count": 0,
+			"listed_count": 1749,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 516,
+		"favorite_count": 2210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎨 #FANSHIPonly\n\n📸 'C'HUNG HA RANGㅣEP 2. 청하의 도자기 체험 with 우주소녀 연정\n✌🏻 https://t.co/HtC4RW7O7N\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/hk2CtzUyuv"
+	},
+	{
+		"created_at": "Thu Sep 03 00:45:07 +0000 2020",
+		"id": 1301112635228696600,
+		"id_str": "1301320284931338243",
+		"full_text": "🎨 #FANSHIPonly\n\n📸 'C'HUNG HA RANGㅣEP 2. 청하의 도자기 체험 with 우주소녀 연정\n✌🏻 https://t.co/HtC4RW7O7N\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/CnFghPeLpp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FANSHIPonly",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						130,
+						145
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						146,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HtC4RW7O7N",
+					"expanded_url": "https://bit.ly/2YTBFkE",
+					"display_url": "bit.ly/2YTBFkE",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300743883853242400,
+					"id_str": "1300743883853242368",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0rq7TVoAAq_Nn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0rq7TVoAAq_Nn.jpg",
+					"url": "https://t.co/CnFghPeLpp",
+					"display_url": "pic.twitter.com/CnFghPeLpp",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112635228696576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300743883853242400,
+					"id_str": "1300743883853242368",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0rq7TVoAAq_Nn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0rq7TVoAAq_Nn.jpg",
+					"url": "https://t.co/CnFghPeLpp",
+					"display_url": "pic.twitter.com/CnFghPeLpp",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112635228696576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300743883941273600,
+					"id_str": "1300743883941273600",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0rq7oU4AA2JfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0rq7oU4AA2JfG.jpg",
+					"url": "https://t.co/CnFghPeLpp",
+					"display_url": "pic.twitter.com/CnFghPeLpp",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112635228696576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300743884016771000,
+					"id_str": "1300743884016771072",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0rq76U4AArDGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0rq76U4AArDGO.jpg",
+					"url": "https://t.co/CnFghPeLpp",
+					"display_url": "pic.twitter.com/CnFghPeLpp",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112635228696576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300743884088045600,
+					"id_str": "1300743884088045568",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0rq8LUcAA_jt0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0rq8LUcAA_jt0.jpg",
+					"url": "https://t.co/CnFghPeLpp",
+					"display_url": "pic.twitter.com/CnFghPeLpp",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301112635228696576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286628,
+			"friends_count": 0,
+			"listed_count": 1749,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 789,
+		"favorite_count": 3428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎨 #FANSHIPonly\n\n📸 'C'HUNG HA RANGㅣEP 2. 청하의 도자기 체험 with 우주소녀 연정\n✌🏻 https://t.co/HtC4RW7O7N\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/CnFghPeLpp"
+	},
+	{
 		"created_at": "Wed Sep 02 21:41:15 +0000 2020",
 		"id": 1300105844504162300,
 		"id_str": "1301274010450190336",
