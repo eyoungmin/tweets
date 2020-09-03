@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 06:59:25 +0000 2020",
+		"id": 1301414477183824000,
+		"id_str": "1301414477183823872",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘뚜두뚜두’ 스포티파이 3억 스트리밍 돌파··美 그래미도 ‘집중조명’\nhttps://t.co/PoYME3H9Hp\n#블랙핑크 #BLACKPINK https://t.co/PydALZBKTs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PoYME3H9Hp",
+					"expanded_url": "https://yg-life.com/archives/159130?lang=ko",
+					"display_url": "yg-life.com/archives/15913…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301414476206542800,
+					"id_str": "1301414476206542849",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-NkifXkAEUsUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-NkifXkAEUsUb.jpg",
+					"url": "https://t.co/PydALZBKTs",
+					"display_url": "pic.twitter.com/PydALZBKTs",
+					"expanded_url": "https://twitter.com/fromminn/status/1301414477183823872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 302,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 302,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 302,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301414476206542800,
+					"id_str": "1301414476206542849",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-NkifXkAEUsUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-NkifXkAEUsUb.jpg",
+					"url": "https://t.co/PydALZBKTs",
+					"display_url": "pic.twitter.com/PydALZBKTs",
+					"expanded_url": "https://twitter.com/fromminn/status/1301414477183823872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 302,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 302,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 302,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘뚜두뚜두’ 스포티파이 3억 스트리밍 돌파··美 그래미도 ‘집중조명’\nhttps://t.co/PoYME3H9Hp\n#블랙핑크 #BLACKPINK https://t.co/PydALZBKTs"
+	},
+	{
+		"created_at": "Thu Sep 03 06:55:33 +0000 2020",
+		"id": 1301337377936306200,
+		"id_str": "1301413503736012800",
+		"full_text": "Minglr - 컨퍼런스후 참가자 끼리의 대화를 온라인으로 https://t.co/B6Ckr6INse \n- Mingling (여기저기 돌아다니면서 대화하는 것) 을 Jitsi를 이용해서 온라인으로 구현한 오픈소스\n- 참여자 리스트를 보고 선택해서 대화 가능\nㅤ→ 대화하고 싶다고 선택하면 나와 대화하고 싶은 사람들 리스트...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B6Ckr6INse",
+					"expanded_url": "https://j.mp/3hV4IMa",
+					"display_url": "j.mp/3hV4IMa",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3842,
+			"friends_count": 0,
+			"listed_count": 58,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Minglr - 컨퍼런스후 참가자 끼리의 대화를 온라인으로 https://t.co/B6Ckr6INse \n- Mingling (여기저기 돌아다니면서 대화하는 것) 을 Jitsi를 이용해서 온라인으로 구현한 오픈소스\n- 참여자 리스트를 보고 선택해서 대화 가능\nㅤ→ 대화하고 싶다고 선택하면 나와 대화하고 싶은 사람들 리스트..."
+	},
+	{
 		"created_at": "Thu Sep 03 04:45:03 +0000 2020",
 		"id": 1301371432580997000,
 		"id_str": "1301380664885903360",
