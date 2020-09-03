@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 08:45:02 +0000 2020",
+		"id": 1301432355605807000,
+		"id_str": "1301441056622415873",
+		"full_text": "📸 광고 촬영 #SnapShot\n\n🚗📱💜\n\n#청하 #CHUNGHA\n#피플카 #카셰어링 https://t.co/r0nEKhysNf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SnapShot",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "피플카",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "카셰어링",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301432289327366100,
+					"id_str": "1301432289327366144",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-dxZiUwAAp5II.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-dxZiUwAAp5II.jpg",
+					"url": "https://t.co/r0nEKhysNf",
+					"display_url": "pic.twitter.com/r0nEKhysNf",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301432355605807104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301432289327366100,
+					"id_str": "1301432289327366144",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-dxZiUwAAp5II.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-dxZiUwAAp5II.jpg",
+					"url": "https://t.co/r0nEKhysNf",
+					"display_url": "pic.twitter.com/r0nEKhysNf",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301432355605807104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301432304221397000,
+					"id_str": "1301432304221396992",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-dyRBVoAAR9ML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-dyRBVoAAR9ML.jpg",
+					"url": "https://t.co/r0nEKhysNf",
+					"display_url": "pic.twitter.com/r0nEKhysNf",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301432355605807104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301432319304061000,
+					"id_str": "1301432319304060928",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-dzJNU0AAvySh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-dzJNU0AAvySh.jpg",
+					"url": "https://t.co/r0nEKhysNf",
+					"display_url": "pic.twitter.com/r0nEKhysNf",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301432355605807104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301432319354400800,
+					"id_str": "1301432319354400768",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-dzJZU8AA6_hf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-dzJZU8AA6_hf.jpg",
+					"url": "https://t.co/r0nEKhysNf",
+					"display_url": "pic.twitter.com/r0nEKhysNf",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301432355605807104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286620,
+			"friends_count": 0,
+			"listed_count": 1751,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 343,
+		"favorite_count": 1399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 광고 촬영 #SnapShot\n\n🚗📱💜\n\n#청하 #CHUNGHA\n#피플카 #카셰어링 https://t.co/r0nEKhysNf"
+	},
+	{
+		"created_at": "Thu Sep 03 08:44:58 +0000 2020",
+		"id": 1301429726053953500,
+		"id_str": "1301441039362928640",
+		"full_text": "📸 광고 촬영 #SnapShot\n\n🚗📱💜\n\n#청하 #CHUNGHA\n#피플카 #카셰어링 https://t.co/o13k9ykAtT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SnapShot",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "피플카",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "카셰어링",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301411897313341400,
+					"id_str": "1301411897313341440",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-LObXUMAAZjKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-LObXUMAAZjKb.jpg",
+					"url": "https://t.co/o13k9ykAtT",
+					"display_url": "pic.twitter.com/o13k9ykAtT",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301429726053953536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301411897313341400,
+					"id_str": "1301411897313341440",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-LObXUMAAZjKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-LObXUMAAZjKb.jpg",
+					"url": "https://t.co/o13k9ykAtT",
+					"display_url": "pic.twitter.com/o13k9ykAtT",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301429726053953536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301411897384693800,
+					"id_str": "1301411897384693760",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-LOboU8AAFpZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-LOboU8AAFpZg.jpg",
+					"url": "https://t.co/o13k9ykAtT",
+					"display_url": "pic.twitter.com/o13k9ykAtT",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301429726053953536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301411897451769900,
+					"id_str": "1301411897451769856",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-LOb4UcAAfmr6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-LOb4UcAAfmr6.jpg",
+					"url": "https://t.co/o13k9ykAtT",
+					"display_url": "pic.twitter.com/o13k9ykAtT",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301429726053953536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1301411897502122000,
+					"id_str": "1301411897502121986",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-LOcEUwAIYnGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-LOcEUwAIYnGF.jpg",
+					"url": "https://t.co/o13k9ykAtT",
+					"display_url": "pic.twitter.com/o13k9ykAtT",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1301429726053953536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286620,
+			"friends_count": 0,
+			"listed_count": 1751,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 1149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 광고 촬영 #SnapShot\n\n🚗📱💜\n\n#청하 #CHUNGHA\n#피플카 #카셰어링 https://t.co/o13k9ykAtT"
+	},
+	{
 		"created_at": "Thu Sep 03 07:47:38 +0000 2020",
 		"id": 1301426613142327300,
 		"id_str": "1301426613142327296",
