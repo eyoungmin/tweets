@@ -1,6 +1,3925 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 15:07:05 +0000 2020",
+		"id": 1301537205576327200,
+		"id_str": "1301537205576327168",
+		"full_text": "니트 이쁘다 https://t.co/WJYeNqOFyk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WJYeNqOFyk",
+					"expanded_url": "https://twitter.com/joystgrm/status/1301483908802973696",
+					"display_url": "twitter.com/joystgrm/statu…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301483908802973700,
+		"quoted_status_id_str": "1301483908802973696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WJYeNqOFyk",
+			"expanded": "https://twitter.com/joystgrm/status/1301483908802973696",
+			"display": "twitter.com/joystgrm/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 03 11:35:18 +0000 2020",
+			"id": 1301483908802973700,
+			"id_str": "1301483908802973696",
+			"full_text": "[INSTAGRAM STORY]\n\n나랑 놀 사람🤗\nhttps://t.co/po3XuXMvDz\n\n#RedVelvet #레드벨벳 #Joy #조이 #RVF @RVsmtown \n200903 · 20:34:29 KST https://t.co/aG7tnCNeQo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RedVelvet",
+						"indices": [
+							53,
+							63
+						]
+					},
+					{
+						"text": "레드벨벳",
+						"indices": [
+							64,
+							69
+						]
+					},
+					{
+						"text": "Joy",
+						"indices": [
+							70,
+							74
+						]
+					},
+					{
+						"text": "조이",
+						"indices": [
+							75,
+							78
+						]
+					},
+					{
+						"text": "RVF",
+						"indices": [
+							79,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RVsmtown",
+						"name": "Red Velvet",
+						"id": 873092428755894300,
+						"id_str": "873092428755894272",
+						"indices": [
+							84,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/po3XuXMvDz",
+						"expanded_url": "https://www.instagram.com/stories/_imyour_joy/2390022242055815509",
+						"display_url": "instagram.com/stories/_imyou…",
+						"indices": [
+							28,
+							51
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1301483907343421400,
+						"id_str": "1301483907343421440",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg_Mt9oXkAAMEPm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg_Mt9oXkAAMEPm.jpg",
+						"url": "https://t.co/aG7tnCNeQo",
+						"display_url": "pic.twitter.com/aG7tnCNeQo",
+						"expanded_url": "https://twitter.com/joystgrm/status/1301483908802973696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1301483907343421400,
+						"id_str": "1301483907343421440",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Eg_Mt9oXkAAMEPm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eg_Mt9oXkAAMEPm.jpg",
+						"url": "https://t.co/aG7tnCNeQo",
+						"display_url": "pic.twitter.com/aG7tnCNeQo",
+						"expanded_url": "https://twitter.com/joystgrm/status/1301483908802973696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://twitter.com/rvlvt\" rel=\"nofollow\">joystgrm</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1133001673150877700,
+				"id_str": "1133001673150877697",
+				"name": "joystgrm",
+				"screen_name": "joystgrm",
+				"location": "",
+				"description": "Joy's Instagram updates. Also follow: @rvstgrm @renestgrm @seulstgrm @wanstgrm @yeristgrm",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31512,
+				"friends_count": 0,
+				"listed_count": 708,
+				"created_at": "Mon May 27 13:27:03 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1632,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267034854685675520/bkekmFi1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267034854685675520/bkekmFi1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1133001673150877697/1590933881",
+				"profile_link_color": "69A62A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1150,
+			"favorite_count": 1809,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "니트 이쁘다 https://t.co/WJYeNqOFyk"
+	},
+	{
+		"created_at": "Thu Sep 03 15:06:57 +0000 2020",
+		"id": 1301483908802973700,
+		"id_str": "1301537171350851584",
+		"full_text": "[INSTAGRAM STORY]\n\n나랑 놀 사람🤗\nhttps://t.co/po3XuXMvDz\n\n#RedVelvet #레드벨벳 #Joy #조이 #RVF @RVsmtown \n200903 · 20:34:29 KST https://t.co/aG7tnCNeQo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "Joy",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						79,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/po3XuXMvDz",
+					"expanded_url": "https://www.instagram.com/stories/_imyour_joy/2390022242055815509",
+					"display_url": "instagram.com/stories/_imyou…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301483907343421400,
+					"id_str": "1301483907343421440",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg_Mt9oXkAAMEPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg_Mt9oXkAAMEPm.jpg",
+					"url": "https://t.co/aG7tnCNeQo",
+					"display_url": "pic.twitter.com/aG7tnCNeQo",
+					"expanded_url": "https://twitter.com/joystgrm/status/1301483908802973696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301483907343421400,
+					"id_str": "1301483907343421440",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg_Mt9oXkAAMEPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg_Mt9oXkAAMEPm.jpg",
+					"url": "https://t.co/aG7tnCNeQo",
+					"display_url": "pic.twitter.com/aG7tnCNeQo",
+					"expanded_url": "https://twitter.com/joystgrm/status/1301483908802973696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/rvlvt\" rel=\"nofollow\">joystgrm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1133001673150877700,
+			"id_str": "1133001673150877697",
+			"name": "joystgrm",
+			"screen_name": "joystgrm",
+			"location": "",
+			"description": "Joy's Instagram updates. Also follow: @rvstgrm @renestgrm @seulstgrm @wanstgrm @yeristgrm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31512,
+			"friends_count": 0,
+			"listed_count": 708,
+			"created_at": "Mon May 27 13:27:03 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267034854685675520/bkekmFi1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267034854685675520/bkekmFi1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1133001673150877697/1590933881",
+			"profile_link_color": "69A62A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1150,
+		"favorite_count": 1809,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM STORY]\n\n나랑 놀 사람🤗\nhttps://t.co/po3XuXMvDz\n\n#RedVelvet #레드벨벳 #Joy #조이 #RVF @RVsmtown \n200903 · 20:34:29 KST https://t.co/aG7tnCNeQo"
+	},
+	{
+		"created_at": "Thu Sep 03 15:04:38 +0000 2020",
+		"id": 1301503588699693000,
+		"id_str": "1301536587772166146",
+		"full_text": "[INSTAGRAM VIDEO] vousmevoyez: wardrobe test few months back #써치 https://t.co/7iQHUc2Aos #krystalgram https://t.co/s8PPjKU84g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "써치",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "krystalgram",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7iQHUc2Aos",
+					"expanded_url": "https://www.instagram.com/p/CErNFkzgIUd/",
+					"display_url": "instagram.com/p/CErNFkzgIUd/",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301503573243703300,
+					"id_str": "1301503573243703296",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301503573243703296/pu/img/TmlXfqNHHHQd55Ck.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301503573243703296/pu/img/TmlXfqNHHHQd55Ck.jpg",
+					"url": "https://t.co/s8PPjKU84g",
+					"display_url": "pic.twitter.com/s8PPjKU84g",
+					"expanded_url": "https://twitter.com/krystalgrm/status/1301503588699693059/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301503573243703300,
+					"id_str": "1301503573243703296",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301503573243703296/pu/img/TmlXfqNHHHQd55Ck.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301503573243703296/pu/img/TmlXfqNHHHQd55Ck.jpg",
+					"url": "https://t.co/s8PPjKU84g",
+					"display_url": "pic.twitter.com/s8PPjKU84g",
+					"expanded_url": "https://twitter.com/krystalgrm/status/1301503588699693059/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1301503573243703296/pu/pl/3PMSBrBkD6X4Z6_g.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301503573243703296/pu/vid/320x320/QSc9iVhusnQFg3t4.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301503573243703296/pu/vid/480x480/TQN4jk63Tbn5Juf_.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301503573243703296/pu/vid/720x720/dtXRDsk30QMtWvai.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://krystalgrm.tumblr.com\" rel=\"nofollow\">Krystalgrm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3104326238,
+			"id_str": "3104326238",
+			"name": "krystalgrm",
+			"screen_name": "krystalgrm",
+			"location": "",
+			"description": "Bot tweeting Krystal's Instagram/Weibo updates and comments. Built by @thegoguma",
+			"url": "http://t.co/zDnVwCltSw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/zDnVwCltSw",
+							"expanded_url": "http://krystalgrm.tumblr.com",
+							"display_url": "krystalgrm.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13206,
+			"friends_count": 0,
+			"listed_count": 284,
+			"created_at": "Mon Mar 23 05:41:15 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595225392585117698/y8JHEjaG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595225392585117698/y8JHEjaG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 777,
+		"favorite_count": 521,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[INSTAGRAM VIDEO] vousmevoyez: wardrobe test few months back #써치 https://t.co/7iQHUc2Aos #krystalgram https://t.co/s8PPjKU84g"
+	},
+	{
+		"created_at": "Thu Sep 03 15:04:33 +0000 2020",
+		"id": 1301503281865388000,
+		"id_str": "1301536568314720257",
+		"full_text": "[INSTAGRAM STORY] vousmevoyez:  https://t.co/pydKmmpyEs #krystalgram https://t.co/DWe3tyu2xP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "krystalgram",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pydKmmpyEs",
+					"expanded_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/118586309_302630407703052_5930418109808399137_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_ohc=Ofgjq5UAjgEAX91aj6I&se=7&_nc_tp=18&oh=bc4bb241e5901c2015b15c9dd8ec6b2d&oe=5F52FA91&ig_cache_key=MjM5MDA2MDkyNjk5MzcwMTc2OA%3D%3D.2",
+					"display_url": "scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301503280036622300,
+					"id_str": "1301503280036622336",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg_eVmiWsAATQsY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg_eVmiWsAATQsY.jpg",
+					"url": "https://t.co/DWe3tyu2xP",
+					"display_url": "pic.twitter.com/DWe3tyu2xP",
+					"expanded_url": "https://twitter.com/krystalgrm/status/1301503281865388034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301503280036622300,
+					"id_str": "1301503280036622336",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg_eVmiWsAATQsY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg_eVmiWsAATQsY.jpg",
+					"url": "https://t.co/DWe3tyu2xP",
+					"display_url": "pic.twitter.com/DWe3tyu2xP",
+					"expanded_url": "https://twitter.com/krystalgrm/status/1301503281865388034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://krystalgrm.tumblr.com\" rel=\"nofollow\">Krystalgrm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3104326238,
+			"id_str": "3104326238",
+			"name": "krystalgrm",
+			"screen_name": "krystalgrm",
+			"location": "",
+			"description": "Bot tweeting Krystal's Instagram/Weibo updates and comments. Built by @thegoguma",
+			"url": "http://t.co/zDnVwCltSw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/zDnVwCltSw",
+							"expanded_url": "http://krystalgrm.tumblr.com",
+							"display_url": "krystalgrm.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13206,
+			"friends_count": 0,
+			"listed_count": 284,
+			"created_at": "Mon Mar 23 05:41:15 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595225392585117698/y8JHEjaG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595225392585117698/y8JHEjaG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 365,
+		"favorite_count": 253,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "[INSTAGRAM STORY] vousmevoyez:  https://t.co/pydKmmpyEs #krystalgram https://t.co/DWe3tyu2xP"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:54 +0000 2020",
+		"id": 1301535672419848200,
+		"id_str": "1301536404334206976",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/eNt2nGpuGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmgIA5F",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301469537481572400,
+					"id_str": "1301469537481572355",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-_phuUwAMJy4Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-_phuUwAMJy4Z.jpg",
+					"url": "https://t.co/eNt2nGpuGJ",
+					"display_url": "pic.twitter.com/eNt2nGpuGJ",
+					"expanded_url": "https://twitter.com/SHINee/status/1301535672419848192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301469537481572400,
+					"id_str": "1301469537481572355",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-_phuUwAMJy4Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-_phuUwAMJy4Z.jpg",
+					"url": "https://t.co/eNt2nGpuGJ",
+					"display_url": "pic.twitter.com/eNt2nGpuGJ",
+					"expanded_url": "https://twitter.com/SHINee/status/1301535672419848192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6013,
+		"favorite_count": 11222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/eNt2nGpuGJ"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:46 +0000 2020",
+		"id": 1301535428282114000,
+		"id_str": "1301536369240489985",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/y2XPxnYk2r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmh0buf",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301469537083166700,
+					"id_str": "1301469537083166721",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-_pgPVkAEU48e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-_pgPVkAEU48e.jpg",
+					"url": "https://t.co/y2XPxnYk2r",
+					"display_url": "pic.twitter.com/y2XPxnYk2r",
+					"expanded_url": "https://twitter.com/SHINee/status/1301535428282114048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301469537083166700,
+					"id_str": "1301469537083166721",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg-_pgPVkAEU48e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg-_pgPVkAEU48e.jpg",
+					"url": "https://t.co/y2XPxnYk2r",
+					"display_url": "pic.twitter.com/y2XPxnYk2r",
+					"expanded_url": "https://twitter.com/SHINee/status/1301535428282114048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6207,
+		"favorite_count": 12415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/y2XPxnYk2r"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:40 +0000 2020",
+		"id": 1301173536237654000,
+		"id_str": "1301536345219768320",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/9KLUEGxdS1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmgIA5F",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301109156959514600,
+					"id_str": "1301109156959514624",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg534nqUcAAYX4X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg534nqUcAAYX4X.jpg",
+					"url": "https://t.co/9KLUEGxdS1",
+					"display_url": "pic.twitter.com/9KLUEGxdS1",
+					"expanded_url": "https://twitter.com/SHINee/status/1301173536237654016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301109156959514600,
+					"id_str": "1301109156959514624",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg534nqUcAAYX4X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg534nqUcAAYX4X.jpg",
+					"url": "https://t.co/9KLUEGxdS1",
+					"display_url": "pic.twitter.com/9KLUEGxdS1",
+					"expanded_url": "https://twitter.com/SHINee/status/1301173536237654016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12317,
+		"favorite_count": 34024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/9KLUEGxdS1"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:38 +0000 2020",
+		"id": 1301173284591919000,
+		"id_str": "1301536337627996167",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/zmiGPVMMvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmgIA5F",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301109145223848000,
+					"id_str": "1301109145223847937",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg53378UYAEJgJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg53378UYAEJgJO.jpg",
+					"url": "https://t.co/zmiGPVMMvt",
+					"display_url": "pic.twitter.com/zmiGPVMMvt",
+					"expanded_url": "https://twitter.com/SHINee/status/1301173284591919104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301109145223848000,
+					"id_str": "1301109145223847937",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg53378UYAEJgJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg53378UYAEJgJO.jpg",
+					"url": "https://t.co/zmiGPVMMvt",
+					"display_url": "pic.twitter.com/zmiGPVMMvt",
+					"expanded_url": "https://twitter.com/SHINee/status/1301173284591919104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12644,
+		"favorite_count": 36050,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/zmiGPVMMvt"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:37 +0000 2020",
+		"id": 1301173034347311000,
+		"id_str": "1301536329918869504",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/6oVbbNfbKl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmh0buf",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301109133999923200,
+					"id_str": "1301109133999923202",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg533SIU4AImvUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg533SIU4AImvUs.jpg",
+					"url": "https://t.co/6oVbbNfbKl",
+					"display_url": "pic.twitter.com/6oVbbNfbKl",
+					"expanded_url": "https://twitter.com/SHINee/status/1301173034347311105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301109133999923200,
+					"id_str": "1301109133999923202",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg533SIU4AImvUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg533SIU4AImvUs.jpg",
+					"url": "https://t.co/6oVbbNfbKl",
+					"display_url": "pic.twitter.com/6oVbbNfbKl",
+					"expanded_url": "https://twitter.com/SHINee/status/1301173034347311105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14036,
+		"favorite_count": 42784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/6oVbbNfbKl"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:34 +0000 2020",
+		"id": 1301085460089860000,
+		"id_str": "1301536319798038528",
+		"full_text": "[심층 탐구] 태민의 슬기로운 역솔남 생활 (출처 : SMTOWN 신곡 포스트 | 네이버 포스트) \n\n👉🏻https://t.co/B7pumoqtCC \n\n#태민 #TAEMIN #샤이니 #SHINee #NeverGonnaDanceAgain #Act1 #Criminal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						110,
+						131
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B7pumoqtCC",
+					"expanded_url": "http://naver.me/FaVWRGul",
+					"display_url": "naver.me/FaVWRGul",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5647,
+		"favorite_count": 16590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[심층 탐구] 태민의 슬기로운 역솔남 생활 (출처 : SMTOWN 신곡 포스트 | 네이버 포스트) \n\n👉🏻https://t.co/B7pumoqtCC \n\n#태민 #TAEMIN #샤이니 #SHINee #NeverGonnaDanceAgain #Act1 #Criminal"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:29 +0000 2020",
+		"id": 1300811148397174800,
+		"id_str": "1301536299942248450",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/AECrLRyopc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmgIA5F",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300736888228049000,
+					"id_str": "1300736888228048896",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0lTukUcAAvu4q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0lTukUcAAvu4q.jpg",
+					"url": "https://t.co/AECrLRyopc",
+					"display_url": "pic.twitter.com/AECrLRyopc",
+					"expanded_url": "https://twitter.com/SHINee/status/1300811148397174784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300736888228049000,
+					"id_str": "1300736888228048896",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0lTukUcAAvu4q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0lTukUcAAvu4q.jpg",
+					"url": "https://t.co/AECrLRyopc",
+					"display_url": "pic.twitter.com/AECrLRyopc",
+					"expanded_url": "https://twitter.com/SHINee/status/1300811148397174784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13720,
+		"favorite_count": 38681,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/AECrLRyopc"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:28 +0000 2020",
+		"id": 1300810896743174100,
+		"id_str": "1301536292434452480",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/sstnq6osYU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmgIA5F",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300736866442907600,
+					"id_str": "1300736866442907648",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0lSdaVkAAObqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0lSdaVkAAObqH.jpg",
+					"url": "https://t.co/sstnq6osYU",
+					"display_url": "pic.twitter.com/sstnq6osYU",
+					"expanded_url": "https://twitter.com/SHINee/status/1300810896743174145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300736866442907600,
+					"id_str": "1300736866442907648",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0lSdaVkAAObqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0lSdaVkAAObqH.jpg",
+					"url": "https://t.co/sstnq6osYU",
+					"display_url": "pic.twitter.com/sstnq6osYU",
+					"expanded_url": "https://twitter.com/SHINee/status/1300810896743174145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13545,
+		"favorite_count": 37183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmgIA5F\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/sstnq6osYU"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:26 +0000 2020",
+		"id": 1300810645408034800,
+		"id_str": "1301536284213571584",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/6cnoRBnKjS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmh0buf",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300736836805881900,
+					"id_str": "1300736836805881856",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0lQvAUcAAUsCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0lQvAUcAAUsCR.jpg",
+					"url": "https://t.co/6cnoRBnKjS",
+					"display_url": "pic.twitter.com/6cnoRBnKjS",
+					"expanded_url": "https://twitter.com/SHINee/status/1300810645408034816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300736836805881900,
+					"id_str": "1300736836805881856",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg0lQvAUcAAUsCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg0lQvAUcAAUsCR.jpg",
+					"url": "https://t.co/6cnoRBnKjS",
+					"display_url": "pic.twitter.com/6cnoRBnKjS",
+					"expanded_url": "https://twitter.com/SHINee/status/1300810645408034816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13566,
+		"favorite_count": 40145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/6cnoRBnKjS"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:23 +0000 2020",
+		"id": 1300449012584198100,
+		"id_str": "1301536274470191105",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/9dmPiJM2HA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmh0buf",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300427639241359400,
+					"id_str": "1300427639241359361",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwMDEUUwAEZI1F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwMDEUUwAEZI1F.jpg",
+					"url": "https://t.co/9dmPiJM2HA",
+					"display_url": "pic.twitter.com/9dmPiJM2HA",
+					"expanded_url": "https://twitter.com/SHINee/status/1300449012584198146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300427639241359400,
+					"id_str": "1300427639241359361",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwMDEUUwAEZI1F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwMDEUUwAEZI1F.jpg",
+					"url": "https://t.co/9dmPiJM2HA",
+					"display_url": "pic.twitter.com/9dmPiJM2HA",
+					"expanded_url": "https://twitter.com/SHINee/status/1300449012584198146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13678,
+		"favorite_count": 37556,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/9dmPiJM2HA"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:22 +0000 2020",
+		"id": 1300448760598847500,
+		"id_str": "1301536266987515904",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/2MJ0kDW7F6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmh0buf",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300427631775498200,
+					"id_str": "1300427631775498241",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwMCogUwAEFQh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwMCogUwAEFQh7.jpg",
+					"url": "https://t.co/2MJ0kDW7F6",
+					"display_url": "pic.twitter.com/2MJ0kDW7F6",
+					"expanded_url": "https://twitter.com/SHINee/status/1300448760598847490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300427631775498200,
+					"id_str": "1300427631775498241",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwMCogUwAEFQh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwMCogUwAEFQh7.jpg",
+					"url": "https://t.co/2MJ0kDW7F6",
+					"display_url": "pic.twitter.com/2MJ0kDW7F6",
+					"expanded_url": "https://twitter.com/SHINee/status/1300448760598847490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14818,
+		"favorite_count": 41049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/2MJ0kDW7F6"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:19 +0000 2020",
+		"id": 1300448509318115300,
+		"id_str": "1301536257260965891",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/zWtrYnjkDL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmh0buf",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300427615375782000,
+					"id_str": "1300427615375781898",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwMBraU8Aoghbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwMBraU8Aoghbd.jpg",
+					"url": "https://t.co/zWtrYnjkDL",
+					"display_url": "pic.twitter.com/zWtrYnjkDL",
+					"expanded_url": "https://twitter.com/SHINee/status/1300448509318115328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300427615375782000,
+					"id_str": "1300427615375781898",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwMBraU8Aoghbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwMBraU8Aoghbd.jpg",
+					"url": "https://t.co/zWtrYnjkDL",
+					"display_url": "pic.twitter.com/zWtrYnjkDL",
+					"expanded_url": "https://twitter.com/SHINee/status/1300448509318115328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13687,
+		"favorite_count": 38539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/zWtrYnjkDL"
+	},
+	{
+		"created_at": "Thu Sep 03 15:03:17 +0000 2020",
+		"id": 1300448268325974000,
+		"id_str": "1301536249677639680",
+		"full_text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/Fk0PQL4gto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						133,
+						154
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNROmh0buf",
+					"expanded_url": "http://taemin.smtown.com",
+					"display_url": "taemin.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300427629325987800,
+					"id_str": "1300427629325987840",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwMCfYUMAA2qO5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwMCfYUMAA2qO5.jpg",
+					"url": "https://t.co/Fk0PQL4gto",
+					"display_url": "pic.twitter.com/Fk0PQL4gto",
+					"expanded_url": "https://twitter.com/SHINee/status/1300448268325974016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300427629325987800,
+					"id_str": "1300427629325987840",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwMCfYUMAA2qO5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwMCfYUMAA2qO5.jpg",
+					"url": "https://t.co/Fk0PQL4gto",
+					"display_url": "pic.twitter.com/Fk0PQL4gto",
+					"expanded_url": "https://twitter.com/SHINee/status/1300448268325974016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361189,
+			"friends_count": 2,
+			"listed_count": 3102,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17452,
+		"favorite_count": 53152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Album [Never Gonna Dance Again : Act 1]\n\n🎧 2020.09.07. 6PM KST\n👉 https://t.co/jNROmh0buf\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal https://t.co/Fk0PQL4gto"
+	},
+	{
 		"created_at": "Thu Sep 03 14:58:19 +0000 2020",
 		"id": 1301534998835601400,
 		"id_str": "1301534998835601408",
