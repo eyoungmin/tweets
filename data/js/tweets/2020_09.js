@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 12:08:23 +0000 2020",
+		"id": 1301852512702652400,
+		"id_str": "1301854621107761152",
+		"full_text": "와~ 첫 소절 듣고 표정 ㅇㅁㅇ \n찐 음색 여신😍 조이가 ‘#조이’했다 진짜루...ㅠㅠ\n#레드벨벳 #redvelvet #스케치북 #유희열의스케치북 https://t.co/YvGQ3HGNcM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "스케치북",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301674549625282600,
+					"id_str": "1301674549625282565",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EhCAVwTU4AASY7c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhCAVwTU4AASY7c.jpg",
+					"url": "https://t.co/YvGQ3HGNcM",
+					"display_url": "pic.twitter.com/YvGQ3HGNcM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1301852512702652418/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1250,
+							"h": 702,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301674549625282600,
+					"id_str": "1301674549625282565",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EhCAVwTU4AASY7c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhCAVwTU4AASY7c.jpg",
+					"url": "https://t.co/YvGQ3HGNcM",
+					"display_url": "pic.twitter.com/YvGQ3HGNcM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1301852512702652418/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1250,
+							"h": 702,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 105856,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301674549625282565/vid/640x360/QkduRJOurB3bXK_Z.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301674549625282565/vid/1280x720/6cuWtx344RU93-Yv.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301674549625282565/vid/480x270/1K2vA_XV_Fn7zj1j.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1301674549625282565/pl/nTWxDYNAvZObWL5z.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1083148,
+			"friends_count": 58948,
+			"listed_count": 2017,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1598405514",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 575,
+		"favorite_count": 827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와~ 첫 소절 듣고 표정 ㅇㅁㅇ \n찐 음색 여신😍 조이가 ‘#조이’했다 진짜루...ㅠㅠ\n#레드벨벳 #redvelvet #스케치북 #유희열의스케치북 https://t.co/YvGQ3HGNcM"
+	},
+	{
 		"created_at": "Fri Sep 04 11:55:08 +0000 2020",
 		"id": 1301851287257051100,
 		"id_str": "1301851287257051136",
