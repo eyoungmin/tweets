@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 07:45:02 +0000 2020",
+		"id": 1301784563358658600,
+		"id_str": "1301788345748594689",
+		"full_text": "💜 HYO V-LOG : 효연의 #DESSERT 음악방송 브이로그 💗  \n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #디저트 #소녀시대 #GirlsGeneration #HYO_VLOG https://t.co/IbRXNWP4vf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DESSERT",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "HYO_DESSERT",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"text": "효연_디저트",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "HYO_VLOG",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301741903134691300,
+					"id_str": "1301741903134691329",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EhDJIx7VkAEwXPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhDJIx7VkAEwXPs.jpg",
+					"url": "https://t.co/IbRXNWP4vf",
+					"display_url": "pic.twitter.com/IbRXNWP4vf",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1301784563358658561/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301741903134691300,
+					"id_str": "1301741903134691329",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EhDJIx7VkAEwXPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhDJIx7VkAEwXPs.jpg",
+					"url": "https://t.co/IbRXNWP4vf",
+					"display_url": "pic.twitter.com/IbRXNWP4vf",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1301784563358658561/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 375742,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301741903134691329/vid/480x270/UUPNdKNyTOWPQOzh.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301741903134691329/vid/1280x720/OotgS_7ETYPC5sXB.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1301741903134691329/vid/640x360/AZhctDt8dmPhNLJc.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1301741903134691329/pl/cfQBgczHsoKb7Nq7.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3550459,
+			"friends_count": 4,
+			"listed_count": 5036,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1385,
+		"favorite_count": 2561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜 HYO V-LOG : 효연의 #DESSERT 음악방송 브이로그 💗  \n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #디저트 #소녀시대 #GirlsGeneration #HYO_VLOG https://t.co/IbRXNWP4vf"
+	},
+	{
+		"created_at": "Fri Sep 04 07:44:56 +0000 2020",
+		"id": 1301782718447976400,
+		"id_str": "1301788319999815680",
+		"full_text": "🖤BLACKPINK’s Ice Cream Collection💖\n\nThe look from the ‘Ice Cream’ music video is now here!🍦\nPut on Ice Cream items and get your unique signed videos with BLACKPINK in the Virtual Fansign!\n\n👉 Enter Now: https://t.co/XSQOZ2tEoB\n\n#BLACKPINK #블랙핑크 #ZEPETO #ICECREAM #YG https://t.co/xYVZJQtW1u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						227,
+						237
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						238,
+						243
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						244,
+						251
+					]
+				},
+				{
+					"text": "ICECREAM",
+					"indices": [
+						252,
+						261
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						262,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XSQOZ2tEoB",
+					"expanded_url": "http://bit.ly/2R2xLBX",
+					"display_url": "bit.ly/2R2xLBX",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301782240997773300,
+					"id_str": "1301782240997773313",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EhDcDRGVkAE21Nq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhDcDRGVkAE21Nq.jpg",
+					"url": "https://t.co/xYVZJQtW1u",
+					"display_url": "pic.twitter.com/xYVZJQtW1u",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301782718447976448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301782240997773300,
+					"id_str": "1301782240997773313",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EhDcDRGVkAE21Nq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhDcDRGVkAE21Nq.jpg",
+					"url": "https://t.co/xYVZJQtW1u",
+					"display_url": "pic.twitter.com/xYVZJQtW1u",
+					"expanded_url": "https://twitter.com/ygent_official/status/1301782718447976448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6621030,
+			"friends_count": 38,
+			"listed_count": 6739,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4697,
+		"favorite_count": 19972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🖤BLACKPINK’s Ice Cream Collection💖\n\nThe look from the ‘Ice Cream’ music video is now here!🍦\nPut on Ice Cream items and get your unique signed videos with BLACKPINK in the Virtual Fansign!\n\n👉 Enter Now: https://t.co/XSQOZ2tEoB\n\n#BLACKPINK #블랙핑크 #ZEPETO #ICECREAM #YG https://t.co/xYVZJQtW1u"
+	},
+	{
+		"created_at": "Fri Sep 04 07:17:30 +0000 2020",
+		"id": 1301781415391105000,
+		"id_str": "1301781415391105025",
+		"full_text": "#팩트체크 #SNU팩트체크\n\"음성 판정을 받은 사람에게 자가격리 명령을 내릴 수 있는 권한은 그 어디에도 없다\"\n▶ 전혀 사실 아님\nhttps://t.co/4ktz6Q8GtP\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ktz6Q8GtP",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2495",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n\"음성 판정을 받은 사람에게 자가격리 명령을 내릴 수 있는 권한은 그 어디에도 없다\"\n▶ 전혀 사실 아님\nhttps://t.co/4ktz6Q8GtP\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Fri Sep 04 06:17:21 +0000 2020",
 		"id": 1301766278613479400,
 		"id_str": "1301766278613479425",
