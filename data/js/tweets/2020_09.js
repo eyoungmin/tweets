@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 15:58:01 +0000 2020",
+		"id": 1301901855149228000,
+		"id_str": "1301912411482419201",
+		"full_text": "Thanks for the love on Open Your Heart @applemusic 💙https://t.co/t94w5BTSMe 💙 https://t.co/eMydXslzPa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t94w5BTSMe",
+					"expanded_url": "https://birdy.lnk.to/Todays-Acoustic",
+					"display_url": "birdy.lnk.to/Todays-Acoustic",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301901648491688000,
+					"id_str": "1301901648491687942",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301901648491687942/pu/img/uPFB8DWpUTN4nyz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301901648491687942/pu/img/uPFB8DWpUTN4nyz8.jpg",
+					"url": "https://t.co/eMydXslzPa",
+					"display_url": "pic.twitter.com/eMydXslzPa",
+					"expanded_url": "https://twitter.com/birdy/status/1301901855149228038/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301901648491688000,
+					"id_str": "1301901648491687942",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301901648491687942/pu/img/uPFB8DWpUTN4nyz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301901648491687942/pu/img/uPFB8DWpUTN4nyz8.jpg",
+					"url": "https://t.co/eMydXslzPa",
+					"display_url": "pic.twitter.com/eMydXslzPa",
+					"expanded_url": "https://twitter.com/birdy/status/1301901855149228038/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15125,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1301901648491687942/pu/pl/SR_lAw_OpXHzR3uD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301901648491687942/pu/vid/480x480/SIsQRCvmQK5VWppO.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301901648491687942/pu/vid/720x720/nsS4VIFbiYdlnF1E.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301901648491687942/pu/vid/320x320/83JcmyhJz1U-aSxY.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Singer-songwriter. Open Your Heart out now https://t.co/B5OFhPTzJV",
+			"url": "https://t.co/5OSaa8I9LG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OSaa8I9LG",
+							"expanded_url": "http://youtube.com/officialbirdy",
+							"display_url": "youtube.com/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/B5OFhPTzJV",
+							"expanded_url": "https://birdy.lnk.to/Open-Your-Heart",
+							"display_url": "birdy.lnk.to/Open-Your-Heart",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 325795,
+			"friends_count": 185,
+			"listed_count": 1199,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301810655259918336/A4Y7JRf6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301810655259918336/A4Y7JRf6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1599207405",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for the love on Open Your Heart @applemusic 💙https://t.co/t94w5BTSMe 💙 https://t.co/eMydXslzPa"
+	},
+	{
+		"created_at": "Fri Sep 04 15:57:59 +0000 2020",
+		"id": 1301795414815969300,
+		"id_str": "1301912400682049541",
+		"full_text": "I wrote Open Your Heart with the wonderful Rick Nowles in LA a few years ago. It’s always held a special place for me and I’m so happy to finally set it free. I hope you love it 🦋 https://t.co/d9te6uSXhN https://t.co/lMvs2UAXTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d9te6uSXhN",
+					"expanded_url": "https://birdy.lnk.to/Open-Your-Heart",
+					"display_url": "birdy.lnk.to/Open-Your-Heart",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301794504505274400,
+					"id_str": "1301794504505274370",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301794504505274370/pu/img/qd01ixLP-vQRBRAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301794504505274370/pu/img/qd01ixLP-vQRBRAj.jpg",
+					"url": "https://t.co/lMvs2UAXTo",
+					"display_url": "pic.twitter.com/lMvs2UAXTo",
+					"expanded_url": "https://twitter.com/birdy/status/1301795414815969280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301794504505274400,
+					"id_str": "1301794504505274370",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301794504505274370/pu/img/qd01ixLP-vQRBRAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301794504505274370/pu/img/qd01ixLP-vQRBRAj.jpg",
+					"url": "https://t.co/lMvs2UAXTo",
+					"display_url": "pic.twitter.com/lMvs2UAXTo",
+					"expanded_url": "https://twitter.com/birdy/status/1301795414815969280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301794504505274370/pu/vid/640x360/TZO5i7wrKZG-DazG.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1301794504505274370/pu/pl/ZTwOzhgaIeU8S_d_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301794504505274370/pu/vid/480x270/m0EpmUcGiqjDwOQd.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301794504505274370/pu/vid/1280x720/btejbcK2MEpxetFl.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Singer-songwriter. Open Your Heart out now https://t.co/B5OFhPTzJV",
+			"url": "https://t.co/5OSaa8I9LG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OSaa8I9LG",
+							"expanded_url": "http://youtube.com/officialbirdy",
+							"display_url": "youtube.com/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/B5OFhPTzJV",
+							"expanded_url": "https://birdy.lnk.to/Open-Your-Heart",
+							"display_url": "birdy.lnk.to/Open-Your-Heart",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 325795,
+			"friends_count": 185,
+			"listed_count": 1199,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301810655259918336/A4Y7JRf6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301810655259918336/A4Y7JRf6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1599207405",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 379,
+		"favorite_count": 1161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote Open Your Heart with the wonderful Rick Nowles in LA a few years ago. It’s always held a special place for me and I’m so happy to finally set it free. I hope you love it 🦋 https://t.co/d9te6uSXhN https://t.co/lMvs2UAXTo"
+	},
+	{
 		"created_at": "Fri Sep 04 12:08:23 +0000 2020",
 		"id": 1301852512702652400,
 		"id_str": "1301854621107761152",
