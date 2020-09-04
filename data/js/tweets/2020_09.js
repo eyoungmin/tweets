@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 01:59:37 +0000 2020",
+		"id": 1301701418550808600,
+		"id_str": "1301701418550808578",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 첫 정규앨범, 예판 6일 만에 선주문 80만장…K팝 걸그룹 ‘최다 초동’ 청신호\nhttps://t.co/7lth95rDfh\n#블랙핑크 #BLACKPINK https://t.co/ToPnqVy54J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7lth95rDfh",
+					"expanded_url": "https://yg-life.com/archives/159145?lang=ko",
+					"display_url": "yg-life.com/archives/15914…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301701417544159200,
+					"id_str": "1301701417544159235",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EhCSiuRXkAMX7xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhCSiuRXkAMX7xZ.jpg",
+					"url": "https://t.co/ToPnqVy54J",
+					"display_url": "pic.twitter.com/ToPnqVy54J",
+					"expanded_url": "https://twitter.com/fromminn/status/1301701418550808578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 472,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301701417544159200,
+					"id_str": "1301701417544159235",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EhCSiuRXkAMX7xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhCSiuRXkAMX7xZ.jpg",
+					"url": "https://t.co/ToPnqVy54J",
+					"display_url": "pic.twitter.com/ToPnqVy54J",
+					"expanded_url": "https://twitter.com/fromminn/status/1301701418550808578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 472,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 첫 정규앨범, 예판 6일 만에 선주문 80만장…K팝 걸그룹 ‘최다 초동’ 청신호\nhttps://t.co/7lth95rDfh\n#블랙핑크 #BLACKPINK https://t.co/ToPnqVy54J"
+	},
+	{
+		"created_at": "Fri Sep 04 01:59:35 +0000 2020",
+		"id": 1301701410606780400,
+		"id_str": "1301701410606780417",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘How You Like That’ 유튜브 2020 글로벌 톱 섬머 송 차트 정상\nhttps://t.co/w2ipaQLLt4\n#블랙핑크 #BLACKPINK https://t.co/RUi5uwtHgE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w2ipaQLLt4",
+					"expanded_url": "https://yg-life.com/archives/159140?lang=ko",
+					"display_url": "yg-life.com/archives/15914…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301701409377865700,
+					"id_str": "1301701409377865729",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EhCSiP2X0AEssMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhCSiP2X0AEssMS.jpg",
+					"url": "https://t.co/RUi5uwtHgE",
+					"display_url": "pic.twitter.com/RUi5uwtHgE",
+					"expanded_url": "https://twitter.com/fromminn/status/1301701410606780417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 325,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 325,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 325,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301701409377865700,
+					"id_str": "1301701409377865729",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EhCSiP2X0AEssMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhCSiP2X0AEssMS.jpg",
+					"url": "https://t.co/RUi5uwtHgE",
+					"display_url": "pic.twitter.com/RUi5uwtHgE",
+					"expanded_url": "https://twitter.com/fromminn/status/1301701410606780417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 325,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 325,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 325,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘How You Like That’ 유튜브 2020 글로벌 톱 섬머 송 차트 정상\nhttps://t.co/w2ipaQLLt4\n#블랙핑크 #BLACKPINK https://t.co/RUi5uwtHgE"
+	},
+	{
+		"created_at": "Fri Sep 04 01:44:56 +0000 2020",
+		"id": 1301688839375741000,
+		"id_str": "1301697724086202368",
+		"full_text": "[#예술경영 웹진 : 현장읽기] \n\n&lt;포스트 코로나 시대, 지속가능한 공연 생태계 조건&gt;\n\n452호 현장읽기 더보기👇\nhttps://t.co/zEDFLfMwPK\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/h2zTdHhOCv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zEDFLfMwPK",
+					"expanded_url": "https://bit.ly/2EVOVP4",
+					"display_url": "bit.ly/2EVOVP4",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301688820111302700,
+					"id_str": "1301688820111302657",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EhCHFdLU4AE8JmN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhCHFdLU4AE8JmN.png",
+					"url": "https://t.co/h2zTdHhOCv",
+					"display_url": "pic.twitter.com/h2zTdHhOCv",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1301688839375740929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 302,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 773,
+							"h": 343,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301688820111302700,
+					"id_str": "1301688820111302657",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EhCHFdLU4AE8JmN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhCHFdLU4AE8JmN.png",
+					"url": "https://t.co/h2zTdHhOCv",
+					"display_url": "pic.twitter.com/h2zTdHhOCv",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1301688839375740929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 302,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 773,
+							"h": 343,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6782,
+			"friends_count": 3015,
+			"listed_count": 102,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 현장읽기] \n\n&lt;포스트 코로나 시대, 지속가능한 공연 생태계 조건&gt;\n\n452호 현장읽기 더보기👇\nhttps://t.co/zEDFLfMwPK\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/h2zTdHhOCv"
+	},
+	{
 		"created_at": "Thu Sep 03 23:45:00 +0000 2020",
 		"id": 1301655137476198400,
 		"id_str": "1301667541966872579",
