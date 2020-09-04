@@ -1,6 +1,856 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 09:47:13 +0000 2020",
+		"id": 1301819093381677000,
+		"id_str": "1301819093381677056",
+		"full_text": "#BBC코리아\n코로나19: 제과점도 포장,배달만...수도권 ‘2.5단계’ 거리두기 일주일 연장\nhttps://t.co/2vtVipkRhM\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2vtVipkRhM",
+					"expanded_url": "https://www.bbc.com/korean/news-54025342",
+					"display_url": "bbc.com/korean/news-54…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 제과점도 포장,배달만...수도권 ‘2.5단계’ 거리두기 일주일 연장\nhttps://t.co/2vtVipkRhM\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Sep 04 09:45:04 +0000 2020",
+		"id": 1301811551670661000,
+		"id_str": "1301818554556219393",
+		"full_text": "B1A4, 오마이걸 (OH MY GIRL), 온앤오프 (ONF) 'HELLO! WM' Released!\n❤️https://t.co/lFghG9Kxbb https://t.co/V8rtHSSoyy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lFghG9Kxbb",
+					"expanded_url": "https://www.facebook.com/942907422391026/posts/3871658622849210/",
+					"display_url": "facebook.com/94290742239102…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301811544703991800,
+					"id_str": "1301811544703991808",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EhD2s96VgAAU3F1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhD2s96VgAAU3F1.jpg",
+					"url": "https://t.co/V8rtHSSoyy",
+					"display_url": "pic.twitter.com/V8rtHSSoyy",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1301811551670661121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301811544703991800,
+					"id_str": "1301811544703991808",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EhD2s96VgAAU3F1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhD2s96VgAAU3F1.jpg",
+					"url": "https://t.co/V8rtHSSoyy",
+					"display_url": "pic.twitter.com/V8rtHSSoyy",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1301811551670661121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6696,
+			"friends_count": 0,
+			"listed_count": 48,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "B1A4, 오마이걸 (OH MY GIRL), 온앤오프 (ONF) 'HELLO! WM' Released!\n❤️https://t.co/lFghG9Kxbb https://t.co/V8rtHSSoyy"
+	},
+	{
+		"created_at": "Fri Sep 04 09:45:01 +0000 2020",
+		"id": 1301811387509796900,
+		"id_str": "1301818541482668033",
+		"full_text": "(서울시재대본) 제10호 태풍 '하이선' 관련하여 제9호 태풍 '마이삭'보다 서울에 인접하여 지나는 것으로 예상되오니 노후된 간판은 철거, 베란다 화분은 집안에 들여놓기, 지붕 위 날리는 것은 미리 단단히 고정해주시기 등 사전에 선제적 조치를 해주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4142,
+			"friends_count": 919,
+			"listed_count": 37,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(서울시재대본) 제10호 태풍 '하이선' 관련하여 제9호 태풍 '마이삭'보다 서울에 인접하여 지나는 것으로 예상되오니 노후된 간판은 철거, 베란다 화분은 집안에 들여놓기, 지붕 위 날리는 것은 미리 단단히 고정해주시기 등 사전에 선제적 조치를 해주시기 바랍니다."
+	},
+	{
+		"created_at": "Fri Sep 04 09:44:56 +0000 2020",
+		"id": 1301810117466226700,
+		"id_str": "1301818519999393792",
+		"full_text": "(서울시재대본) 제10호 태풍 '하이선' 관련하여 현재 제9호 태풍 '마이삭'보다 서울에 인접하여 지나는 것으로 예상되오니 노후된 간판은 철거, 베란다 화분은 집안에 들여놓기 등 사전에 선제적 조치를 해주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4142,
+			"friends_count": 919,
+			"listed_count": 37,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(서울시재대본) 제10호 태풍 '하이선' 관련하여 현재 제9호 태풍 '마이삭'보다 서울에 인접하여 지나는 것으로 예상되오니 노후된 간판은 철거, 베란다 화분은 집안에 들여놓기 등 사전에 선제적 조치를 해주시기 바랍니다."
+	},
+	{
+		"created_at": "Fri Sep 04 09:43:32 +0000 2020",
+		"id": 1301818168139223000,
+		"id_str": "1301818168139223040",
+		"full_text": "#HYOYEON_STYLE\n💜 HYO V-LOG : 효연의 #DESSERT 음악방송 브이로그 💗\nhttps://t.co/yNd3Xdomv1\n　\n#소녀시대 #GirlsGeneration\n#효연 #Hyoyeon #김효연 #HYOYEON_KIM\n#DJ_HYO #HYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON_STYLE",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "Hyoyeon",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "김효연",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "HYOYEON_KIM",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yNd3Xdomv1",
+					"expanded_url": "https://youtu.be/Fwg0JAL9YKE",
+					"display_url": "youtu.be/Fwg0JAL9YKE",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#HYOYEON_STYLE\n💜 HYO V-LOG : 효연의 #DESSERT 음악방송 브이로그 💗\nhttps://t.co/yNd3Xdomv1\n　\n#소녀시대 #GirlsGeneration\n#효연 #Hyoyeon #김효연 #HYOYEON_KIM\n#DJ_HYO #HYO"
+	},
+	{
+		"created_at": "Fri Sep 04 09:38:15 +0000 2020",
+		"id": 1301816839870312400,
+		"id_str": "1301816839870312449",
+		"full_text": "[뒤풀이] 스쿰빗 스위밍! 온앤오프가 남국의 정취에 흠뻑 취하게 해드립니다 / 온앤오프 (ONF) - Sukhumvit Swimming\nhttps://t.co/ABg99m6zHG\n#MonoTree #모노트리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonoTree",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ABg99m6zHG",
+					"expanded_url": "https://youtu.be/jp62mSga2S0",
+					"display_url": "youtu.be/jp62mSga2S0",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[뒤풀이] 스쿰빗 스위밍! 온앤오프가 남국의 정취에 흠뻑 취하게 해드립니다 / 온앤오프 (ONF) - Sukhumvit Swimming\nhttps://t.co/ABg99m6zHG\n#MonoTree #모노트리"
+	},
+	{
+		"created_at": "Fri Sep 04 09:18:01 +0000 2020",
+		"id": 1301811747817390000,
+		"id_str": "1301811747817390080",
+		"full_text": "Birdy - Open Your Heart [Official Video]\nhttps://t.co/NWy3gufovc\n#Birdy #버디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Birdy",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "버디",
+					"indices": [
+						72,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NWy3gufovc",
+					"expanded_url": "https://youtu.be/Y-_2Ku0bYAM",
+					"display_url": "youtu.be/Y-_2Ku0bYAM",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Birdy - Open Your Heart [Official Video]\nhttps://t.co/NWy3gufovc\n#Birdy #버디"
+	},
+	{
 		"created_at": "Fri Sep 04 08:22:12 +0000 2020",
 		"id": 1301797700338413600,
 		"id_str": "1301797700338413570",
