@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 12:49:50 +0000 2020",
+		"id": 1302190542713811000,
+		"id_str": "1302227439637032960",
+		"full_text": "국립극장 여우락 페스티벌 공연을 3개월 정도 빡세게 준비했기 때문에(ㅠ_ㅠ) 전체 무대를 다 보여드리고 싶지만 페스티벌 정책상 그럴 수가 없답니다. 유튜브에 올린 곡은 네 곡 뿐이지만 즐감해주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "금융예술인🔥의뢰|문의 📧 info.langlee@gmail.com 📧日本の仕事はinfo.sweetdreams@gmail.com STAFF @info_langlee",
+			"url": "https://t.co/CxKklAUBvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CxKklAUBvk",
+							"expanded_url": "http://www.youtube.com/langleeschool",
+							"display_url": "youtube.com/langleeschool",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31568,
+			"friends_count": 1031,
+			"listed_count": 172,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "국립극장 여우락 페스티벌 공연을 3개월 정도 빡세게 준비했기 때문에(ㅠ_ㅠ) 전체 무대를 다 보여드리고 싶지만 페스티벌 정책상 그럴 수가 없답니다. 유튜브에 올린 곡은 네 곡 뿐이지만 즐감해주세요."
+	},
+	{
+		"created_at": "Sat Sep 05 12:49:44 +0000 2020",
+		"id": 1302184698488205300,
+		"id_str": "1302227414844452869",
+		"full_text": "전 세계 숲의 생생한 소리를 골라서 들어볼 수 있는 웹사이트가 있다\nhttps://t.co/qEsNqGbwb4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qEsNqGbwb4",
+					"expanded_url": "http://www.hani.co.kr/arti/science/future/960857.html",
+					"display_url": "hani.co.kr/arti/science/f…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문, 한겨레 공식 트위터입니다. https://t.co/gaFSERTpRb",
+			"url": "https://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gaFSERTpRb",
+							"expanded_url": "http://youtube.com/hanitv",
+							"display_url": "youtube.com/hanitv",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 545709,
+			"friends_count": 138248,
+			"listed_count": 7172,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전 세계 숲의 생생한 소리를 골라서 들어볼 수 있는 웹사이트가 있다\nhttps://t.co/qEsNqGbwb4"
+	},
+	{
 		"created_at": "Sat Sep 05 11:10:37 +0000 2020",
 		"id": 1302177462017650700,
 		"id_str": "1302202469896744960",
