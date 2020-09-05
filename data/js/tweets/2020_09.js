@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 13:56:20 +0000 2020",
+		"id": 1301822315148107800,
+		"id_str": "1302244175614681088",
+		"full_text": "[#청담Key친 I CHEONGDAM KEYchin] ep3-4 Key와 태연의 라떼 시절 추억 이야기\n\nKey와 #태연 의 추억 여행\n연습생 시절 이야기부터 그룹 활동 비하인드 스토리까지!\n\n👉https://t.co/y7ZmQAXk0u\n\n매주 금요일 SM C&amp;C STUDIO 에서 만나요🍽\n\n#CHEONGDAM #Key #샤이니 #SHINee #SMCC_STUDIO https://t.co/29gjoFM2NA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청담Key친",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "CHEONGDAM",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "Key",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						189,
+						196
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						197,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y7ZmQAXk0u",
+					"expanded_url": "https://youtu.be/ekshKzxgHog",
+					"display_url": "youtu.be/ekshKzxgHog",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300660139448361000,
+					"id_str": "1300660139448360961",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzfgXFUYAEf0WW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzfgXFUYAEf0WW.jpg",
+					"url": "https://t.co/29gjoFM2NA",
+					"display_url": "pic.twitter.com/29gjoFM2NA",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1301822315148107776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300660139448361000,
+					"id_str": "1300660139448360961",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EgzfgXFUYAEf0WW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgzfgXFUYAEf0WW.jpg",
+					"url": "https://t.co/29gjoFM2NA",
+					"display_url": "pic.twitter.com/29gjoFM2NA",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1301822315148107776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n💙슈주 리턴즈4 \n🟢NCT LIFE: DREAM in Wonderland \n♥️레벨업 아슬한 프로젝트",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11862,
+			"friends_count": 0,
+			"listed_count": 35,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1298213648922316801/cK_qY6if_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298213648922316801/cK_qY6if_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1598353231",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 405,
+		"favorite_count": 724,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청담Key친 I CHEONGDAM KEYchin] ep3-4 Key와 태연의 라떼 시절 추억 이야기\n\nKey와 #태연 의 추억 여행\n연습생 시절 이야기부터 그룹 활동 비하인드 스토리까지!\n\n👉https://t.co/y7ZmQAXk0u\n\n매주 금요일 SM C&amp;C STUDIO 에서 만나요🍽\n\n#CHEONGDAM #Key #샤이니 #SHINee #SMCC_STUDIO https://t.co/29gjoFM2NA"
+	},
+	{
+		"created_at": "Sat Sep 05 13:55:10 +0000 2020",
+		"id": 1301717875317637000,
+		"id_str": "1302243880809578497",
+		"full_text": "더블유 10월호에서 공개될 #루이비통 X #태연 화보 컷 선공개 #LouisVuitton #TaeYeon \nhttps://t.co/ELSAB1bogB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루이비통",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "LouisVuitton",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"text": "TaeYeon",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ELSAB1bogB",
+					"expanded_url": "http://www.wkorea.com/2020/09/04/%EB%A3%A8%EC%9D%B4%EB%B9%84%ED%86%B5-x-%ED%83%9C%EC%97%B0-louis-vuitton-x-tae-yeon/?ddw=74827&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2020/09/04/%EB…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "Conceptual Trend Magazine 'W Korea' 공식 트위터 계정입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247763,
+			"friends_count": 0,
+			"listed_count": 764,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 3624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1597809545",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 856,
+		"favorite_count": 1280,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더블유 10월호에서 공개될 #루이비통 X #태연 화보 컷 선공개 #LouisVuitton #TaeYeon \nhttps://t.co/ELSAB1bogB"
+	},
+	{
+		"created_at": "Sat Sep 05 13:44:55 +0000 2020",
+		"id": 1302234642976653300,
+		"id_str": "1302241303590252545",
+		"full_text": "#BLACKPINK '뚜두뚜두 (DDU-DU DDU-DU)' M/V HITS 1.3 BILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n '뚜두뚜두 (DDU-DU DDU-DU)' M/V\n🎥https://t.co/1kRIxsusvJ\n\n#블랙핑크 #DDU_DU_DDU_DU #뚜두뚜두 #MV #1_3BILLION #YOUTUBE #YG https://t.co/aNQbJRQ1I1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "DDU_DU_DDU_DU",
+					"indices": [
+						168,
+						182
+					]
+				},
+				{
+					"text": "뚜두뚜두",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "1_3BILLION",
+					"indices": [
+						193,
+						204
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						205,
+						213
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						214,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1kRIxsusvJ",
+					"expanded_url": "https://youtu.be/IHNzOHi8sJs",
+					"display_url": "youtu.be/IHNzOHi8sJs",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302233864216047600,
+					"id_str": "1302233864216047616",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EhJ2zMsU8AAXQIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhJ2zMsU8AAXQIH.jpg",
+					"url": "https://t.co/aNQbJRQ1I1",
+					"display_url": "pic.twitter.com/aNQbJRQ1I1",
+					"expanded_url": "https://twitter.com/ygent_official/status/1302234642976653312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302233864216047600,
+					"id_str": "1302233864216047616",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EhJ2zMsU8AAXQIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhJ2zMsU8AAXQIH.jpg",
+					"url": "https://t.co/aNQbJRQ1I1",
+					"display_url": "pic.twitter.com/aNQbJRQ1I1",
+					"expanded_url": "https://twitter.com/ygent_official/status/1302234642976653312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6626406,
+			"friends_count": 38,
+			"listed_count": 6733,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20397,
+		"favorite_count": 56931,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK '뚜두뚜두 (DDU-DU DDU-DU)' M/V HITS 1.3 BILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n '뚜두뚜두 (DDU-DU DDU-DU)' M/V\n🎥https://t.co/1kRIxsusvJ\n\n#블랙핑크 #DDU_DU_DDU_DU #뚜두뚜두 #MV #1_3BILLION #YOUTUBE #YG https://t.co/aNQbJRQ1I1"
+	},
+	{
 		"created_at": "Sat Sep 05 12:49:50 +0000 2020",
 		"id": 1302190542713811000,
 		"id_str": "1302227439637032960",
