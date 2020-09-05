@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 08:44:56 +0000 2020",
+		"id": 1302163725235839000,
+		"id_str": "1302165807200436224",
+		"full_text": "[#ViVi] 요즘에 책 읽기 시작했는데 한국어다 보니까 되게 느리게 읽는 중이지만 ㅎㅎ 공감도 많이 되고 너무 재밌어요 역시 책은 대단해요 ㅎㅎ 한 달 안에 다 읽을 수 있을까요ㅇㅅㅇ!? 오빛❤️은 좋아하는 책이 뭐예요!?\n\n#이달의소녀 #LOONA https://t.co/MwpEjHSmkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302163711747002400,
+					"id_str": "1302163711747002373",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EhI2_yYVkAU4pis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhI2_yYVkAU4pis.jpg",
+					"url": "https://t.co/MwpEjHSmkU",
+					"display_url": "pic.twitter.com/MwpEjHSmkU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1302163725235838977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302163711747002400,
+					"id_str": "1302163711747002373",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EhI2_yYVkAU4pis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhI2_yYVkAU4pis.jpg",
+					"url": "https://t.co/MwpEjHSmkU",
+					"display_url": "pic.twitter.com/MwpEjHSmkU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1302163725235838977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 516779,
+			"friends_count": 0,
+			"listed_count": 5412,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4046,
+		"favorite_count": 9373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#ViVi] 요즘에 책 읽기 시작했는데 한국어다 보니까 되게 느리게 읽는 중이지만 ㅎㅎ 공감도 많이 되고 너무 재밌어요 역시 책은 대단해요 ㅎㅎ 한 달 안에 다 읽을 수 있을까요ㅇㅅㅇ!? 오빛❤️은 좋아하는 책이 뭐예요!?\n\n#이달의소녀 #LOONA https://t.co/MwpEjHSmkU"
+	},
+	{
+		"created_at": "Sat Sep 05 08:29:29 +0000 2020",
+		"id": 1302161921471258600,
+		"id_str": "1302161921471258624",
+		"full_text": "Please! @TwitterSupport @TwitterAPI I post information for artists and fans. https://t.co/PQbBLaqc4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PQbBLaqc4y",
+					"expanded_url": "https://twitter.com/fromminn/status/1302159431589720064",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302159431589720000,
+		"quoted_status_id_str": "1302159431589720064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PQbBLaqc4y",
+			"expanded": "https://twitter.com/fromminn/status/1302159431589720064",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 05 08:19:36 +0000 2020",
+			"id": 1302159431589720000,
+			"id_str": "1302159431589720064",
+			"full_text": "악성이용자 때문이면 이해하니 개발자 승인 받은 사람들에게는 제공했으면 좋겠다. 나는 이 기능을 정말 잘 쓰고 앞으로도 필요하다. 만들고 싶은 것이나 하고 싶은 것에도 제한되고. 결국 자체 데이터를 플랫폼에 쌓는 수 밖에 없는 건가. https://t.co/PVe3SaV8H4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PVe3SaV8H4",
+						"expanded_url": "https://twitter.com/josematthew/status/1302094655392112640",
+						"display_url": "twitter.com/josematthew/st…",
+						"indices": [
+							130,
+							153
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "정보를 능동적으로 #minfav",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 298,
+				"friends_count": 942,
+				"listed_count": 8,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 42717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1302094655392112600,
+			"quoted_status_id_str": "1302094655392112640",
+			"quoted_status_permalink": {
+				"url": "https://t.co/PVe3SaV8H4",
+				"expanded": "https://twitter.com/josematthew/status/1302094655392112640",
+				"display": "twitter.com/josematthew/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please! @TwitterSupport @TwitterAPI I post information for artists and fans. https://t.co/PQbBLaqc4y"
+	},
+	{
+		"created_at": "Sat Sep 05 08:19:36 +0000 2020",
+		"id": 1302159431589720000,
+		"id_str": "1302159431589720064",
+		"full_text": "악성이용자 때문이면 이해하니 개발자 승인 받은 사람들에게는 제공했으면 좋겠다. 나는 이 기능을 정말 잘 쓰고 앞으로도 필요하다. 만들고 싶은 것이나 하고 싶은 것에도 제한되고. 결국 자체 데이터를 플랫폼에 쌓는 수 밖에 없는 건가. https://t.co/PVe3SaV8H4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PVe3SaV8H4",
+					"expanded_url": "https://twitter.com/josematthew/status/1302094655392112640",
+					"display_url": "twitter.com/josematthew/st…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302094655392112600,
+		"quoted_status_id_str": "1302094655392112640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PVe3SaV8H4",
+			"expanded": "https://twitter.com/josematthew/status/1302094655392112640",
+			"display": "twitter.com/josematthew/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 05 04:02:12 +0000 2020",
+			"id": 1302094655392112600,
+			"id_str": "1302094655392112640",
+			"full_text": "@fromminn @TwitterSupport @TwitterAPI @Twitter They have made some changes without any notification to tackle few spammers by breaking this best used feature https://t.co/COuwo21oeL",
+			"truncated": false,
+			"display_text_range": [
+				47,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "fromminn",
+						"name": "MINN",
+						"id": 4531360753,
+						"id_str": "4531360753",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "TwitterSupport",
+						"name": "Twitter Support",
+						"id": 17874544,
+						"id_str": "17874544",
+						"indices": [
+							10,
+							25
+						]
+					},
+					{
+						"screen_name": "TwitterAPI",
+						"name": "Twitter API",
+						"id": 6253282,
+						"id_str": "6253282",
+						"indices": [
+							26,
+							37
+						]
+					},
+					{
+						"screen_name": "Twitter",
+						"name": "Twitter",
+						"id": 783214,
+						"id_str": "783214",
+						"indices": [
+							38,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/COuwo21oeL",
+						"expanded_url": "https://www.cnbc.com/2019/06/07/how-trolls-use-twitter-lists-to-target-and-harass-other-users.html",
+						"display_url": "cnbc.com/2019/06/07/how…",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1302010948668940300,
+			"in_reply_to_status_id_str": "1302010948668940288",
+			"in_reply_to_user_id": 4531360753,
+			"in_reply_to_user_id_str": "4531360753",
+			"in_reply_to_screen_name": "fromminn",
+			"user": {
+				"id": 27710681,
+				"id_str": "27710681",
+				"name": "Jose Mathew",
+				"screen_name": "josematthew",
+				"location": "India",
+				"description": "Passionate about all things digital. Movie freak. Loves Music beyond borders. Inclined to Football - 'Chelsea'",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 343,
+				"friends_count": 205,
+				"listed_count": 18,
+				"created_at": "Mon Mar 30 19:37:49 +0000 2009",
+				"favourites_count": 1133,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14102,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/116410507/Nike_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/116410507/Nike_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27710681/1405087504",
+				"profile_link_color": "F10E09",
+				"profile_sidebar_border_color": "FE90A0",
+				"profile_sidebar_fill_color": "F1F1F3",
+				"profile_text_color": "701C00",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "악성이용자 때문이면 이해하니 개발자 승인 받은 사람들에게는 제공했으면 좋겠다. 나는 이 기능을 정말 잘 쓰고 앞으로도 필요하다. 만들고 싶은 것이나 하고 싶은 것에도 제한되고. 결국 자체 데이터를 플랫폼에 쌓는 수 밖에 없는 건가. https://t.co/PVe3SaV8H4"
+	},
+	{
+		"created_at": "Sat Sep 05 08:14:15 +0000 2020",
+		"id": 1302149052499288000,
+		"id_str": "1302158084811284480",
+		"full_text": "식당 운영하다 서빙 로봇 ‘페니’ 개발하다 https://t.co/f8p3FL4Vro 베어로보틱스 하정우 대표 인터뷰. 실리콘밸리에서 부업으로 순두부찌개 식당을 경영하던 구글 엔지니어. 식당종업원들의 고된 노동을 도와주는 음식서빙 로봇을 직접 개발해 창업. https://t.co/U8Sm1oGDNA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f8p3FL4Vro",
+					"expanded_url": "http://eiec.kdi.re.kr/publish/columnView.do?cidx=13009&ccode=&pp=20&pg=&sel_year=2020&sel_month=09",
+					"display_url": "eiec.kdi.re.kr/publish/column…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302149044366581800,
+					"id_str": "1302149044366581761",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EhIpqCIVoAEewul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhIpqCIVoAEewul.jpg",
+					"url": "https://t.co/U8Sm1oGDNA",
+					"display_url": "pic.twitter.com/U8Sm1oGDNA",
+					"expanded_url": "https://twitter.com/estima7/status/1302149052499288065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 596,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302149044366581800,
+					"id_str": "1302149044366581761",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EhIpqCIVoAEewul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhIpqCIVoAEewul.jpg",
+					"url": "https://t.co/U8Sm1oGDNA",
+					"display_url": "pic.twitter.com/U8Sm1oGDNA",
+					"expanded_url": "https://twitter.com/estima7/status/1302149052499288065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 596,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1302149045087957000,
+					"id_str": "1302149045087956993",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EhIpqE0U8AEGgvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhIpqE0U8AEGgvq.jpg",
+					"url": "https://t.co/U8Sm1oGDNA",
+					"display_url": "pic.twitter.com/U8Sm1oGDNA",
+					"expanded_url": "https://twitter.com/estima7/status/1302149052499288065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 323,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368898,
+			"friends_count": 2268,
+			"listed_count": 4470,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "식당 운영하다 서빙 로봇 ‘페니’ 개발하다 https://t.co/f8p3FL4Vro 베어로보틱스 하정우 대표 인터뷰. 실리콘밸리에서 부업으로 순두부찌개 식당을 경영하던 구글 엔지니어. 식당종업원들의 고된 노동을 도와주는 음식서빙 로봇을 직접 개발해 창업. https://t.co/U8Sm1oGDNA"
+	},
+	{
 		"created_at": "Sat Sep 05 06:59:35 +0000 2020",
 		"id": 1302139296678375400,
 		"id_str": "1302139296678375425",
