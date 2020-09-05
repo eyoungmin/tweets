@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 06:59:35 +0000 2020",
+		"id": 1302139296678375400,
+		"id_str": "1302139296678375425",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 동심으로 돌아간 ‘Ice Cream’ 뮤비 촬영기 공개\nhttps://t.co/5eSUp0WAov\n#블랙핑크 #BLACKPINK https://t.co/WWGDNSbzMs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5eSUp0WAov",
+					"expanded_url": "https://yg-life.com/archives/159179?lang=ko",
+					"display_url": "yg-life.com/archives/15917…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302139295499800600,
+					"id_str": "1302139295499800583",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EhIgykxX0AcvIaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhIgykxX0AcvIaW.jpg",
+					"url": "https://t.co/WWGDNSbzMs",
+					"display_url": "pic.twitter.com/WWGDNSbzMs",
+					"expanded_url": "https://twitter.com/fromminn/status/1302139296678375425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 273,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 181,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 273,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302139295499800600,
+					"id_str": "1302139295499800583",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EhIgykxX0AcvIaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhIgykxX0AcvIaW.jpg",
+					"url": "https://t.co/WWGDNSbzMs",
+					"display_url": "pic.twitter.com/WWGDNSbzMs",
+					"expanded_url": "https://twitter.com/fromminn/status/1302139296678375425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 273,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 181,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 273,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 동심으로 돌아간 ‘Ice Cream’ 뮤비 촬영기 공개\nhttps://t.co/5eSUp0WAov\n#블랙핑크 #BLACKPINK https://t.co/WWGDNSbzMs"
+	},
+	{
+		"created_at": "Sat Sep 05 06:44:56 +0000 2020",
+		"id": 1302125053329383400,
+		"id_str": "1302135607771230210",
+		"full_text": "[#청하] 윤미래❤️ 선배님 ㅠㅠ \n매번 너무 너무 감사합니다!! 🙏🏻\n운동화 너무 예뻐요 ㅠㅠ😭 \n언제나 더 열심히 하는 청하 되겠습니다!\n언제나 존경하고 사랑해요!!💜\n\n#CHUNGHA #윤미래\n@Yoonmirae https://t.co/bQvuPlNmcz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "윤미래",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yoonmirae",
+					"name": "윤미래 Yoonmirae",
+					"id": 54441257,
+					"id_str": "54441257",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302125023201693700,
+					"id_str": "1302125023201693696",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EhITz0UVkAAjdCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhITz0UVkAAjdCJ.jpg",
+					"url": "https://t.co/bQvuPlNmcz",
+					"display_url": "pic.twitter.com/bQvuPlNmcz",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1302125053329383430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302125023201693700,
+					"id_str": "1302125023201693696",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EhITz0UVkAAjdCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhITz0UVkAAjdCJ.jpg",
+					"url": "https://t.co/bQvuPlNmcz",
+					"display_url": "pic.twitter.com/bQvuPlNmcz",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1302125053329383430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1302125023210004500,
+					"id_str": "1302125023210004480",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EhITz0WUYAAEY7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhITz0WUYAAEY7A.jpg",
+					"url": "https://t.co/bQvuPlNmcz",
+					"display_url": "pic.twitter.com/bQvuPlNmcz",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1302125053329383430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1302125023205843000,
+					"id_str": "1302125023205842945",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EhITz0VU4AEUtZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhITz0VU4AEUtZD.jpg",
+					"url": "https://t.co/bQvuPlNmcz",
+					"display_url": "pic.twitter.com/bQvuPlNmcz",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1302125053329383430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1302125023214203000,
+					"id_str": "1302125023214202885",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EhITz0XUcAUL-OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhITz0XUcAUL-OW.jpg",
+					"url": "https://t.co/bQvuPlNmcz",
+					"display_url": "pic.twitter.com/bQvuPlNmcz",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1302125053329383430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286527,
+			"friends_count": 0,
+			"listed_count": 1759,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 767,
+		"favorite_count": 3099,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청하] 윤미래❤️ 선배님 ㅠㅠ \n매번 너무 너무 감사합니다!! 🙏🏻\n운동화 너무 예뻐요 ㅠㅠ😭 \n언제나 더 열심히 하는 청하 되겠습니다!\n언제나 존경하고 사랑해요!!💜\n\n#CHUNGHA #윤미래\n@Yoonmirae https://t.co/bQvuPlNmcz"
+	},
+	{
 		"created_at": "Sat Sep 05 03:59:43 +0000 2020",
 		"id": 1302094031795744800,
 		"id_str": "1302094031795744768",
