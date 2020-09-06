@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 06 22:14:39 +0000 2020",
+		"id": 1301313291734544400,
+		"id_str": "1302731969118105601",
+		"full_text": "\"리더의 위치에 올라갈수록 사람들은 당신의 이야기를 잘 들어주고, 쉽게 웃어준다. 이는 당신의 자아를 팽창하게 만든다\"\n\n\"만약 우리의 자아가 우리가 보고 듣고 믿는 것을 결정한다면, 우리는 우리 자신의 과거의 성공이 미래의 성공을 망치게 만드는 것이다.\" https://t.co/aGYkvF65fv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aGYkvF65fv",
+					"expanded_url": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/11/ego-is-the-enemy-of-good-leadership",
+					"display_url": "hbr-org.cdn.ampproject.org/c/s/hbr.org/am…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121141769,
+			"id_str": "121141769",
+			"name": "Dumbarton Tam",
+			"screen_name": "kingkenny1967",
+			"location": "",
+			"description": "The Man of No Property",
+			"url": "https://t.co/hDcKf7ltbK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hDcKf7ltbK",
+							"expanded_url": "http://Instagram.com/kingkenny1967",
+							"display_url": "Instagram.com/kingkenny1967",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4115,
+			"friends_count": 2630,
+			"listed_count": 69,
+			"created_at": "Mon Mar 08 15:10:30 +0000 2010",
+			"favourites_count": 6267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E7EDF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301851799599501312/3fvhscc__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301851799599501312/3fvhscc__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121141769/1586574174",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "0C8210",
+			"profile_sidebar_fill_color": "00B32A",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 71,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"리더의 위치에 올라갈수록 사람들은 당신의 이야기를 잘 들어주고, 쉽게 웃어준다. 이는 당신의 자아를 팽창하게 만든다\"\n\n\"만약 우리의 자아가 우리가 보고 듣고 믿는 것을 결정한다면, 우리는 우리 자신의 과거의 성공이 미래의 성공을 망치게 만드는 것이다.\" https://t.co/aGYkvF65fv"
+	},
+	{
+		"created_at": "Sun Sep 06 22:09:45 +0000 2020",
+		"id": 1301523371365081000,
+		"id_str": "1302730734436720640",
+		"full_text": "코로나 맞아 벽돌책 함께 읽는 온라인 북클럽 성행. 평소 혼자선 엄두 못 냈던 장편 도전. 미처 몰랐던 길고 복잡한 이야기에 매료. 책에도 다양한 종이 있고 맛도 다르다. 길수록 느긋하게 시간 두고 읽을 때 제대로 음미. 내 삶과 삼투압하고 내 생각이 그 속을 함께 거닌다.https://t.co/g0qup3eiRQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g0qup3eiRQ",
+					"expanded_url": "https://hedgehogreview.com/blog/thr/posts/tortoises-and-tigers-the-pleasures-of-a-long-read",
+					"display_url": "hedgehogreview.com/blog/thr/posts…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101180,
+			"friends_count": 2395,
+			"listed_count": 308,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나 맞아 벽돌책 함께 읽는 온라인 북클럽 성행. 평소 혼자선 엄두 못 냈던 장편 도전. 미처 몰랐던 길고 복잡한 이야기에 매료. 책에도 다양한 종이 있고 맛도 다르다. 길수록 느긋하게 시간 두고 읽을 때 제대로 음미. 내 삶과 삼투압하고 내 생각이 그 속을 함께 거닌다.https://t.co/g0qup3eiRQ"
+	},
+	{
+		"created_at": "Sun Sep 06 22:09:37 +0000 2020",
+		"id": 1301647304756048000,
+		"id_str": "1302730700173393920",
+		"full_text": "Meritocracy 비판이 늘고 있다. 어디나 똑똑하면 최고인 사회. 정작 그런 사람만 많으면 분란 많고 협력 서툴다. 고학력/스펙이 사회를 더 정의롭고 따뜻하게 만들었나. Head&gt;Hand&gt;Heart 불균형 상태. 코로나는 핵심 인력 뭔지 보여줘. 현대 엘리트에 대한 재평가가 시작됐다. https://t.co/sgwwBPS3cz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sgwwBPS3cz",
+					"expanded_url": "https://amp.ft.com/content/f881fb55-8f06-4508-a812-815a10505077",
+					"display_url": "amp.ft.com/content/f881fb…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101180,
+			"friends_count": 2395,
+			"listed_count": 308,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 426,
+		"favorite_count": 565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Meritocracy 비판이 늘고 있다. 어디나 똑똑하면 최고인 사회. 정작 그런 사람만 많으면 분란 많고 협력 서툴다. 고학력/스펙이 사회를 더 정의롭고 따뜻하게 만들었나. Head&gt;Hand&gt;Heart 불균형 상태. 코로나는 핵심 인력 뭔지 보여줘. 현대 엘리트에 대한 재평가가 시작됐다. https://t.co/sgwwBPS3cz"
+	},
+	{
+		"created_at": "Sun Sep 06 22:07:27 +0000 2020",
+		"id": 1301182968766107600,
+		"id_str": "1302730157052932096",
+		"full_text": "168 AWS services in 2 minutes. *inhales* https://t.co/HsCRBDAacL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1301163422869053400,
+					"id_str": "1301163422869053440",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301163422869053440/pu/img/HElF6sIVPcgToGm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301163422869053440/pu/img/HElF6sIVPcgToGm2.jpg",
+					"url": "https://t.co/HsCRBDAacL",
+					"display_url": "pic.twitter.com/HsCRBDAacL",
+					"expanded_url": "https://twitter.com/forrestbrazeal/status/1301182968766107656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301163422869053400,
+					"id_str": "1301163422869053440",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301163422869053440/pu/img/HElF6sIVPcgToGm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301163422869053440/pu/img/HElF6sIVPcgToGm2.jpg",
+					"url": "https://t.co/HsCRBDAacL",
+					"display_url": "pic.twitter.com/HsCRBDAacL",
+					"expanded_url": "https://twitter.com/forrestbrazeal/status/1301182968766107656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 139375,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301163422869053440/pu/vid/720x720/8-_fQGia_gS-ztAO.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301163422869053440/pu/vid/320x320/YJ6MI5pCRDc2dgbz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1301163422869053440/pu/pl/Cytgjf6gicyikilF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1301163422869053440/pu/vid/480x480/hlvUipnTc9Gg-W_N.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3239330680,
+			"id_str": "3239330680",
+			"name": "Forrest Brazeal",
+			"screen_name": "forrestbrazeal",
+			"location": "Charlotte, NC",
+			"description": "AWS Serverless Hero, cloud bard at @acloudguru. Ex @Trek10inc, @Infor. Preorder THE READ-ALOUD CLOUD from @WileyTech: https://t.co/tjTV1BidTh",
+			"url": "https://t.co/lR8cPN5AZs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lR8cPN5AZs",
+							"expanded_url": "http://forrestbrazeal.com",
+							"display_url": "forrestbrazeal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tjTV1BidTh",
+							"expanded_url": "https://amzn.to/3enpfYw",
+							"display_url": "amzn.to/3enpfYw",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10118,
+			"friends_count": 99,
+			"listed_count": 191,
+			"created_at": "Wed May 06 18:59:20 +0000 2015",
+			"favourites_count": 3660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259236310990061575/8poErtri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259236310990061575/8poErtri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3239330680/1587563860",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3609,
+		"favorite_count": 10707,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "168 AWS services in 2 minutes. *inhales* https://t.co/HsCRBDAacL"
+	},
+	{
+		"created_at": "Sun Sep 06 22:06:47 +0000 2020",
+		"id": 1301791187607539700,
+		"id_str": "1302729989175914496",
+		"full_text": "워너뮤직그룹 해킹, 메이지카트 추정 공격자에게 고객 정보 유출  https://t.co/uwxea7m02G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uwxea7m02G",
+					"expanded_url": "http://www.boannews.com/media/view.asp?idx=90956",
+					"display_url": "boannews.com/media/view.asp…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176323740,
+			"id_str": "176323740",
+			"name": "보안뉴스",
+			"screen_name": "boannews",
+			"location": "Seoul, Korea",
+			"description": "안전한 세상을 위한 뉴스 - 보안뉴스",
+			"url": "http://t.co/trvvahhtRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/trvvahhtRr",
+							"expanded_url": "http://www.boannews.com",
+							"display_url": "boannews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1888,
+			"friends_count": 53,
+			"listed_count": 83,
+			"created_at": "Mon Aug 09 06:22:28 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098884272/boannews_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098884272/boannews_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176323740/1541039308",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "워너뮤직그룹 해킹, 메이지카트 추정 공격자에게 고객 정보 유출  https://t.co/uwxea7m02G"
+	},
+	{
 		"created_at": "Sun Sep 06 22:01:56 +0000 2020",
 		"id": 1302116360386834400,
 		"id_str": "1302728768696459264",
