@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 22:45:04 +0000 2020",
+		"id": 1303097687059779600,
+		"id_str": "1303102010909233152",
+		"full_text": "#BLACKPINK 'How You Like That' M/V HITS 500 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n’How You Like That' M/V\n🎬https://t.co/lShbHauSu0\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #HowYouLikeThat #MV #500MILLION #YOUTUBE #YG https://t.co/nt4wlkED1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						188,
+						203
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "500MILLION",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						220,
+						228
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						229,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lShbHauSu0",
+					"expanded_url": "https://youtu.be/ioNng23DkIM",
+					"display_url": "youtu.be/ioNng23DkIM",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303097309530435600,
+					"id_str": "1303097309530435584",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EhWIGVJUMAA506N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhWIGVJUMAA506N.jpg",
+					"url": "https://t.co/nt4wlkED1r",
+					"display_url": "pic.twitter.com/nt4wlkED1r",
+					"expanded_url": "https://twitter.com/ygent_official/status/1303097687059779584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303097309530435600,
+					"id_str": "1303097309530435584",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EhWIGVJUMAA506N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhWIGVJUMAA506N.jpg",
+					"url": "https://t.co/nt4wlkED1r",
+					"display_url": "pic.twitter.com/nt4wlkED1r",
+					"expanded_url": "https://twitter.com/ygent_official/status/1303097687059779584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6637066,
+			"friends_count": 38,
+			"listed_count": 6756,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10779,
+		"favorite_count": 30893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'How You Like That' M/V HITS 500 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n’How You Like That' M/V\n🎬https://t.co/lShbHauSu0\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #HowYouLikeThat #MV #500MILLION #YOUTUBE #YG https://t.co/nt4wlkED1r"
+	},
+	{
+		"created_at": "Mon Sep 07 22:44:56 +0000 2020",
+		"id": 1303097592750862300,
+		"id_str": "1303101976729792512",
+		"full_text": "#BLACKPINK 'Ice Cream (with Selena Gomez)' M/V HITS 200 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Ice Cream' M/V\n🎬https://t.co/XtR1bZqWgq\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA  #SelenaGomez #셀레나고메즈 #IceCream #MV #200MILLION #YOUTUBE #YG https://t.co/lVDl3OInWm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "SelenaGomez",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "셀레나고메즈",
+					"indices": [
+						206,
+						213
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						224,
+						227
+					]
+				},
+				{
+					"text": "200MILLION",
+					"indices": [
+						228,
+						239
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						240,
+						248
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						249,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						70,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XtR1bZqWgq",
+					"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+					"display_url": "youtu.be/vRXZj0DzXIA",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303097065744904200,
+					"id_str": "1303097065744904193",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EhWH4I-UMAE7cf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhWH4I-UMAE7cf7.jpg",
+					"url": "https://t.co/lVDl3OInWm",
+					"display_url": "pic.twitter.com/lVDl3OInWm",
+					"expanded_url": "https://twitter.com/ygent_official/status/1303097592750862336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303097065744904200,
+					"id_str": "1303097065744904193",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EhWH4I-UMAE7cf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhWH4I-UMAE7cf7.jpg",
+					"url": "https://t.co/lVDl3OInWm",
+					"display_url": "pic.twitter.com/lVDl3OInWm",
+					"expanded_url": "https://twitter.com/ygent_official/status/1303097592750862336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6637066,
+			"friends_count": 38,
+			"listed_count": 6756,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10811,
+		"favorite_count": 31816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Ice Cream (with Selena Gomez)' M/V HITS 200 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Ice Cream' M/V\n🎬https://t.co/XtR1bZqWgq\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA  #SelenaGomez #셀레나고메즈 #IceCream #MV #200MILLION #YOUTUBE #YG https://t.co/lVDl3OInWm"
+	},
+	{
+		"created_at": "Mon Sep 07 22:11:14 +0000 2020",
+		"id": 1303093494332838000,
+		"id_str": "1303093494332837893",
+		"full_text": "좁디 좁아서 고이고 고인 물이고 그 안에서 유지를 가지고 가는 사람들은 대개 많은 것들을 보고도 못본척 적당히 묵인한 사람일 가능성이 크다. 목소리 내야할 때 사이드에 뭍어간 사람. 좋은 사람 선한 이미지만 취한사람.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1303093219794645000,
+		"in_reply_to_status_id_str": "1303093219794644993",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "좁디 좁아서 고이고 고인 물이고 그 안에서 유지를 가지고 가는 사람들은 대개 많은 것들을 보고도 못본척 적당히 묵인한 사람일 가능성이 크다. 목소리 내야할 때 사이드에 뭍어간 사람. 좋은 사람 선한 이미지만 취한사람."
+	},
+	{
+		"created_at": "Mon Sep 07 22:10:08 +0000 2020",
+		"id": 1303093219794645000,
+		"id_str": "1303093219794644993",
+		"full_text": "진보정당에 실망할때도 그렇고 어디든 대안공간이나 커뮤니티나 크게 다르지 않구나 살면서 많이 보고 느꼈다. 이미 환멸이 가득차 더 내려갈 곳이 없는데 계속 지하로 내려 꽂히는 일 뿐이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "진보정당에 실망할때도 그렇고 어디든 대안공간이나 커뮤니티나 크게 다르지 않구나 살면서 많이 보고 느꼈다. 이미 환멸이 가득차 더 내려갈 곳이 없는데 계속 지하로 내려 꽂히는 일 뿐이다."
+	},
+	{
 		"created_at": "Mon Sep 07 21:49:32 +0000 2020",
 		"id": 1303088036264124400,
 		"id_str": "1303088036264124416",
@@ -118,10 +862,10 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 971636703554228200,
 			"id_str": "971636703554228229",
-			"name": "낙원 🏳️‍🌈😷☂️",
+			"name": "낙원 🏳️🌈😷☂️",
 			"screen_name": "paleblueeyes__",
 			"location": "",
-			"description": "🏳️‍🌈Queer. 여자는 무엇이든 할 수 있다는 말과 그 사실이 언젠가가 아니라 지금 쓰이기를 원한다. 그 낙원을 향하여. 영화를 애정하고 앞으로도 그러려 한다.",
+			"description": "🏳️🌈Queer. 여자는 무엇이든 할 수 있다는 말과 그 사실이 언젠가가 아니라 지금 쓰이기를 원한다. 그 낙원을 향하여. 영화를 애정하고 앞으로도 그러려 한다.",
 			"url": null,
 			"entities": {
 				"description": {
@@ -278,10 +1022,10 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 971636703554228200,
 			"id_str": "971636703554228229",
-			"name": "낙원 🏳️‍🌈😷☂️",
+			"name": "낙원 🏳️🌈😷☂️",
 			"screen_name": "paleblueeyes__",
 			"location": "",
-			"description": "🏳️‍🌈Queer. 여자는 무엇이든 할 수 있다는 말과 그 사실이 언젠가가 아니라 지금 쓰이기를 원한다. 그 낙원을 향하여. 영화를 애정하고 앞으로도 그러려 한다.",
+			"description": "🏳️🌈Queer. 여자는 무엇이든 할 수 있다는 말과 그 사실이 언젠가가 아니라 지금 쓰이기를 원한다. 그 낙원을 향하여. 영화를 애정하고 앞으로도 그러려 한다.",
 			"url": null,
 			"entities": {
 				"description": {
@@ -371,7 +1115,7 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 1964937763,
 			"id_str": "1964937763",
-			"name": "구운감태🏳️‍🌈🌹☂️",
+			"name": "구운감태🏳️🌈🌹☂️",
 			"screen_name": "roastedseatrump",
 			"location": "",
 			"description": "live fast, die alone",
@@ -640,7 +1384,7 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 1964937763,
 			"id_str": "1964937763",
-			"name": "구운감태🏳️‍🌈🌹☂️",
+			"name": "구운감태🏳️🌈🌹☂️",
 			"screen_name": "roastedseatrump",
 			"location": "",
 			"description": "live fast, die alone",
@@ -873,7 +1617,7 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 1964937763,
 			"id_str": "1964937763",
-			"name": "구운감태🏳️‍🌈🌹☂️",
+			"name": "구운감태🏳️🌈🌹☂️",
 			"screen_name": "roastedseatrump",
 			"location": "",
 			"description": "live fast, die alone",
