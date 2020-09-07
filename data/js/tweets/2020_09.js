@@ -1,6 +1,4222 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 21:49:32 +0000 2020",
+		"id": 1303088036264124400,
+		"id_str": "1303088036264124416",
+		"full_text": "서울국제여성영화제 행보는 계속 바닥으로 내려 꽂히는구나. 작년에 조혜영 프로그래머님 글 읽고 어디든 별로 다르지 않다는 생각을 다시금 하며 크게 실망했던 기억이 있는데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "서울국제여성영화제 행보는 계속 바닥으로 내려 꽂히는구나. 작년에 조혜영 프로그래머님 글 읽고 어디든 별로 다르지 않다는 생각을 다시금 하며 크게 실망했던 기억이 있는데."
+	},
+	{
+		"created_at": "Mon Sep 07 21:40:28 +0000 2020",
+		"id": 1282881634946084900,
+		"id_str": "1303085753493192705",
+		"full_text": "그런데 위계에 의한 성추행 가해자인 김성욱씨에 대한 언급은 왜 없는거지? 모두들 서울아트시네마를 대관 취소하게끔 요구한 문제의 인물인 김성욱씨에 대한 서울국제여성영화제의 입장을 듣고싶을텐데요.  @SIWFF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SIWFF",
+					"name": "서울국제여성영화제 SIWFF",
+					"id": 58415128,
+					"id_str": "58415128",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1282871667924983800,
+		"in_reply_to_status_id_str": "1282871667924983808",
+		"in_reply_to_user_id": 971636703554228200,
+		"in_reply_to_user_id_str": "971636703554228229",
+		"in_reply_to_screen_name": "paleblueeyes__",
+		"user": {
+			"id": 971636703554228200,
+			"id_str": "971636703554228229",
+			"name": "낙원 🏳️‍🌈😷☂️",
+			"screen_name": "paleblueeyes__",
+			"location": "",
+			"description": "🏳️‍🌈Queer. 여자는 무엇이든 할 수 있다는 말과 그 사실이 언젠가가 아니라 지금 쓰이기를 원한다. 그 낙원을 향하여. 영화를 애정하고 앞으로도 그러려 한다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99,
+			"friends_count": 975,
+			"listed_count": 0,
+			"created_at": "Thu Mar 08 06:40:17 +0000 2018",
+			"favourites_count": 18784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971637522072723456/IRxTOdWp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971637522072723456/IRxTOdWp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971636703554228229/1520491480",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런데 위계에 의한 성추행 가해자인 김성욱씨에 대한 언급은 왜 없는거지? 모두들 서울아트시네마를 대관 취소하게끔 요구한 문제의 인물인 김성욱씨에 대한 서울국제여성영화제의 입장을 듣고싶을텐데요.  @SIWFF"
+	},
+	{
+		"created_at": "Mon Sep 07 21:40:26 +0000 2020",
+		"id": 1282871667924983800,
+		"id_str": "1303085746249633793",
+		"full_text": "서울국제여성영화제가 서울아트시네마를 상영관에서 제외했다고 한다. 그나마 다행인 소식이 들려오네 https://t.co/5Mo1T8Quit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282871647263834000,
+					"id_str": "1282871647263834113",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec2s91uUwAEY2WQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec2s91uUwAEY2WQ.jpg",
+					"url": "https://t.co/5Mo1T8Quit",
+					"display_url": "pic.twitter.com/5Mo1T8Quit",
+					"expanded_url": "https://twitter.com/paleblueeyes__/status/1282871667924983808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 601,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282871647263834000,
+					"id_str": "1282871647263834113",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec2s91uUwAEY2WQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec2s91uUwAEY2WQ.jpg",
+					"url": "https://t.co/5Mo1T8Quit",
+					"display_url": "pic.twitter.com/5Mo1T8Quit",
+					"expanded_url": "https://twitter.com/paleblueeyes__/status/1282871667924983808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 601,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971636703554228200,
+			"id_str": "971636703554228229",
+			"name": "낙원 🏳️‍🌈😷☂️",
+			"screen_name": "paleblueeyes__",
+			"location": "",
+			"description": "🏳️‍🌈Queer. 여자는 무엇이든 할 수 있다는 말과 그 사실이 언젠가가 아니라 지금 쓰이기를 원한다. 그 낙원을 향하여. 영화를 애정하고 앞으로도 그러려 한다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99,
+			"friends_count": 975,
+			"listed_count": 0,
+			"created_at": "Thu Mar 08 06:40:17 +0000 2018",
+			"favourites_count": 18784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971637522072723456/IRxTOdWp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971637522072723456/IRxTOdWp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971636703554228229/1520491480",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울국제여성영화제가 서울아트시네마를 상영관에서 제외했다고 한다. 그나마 다행인 소식이 들려오네 https://t.co/5Mo1T8Quit"
+	},
+	{
+		"created_at": "Mon Sep 07 21:36:58 +0000 2020",
+		"id": 1107897879455121400,
+		"id_str": "1303084874006294528",
+		"full_text": "이에 대한 조혜영 프로그래머의 입장\n\nhttps://t.co/qq7915GFUx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qq7915GFUx",
+					"expanded_url": "https://www.facebook.com/heyyoung.cho.7/posts/2439407066287162",
+					"display_url": "facebook.com/heyyoung.cho.7…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1107897351866212400,
+		"in_reply_to_status_id_str": "1107897351866212352",
+		"in_reply_to_user_id": 1964937763,
+		"in_reply_to_user_id_str": "1964937763",
+		"in_reply_to_screen_name": "roastedseatrump",
+		"user": {
+			"id": 1964937763,
+			"id_str": "1964937763",
+			"name": "구운감태🏳️‍🌈🌹☂️",
+			"screen_name": "roastedseatrump",
+			"location": "",
+			"description": "live fast, die alone",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9799,
+			"friends_count": 460,
+			"listed_count": 32,
+			"created_at": "Wed Oct 16 14:35:56 +0000 2013",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300625228557549569/2GPl_2vJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300625228557549569/2GPl_2vJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1964937763/1598928337",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이에 대한 조혜영 프로그래머의 입장\n\nhttps://t.co/qq7915GFUx"
+	},
+	{
+		"created_at": "Mon Sep 07 21:36:05 +0000 2020",
+		"id": 1107897351866212400,
+		"id_str": "1303084651607552000",
+		"full_text": "이 사태에 대한 변영주, 손희정, 주진숙 님의 의견 및 여성영화인모임의 입장문 https://t.co/v7xl7IONhc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107897339560095700,
+					"id_str": "1107897339560095744",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AKwqwUcAAevpf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AKwqwUcAAevpf.jpg",
+					"url": "https://t.co/v7xl7IONhc",
+					"display_url": "pic.twitter.com/v7xl7IONhc",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107897351866212352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1206,
+							"h": 1394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107897339560095700,
+					"id_str": "1107897339560095744",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AKwqwUcAAevpf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AKwqwUcAAevpf.jpg",
+					"url": "https://t.co/v7xl7IONhc",
+					"display_url": "pic.twitter.com/v7xl7IONhc",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107897351866212352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1206,
+							"h": 1394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107897339560091600,
+					"id_str": "1107897339560091648",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AKwqwUYAAXklh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AKwqwUYAAXklh.jpg",
+					"url": "https://t.co/v7xl7IONhc",
+					"display_url": "pic.twitter.com/v7xl7IONhc",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107897351866212352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 758,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1203,
+							"h": 1904,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107897339568517100,
+					"id_str": "1107897339568517120",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AKwqyU8AAgk4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AKwqyU8AAgk4V.jpg",
+					"url": "https://t.co/v7xl7IONhc",
+					"display_url": "pic.twitter.com/v7xl7IONhc",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107897351866212352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1208,
+							"h": 1869,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107897339564310500,
+					"id_str": "1107897339564310528",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AKwqxUwAAR_6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AKwqxUwAAR_6f.jpg",
+					"url": "https://t.co/v7xl7IONhc",
+					"display_url": "pic.twitter.com/v7xl7IONhc",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107897351866212352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 1202,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1107895448004513800,
+		"in_reply_to_status_id_str": "1107895448004513792",
+		"in_reply_to_user_id": 1964937763,
+		"in_reply_to_user_id_str": "1964937763",
+		"in_reply_to_screen_name": "roastedseatrump",
+		"user": {
+			"id": 1964937763,
+			"id_str": "1964937763",
+			"name": "구운감태🏳️‍🌈🌹☂️",
+			"screen_name": "roastedseatrump",
+			"location": "",
+			"description": "live fast, die alone",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9799,
+			"friends_count": 460,
+			"listed_count": 32,
+			"created_at": "Wed Oct 16 14:35:56 +0000 2013",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300625228557549569/2GPl_2vJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300625228557549569/2GPl_2vJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1964937763/1598928337",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 사태에 대한 변영주, 손희정, 주진숙 님의 의견 및 여성영화인모임의 입장문 https://t.co/v7xl7IONhc"
+	},
+	{
+		"created_at": "Mon Sep 07 21:36:00 +0000 2020",
+		"id": 1107895448004513800,
+		"id_str": "1303084630959030273",
+		"full_text": "서울 국제여성영화제 김선아 집행위원장 해임에 관련하여\n(1) 집행위원+프로그래머+사무국의 입장문\n(2) 이에 대한 이사회의 입장문 https://t.co/vFJ9dSlemv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107895381981950000,
+					"id_str": "1107895381981949952",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AI-uNUcAAOuBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AI-uNUcAAOuBo.jpg",
+					"url": "https://t.co/vFJ9dSlemv",
+					"display_url": "pic.twitter.com/vFJ9dSlemv",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107895448004513792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 646,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 366,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107895381981950000,
+					"id_str": "1107895381981949952",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AI-uNUcAAOuBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AI-uNUcAAOuBo.jpg",
+					"url": "https://t.co/vFJ9dSlemv",
+					"display_url": "pic.twitter.com/vFJ9dSlemv",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107895448004513792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 646,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 366,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107895381977751600,
+					"id_str": "1107895381977751552",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AI-uMUYAA6GUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AI-uMUYAA6GUC.jpg",
+					"url": "https://t.co/vFJ9dSlemv",
+					"display_url": "pic.twitter.com/vFJ9dSlemv",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107895448004513792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 644,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107895381977792500,
+					"id_str": "1107895381977792512",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D2AI-uMVAAAJS-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2AI-uMVAAAJS-x.jpg",
+					"url": "https://t.co/vFJ9dSlemv",
+					"display_url": "pic.twitter.com/vFJ9dSlemv",
+					"expanded_url": "https://twitter.com/tahitianvanill/status/1107895448004513792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1964937763,
+			"id_str": "1964937763",
+			"name": "구운감태🏳️‍🌈🌹☂️",
+			"screen_name": "roastedseatrump",
+			"location": "",
+			"description": "live fast, die alone",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9799,
+			"friends_count": 460,
+			"listed_count": 32,
+			"created_at": "Wed Oct 16 14:35:56 +0000 2013",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300625228557549569/2GPl_2vJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300625228557549569/2GPl_2vJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1964937763/1598928337",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울 국제여성영화제 김선아 집행위원장 해임에 관련하여\n(1) 집행위원+프로그래머+사무국의 입장문\n(2) 이에 대한 이사회의 입장문 https://t.co/vFJ9dSlemv"
+	},
+	{
+		"created_at": "Mon Sep 07 21:35:58 +0000 2020",
+		"id": 1117710794265780200,
+		"id_str": "1303084621798625280",
+		"full_text": "당연한 얘기지만, 다른 이유없이 오직 하나 서울국제여성영화제의 민주적 운영을  바라는 마음에서 올린 2차 입장문입니다. https://t.co/35ILdICery",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117710786372046800,
+					"id_str": "1117710786372046848",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D4LoCc9UEAAIJVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4LoCc9UEAAIJVB.jpg",
+					"url": "https://t.co/35ILdICery",
+					"display_url": "pic.twitter.com/35ILdICery",
+					"expanded_url": "https://twitter.com/shimjaemyung/status/1117710794265780224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1205,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117710786372046800,
+					"id_str": "1117710786372046848",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D4LoCc9UEAAIJVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4LoCc9UEAAIJVB.jpg",
+					"url": "https://t.co/35ILdICery",
+					"display_url": "pic.twitter.com/35ILdICery",
+					"expanded_url": "https://twitter.com/shimjaemyung/status/1117710794265780224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1205,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118639939,
+			"id_str": "118639939",
+			"name": "심재명",
+			"screen_name": "shimjaemyung",
+			"location": "대한민국 파주시",
+			"description": "영화 제작자/ 명필름이 파주로 이사했어요^^/ 명필름아트센터 파주시 문발동 627",
+			"url": "https://t.co/7ZlFfqurCI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ZlFfqurCI",
+							"expanded_url": "http://www.myungfilm.com",
+							"display_url": "myungfilm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107543,
+			"friends_count": 607,
+			"listed_count": 535,
+			"created_at": "Mon Mar 01 09:23:01 +0000 2010",
+			"favourites_count": 177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/701805152638881792/d_BGO-8N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/701805152638881792/d_BGO-8N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118639939/1514475840",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당연한 얘기지만, 다른 이유없이 오직 하나 서울국제여성영화제의 민주적 운영을  바라는 마음에서 올린 2차 입장문입니다. https://t.co/35ILdICery"
+	},
+	{
+		"created_at": "Mon Sep 07 21:30:26 +0000 2020",
+		"id": 1280860484032360400,
+		"id_str": "1303083229197418496",
+		"full_text": "서울 아트 시네마가 2018년에 성추행 혐의를 인정하고 스스로 사임한 김성욱 프로그램디렉터를 2019년에 재임용했음. 그리고 서울 아트 시네마는 2020년 서울 국제 여성 영화제가 열리는 영화관들 중 하나인 것. 이 이야기인가보다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 728539776790339600,
+			"id_str": "728539776790339584",
+			"name": "선",
+			"screen_name": "sin_or_lose",
+			"location": "지옥",
+			"description": "구원 못할걸",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 364,
+			"listed_count": 0,
+			"created_at": "Fri May 06 10:59:53 +0000 2016",
+			"favourites_count": 7805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297767827814756353/bFLXyRRF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297767827814756353/bFLXyRRF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/728539776790339584/1598198619",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 811,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서울 아트 시네마가 2018년에 성추행 혐의를 인정하고 스스로 사임한 김성욱 프로그램디렉터를 2019년에 재임용했음. 그리고 서울 아트 시네마는 2020년 서울 국제 여성 영화제가 열리는 영화관들 중 하나인 것. 이 이야기인가보다"
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:18 +0000 2020",
+		"id": 1281446717401952300,
+		"id_str": "1303080929330569216",
+		"full_text": "시간이 많이 지난 지금에서야 많은 사람들에게 이 일을 알릴 수 있는 용기가 생겼습니다. 사실 지금도 무섭습니다만, 그래도 이제는 그때보다 더 잘 맞설 수 있지 않을까 싶습니다. 긴 글 읽어주셔서 감사합니다.\n\n#서울국제여성영화제 #swiff",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울국제여성영화제",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "swiff",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281445551649611800,
+		"in_reply_to_status_id_str": "1281445551649611777",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "시간이 많이 지난 지금에서야 많은 사람들에게 이 일을 알릴 수 있는 용기가 생겼습니다. 사실 지금도 무섭습니다만, 그래도 이제는 그때보다 더 잘 맞설 수 있지 않을까 싶습니다. 긴 글 읽어주셔서 감사합니다.\n\n#서울국제여성영화제 #swiff"
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:13 +0000 2020",
+		"id": 1281445551649611800,
+		"id_str": "1303080909701177345",
+		"full_text": "제가 영화제에 바란 것은 연대였습니다. 묻겠습니다. 진정으로 연대했습니까? 서울국제여성영화제라는 이름에 부끄러움을 느낍니다. 그저 페미 코인인가 싶은 생각이 드는 만남이었고, 경험이었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281444600998060000,
+		"in_reply_to_status_id_str": "1281444600998060032",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제가 영화제에 바란 것은 연대였습니다. 묻겠습니다. 진정으로 연대했습니까? 서울국제여성영화제라는 이름에 부끄러움을 느낍니다. 그저 페미 코인인가 싶은 생각이 드는 만남이었고, 경험이었습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:11 +0000 2020",
+		"id": 1281444600998060000,
+		"id_str": "1303080902335934464",
+		"full_text": "결국 저의 성추행 피해 사실은 인터넷 기사 댓글에서 희롱거리가 되었습니다. 레즈가 작업걸다 통수 맞았다는 둥의 댓글이 달리는 것을 보았습니다. 이런 식으로 흐지부지하게 소비될줄 알았다면 차라리 성별을 밝히지 않을걸 그랬다는 생각도 듭니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281444117457678300,
+		"in_reply_to_status_id_str": "1281444117457678337",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "결국 저의 성추행 피해 사실은 인터넷 기사 댓글에서 희롱거리가 되었습니다. 레즈가 작업걸다 통수 맞았다는 둥의 댓글이 달리는 것을 보았습니다. 이런 식으로 흐지부지하게 소비될줄 알았다면 차라리 성별을 밝히지 않을걸 그랬다는 생각도 듭니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:10 +0000 2020",
+		"id": 1281444117457678300,
+		"id_str": "1303080895755161600",
+		"full_text": "영화제의 집장은 저에게 입장문을 쓰길 권하면서, 뭐든 시종이 있는 것이라며 이것이 세레머리가 될 거라고 했습니다. 저는 애초부터 가해자가 읽었을 때 지목당하는 기분이 드는 글을 쓰고 싶었습니다. 웨딩사진을 찍는 탈코인이라고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281442730539806700,
+		"in_reply_to_status_id_str": "1281442730539806720",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "영화제의 집장은 저에게 입장문을 쓰길 권하면서, 뭐든 시종이 있는 것이라며 이것이 세레머리가 될 거라고 했습니다. 저는 애초부터 가해자가 읽었을 때 지목당하는 기분이 드는 글을 쓰고 싶었습니다. 웨딩사진을 찍는 탈코인이라고요."
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:08 +0000 2020",
+		"id": 1281442730539806700,
+		"id_str": "1303080887018336257",
+		"full_text": "라는 메일이 와있었고, 기타문의사항이 있으면 메일로 하라고 쓰여있었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281442155710443500,
+		"in_reply_to_status_id_str": "1281442155710443521",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "라는 메일이 와있었고, 기타문의사항이 있으면 메일로 하라고 쓰여있었습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:06 +0000 2020",
+		"id": 1281442155710443500,
+		"id_str": "1303080878826860544",
+		"full_text": "페미니스트 공동체의 위로금을 전하려고 합니다. 충분히 확인했지만 배상이나 보상이 아니라 연대와 지원의 마음으로 모금했음을 다시 한번 말씀드립니다. 이 모금은 피해경험에 대한 호소와 이에 대해 연대감을 가지고 대하는 페미니스트 커뮤니티의 역사와 맥락이 있어 가능했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281441335468109800,
+		"in_reply_to_status_id_str": "1281441335468109825",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "페미니스트 공동체의 위로금을 전하려고 합니다. 충분히 확인했지만 배상이나 보상이 아니라 연대와 지원의 마음으로 모금했음을 다시 한번 말씀드립니다. 이 모금은 피해경험에 대한 호소와 이에 대해 연대감을 가지고 대하는 페미니스트 커뮤니티의 역사와 맥락이 있어 가능했습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:04 +0000 2020",
+		"id": 1281441335468109800,
+		"id_str": "1303080871319150598",
+		"full_text": "집장은 저 카톡을 읽고는 답을 주지 않았습니다. 아무리 전화를 해도 받지 않았습니다. 사무국장 또한 저의 연락을 받지 않았습니다. 그리고 저녁에 여성영화제 번호로 메일을 확인하라는 문자가 왔습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281439179256107000,
+		"in_reply_to_status_id_str": "1281439179256107008",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "집장은 저 카톡을 읽고는 답을 주지 않았습니다. 아무리 전화를 해도 받지 않았습니다. 사무국장 또한 저의 연락을 받지 않았습니다. 그리고 저녁에 여성영화제 번호로 메일을 확인하라는 문자가 왔습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:02 +0000 2020",
+		"id": 1281439179256107000,
+		"id_str": "1303080864155197440",
+		"full_text": "항상 어떤 일이든 전달받았고, 제가 뭔가에 대한 답을 받으려면 기다려야했습니다. 기다리는 것도 6개월 정도 했더니 돌아버릴 것 같았습니다. 진전은 없었고 영화제에서 원하는 방향으로 저를 움직이려고 했습니다. 저는 하나도 나아진 게 없는 상황이 반복되자 정말 죽고 싶었습니다. https://t.co/a3QMR4kzBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281438372439847000,
+					"id_str": "1281438372439846912",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EciVaQ7U8AAaR33.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EciVaQ7U8AAaR33.jpg",
+					"url": "https://t.co/a3QMR4kzBC",
+					"display_url": "pic.twitter.com/a3QMR4kzBC",
+					"expanded_url": "https://twitter.com/deasease/status/1281439179256107008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1071,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1071,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281438372439847000,
+					"id_str": "1281438372439846912",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EciVaQ7U8AAaR33.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EciVaQ7U8AAaR33.jpg",
+					"url": "https://t.co/a3QMR4kzBC",
+					"display_url": "pic.twitter.com/a3QMR4kzBC",
+					"expanded_url": "https://twitter.com/deasease/status/1281439179256107008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1071,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1071,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281438372855025700,
+					"id_str": "1281438372855025664",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EciVaSeUEAAp_AA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EciVaSeUEAAp_AA.jpg",
+					"url": "https://t.co/a3QMR4kzBC",
+					"display_url": "pic.twitter.com/a3QMR4kzBC",
+					"expanded_url": "https://twitter.com/deasease/status/1281439179256107008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 921,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281437778887073800,
+		"in_reply_to_status_id_str": "1281437778887073792",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "항상 어떤 일이든 전달받았고, 제가 뭔가에 대한 답을 받으려면 기다려야했습니다. 기다리는 것도 6개월 정도 했더니 돌아버릴 것 같았습니다. 진전은 없었고 영화제에서 원하는 방향으로 저를 움직이려고 했습니다. 저는 하나도 나아진 게 없는 상황이 반복되자 정말 죽고 싶었습니다. https://t.co/a3QMR4kzBC"
+	},
+	{
+		"created_at": "Mon Sep 07 21:21:00 +0000 2020",
+		"id": 1281437778887073800,
+		"id_str": "1303080855649226753",
+		"full_text": "변호사에게서 온 문자입니다. '더 나은 영화제를 위해서 함께 얘기 나누는 자리'에 왜 피해자를 부르나요? https://t.co/bh71kgjOdQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281437522615087000,
+					"id_str": "1281437522615087104",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EciUozFUMAAvMsT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EciUozFUMAAvMsT.jpg",
+					"url": "https://t.co/bh71kgjOdQ",
+					"display_url": "pic.twitter.com/bh71kgjOdQ",
+					"expanded_url": "https://twitter.com/deasease/status/1281437778887073792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281437522615087000,
+					"id_str": "1281437522615087104",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EciUozFUMAAvMsT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EciUozFUMAAvMsT.jpg",
+					"url": "https://t.co/bh71kgjOdQ",
+					"display_url": "pic.twitter.com/bh71kgjOdQ",
+					"expanded_url": "https://twitter.com/deasease/status/1281437778887073792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281436981143105500,
+		"in_reply_to_status_id_str": "1281436981143105538",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "변호사에게서 온 문자입니다. '더 나은 영화제를 위해서 함께 얘기 나누는 자리'에 왜 피해자를 부르나요? https://t.co/bh71kgjOdQ"
+	},
+	{
+		"created_at": "Mon Sep 07 21:20:57 +0000 2020",
+		"id": 1281436981143105500,
+		"id_str": "1303080844194492416",
+		"full_text": "피해자인 저에게 피해 방지 매뉴얼 작성에 도움을 달라는 것을 저는 도저히 이해할 수 없었고, 심지어 저의 의사와 상관없이 자꾸 누군가를 불편한 상황에서 만나야 하는 것이 싫었습니다. 그리고 집장에게서 전화가 왔고 저에게 피해 방지 매뉴얼을 같이 만들자고 한 사실이 없다고 했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281436978894889000,
+		"in_reply_to_status_id_str": "1281436978894888960",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "피해자인 저에게 피해 방지 매뉴얼 작성에 도움을 달라는 것을 저는 도저히 이해할 수 없었고, 심지어 저의 의사와 상관없이 자꾸 누군가를 불편한 상황에서 만나야 하는 것이 싫었습니다. 그리고 집장에게서 전화가 왔고 저에게 피해 방지 매뉴얼을 같이 만들자고 한 사실이 없다고 했습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:19:27 +0000 2020",
+		"id": 1281436977171067000,
+		"id_str": "1303080464421326848",
+		"full_text": "이후, \"보상금이 아니라 지원금이라는 걸 확실히 알아뒀으면 좋겠다. 이건 이주씨에게 연대하는 페미니스트 선배들의 성의다. 보상금이 아니라 지원금이다.\"라고 하시며 200만원이 모였다고 했습니다. 그리고 지원금은 만나서 주겠다고 하셨습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281436975279386600,
+		"in_reply_to_status_id_str": "1281436975279386624",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이후, \"보상금이 아니라 지원금이라는 걸 확실히 알아뒀으면 좋겠다. 이건 이주씨에게 연대하는 페미니스트 선배들의 성의다. 보상금이 아니라 지원금이다.\"라고 하시며 200만원이 모였다고 했습니다. 그리고 지원금은 만나서 주겠다고 하셨습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:19:23 +0000 2020",
+		"id": 1281436975279386600,
+		"id_str": "1303080445869924352",
+		"full_text": "저녁에 집장에게서 전화가 왔습니다. 그리고는 울면서 미안하다고, 못할 짓을 시켰다며 모금은 없던 일로 하자고 했습니다. 저는 울었고, 알겠다고 했습니다. 그리고 집장은 \"페미니스트 선배들한테 도움을 청해보겠다\"고 했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281434324567355400,
+		"in_reply_to_status_id_str": "1281434324567355394",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저녁에 집장에게서 전화가 왔습니다. 그리고는 울면서 미안하다고, 못할 짓을 시켰다며 모금은 없던 일로 하자고 했습니다. 저는 울었고, 알겠다고 했습니다. 그리고 집장은 \"페미니스트 선배들한테 도움을 청해보겠다\"고 했습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:19:16 +0000 2020",
+		"id": 1281434324567355400,
+		"id_str": "1303080416820121600",
+		"full_text": "제가 보상 얘기를 꺼내니, 집행위원장은 저더러 글을 써서 올린 뒤 모금을 하는 건 어떠냐고 했습니다. 의미가 있을 거라고요. 거부감이 들었지만 방법은 그것밖에 없다고 해서 그러겠다 했습니다. 어쨌든 이런 일이 있었다고 알리는 거라고 생각해서 글을 썼고, 영화제에 전달했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281434322617036800,
+		"in_reply_to_status_id_str": "1281434322617036806",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제가 보상 얘기를 꺼내니, 집행위원장은 저더러 글을 써서 올린 뒤 모금을 하는 건 어떠냐고 했습니다. 의미가 있을 거라고요. 거부감이 들었지만 방법은 그것밖에 없다고 해서 그러겠다 했습니다. 어쨌든 이런 일이 있었다고 알리는 거라고 생각해서 글을 썼고, 영화제에 전달했습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:19:10 +0000 2020",
+		"id": 1281434322617036800,
+		"id_str": "1303080393696919553",
+		"full_text": "저는 심신으로 매우 지쳐있어서 위로받는 일도 힘들었습니다. 저는 저의 시간. 그리고 고통을 금전적으로 보상받고자 했습니다. 경제적인 활동을 할 수 없는 상황이라 수입이 없었고, 사건이 손쓸 수 없게 된 데에는 영화제의 책임도 있다고 생각했습니다. 저는 영화제를 믿지 말았어야 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281432625530331100,
+		"in_reply_to_status_id_str": "1281432625530331136",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저는 심신으로 매우 지쳐있어서 위로받는 일도 힘들었습니다. 저는 저의 시간. 그리고 고통을 금전적으로 보상받고자 했습니다. 경제적인 활동을 할 수 없는 상황이라 수입이 없었고, 사건이 손쓸 수 없게 된 데에는 영화제의 책임도 있다고 생각했습니다. 저는 영화제를 믿지 말았어야 합니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:19:04 +0000 2020",
+		"id": 1281432625530331100,
+		"id_str": "1303080370154254338",
+		"full_text": "얼마 지나고 집행위원장과 사무국장 그리고 저 이렇게 셋이 만나게 되었습니다. 저는 사무국장에게 저의 질문에 답을 해달라고 했고, 그러자 \"여성영화제는 그냥 영화제라고 말한 건, 그런 사건에 철저하게 대처할 수 있는 매뉴얼이 없다는 얘기였다\"고 했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281431511724519400,
+		"in_reply_to_status_id_str": "1281431511724519425",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "얼마 지나고 집행위원장과 사무국장 그리고 저 이렇게 셋이 만나게 되었습니다. 저는 사무국장에게 저의 질문에 답을 해달라고 했고, 그러자 \"여성영화제는 그냥 영화제라고 말한 건, 그런 사건에 철저하게 대처할 수 있는 매뉴얼이 없다는 얘기였다\"고 했습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:18:49 +0000 2020",
+		"id": 1281431511724519400,
+		"id_str": "1303080306761584640",
+		"full_text": "사무국장은 저를 만나러 왔고, 만난 자리에서 \"이런 일은 처음이라 당황스럽다\" ,\"아쉽다\", \"이주씨, 서울국제여성영화제는 그냥 영화제예요.\"라는 말을 했고 영화제의 이야기를 '네가 몰랐던 이야기'처럼 들려주었습니다. 아래는 만남 후 나눈 카톡입니다. 원하는 답은 듣지 못했습니다. https://t.co/OU0qryQd0i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281430780623765500,
+					"id_str": "1281430780623765504",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EciOgXNUwAAihE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EciOgXNUwAAihE5.jpg",
+					"url": "https://t.co/OU0qryQd0i",
+					"display_url": "pic.twitter.com/OU0qryQd0i",
+					"expanded_url": "https://twitter.com/deasease/status/1281431511724519425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 994,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281430780623765500,
+					"id_str": "1281430780623765504",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EciOgXNUwAAihE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EciOgXNUwAAihE5.jpg",
+					"url": "https://t.co/OU0qryQd0i",
+					"display_url": "pic.twitter.com/OU0qryQd0i",
+					"expanded_url": "https://twitter.com/deasease/status/1281431511724519425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 994,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281431240931807200,
+					"id_str": "1281431240931807232",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EciO7J_UEAAUzWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EciO7J_UEAAUzWA.jpg",
+					"url": "https://t.co/OU0qryQd0i",
+					"display_url": "pic.twitter.com/OU0qryQd0i",
+					"expanded_url": "https://twitter.com/deasease/status/1281431511724519425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 673,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 807,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281424340513222700,
+		"in_reply_to_status_id_str": "1281424340513222656",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사무국장은 저를 만나러 왔고, 만난 자리에서 \"이런 일은 처음이라 당황스럽다\" ,\"아쉽다\", \"이주씨, 서울국제여성영화제는 그냥 영화제예요.\"라는 말을 했고 영화제의 이야기를 '네가 몰랐던 이야기'처럼 들려주었습니다. 아래는 만남 후 나눈 카톡입니다. 원하는 답은 듣지 못했습니다. https://t.co/OU0qryQd0i"
+	},
+	{
+		"created_at": "Mon Sep 07 21:18:43 +0000 2020",
+		"id": 1281424340513222700,
+		"id_str": "1303080281608396801",
+		"full_text": "11월 중순, 사무국장에게서 연락이 왔고 저는 법률구제를 받을 수 있는 방법이 필요하다고 했습니다. 이틀 후 변호사가 선임되었고 제 사건이 송치되어 종료되었다는 걸 알게되었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1281422604906008600,
+		"in_reply_to_status_id_str": "1281422604906008577",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "11월 중순, 사무국장에게서 연락이 왔고 저는 법률구제를 받을 수 있는 방법이 필요하다고 했습니다. 이틀 후 변호사가 선임되었고 제 사건이 송치되어 종료되었다는 걸 알게되었습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:18:34 +0000 2020",
+		"id": 1281422604906008600,
+		"id_str": "1303080241724678144",
+		"full_text": "영화제에서는 연대하고 책임지는 영화제라고 했습니다. 가해자를 특정하지 못했다는 결과가 나왔고, 저는 공론화를 해보자고 했으나 그것은 위험하다고 했습니다. 그리고 공론화를 할 플랫폼 또한 없다고 했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281422603324805000,
+		"in_reply_to_status_id_str": "1281422603324805121",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "영화제에서는 연대하고 책임지는 영화제라고 했습니다. 가해자를 특정하지 못했다는 결과가 나왔고, 저는 공론화를 해보자고 했으나 그것은 위험하다고 했습니다. 그리고 공론화를 할 플랫폼 또한 없다고 했습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:18:29 +0000 2020",
+		"id": 1281422603324805000,
+		"id_str": "1303080222741295104",
+		"full_text": "마포경찰서에서 조사를 받았고, 영화제에서는 한국성폭력상담소를 소개해주었습니다. 저는 밤마다 불안발작을 하던 상황이었으므로 지푸라기 잡는 심정으로 전화를 걸었습니다. 그리고 저의 피해 상황을 전달하던 중, 상담자가 제가 전달하는 상황을 듣고 웃었고 그 일은 저에게 트라우마가 되었습니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281422601802223600,
+		"in_reply_to_status_id_str": "1281422601802223618",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "마포경찰서에서 조사를 받았고, 영화제에서는 한국성폭력상담소를 소개해주었습니다. 저는 밤마다 불안발작을 하던 상황이었으므로 지푸라기 잡는 심정으로 전화를 걸었습니다. 그리고 저의 피해 상황을 전달하던 중, 상담자가 제가 전달하는 상황을 듣고 웃었고 그 일은 저에게 트라우마가 되었습니다"
+	},
+	{
+		"created_at": "Mon Sep 07 21:18:21 +0000 2020",
+		"id": 1281422601802223600,
+		"id_str": "1303080189685952513",
+		"full_text": "저는 가해자가 여성이라는 것을 알렸습니다. 여성들의 축제라고 할 수 있는 여성영화제에서 여자가 여자를 성추행했다. 굉장히 자극적이고 소비하기 좋은 이야깃거리임에도 가해자가 여성일 때도 우리 여자들은 어떻게 일을 처리하는지 보여주고 싶었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281422600304877600,
+		"in_reply_to_status_id_str": "1281422600304877568",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 395,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저는 가해자가 여성이라는 것을 알렸습니다. 여성들의 축제라고 할 수 있는 여성영화제에서 여자가 여자를 성추행했다. 굉장히 자극적이고 소비하기 좋은 이야깃거리임에도 가해자가 여성일 때도 우리 여자들은 어떻게 일을 처리하는지 보여주고 싶었습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:17:22 +0000 2020",
+		"id": 1281872219396690000,
+		"id_str": "1303079941504790530",
+		"full_text": "영화제의 대처에 대해 기록해놓은 걸 찾게되어서 올립니다. https://t.co/DBiqk9QavE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281872199469502500,
+					"id_str": "1281872199469502464",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecof-UjUEAAfJUI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecof-UjUEAAfJUI.jpg",
+					"url": "https://t.co/DBiqk9QavE",
+					"display_url": "pic.twitter.com/DBiqk9QavE",
+					"expanded_url": "https://twitter.com/deasease/status/1281872219396689920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281872199469502500,
+					"id_str": "1281872199469502464",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecof-UjUEAAfJUI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecof-UjUEAAfJUI.jpg",
+					"url": "https://t.co/DBiqk9QavE",
+					"display_url": "pic.twitter.com/DBiqk9QavE",
+					"expanded_url": "https://twitter.com/deasease/status/1281872219396689920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281872212744536000,
+					"id_str": "1281872212744536064",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecof_GAVAAAorTb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecof_GAVAAAorTb.jpg",
+					"url": "https://t.co/DBiqk9QavE",
+					"display_url": "pic.twitter.com/DBiqk9QavE",
+					"expanded_url": "https://twitter.com/deasease/status/1281872219396689920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 660,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1281422600304877600,
+		"in_reply_to_status_id_str": "1281422600304877568",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영화제의 대처에 대해 기록해놓은 걸 찾게되어서 올립니다. https://t.co/DBiqk9QavE"
+	},
+	{
+		"created_at": "Mon Sep 07 21:17:19 +0000 2020",
+		"id": 1281422600304877600,
+		"id_str": "1303079929865617408",
+		"full_text": "안녕하세요. 저는 2019 서울국제여성영화제 자원활동가로 활동했던 이주입니다. 저는 서국여에서 관객에 의해 성추행당한 사실이 있습니다. 이에 대한 서국여의 전반적인 대처를 공론화합니다. 최대한 간결하게, 사실만 작성하겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5391,
+		"favorite_count": 1155,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안녕하세요. 저는 2019 서울국제여성영화제 자원활동가로 활동했던 이주입니다. 저는 서국여에서 관객에 의해 성추행당한 사실이 있습니다. 이에 대한 서국여의 전반적인 대처를 공론화합니다. 최대한 간결하게, 사실만 작성하겠습니다."
+	},
+	{
+		"created_at": "Mon Sep 07 21:16:02 +0000 2020",
+		"id": 1282925937500106800,
+		"id_str": "1303079604261806080",
+		"full_text": "https://t.co/YLxvIbWLLO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282925927266041900,
+					"id_str": "1282925927266041869",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3eVWfUwA0-uf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3eVWfUwA0-uf5.jpg",
+					"url": "https://t.co/YLxvIbWLLO",
+					"display_url": "pic.twitter.com/YLxvIbWLLO",
+					"expanded_url": "https://twitter.com/deasease/status/1282925937500106754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1057,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282925927266041900,
+					"id_str": "1282925927266041869",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3eVWfUwA0-uf5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3eVWfUwA0-uf5.jpg",
+					"url": "https://t.co/YLxvIbWLLO",
+					"display_url": "pic.twitter.com/YLxvIbWLLO",
+					"expanded_url": "https://twitter.com/deasease/status/1282925937500106754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1057,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1282925031257862100,
+		"in_reply_to_status_id_str": "1282925031257862147",
+		"in_reply_to_user_id": 1281403818794614800,
+		"in_reply_to_user_id_str": "1281403818794614784",
+		"in_reply_to_screen_name": "deasease",
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/YLxvIbWLLO"
+	},
+	{
+		"created_at": "Mon Sep 07 21:15:39 +0000 2020",
+		"id": 1282925031257862100,
+		"id_str": "1303079508866551808",
+		"full_text": "서울국제여성영화제의 입장문에 대한 입장입니다. https://t.co/yeJxuSDKWW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282924988203298800,
+					"id_str": "1282924988203298816",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3desNUcAAjirA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3desNUcAAjirA.jpg",
+					"url": "https://t.co/yeJxuSDKWW",
+					"display_url": "pic.twitter.com/yeJxuSDKWW",
+					"expanded_url": "https://twitter.com/deasease/status/1282925031257862147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1399,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282924988203298800,
+					"id_str": "1282924988203298816",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3desNUcAAjirA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3desNUcAAjirA.jpg",
+					"url": "https://t.co/yeJxuSDKWW",
+					"display_url": "pic.twitter.com/yeJxuSDKWW",
+					"expanded_url": "https://twitter.com/deasease/status/1282925031257862147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1399,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282924999691518000,
+					"id_str": "1282924999691517953",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3dfXAUwAEQy9q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3dfXAUwAEQy9q.jpg",
+					"url": "https://t.co/yeJxuSDKWW",
+					"display_url": "pic.twitter.com/yeJxuSDKWW",
+					"expanded_url": "https://twitter.com/deasease/status/1282925031257862147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282925010420555800,
+					"id_str": "1282925010420555777",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3df--U4AEjQDx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3df--U4AEjQDx.jpg",
+					"url": "https://t.co/yeJxuSDKWW",
+					"display_url": "pic.twitter.com/yeJxuSDKWW",
+					"expanded_url": "https://twitter.com/deasease/status/1282925031257862147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1078,
+							"h": 1408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 919,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282925019765473300,
+					"id_str": "1282925019765473282",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3dghyVAAIOqN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3dghyVAAIOqN0.jpg",
+					"url": "https://t.co/yeJxuSDKWW",
+					"display_url": "pic.twitter.com/yeJxuSDKWW",
+					"expanded_url": "https://twitter.com/deasease/status/1282925031257862147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 755,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 428,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울국제여성영화제의 입장문에 대한 입장입니다. https://t.co/yeJxuSDKWW"
+	},
+	{
+		"created_at": "Mon Sep 07 21:15:35 +0000 2020",
+		"id": 1287966592299487200,
+		"id_str": "1303079491846062080",
+		"full_text": "안녕하세요. 서울국제여성영화제 2차 가해 공론화를 한 이주입니다. 한국일보 최은서 기자님께서 저의 피해를 기사를 통해 가시화해 주셨습니다. 감사합니다.\n\nhttps://t.co/56u3ZOZNxe https://t.co/Wxu23bHRi2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/56u3ZOZNxe",
+					"expanded_url": "https://n.news.naver.com/mnews/article/469/0000519946?sid=102",
+					"display_url": "n.news.naver.com/mnews/article/…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1287966471268659200,
+					"id_str": "1287966471268659206",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed_GroKU8AYBFeF.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ed_GroKU8AYBFeF.png",
+					"url": "https://t.co/Wxu23bHRi2",
+					"display_url": "pic.twitter.com/Wxu23bHRi2",
+					"expanded_url": "https://twitter.com/deasease/status/1287966592299487232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 650,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287966471268659200,
+					"id_str": "1287966471268659206",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed_GroKU8AYBFeF.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ed_GroKU8AYBFeF.png",
+					"url": "https://t.co/Wxu23bHRi2",
+					"display_url": "pic.twitter.com/Wxu23bHRi2",
+					"expanded_url": "https://twitter.com/deasease/status/1287966592299487232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 650,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281403818794614800,
+			"id_str": "1281403818794614784",
+			"name": "이주(메인트확인해주세요)",
+			"screen_name": "deasease",
+			"location": "",
+			"description": "서울국제여성영화제 성추행 피해자입니다. 영화제의 2차 가해를 공론화합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 01:44:25 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. 서울국제여성영화제 2차 가해 공론화를 한 이주입니다. 한국일보 최은서 기자님께서 저의 피해를 기사를 통해 가시화해 주셨습니다. 감사합니다.\n\nhttps://t.co/56u3ZOZNxe https://t.co/Wxu23bHRi2"
+	},
+	{
+		"created_at": "Mon Sep 07 21:09:05 +0000 2020",
+		"id": 1302887693823606800,
+		"id_str": "1303077854440124416",
+		"full_text": "제22회 서울국제여성영화제가 공식 상영작 중 22편을 웨이브(wavve)에서 동시 상영합니다. 오는 9월 11일(금) 오전 10시부터 9월 15일(화) 24시까지 결제 후, 24시간 이내 관람이 가능합니다. 관람 가격은 단편 2,000원, 장편은 작품별 상이합니다. (웨이브 공개작은 스레드로) https://t.co/69vV5jw53Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302885917158326300,
+					"id_str": "1302885917158326273",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTH1rMUwAEdHSs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTH1rMUwAEdHSs.jpg",
+					"url": "https://t.co/69vV5jw53Z",
+					"display_url": "pic.twitter.com/69vV5jw53Z",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1302887693823606785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1260,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302885917158326300,
+					"id_str": "1302885917158326273",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTH1rMUwAEdHSs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTH1rMUwAEdHSs.jpg",
+					"url": "https://t.co/69vV5jw53Z",
+					"display_url": "pic.twitter.com/69vV5jw53Z",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1302887693823606785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1260,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1302885917158301700,
+					"id_str": "1302885917158301697",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTH1rMUYAEsvn8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTH1rMUYAEsvn8.jpg",
+					"url": "https://t.co/69vV5jw53Z",
+					"display_url": "pic.twitter.com/69vV5jw53Z",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1302887693823606785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1260,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15747,
+			"friends_count": 745,
+			"listed_count": 86,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 316,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제22회 서울국제여성영화제가 공식 상영작 중 22편을 웨이브(wavve)에서 동시 상영합니다. 오는 9월 11일(금) 오전 10시부터 9월 15일(화) 24시까지 결제 후, 24시간 이내 관람이 가능합니다. 관람 가격은 단편 2,000원, 장편은 작품별 상이합니다. (웨이브 공개작은 스레드로) https://t.co/69vV5jw53Z"
+	},
+	{
 		"created_at": "Mon Sep 07 20:57:25 +0000 2020",
 		"id": 1302850150398791700,
 		"id_str": "1303074921694679040",
