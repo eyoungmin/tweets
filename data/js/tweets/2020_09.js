@@ -1,6 +1,2538 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 20:57:25 +0000 2020",
+		"id": 1302850150398791700,
+		"id_str": "1303074921694679040",
+		"full_text": "왓챠에서 돌비 비전(Dolby Vision) &amp; 돌비 애트모스(Dolby Atmos)를 모두 적용한 콘텐츠를 선보입니다. &lt;스파이더맨: 홈커밍&gt;과 &lt;베이비 드라이버&gt;, &lt;쥬만지: 새로운 세계&gt;, &lt;블레이드 러너 2049&gt;, &lt;레이디스 나잇&gt; 다섯 작품이 우선 적용됩니다.\nhttps://t.co/wgK7XzOAYg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wgK7XzOAYg",
+					"expanded_url": "https://movie.v.daum.net/v/20200907133301304",
+					"display_url": "movie.v.daum.net/v/202009071333…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15749,
+			"friends_count": 745,
+			"listed_count": 86,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왓챠에서 돌비 비전(Dolby Vision) &amp; 돌비 애트모스(Dolby Atmos)를 모두 적용한 콘텐츠를 선보입니다. &lt;스파이더맨: 홈커밍&gt;과 &lt;베이비 드라이버&gt;, &lt;쥬만지: 새로운 세계&gt;, &lt;블레이드 러너 2049&gt;, &lt;레이디스 나잇&gt; 다섯 작품이 우선 적용됩니다.\nhttps://t.co/wgK7XzOAYg"
+	},
+	{
+		"created_at": "Mon Sep 07 20:48:40 +0000 2020",
+		"id": 1302982696570814500,
+		"id_str": "1303072719571832833",
+		"full_text": "KT&amp;G 상상마당 아카데미도 이제 온라인으로 참여하세요:)\n\n🔻신청 방법 링크 참고🔻\nhttps://t.co/z8vkp3IdmM\n\n#상상마당 #온라인강의 #문화예술아카데미",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "온라인강의",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "문화예술아카데미",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8vkp3IdmM",
+					"expanded_url": "http://bit.ly/2GEBBPF",
+					"display_url": "bit.ly/2GEBBPF",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18177,
+			"friends_count": 1923,
+			"listed_count": 295,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KT&amp;G 상상마당 아카데미도 이제 온라인으로 참여하세요:)\n\n🔻신청 방법 링크 참고🔻\nhttps://t.co/z8vkp3IdmM\n\n#상상마당 #온라인강의 #문화예술아카데미"
+	},
+	{
+		"created_at": "Mon Sep 07 20:48:08 +0000 2020",
+		"id": 1302921205666775000,
+		"id_str": "1303072583152070656",
+		"full_text": "#75Avenue #MPMG #엠피엠지\n[9월 특강] 공연 기획 특강 (수강 신청 진행 중)\nhttps://t.co/60GggdnZ9E\n#클래스 #티켓오픈 #티켓공지 #티켓 https://t.co/HCAlRvq2Yx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "75Avenue",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "MPMG",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "엠피엠지",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "클래스",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "티켓오픈",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "티켓",
+					"indices": [
+						93,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/60GggdnZ9E",
+					"expanded_url": "https://bit.ly/2Ze4dp7",
+					"display_url": "bit.ly/2Ze4dp7",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302921204144238600,
+					"id_str": "1302921204144238593",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTn7pdXcAEKSr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTn7pdXcAEKSr4.jpg",
+					"url": "https://t.co/HCAlRvq2Yx",
+					"display_url": "pic.twitter.com/HCAlRvq2Yx",
+					"expanded_url": "https://twitter.com/TicketOpen/status/1302921205666775042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302921204144238600,
+					"id_str": "1302921204144238593",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTn7pdXcAEKSr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTn7pdXcAEKSr4.jpg",
+					"url": "https://t.co/HCAlRvq2Yx",
+					"display_url": "pic.twitter.com/HCAlRvq2Yx",
+					"expanded_url": "https://twitter.com/TicketOpen/status/1302921205666775042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 881516922294067200,
+			"id_str": "881516922294067201",
+			"name": "티켓오픈 봇",
+			"screen_name": "TicketOpen",
+			"location": "",
+			"description": "#티켓오픈\n#하나티켓 #티켓링크 #위메프공연티켓\n#라이브클럽 #공연장 #인디공연\n\n인터파크 티켓 @InterTicketOpen\n예스24 티켓 @YES24TicketOpen\n멜론 티켓 @MelonTicketOpen\n\n문의 : https://t.co/GBfGiuiRk3",
+			"url": "https://t.co/jjKHK7qmS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jjKHK7qmS0",
+							"expanded_url": "https://twitter.com/SOLPLPARTY/lists/ticket",
+							"display_url": "twitter.com/SOLPLPARTY/lis…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GBfGiuiRk3",
+							"expanded_url": "http://solplparty.channel.io",
+							"display_url": "solplparty.channel.io",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 8,
+			"listed_count": 4,
+			"created_at": "Sun Jul 02 14:16:26 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881516922294067201/1586083867",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#75Avenue #MPMG #엠피엠지\n[9월 특강] 공연 기획 특강 (수강 신청 진행 중)\nhttps://t.co/60GggdnZ9E\n#클래스 #티켓오픈 #티켓공지 #티켓 https://t.co/HCAlRvq2Yx"
+	},
+	{
+		"created_at": "Mon Sep 07 20:45:58 +0000 2020",
+		"id": 1302190430520451000,
+		"id_str": "1303072037640966144",
+		"full_text": "#BoycottMulan \nif u support universal human rights,\nif u hate police brutality,\nIf u believe artists, actors/actresses and companies shall carry social responsibilities,\nif u respect Asians and refuse seeing us as money mining market and tokens. \n\nBoycott #Mulan https://t.co/lUE3pCM7WN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoycottMulan",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "Mulan",
+					"indices": [
+						256,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302190411859943400,
+					"id_str": "1302190411859943426",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EhJPR8DU4AIvgjp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhJPR8DU4AIvgjp.jpg",
+					"url": "https://t.co/lUE3pCM7WN",
+					"display_url": "pic.twitter.com/lUE3pCM7WN",
+					"expanded_url": "https://twitter.com/badiucao/status/1302190430520451072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302190411859943400,
+					"id_str": "1302190411859943426",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EhJPR8DU4AIvgjp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhJPR8DU4AIvgjp.jpg",
+					"url": "https://t.co/lUE3pCM7WN",
+					"display_url": "pic.twitter.com/lUE3pCM7WN",
+					"expanded_url": "https://twitter.com/badiucao/status/1302190430520451072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267695291,
+			"id_str": "267695291",
+			"name": "巴丢草 Badiucao",
+			"screen_name": "badiucao",
+			"location": "",
+			"description": "Chinese-Aussie artist hunted by ChineseGov/Cartoonist/Activist/FreeSpeech /Human rights/Anti-racism/support me: https://t.co/wItzin2RId & https://t.co/gpAqrcDF1Z",
+			"url": "https://t.co/qLli9IvtBv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qLli9IvtBv",
+							"expanded_url": "https://www.badiucao.com",
+							"display_url": "badiucao.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wItzin2RId",
+							"expanded_url": "http://patreon.com/badiucao",
+							"display_url": "patreon.com/badiucao",
+							"indices": [
+								112,
+								135
+							]
+						},
+						{
+							"url": "https://t.co/gpAqrcDF1Z",
+							"expanded_url": "http://badiucao.com/artshop",
+							"display_url": "badiucao.com/artshop",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74894,
+			"friends_count": 12576,
+			"listed_count": 627,
+			"created_at": "Thu Mar 17 11:22:49 +0000 2011",
+			"favourites_count": 32265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 159302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251816290211082240/jo1xNu8y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251816290211082240/jo1xNu8y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1597065468",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4326,
+		"favorite_count": 9811,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BoycottMulan \nif u support universal human rights,\nif u hate police brutality,\nIf u believe artists, actors/actresses and companies shall carry social responsibilities,\nif u respect Asians and refuse seeing us as money mining market and tokens. \n\nBoycott #Mulan https://t.co/lUE3pCM7WN"
+	},
+	{
+		"created_at": "Mon Sep 07 20:44:32 +0000 2020",
+		"id": 1302904221222629400,
+		"id_str": "1303071679225102336",
+		"full_text": "[EVENT] 우아해, 태민의 Criminal\n\n👉🏻https://t.co/XcCCY8Vgf2\n\n#우아해_이태민_Criminal\n#NeverGonnaDanceAgain\n#Act1\n#Criminal\n#태민\n#TAEMIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우아해_이태민_Criminal",
+					"indices": [
+						54,
+						71
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						72,
+						93
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XcCCY8Vgf2",
+					"expanded_url": "http://naver.me/5SU4I3BR",
+					"display_url": "naver.me/5SU4I3BR",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1371846,
+			"friends_count": 2,
+			"listed_count": 3142,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6375,
+		"favorite_count": 15148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] 우아해, 태민의 Criminal\n\n👉🏻https://t.co/XcCCY8Vgf2\n\n#우아해_이태민_Criminal\n#NeverGonnaDanceAgain\n#Act1\n#Criminal\n#태민\n#TAEMIN"
+	},
+	{
+		"created_at": "Mon Sep 07 20:44:18 +0000 2020",
+		"id": 1302895200277160000,
+		"id_str": "1303071617837199360",
+		"full_text": "TAEMIN 태민 [Never Gonna Dance Again : Act 1 - The 3rd Album]\n\n🎧Melon: https://t.co/xq7mpuGZNK\n🎧FLO: https://t.co/QGi0gt61GL\n🎧genie: https://t.co/FxIrQo6gmk\n🎧NAVER MUSIC: https://t.co/qSvxdu5tvt\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						198,
+						205
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						219,
+						240
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						241,
+						246
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xq7mpuGZNK",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10486847",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/QGi0gt61GL",
+					"expanded_url": "http://flomuz.io/s/a.BzOHB",
+					"display_url": "flomuz.io/s/a.BzOHB",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/FxIrQo6gmk",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81563195",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/qSvxdu5tvt",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=4898064",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1371846,
+			"friends_count": 2,
+			"listed_count": 3142,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9187,
+		"favorite_count": 17212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 [Never Gonna Dance Again : Act 1 - The 3rd Album]\n\n🎧Melon: https://t.co/xq7mpuGZNK\n🎧FLO: https://t.co/QGi0gt61GL\n🎧genie: https://t.co/FxIrQo6gmk\n🎧NAVER MUSIC: https://t.co/qSvxdu5tvt\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal"
+	},
+	{
+		"created_at": "Mon Sep 07 20:44:14 +0000 2020",
+		"id": 1302894442647437300,
+		"id_str": "1303071601789812736",
+		"full_text": "TAEMIN 태민 'Criminal' MV\n\n🎬https://t.co/QxswTcCvuD\n\n#태민 #TAEMIN #샤이니 #SHINee #NeverGonnaDanceAgain #Act1 #Criminal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						76,
+						97
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QxswTcCvuD",
+					"expanded_url": "https://youtu.be/hFQL7BS6lrs",
+					"display_url": "youtu.be/hFQL7BS6lrs",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1371846,
+			"friends_count": 2,
+			"listed_count": 3142,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23070,
+		"favorite_count": 35579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEMIN 태민 'Criminal' MV\n\n🎬https://t.co/QxswTcCvuD\n\n#태민 #TAEMIN #샤이니 #SHINee #NeverGonnaDanceAgain #Act1 #Criminal"
+	},
+	{
+		"created_at": "Mon Sep 07 20:43:58 +0000 2020",
+		"id": 1302825038240833500,
+		"id_str": "1303071536312508418",
+		"full_text": "‘컴백’ 태민 “스릴러 영화 같은 앨범, 나의 생각과 애정 담아” [일문일답] \n\n👉🏻https://t.co/BERcWZN5b2 \n\n#태민 #TAEMIN #샤이니 #SHINee #NeverGonnaDanceAgain #Act1 #Criminal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						99,
+						120
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BERcWZN5b2",
+					"expanded_url": "http://naver.me/5w5IElPh",
+					"display_url": "naver.me/5w5IElPh",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1371846,
+			"friends_count": 2,
+			"listed_count": 3142,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6402,
+		"favorite_count": 15840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘컴백’ 태민 “스릴러 영화 같은 앨범, 나의 생각과 애정 담아” [일문일답] \n\n👉🏻https://t.co/BERcWZN5b2 \n\n#태민 #TAEMIN #샤이니 #SHINee #NeverGonnaDanceAgain #Act1 #Criminal"
+	},
+	{
+		"created_at": "Mon Sep 07 20:43:23 +0000 2020",
+		"id": 1303071389205893000,
+		"id_str": "1303071389205893120",
+		"full_text": "#뉴닉 #NEWNEEK\n🦔의료수가, 대체 뭐길래?\nhttps://t.co/JiADLkzGBt\n#뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴닉",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "NEWNEEK",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						58,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JiADLkzGBt",
+					"expanded_url": "https://notifier.in/item/gtrfslqamz2kf5bpyhfh4gfarh3csuf3/2042999.html",
+					"display_url": "notifier.in/item/gtrfslqam…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뉴닉 #NEWNEEK\n🦔의료수가, 대체 뭐길래?\nhttps://t.co/JiADLkzGBt\n#뉴스레터 #Newsletter"
+	},
+	{
+		"created_at": "Mon Sep 07 20:43:12 +0000 2020",
+		"id": 1303071343215145000,
+		"id_str": "1303071343215144961",
+		"full_text": "뮬란: 개봉 앞둔 '뮬란'... 아시아서 거세지는 보이콧 - BBC News 코리아\nhttps://t.co/EPji8enXI8\n\n#뮬란 #유역비 #불매 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮬란",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "유역비",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "불매",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EPji8enXI8",
+					"expanded_url": "https://www.bbc.com/korean/international-54045130",
+					"display_url": "bbc.com/korean/interna…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮬란: 개봉 앞둔 '뮬란'... 아시아서 거세지는 보이콧 - BBC News 코리아\nhttps://t.co/EPji8enXI8\n\n#뮬란 #유역비 #불매 #minfav"
+	},
+	{
+		"created_at": "Mon Sep 07 20:40:44 +0000 2020",
+		"id": 1302109224906956800,
+		"id_str": "1303070720205881344",
+		"full_text": "Calls to boycott “Mulan” from supporters of the Hong Kong protests reignited on Friday as the film was released, reviving a campaign that began last year after its star, Liu Yifei, voiced support for the city’s police. https://t.co/BlkfN3ZG1H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BlkfN3ZG1H",
+					"expanded_url": "https://nyti.ms/2ZaYYGK",
+					"display_url": "nyti.ms/2ZaYYGK",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807095,
+			"id_str": "807095",
+			"name": "The New York Times",
+			"screen_name": "nytimes",
+			"location": "New York City",
+			"description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+			"url": "http://t.co/ahvuWqicF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahvuWqicF9",
+							"expanded_url": "http://www.nytimes.com/",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ghL9OoYKMM",
+							"expanded_url": "http://nyti.ms/2FVHq9v",
+							"display_url": "nyti.ms/2FVHq9v",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 47255456,
+			"friends_count": 905,
+			"listed_count": 201532,
+			"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+			"favourites_count": 18415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 406689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+			"profile_link_color": "607696",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1244,
+		"favorite_count": 2013,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calls to boycott “Mulan” from supporters of the Hong Kong protests reignited on Friday as the film was released, reviving a campaign that began last year after its star, Liu Yifei, voiced support for the city’s police. https://t.co/BlkfN3ZG1H"
+	},
+	{
+		"created_at": "Mon Sep 07 20:39:34 +0000 2020",
+		"id": 1302955147841085400,
+		"id_str": "1303070427758034944",
+		"full_text": "홍콩서 다시 시위…경찰, 12살 아이까지 '무차별 진압' https://t.co/XpIeb81gRI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XpIeb81gRI",
+					"expanded_url": "http://news.jtbc.joins.com/html/322/NB11968322.html",
+					"display_url": "news.jtbc.joins.com/html/322/NB119…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603438,
+			"friends_count": 44159,
+			"listed_count": 2149,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 77131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 229,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍콩서 다시 시위…경찰, 12살 아이까지 '무차별 진압' https://t.co/XpIeb81gRI"
+	},
+	{
+		"created_at": "Mon Sep 07 20:34:18 +0000 2020",
+		"id": 1303069104278966300,
+		"id_str": "1303069104278966278",
+		"full_text": "\"여성 후배들이 나처럼 '무작전'으로 일하지 않았으면\" : 선샤인 콘텐츠\nhttps://t.co/NybGAHIv9Z\n\n롯데그룹 첫 여성 임원이자 대홍기획 자회사인 엠허브 CEO 박선미 님 인터뷰\n\n#박선미 #마케팅 #마케터 #크리에이터 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박선미",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "마케팅",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "마케터",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "크리에이터",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NybGAHIv9Z",
+					"expanded_url": "https://villasunshine.kr/contents/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9",
+					"display_url": "villasunshine.kr/contents/?q=YT…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"여성 후배들이 나처럼 '무작전'으로 일하지 않았으면\" : 선샤인 콘텐츠\nhttps://t.co/NybGAHIv9Z\n\n롯데그룹 첫 여성 임원이자 대홍기획 자회사인 엠허브 CEO 박선미 님 인터뷰\n\n#박선미 #마케팅 #마케터 #크리에이터 #minfav"
+	},
+	{
+		"created_at": "Mon Sep 07 20:29:54 +0000 2020",
+		"id": 1302860255915700200,
+		"id_str": "1303067995086884864",
+		"full_text": "오래간만에 제가 회사 기술 블로그에 글을 썼습니다. 꽤 길지만 재미있게 읽어주시면 좋겠습니다.\n\nhttps://t.co/zUWTsTRwvG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zUWTsTRwvG",
+					"expanded_url": "https://helloworld.kurly.com/blog/vsms-performance-experiment/",
+					"display_url": "helloworld.kurly.com/blog/vsms-perf…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732911923,
+			"id_str": "732911923",
+			"name": "기계인간 John Grib",
+			"screen_name": "John_Grib",
+			"location": "기하학의 이념",
+			"description": "유물론자.",
+			"url": "https://t.co/7YPkFr8iLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YPkFr8iLb",
+							"expanded_url": "https://johngrib.github.io",
+							"display_url": "johngrib.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7885,
+			"friends_count": 328,
+			"listed_count": 50,
+			"created_at": "Thu Aug 02 14:16:06 +0000 2012",
+			"favourites_count": 9849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732911923/1472973825",
+			"profile_link_color": "45619D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오래간만에 제가 회사 기술 블로그에 글을 썼습니다. 꽤 길지만 재미있게 읽어주시면 좋겠습니다.\n\nhttps://t.co/zUWTsTRwvG"
+	},
+	{
+		"created_at": "Mon Sep 07 20:29:10 +0000 2020",
+		"id": 1302821131456360400,
+		"id_str": "1303067808507465728",
+		"full_text": "하이트진로는 2009년부터 지속되어 온 소주 공용병 시스템을 붕괴시켰다. 주류업계 1위 기업으로 자원의 효율적 재이용과 자원순환에 앞장서야 함에도, 합의를 깨뜨리고 정책을 후퇴시킨 것이다. \n\nhttps://t.co/NAF4bXzVnS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NAF4bXzVnS",
+					"expanded_url": "http://omn.kr/1ot8y",
+					"display_url": "omn.kr/1ot8y",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56970775,
+			"id_str": "56970775",
+			"name": "오마이뉴스",
+			"screen_name": "OhmyNews_Korea",
+			"location": "seoul, korea",
+			"description": "오마이뉴스(OhmyNews) 공식 트위터입니다. 여러분과 함께 합니다. https://t.co/xz0tv8YK9O 모든 시민은 기자다!",
+			"url": "http://t.co/G4Ol3jVa1w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/G4Ol3jVa1w",
+							"expanded_url": "http://www.ohmynews.com",
+							"display_url": "ohmynews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xz0tv8YK9O",
+							"expanded_url": "http://m.ohmynews.com",
+							"display_url": "m.ohmynews.com",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312316,
+			"friends_count": 43517,
+			"listed_count": 7476,
+			"created_at": "Wed Jul 15 09:13:22 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 327707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3493007727/f4de82f047547de9f99266c1af53c9cb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3493007727/f4de82f047547de9f99266c1af53c9cb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56970775/1415956191",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1488,
+		"favorite_count": 195,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하이트진로는 2009년부터 지속되어 온 소주 공용병 시스템을 붕괴시켰다. 주류업계 1위 기업으로 자원의 효율적 재이용과 자원순환에 앞장서야 함에도, 합의를 깨뜨리고 정책을 후퇴시킨 것이다. \n\nhttps://t.co/NAF4bXzVnS"
+	},
+	{
+		"created_at": "Mon Sep 07 20:27:34 +0000 2020",
+		"id": 1302793698539839500,
+		"id_str": "1303067408421105664",
+		"full_text": "MBTI 검사에 대한 비판기사군요. 정신과 의사로써 이 검사는 재미 이상 별 의미 없다고 봅니다. 혈액형 성격검사 보다 조금 진일보. 마켓팅을 잘 한 비지니스 성공모델 검사. 가끔 너무 확신해서 자신이 어떤 타잎이라고 말하는 분들 보면 그렇게 간단하면 얼마나 좋나싶어요\nhttps://t.co/iC2CONgIVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iC2CONgIVi",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=103&oid=346&aid=0000033890",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144778555,
+			"id_str": "144778555",
+			"name": "maumdoc",
+			"screen_name": "maum_doc",
+			"location": "korea",
+			"description": "정원 가꾸는 정신과의사. psychiatrist.  group psychotherapist, cat lover. amateur gardener. 미래세대에 기회를.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1900,
+			"friends_count": 1441,
+			"listed_count": 34,
+			"created_at": "Mon May 17 08:14:20 +0000 2010",
+			"favourites_count": 2370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177776868092596226/NJ50d0Me_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177776868092596226/NJ50d0Me_normal.jpg",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 793,
+		"favorite_count": 358,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MBTI 검사에 대한 비판기사군요. 정신과 의사로써 이 검사는 재미 이상 별 의미 없다고 봅니다. 혈액형 성격검사 보다 조금 진일보. 마켓팅을 잘 한 비지니스 성공모델 검사. 가끔 너무 확신해서 자신이 어떤 타잎이라고 말하는 분들 보면 그렇게 간단하면 얼마나 좋나싶어요\nhttps://t.co/iC2CONgIVi"
+	},
+	{
+		"created_at": "Mon Sep 07 20:23:49 +0000 2020",
+		"id": 1302886564129775600,
+		"id_str": "1303066465646473216",
+		"full_text": "악수 안된다고 막는데 악수해주는 크리스탈 https://t.co/HPbUcahocK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302886549567074300,
+					"id_str": "1302886549567074304",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhTIafGUcAAoTJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhTIafGUcAAoTJf.jpg",
+					"url": "https://t.co/HPbUcahocK",
+					"display_url": "pic.twitter.com/HPbUcahocK",
+					"expanded_url": "https://twitter.com/Panzer_vowel/status/1302886564129775617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302886549567074300,
+					"id_str": "1302886549567074304",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhTIafGUcAAoTJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhTIafGUcAAoTJf.jpg",
+					"url": "https://t.co/HPbUcahocK",
+					"display_url": "pic.twitter.com/HPbUcahocK",
+					"expanded_url": "https://twitter.com/Panzer_vowel/status/1302886564129775617/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 286,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							143
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EhTIafGUcAAoTJf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192014273490256000,
+			"id_str": "1192014273490255872",
+			"name": "내 취향 팬아저 모음",
+			"screen_name": "Panzer_vowel",
+			"location": "↓ 그동안 올렸던 트윗 정리 타래 ↓",
+			"description": "좋아하는거 이것저것 올립니다! 제보 안받습니다",
+			"url": "https://t.co/UPWMaP0UN7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UPWMaP0UN7",
+							"expanded_url": "https://twitter.com/Panzer_Chatter/status/1216540184788914176?s=19",
+							"display_url": "twitter.com/Panzer_Chatter…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26008,
+			"friends_count": 2,
+			"listed_count": 43,
+			"created_at": "Wed Nov 06 09:43:04 +0000 2019",
+			"favourites_count": 968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210100201991458816/3d98ebws_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210100201991458816/3d98ebws_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192014273490255872/1593389110",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 797,
+		"favorite_count": 881,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "악수 안된다고 막는데 악수해주는 크리스탈 https://t.co/HPbUcahocK"
+	},
+	{
+		"created_at": "Mon Sep 07 20:21:55 +0000 2020",
+		"id": 1302782896713814000,
+		"id_str": "1303065984886996992",
+		"full_text": "페이스북, 불치병 프랑스인 죽음 생중계 차단 https://t.co/UekHJfDev3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UekHJfDev3",
+					"expanded_url": "http://www.bloter.net/archives/404530",
+					"display_url": "bloter.net/archives/404530",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54794,
+			"friends_count": 9,
+			"listed_count": 2365,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북, 불치병 프랑스인 죽음 생중계 차단 https://t.co/UekHJfDev3"
+	},
+	{
 		"created_at": "Mon Sep 07 16:23:14 +0000 2020",
 		"id": 1303005919064854500,
 		"id_str": "1303005919064854529",
