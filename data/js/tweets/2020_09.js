@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 06:47:14 +0000 2020",
+		"id": 1302860964581306400,
+		"id_str": "1302860964581306368",
+		"full_text": "#레드벨벳 #RedVelvet #일본 #JAPAN\n「ReVeluv-Baby presents みんなで見たい！ベストライブランキング！」プレイリスト公開！\nhttps://t.co/uOhfJOgtsb https://t.co/LwyKVC5hPo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "일본",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "JAPAN",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uOhfJOgtsb",
+					"expanded_url": "http://redvelvet-jp.net/news/detail.php?id=1085862",
+					"display_url": "redvelvet-jp.net/news/detail.ph…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302860963486609400,
+					"id_str": "1302860963486609408",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EhSxJLhXsAA0Moo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhSxJLhXsAA0Moo.jpg",
+					"url": "https://t.co/LwyKVC5hPo",
+					"display_url": "pic.twitter.com/LwyKVC5hPo",
+					"expanded_url": "https://twitter.com/fromminn/status/1302860964581306368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302860963486609400,
+					"id_str": "1302860963486609408",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EhSxJLhXsAA0Moo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhSxJLhXsAA0Moo.jpg",
+					"url": "https://t.co/LwyKVC5hPo",
+					"display_url": "pic.twitter.com/LwyKVC5hPo",
+					"expanded_url": "https://twitter.com/fromminn/status/1302860964581306368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#레드벨벳 #RedVelvet #일본 #JAPAN\n「ReVeluv-Baby presents みんなで見たい！ベストライブランキング！」プレイリスト公開！\nhttps://t.co/uOhfJOgtsb https://t.co/LwyKVC5hPo"
+	},
+	{
+		"created_at": "Mon Sep 07 06:45:04 +0000 2020",
+		"id": 1302856651569991700,
+		"id_str": "1302860420512968704",
+		"full_text": "JO1 'STARGAZER(Special Edition)' Released!\n🔊https://t.co/hO7AnHDFlf https://t.co/rrrE2PcWgB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hO7AnHDFlf",
+					"expanded_url": "https://www.facebook.com/monotreemusic/posts/3871658622849210",
+					"display_url": "facebook.com/monotreemusic/…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302856630862712800,
+					"id_str": "1302856630862712832",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EhStM_PVkAApVXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhStM_PVkAApVXo.jpg",
+					"url": "https://t.co/rrrE2PcWgB",
+					"display_url": "pic.twitter.com/rrrE2PcWgB",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1302856651569991682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302856630862712800,
+					"id_str": "1302856630862712832",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EhStM_PVkAApVXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhStM_PVkAApVXo.jpg",
+					"url": "https://t.co/rrrE2PcWgB",
+					"display_url": "pic.twitter.com/rrrE2PcWgB",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1302856651569991682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6712,
+			"friends_count": 0,
+			"listed_count": 48,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JO1 'STARGAZER(Special Edition)' Released!\n🔊https://t.co/hO7AnHDFlf https://t.co/rrrE2PcWgB"
+	},
+	{
+		"created_at": "Mon Sep 07 06:44:59 +0000 2020",
+		"id": 1302851120599986200,
+		"id_str": "1302860399033946112",
+		"full_text": "9월 7일, 오늘은 바로 푸른 하늘의 날입니다!⛅️\n\n레드벨벳이 함께한 푸른 하늘의 날 홍보영상을 만나보세요!\n\n👉🏻https://t.co/rtTdf1sb7Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rtTdf1sb7Q",
+					"expanded_url": "https://www.youtube.com/watch?v=eudp8OLkouQ&t=1s",
+					"display_url": "youtube.com/watch?v=eudp8O…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3140385,
+			"friends_count": 1,
+			"listed_count": 6649,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3311,
+		"favorite_count": 8566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월 7일, 오늘은 바로 푸른 하늘의 날입니다!⛅️\n\n레드벨벳이 함께한 푸른 하늘의 날 홍보영상을 만나보세요!\n\n👉🏻https://t.co/rtTdf1sb7Q"
+	},
+	{
+		"created_at": "Mon Sep 07 06:33:23 +0000 2020",
+		"id": 1302818877491961900,
+		"id_str": "1302857477315162112",
+		"full_text": "'태민의 ‘#Criminal’ Lounge'가 오늘 저녁 8시 네이버 V LIVE SMTOWN 채널에서 생방송됩니다!\n태민이 직접 들려주는 정규 3집 ‘#NeverGonnaDanceAgain : #Act1’의 모든 것!🧀\n\n‘Criminal’ Lounge로 짝궁들을 초대합니다!6v6)/♥\n👉🏻https://t.co/5qmjfb1GnF\n\n#태민 #TAEMIN #샤이니 #SHINee https://t.co/caM9Cz0baz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Criminal",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						85,
+						106
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						193,
+						200
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						206,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5qmjfb1GnF",
+					"expanded_url": "https://www.vlive.tv/video/211306",
+					"display_url": "vlive.tv/video/211306",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302809562366369800,
+					"id_str": "1302809562366369792",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EhSCZPbUYAAhhVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhSCZPbUYAAhhVe.jpg",
+					"url": "https://t.co/caM9Cz0baz",
+					"display_url": "pic.twitter.com/caM9Cz0baz",
+					"expanded_url": "https://twitter.com/SHINee/status/1302818877491961856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302809562366369800,
+					"id_str": "1302809562366369792",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EhSCZPbUYAAhhVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhSCZPbUYAAhhVe.jpg",
+					"url": "https://t.co/caM9Cz0baz",
+					"display_url": "pic.twitter.com/caM9Cz0baz",
+					"expanded_url": "https://twitter.com/SHINee/status/1302818877491961856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1368497,
+			"friends_count": 2,
+			"listed_count": 3127,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5258,
+		"favorite_count": 12553,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'태민의 ‘#Criminal’ Lounge'가 오늘 저녁 8시 네이버 V LIVE SMTOWN 채널에서 생방송됩니다!\n태민이 직접 들려주는 정규 3집 ‘#NeverGonnaDanceAgain : #Act1’의 모든 것!🧀\n\n‘Criminal’ Lounge로 짝궁들을 초대합니다!6v6)/♥\n👉🏻https://t.co/5qmjfb1GnF\n\n#태민 #TAEMIN #샤이니 #SHINee https://t.co/caM9Cz0baz"
+	},
+	{
 		"created_at": "Mon Sep 07 03:04:41 +0000 2020",
 		"id": 1302804958623010800,
 		"id_str": "1302804958623010816",
