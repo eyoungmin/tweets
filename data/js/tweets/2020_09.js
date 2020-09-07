@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 00:45:04 +0000 2020",
+		"id": 1302763782758756400,
+		"id_str": "1302769823139717125",
+		"full_text": "[#예술경영 웹진 : 현장읽기] \n\n&lt;미술시장, 온라인 플랫폼의 가능성과 한계&gt;\n\n452호 현장읽기 더보기👇\nhttps://t.co/d70fvLhrqm\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/EpNW33FAEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d70fvLhrqm",
+					"expanded_url": "https://bit.ly/2QPIrUl",
+					"display_url": "bit.ly/2QPIrUl",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302763749657333800,
+					"id_str": "1302763749657333760",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EhRYulyU0AAOBgE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhRYulyU0AAOBgE.png",
+					"url": "https://t.co/EpNW33FAEb",
+					"display_url": "pic.twitter.com/EpNW33FAEb",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1302763782758756355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 331,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302763749657333800,
+					"id_str": "1302763749657333760",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EhRYulyU0AAOBgE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhRYulyU0AAOBgE.png",
+					"url": "https://t.co/EpNW33FAEb",
+					"display_url": "pic.twitter.com/EpNW33FAEb",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1302763782758756355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 331,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6786,
+			"friends_count": 3015,
+			"listed_count": 102,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 현장읽기] \n\n&lt;미술시장, 온라인 플랫폼의 가능성과 한계&gt;\n\n452호 현장읽기 더보기👇\nhttps://t.co/d70fvLhrqm\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/EpNW33FAEb"
+	},
+	{
 		"created_at": "Sun Sep 06 23:45:00 +0000 2020",
 		"id": 1302750060971610000,
 		"id_str": "1302754706545094656",
