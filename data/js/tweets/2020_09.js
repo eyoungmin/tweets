@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 14:00:57 +0000 2020",
+		"id": 1303274297209749500,
+		"id_str": "1303332498596749313",
+		"full_text": "공중그늘 [연가], 선우정아 [Serenade], 구원찬 [일지], 천미지 [Mother and Lover], [포크라노스 컴필레이션 Vol. 3 ‘웅성웅성’] 등 지금까지 해 왔던 음반 디자인에 관한 인터뷰를 했습니다.\n\n웹 https://t.co/obtC30jw5G\n브런치 https://t.co/apLYO2rfe8\n네이버포스트 https://t.co/TrPkuNGLOQ https://t.co/lYmGNqVja4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/obtC30jw5G",
+					"expanded_url": "http://bit.ly/2ZgPpWN",
+					"display_url": "bit.ly/2ZgPpWN",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/apLYO2rfe8",
+					"expanded_url": "http://bit.ly/329rMSc",
+					"display_url": "bit.ly/329rMSc",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/TrPkuNGLOQ",
+					"expanded_url": "http://bit.ly/2R61GsI",
+					"display_url": "bit.ly/2R61GsI",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303274291706822700,
+					"id_str": "1303274291706822656",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYpEDIVgAA96Xt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYpEDIVgAA96Xt.jpg",
+					"url": "https://t.co/lYmGNqVja4",
+					"display_url": "pic.twitter.com/lYmGNqVja4",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1303274297209749504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1017,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303274291706822700,
+					"id_str": "1303274291706822656",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYpEDIVgAA96Xt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYpEDIVgAA96Xt.jpg",
+					"url": "https://t.co/lYmGNqVja4",
+					"display_url": "pic.twitter.com/lYmGNqVja4",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1303274297209749504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1017,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303274291757080600,
+					"id_str": "1303274291757080581",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYpEDUUYAU2Sly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYpEDUUYAU2Sly.jpg",
+					"url": "https://t.co/lYmGNqVja4",
+					"display_url": "pic.twitter.com/lYmGNqVja4",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1303274297209749504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 610,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303274291857776600,
+					"id_str": "1303274291857776640",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYpEDsU4AAtY9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYpEDsU4AAtY9h.jpg",
+					"url": "https://t.co/lYmGNqVja4",
+					"display_url": "pic.twitter.com/lYmGNqVja4",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1303274297209749504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 610,
+							"h": 1021,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 406,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 610,
+							"h": 1021,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303274291945828400,
+					"id_str": "1303274291945828353",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYpEEBUcAELXUA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYpEEBUcAELXUA.jpg",
+					"url": "https://t.co/lYmGNqVja4",
+					"display_url": "pic.twitter.com/lYmGNqVja4",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1303274297209749504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 609,
+							"h": 1019,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 609,
+							"h": 1019,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 406,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 719202626638774300,
+			"id_str": "719202626638774272",
+			"name": "SUPERSALADSTUFF",
+			"screen_name": "supersaladstuff",
+			"location": "",
+			"description": "그래픽디자인을 합니다. 책과 포스터, 진, 무가지 등의 인쇄물을 주기적으로 만들고 소개합니다. 음악 관련 디자인과 움직이는 것들, 물건도 가끔 만듭니다.",
+			"url": "https://t.co/A8t1l6lfYG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A8t1l6lfYG",
+							"expanded_url": "http://supersaladstuff.com",
+							"display_url": "supersaladstuff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1727,
+			"friends_count": 133,
+			"listed_count": 5,
+			"created_at": "Sun Apr 10 16:37:23 +0000 2016",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719202626638774272/1583942293",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공중그늘 [연가], 선우정아 [Serenade], 구원찬 [일지], 천미지 [Mother and Lover], [포크라노스 컴필레이션 Vol. 3 ‘웅성웅성’] 등 지금까지 해 왔던 음반 디자인에 관한 인터뷰를 했습니다.\n\n웹 https://t.co/obtC30jw5G\n브런치 https://t.co/apLYO2rfe8\n네이버포스트 https://t.co/TrPkuNGLOQ https://t.co/lYmGNqVja4"
+	},
+	{
+		"created_at": "Tue Sep 08 13:53:30 +0000 2020",
+		"id": 1303316579262828500,
+		"id_str": "1303330624627904512",
+		"full_text": "화제의 AI 작문 프로그램 GPT-3 기고문. 가디언이 주제 주고 스스로 인터넷 독학으로 작성한 것을 일반 원고처럼 편집 소개. 아주 기발하진 않지만 웬만한 사람과 분간하기 어려운 수준. 악용할 경우 위험은 분명해 보인다. 직접 감상해 보시길. “나는 생각하는 로봇입니다.. https://t.co/AZUKS7KRgw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AZUKS7KRgw",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101135,
+			"friends_count": 2393,
+			"listed_count": 307,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "화제의 AI 작문 프로그램 GPT-3 기고문. 가디언이 주제 주고 스스로 인터넷 독학으로 작성한 것을 일반 원고처럼 편집 소개. 아주 기발하진 않지만 웬만한 사람과 분간하기 어려운 수준. 악용할 경우 위험은 분명해 보인다. 직접 감상해 보시길. “나는 생각하는 로봇입니다.. https://t.co/AZUKS7KRgw"
+	},
+	{
 		"created_at": "Tue Sep 08 12:22:18 +0000 2020",
 		"id": 1302878979557220400,
 		"id_str": "1303307675313168391",
