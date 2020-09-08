@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 12:22:18 +0000 2020",
+		"id": 1302878979557220400,
+		"id_str": "1303307675313168391",
+		"full_text": "Carrots X Crocs 🥕💚 https://t.co/F3OhlO3hHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302878974679294000,
+					"id_str": "1302878974679293954",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTBhkcVoAIczjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTBhkcVoAIczjg.jpg",
+					"url": "https://t.co/F3OhlO3hHL",
+					"display_url": "pic.twitter.com/F3OhlO3hHL",
+					"expanded_url": "https://twitter.com/dearyouaremine/status/1302878979557220353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302878974679294000,
+					"id_str": "1302878974679293954",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTBhkcVoAIczjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTBhkcVoAIczjg.jpg",
+					"url": "https://t.co/F3OhlO3hHL",
+					"display_url": "pic.twitter.com/F3OhlO3hHL",
+					"expanded_url": "https://twitter.com/dearyouaremine/status/1302878979557220353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1302878974775763000,
+					"id_str": "1302878974775762945",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTBhkzVoAECPmJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTBhkzVoAECPmJ.jpg",
+					"url": "https://t.co/F3OhlO3hHL",
+					"display_url": "pic.twitter.com/F3OhlO3hHL",
+					"expanded_url": "https://twitter.com/dearyouaremine/status/1302878979557220353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1302878974909886500,
+					"id_str": "1302878974909886465",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTBhlTUMAEgJK7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTBhlTUMAEgJK7.jpg",
+					"url": "https://t.co/F3OhlO3hHL",
+					"display_url": "pic.twitter.com/F3OhlO3hHL",
+					"expanded_url": "https://twitter.com/dearyouaremine/status/1302878979557220353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1302878975090278400,
+					"id_str": "1302878975090278400",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTBhl-UwAAEYrp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTBhl-UwAAEYrp.jpg",
+					"url": "https://t.co/F3OhlO3hHL",
+					"display_url": "pic.twitter.com/F3OhlO3hHL",
+					"expanded_url": "https://twitter.com/dearyouaremine/status/1302878979557220353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1050710942504247300,
+			"id_str": "1050710942504247298",
+			"name": "Dear.",
+			"screen_name": "dearyouaremine",
+			"location": "",
+			"description": "난 공주고 이건 취미야.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11979,
+			"friends_count": 77,
+			"listed_count": 29,
+			"created_at": "Fri Oct 12 11:33:04 +0000 2018",
+			"favourites_count": 16386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157998327255842817/AmnqtHYg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157998327255842817/AmnqtHYg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050710942504247298/1558762660",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 236,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Carrots X Crocs 🥕💚 https://t.co/F3OhlO3hHL"
+	},
+	{
 		"created_at": "Tue Sep 08 11:49:25 +0000 2020",
 		"id": 1303299399511158800,
 		"id_str": "1303299399511158784",
