@@ -1,6 +1,1157 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 22:41:34 +0000 2020",
+		"id": 1303283390477525000,
+		"id_str": "1303463516360253440",
+		"full_text": "윤아가 경험한 𝙉𝙀𝙒. 갈색병의 멀티 리페어 𝐌𝐀𝐆𝐈𝐂. \n타고난 피부를 이기는 관리하는 피부, 𝙉𝙀𝙒. 갈색병의 놀라운 힘으로 경험하세요! \n\n#YOONA #GirlsGeneration #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/ByisVwWO8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "EsteeLauder",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "AdvancedNightRepair",
+					"indices": [
+						118,
+						138
+					]
+				},
+				{
+					"text": "LittleBrownBottle",
+					"indices": [
+						139,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303283337713209300,
+					"id_str": "1303283337713209344",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303283337713209344/pu/img/yfe3zBBJHDrwASeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303283337713209344/pu/img/yfe3zBBJHDrwASeg.jpg",
+					"url": "https://t.co/ByisVwWO8x",
+					"display_url": "pic.twitter.com/ByisVwWO8x",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303283390477524992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303283337713209300,
+					"id_str": "1303283337713209344",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303283337713209344/pu/img/yfe3zBBJHDrwASeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303283337713209344/pu/img/yfe3zBBJHDrwASeg.jpg",
+					"url": "https://t.co/ByisVwWO8x",
+					"display_url": "pic.twitter.com/ByisVwWO8x",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303283390477524992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303283337713209344/pu/vid/720x900/dSvWem6S1-rXJ8rG.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303283337713209344/pu/vid/360x450/OUz12TfwNaKabz2G.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303283337713209344/pu/vid/320x400/6MAi1u_ltsSbE0o6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1303283337713209344/pu/pl/rGUUeeS3G2pBHkD0.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1303276438972297200,
+		"in_reply_to_status_id_str": "1303276438972297216",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13961,
+			"friends_count": 9,
+			"listed_count": 218,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1597959820",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윤아가 경험한 𝙉𝙀𝙒. 갈색병의 멀티 리페어 𝐌𝐀𝐆𝐈𝐂. \n타고난 피부를 이기는 관리하는 피부, 𝙉𝙀𝙒. 갈색병의 놀라운 힘으로 경험하세요! \n\n#YOONA #GirlsGeneration #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/ByisVwWO8x"
+	},
+	{
+		"created_at": "Tue Sep 08 22:41:15 +0000 2020",
+		"id": 1303277035469455400,
+		"id_str": "1303463438484566016",
+		"full_text": "YOONA Estee Lauder 2020 Promotion \n\n#YOONA #GirlsGeneration #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/Ho6LLfC1DH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"text": "EsteeLauder",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"text": "AdvancedNightRepair",
+					"indices": [
+						73,
+						93
+					]
+				},
+				{
+					"text": "LittleBrownBottle",
+					"indices": [
+						94,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303276939033993200,
+					"id_str": "1303276939033993216",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYreJMUYAA-y5m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYreJMUYAA-y5m.jpg",
+					"url": "https://t.co/Ho6LLfC1DH",
+					"display_url": "pic.twitter.com/Ho6LLfC1DH",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303277035469455361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303276939033993200,
+					"id_str": "1303276939033993216",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYreJMUYAA-y5m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYreJMUYAA-y5m.jpg",
+					"url": "https://t.co/Ho6LLfC1DH",
+					"display_url": "pic.twitter.com/Ho6LLfC1DH",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303277035469455361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303276981828464600,
+					"id_str": "1303276981828464642",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYrgonUMAIx--B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYrgonUMAIx--B.jpg",
+					"url": "https://t.co/Ho6LLfC1DH",
+					"display_url": "pic.twitter.com/Ho6LLfC1DH",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303277035469455361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 996,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303277000828752000,
+					"id_str": "1303277000828751872",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYrhvZVkAAGl-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYrhvZVkAAGl-K.jpg",
+					"url": "https://t.co/Ho6LLfC1DH",
+					"display_url": "pic.twitter.com/Ho6LLfC1DH",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303277035469455361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1303276438972297200,
+		"in_reply_to_status_id_str": "1303276438972297216",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13961,
+			"friends_count": 9,
+			"listed_count": 218,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1597959820",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YOONA Estee Lauder 2020 Promotion \n\n#YOONA #GirlsGeneration #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/Ho6LLfC1DH"
+	},
+	{
+		"created_at": "Tue Sep 08 22:41:10 +0000 2020",
+		"id": 1303276438972297200,
+		"id_str": "1303463418125410304",
+		"full_text": "[​Promotion] YOONA Estee Lauder 2020 \n\n더욱 우아하고 아름다워진 배우 윤아와 에스티로더의 운명적인 만남 ✦ \n👉🏻 https://t.co/M098AAuXpJ \n\n#윤아 #에스티로더 #YOONA #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/IqyiUDMATA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "에스티로더",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "EsteeLauder",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "AdvancedNightRepair",
+					"indices": [
+						138,
+						158
+					]
+				},
+				{
+					"text": "LittleBrownBottle",
+					"indices": [
+						159,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M098AAuXpJ",
+					"expanded_url": "https://bit.ly/328kUEh",
+					"display_url": "bit.ly/328kUEh",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303276386350633000,
+					"id_str": "1303276386350632965",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYq9-SVkAU2R1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYq9-SVkAU2R1-.jpg",
+					"url": "https://t.co/IqyiUDMATA",
+					"display_url": "pic.twitter.com/IqyiUDMATA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303276438972297216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303276386350633000,
+					"id_str": "1303276386350632965",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYq9-SVkAU2R1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYq9-SVkAU2R1-.jpg",
+					"url": "https://t.co/IqyiUDMATA",
+					"display_url": "pic.twitter.com/IqyiUDMATA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303276438972297216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303276397922640000,
+					"id_str": "1303276397922639873",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYq-pZUYAEMRGM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYq-pZUYAEMRGM.jpg",
+					"url": "https://t.co/IqyiUDMATA",
+					"display_url": "pic.twitter.com/IqyiUDMATA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303276438972297216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303276412158107600,
+					"id_str": "1303276412158107648",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYq_ebUYAA7yiw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYq_ebUYAA7yiw.jpg",
+					"url": "https://t.co/IqyiUDMATA",
+					"display_url": "pic.twitter.com/IqyiUDMATA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303276438972297216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303276428637606000,
+					"id_str": "1303276428637605888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYrAb0VkAAHW_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYrAb0VkAAHW_B.jpg",
+					"url": "https://t.co/IqyiUDMATA",
+					"display_url": "pic.twitter.com/IqyiUDMATA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1303276438972297216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13961,
+			"friends_count": 9,
+			"listed_count": 218,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1597959820",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 530,
+		"favorite_count": 650,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[​Promotion] YOONA Estee Lauder 2020 \n\n더욱 우아하고 아름다워진 배우 윤아와 에스티로더의 운명적인 만남 ✦ \n👉🏻 https://t.co/M098AAuXpJ \n\n#윤아 #에스티로더 #YOONA #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/IqyiUDMATA"
+	},
+	{
+		"created_at": "Tue Sep 08 22:38:22 +0000 2020",
+		"id": 1303377808928858000,
+		"id_str": "1303462714077933568",
+		"full_text": "The Billie Eilish Ukulele is available now. @Fender https://t.co/yx7SckOY8u https://t.co/z5QuS15wiZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fender",
+					"name": "Fender",
+					"id": 707913,
+					"id_str": "707913",
+					"indices": [
+						44,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yx7SckOY8u",
+					"expanded_url": "http://fender.com/billieeilish",
+					"display_url": "fender.com/billieeilish",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303376029273055200,
+					"id_str": "1303376029273055232",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303376029273055232/pu/img/uOPug7skXIlUnA3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303376029273055232/pu/img/uOPug7skXIlUnA3K.jpg",
+					"url": "https://t.co/z5QuS15wiZ",
+					"display_url": "pic.twitter.com/z5QuS15wiZ",
+					"expanded_url": "https://twitter.com/billieeilish/status/1303377808928858118/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303376029273055200,
+					"id_str": "1303376029273055232",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303376029273055232/pu/img/uOPug7skXIlUnA3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303376029273055232/pu/img/uOPug7skXIlUnA3K.jpg",
+					"url": "https://t.co/z5QuS15wiZ",
+					"display_url": "pic.twitter.com/z5QuS15wiZ",
+					"expanded_url": "https://twitter.com/billieeilish/status/1303377808928858118/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1303376029273055232/pu/pl/LdxDk83zXdo_x7Df.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303376029273055232/pu/vid/480x480/1FNxxJ4szRYwV1mi.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303376029273055232/pu/vid/320x320/PjoNgMNrLqiEuc60.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303376029273055232/pu/vid/720x720/bB9j-wUojkmHjrv5.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4878419,
+			"friends_count": 0,
+			"listed_count": 2833,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288897450313359360/NH44P9Ta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288897450313359360/NH44P9Ta_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1596150664",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5125,
+		"favorite_count": 40965,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Billie Eilish Ukulele is available now. @Fender https://t.co/yx7SckOY8u https://t.co/z5QuS15wiZ"
+	},
+	{
 		"created_at": "Tue Sep 08 21:43:13 +0000 2020",
 		"id": 1303448832836075500,
 		"id_str": "1303448832836075520",
