@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 00:44:55 +0000 2020",
+		"id": 1303483259121139700,
+		"id_str": "1303494561768058882",
+		"full_text": "BLACKPINK: Light Up the Sky — an all-access documentary about one of the world's most popular groups — premieres in your area on October 14!\n\nOh and that’s not all ... on October 14, these music icons will also become Netflix profile icons https://t.co/b9t00VnEMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303483092452036600,
+					"id_str": "1303483092452036608",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehbm92hU0AA6UAJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehbm92hU0AA6UAJ.jpg",
+					"url": "https://t.co/b9t00VnEMO",
+					"display_url": "pic.twitter.com/b9t00VnEMO",
+					"expanded_url": "https://twitter.com/netflix/status/1303483259121139712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1296,
+							"h": 1296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303483092452036600,
+					"id_str": "1303483092452036608",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehbm92hU0AA6UAJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehbm92hU0AA6UAJ.jpg",
+					"url": "https://t.co/b9t00VnEMO",
+					"display_url": "pic.twitter.com/b9t00VnEMO",
+					"expanded_url": "https://twitter.com/netflix/status/1303483259121139712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1296,
+							"h": 1296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16573941,
+			"id_str": "16573941",
+			"name": "Netflix",
+			"screen_name": "netflix",
+			"location": "California, USA",
+			"description": "Black Lives Matter. Black Stories Matter. Follow @StrongBlackLead",
+			"url": "https://t.co/bkkHQoKSjv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkkHQoKSjv",
+							"expanded_url": "http://netflix.com/blacklivesmatter",
+							"display_url": "netflix.com/blacklivesmatt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888770,
+			"friends_count": 1565,
+			"listed_count": 15915,
+			"created_at": "Fri Oct 03 04:16:17 +0000 2008",
+			"favourites_count": 15132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16573941/1598021531",
+			"profile_link_color": "E50914",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29927,
+		"favorite_count": 65533,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK: Light Up the Sky — an all-access documentary about one of the world's most popular groups — premieres in your area on October 14!\n\nOh and that’s not all ... on October 14, these music icons will also become Netflix profile icons https://t.co/b9t00VnEMO"
+	},
+	{
 		"created_at": "Tue Sep 08 22:41:34 +0000 2020",
 		"id": 1303283390477525000,
 		"id_str": "1303463516360253440",
@@ -565,7 +739,7 @@ Grailbird.data.tweets_2020_09 =
 		"created_at": "Tue Sep 08 22:41:10 +0000 2020",
 		"id": 1303276438972297200,
 		"id_str": "1303463418125410304",
-		"full_text": "[​Promotion] YOONA Estee Lauder 2020 \n\n더욱 우아하고 아름다워진 배우 윤아와 에스티로더의 운명적인 만남 ✦ \n👉🏻 https://t.co/M098AAuXpJ \n\n#윤아 #에스티로더 #YOONA #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/IqyiUDMATA",
+		"full_text": "[Promotion] YOONA Estee Lauder 2020 \n\n더욱 우아하고 아름다워진 배우 윤아와 에스티로더의 운명적인 만남 ✦ \n👉🏻 https://t.co/M098AAuXpJ \n\n#윤아 #에스티로더 #YOONA #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/IqyiUDMATA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -913,7 +1087,7 @@ Grailbird.data.tweets_2020_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[​Promotion] YOONA Estee Lauder 2020 \n\n더욱 우아하고 아름다워진 배우 윤아와 에스티로더의 운명적인 만남 ✦ \n👉🏻 https://t.co/M098AAuXpJ \n\n#윤아 #에스티로더 #YOONA #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/IqyiUDMATA"
+		"text": "[Promotion] YOONA Estee Lauder 2020 \n\n더욱 우아하고 아름다워진 배우 윤아와 에스티로더의 운명적인 만남 ✦ \n👉🏻 https://t.co/M098AAuXpJ \n\n#윤아 #에스티로더 #YOONA #EsteeLauder #AdvancedNightRepair #LittleBrownBottle https://t.co/IqyiUDMATA"
 	},
 	{
 		"created_at": "Tue Sep 08 22:38:22 +0000 2020",
