@@ -1,6 +1,1053 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 09:59:23 +0000 2020",
+		"id": 1303634094522237000,
+		"id_str": "1303634094522236928",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 데뷔 4년 만에 K팝 선봉..팝스타들과 어깨 나란히\nhttps://t.co/svvMKlF9jr\n#블랙핑크 #BLACKPINK https://t.co/GTb9e1qu7N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/svvMKlF9jr",
+					"expanded_url": "https://yg-life.com/archives/159316?lang=ko",
+					"display_url": "yg-life.com/archives/15931…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303634093301731300,
+					"id_str": "1303634093301731328",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EhdwTQhWkAAVhde.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhdwTQhWkAAVhde.jpg",
+					"url": "https://t.co/GTb9e1qu7N",
+					"display_url": "pic.twitter.com/GTb9e1qu7N",
+					"expanded_url": "https://twitter.com/fromminn/status/1303634094522236928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303634093301731300,
+					"id_str": "1303634093301731328",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EhdwTQhWkAAVhde.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhdwTQhWkAAVhde.jpg",
+					"url": "https://t.co/GTb9e1qu7N",
+					"display_url": "pic.twitter.com/GTb9e1qu7N",
+					"expanded_url": "https://twitter.com/fromminn/status/1303634094522236928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 데뷔 4년 만에 K팝 선봉..팝스타들과 어깨 나란히\nhttps://t.co/svvMKlF9jr\n#블랙핑크 #BLACKPINK https://t.co/GTb9e1qu7N"
+	},
+	{
+		"created_at": "Wed Sep 09 09:49:40 +0000 2020",
+		"id": 1303594878509682700,
+		"id_str": "1303631652141240321",
+		"full_text": "구글코리아가 한국장애인고용공단과 함께 장애인 대학생을 위한 ‘구글 디지털 마케팅 캠프’을 진행합니다! 디지털 마케팅 아카데미와 체험형 인턴십으로 이루어진 이번 캠프에 대한 자세한 내용은 구글코리아 블로그(https://t.co/dxCONum1lE)에서 확인하세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxCONum1lE",
+					"expanded_url": "https://bit.ly/3m4TdEw",
+					"display_url": "bit.ly/3m4TdEw",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62717084,
+			"id_str": "62717084",
+			"name": "Google Korea",
+			"screen_name": "googlekorea",
+			"location": "Seoul",
+			"description": "Google Korea's Official Twitter\nhttp://t.co/q7ki3pU93d",
+			"url": "http://t.co/gJlHUbYNCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gJlHUbYNCd",
+							"expanded_url": "http://www.google.co.kr",
+							"display_url": "google.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/q7ki3pU93d",
+							"expanded_url": "http://googlekoreablog.blogspot.com/",
+							"display_url": "googlekoreablog.blogspot.com",
+							"indices": [
+								32,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 82571,
+			"friends_count": 790,
+			"listed_count": 1950,
+			"created_at": "Tue Aug 04 04:23:08 +0000 2009",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770139154898382848/ndFg-IDH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770139154898382848/ndFg-IDH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62717084/1427179644",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글코리아가 한국장애인고용공단과 함께 장애인 대학생을 위한 ‘구글 디지털 마케팅 캠프’을 진행합니다! 디지털 마케팅 아카데미와 체험형 인턴십으로 이루어진 이번 캠프에 대한 자세한 내용은 구글코리아 블로그(https://t.co/dxCONum1lE)에서 확인하세요."
+	},
+	{
+		"created_at": "Wed Sep 09 09:49:19 +0000 2020",
+		"id": 1303200772021088300,
+		"id_str": "1303631563490340864",
+		"full_text": "에어프라이어 과자 총정리\n\n홈런볼 180도 3분\n초코파이 반으로 살짝 갈라 180도 5분\n카스타드 180도 4분\n계란과자 160도 5분\n마가렛트 180도 5분\n후렌치파이 160도 4분\n쫀득초코칩 180도 5분\n맛동산 180도 5분\n새우깡 160도 5분\n바나나킥 160도 5분",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963961626683523100,
+			"id_str": "963961626683523075",
+			"name": "트위터 레시피",
+			"screen_name": "twt_recipes",
+			"location": "",
+			"description": "트위터 레시피 백업 계정 (제보는 💌) • 본인 요청 시 삭제 • 먹는 계정 @twt_halloffame",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81570,
+			"friends_count": 9,
+			"listed_count": 231,
+			"created_at": "Thu Feb 15 02:22:16 +0000 2018",
+			"favourites_count": 176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/967558419224838144/2a7TYLXI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/967558419224838144/2a7TYLXI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963961626683523075/1519518823",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11276,
+		"favorite_count": 7656,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에어프라이어 과자 총정리\n\n홈런볼 180도 3분\n초코파이 반으로 살짝 갈라 180도 5분\n카스타드 180도 4분\n계란과자 160도 5분\n마가렛트 180도 5분\n후렌치파이 160도 4분\n쫀득초코칩 180도 5분\n맛동산 180도 5분\n새우깡 160도 5분\n바나나킥 160도 5분"
+	},
+	{
+		"created_at": "Wed Sep 09 09:48:22 +0000 2020",
+		"id": 1303623437269659600,
+		"id_str": "1303631321902673920",
+		"full_text": "넷플릭스, 콘텐츠팀 조직 개편…”사업구조 단일화” https://t.co/RWnOgy7A2q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RWnOgy7A2q",
+					"expanded_url": "http://www.bloter.net/archives/405062",
+					"display_url": "bloter.net/archives/405062",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54788,
+			"friends_count": 9,
+			"listed_count": 2363,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스, 콘텐츠팀 조직 개편…”사업구조 단일화” https://t.co/RWnOgy7A2q"
+	},
+	{
+		"created_at": "Wed Sep 09 09:48:17 +0000 2020",
+		"id": 1303600432657232000,
+		"id_str": "1303631301354729472",
+		"full_text": "[사실은 이렇습니다]\n온라인플랫폼 공정화법 적용대상 플랫폼의 범위는 정해진 바 없습니다. \n국민일보 9.9 보도 관련하여 알려드립니다. \n#공정거래위원회 #사이다 #사실은이렇습니다 #국민일보 #온라인플랫폼 #네이버 https://t.co/rMRcvq9Avm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공정거래위원회",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "사이다",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "사실은이렇습니다",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "국민일보",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "온라인플랫폼",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						115,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303599534161887200,
+					"id_str": "1303599534161887232",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EhdQ3psVgAAPBpb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhdQ3psVgAAPBpb.png",
+					"url": "https://t.co/rMRcvq9Avm",
+					"display_url": "pic.twitter.com/rMRcvq9Avm",
+					"expanded_url": "https://twitter.com/kftcnews/status/1303600432657231874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303599534161887200,
+					"id_str": "1303599534161887232",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EhdQ3psVgAAPBpb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhdQ3psVgAAPBpb.png",
+					"url": "https://t.co/rMRcvq9Avm",
+					"display_url": "pic.twitter.com/rMRcvq9Avm",
+					"expanded_url": "https://twitter.com/kftcnews/status/1303600432657231874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1303599534157607000,
+					"id_str": "1303599534157606913",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EhdQ3prUMAE-D8_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhdQ3prUMAE-D8_.png",
+					"url": "https://t.co/rMRcvq9Avm",
+					"display_url": "pic.twitter.com/rMRcvq9Avm",
+					"expanded_url": "https://twitter.com/kftcnews/status/1303600432657231874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1303599534157656000,
+					"id_str": "1303599534157656066",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EhdQ3prU8AIms-e.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhdQ3prU8AIms-e.png",
+					"url": "https://t.co/rMRcvq9Avm",
+					"display_url": "pic.twitter.com/rMRcvq9Avm",
+					"expanded_url": "https://twitter.com/kftcnews/status/1303600432657231874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60856026,
+			"id_str": "60856026",
+			"name": "공정거래위원회",
+			"screen_name": "kftcnews",
+			"location": "seoul korea",
+			"description": "안녕하세요~ 공정거래위원회입니다.\r\nHere is Korea Fair Trade Commission",
+			"url": "https://t.co/GNxx35QaGY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GNxx35QaGY",
+							"expanded_url": "https://twitter.com/kftcnews",
+							"display_url": "twitter.com/kftcnews",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53157,
+			"friends_count": 28041,
+			"listed_count": 694,
+			"created_at": "Tue Jul 28 09:03:47 +0000 2009",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057157930590527488/tsim42wa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057157930590527488/tsim42wa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60856026/1598944241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[사실은 이렇습니다]\n온라인플랫폼 공정화법 적용대상 플랫폼의 범위는 정해진 바 없습니다. \n국민일보 9.9 보도 관련하여 알려드립니다. \n#공정거래위원회 #사이다 #사실은이렇습니다 #국민일보 #온라인플랫폼 #네이버 https://t.co/rMRcvq9Avm"
+	},
+	{
+		"created_at": "Wed Sep 09 09:45:19 +0000 2020",
+		"id": 1303602551292534800,
+		"id_str": "1303630556970676224",
+		"full_text": "왜 나는 원본 사이트 대신 WayBackMachine을 링크하는가 https://t.co/4BzOZoixUS \n기사를 요약하자면 아래와 같습니다.\n\n-\n\n참조를 위해 링크를 걸어 놓으면, 웹의 특성상 그 때 봤던 컨텐츠와 몇 년후 보는 컨텐츠가 일치하는지 확신할 수 없습니다. 특히 아래 문제들이 발생할 문제들이 높습...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4BzOZoixUS",
+					"expanded_url": "https://j.mp/3bHcuHu",
+					"display_url": "j.mp/3bHcuHu",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3933,
+			"friends_count": 0,
+			"listed_count": 59,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜 나는 원본 사이트 대신 WayBackMachine을 링크하는가 https://t.co/4BzOZoixUS \n기사를 요약하자면 아래와 같습니다.\n\n-\n\n참조를 위해 링크를 걸어 놓으면, 웹의 특성상 그 때 봤던 컨텐츠와 몇 년후 보는 컨텐츠가 일치하는지 확신할 수 없습니다. 특히 아래 문제들이 발생할 문제들이 높습..."
+	},
+	{
+		"created_at": "Wed Sep 09 09:44:55 +0000 2020",
+		"id": 1303619534650179600,
+		"id_str": "1303630456718581768",
+		"full_text": "[4K] [ENG] [유리한 식탁] EP13-1. 알고 보니 내 친구가 블랙핑크?! \n\n👉🏻https://t.co/OgOyDizhVy \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OgOyDizhVy",
+					"expanded_url": "https://youtu.be/tNAwcA3WwKs",
+					"display_url": "youtu.be/tNAwcA3WwKs",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3553985,
+			"friends_count": 4,
+			"listed_count": 5045,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1270,
+		"favorite_count": 2317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4K] [ENG] [유리한 식탁] EP13-1. 알고 보니 내 친구가 블랙핑크?! \n\n👉🏻https://t.co/OgOyDizhVy \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Wed Sep 09 08:41:08 +0000 2020",
 		"id": 1303614403389067300,
 		"id_str": "1303614403389067264",
