@@ -1,6 +1,891 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 01:59:34 +0000 2020",
+		"id": 1303513344138252300,
+		"id_str": "1303513344138252288",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 빌보드 핫100 ‘13위’…K팝 걸그룹 최고기록\nhttps://t.co/1bXHwumyFl\n#블랙핑크 #BLACKPINK https://t.co/jqsmQk6IEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1bXHwumyFl",
+					"expanded_url": "https://yg-life.com/archives/159310?lang=ko",
+					"display_url": "yg-life.com/archives/15931…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303513343114838000,
+					"id_str": "1303513343114838018",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EhcCerBXgAIcgyL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhcCerBXgAIcgyL.jpg",
+					"url": "https://t.co/jqsmQk6IEW",
+					"display_url": "pic.twitter.com/jqsmQk6IEW",
+					"expanded_url": "https://twitter.com/fromminn/status/1303513344138252288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303513343114838000,
+					"id_str": "1303513343114838018",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EhcCerBXgAIcgyL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhcCerBXgAIcgyL.jpg",
+					"url": "https://t.co/jqsmQk6IEW",
+					"display_url": "pic.twitter.com/jqsmQk6IEW",
+					"expanded_url": "https://twitter.com/fromminn/status/1303513344138252288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 빌보드 핫100 ‘13위’…K팝 걸그룹 최고기록\nhttps://t.co/1bXHwumyFl\n#블랙핑크 #BLACKPINK https://t.co/jqsmQk6IEW"
+	},
+	{
+		"created_at": "Wed Sep 09 01:59:30 +0000 2020",
+		"id": 1303513329932161000,
+		"id_str": "1303513329932161024",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 넷플릭스 최초 K팝 다큐멘터리 주인공됐다…10월14일 공개\nhttps://t.co/lFiCnjKqp8\n#블랙핑크 #BLACKPINK https://t.co/ATTML3vVdJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lFiCnjKqp8",
+					"expanded_url": "https://yg-life.com/archives/159305?lang=ko",
+					"display_url": "yg-life.com/archives/15930…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303513328858394600,
+					"id_str": "1303513328858394625",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EhcCd16XcAEDiyD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhcCd16XcAEDiyD.jpg",
+					"url": "https://t.co/ATTML3vVdJ",
+					"display_url": "pic.twitter.com/ATTML3vVdJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1303513329932161024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 637,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303513328858394600,
+					"id_str": "1303513328858394625",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EhcCd16XcAEDiyD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhcCd16XcAEDiyD.jpg",
+					"url": "https://t.co/ATTML3vVdJ",
+					"display_url": "pic.twitter.com/ATTML3vVdJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1303513329932161024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 637,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 넷플릭스 최초 K팝 다큐멘터리 주인공됐다…10월14일 공개\nhttps://t.co/lFiCnjKqp8\n#블랙핑크 #BLACKPINK https://t.co/ATTML3vVdJ"
+	},
+	{
+		"created_at": "Wed Sep 09 01:44:55 +0000 2020",
+		"id": 1303508479819169800,
+		"id_str": "1303509661358919680",
+		"full_text": "[#예술경영 웹진 : 이슈토크] \n\n&lt;기획부터 판매까지, 셀프 홍보의 시대 외&gt;\n-2020년 8월 문화예술 분야 주요 뉴스-\n\n452호 이슈토크 더보기👇\nhttps://t.co/qv6vpLoFvN\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/UtaeQ3uPip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qv6vpLoFvN",
+					"expanded_url": "https://bit.ly/32auR46",
+					"display_url": "bit.ly/32auR46",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303508463759188000,
+					"id_str": "1303508463759187968",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehb-CqAU4AAvgAF.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ehb-CqAU4AAvgAF.png",
+					"url": "https://t.co/UtaeQ3uPip",
+					"display_url": "pic.twitter.com/UtaeQ3uPip",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1303508479819169792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 764,
+							"h": 325,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 325,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303508463759188000,
+					"id_str": "1303508463759187968",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehb-CqAU4AAvgAF.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ehb-CqAU4AAvgAF.png",
+					"url": "https://t.co/UtaeQ3uPip",
+					"display_url": "pic.twitter.com/UtaeQ3uPip",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1303508479819169792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 764,
+							"h": 325,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 325,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6792,
+			"friends_count": 3014,
+			"listed_count": 102,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 이슈토크] \n\n&lt;기획부터 판매까지, 셀프 홍보의 시대 외&gt;\n-2020년 8월 문화예술 분야 주요 뉴스-\n\n452호 이슈토크 더보기👇\nhttps://t.co/qv6vpLoFvN\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/UtaeQ3uPip"
+	},
+	{
+		"created_at": "Wed Sep 09 01:41:14 +0000 2020",
+		"id": 1303508732664590300,
+		"id_str": "1303508732664590338",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n알고보니 사상최초?! 예리 추천 예리한 식사 스타뚜 with 열음 언니 (주간예림이 feat. 태연) [EP.14-2]\nhttps://t.co/dtN7Hfuuq4\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						141,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dtN7Hfuuq4",
+					"expanded_url": "https://youtu.be/z85kq0oM308",
+					"display_url": "youtu.be/z85kq0oM308",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n알고보니 사상최초?! 예리 추천 예리한 식사 스타뚜 with 열음 언니 (주간예림이 feat. 태연) [EP.14-2]\nhttps://t.co/dtN7Hfuuq4\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
+		"created_at": "Wed Sep 09 01:06:16 +0000 2020",
+		"id": 1303499934772191200,
+		"id_str": "1303499934772191232",
+		"full_text": "#TED_Talks #한국어자막\n카페인과 알코올이 수면에 미치는 영향 by. Matt Walker (Jul 2020)\nhttps://t.co/hDJ1iSUKoe\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hDJ1iSUKoe",
+					"expanded_url": "https://www.ted.com/talks/matt_walker_how_caffeine_and_alcohol_affect_your_sleep?language=ko",
+					"display_url": "ted.com/talks/matt_wal…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 942,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n카페인과 알코올이 수면에 미치는 영향 by. Matt Walker (Jul 2020)\nhttps://t.co/hDJ1iSUKoe\n#TED #테드 #minfav"
+	},
+	{
 		"created_at": "Wed Sep 09 00:44:55 +0000 2020",
 		"id": 1303483259121139700,
 		"id_str": "1303494561768058882",
