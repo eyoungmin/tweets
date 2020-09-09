@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 15:38:35 +0000 2020",
+		"id": 1303719460507758600,
+		"id_str": "1303719460507758593",
+		"full_text": "@manobewitched 감사해요. 또 서치 잠겼네요.... ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "manobewitched",
+					"name": "마노mano",
+					"id": 760133416276799500,
+					"id_str": "760133416276799488",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1303718065276739600,
+		"in_reply_to_status_id_str": "1303718065276739584",
+		"in_reply_to_user_id": 760133416276799500,
+		"in_reply_to_user_id_str": "760133416276799488",
+		"in_reply_to_screen_name": "manobewitched",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@manobewitched 감사해요. 또 서치 잠겼네요.... ㅠㅠ"
+	},
+	{
+		"created_at": "Wed Sep 09 15:27:03 +0000 2020",
+		"id": 1303706491808092200,
+		"id_str": "1303716558045212673",
+		"full_text": "Thank you for all the 💛 and kind words on Open Your Heart! Full clip on YouTube if you haven’t yet seen. https://t.co/yDVTYNv0ac https://t.co/VbRYh6XDrp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yDVTYNv0ac",
+					"expanded_url": "http://birdy.lnk.to/openyourheart-video",
+					"display_url": "birdy.lnk.to/openyourheart-…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303706336560021500,
+					"id_str": "1303706336560021504",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303706336560021504/pu/img/cMGeqUNwohm-sUR4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303706336560021504/pu/img/cMGeqUNwohm-sUR4.jpg",
+					"url": "https://t.co/VbRYh6XDrp",
+					"display_url": "pic.twitter.com/VbRYh6XDrp",
+					"expanded_url": "https://twitter.com/birdy/status/1303706491808092162/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303706336560021500,
+					"id_str": "1303706336560021504",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303706336560021504/pu/img/cMGeqUNwohm-sUR4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303706336560021504/pu/img/cMGeqUNwohm-sUR4.jpg",
+					"url": "https://t.co/VbRYh6XDrp",
+					"display_url": "pic.twitter.com/VbRYh6XDrp",
+					"expanded_url": "https://twitter.com/birdy/status/1303706491808092162/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303706336560021504/pu/vid/1280x720/EjYGr1xgo73ZTHxR.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303706336560021504/pu/vid/640x360/s5aaXw4XkvuqUdiR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1303706336560021504/pu/pl/aPt3rthy7AVm2sA8.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303706336560021504/pu/vid/480x270/CXl5Zy7bZdOHaSPJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Singer-songwriter. Open Your Heart out now https://t.co/B5OFhPTzJV",
+			"url": "https://t.co/5OSaa8I9LG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OSaa8I9LG",
+							"expanded_url": "http://youtube.com/officialbirdy",
+							"display_url": "youtube.com/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/B5OFhPTzJV",
+							"expanded_url": "https://birdy.lnk.to/Open-Your-Heart",
+							"display_url": "birdy.lnk.to/Open-Your-Heart",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 325689,
+			"friends_count": 185,
+			"listed_count": 1203,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301810655259918336/A4Y7JRf6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301810655259918336/A4Y7JRf6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1599207405",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 586,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for all the 💛 and kind words on Open Your Heart! Full clip on YouTube if you haven’t yet seen. https://t.co/yDVTYNv0ac https://t.co/VbRYh6XDrp"
+	},
+	{
 		"created_at": "Wed Sep 09 14:29:12 +0000 2020",
 		"id": 1303635513341927400,
 		"id_str": "1303701999213371393",
