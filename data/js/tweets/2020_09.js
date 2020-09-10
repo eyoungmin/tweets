@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 06:45:44 +0000 2020",
+		"id": 1303935870827819000,
+		"id_str": "1303947749323403265",
+		"full_text": "🗞 청하 '청춘기록' OST 합류..박보검x박소담 청춘 노래한다 [공식]\n출처 : OSEN | 네이버 TV연예\n\n🔎 https://t.co/wBr8hgnE04\n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wBr8hgnE04",
+					"expanded_url": "http://naver.me/5vBp0YZE",
+					"display_url": "naver.me/5vBp0YZE",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286737,
+			"friends_count": 0,
+			"listed_count": 1754,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗞 청하 '청춘기록' OST 합류..박보검x박소담 청춘 노래한다 [공식]\n출처 : OSEN | 네이버 TV연예\n\n🔎 https://t.co/wBr8hgnE04\n\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Thu Sep 10 06:44:28 +0000 2020",
+		"id": 1303947430241603600,
+		"id_str": "1303947430241603585",
+		"full_text": "@fenix_app @TalonAndroid @labnol @mhawksey https://t.co/JW4gQj1PgD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fenix_app",
+					"name": "Fenix",
+					"id": 2326966093,
+					"id_str": "2326966093",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TalonAndroid",
+					"name": "Talon",
+					"id": 2259160776,
+					"id_str": "2259160776",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JW4gQj1PgD",
+					"expanded_url": "https://twitter.com/MaddoxJack/status/1303377509589889027",
+					"display_url": "twitter.com/MaddoxJack/sta…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2326966093,
+		"in_reply_to_user_id_str": "2326966093",
+		"in_reply_to_screen_name": "fenix_app",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303377509589889000,
+		"quoted_status_id_str": "1303377509589889027",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JW4gQj1PgD",
+			"expanded": "https://twitter.com/MaddoxJack/status/1303377509589889027",
+			"display": "twitter.com/MaddoxJack/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 08 16:59:48 +0000 2020",
+			"id": 1303377509589889000,
+			"id_str": "1303377509589889027",
+			"full_text": "@TwitterDev is there anyone that could cast an eye on this thread in the API community forum? Looking to open a ticket otherwise. Thank you. \n\nhttps://t.co/vfXxYq2U1h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterDev",
+						"name": "Twitter Dev",
+						"id": 2244994945,
+						"id_str": "2244994945",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vfXxYq2U1h",
+						"expanded_url": "https://twittercommunity.com/t/standard-search-operator-list-username-slug-no-longer-working/141857",
+						"display_url": "twittercommunity.com/t/standard-sea…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2244994945,
+			"in_reply_to_user_id_str": "2244994945",
+			"in_reply_to_screen_name": "TwitterDev",
+			"user": {
+				"id": 132563763,
+				"id_str": "132563763",
+				"name": "Jack Maddox",
+				"screen_name": "MaddoxJack",
+				"location": "London, England",
+				"description": "Technical Founder of @socialwiseio. Previously journalist @Dataminr, #CNN and #AlJazeera. #NUFC also...",
+				"url": "https://t.co/lYsHKNnQ4d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lYsHKNnQ4d",
+								"expanded_url": "https://www.socialwise.io",
+								"display_url": "socialwise.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1092,
+				"friends_count": 489,
+				"listed_count": 28,
+				"created_at": "Tue Apr 13 15:45:24 +0000 2010",
+				"favourites_count": 1070,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2531,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124507544720936960/zPTd0zFV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124507544720936960/zPTd0zFV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/132563763/1556938466",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@fenix_app @TalonAndroid @labnol @mhawksey https://t.co/JW4gQj1PgD"
+	},
+	{
+		"created_at": "Thu Sep 10 06:37:51 +0000 2020",
+		"id": 1303945765010550800,
+		"id_str": "1303945765010550785",
+		"full_text": "공앱이랑 트윗덱 리스트넘버로 가능하게 해둔 것 보면 일부로 제한했다고 생각이 들고. 리스트가 악영향을 미치면 그 기능만 따로 개발자 심사를 하고 관리해도...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1303944494253924400,
+		"in_reply_to_status_id_str": "1303944494253924353",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공앱이랑 트윗덱 리스트넘버로 가능하게 해둔 것 보면 일부로 제한했다고 생각이 들고. 리스트가 악영향을 미치면 그 기능만 따로 개발자 심사를 하고 관리해도..."
+	},
+	{
+		"created_at": "Thu Sep 10 06:32:48 +0000 2020",
+		"id": 1303944494253924400,
+		"id_str": "1303944494253924353",
+		"full_text": "공식계정이나 트위터 계정 여러개 다 볼 수도 없고 방송사 계정 리스트에서 좋아하는 아티스트 명으로 리스트 검색해서 리트윗 하고 디스코드로 보내면 이동중에 보기도 편하고 나중에 복습하기도 좋은데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1303943555191173000,
+		"in_reply_to_status_id_str": "1303943555191173121",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공식계정이나 트위터 계정 여러개 다 볼 수도 없고 방송사 계정 리스트에서 좋아하는 아티스트 명으로 리스트 검색해서 리트윗 하고 디스코드로 보내면 이동중에 보기도 편하고 나중에 복습하기도 좋은데."
+	},
+	{
+		"created_at": "Thu Sep 10 06:29:04 +0000 2020",
+		"id": 1303943555191173000,
+		"id_str": "1303943555191173121",
+		"full_text": "9월 1일부터 막힌거나 트위터 내 스팸계정 제한조치 흐름을 봤을때 고의적으로 막은 것 같지만. 제발 서드파티, API 리스트 기능 돌려주세요. 봇도 죽고 넘 불편하다고요. https://t.co/JW4gQj1PgD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JW4gQj1PgD",
+					"expanded_url": "https://twitter.com/MaddoxJack/status/1303377509589889027",
+					"display_url": "twitter.com/MaddoxJack/sta…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303377509589889000,
+		"quoted_status_id_str": "1303377509589889027",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JW4gQj1PgD",
+			"expanded": "https://twitter.com/MaddoxJack/status/1303377509589889027",
+			"display": "twitter.com/MaddoxJack/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 08 16:59:48 +0000 2020",
+			"id": 1303377509589889000,
+			"id_str": "1303377509589889027",
+			"full_text": "@TwitterDev is there anyone that could cast an eye on this thread in the API community forum? Looking to open a ticket otherwise. Thank you. \n\nhttps://t.co/vfXxYq2U1h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterDev",
+						"name": "Twitter Dev",
+						"id": 2244994945,
+						"id_str": "2244994945",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vfXxYq2U1h",
+						"expanded_url": "https://twittercommunity.com/t/standard-search-operator-list-username-slug-no-longer-working/141857",
+						"display_url": "twittercommunity.com/t/standard-sea…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2244994945,
+			"in_reply_to_user_id_str": "2244994945",
+			"in_reply_to_screen_name": "TwitterDev",
+			"user": {
+				"id": 132563763,
+				"id_str": "132563763",
+				"name": "Jack Maddox",
+				"screen_name": "MaddoxJack",
+				"location": "London, England",
+				"description": "Technical Founder of @socialwiseio. Previously journalist @Dataminr, #CNN and #AlJazeera. #NUFC also...",
+				"url": "https://t.co/lYsHKNnQ4d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lYsHKNnQ4d",
+								"expanded_url": "https://www.socialwise.io",
+								"display_url": "socialwise.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1092,
+				"friends_count": 489,
+				"listed_count": 28,
+				"created_at": "Tue Apr 13 15:45:24 +0000 2010",
+				"favourites_count": 1070,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2531,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124507544720936960/zPTd0zFV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124507544720936960/zPTd0zFV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/132563763/1556938466",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월 1일부터 막힌거나 트위터 내 스팸계정 제한조치 흐름을 봤을때 고의적으로 막은 것 같지만. 제발 서드파티, API 리스트 기능 돌려주세요. 봇도 죽고 넘 불편하다고요. https://t.co/JW4gQj1PgD"
+	},
+	{
 		"created_at": "Thu Sep 10 05:18:09 +0000 2020",
 		"id": 1303925708746641400,
 		"id_str": "1303925708746641408",
