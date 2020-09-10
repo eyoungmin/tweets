@@ -1,6 +1,1660 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 12:44:56 +0000 2020",
+		"id": 1304026853838000000,
+		"id_str": "1304038144015294466",
+		"full_text": "일일 DJ 희디니디와 함께한 오늘의 #이달의소녀 달의 주파수 깜짝 사연의 주인공은 #고원 #OliviaHye 였습니다💌 함께 도란도란 이야기 나눌 수 있어서 너무 행복했어요, 오빛!\n\n#LOONA #GoWon https://t.co/uYhCaaYeqw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304017105784774700,
+					"id_str": "1304017105784774657",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjMphNVoAEWqGd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjMphNVoAEWqGd.jpg",
+					"url": "https://t.co/uYhCaaYeqw",
+					"display_url": "pic.twitter.com/uYhCaaYeqw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1304026853838000128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304017105784774700,
+					"id_str": "1304017105784774657",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjMphNVoAEWqGd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjMphNVoAEWqGd.jpg",
+					"url": "https://t.co/uYhCaaYeqw",
+					"display_url": "pic.twitter.com/uYhCaaYeqw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1304026853838000128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1304017105793155000,
+					"id_str": "1304017105793155072",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjMphPVgAAudpK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhjMphPVgAAudpK.png",
+					"url": "https://t.co/uYhCaaYeqw",
+					"display_url": "pic.twitter.com/uYhCaaYeqw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1304026853838000128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518620,
+			"friends_count": 0,
+			"listed_count": 5401,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5881,
+		"favorite_count": 15839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일일 DJ 희디니디와 함께한 오늘의 #이달의소녀 달의 주파수 깜짝 사연의 주인공은 #고원 #OliviaHye 였습니다💌 함께 도란도란 이야기 나눌 수 있어서 너무 행복했어요, 오빛!\n\n#LOONA #GoWon https://t.co/uYhCaaYeqw"
+	},
+	{
+		"created_at": "Thu Sep 10 12:43:19 +0000 2020",
+		"id": 1303949209230438400,
+		"id_str": "1304037737889067009",
+		"full_text": "소셜미디어의 위험성을 다룬 넷플릭스 다큐드라마 https://t.co/AX3qEVkz9c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AX3qEVkz9c",
+					"expanded_url": "https://www.netflix.com/kr/title/81254224",
+					"display_url": "netflix.com/kr/title/81254…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101080,
+			"friends_count": 2393,
+			"listed_count": 308,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소셜미디어의 위험성을 다룬 넷플릭스 다큐드라마 https://t.co/AX3qEVkz9c"
+	},
+	{
+		"created_at": "Thu Sep 10 12:42:11 +0000 2020",
+		"id": 1298781960131600400,
+		"id_str": "1304037453108375553",
+		"full_text": "브람스를 좋아하세요?\n💿OST 1차 라인업 공개💿\n\n#브람스를좋아하세요 ?\n👉 8월 31일 월요일 밤10시 첫 방송🎼\n\n#DoYouLikeBrahms #SBSdrama\n#박은빈 #김민재 #god #SNSD #Taeyeon #Heize #EXO #Chen #10CM #Punch #지오디 #태연 #헤이즈 #첸 #펀치 #OST #OST라인업 \n#브람스_OST_라인업을좋아하세요 https://t.co/0wGdptMRmT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브람스를좋아하세요",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "DoYouLikeBrahms",
+					"indices": [
+						67,
+						83
+					]
+				},
+				{
+					"text": "SBSdrama",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "박은빈",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "김민재",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "god",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "Chen",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "10CM",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "Punch",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "지오디",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "첸",
+					"indices": [
+						169,
+						171
+					]
+				},
+				{
+					"text": "펀치",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "OST라인업",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "브람스_OST_라인업을좋아하세요",
+					"indices": [
+						190,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298781247687110700,
+					"id_str": "1298781247687110657",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EgYyqd1UMAEsBzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgYyqd1UMAEsBzX.jpg",
+					"url": "https://t.co/0wGdptMRmT",
+					"display_url": "pic.twitter.com/0wGdptMRmT",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1298781960131600385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298781247687110700,
+					"id_str": "1298781247687110657",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EgYyqd1UMAEsBzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgYyqd1UMAEsBzX.jpg",
+					"url": "https://t.co/0wGdptMRmT",
+					"display_url": "pic.twitter.com/0wGdptMRmT",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1298781960131600385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1592193,
+			"friends_count": 4885,
+			"listed_count": 2789,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1597908784",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8993,
+		"favorite_count": 14274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브람스를 좋아하세요?\n💿OST 1차 라인업 공개💿\n\n#브람스를좋아하세요 ?\n👉 8월 31일 월요일 밤10시 첫 방송🎼\n\n#DoYouLikeBrahms #SBSdrama\n#박은빈 #김민재 #god #SNSD #Taeyeon #Heize #EXO #Chen #10CM #Punch #지오디 #태연 #헤이즈 #첸 #펀치 #OST #OST라인업 \n#브람스_OST_라인업을좋아하세요 https://t.co/0wGdptMRmT"
+	},
+	{
+		"created_at": "Thu Sep 10 12:41:25 +0000 2020",
+		"id": 1303219604014076000,
+		"id_str": "1304037259709014017",
+		"full_text": "현장으로 달려온 여진과 짱건!\n⠀\n#비밀의숲2 매주 [토일] 밤 9시 tvN 방송\n#침묵을원하는자모두가공범이다\n#비숲 #tvN #토일드라마 #조승우 #배두나\n#전혜진 #최무성 #이준혁 #윤세아 https://t.co/0A3SD4CaNI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비밀의숲2",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "침묵을원하는자모두가공범이다",
+					"indices": [
+						46,
+						61
+					]
+				},
+				{
+					"text": "비숲",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "조승우",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "전혜진",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "최무성",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "이준혁",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "윤세아",
+					"indices": [
+						103,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303219584837668900,
+					"id_str": "1303219584837668864",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EhX3TsKU0AAsJmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhX3TsKU0AAsJmH.jpg",
+					"url": "https://t.co/0A3SD4CaNI",
+					"display_url": "pic.twitter.com/0A3SD4CaNI",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303219584837668900,
+					"id_str": "1303219584837668864",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EhX3TsKU0AAsJmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhX3TsKU0AAsJmH.jpg",
+					"url": "https://t.co/0A3SD4CaNI",
+					"display_url": "pic.twitter.com/0A3SD4CaNI",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303219584837628000,
+					"id_str": "1303219584837627904",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EhX3TsKUMAA6PfE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhX3TsKUMAA6PfE.jpg",
+					"url": "https://t.co/0A3SD4CaNI",
+					"display_url": "pic.twitter.com/0A3SD4CaNI",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303219586536321000,
+					"id_str": "1303219586536321025",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EhX3TyfUMAE17qV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhX3TyfUMAE17qV.jpg",
+					"url": "https://t.co/0A3SD4CaNI",
+					"display_url": "pic.twitter.com/0A3SD4CaNI",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔 #청춘기록 #악의꽃 #비밀의숲2 #구미호뎐 #스타트업",
+			"url": "https://t.co/Em6okU1Ysx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Em6okU1Ysx",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395715,
+			"friends_count": 40,
+			"listed_count": 573,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1599449849",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현장으로 달려온 여진과 짱건!\n⠀\n#비밀의숲2 매주 [토일] 밤 9시 tvN 방송\n#침묵을원하는자모두가공범이다\n#비숲 #tvN #토일드라마 #조승우 #배두나\n#전혜진 #최무성 #이준혁 #윤세아 https://t.co/0A3SD4CaNI"
+	},
+	{
+		"created_at": "Thu Sep 10 12:41:03 +0000 2020",
+		"id": 1303899172743950300,
+		"id_str": "1304037170210988033",
+		"full_text": "예리한방 VR 💜 심쿵 &amp; 걸크러쉬 원더걸스 유빈 언니와 뚜하\nYerihan Bang VR 💜 Ddu-hi🖐 with Girl Crush Wonder Girls Yubin unnie \n👉https://t.co/OxC5ucWA0Z\n\n#예리 #yeri #유빈 #레드벨벳 #원더걸스 #RedVelvet #Yubin #WonderGirls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "유빈",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "원더걸스",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "Yubin",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "WonderGirls",
+					"indices": [
+						177,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OxC5ucWA0Z",
+					"expanded_url": "https://youtu.be/pOnai7bJVH0",
+					"display_url": "youtu.be/pOnai7bJVH0",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeri's Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27822,
+			"friends_count": 0,
+			"listed_count": 133,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1591762226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 808,
+		"favorite_count": 1602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예리한방 VR 💜 심쿵 &amp; 걸크러쉬 원더걸스 유빈 언니와 뚜하\nYerihan Bang VR 💜 Ddu-hi🖐 with Girl Crush Wonder Girls Yubin unnie \n👉https://t.co/OxC5ucWA0Z\n\n#예리 #yeri #유빈 #레드벨벳 #원더걸스 #RedVelvet #Yubin #WonderGirls"
+	},
+	{
+		"created_at": "Thu Sep 10 12:24:11 +0000 2020",
+		"id": 1304032925239988200,
+		"id_str": "1304032925239988225",
+		"full_text": "#청하 #CHUNGHA #VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 3. 청하픽 맛집 탐방기 with 우주소녀 연정\nhttps://t.co/IxRy6IuvFC https://t.co/ZMNJ0e985f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "POST",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IxRy6IuvFC",
+					"expanded_url": "https://channels.vlive.tv/E3437D/celeb/1.17334045",
+					"display_url": "channels.vlive.tv/E3437D/celeb/1…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304032924023562200,
+					"id_str": "1304032924023562242",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjbCQvWoAII2vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjbCQvWoAII2vm.jpg",
+					"url": "https://t.co/ZMNJ0e985f",
+					"display_url": "pic.twitter.com/ZMNJ0e985f",
+					"expanded_url": "https://twitter.com/fromminn/status/1304032925239988225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304032924023562200,
+					"id_str": "1304032924023562242",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjbCQvWoAII2vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjbCQvWoAII2vm.jpg",
+					"url": "https://t.co/ZMNJ0e985f",
+					"display_url": "pic.twitter.com/ZMNJ0e985f",
+					"expanded_url": "https://twitter.com/fromminn/status/1304032925239988225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA #VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 3. 청하픽 맛집 탐방기 with 우주소녀 연정\nhttps://t.co/IxRy6IuvFC https://t.co/ZMNJ0e985f"
+	},
+	{
+		"created_at": "Thu Sep 10 12:24:07 +0000 2020",
+		"id": 1304032907632291800,
+		"id_str": "1304032907632291840",
+		"full_text": "#청하 #CHUNGHA #VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 2. 청하의 도자기 체험 with 우주소녀 연정\nhttps://t.co/PkJ1yjcwqV https://t.co/3stRQrnLuw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "POST",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PkJ1yjcwqV",
+					"expanded_url": "https://channels.vlive.tv/E3437D/celeb/1.16864592",
+					"display_url": "channels.vlive.tv/E3437D/celeb/1…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304032906424266800,
+					"id_str": "1304032906424266754",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjbBPLWsAIel7O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjbBPLWsAIel7O.jpg",
+					"url": "https://t.co/3stRQrnLuw",
+					"display_url": "pic.twitter.com/3stRQrnLuw",
+					"expanded_url": "https://twitter.com/fromminn/status/1304032907632291840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304032906424266800,
+					"id_str": "1304032906424266754",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjbBPLWsAIel7O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjbBPLWsAIel7O.jpg",
+					"url": "https://t.co/3stRQrnLuw",
+					"display_url": "pic.twitter.com/3stRQrnLuw",
+					"expanded_url": "https://twitter.com/fromminn/status/1304032907632291840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA #VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 2. 청하의 도자기 체험 with 우주소녀 연정\nhttps://t.co/PkJ1yjcwqV https://t.co/3stRQrnLuw"
+	},
+	{
+		"created_at": "Thu Sep 10 12:16:23 +0000 2020",
+		"id": 1304023566078210000,
+		"id_str": "1304030960153817088",
+		"full_text": "\"폐에 곰팡이균\"…'끝나도 끝난 게 아닌' 코로나 후유증https://t.co/KxJsx3sy5C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KxJsx3sy5C",
+					"expanded_url": "http://news.jtbc.joins.com/html/924/NB11968924.html",
+					"display_url": "news.jtbc.joins.com/html/924/NB119…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602327,
+			"friends_count": 44127,
+			"listed_count": 2151,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 77248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 374,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"폐에 곰팡이균\"…'끝나도 끝난 게 아닌' 코로나 후유증https://t.co/KxJsx3sy5C"
+	},
+	{
 		"created_at": "Thu Sep 10 11:58:29 +0000 2020",
 		"id": 1304026456033431600,
 		"id_str": "1304026456033431553",
