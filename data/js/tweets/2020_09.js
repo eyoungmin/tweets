@@ -1,6 +1,643 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 16:49:03 +0000 2020",
+		"id": 1304099579877441500,
+		"id_str": "1304099579877441539",
+		"full_text": "❝ 박 실장은 \"여배우가 전 시즌에 입었던 옷을 다시 입는 일은 보기 드문 일인데 이는 배두나의 제안이었다\"며 \"현실적으로 가자는 생각이었다. 일반적으로 코트를 하나 사면 10년도 입는다. 검정 코트도 이와 같은 상식적인 접근법이었다\"고 말했다.\nhttps://t.co/a0T49ANCrQ\n\n#스타일리스트 #박세준",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타일리스트",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "박세준",
+					"indices": [
+						171,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0T49ANCrQ",
+					"expanded_url": "https://news.joins.com/article/23866940",
+					"display_url": "news.joins.com/article/238669…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝ 박 실장은 \"여배우가 전 시즌에 입었던 옷을 다시 입는 일은 보기 드문 일인데 이는 배두나의 제안이었다\"며 \"현실적으로 가자는 생각이었다. 일반적으로 코트를 하나 사면 10년도 입는다. 검정 코트도 이와 같은 상식적인 접근법이었다\"고 말했다.\nhttps://t.co/a0T49ANCrQ\n\n#스타일리스트 #박세준"
+	},
+	{
+		"created_at": "Thu Sep 10 16:45:32 +0000 2020",
+		"id": 1304098694719963100,
+		"id_str": "1304098694719963138",
+		"full_text": "비밀의 숲 배두나 가죽코트\n16F/W 르메르 https://t.co/5nAub8ibEK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5nAub8ibEK",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904",
+					"display_url": "twitter.com/CJnDrama/statu…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 943,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303219604014076000,
+		"quoted_status_id_str": "1303219604014075904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5nAub8ibEK",
+			"expanded": "https://twitter.com/CJnDrama/status/1303219604014075904",
+			"display": "twitter.com/CJnDrama/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 08 06:32:20 +0000 2020",
+			"id": 1303219604014076000,
+			"id_str": "1303219604014075904",
+			"full_text": "현장으로 달려온 여진과 짱건!\n⠀\n#비밀의숲2 매주 [토일] 밤 9시 tvN 방송\n#침묵을원하는자모두가공범이다\n#비숲 #tvN #토일드라마 #조승우 #배두나\n#전혜진 #최무성 #이준혁 #윤세아 https://t.co/0A3SD4CaNI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "비밀의숲2",
+						"indices": [
+							19,
+							25
+						]
+					},
+					{
+						"text": "침묵을원하는자모두가공범이다",
+						"indices": [
+							46,
+							61
+						]
+					},
+					{
+						"text": "비숲",
+						"indices": [
+							62,
+							65
+						]
+					},
+					{
+						"text": "tvN",
+						"indices": [
+							66,
+							70
+						]
+					},
+					{
+						"text": "토일드라마",
+						"indices": [
+							71,
+							77
+						]
+					},
+					{
+						"text": "조승우",
+						"indices": [
+							78,
+							82
+						]
+					},
+					{
+						"text": "배두나",
+						"indices": [
+							83,
+							87
+						]
+					},
+					{
+						"text": "전혜진",
+						"indices": [
+							88,
+							92
+						]
+					},
+					{
+						"text": "최무성",
+						"indices": [
+							93,
+							97
+						]
+					},
+					{
+						"text": "이준혁",
+						"indices": [
+							98,
+							102
+						]
+					},
+					{
+						"text": "윤세아",
+						"indices": [
+							103,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1303219584837668900,
+						"id_str": "1303219584837668864",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/EhX3TsKU0AAsJmH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhX3TsKU0AAsJmH.jpg",
+						"url": "https://t.co/0A3SD4CaNI",
+						"display_url": "pic.twitter.com/0A3SD4CaNI",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1303219584837668900,
+						"id_str": "1303219584837668864",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/EhX3TsKU0AAsJmH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhX3TsKU0AAsJmH.jpg",
+						"url": "https://t.co/0A3SD4CaNI",
+						"display_url": "pic.twitter.com/0A3SD4CaNI",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1303219584837628000,
+						"id_str": "1303219584837627904",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/EhX3TsKUMAA6PfE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhX3TsKUMAA6PfE.jpg",
+						"url": "https://t.co/0A3SD4CaNI",
+						"display_url": "pic.twitter.com/0A3SD4CaNI",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1303219586536321000,
+						"id_str": "1303219586536321025",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/EhX3TyfUMAE17qV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhX3TyfUMAE17qV.jpg",
+						"url": "https://t.co/0A3SD4CaNI",
+						"display_url": "pic.twitter.com/0A3SD4CaNI",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1303219604014075904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335749973,
+				"id_str": "335749973",
+				"name": "tvN 드라마",
+				"screen_name": "CJnDrama",
+				"location": "",
+				"description": "tvN 드라마 공식 계정 #tvN #티비엔 #청춘기록 #악의꽃 #비밀의숲2 #구미호뎐 #스타트업",
+				"url": "https://t.co/Em6okU1Ysx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Em6okU1Ysx",
+								"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+								"display_url": "youtube.com/user/CJENMDRAMA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 395741,
+				"friends_count": 40,
+				"listed_count": 574,
+				"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+				"favourites_count": 181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28145,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1599449849",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 259,
+			"favorite_count": 458,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비밀의 숲 배두나 가죽코트\n16F/W 르메르 https://t.co/5nAub8ibEK"
+	},
+	{
+		"created_at": "Thu Sep 10 16:39:15 +0000 2020",
+		"id": 1304054984535732200,
+		"id_str": "1304097115245654016",
+		"full_text": "거짓말쟁이는 진실 알고 숨기지만 구라쟁이는 진위 불문 상대 설득이 목표여서 더 위험. 언어생성 AI GPT-3가 그런 격. 텍스트 학습 기반 한계에도 사람 자연어와 분간 어려운 수준. 그래서 위험. 상용되면 가짜뉴스, 선전선동, 봇글 도배, 작문 대행에 진짜 인간 소통 흐릴 것https://t.co/1DKZOF0N2N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1DKZOF0N2N",
+					"expanded_url": "http://m.nautil.us/issue/89/the-dark-side/welcome-to-the-next-level-of-bullshit?mc_cid=8b6f026f4e&mc_eid=8914ac7b4a",
+					"display_url": "m.nautil.us/issue/89/the-d…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101088,
+			"friends_count": 2393,
+			"listed_count": 308,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "거짓말쟁이는 진실 알고 숨기지만 구라쟁이는 진위 불문 상대 설득이 목표여서 더 위험. 언어생성 AI GPT-3가 그런 격. 텍스트 학습 기반 한계에도 사람 자연어와 분간 어려운 수준. 그래서 위험. 상용되면 가짜뉴스, 선전선동, 봇글 도배, 작문 대행에 진짜 인간 소통 흐릴 것https://t.co/1DKZOF0N2N"
+	},
+	{
 		"created_at": "Thu Sep 10 14:29:57 +0000 2020",
 		"id": 1303917042634956800,
 		"id_str": "1304064572668538880",
