@@ -1,6 +1,863 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 09:52:20 +0000 2020",
+		"id": 1304357096381653000,
+		"id_str": "1304357096381652992",
+		"full_text": "#少女時代 #GirlsGeneration_Japan #소녀시대_일본\nテヨンの日本で2枚目となるミニアルバム『＃GirlsSpkOut』11月18日に発売決定。\nhttps://t.co/SGf9b7Cbi9\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GirlsGeneration_Japan",
+					"indices": [
+						6,
+						28
+					]
+				},
+				{
+					"text": "소녀시대_일본",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						114,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SGf9b7Cbi9",
+					"expanded_url": "http://girls-generation.jp/gg/news/2ndminialbum.html",
+					"display_url": "girls-generation.jp/gg/news/2ndmin…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 945,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #GirlsGeneration_Japan #소녀시대_일본\nテヨンの日本で2枚目となるミニアルバム『＃GirlsSpkOut』11月18日に発売決定。\nhttps://t.co/SGf9b7Cbi9\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Sep 11 09:38:30 +0000 2020",
+		"id": 1304353617202339800,
+		"id_str": "1304353617202339844",
+		"full_text": "[슬기로운 작가생활]\nhttps://t.co/GGJwKrTZbM\n#MonoTree #모노트리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonoTree",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						46,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGJwKrTZbM",
+					"expanded_url": "https://youtu.be/oYOl92U2aA8",
+					"display_url": "youtu.be/oYOl92U2aA8",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 945,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[슬기로운 작가생활]\nhttps://t.co/GGJwKrTZbM\n#MonoTree #모노트리"
+	},
+	{
+		"created_at": "Fri Sep 11 09:34:27 +0000 2020",
+		"id": 1304345828547469300,
+		"id_str": "1304352595448934405",
+		"full_text": "[#예술경영 웹진 : 기획특집①] \n\n온라인 콘텐츠의 저작권 문제, 어떻게 볼 것인가?\n\n453호 기획특집① 더보기👇\nhttps://t.co/0wt71j6p6w\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/wFMc3XB5QF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0wt71j6p6w",
+					"expanded_url": "https://bit.ly/32hZKUo",
+					"display_url": "bit.ly/32hZKUo",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304345811631788000,
+					"id_str": "1304345811631788032",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehn3mt6U0AA7m1p.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ehn3mt6U0AA7m1p.png",
+					"url": "https://t.co/wFMc3XB5QF",
+					"display_url": "pic.twitter.com/wFMc3XB5QF",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1304345828547469312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 735,
+							"h": 317,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 293,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 735,
+							"h": 317,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304345811631788000,
+					"id_str": "1304345811631788032",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehn3mt6U0AA7m1p.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ehn3mt6U0AA7m1p.png",
+					"url": "https://t.co/wFMc3XB5QF",
+					"display_url": "pic.twitter.com/wFMc3XB5QF",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1304345828547469312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 735,
+							"h": 317,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 293,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 735,
+							"h": 317,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6799,
+			"friends_count": 3011,
+			"listed_count": 102,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획특집①] \n\n온라인 콘텐츠의 저작권 문제, 어떻게 볼 것인가?\n\n453호 기획특집① 더보기👇\nhttps://t.co/0wt71j6p6w\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/wFMc3XB5QF"
+	},
+	{
+		"created_at": "Fri Sep 11 09:34:24 +0000 2020",
+		"id": 1304345421934854100,
+		"id_str": "1304352582438137856",
+		"full_text": "#テヨン 日本 2nd Mini Album『#GirlsSpkOut』11/18(水)に発売決定🌟\n通常盤、初回生産限定盤の他に“テヨンオリジナル・スパンコールクッション”が同梱された完全生産限定グッズ付も！\nCDショップ別のオリジナル特典も決定したのでぜひチェックしてください✔️ #TAEYEON\n\n🔗https://t.co/yCylIsYhOf https://t.co/NQGNNOTwbR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						143,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yCylIsYhOf",
+					"expanded_url": "http://taeyeon.girls-generation.jp/news/2ndminialbum/",
+					"display_url": "taeyeon.girls-generation.jp/news/2ndminial…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304345411025473500,
+					"id_str": "1304345411025473536",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehn3PZiVkAABG88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehn3PZiVkAABG88.jpg",
+					"url": "https://t.co/NQGNNOTwbR",
+					"display_url": "pic.twitter.com/NQGNNOTwbR",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1304345421934854144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304345411025473500,
+					"id_str": "1304345411025473536",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehn3PZiVkAABG88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehn3PZiVkAABG88.jpg",
+					"url": "https://t.co/NQGNNOTwbR",
+					"display_url": "pic.twitter.com/NQGNNOTwbR",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1304345421934854144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1304345411029614600,
+					"id_str": "1304345411029614592",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehn3PZjUwAA8tkl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehn3PZjUwAA8tkl.jpg",
+					"url": "https://t.co/NQGNNOTwbR",
+					"display_url": "pic.twitter.com/NQGNNOTwbR",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1304345421934854144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 886,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1304345411029577700,
+					"id_str": "1304345411029577728",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehn3PZjUMAAB0fM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehn3PZjUMAAB0fM.jpg",
+					"url": "https://t.co/NQGNNOTwbR",
+					"display_url": "pic.twitter.com/NQGNNOTwbR",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1304345421934854144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103648,
+			"friends_count": 0,
+			"listed_count": 481,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3850,
+		"favorite_count": 4011,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#テヨン 日本 2nd Mini Album『#GirlsSpkOut』11/18(水)に発売決定🌟\n通常盤、初回生産限定盤の他に“テヨンオリジナル・スパンコールクッション”が同梱された完全生産限定グッズ付も！\nCDショップ別のオリジナル特典も決定したのでぜひチェックしてください✔️ #TAEYEON\n\n🔗https://t.co/yCylIsYhOf https://t.co/NQGNNOTwbR"
+	},
+	{
+		"created_at": "Fri Sep 11 09:17:29 +0000 2020",
+		"id": 1304348327883026400,
+		"id_str": "1304348327883026432",
+		"full_text": "#팩트체크 #SNU팩트체크\n우체국의 조작된 배송 정보가 '부정선거'의 증거다.\n▶ 전혀 사실 아님\nhttps://t.co/gWHQNwDU0f\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						93,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gWHQNwDU0f",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2505",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 945,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n우체국의 조작된 배송 정보가 '부정선거'의 증거다.\n▶ 전혀 사실 아님\nhttps://t.co/gWHQNwDU0f\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Fri Sep 11 08:45:37 +0000 2020",
 		"id": 1304339242391277600,
 		"id_str": "1304340305865400320",
