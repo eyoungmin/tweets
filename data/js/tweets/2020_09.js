@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 08:45:37 +0000 2020",
+		"id": 1304339242391277600,
+		"id_str": "1304340305865400320",
+		"full_text": "디즈니 최고재무책임자(CFO) 크리스틴 맥카시가 &lt;뮬란&gt; 엔딩 크레디트에 신장 자치구 공안 당국에 감사를 표한 것에 대해 세계적인 관행일 뿐이라 입장을 전했습니다. 그러면서도 맥카시는 이번 논란이 디즈니 내에 많은 이슈를 일으켰다고 인정하는 모습도 보였습니다.\nhttps://t.co/x86Udrf90b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x86Udrf90b",
+					"expanded_url": "https://variety.com/2020/film/news/disney-cfo-filming-mulan-in-xinjiang-problematic-1234766342/",
+					"display_url": "variety.com/2020/film/news…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15905,
+			"friends_count": 746,
+			"listed_count": 85,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 1010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디즈니 최고재무책임자(CFO) 크리스틴 맥카시가 &lt;뮬란&gt; 엔딩 크레디트에 신장 자치구 공안 당국에 감사를 표한 것에 대해 세계적인 관행일 뿐이라 입장을 전했습니다. 그러면서도 맥카시는 이번 논란이 디즈니 내에 많은 이슈를 일으켰다고 인정하는 모습도 보였습니다.\nhttps://t.co/x86Udrf90b"
+	},
+	{
 		"created_at": "Fri Sep 11 07:05:42 +0000 2020",
 		"id": 1304315163122729000,
 		"id_str": "1304315163122728961",
