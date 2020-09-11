@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 04:58:28 +0000 2020",
+		"id": 1304267657047351300,
+		"id_str": "1304283142707056640",
+		"full_text": "[LIVE] 이랑- 가족을 찾아서+일기 Assembridge NAGOYA 2019\nhttps://t.co/V4sqXIR0ro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V4sqXIR0ro",
+					"expanded_url": "https://youtu.be/dNb3wuN0cBY",
+					"display_url": "youtu.be/dNb3wuN0cBY",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "금융예술인🔥의뢰|문의 📧 info.langlee@gmail.com 📧日本の仕事はinfo.sweetdreams@gmail.com STAFF @info_langlee",
+			"url": "https://t.co/CxKklAUBvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CxKklAUBvk",
+							"expanded_url": "http://www.youtube.com/langleeschool",
+							"display_url": "youtube.com/langleeschool",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31585,
+			"friends_count": 1038,
+			"listed_count": 172,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE] 이랑- 가족을 찾아서+일기 Assembridge NAGOYA 2019\nhttps://t.co/V4sqXIR0ro"
+	},
+	{
 		"created_at": "Fri Sep 11 03:47:17 +0000 2020",
 		"id": 1304265228222435300,
 		"id_str": "1304265228222435329",
