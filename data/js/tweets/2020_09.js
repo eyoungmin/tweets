@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 12:24:15 +0000 2020",
+		"id": 1304736947668017200,
+		"id_str": "1304757715470675968",
+		"full_text": "페북에 올라온 탱스트 정보&amp;미리듣기\n\n태연 - 내일은 고백할게 (브람스를 좋아하세요? OST)\n9월 15일 화요일 6시 발매 예정\n\nhttps://t.co/3LTccZs8LG\n#태연 #Taeyeon https://t.co/3imFdpkfvu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3LTccZs8LG",
+					"expanded_url": "https://www.facebook.com/oz.music.god/posts/3377300985671405",
+					"display_url": "facebook.com/oz.music.god/p…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304736888293474300,
+					"id_str": "1304736888293474305",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304736888293474305/pu/img/ZnP1dDQtgXP84Exe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304736888293474305/pu/img/ZnP1dDQtgXP84Exe.jpg",
+					"url": "https://t.co/3imFdpkfvu",
+					"display_url": "pic.twitter.com/3imFdpkfvu",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1304736947668017158/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304736888293474300,
+					"id_str": "1304736888293474305",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304736888293474305/pu/img/ZnP1dDQtgXP84Exe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304736888293474305/pu/img/ZnP1dDQtgXP84Exe.jpg",
+					"url": "https://t.co/3imFdpkfvu",
+					"display_url": "pic.twitter.com/3imFdpkfvu",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1304736947668017158/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 54488,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304736888293474305/pu/vid/320x320/T6UpPMKX4CxpeDsv.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304736888293474305/pu/vid/720x720/yxrobwpDKmspFzyi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1304736888293474305/pu/pl/jX49chM4zC77rHEQ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304736888293474305/pu/vid/480x480/mcmBQl526b1uICYG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173447107,
+			"id_str": "173447107",
+			"name": "화수은화",
+			"screen_name": "SNSD_0805",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40542,
+			"friends_count": 59,
+			"listed_count": 214,
+			"created_at": "Sun Aug 01 14:08:18 +0000 2010",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/173447107/1597651840",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 531,
+		"favorite_count": 448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페북에 올라온 탱스트 정보&amp;미리듣기\n\n태연 - 내일은 고백할게 (브람스를 좋아하세요? OST)\n9월 15일 화요일 6시 발매 예정\n\nhttps://t.co/3LTccZs8LG\n#태연 #Taeyeon https://t.co/3imFdpkfvu"
+	},
+	{
 		"created_at": "Sat Sep 12 11:24:11 +0000 2020",
 		"id": 1304742601023615000,
 		"id_str": "1304742601023614976",
