@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 03:00:26 +0000 2020",
+		"id": 1304615829284282400,
+		"id_str": "1304615829284282369",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Sep 12) https://t.co/ZNF2tzMVGm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZNF2tzMVGm",
+					"expanded_url": "https://nzzl.us/L2Wi5dl",
+					"display_url": "nzzl.us/L2Wi5dl",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Sep 12) https://t.co/ZNF2tzMVGm"
+	},
+	{
+		"created_at": "Sat Sep 12 02:05:18 +0000 2020",
+		"id": 1304601954048450600,
+		"id_str": "1304601954048450560",
+		"full_text": "#박진영의사회심리학\n[박진영의 사회심리학]고용 불안정이 갈라놓는 현실\nhttps://t.co/yZ9YWrWd0q\n#박진영 #심리학 #minfav https://t.co/WnhCY0I5JG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박진영의사회심리학",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "박진영",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "심리학",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yZ9YWrWd0q",
+					"expanded_url": "http://dongascience.donga.com/news.php?idx=39693",
+					"display_url": "dongascience.donga.com/news.php?idx=3…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304601952895066000,
+					"id_str": "1304601952895066112",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EhrgkGeXYAAvK2C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhrgkGeXYAAvK2C.jpg",
+					"url": "https://t.co/WnhCY0I5JG",
+					"display_url": "pic.twitter.com/WnhCY0I5JG",
+					"expanded_url": "https://twitter.com/fromminn/status/1304601954048450560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 565,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 565,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 565,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304601952895066000,
+					"id_str": "1304601952895066112",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EhrgkGeXYAAvK2C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhrgkGeXYAAvK2C.jpg",
+					"url": "https://t.co/WnhCY0I5JG",
+					"display_url": "pic.twitter.com/WnhCY0I5JG",
+					"expanded_url": "https://twitter.com/fromminn/status/1304601954048450560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 565,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 565,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 565,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#박진영의사회심리학\n[박진영의 사회심리학]고용 불안정이 갈라놓는 현실\nhttps://t.co/yZ9YWrWd0q\n#박진영 #심리학 #minfav https://t.co/WnhCY0I5JG"
+	},
+	{
 		"created_at": "Sat Sep 12 00:59:36 +0000 2020",
 		"id": 1304585416662753300,
 		"id_str": "1304585416662753282",
