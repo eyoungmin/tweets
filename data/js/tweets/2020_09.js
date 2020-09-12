@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 21:33:16 +0000 2020",
+		"id": 1304771607169097700,
+		"id_str": "1304895882723172352",
+		"full_text": "“생수 1병 보내줘요” 코앞 편의점에도 배달 주문 https://t.co/QPY3nU5848 배달공화국의 현재를 보여주는 동아기사. 음식배달뿐만 아니라 이제는 음료, 편의점, 백화점 등 모든 영역으로 실시간배달이 확대중. https://t.co/hWeoFoHd0r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QPY3nU5848",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=020&aid=0003308957",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304771597182460000,
+					"id_str": "1304771597182459905",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Eht62ssUYAEKpLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eht62ssUYAEKpLa.jpg",
+					"url": "https://t.co/hWeoFoHd0r",
+					"display_url": "pic.twitter.com/hWeoFoHd0r",
+					"expanded_url": "https://twitter.com/estima7/status/1304771607169097728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 647,
+							"h": 651,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 651,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 651,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304771597182460000,
+					"id_str": "1304771597182459905",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Eht62ssUYAEKpLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eht62ssUYAEKpLa.jpg",
+					"url": "https://t.co/hWeoFoHd0r",
+					"display_url": "pic.twitter.com/hWeoFoHd0r",
+					"expanded_url": "https://twitter.com/estima7/status/1304771607169097728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 647,
+							"h": 651,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 651,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 651,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367796,
+			"friends_count": 2268,
+			"listed_count": 4469,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“생수 1병 보내줘요” 코앞 편의점에도 배달 주문 https://t.co/QPY3nU5848 배달공화국의 현재를 보여주는 동아기사. 음식배달뿐만 아니라 이제는 음료, 편의점, 백화점 등 모든 영역으로 실시간배달이 확대중. https://t.co/hWeoFoHd0r"
+	},
+	{
 		"created_at": "Sat Sep 12 13:33:14 +0000 2020",
 		"id": 1304775074751434800,
 		"id_str": "1304775074751434752",
