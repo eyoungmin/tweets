@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 00:59:36 +0000 2020",
+		"id": 1304585416662753300,
+		"id_str": "1304585416662753282",
+		"full_text": "#YG라이프 #YG엔터테인먼트\nYG 트레저 도영·준규, ‘사랑해’ 개인 포스터 첫 공개..’심쿵’ 아이컨택\nhttps://t.co/oFZ8Px5im7\n#블랙핑크 #BLACKPINK https://t.co/vJ2kUpalta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oFZ8Px5im7",
+					"expanded_url": "https://yg-life.com/archives/159494?lang=ko",
+					"display_url": "yg-life.com/archives/15949…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304585415635148800,
+					"id_str": "1304585415635148801",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EhrRhgYWoAEJr57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhrRhgYWoAEJr57.jpg",
+					"url": "https://t.co/vJ2kUpalta",
+					"display_url": "pic.twitter.com/vJ2kUpalta",
+					"expanded_url": "https://twitter.com/fromminn/status/1304585416662753282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304585415635148800,
+					"id_str": "1304585415635148801",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EhrRhgYWoAEJr57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhrRhgYWoAEJr57.jpg",
+					"url": "https://t.co/vJ2kUpalta",
+					"display_url": "pic.twitter.com/vJ2kUpalta",
+					"expanded_url": "https://twitter.com/fromminn/status/1304585416662753282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\nYG 트레저 도영·준규, ‘사랑해’ 개인 포스터 첫 공개..’심쿵’ 아이컨택\nhttps://t.co/oFZ8Px5im7\n#블랙핑크 #BLACKPINK https://t.co/vJ2kUpalta"
+	},
+	{
+		"created_at": "Sat Sep 12 00:59:33 +0000 2020",
+		"id": 1304585407720566800,
+		"id_str": "1304585407720566786",
+		"full_text": "#YG라이프 #YG엔터테인먼트\nYG 트레저, 컴백 D-6 ‘카운트다운 라이브’ 예고→글로벌 팬 소통 기대\nhttps://t.co/qrLCfgSAVK\n#블랙핑크 #BLACKPINK https://t.co/DPyK9fgYZp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qrLCfgSAVK",
+					"expanded_url": "https://yg-life.com/archives/159488?lang=ko",
+					"display_url": "yg-life.com/archives/15948…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304585406546096000,
+					"id_str": "1304585406546096128",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EhrRg-hWsAA0Sw-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhrRg-hWsAA0Sw-.jpg",
+					"url": "https://t.co/DPyK9fgYZp",
+					"display_url": "pic.twitter.com/DPyK9fgYZp",
+					"expanded_url": "https://twitter.com/fromminn/status/1304585407720566786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304585406546096000,
+					"id_str": "1304585406546096128",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EhrRg-hWsAA0Sw-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhrRg-hWsAA0Sw-.jpg",
+					"url": "https://t.co/DPyK9fgYZp",
+					"display_url": "pic.twitter.com/DPyK9fgYZp",
+					"expanded_url": "https://twitter.com/fromminn/status/1304585407720566786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\nYG 트레저, 컴백 D-6 ‘카운트다운 라이브’ 예고→글로벌 팬 소통 기대\nhttps://t.co/qrLCfgSAVK\n#블랙핑크 #BLACKPINK https://t.co/DPyK9fgYZp"
+	},
+	{
+		"created_at": "Sat Sep 12 00:59:31 +0000 2020",
+		"id": 1304585397012496400,
+		"id_str": "1304585397012496384",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 팬들과 ‘밸런스 게임’ 도전..”우리는 한마음, 더 가까워지길”\nhttps://t.co/uZcvOm3a7z\n#블랙핑크 #BLACKPINK https://t.co/963gS4JzFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uZcvOm3a7z",
+					"expanded_url": "https://yg-life.com/archives/159479?lang=ko",
+					"display_url": "yg-life.com/archives/15947…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304585395498352600,
+					"id_str": "1304585395498352641",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EhrRgVXXgAEXD50.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhrRgVXXgAEXD50.jpg",
+					"url": "https://t.co/963gS4JzFm",
+					"display_url": "pic.twitter.com/963gS4JzFm",
+					"expanded_url": "https://twitter.com/fromminn/status/1304585397012496384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 410,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 410,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 272,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304585395498352600,
+					"id_str": "1304585395498352641",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EhrRgVXXgAEXD50.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhrRgVXXgAEXD50.jpg",
+					"url": "https://t.co/963gS4JzFm",
+					"display_url": "pic.twitter.com/963gS4JzFm",
+					"expanded_url": "https://twitter.com/fromminn/status/1304585397012496384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 410,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 410,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 272,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 팬들과 ‘밸런스 게임’ 도전..”우리는 한마음, 더 가까워지길”\nhttps://t.co/uZcvOm3a7z\n#블랙핑크 #BLACKPINK https://t.co/963gS4JzFm"
+	},
+	{
+		"created_at": "Sat Sep 12 00:34:23 +0000 2020",
+		"id": 1304570670349561900,
+		"id_str": "1304579074371788802",
+		"full_text": "#BLACKPINK '24/365 with BLACKPINK' EP.11\n\n🎬https://t.co/eWkxc5S5d2\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #24_365_WITH_BLACKPINK #EP11 #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "24_365_WITH_BLACKPINK",
+					"indices": [
+						101,
+						123
+					]
+				},
+				{
+					"text": "EP11",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						139,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eWkxc5S5d2",
+					"expanded_url": "https://youtu.be/uKECHoewS08",
+					"display_url": "youtu.be/uKECHoewS08",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6662866,
+			"friends_count": 38,
+			"listed_count": 6793,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8851,
+		"favorite_count": 27394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK '24/365 with BLACKPINK' EP.11\n\n🎬https://t.co/eWkxc5S5d2\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #24_365_WITH_BLACKPINK #EP11 #YOUTUBE #YG"
+	},
+	{
 		"created_at": "Fri Sep 11 14:56:35 +0000 2020",
 		"id": 1304386235134144500,
 		"id_str": "1304433666219622401",
