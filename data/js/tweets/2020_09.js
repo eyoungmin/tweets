@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 10:50:23 +0000 2020",
+		"id": 1304234507558559700,
+		"id_str": "1304734095889498114",
+		"full_text": "업무나 학습 목적으로 영작을 해야 하는 경우 자신이 쓴 표현이 문장 내에서 적절한지 확인해 볼 수 있는 사이트로 https://t.co/Ewjrz7q20r를 추천드리고 싶습니다. \nphrase 단위로 검색창에 입력하면 공신력 있는 매체 내에서 해당 구문이 사용된 용례, 유사 표현까지 함께 찾아내서 보여 줍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ewjrz7q20r",
+					"expanded_url": "http://ludwig.guru",
+					"display_url": "ludwig.guru",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112668525,
+			"id_str": "112668525",
+			"name": "DJ",
+			"screen_name": "dj__the__kid",
+			"location": "Seoul",
+			"description": "I never take anything or anyone for granted, but if you don’t feel that way, just fuck off.",
+			"url": "https://t.co/XNFRFeUldk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XNFRFeUldk",
+							"expanded_url": "http://koreantweeters.com/djthekid_tw",
+							"display_url": "koreantweeters.com/djthekid_tw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1595,
+			"friends_count": 825,
+			"listed_count": 51,
+			"created_at": "Tue Feb 09 09:19:05 +0000 2010",
+			"favourites_count": 2581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 58248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947515029510750208/yLk7hnZf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947515029510750208/yLk7hnZf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112668525/1550502149",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2515,
+		"favorite_count": 3386,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "업무나 학습 목적으로 영작을 해야 하는 경우 자신이 쓴 표현이 문장 내에서 적절한지 확인해 볼 수 있는 사이트로 https://t.co/Ewjrz7q20r를 추천드리고 싶습니다. \nphrase 단위로 검색창에 입력하면 공신력 있는 매체 내에서 해당 구문이 사용된 용례, 유사 표현까지 함께 찾아내서 보여 줍니다."
+	},
+	{
+		"created_at": "Sat Sep 12 10:37:47 +0000 2020",
+		"id": 1304730922055426000,
+		"id_str": "1304730922055426048",
+		"full_text": "@josematthew @TwitterSupport They seem to have checked the suspended accounts of Korean users today. And the list search function has all stopped. It doesn't work with the Twitter Web App anymore.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josematthew",
+					"name": "Jose Mathew",
+					"id": 27710681,
+					"id_str": "27710681",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304730434459168800,
+		"in_reply_to_status_id_str": "1304730434459168768",
+		"in_reply_to_user_id": 27710681,
+		"in_reply_to_user_id_str": "27710681",
+		"in_reply_to_screen_name": "josematthew",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@josematthew @TwitterSupport They seem to have checked the suspended accounts of Korean users today. And the list search function has all stopped. It doesn't work with the Twitter Web App anymore."
+	},
+	{
+		"created_at": "Sat Sep 12 10:34:08 +0000 2020",
+		"id": 1304466529627435000,
+		"id_str": "1304730006766059520",
+		"full_text": "IFTTTもZapierもTwitterのリスト内検索の結果が取れないと思ったら、なんかAPIの変更のせいっぽい🤷\nまた非公開リストが見えちゃう障害が発生してるとのことなので、安定のバグですね🤦 https://t.co/fQmOLpe3Pk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fQmOLpe3Pk",
+					"expanded_url": "https://twitter.com/josematthew/status/1301216476347727876",
+					"display_url": "twitter.com/josematthew/st…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 958759545634828300,
+			"id_str": "958759545634828288",
+			"name": "かしい@サービス売った",
+			"screen_name": "rubys8arks",
+			"location": "noteでも個人開発ノウハウを発信中👇",
+			"description": "お笑いライブ検索サービス@warally_infoを作って売却しました。外資ITコンサル➡️Web系スタートアップで新規事業立上げ➡️初めて独学で作ったサービスを2年半で企業に売却✌️ゼロイチでMVPを作るのが得意です。個人開発のノウハウを発信中📡Qiita👉https://t.co/zhYNQUPSCW",
+			"url": "https://t.co/ZywpUdkjJR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZywpUdkjJR",
+							"expanded_url": "https://note.com/rubys8arks",
+							"display_url": "note.com/rubys8arks",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zhYNQUPSCW",
+							"expanded_url": "https://qiita.com/rubys8arks",
+							"display_url": "qiita.com/rubys8arks",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1209,
+			"friends_count": 287,
+			"listed_count": 41,
+			"created_at": "Wed Jan 31 17:51:03 +0000 2018",
+			"favourites_count": 1479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052243408155078656/GYntorzk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052243408155078656/GYntorzk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/958759545634828288/1599468740",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301216476347728000,
+		"quoted_status_id_str": "1301216476347727876",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fQmOLpe3Pk",
+			"expanded": "https://twitter.com/josematthew/status/1301216476347727876",
+			"display": "twitter.com/josematthew/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 02 17:52:38 +0000 2020",
+			"id": 1301216476347728000,
+			"id_str": "1301216476347727876",
+			"full_text": "@TwitterSupport Since September 01 onwards  'Search list:@username/listname ' advanced search isn't working for me. Tried twitter for android and other clients but failed. Only Tweetdeck is supporting this filter.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterSupport",
+						"name": "Twitter Support",
+						"id": 17874544,
+						"id_str": "17874544",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 17874544,
+			"in_reply_to_user_id_str": "17874544",
+			"in_reply_to_screen_name": "TwitterSupport",
+			"user": {
+				"id": 27710681,
+				"id_str": "27710681",
+				"name": "Jose Mathew",
+				"screen_name": "josematthew",
+				"location": "India",
+				"description": "Passionate about all things digital. Movie freak. Loves Music beyond borders. Inclined to Football - 'Chelsea'",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 342,
+				"friends_count": 205,
+				"listed_count": 19,
+				"created_at": "Mon Mar 30 19:37:49 +0000 2009",
+				"favourites_count": 1137,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14116,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/116410507/Nike_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/116410507/Nike_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27710681/1405087504",
+				"profile_link_color": "F10E09",
+				"profile_sidebar_border_color": "FE90A0",
+				"profile_sidebar_fill_color": "F1F1F3",
+				"profile_text_color": "701C00",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "IFTTTもZapierもTwitterのリスト内検索の結果が取れないと思ったら、なんかAPIの変更のせいっぽい🤷\nまた非公開リストが見えちゃう障害が発生してるとのことなので、安定のバグですね🤦 https://t.co/fQmOLpe3Pk"
+	},
+	{
+		"created_at": "Sat Sep 12 10:31:41 +0000 2020",
+		"id": 1304729387208642600,
+		"id_str": "1304729387208642560",
+		"full_text": "@josematthew @TwitterSupport Twitter Web App search isn't working. 😞",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josematthew",
+					"name": "Jose Mathew",
+					"id": 27710681,
+					"id_str": "27710681",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1301216476347728000,
+		"in_reply_to_status_id_str": "1301216476347727876",
+		"in_reply_to_user_id": 27710681,
+		"in_reply_to_user_id_str": "27710681",
+		"in_reply_to_screen_name": "josematthew",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@josematthew @TwitterSupport Twitter Web App search isn't working. 😞"
+	},
+	{
+		"created_at": "Sat Sep 12 10:10:46 +0000 2020",
+		"id": 1304724122702766000,
+		"id_str": "1304724122702766082",
+		"full_text": "list:&lt;list ID&gt;\nlist:@&lt;screen name&gt;/&lt;list name&gt;\n작동 안 함\n\nlist:@&lt;screen name&gt;/list[1-9]\n\n번호로 된다길래 해봤는데 안 됨.\n유효하지 않는 검색어라고 뜸.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "list:&lt;list ID&gt;\nlist:@&lt;screen name&gt;/&lt;list name&gt;\n작동 안 함\n\nlist:@&lt;screen name&gt;/list[1-9]\n\n번호로 된다길래 해봤는데 안 됨.\n유효하지 않는 검색어라고 뜸."
+	},
+	{
 		"created_at": "Sat Sep 12 08:59:21 +0000 2020",
 		"id": 1304706150730997800,
 		"id_str": "1304706150730997760",
