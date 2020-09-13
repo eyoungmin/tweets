@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 13 03:59:27 +0000 2020",
+		"id": 1304993069155188700,
+		"id_str": "1304993069155188737",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n‘컴백 D-5’ 트레저 윤재혁·지훈, 청량美 포스터 공개\nhttps://t.co/dt4Z0fLCob\n#블랙핑크 #BLACKPINK https://t.co/85k6N038d6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dt4Z0fLCob",
+					"expanded_url": "https://yg-life.com/archives/159535?lang=ko",
+					"display_url": "yg-life.com/archives/15953…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304993067888509000,
+					"id_str": "1304993067888508928",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EhxER_XXgAAYtC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhxER_XXgAAYtC-.jpg",
+					"url": "https://t.co/85k6N038d6",
+					"display_url": "pic.twitter.com/85k6N038d6",
+					"expanded_url": "https://twitter.com/fromminn/status/1304993069155188737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304993067888509000,
+					"id_str": "1304993067888508928",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EhxER_XXgAAYtC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhxER_XXgAAYtC-.jpg",
+					"url": "https://t.co/85k6N038d6",
+					"display_url": "pic.twitter.com/85k6N038d6",
+					"expanded_url": "https://twitter.com/fromminn/status/1304993069155188737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n‘컴백 D-5’ 트레저 윤재혁·지훈, 청량美 포스터 공개\nhttps://t.co/dt4Z0fLCob\n#블랙핑크 #BLACKPINK https://t.co/85k6N038d6"
+	},
+	{
+		"created_at": "Sun Sep 13 03:34:23 +0000 2020",
+		"id": 1304978170265743400,
+		"id_str": "1304986760745807872",
+		"full_text": "[달로그 #23] 기다린 만큼 더욱 소중한 ViVi의 브이로그🤖\n이달의 소녀 공식 유튜브 채널에서 달로그를 확인하세요!\n⠀\n▶ https://t.co/kivmKPvQKi\n⠀\n#이달의소녀 #달로그 #LOONA #LOONALOG #ViVi https://t.co/b1vkQlHCdD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "달로그",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "LOONALOG",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kivmKPvQKi",
+					"expanded_url": "https://youtu.be/rwR68YfFWrk",
+					"display_url": "youtu.be/rwR68YfFWrk",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304978159813578800,
+					"id_str": "1304978159813578752",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehw2uOdU0AAHQCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehw2uOdU0AAHQCe.jpg",
+					"url": "https://t.co/b1vkQlHCdD",
+					"display_url": "pic.twitter.com/b1vkQlHCdD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1304978170265743360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304978159813578800,
+					"id_str": "1304978159813578752",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehw2uOdU0AAHQCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehw2uOdU0AAHQCe.jpg",
+					"url": "https://t.co/b1vkQlHCdD",
+					"display_url": "pic.twitter.com/b1vkQlHCdD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1304978170265743360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520590,
+			"friends_count": 0,
+			"listed_count": 5461,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4632,
+		"favorite_count": 11933,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[달로그 #23] 기다린 만큼 더욱 소중한 ViVi의 브이로그🤖\n이달의 소녀 공식 유튜브 채널에서 달로그를 확인하세요!\n⠀\n▶ https://t.co/kivmKPvQKi\n⠀\n#이달의소녀 #달로그 #LOONA #LOONALOG #ViVi https://t.co/b1vkQlHCdD"
+	},
+	{
 		"created_at": "Sun Sep 13 03:00:50 +0000 2020",
 		"id": 1304978314516484000,
 		"id_str": "1304978314516484098",
