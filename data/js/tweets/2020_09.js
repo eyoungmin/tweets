@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 13 14:15:51 +0000 2020",
+		"id": 1303770148877279200,
+		"id_str": "1305148187909345280",
+		"full_text": "We have big news! Today we’re launching IFTTT Pro, a subscription option that gives advanced creators access to powerful tools like queries and conditional logic, multiple actions, and faster execution. Learn more from our Founder and CEO, @ltibbets\n\n👉 https://t.co/cpzm33F3kA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ltibbets",
+					"name": "Linden Tibbets",
+					"id": 8064682,
+					"id_str": "8064682",
+					"indices": [
+						240,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cpzm33F3kA",
+					"expanded_url": "https://ift.tt/2R9CxgL",
+					"display_url": "ift.tt/2R9CxgL",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75079616,
+			"id_str": "75079616",
+			"name": "IFTTT",
+			"screen_name": "IFTTT",
+			"location": "San Francisco, CA",
+			"description": "Every thing works better together.\n \nGet help at https://t.co/s6FI5snXQr\nBuild on https://t.co/XAKs80ZGat",
+			"url": "https://t.co/aawZ4nrIwb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aawZ4nrIwb",
+							"expanded_url": "https://ifttt.com",
+							"display_url": "ifttt.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/s6FI5snXQr",
+							"expanded_url": "http://help.ifttt.com",
+							"display_url": "help.ifttt.com",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/XAKs80ZGat",
+							"expanded_url": "http://platform.ifttt.com",
+							"display_url": "platform.ifttt.com",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167723,
+			"friends_count": 347,
+			"listed_count": 6039,
+			"created_at": "Thu Sep 17 18:30:25 +0000 2009",
+			"favourites_count": 4638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 77640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154072494266933248/muawPqL4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154072494266933248/muawPqL4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75079616/1599681795",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have big news! Today we’re launching IFTTT Pro, a subscription option that gives advanced creators access to powerful tools like queries and conditional logic, multiple actions, and faster execution. Learn more from our Founder and CEO, @ltibbets\n\n👉 https://t.co/cpzm33F3kA"
+	},
+	{
 		"created_at": "Sun Sep 13 13:31:44 +0000 2020",
 		"id": 1305137086966632400,
 		"id_str": "1305137086966632448",
