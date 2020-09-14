@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 13:34:26 +0000 2020",
+		"id": 1305497694161440800,
+		"id_str": "1305500154821312513",
+		"full_text": "YESEO - EP [BE]\n\nD-7\n\n2020.09.21 12PM (KST)\n\nReal Soooon ✨✨✨✨\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by Mo Eun Seo\nPlant Mask by Lee Eun Seo\n\nAnd more ❤️ (soon!!) https://t.co/Mr0W5d75Nk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305497687211430000,
+					"id_str": "1305497687211429888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh4POs1U0AAneWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh4POs1U0AAneWd.jpg",
+					"url": "https://t.co/Mr0W5d75Nk",
+					"display_url": "pic.twitter.com/Mr0W5d75Nk",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1305497694161440771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305497687211430000,
+					"id_str": "1305497687211429888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh4POs1U0AAneWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh4POs1U0AAneWd.jpg",
+					"url": "https://t.co/Mr0W5d75Nk",
+					"display_url": "pic.twitter.com/Mr0W5d75Nk",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1305497694161440771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 2,
+			"listed_count": 13,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YESEO - EP [BE]\n\nD-7\n\n2020.09.21 12PM (KST)\n\nReal Soooon ✨✨✨✨\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by Mo Eun Seo\nPlant Mask by Lee Eun Seo\n\nAnd more ❤️ (soon!!) https://t.co/Mr0W5d75Nk"
+	},
+	{
+		"created_at": "Mon Sep 14 13:34:18 +0000 2020",
+		"id": 1305500120809713700,
+		"id_str": "1305500120809713664",
+		"full_text": "#EO\n외국인 창업가의 눈에 보이는 한국시장의 매력\nhttps://t.co/0RUTBHbjwP\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0RUTBHbjwP",
+					"expanded_url": "https://youtu.be/n_N4YGfRj_k",
+					"display_url": "youtu.be/n_N4YGfRj_k",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n외국인 창업가의 눈에 보이는 한국시장의 매력\nhttps://t.co/0RUTBHbjwP\n#스타트업 #태용 #minfav"
+	},
+	{
+		"created_at": "Mon Sep 14 13:32:46 +0000 2020",
+		"id": 1305450699807797200,
+		"id_str": "1305499733440360448",
+		"full_text": "이거 뭐야 정부에서 닷페이스 온라인 퀴퍼 아이디어 훔쳐감 https://t.co/JZHmbhZdCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305450491992653800,
+					"id_str": "1305450491992653829",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3kTk8UwAUnspj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3kTk8UwAUnspj.jpg",
+					"url": "https://t.co/JZHmbhZdCC",
+					"display_url": "pic.twitter.com/JZHmbhZdCC",
+					"expanded_url": "https://twitter.com/uma_hyemanQp/status/1305450699807797248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305450491992653800,
+					"id_str": "1305450491992653829",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3kTk8UwAUnspj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3kTk8UwAUnspj.jpg",
+					"url": "https://t.co/JZHmbhZdCC",
+					"display_url": "pic.twitter.com/JZHmbhZdCC",
+					"expanded_url": "https://twitter.com/uma_hyemanQp/status/1305450699807797248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305450558367518700,
+					"id_str": "1305450558367518721",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3kXcNU0AEK04S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3kXcNU0AEK04S.jpg",
+					"url": "https://t.co/JZHmbhZdCC",
+					"display_url": "pic.twitter.com/JZHmbhZdCC",
+					"expanded_url": "https://twitter.com/uma_hyemanQp/status/1305450699807797248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305450650042470400,
+					"id_str": "1305450650042470400",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3kcxuVkAA3nSj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3kcxuVkAA3nSj.jpg",
+					"url": "https://t.co/JZHmbhZdCC",
+					"display_url": "pic.twitter.com/JZHmbhZdCC",
+					"expanded_url": "https://twitter.com/uma_hyemanQp/status/1305450699807797248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 803155396030447600,
+			"id_str": "803155396030447616",
+			"name": "🎗🇭🇰내 칼날을 네 머리통에 포옥",
+			"screen_name": "uma_hyemanQp",
+			"location": "",
+			"description": "무지개 조폭단 홍보담당\n                                 고혜란의 영원한 빵모자 \n                                 노승혜의 충직한 오함마\n                                       R.I.P 시티백 태백이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 324,
+			"friends_count": 513,
+			"listed_count": 0,
+			"created_at": "Mon Nov 28 08:35:43 +0000 2016",
+			"favourites_count": 27457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275246183074521088/-7ET0GGc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275246183074521088/-7ET0GGc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/803155396030447616/1531842946",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4718,
+		"favorite_count": 701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 뭐야 정부에서 닷페이스 온라인 퀴퍼 아이디어 훔쳐감 https://t.co/JZHmbhZdCC"
+	},
+	{
+		"created_at": "Mon Sep 14 13:03:43 +0000 2020",
+		"id": 1305348459772276700,
+		"id_str": "1305492424408457216",
+		"full_text": "박소유 - 우리의 밤은 길지 않으니(Feat.김내현 of 로큰롤라디오) 가 발매되었습니다\n지금 모든 음원사이트에서 들으실 수 있어요\n\n오늘 하루를 견뎌낸 당신에게 드리는 위로가 가 닿기를 바라며_\n\nhttps://t.co/J8V5CqQy12",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J8V5CqQy12",
+					"expanded_url": "https://youtu.be/2CFdHsbwwp0",
+					"display_url": "youtu.be/2CFdHsbwwp0",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187983928,
+			"id_str": "187983928",
+			"name": "박소유",
+			"screen_name": "Blackswans_",
+			"location": "",
+			"description": "https://t.co/UjcZQAtIW3",
+			"url": "https://t.co/vkoh490NKE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkoh490NKE",
+							"expanded_url": "http://www.parksoyu.com",
+							"display_url": "parksoyu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UjcZQAtIW3",
+							"expanded_url": "http://www.facebook.com/withparksoyu",
+							"display_url": "facebook.com/withparksoyu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 126,
+			"listed_count": 19,
+			"created_at": "Tue Sep 07 17:05:43 +0000 2010",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957507339292000256/ZGE5vuTw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957507339292000256/ZGE5vuTw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187983928/1431101478",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박소유 - 우리의 밤은 길지 않으니(Feat.김내현 of 로큰롤라디오) 가 발매되었습니다\n지금 모든 음원사이트에서 들으실 수 있어요\n\n오늘 하루를 견뎌낸 당신에게 드리는 위로가 가 닿기를 바라며_\n\nhttps://t.co/J8V5CqQy12"
+	},
+	{
 		"created_at": "Mon Sep 14 12:59:05 +0000 2020",
 		"id": 1305490168745308200,
 		"id_str": "1305491259402846208",
