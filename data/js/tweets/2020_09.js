@@ -1,6 +1,1862 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 11:43:16 +0000 2020",
+		"id": 1305472179673284600,
+		"id_str": "1305472179673284609",
+		"full_text": "난 IFTTT 시간이 빠를 필요도 없는 사람인데 그냥 무료로 제공해준다면 3시간 정도까진 진짜 감사하다고 말하면서 쓸 것 같은데. 어차피 특정 시간대에 확인 하니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "난 IFTTT 시간이 빠를 필요도 없는 사람인데 그냥 무료로 제공해준다면 3시간 정도까진 진짜 감사하다고 말하면서 쓸 것 같은데. 어차피 특정 시간대에 확인 하니까."
+	},
+	{
+		"created_at": "Mon Sep 14 11:41:21 +0000 2020",
+		"id": 1305403340046516200,
+		"id_str": "1305471695126319105",
+		"full_text": "10월의 &lt;더블유&gt; 커버를 장식한 #블랙핑크 #로제\n#BLACKPINK #ROSÉ\nhttps://t.co/kwPdVFGJtW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						46,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kwPdVFGJtW",
+					"expanded_url": "http://www.wkorea.com/2020/09/14/w-korea-10%EC%9B%94%ED%98%B8-%EC%BB%A4%EB%B2%84-2/?ddw=75432&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2020/09/14/w-k…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "Conceptual Trend Magazine 'W Korea' 공식 트위터 계정입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247932,
+			"friends_count": 0,
+			"listed_count": 766,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 3639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1597809545",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5879,
+		"favorite_count": 12008,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10월의 &lt;더블유&gt; 커버를 장식한 #블랙핑크 #로제\n#BLACKPINK #ROSÉ\nhttps://t.co/kwPdVFGJtW"
+	},
+	{
+		"created_at": "Mon Sep 14 11:29:37 +0000 2020",
+		"id": 1305416736598941700,
+		"id_str": "1305468744710287360",
+		"full_text": "오라클은 왜 틱톡에 눈독을 들이나 https://t.co/RXHXoaqzXm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RXHXoaqzXm",
+					"expanded_url": "http://www.bloter.net/archives/405647",
+					"display_url": "bloter.net/archives/405647",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54792,
+			"friends_count": 9,
+			"listed_count": 2364,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오라클은 왜 틱톡에 눈독을 들이나 https://t.co/RXHXoaqzXm"
+	},
+	{
+		"created_at": "Mon Sep 14 11:29:30 +0000 2020",
+		"id": 1305430042487398400,
+		"id_str": "1305468711877267458",
+		"full_text": "SKT, “사람 많은 지하철 칸 피해가세요” https://t.co/9fqqiJLLUK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9fqqiJLLUK",
+					"expanded_url": "http://www.bloter.net/archives/405655",
+					"display_url": "bloter.net/archives/405655",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54792,
+			"friends_count": 9,
+			"listed_count": 2364,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SKT, “사람 많은 지하철 칸 피해가세요” https://t.co/9fqqiJLLUK"
+	},
+	{
+		"created_at": "Mon Sep 14 11:23:04 +0000 2020",
+		"id": 1305197312524931000,
+		"id_str": "1305467093190496258",
+		"full_text": "Make sure you get your votes in for round 2 of #BBFanArmy2020!\n\nVote for @RVsmtown’s fan army here: https://t.co/wXbzzIF9iV https://t.co/kwarlx77iu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBFanArmy2020",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wXbzzIF9iV",
+					"expanded_url": "http://blbrd.cm/RqlefyS",
+					"display_url": "blbrd.cm/RqlefyS",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305197307487543300,
+					"id_str": "1305197307487543304",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehz-CTKXYAgCJhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehz-CTKXYAgCJhi.jpg",
+					"url": "https://t.co/kwarlx77iu",
+					"display_url": "pic.twitter.com/kwarlx77iu",
+					"expanded_url": "https://twitter.com/billboard/status/1305197312524931075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305197307487543300,
+					"id_str": "1305197307487543304",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehz-CTKXYAgCJhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehz-CTKXYAgCJhi.jpg",
+					"url": "https://t.co/kwarlx77iu",
+					"display_url": "pic.twitter.com/kwarlx77iu",
+					"expanded_url": "https://twitter.com/billboard/status/1305197312524931075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9421278,
+			"friends_count": 3196,
+			"listed_count": 19450,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 258326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1597328672",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 495,
+		"favorite_count": 1208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make sure you get your votes in for round 2 of #BBFanArmy2020!\n\nVote for @RVsmtown’s fan army here: https://t.co/wXbzzIF9iV https://t.co/kwarlx77iu"
+	},
+	{
+		"created_at": "Mon Sep 14 11:22:36 +0000 2020",
+		"id": 1305325394304757800,
+		"id_str": "1305466978765664256",
+		"full_text": "[#예리한방] 31-32화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n🏡집콕 중에도 힘내시길 바라며,\n계속되는 언플러그드 예리한 음방🎤\n예리의 스윗 보이스로 힐링 테라피!\n\n📌매주 월요일 11시 예리한 방\n#Seezn 에서 무료 선공개💕 \n\n#Seezn오리지널 #덤덤스튜디오 #예리 #YERI #레드벨벳 #RedVelvet https://t.co/KzkiZzHroF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리한방",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "Seezn오리지널",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						180,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8zPMy9VfiF",
+					"expanded_url": "http://bit.ly/yeri_room",
+					"display_url": "bit.ly/yeri_room",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305306783246774300,
+					"id_str": "1305306783246774272",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh1hmoJU8AAXtA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh1hmoJU8AAXtA5.jpg",
+					"url": "https://t.co/KzkiZzHroF",
+					"display_url": "pic.twitter.com/KzkiZzHroF",
+					"expanded_url": "https://twitter.com/my_seezn/status/1305325394304757760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305306783246774300,
+					"id_str": "1305306783246774272",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh1hmoJU8AAXtA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh1hmoJU8AAXtA5.jpg",
+					"url": "https://t.co/KzkiZzHroF",
+					"display_url": "pic.twitter.com/KzkiZzHroF",
+					"expanded_url": "https://twitter.com/my_seezn/status/1305325394304757760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305306826477461500,
+					"id_str": "1305306826477461505",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh1hpJMU4AEmkcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh1hpJMU4AEmkcG.jpg",
+					"url": "https://t.co/KzkiZzHroF",
+					"display_url": "pic.twitter.com/KzkiZzHroF",
+					"expanded_url": "https://twitter.com/my_seezn/status/1305325394304757760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194503596139671600,
+			"id_str": "1194503596139671558",
+			"name": "Seezn(시즌)",
+			"screen_name": "my_seezn",
+			"location": "대한민국 어디서나",
+			"description": "올레 tv 모바일🔁Seezn(시즌)의 공식계정입니다!\n　\n👉Seezn_오리지널: #WayVision #빽투더아이돌 #기분째니는날 #놓지마정신줄 #여은파 #아이돌다방 #NCT_LIFE #싱스테이 #아이랜드_BH #지금은휴가중 #예리한방 #예병대캠프 #우석이의언박싱 #고막메이트 etc.",
+			"url": "https://t.co/qrz9LR2d3n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qrz9LR2d3n",
+							"expanded_url": "http://bit.ly/Seezn",
+							"display_url": "bit.ly/Seezn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37428,
+			"friends_count": 6,
+			"listed_count": 47,
+			"created_at": "Wed Nov 13 06:34:16 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194503596139671558/1588914430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1170,
+		"favorite_count": 2079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예리한방] 31-32화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n🏡집콕 중에도 힘내시길 바라며,\n계속되는 언플러그드 예리한 음방🎤\n예리의 스윗 보이스로 힐링 테라피!\n\n📌매주 월요일 11시 예리한 방\n#Seezn 에서 무료 선공개💕 \n\n#Seezn오리지널 #덤덤스튜디오 #예리 #YERI #레드벨벳 #RedVelvet https://t.co/KzkiZzHroF"
+	},
+	{
+		"created_at": "Mon Sep 14 11:21:12 +0000 2020",
+		"id": 1305329328578637800,
+		"id_str": "1305466625265598466",
+		"full_text": "방탄소년단(BTS) RM, 미술책 보급에 1억 원 기부…“미술책 읽는 문화 확산하길” #BTS #KBS뉴스 #KBS https://t.co/k3kAEg8gKW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						60,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k3kAEg8gKW",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=5003580",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "KBS뉴스는 시청자 여러분과 함께 만들어 갑니다. \n뉴스제보는 카카오톡, KBS뉴스앱 또는 kbs1234@kbs.co.kr로 전해주세요.",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425589,
+			"friends_count": 106944,
+			"listed_count": 4586,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 144566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250591183543271424/fK5Hq8NW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250591183543271424/fK5Hq8NW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1593418705",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3318,
+		"favorite_count": 8376,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방탄소년단(BTS) RM, 미술책 보급에 1억 원 기부…“미술책 읽는 문화 확산하길” #BTS #KBS뉴스 #KBS https://t.co/k3kAEg8gKW"
+	},
+	{
+		"created_at": "Mon Sep 14 11:20:01 +0000 2020",
+		"id": 1305399722824274000,
+		"id_str": "1305466326291365888",
+		"full_text": "아아아 #로제 #ROSÉ #ROSÉforTiffanyAndCo https://t.co/TaRosoUkCT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "ROSÉforTiffanyAndCo",
+					"indices": [
+						14,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305399717208105000,
+					"id_str": "1305399717208104966",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh22IGIVoAY6cwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh22IGIVoAY6cwr.jpg",
+					"url": "https://t.co/TaRosoUkCT",
+					"display_url": "pic.twitter.com/TaRosoUkCT",
+					"expanded_url": "https://twitter.com/_youimma/status/1305399722824273921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305399717208105000,
+					"id_str": "1305399717208104966",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh22IGIVoAY6cwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh22IGIVoAY6cwr.jpg",
+					"url": "https://t.co/TaRosoUkCT",
+					"display_url": "pic.twitter.com/TaRosoUkCT",
+					"expanded_url": "https://twitter.com/_youimma/status/1305399722824273921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305399717203902500,
+					"id_str": "1305399717203902464",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh22IGHVgAAZNIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh22IGHVgAAZNIf.jpg",
+					"url": "https://t.co/TaRosoUkCT",
+					"display_url": "pic.twitter.com/TaRosoUkCT",
+					"expanded_url": "https://twitter.com/_youimma/status/1305399722824273921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305399717208055800,
+					"id_str": "1305399717208055809",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh22IGIU4AEqB13.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh22IGIU4AEqB13.jpg",
+					"url": "https://t.co/TaRosoUkCT",
+					"display_url": "pic.twitter.com/TaRosoUkCT",
+					"expanded_url": "https://twitter.com/_youimma/status/1305399722824273921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305399717212242000,
+					"id_str": "1305399717212241921",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh22IGJUwAEbdJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh22IGJUwAEbdJ2.jpg",
+					"url": "https://t.co/TaRosoUkCT",
+					"display_url": "pic.twitter.com/TaRosoUkCT",
+					"expanded_url": "https://twitter.com/_youimma/status/1305399722824273921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880117088366481400,
+			"id_str": "880117088366481408",
+			"name": "블임마🦔",
+			"screen_name": "_youimma",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/mRtCBhiCYs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mRtCBhiCYs",
+							"expanded_url": "https://www.instagram.com/tv/CAQVyOOhbIk/?igshid=txbzwjfprgvu",
+							"display_url": "instagram.com/tv/CAQVyOOhbIk…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25100,
+			"friends_count": 166,
+			"listed_count": 236,
+			"created_at": "Wed Jun 28 17:34:00 +0000 2017",
+			"favourites_count": 13540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1299239921790545925/g-SqEDU__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299239921790545925/g-SqEDU__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880117088366481408/1557752453",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2029,
+		"favorite_count": 4165,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아아아 #로제 #ROSÉ #ROSÉforTiffanyAndCo https://t.co/TaRosoUkCT"
+	},
+	{
+		"created_at": "Mon Sep 14 11:19:19 +0000 2020",
+		"id": 1305437948733804500,
+		"id_str": "1305466152739467264",
+		"full_text": "W KOREA x ROSÉ\n\n#ROSÉ #로제 #BLACKPINK #블랙핑크  #ROSÉstyle https://t.co/rvyMPKPHSF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "ROSÉstyle",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305437943365087200,
+					"id_str": "1305437943365087232",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3Y5JqXsAAnngT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3Y5JqXsAAnngT.jpg",
+					"url": "https://t.co/rvyMPKPHSF",
+					"display_url": "pic.twitter.com/rvyMPKPHSF",
+					"expanded_url": "https://twitter.com/rosesfit/status/1305437948733804544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305437943365087200,
+					"id_str": "1305437943365087232",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3Y5JqXsAAnngT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3Y5JqXsAAnngT.jpg",
+					"url": "https://t.co/rvyMPKPHSF",
+					"display_url": "pic.twitter.com/rvyMPKPHSF",
+					"expanded_url": "https://twitter.com/rosesfit/status/1305437948733804544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1058901304683229200,
+			"id_str": "1058901304683229184",
+			"name": "ROSÉ STYLE",
+			"screen_name": "rosesfit",
+			"location": "",
+			"description": "ғᴀsʜɪᴏɴ ᴀᴄᴄᴏᴜɴᴛ ғᴏʀ ʀᴏsé ᴏғ ʙʟᴀᴄᴋᴘɪɴᴋ ↡ɪɴsᴛᴀɢʀᴀᴍ↡",
+			"url": "https://t.co/SD8TxdTVOW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SD8TxdTVOW",
+							"expanded_url": "https://www.instagram.com/rosesfit_/",
+							"display_url": "instagram.com/rosesfit_/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6143,
+			"friends_count": 16,
+			"listed_count": 63,
+			"created_at": "Sun Nov 04 01:58:39 +0000 2018",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214153261491507200/IvW-l61p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214153261491507200/IvW-l61p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058901304683229184/1555252493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 395,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "W KOREA x ROSÉ\n\n#ROSÉ #로제 #BLACKPINK #블랙핑크  #ROSÉstyle https://t.co/rvyMPKPHSF"
+	},
+	{
+		"created_at": "Mon Sep 14 11:18:22 +0000 2020",
+		"id": 1305413583573000200,
+		"id_str": "1305465910879162374",
+		"full_text": "W KOREA x ROSÉ\n\n#ROSÉ #로제 #BLACKPINK #블랙핑크  #ROSÉstyle https://t.co/ptntaB0OZ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "ROSÉstyle",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305413577533251600,
+					"id_str": "1305413577533251590",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3Cu33XYAYU7U4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3Cu33XYAYU7U4.jpg",
+					"url": "https://t.co/ptntaB0OZ3",
+					"display_url": "pic.twitter.com/ptntaB0OZ3",
+					"expanded_url": "https://twitter.com/rosesfit/status/1305413583573000193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305413577533251600,
+					"id_str": "1305413577533251590",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3Cu33XYAYU7U4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3Cu33XYAYU7U4.jpg",
+					"url": "https://t.co/ptntaB0OZ3",
+					"display_url": "pic.twitter.com/ptntaB0OZ3",
+					"expanded_url": "https://twitter.com/rosesfit/status/1305413583573000193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1058901304683229200,
+			"id_str": "1058901304683229184",
+			"name": "ROSÉ STYLE",
+			"screen_name": "rosesfit",
+			"location": "",
+			"description": "ғᴀsʜɪᴏɴ ᴀᴄᴄᴏᴜɴᴛ ғᴏʀ ʀᴏsé ᴏғ ʙʟᴀᴄᴋᴘɪɴᴋ ↡ɪɴsᴛᴀɢʀᴀᴍ↡",
+			"url": "https://t.co/SD8TxdTVOW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SD8TxdTVOW",
+							"expanded_url": "https://www.instagram.com/rosesfit_/",
+							"display_url": "instagram.com/rosesfit_/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6143,
+			"friends_count": 16,
+			"listed_count": 63,
+			"created_at": "Sun Nov 04 01:58:39 +0000 2018",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214153261491507200/IvW-l61p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214153261491507200/IvW-l61p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058901304683229184/1555252493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 850,
+		"favorite_count": 1810,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "W KOREA x ROSÉ\n\n#ROSÉ #로제 #BLACKPINK #블랙핑크  #ROSÉstyle https://t.co/ptntaB0OZ3"
+	},
+	{
+		"created_at": "Mon Sep 14 11:17:42 +0000 2020",
+		"id": 1305178832094150700,
+		"id_str": "1305465744411435009",
+		"full_text": "한국 펑크/메탈 밴드 씬에서는 알수 없는 수학공식이 존재하고 있음....\n\n1. 사람이 열 명 모이면 그중에 7명은 밴드를 함.\n2. A와 B와 C는 기타리스트임.\n3. A와 D는 베이시스트임. \n4. E는 보컬리스트임. \n5. F는 드럼을 침.\n6. G는 몬가 할 줄 아는데 밴드가 활동을 안함.\n\n이 7명이서 밴드 4개를함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 370719352,
+			"id_str": "370719352",
+			"name": "불안유도제",
+			"screen_name": "Distranquilizer",
+			"location": "",
+			"description": "약의 효능 : 불안, 초조, 우울감 촉진, 폭력성과 광기 발달에 도움.",
+			"url": "https://t.co/ODyYMZTBGN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ODyYMZTBGN",
+							"expanded_url": "http://warning.or.kr/",
+							"display_url": "warning.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228,
+			"friends_count": 203,
+			"listed_count": 0,
+			"created_at": "Fri Sep 09 14:25:26 +0000 2011",
+			"favourites_count": 1203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1298437559706464256/Peo-_Buu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298437559706464256/Peo-_Buu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/370719352/1598251816",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 179,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 펑크/메탈 밴드 씬에서는 알수 없는 수학공식이 존재하고 있음....\n\n1. 사람이 열 명 모이면 그중에 7명은 밴드를 함.\n2. A와 B와 C는 기타리스트임.\n3. A와 D는 베이시스트임. \n4. E는 보컬리스트임. \n5. F는 드럼을 침.\n6. G는 몬가 할 줄 아는데 밴드가 활동을 안함.\n\n이 7명이서 밴드 4개를함"
+	},
+	{
 		"created_at": "Mon Sep 14 09:56:29 +0000 2020",
 		"id": 1305445307346563000,
 		"id_str": "1305445307346563073",
