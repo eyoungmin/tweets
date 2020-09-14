@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 15:29:52 +0000 2020",
+		"id": 1305371800180682800,
+		"id_str": "1305529204562223107",
+		"full_text": "스테이지톡이 오는 10월 15일 서비스를 중단합니다. 2014년 오픈 때부터 지금까지 스테이지톡을 사랑해주신 회원 여러분, 공연을 사랑하시는 관객 여러분 그동안 감사했습니다.🙇🙇‍♀️🙇‍♂️\n\n포인트 사용 및 마이 다이어리 백업 등 자세한 내용은 공지 사항을 참고하시기 바랍니다. https://t.co/Z89B0kiMyT https://t.co/nxloKkjXBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z89B0kiMyT",
+					"expanded_url": "http://bit.ly/ST_NOTICE",
+					"display_url": "bit.ly/ST_NOTICE",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305371062708830200,
+					"id_str": "1305371062708830209",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2cELzVgAEncuq.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2cELzVgAEncuq.png",
+					"url": "https://t.co/nxloKkjXBX",
+					"display_url": "pic.twitter.com/nxloKkjXBX",
+					"expanded_url": "https://twitter.com/stagetalk421/status/1305371800180682752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305371062708830200,
+					"id_str": "1305371062708830209",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2cELzVgAEncuq.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2cELzVgAEncuq.png",
+					"url": "https://t.co/nxloKkjXBX",
+					"display_url": "pic.twitter.com/nxloKkjXBX",
+					"expanded_url": "https://twitter.com/stagetalk421/status/1305371800180682752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1132831485675761700,
+			"id_str": "1132831485675761665",
+			"name": "스테이지톡 편집부",
+			"screen_name": "stagetalk421",
+			"location": "대한민국 서울",
+			"description": "스테이지톡 편집부 (헤어진 트친들을 찾습니다)",
+			"url": "https://t.co/moYuvXZhfn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/moYuvXZhfn",
+							"expanded_url": "http://www.stagetalk.co.kr",
+							"display_url": "stagetalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3581,
+			"friends_count": 162,
+			"listed_count": 6,
+			"created_at": "Mon May 27 02:10:47 +0000 2019",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132833825757618176/X_2NlfdB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132833825757618176/X_2NlfdB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1132831485675761665/1558923774",
+			"profile_link_color": "005EAF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1409,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스테이지톡이 오는 10월 15일 서비스를 중단합니다. 2014년 오픈 때부터 지금까지 스테이지톡을 사랑해주신 회원 여러분, 공연을 사랑하시는 관객 여러분 그동안 감사했습니다.🙇🙇‍♀️🙇‍♂️\n\n포인트 사용 및 마이 다이어리 백업 등 자세한 내용은 공지 사항을 참고하시기 바랍니다. https://t.co/Z89B0kiMyT https://t.co/nxloKkjXBX"
+	},
+	{
 		"created_at": "Mon Sep 14 15:11:01 +0000 2020",
 		"id": 1305524460309672000,
 		"id_str": "1305524460309671937",
