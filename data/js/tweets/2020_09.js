@@ -1,6 +1,1971 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 01:59:33 +0000 2020",
+		"id": 1305687670983667700,
+		"id_str": "1305687670983667713",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘Ice Cream’, 美 빌보드 8위…최초 입성\nhttps://t.co/xmUktLj2q7\n#블랙핑크 #BLACKPINK https://t.co/rkfNF7R4ht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmUktLj2q7",
+					"expanded_url": "https://yg-life.com/archives/159617?lang=ko",
+					"display_url": "yg-life.com/archives/15961…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305687669733838800,
+					"id_str": "1305687669733838850",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh68BI4X0AIyezR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh68BI4X0AIyezR.jpg",
+					"url": "https://t.co/rkfNF7R4ht",
+					"display_url": "pic.twitter.com/rkfNF7R4ht",
+					"expanded_url": "https://twitter.com/fromminn/status/1305687670983667713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305687669733838800,
+					"id_str": "1305687669733838850",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh68BI4X0AIyezR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh68BI4X0AIyezR.jpg",
+					"url": "https://t.co/rkfNF7R4ht",
+					"display_url": "pic.twitter.com/rkfNF7R4ht",
+					"expanded_url": "https://twitter.com/fromminn/status/1305687670983667713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘Ice Cream’, 美 빌보드 8위…최초 입성\nhttps://t.co/xmUktLj2q7\n#블랙핑크 #BLACKPINK https://t.co/rkfNF7R4ht"
+	},
+	{
+		"created_at": "Tue Sep 15 01:59:32 +0000 2020",
+		"id": 1305687663169675300,
+		"id_str": "1305687663169675264",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n“컴백 D-3” YG 신인 트레저, 완전체 포스터 공개..글로벌 팬 ‘주목’\nhttps://t.co/tfktlpeXG4\n#블랙핑크 #BLACKPINK https://t.co/UhNdQqRovP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tfktlpeXG4",
+					"expanded_url": "https://yg-life.com/archives/159605?lang=ko",
+					"display_url": "yg-life.com/archives/15960…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305687661827551200,
+					"id_str": "1305687661827551233",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh68ArbXcAEBywe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh68ArbXcAEBywe.jpg",
+					"url": "https://t.co/UhNdQqRovP",
+					"display_url": "pic.twitter.com/UhNdQqRovP",
+					"expanded_url": "https://twitter.com/fromminn/status/1305687663169675264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305687661827551200,
+					"id_str": "1305687661827551233",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh68ArbXcAEBywe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh68ArbXcAEBywe.jpg",
+					"url": "https://t.co/UhNdQqRovP",
+					"display_url": "pic.twitter.com/UhNdQqRovP",
+					"expanded_url": "https://twitter.com/fromminn/status/1305687663169675264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n“컴백 D-3” YG 신인 트레저, 완전체 포스터 공개..글로벌 팬 ‘주목’\nhttps://t.co/tfktlpeXG4\n#블랙핑크 #BLACKPINK https://t.co/UhNdQqRovP"
+	},
+	{
+		"created_at": "Tue Sep 15 01:50:26 +0000 2020",
+		"id": 1305680880896147500,
+		"id_str": "1305685377017982976",
+		"full_text": "[Taeyeon for W Korea Magazine  October Issue]\n루이비통 X 태연 (Louis Vuitton X Tae Yeon)\n\nhttps://t.co/S5GvRnXYDI\n\n#Taeyeon #태연 #더블유코리아 #루이비통 😍 https://t.co/iyFhQE4k6C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Taeyeon",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "더블유코리아",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "루이비통",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S5GvRnXYDI",
+					"expanded_url": "http://www.wkorea.com/2020/09/15/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80-%ED%83%9C%EC%97%B0tae-yeon-%EB%8D%94%EB%B8%94%EC%9C%A0-10%EC%9B%94%ED%98%B8-%ED%99%94%EB%B3%B4-%EC%84%A0%EA%B3%B5%EA%B0%9C/",
+					"display_url": "wkorea.com/2020/09/15/%EC…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305680744996511700,
+					"id_str": "1305680744996511745",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh61uEOVoAEv_Rh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh61uEOVoAEv_Rh.jpg",
+					"url": "https://t.co/iyFhQE4k6C",
+					"display_url": "pic.twitter.com/iyFhQE4k6C",
+					"expanded_url": "https://twitter.com/309KTYSS/status/1305680880896147457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 975,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 975,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305680744996511700,
+					"id_str": "1305680744996511745",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh61uEOVoAEv_Rh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh61uEOVoAEv_Rh.jpg",
+					"url": "https://t.co/iyFhQE4k6C",
+					"display_url": "pic.twitter.com/iyFhQE4k6C",
+					"expanded_url": "https://twitter.com/309KTYSS/status/1305680880896147457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 975,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 975,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305680745000652800,
+					"id_str": "1305680745000652800",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh61uEPU0AAjIur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh61uEPU0AAjIur.jpg",
+					"url": "https://t.co/iyFhQE4k6C",
+					"display_url": "pic.twitter.com/iyFhQE4k6C",
+					"expanded_url": "https://twitter.com/309KTYSS/status/1305680880896147457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 975,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 975,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141371251,
+			"id_str": "141371251",
+			"name": "✪TAEYEON UPDATES | #GirlsSpkOut 11/18 ✨",
+			"screen_name": "309KTYSS",
+			"location": "Stay updated with Taeyeon →",
+			"description": "Fanaccount for TAEYEON / 태연 / テヨン / 太妍 ♡",
+			"url": "https://t.co/CNG3Wifs0P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CNG3Wifs0P",
+							"expanded_url": "https://309ktyss.carrd.co/",
+							"display_url": "309ktyss.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 161709,
+			"friends_count": 105,
+			"listed_count": 836,
+			"created_at": "Fri May 07 22:48:30 +0000 2010",
+			"favourites_count": 217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B8BABF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187942930838904832/jP9AbXOj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187942930838904832/jP9AbXOj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141371251/1571745160",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 525,
+		"favorite_count": 654,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[Taeyeon for W Korea Magazine  October Issue]\n루이비통 X 태연 (Louis Vuitton X Tae Yeon)\n\nhttps://t.co/S5GvRnXYDI\n\n#Taeyeon #태연 #더블유코리아 #루이비통 😍 https://t.co/iyFhQE4k6C"
+	},
+	{
+		"created_at": "Tue Sep 15 01:49:15 +0000 2020",
+		"id": 1305679459358441500,
+		"id_str": "1305685076127002624",
+		"full_text": "소녀시대 #태연 더블유 10월호 화보컷 선공개 \n#TAEYEON #LouisVuitton\n\nhttps://t.co/bMjfpLOVtO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "LouisVuitton",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bMjfpLOVtO",
+					"expanded_url": "http://www.wkorea.com/2020/09/15/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80-%ED%83%9C%EC%97%B0tae-yeon-%EB%8D%94%EB%B8%94%EC%9C%A0-10%EC%9B%94%ED%98%B8-%ED%99%94%EB%B3%B4-%EC%84%A0%EA%B3%B5%EA%B0%9C/?ddw=75476&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2020/09/15/%EC…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "Conceptual Trend Magazine 'W Korea' 공식 트위터 계정입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247978,
+			"friends_count": 0,
+			"listed_count": 766,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 3637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1597809545",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 353,
+		"favorite_count": 402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 #태연 더블유 10월호 화보컷 선공개 \n#TAEYEON #LouisVuitton\n\nhttps://t.co/bMjfpLOVtO"
+	},
+	{
+		"created_at": "Tue Sep 15 01:41:13 +0000 2020",
+		"id": 1305683056985022500,
+		"id_str": "1305683056985022464",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n백예린 - Bunny (cover by Yeri) [예리의 음악 선물 #1]\nhttps://t.co/mAmEn4zm7a\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mAmEn4zm7a",
+					"expanded_url": "https://youtu.be/SZ-npTCtTlM",
+					"display_url": "youtu.be/SZ-npTCtTlM",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n백예린 - Bunny (cover by Yeri) [예리의 음악 선물 #1]\nhttps://t.co/mAmEn4zm7a\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
+		"created_at": "Tue Sep 15 01:37:29 +0000 2020",
+		"id": 1305673006987919400,
+		"id_str": "1305682115791478784",
+		"full_text": "구글코리아가 머신러닝 산업 발전에 필요한 인력을 양성하고, 국내 12여 개 기업 채용까지 연계한 ‘머신러닝 부트캠프’를 진행합니다! 전문 교육 과정과 자격증 취득에 필요한 다양한 지원을 제공하는 머신러닝 부트캠프에 대해 구글코리아 블로그(https://t.co/N2rTsedteE)에서 확인해보세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N2rTsedteE",
+					"expanded_url": "http://bit.ly/3keXi7i",
+					"display_url": "bit.ly/3keXi7i",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62717084,
+			"id_str": "62717084",
+			"name": "Google Korea",
+			"screen_name": "googlekorea",
+			"location": "Seoul",
+			"description": "Google Korea's Official Twitter\nhttp://t.co/q7ki3pU93d",
+			"url": "http://t.co/gJlHUbYNCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gJlHUbYNCd",
+							"expanded_url": "http://www.google.co.kr",
+							"display_url": "google.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/q7ki3pU93d",
+							"expanded_url": "http://googlekoreablog.blogspot.com/",
+							"display_url": "googlekoreablog.blogspot.com",
+							"indices": [
+								32,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 82574,
+			"friends_count": 789,
+			"listed_count": 1950,
+			"created_at": "Tue Aug 04 04:23:08 +0000 2009",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770139154898382848/ndFg-IDH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770139154898382848/ndFg-IDH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62717084/1427179644",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글코리아가 머신러닝 산업 발전에 필요한 인력을 양성하고, 국내 12여 개 기업 채용까지 연계한 ‘머신러닝 부트캠프’를 진행합니다! 전문 교육 과정과 자격증 취득에 필요한 다양한 지원을 제공하는 머신러닝 부트캠프에 대해 구글코리아 블로그(https://t.co/N2rTsedteE)에서 확인해보세요."
+	},
+	{
+		"created_at": "Tue Sep 15 01:34:23 +0000 2020",
+		"id": 1305675303516172300,
+		"id_str": "1305681337844629512",
+		"full_text": "🗞 청하, ‘청춘기록’ OST 참여…‘You’re In My Soul’ 15일 발매 (출처 : 스포츠동아 | 네이버 TV연예)\n\n🔎 https://t.co/pl59nIbcUG\n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pl59nIbcUG",
+					"expanded_url": "http://naver.me/FDmayGEQ",
+					"display_url": "naver.me/FDmayGEQ",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287083,
+			"friends_count": 0,
+			"listed_count": 1750,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 803,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗞 청하, ‘청춘기록’ OST 참여…‘You’re In My Soul’ 15일 발매 (출처 : 스포츠동아 | 네이버 TV연예)\n\n🔎 https://t.co/pl59nIbcUG\n\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Tue Sep 15 01:25:24 +0000 2020",
+		"id": 1305678481930424300,
+		"id_str": "1305679073130082304",
+		"full_text": "아마존의 수익 분석, AWS와 광고 https://t.co/qGQvFGFpg4 \n- 아마존이 수익을 내지 못한다고 알려져 있지만 그렇지 않음\n- 매출은 매년 20%씩 성장중\n- 수익은 2015년 이후 급성장\n- AWS가 다 수익을 내는것 같지만 AWS의 수익을 공개하기 시작한 2015~16에만 그랬음\nㅤ→ 물론 AWS의 마진율이...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qGQvFGFpg4",
+					"expanded_url": "https://j.mp/3mjT9Rn",
+					"display_url": "j.mp/3mjT9Rn",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3967,
+			"friends_count": 0,
+			"listed_count": 59,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마존의 수익 분석, AWS와 광고 https://t.co/qGQvFGFpg4 \n- 아마존이 수익을 내지 못한다고 알려져 있지만 그렇지 않음\n- 매출은 매년 20%씩 성장중\n- 수익은 2015년 이후 급성장\n- AWS가 다 수익을 내는것 같지만 AWS의 수익을 공개하기 시작한 2015~16에만 그랬음\nㅤ→ 물론 AWS의 마진율이..."
+	},
+	{
+		"created_at": "Tue Sep 15 01:22:04 +0000 2020",
+		"id": 1305678236903506000,
+		"id_str": "1305678236903505920",
+		"full_text": "중학교 동성 성폭력 부실 대응 규탄 청원 | 박백범 교육부 차관\nhttps://t.co/cURacwiLZ0\n#청와대국민청원 #청와대 #국민청원 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청와대국민청원",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "청와대",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "국민청원",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cURacwiLZ0",
+					"expanded_url": "https://youtu.be/iULTr6HIRYc",
+					"display_url": "youtu.be/iULTr6HIRYc",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중학교 동성 성폭력 부실 대응 규탄 청원 | 박백범 교육부 차관\nhttps://t.co/cURacwiLZ0\n#청와대국민청원 #청와대 #국민청원 #minfav"
+	},
+	{
+		"created_at": "Tue Sep 15 01:21:22 +0000 2020",
+		"id": 1305637466599112700,
+		"id_str": "1305678060184768513",
+		"full_text": "과학은 정답을 찾는 과정보다 좋은 질문을 찾는 과정에 더 가깝다. 그리고 좋은 질문을 하는 방법은 많은 질문을 하는것이다. 정말 온라인 공연이 대안이라면 지금보다 많은 온라인 공연이 이뤄져야 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1305637403697193000,
+		"in_reply_to_status_id_str": "1305637403697192961",
+		"in_reply_to_user_id": 193750706,
+		"in_reply_to_user_id_str": "193750706",
+		"in_reply_to_screen_name": "Small_o",
+		"user": {
+			"id": 193750706,
+			"id_str": "193750706",
+			"name": "오주환",
+			"screen_name": "Small_o",
+			"location": "대한민국 서울",
+			"description": "ADOY",
+			"url": "https://t.co/745lvs3xSa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/745lvs3xSa",
+							"expanded_url": "https://youtu.be/p4wOzD5JkG8",
+							"display_url": "youtu.be/p4wOzD5JkG8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 301,
+			"listed_count": 27,
+			"created_at": "Wed Sep 22 16:09:22 +0000 2010",
+			"favourites_count": 431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193750706/1573497650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "과학은 정답을 찾는 과정보다 좋은 질문을 찾는 과정에 더 가깝다. 그리고 좋은 질문을 하는 방법은 많은 질문을 하는것이다. 정말 온라인 공연이 대안이라면 지금보다 많은 온라인 공연이 이뤄져야 한다."
+	},
+	{
+		"created_at": "Tue Sep 15 01:21:20 +0000 2020",
+		"id": 1305637403697193000,
+		"id_str": "1305678053050208256",
+		"full_text": "플랫폼이 공연장과 계약을 맺던 그 반대든 공연장 채널을 개설해 360도 오픈을 하면 어떨까? 이렇게 된다면 그나마 숨통은 트이지 않을까 예상되는데 그래야 무대연출, 음향, 조명, 기획, 대관등 공연 업계 종사자들이 버틸수가 있다. 지금은 너무 고여서 시멘트처럼 굳어지는 느낌이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1305637322382213000,
+		"in_reply_to_status_id_str": "1305637322382213120",
+		"in_reply_to_user_id": 193750706,
+		"in_reply_to_user_id_str": "193750706",
+		"in_reply_to_screen_name": "Small_o",
+		"user": {
+			"id": 193750706,
+			"id_str": "193750706",
+			"name": "오주환",
+			"screen_name": "Small_o",
+			"location": "대한민국 서울",
+			"description": "ADOY",
+			"url": "https://t.co/745lvs3xSa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/745lvs3xSa",
+							"expanded_url": "https://youtu.be/p4wOzD5JkG8",
+							"display_url": "youtu.be/p4wOzD5JkG8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 301,
+			"listed_count": 27,
+			"created_at": "Wed Sep 22 16:09:22 +0000 2010",
+			"favourites_count": 431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193750706/1573497650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "플랫폼이 공연장과 계약을 맺던 그 반대든 공연장 채널을 개설해 360도 오픈을 하면 어떨까? 이렇게 된다면 그나마 숨통은 트이지 않을까 예상되는데 그래야 무대연출, 음향, 조명, 기획, 대관등 공연 업계 종사자들이 버틸수가 있다. 지금은 너무 고여서 시멘트처럼 굳어지는 느낌이다."
+	},
+	{
+		"created_at": "Tue Sep 15 01:21:19 +0000 2020",
+		"id": 1305637322382213000,
+		"id_str": "1305678046247022592",
+		"full_text": "특히 중계와 연계된 플랫폼 수수료에 대해서 말하고 싶은데 대관, 음향, 조명, 연출은 공연 퀄리티를 위한 뮤지션의 선택이지만 플랫폼은 마땅한 대안이 없기 때문이다. 그래서 많은 인디 뮤지션들이 불나방처럼 유튜브로 몰리고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1305637196355960800,
+		"in_reply_to_status_id_str": "1305637196355960832",
+		"in_reply_to_user_id": 193750706,
+		"in_reply_to_user_id_str": "193750706",
+		"in_reply_to_screen_name": "Small_o",
+		"user": {
+			"id": 193750706,
+			"id_str": "193750706",
+			"name": "오주환",
+			"screen_name": "Small_o",
+			"location": "대한민국 서울",
+			"description": "ADOY",
+			"url": "https://t.co/745lvs3xSa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/745lvs3xSa",
+							"expanded_url": "https://youtu.be/p4wOzD5JkG8",
+							"display_url": "youtu.be/p4wOzD5JkG8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 301,
+			"listed_count": 27,
+			"created_at": "Wed Sep 22 16:09:22 +0000 2010",
+			"favourites_count": 431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193750706/1573497650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "특히 중계와 연계된 플랫폼 수수료에 대해서 말하고 싶은데 대관, 음향, 조명, 연출은 공연 퀄리티를 위한 뮤지션의 선택이지만 플랫폼은 마땅한 대안이 없기 때문이다. 그래서 많은 인디 뮤지션들이 불나방처럼 유튜브로 몰리고 있다."
+	},
+	{
+		"created_at": "Tue Sep 15 01:21:17 +0000 2020",
+		"id": 1305637196355960800,
+		"id_str": "1305678039188004864",
+		"full_text": "그렇다면 수익은 어디서 나는가? (왜 수익이냐는 바보는 없겠지) 여러가지 옵션이 있겠지만 공연에 들어가는 지출을 줄여야만 수익이 발생할 가능성이 높아진다. 대관료, 중계, 플랫폼 수수료 이 3개가 가장 큰 비중을 차지하는데 이게 해결이 안되면 대다수 공연은 BEP를 맞추기 어렵다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1305637088574857200,
+		"in_reply_to_status_id_str": "1305637088574857216",
+		"in_reply_to_user_id": 193750706,
+		"in_reply_to_user_id_str": "193750706",
+		"in_reply_to_screen_name": "Small_o",
+		"user": {
+			"id": 193750706,
+			"id_str": "193750706",
+			"name": "오주환",
+			"screen_name": "Small_o",
+			"location": "대한민국 서울",
+			"description": "ADOY",
+			"url": "https://t.co/745lvs3xSa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/745lvs3xSa",
+							"expanded_url": "https://youtu.be/p4wOzD5JkG8",
+							"display_url": "youtu.be/p4wOzD5JkG8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 301,
+			"listed_count": 27,
+			"created_at": "Wed Sep 22 16:09:22 +0000 2010",
+			"favourites_count": 431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193750706/1573497650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그렇다면 수익은 어디서 나는가? (왜 수익이냐는 바보는 없겠지) 여러가지 옵션이 있겠지만 공연에 들어가는 지출을 줄여야만 수익이 발생할 가능성이 높아진다. 대관료, 중계, 플랫폼 수수료 이 3개가 가장 큰 비중을 차지하는데 이게 해결이 안되면 대다수 공연은 BEP를 맞추기 어렵다."
+	},
+	{
+		"created_at": "Tue Sep 15 01:21:12 +0000 2020",
+		"id": 1305637088574857200,
+		"id_str": "1305678017432186882",
+		"full_text": "결론부터 말하자면 온라인 공연은 지원금 혹은 개런티를 받아 공연하거나 그게 아니라면 아예 하지 않는게 이익이다. 이게 현실에 기반한 펙트다. 그렇지만 너무 못하다보니 뭐라도 해야하지 않을까 하는게 최근 업계의 움직임이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193750706,
+			"id_str": "193750706",
+			"name": "오주환",
+			"screen_name": "Small_o",
+			"location": "대한민국 서울",
+			"description": "ADOY",
+			"url": "https://t.co/745lvs3xSa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/745lvs3xSa",
+							"expanded_url": "https://youtu.be/p4wOzD5JkG8",
+							"display_url": "youtu.be/p4wOzD5JkG8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 301,
+			"listed_count": 27,
+			"created_at": "Wed Sep 22 16:09:22 +0000 2010",
+			"favourites_count": 431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184020973311295489/7C3Keh70_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193750706/1573497650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "결론부터 말하자면 온라인 공연은 지원금 혹은 개런티를 받아 공연하거나 그게 아니라면 아예 하지 않는게 이익이다. 이게 현실에 기반한 펙트다. 그렇지만 너무 못하다보니 뭐라도 해야하지 않을까 하는게 최근 업계의 움직임이다."
+	},
+	{
+		"created_at": "Tue Sep 15 01:06:10 +0000 2020",
+		"id": 1305656257257250800,
+		"id_str": "1305674235738648576",
+		"full_text": "또 불거진 ‘페이스북 편향성’, 전 연구원 “가짜 뉴스 방조했다” https://t.co/8BjuSpnHJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8BjuSpnHJs",
+					"expanded_url": "http://www.bloter.net/archives/405744",
+					"display_url": "bloter.net/archives/405744",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54792,
+			"friends_count": 9,
+			"listed_count": 2364,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 불거진 ‘페이스북 편향성’, 전 연구원 “가짜 뉴스 방조했다” https://t.co/8BjuSpnHJs"
+	},
+	{
 		"created_at": "Mon Sep 14 23:34:23 +0000 2020",
 		"id": 1305642274961805300,
 		"id_str": "1305651138268745734",
