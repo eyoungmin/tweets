@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 15:54:23 +0000 2020",
+		"id": 1305634127274676200,
+		"id_str": "1305897760655175680",
+		"full_text": "“한국 미술계, RM이 본 전시와 안 본 전시로 나뉜다” https://t.co/2QsmplItFI 미술애호가인 BTS RM 김남준이 화단의 막강 인플루언서가 됐다고. \"RM의 소셜미디어는 미술계에서도 주목해야 할 공간이 됐다. 팬덤이 워낙 거대해 “RM이 다녀갔다”는 입소문 하나가 알짜 광고 효과를 내기 때문이다.\" https://t.co/RHqBqERqGn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2QsmplItFI",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003561843",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305634118663725000,
+					"id_str": "1305634118663725056",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh6LUDmU4AAm5a2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh6LUDmU4AAm5a2.jpg",
+					"url": "https://t.co/RHqBqERqGn",
+					"display_url": "pic.twitter.com/RHqBqERqGn",
+					"expanded_url": "https://twitter.com/estima7/status/1305634127274676226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 647,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305634118663725000,
+					"id_str": "1305634118663725056",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh6LUDmU4AAm5a2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh6LUDmU4AAm5a2.jpg",
+					"url": "https://t.co/RHqBqERqGn",
+					"display_url": "pic.twitter.com/RHqBqERqGn",
+					"expanded_url": "https://twitter.com/estima7/status/1305634127274676226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 647,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367747,
+			"friends_count": 2267,
+			"listed_count": 4469,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 366,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“한국 미술계, RM이 본 전시와 안 본 전시로 나뉜다” https://t.co/2QsmplItFI 미술애호가인 BTS RM 김남준이 화단의 막강 인플루언서가 됐다고. \"RM의 소셜미디어는 미술계에서도 주목해야 할 공간이 됐다. 팬덤이 워낙 거대해 “RM이 다녀갔다”는 입소문 하나가 알짜 광고 효과를 내기 때문이다.\" https://t.co/RHqBqERqGn"
+	},
+	{
+		"created_at": "Tue Sep 15 15:26:54 +0000 2020",
+		"id": 1305789875505905700,
+		"id_str": "1305890845690753024",
+		"full_text": "\"이거 도박인데, 이럴 거면 지원서를 시간 내서 왜 쓰나요...이거 안되면 로또사고 강원랜드 가야겠네요\"\n https://t.co/usMfGLdcRA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/usMfGLdcRA",
+					"expanded_url": "https://mnews.joins.com/article/23872610",
+					"display_url": "mnews.joins.com/article/238726…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.joongang.co.kr\" rel=\"nofollow\">joongangilbo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213591116,
+			"id_str": "213591116",
+			"name": "중앙일보",
+			"screen_name": "joongangilbo",
+			"location": "Seoul",
+			"description": "JoongAng Group is Korea's only comprehensive content group. \n\nFacebook: https://t.co/hp9Jp32t74\nInstagram: https://t.co/od1lnLAYps",
+			"url": "http://t.co/tglh3q22E5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tglh3q22E5",
+							"expanded_url": "http://www.joongang.co.kr",
+							"display_url": "joongang.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hp9Jp32t74",
+							"expanded_url": "http://facebook.com/joongang",
+							"display_url": "facebook.com/joongang",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/od1lnLAYps",
+							"expanded_url": "http://instagram.com/joongangilbo",
+							"display_url": "instagram.com/joongangilbo",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 293597,
+			"friends_count": 42508,
+			"listed_count": 1569,
+			"created_at": "Tue Nov 09 09:18:31 +0000 2010",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 139799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FA9A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224631020395229189/ERSPAEti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224631020395229189/ERSPAEti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213591116/1553672899",
+			"profile_link_color": "88847F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"이거 도박인데, 이럴 거면 지원서를 시간 내서 왜 쓰나요...이거 안되면 로또사고 강원랜드 가야겠네요\"\n https://t.co/usMfGLdcRA"
+	},
+	{
 		"created_at": "Tue Sep 15 15:03:35 +0000 2020",
 		"id": 1305884979084353500,
 		"id_str": "1305884979084353536",
