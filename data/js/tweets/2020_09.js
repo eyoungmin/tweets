@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 09:34:29 +0000 2020",
+		"id": 1305795050077450200,
+		"id_str": "1305802154838568961",
+		"full_text": "🛎 청하가 참여한 tvN 월화드라마 '청춘기록' #OST 'You’re In My Soul'이 각 음원사이트에 공개되었습니다.\n\n🍈 https://t.co/HR4orFV9Iv\n▶️ https://t.co/Qj09hwD1XE\n\n많은 관심 부탁드립니다💚💙💜\n\n#청하 #CHUNGHA\n#tvN #청춘기록\n#YoureInMySoul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OST",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "청춘기록",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "YoureInMySoul",
+					"indices": [
+						167,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HR4orFV9Iv",
+					"expanded_url": "https://bit.ly/3mkNzy9",
+					"display_url": "bit.ly/3mkNzy9",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/Qj09hwD1XE",
+					"expanded_url": "https://bit.ly/3iJttv6",
+					"display_url": "bit.ly/3iJttv6",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287077,
+			"friends_count": 0,
+			"listed_count": 1749,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 344,
+		"favorite_count": 879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🛎 청하가 참여한 tvN 월화드라마 '청춘기록' #OST 'You’re In My Soul'이 각 음원사이트에 공개되었습니다.\n\n🍈 https://t.co/HR4orFV9Iv\n▶️ https://t.co/Qj09hwD1XE\n\n많은 관심 부탁드립니다💚💙💜\n\n#청하 #CHUNGHA\n#tvN #청춘기록\n#YoureInMySoul"
+	},
+	{
+		"created_at": "Tue Sep 15 09:34:23 +0000 2020",
+		"id": 1305794563076841500,
+		"id_str": "1305802133367816192",
+		"full_text": "TAEYEON 태연 ['내일은 고백할게']\n\n🎧Melon: https://t.co/W4eiLZM8PS\n🎧FLO: https://t.co/B2wiJmsFcL \n🎧genie: https://t.co/MIEVEkKVwd\n🎧NAVER MUSIC: https://t.co/JiFvC8bpil \n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #내일은고백할게",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"text": "내일은고백할게",
+					"indices": [
+						196,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W4eiLZM8PS",
+					"expanded_url": "http://kko.to/BNo49gZDB",
+					"display_url": "kko.to/BNo49gZDB",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/B2wiJmsFcL",
+					"expanded_url": "http://flomuz.io/s/a.BzUxY",
+					"display_url": "flomuz.io/s/a.BzUxY",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/MIEVEkKVwd",
+					"expanded_url": "http://www.genie.co.kr/2BVMY4",
+					"display_url": "genie.co.kr/2BVMY4",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/JiFvC8bpil",
+					"expanded_url": "http://naver.me/5lo4Nv38",
+					"display_url": "naver.me/5lo4Nv38",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3559461,
+			"friends_count": 4,
+			"listed_count": 5046,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2933,
+		"favorite_count": 3505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON 태연 ['내일은 고백할게']\n\n🎧Melon: https://t.co/W4eiLZM8PS\n🎧FLO: https://t.co/B2wiJmsFcL \n🎧genie: https://t.co/MIEVEkKVwd\n🎧NAVER MUSIC: https://t.co/JiFvC8bpil \n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #내일은고백할게"
+	},
+	{
+		"created_at": "Tue Sep 15 09:17:31 +0000 2020",
+		"id": 1305797885066387500,
+		"id_str": "1305797885066387456",
+		"full_text": "#팩트체크 #SNU팩트체크\n흙바닥 된 반포한강공원 잔디밭, 인구 밀집 막은 서울시 조치다\n▶ 전혀 사실 아님\nhttps://t.co/mdM0LZTb38\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mdM0LZTb38",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2513",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 946,
+			"listed_count": 10,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n흙바닥 된 반포한강공원 잔디밭, 인구 밀집 막은 서울시 조치다\n▶ 전혀 사실 아님\nhttps://t.co/mdM0LZTb38\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Tue Sep 15 08:47:08 +0000 2020",
 		"id": 1305790242880921600,
 		"id_str": "1305790242880921600",
