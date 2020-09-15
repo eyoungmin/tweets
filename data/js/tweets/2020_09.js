@@ -1,6 +1,1072 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 10:55:07 +0000 2020",
+		"id": 1305822447799853000,
+		"id_str": "1305822447799853056",
+		"full_text": "주식 처음이라면 이 영상부터 보세요ㅣ입문자를 위한 기초 지식\nhttps://t.co/933dKO6zRH\n#듣똑라 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣똑라",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/933dKO6zRH",
+					"expanded_url": "https://youtu.be/lDWGPapR-_U",
+					"display_url": "youtu.be/lDWGPapR-_U",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주식 처음이라면 이 영상부터 보세요ㅣ입문자를 위한 기초 지식\nhttps://t.co/933dKO6zRH\n#듣똑라 #minfav"
+	},
+	{
+		"created_at": "Tue Sep 15 10:34:45 +0000 2020",
+		"id": 1304343936975028200,
+		"id_str": "1305817322343542784",
+		"full_text": "[청춘기록]\n청춘기록 두번째 OST 주인공 청하님께서\n오스트 발매전, 여러분들께 할 말이 있으시대요!!!💕💕\n영상 120번봐도 설레네...🙈썬글라스 끼고 보세요 눈 멀 수도 있으니까....😎✨\n\n#청하 #CHUNGHA #청춘기록 #청춘기록OST @CHUNGHA_MNHent https://t.co/QCkRlMwbFH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "청춘기록",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "청춘기록OST",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						137,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304337659922231300,
+					"id_str": "1304337659922231301",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304337659922231301/pu/img/6mCmoCeO6pBYHGbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304337659922231301/pu/img/6mCmoCeO6pBYHGbV.jpg",
+					"url": "https://t.co/QCkRlMwbFH",
+					"display_url": "pic.twitter.com/QCkRlMwbFH",
+					"expanded_url": "https://twitter.com/music_n_NEW/status/1304343936975028224/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304337659922231300,
+					"id_str": "1304337659922231301",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304337659922231301/pu/img/6mCmoCeO6pBYHGbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304337659922231301/pu/img/6mCmoCeO6pBYHGbV.jpg",
+					"url": "https://t.co/QCkRlMwbFH",
+					"display_url": "pic.twitter.com/QCkRlMwbFH",
+					"expanded_url": "https://twitter.com/music_n_NEW/status/1304343936975028224/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31098,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304337659922231301/pu/vid/1280x720/z1s7vqYtXE29uu4O.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304337659922231301/pu/vid/480x270/8XrNgxzGwypbUj_R.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1304337659922231301/pu/pl/eIIHDMLQIuHfIqWp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304337659922231301/pu/vid/640x360/pJkTkd9XFRX2r71E.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 357296296,
+			"id_str": "357296296",
+			"name": "MUSIC&NEW 뮤직앤뉴",
+			"screen_name": "music_n_NEW",
+			"location": "Seoul",
+			"description": "Official Twitter of MUSIC&NEW",
+			"url": "https://t.co/4PMMr4MEIa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4PMMr4MEIa",
+							"expanded_url": "https://www.youtube.com/user/musicnnewkorea",
+							"display_url": "youtube.com/user/musicnnew…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6293,
+			"friends_count": 43,
+			"listed_count": 58,
+			"created_at": "Thu Aug 18 04:22:07 +0000 2011",
+			"favourites_count": 337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156494500316905472/0zEWRnu2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156494500316905472/0zEWRnu2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/357296296/1599471685",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 883,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[청춘기록]\n청춘기록 두번째 OST 주인공 청하님께서\n오스트 발매전, 여러분들께 할 말이 있으시대요!!!💕💕\n영상 120번봐도 설레네...🙈썬글라스 끼고 보세요 눈 멀 수도 있으니까....😎✨\n\n#청하 #CHUNGHA #청춘기록 #청춘기록OST @CHUNGHA_MNHent https://t.co/QCkRlMwbFH"
+	},
+	{
+		"created_at": "Tue Sep 15 10:34:40 +0000 2020",
+		"id": 1305803510336729000,
+		"id_str": "1305817300692619265",
+		"full_text": "청춘기록 두 번째 OST '청하' 님의 'You're In My Soul'이 드디어 발매 되었습니다!😆🎶\n3화의 시작과 끝을 함께하며 많은 분들이 기다렸던 그 곡❣️‼️\n오늘 퇴근길에 함께 하는건 어떠세요?🎵🔂\n\n#청춘기록OST #청춘기록 #청하 https://t.co/lu6D7PcMes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청춘기록OST",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "청춘기록",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						134,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lu6D7PcMes",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1305795050077450241",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 357296296,
+			"id_str": "357296296",
+			"name": "MUSIC&NEW 뮤직앤뉴",
+			"screen_name": "music_n_NEW",
+			"location": "Seoul",
+			"description": "Official Twitter of MUSIC&NEW",
+			"url": "https://t.co/4PMMr4MEIa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4PMMr4MEIa",
+							"expanded_url": "https://www.youtube.com/user/musicnnewkorea",
+							"display_url": "youtube.com/user/musicnnew…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6293,
+			"friends_count": 43,
+			"listed_count": 58,
+			"created_at": "Thu Aug 18 04:22:07 +0000 2011",
+			"favourites_count": 337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156494500316905472/0zEWRnu2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156494500316905472/0zEWRnu2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/357296296/1599471685",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305795050077450200,
+		"quoted_status_id_str": "1305795050077450241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lu6D7PcMes",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1305795050077450241",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 15 09:06:15 +0000 2020",
+			"id": 1305795050077450200,
+			"id_str": "1305795050077450241",
+			"full_text": "🛎 청하가 참여한 tvN 월화드라마 '청춘기록' #OST 'You’re In My Soul'이 각 음원사이트에 공개되었습니다.\n\n🍈 https://t.co/HR4orFV9Iv\n▶️ https://t.co/Qj09hwD1XE\n\n많은 관심 부탁드립니다💚💙💜\n\n#청하 #CHUNGHA\n#tvN #청춘기록\n#YoureInMySoul",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OST",
+						"indices": [
+							27,
+							31
+						]
+					},
+					{
+						"text": "청하",
+						"indices": [
+							143,
+							146
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							147,
+							155
+						]
+					},
+					{
+						"text": "tvN",
+						"indices": [
+							156,
+							160
+						]
+					},
+					{
+						"text": "청춘기록",
+						"indices": [
+							161,
+							166
+						]
+					},
+					{
+						"text": "YoureInMySoul",
+						"indices": [
+							167,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HR4orFV9Iv",
+						"expanded_url": "https://bit.ly/3mkNzy9",
+						"display_url": "bit.ly/3mkNzy9",
+						"indices": [
+							74,
+							97
+						]
+					},
+					{
+						"url": "https://t.co/Qj09hwD1XE",
+						"expanded_url": "https://bit.ly/3iJttv6",
+						"display_url": "bit.ly/3iJttv6",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜",
+				"url": "https://t.co/reTg51lvxv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg51lvxv",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 287077,
+				"friends_count": 0,
+				"listed_count": 1750,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1212,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 445,
+			"favorite_count": 1203,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 63,
+		"favorite_count": 309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청춘기록 두 번째 OST '청하' 님의 'You're In My Soul'이 드디어 발매 되었습니다!😆🎶\n3화의 시작과 끝을 함께하며 많은 분들이 기다렸던 그 곡❣️‼️\n오늘 퇴근길에 함께 하는건 어떠세요?🎵🔂\n\n#청춘기록OST #청춘기록 #청하 https://t.co/lu6D7PcMes"
+	},
+	{
+		"created_at": "Tue Sep 15 10:34:30 +0000 2020",
+		"id": 1305801029787689000,
+		"id_str": "1305817262436356096",
+		"full_text": "&lt;청춘기록&gt; OST Part2\n'청하 - You're In My Soul' 뮤직비디오 공개!\n혜준X정하와 함께 넓은 들판을 달리는 느낌의 시원한 곡💙\n⠀\n매주 [월화] 밤 9시 tvN 방송 🌿✨\n#tvN #월화드라마 #청춘기록\n#박보검 #박소담 #변우석 https://t.co/NqHpmSww1R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvN",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "월화드라마",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "청춘기록",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "박보검",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "박소담",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "변우석",
+					"indices": [
+						143,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305678669168353300,
+					"id_str": "1305678669168353280",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh7mklyU0AEpTLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh7mklyU0AEpTLj.jpg",
+					"url": "https://t.co/NqHpmSww1R",
+					"display_url": "pic.twitter.com/NqHpmSww1R",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1305801029787688960/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305678669168353300,
+					"id_str": "1305678669168353280",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh7mklyU0AEpTLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh7mklyU0AEpTLj.jpg",
+					"url": "https://t.co/NqHpmSww1R",
+					"display_url": "pic.twitter.com/NqHpmSww1R",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1305801029787688960/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 207582,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1305678669168353280/vid/640x360/ZZCTuYDXLMqwd4gO.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1305678669168353280/vid/480x270/2Qw3hDk8cbn67Zf5.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1305678669168353280/vid/1280x720/WHfhWDII4qosdZe6.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1305678669168353280/pl/EBTLEIJj7agGF0eH.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔 #청춘기록 #악의꽃 #비밀의숲2 #구미호뎐 #스타트업",
+			"url": "https://t.co/Em6okU1Ysx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Em6okU1Ysx",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397000,
+			"friends_count": 40,
+			"listed_count": 577,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1599449849",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 659,
+		"favorite_count": 1265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;청춘기록&gt; OST Part2\n'청하 - You're In My Soul' 뮤직비디오 공개!\n혜준X정하와 함께 넓은 들판을 달리는 느낌의 시원한 곡💙\n⠀\n매주 [월화] 밤 9시 tvN 방송 🌿✨\n#tvN #월화드라마 #청춘기록\n#박보검 #박소담 #변우석 https://t.co/NqHpmSww1R"
+	},
+	{
+		"created_at": "Tue Sep 15 10:34:23 +0000 2020",
+		"id": 1305803183822831600,
+		"id_str": "1305817232589684736",
+		"full_text": "예리의 힐링 선물🎁 안전기원 집콕 응원 챌린지 예리한 음방🎤 [EP.15-1]\n\n👉🏻https://t.co/dYswiyK9rp\n\n#예리 #YERI #레드벨벳 #RedVelvet #백예린 #Bunny #MaeMuller #Anticlimax #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "Bunny",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "MaeMuller",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "Anticlimax",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dYswiyK9rp",
+					"expanded_url": "https://youtu.be/c77pA0c9Xmc",
+					"display_url": "youtu.be/c77pA0c9Xmc",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3179453,
+			"friends_count": 1,
+			"listed_count": 6698,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2568,
+		"favorite_count": 7744,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예리의 힐링 선물🎁 안전기원 집콕 응원 챌린지 예리한 음방🎤 [EP.15-1]\n\n👉🏻https://t.co/dYswiyK9rp\n\n#예리 #YERI #레드벨벳 #RedVelvet #백예린 #Bunny #MaeMuller #Anticlimax #예리한방"
+	},
+	{
 		"created_at": "Tue Sep 15 09:34:29 +0000 2020",
 		"id": 1305795050077450200,
 		"id_str": "1305802154838568961",
