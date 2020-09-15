@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 11:34:23 +0000 2020",
+		"id": 1305823682854416400,
+		"id_str": "1305832332234981376",
+		"full_text": "[ CHUNG HA Vlog ]\n'C'HUNG HA RANGㅣEP 4. 청하의 선택! 밸런스 게임\n\n▶ https://t.co/ONS1VcvjDp\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG https://t.co/S17s5zO4Rk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ONS1VcvjDp",
+					"expanded_url": "https://bit.ly/32y3OQK",
+					"display_url": "bit.ly/32y3OQK",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305787351461847000,
+					"id_str": "1305787351461847040",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh8WrYQU4AAIhwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh8WrYQU4AAIhwx.jpg",
+					"url": "https://t.co/S17s5zO4Rk",
+					"display_url": "pic.twitter.com/S17s5zO4Rk",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1305823682854416384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305787351461847000,
+					"id_str": "1305787351461847040",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh8WrYQU4AAIhwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh8WrYQU4AAIhwx.jpg",
+					"url": "https://t.co/S17s5zO4Rk",
+					"display_url": "pic.twitter.com/S17s5zO4Rk",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1305823682854416384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287066,
+			"friends_count": 0,
+			"listed_count": 1749,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 301,
+		"favorite_count": 1062,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ CHUNG HA Vlog ]\n'C'HUNG HA RANGㅣEP 4. 청하의 선택! 밸런스 게임\n\n▶ https://t.co/ONS1VcvjDp\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG https://t.co/S17s5zO4Rk"
+	},
+	{
 		"created_at": "Tue Sep 15 10:55:07 +0000 2020",
 		"id": 1305822447799853000,
 		"id_str": "1305822447799853056",
