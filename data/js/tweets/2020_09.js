@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 17:15:22 +0000 2020",
+		"id": 1306280530804048000,
+		"id_str": "1306280530804047873",
+		"full_text": "13:39 소속사 관계자 미친 듯.\nhttps://t.co/hTUJI12uQc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hTUJI12uQc",
+					"expanded_url": "https://www.vlive.tv/video/211790",
+					"display_url": "vlive.tv/video/211790",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "13:39 소속사 관계자 미친 듯.\nhttps://t.co/hTUJI12uQc"
+	},
+	{
+		"created_at": "Wed Sep 16 17:10:12 +0000 2020",
+		"id": 1306212624137216000,
+		"id_str": "1306279229508648960",
+		"full_text": "\"부모님 보시면 억장 무너질듯\" 파나틱스, 브이앱 도중 관계자 막말 논란   #파나틱스 https://t.co/kW0HZVxoiA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "파나틱스",
+					"indices": [
+						43,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kW0HZVxoiA",
+					"expanded_url": "http://dlvr.it/Rgk6YG",
+					"display_url": "dlvr.it/Rgk6YG",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 188232332,
+			"id_str": "188232332",
+			"name": "톱스타뉴스 (TOPSTARNEWS)",
+			"screen_name": "topstarnews",
+			"location": "대한민국 강남구",
+			"description": "대한민국 연예 이슈의 모든 것!\n\n대한민국 최대 스타 HD포토 DB!\n\n톱스타뉴스 HD포토뉴스 계정 @TSN_PHOTO",
+			"url": "https://t.co/I6oHRPFjtQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I6oHRPFjtQ",
+							"expanded_url": "http://www.topstarnews.net",
+							"display_url": "topstarnews.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96678,
+			"friends_count": 1481,
+			"listed_count": 595,
+			"created_at": "Wed Sep 08 06:48:19 +0000 2010",
+			"favourites_count": 3354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 475686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A3344",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040527325522124800/_JvgQbNh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040527325522124800/_JvgQbNh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/188232332/1495551175",
+			"profile_link_color": "EF4050",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"부모님 보시면 억장 무너질듯\" 파나틱스, 브이앱 도중 관계자 막말 논란   #파나틱스 https://t.co/kW0HZVxoiA"
+	},
+	{
 		"created_at": "Wed Sep 16 16:59:10 +0000 2020",
 		"id": 1306276450975137800,
 		"id_str": "1306276450975137792",
