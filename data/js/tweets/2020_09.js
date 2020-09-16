@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 03:01:12 +0000 2020",
+		"id": 1306065570195013600,
+		"id_str": "1306065570195013633",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Sep 16) https://t.co/Mip3c9wIfP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mip3c9wIfP",
+					"expanded_url": "https://nzzl.us/QXeucyX",
+					"display_url": "nzzl.us/QXeucyX",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Sep 16) https://t.co/Mip3c9wIfP"
+	},
+	{
+		"created_at": "Wed Sep 16 02:34:24 +0000 2020",
+		"id": 1306051798285729800,
+		"id_str": "1306058829042462720",
+		"full_text": "[#예술경영 웹진 : 기획특집②] \n\n언택트 시대, 공연예술인이 알아야 할 저작권:\n코로나19 시기, 문화예술계가 주목해야 할 저작권과 계약②\n\n453호 기획특집② 더보기👇\nhttps://t.co/erjS45UJSs\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/riBJGuZtyV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/erjS45UJSs",
+					"expanded_url": "https://bit.ly/3hxvyJu",
+					"display_url": "bit.ly/3hxvyJu",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306051756153999400,
+					"id_str": "1306051756153999360",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EiAHJwfVkAADH8i.png",
+					"media_url_https": "https://pbs.twimg.com/media/EiAHJwfVkAADH8i.png",
+					"url": "https://t.co/riBJGuZtyV",
+					"display_url": "pic.twitter.com/riBJGuZtyV",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1306051798285729793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 726,
+							"h": 327,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 327,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306051756153999400,
+					"id_str": "1306051756153999360",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EiAHJwfVkAADH8i.png",
+					"media_url_https": "https://pbs.twimg.com/media/EiAHJwfVkAADH8i.png",
+					"url": "https://t.co/riBJGuZtyV",
+					"display_url": "pic.twitter.com/riBJGuZtyV",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1306051798285729793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 726,
+							"h": 327,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 327,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6812,
+			"friends_count": 3010,
+			"listed_count": 103,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획특집②] \n\n언택트 시대, 공연예술인이 알아야 할 저작권:\n코로나19 시기, 문화예술계가 주목해야 할 저작권과 계약②\n\n453호 기획특집② 더보기👇\nhttps://t.co/erjS45UJSs\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/riBJGuZtyV"
+	},
+	{
 		"created_at": "Wed Sep 16 01:52:37 +0000 2020",
 		"id": 1306044982822711300,
 		"id_str": "1306048313716666368",
