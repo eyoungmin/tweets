@@ -1,6 +1,2528 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 17 13:42:43 +0000 2020",
+		"id": 1306505271586427000,
+		"id_str": "1306589404199137280",
+		"full_text": "&lt;브레이크 더 사일런스: 더 무비&gt; 9월 24일 국내 개봉 확정. 한국 가수 최초로 웸블리 스타디움 단독 공연부터 빌보드 월간 박스스코어 1위까지, 대장정을 달려온 방탄소년단(BTS) 멤버들의 인간적인 면모와 진솔한 이야기를 담은 다큐멘터리. https://t.co/8TV93Zf04F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306505231333642200,
+					"id_str": "1306505231333642240",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGjlfLU0AArdt1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGjlfLU0AArdt1.jpg",
+					"url": "https://t.co/8TV93Zf04F",
+					"display_url": "pic.twitter.com/8TV93Zf04F",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1306505271586426880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1432,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306505231333642200,
+					"id_str": "1306505231333642240",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGjlfLU0AArdt1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGjlfLU0AArdt1.jpg",
+					"url": "https://t.co/8TV93Zf04F",
+					"display_url": "pic.twitter.com/8TV93Zf04F",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1306505271586426880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1432,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15955,
+			"friends_count": 746,
+			"listed_count": 86,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;브레이크 더 사일런스: 더 무비&gt; 9월 24일 국내 개봉 확정. 한국 가수 최초로 웸블리 스타디움 단독 공연부터 빌보드 월간 박스스코어 1위까지, 대장정을 달려온 방탄소년단(BTS) 멤버들의 인간적인 면모와 진솔한 이야기를 담은 다큐멘터리. https://t.co/8TV93Zf04F"
+	},
+	{
+		"created_at": "Thu Sep 17 13:42:39 +0000 2020",
+		"id": 1306505935183990800,
+		"id_str": "1306589384083292160",
+		"full_text": "수학과 함께하는 AI 기초 https://t.co/vZ9exT1awq \n- 고등학생 및 일반인을 대상으로 하는 EBS 소프트웨어 강의\n- AI를 개발 및 사용하는 데 필요한 수학 개념과 프로그램 지식을 전달\n- 예제코드는 파이선으로 작성됨\n- 무료 동영상 강좌 및 교재 파일 제공",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vZ9exT1awq",
+					"expanded_url": "https://j.mp/35Lb3a0",
+					"display_url": "j.mp/35Lb3a0",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4009,
+			"friends_count": 0,
+			"listed_count": 59,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수학과 함께하는 AI 기초 https://t.co/vZ9exT1awq \n- 고등학생 및 일반인을 대상으로 하는 EBS 소프트웨어 강의\n- AI를 개발 및 사용하는 데 필요한 수학 개념과 프로그램 지식을 전달\n- 예제코드는 파이선으로 작성됨\n- 무료 동영상 강좌 및 교재 파일 제공"
+	},
+	{
+		"created_at": "Thu Sep 17 13:39:15 +0000 2020",
+		"id": 1306575162003857400,
+		"id_str": "1306588528952791046",
+		"full_text": "Rosé had grown up in Australia, the group’s indie girl with a guitar. “I was born and raised in an English-speaking country, so [Jennie] helped me out with the cultural differences,” Rosé says. @ygofficialblink #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/4f5sbSyLhO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKxELLE",
+					"indices": [
+						211,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						194,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1r5SQHpJs1",
+					"expanded_url": "http://ellemag.co/rsHomsO",
+					"display_url": "ellemag.co/rsHomsO",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306574980667322400,
+					"id_str": "1306574980667322369",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHjBbsWsAEo6Hu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHjBbsWsAEo6Hu.jpg",
+					"url": "https://t.co/4f5sbSyLhO",
+					"display_url": "pic.twitter.com/4f5sbSyLhO",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306575162003857408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306574980667322400,
+					"id_str": "1306574980667322369",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHjBbsWsAEo6Hu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHjBbsWsAEo6Hu.jpg",
+					"url": "https://t.co/4f5sbSyLhO",
+					"display_url": "pic.twitter.com/4f5sbSyLhO",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306575162003857408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306575043087020000,
+					"id_str": "1306575043087020033",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHjFEOXsAE2Mu-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHjFEOXsAE2Mu-.jpg",
+					"url": "https://t.co/4f5sbSyLhO",
+					"display_url": "pic.twitter.com/4f5sbSyLhO",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306575162003857408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306572630003257300,
+		"in_reply_to_status_id_str": "1306572630003257346",
+		"in_reply_to_user_id": 20177423,
+		"in_reply_to_user_id_str": "20177423",
+		"in_reply_to_screen_name": "ELLEmagazine",
+		"user": {
+			"id": 20177423,
+			"id_str": "20177423",
+			"name": "ELLE Magazine (US)",
+			"screen_name": "ELLEmagazine",
+			"location": "",
+			"description": "Fashion. Beauty. Celebrity. Culture. \nFollow ELLE on Instagram and YouTube: https://t.co/oPpHBvsBRv https://t.co/x1Rwchuvn0",
+			"url": "http://t.co/54wdRJ8G1n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/54wdRJ8G1n",
+							"expanded_url": "http://elle.com",
+							"display_url": "elle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oPpHBvsBRv",
+							"expanded_url": "http://instagram.com/elleusa/",
+							"display_url": "instagram.com/elleusa/",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/x1Rwchuvn0",
+							"expanded_url": "http://youtube.com/elle",
+							"display_url": "youtube.com/elle",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6704434,
+			"friends_count": 1191,
+			"listed_count": 18157,
+			"created_at": "Thu Feb 05 19:26:15 +0000 2009",
+			"favourites_count": 6678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 225111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D7DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20177423/1600347086",
+			"profile_link_color": "AB135A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11891,
+		"favorite_count": 32071,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rosé had grown up in Australia, the group’s indie girl with a guitar. “I was born and raised in an English-speaking country, so [Jennie] helped me out with the cultural differences,” Rosé says. @ygofficialblink #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/4f5sbSyLhO"
+	},
+	{
+		"created_at": "Thu Sep 17 13:39:05 +0000 2020",
+		"id": 1306572630003257300,
+		"id_str": "1306588486955196419",
+		"full_text": "Lisa, the group’s tall, glamorous rapper is beloved for her blunt Cleopatra bangs and dramatic flair. “My mother says I was always dancing and singing as a child, [pretending] to hold a microphone,” she says. #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/YgU4ygsbke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKxELLE",
+					"indices": [
+						209,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1r5SQHpJs1",
+					"expanded_url": "http://ellemag.co/rsHomsO",
+					"display_url": "ellemag.co/rsHomsO",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306572290918940700,
+					"id_str": "1306572290918940673",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHgk3mXgAEhwty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHgk3mXgAEhwty.jpg",
+					"url": "https://t.co/YgU4ygsbke",
+					"display_url": "pic.twitter.com/YgU4ygsbke",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306572630003257346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306572290918940700,
+					"id_str": "1306572290918940673",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHgk3mXgAEhwty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHgk3mXgAEhwty.jpg",
+					"url": "https://t.co/YgU4ygsbke",
+					"display_url": "pic.twitter.com/YgU4ygsbke",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306572630003257346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306572334128562200,
+					"id_str": "1306572334128562176",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHgnYkWAAA0MKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHgnYkWAAA0MKb.jpg",
+					"url": "https://t.co/YgU4ygsbke",
+					"display_url": "pic.twitter.com/YgU4ygsbke",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306572630003257346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306572097746022400,
+		"in_reply_to_status_id_str": "1306572097746022400",
+		"in_reply_to_user_id": 20177423,
+		"in_reply_to_user_id_str": "20177423",
+		"in_reply_to_screen_name": "ELLEmagazine",
+		"user": {
+			"id": 20177423,
+			"id_str": "20177423",
+			"name": "ELLE Magazine (US)",
+			"screen_name": "ELLEmagazine",
+			"location": "",
+			"description": "Fashion. Beauty. Celebrity. Culture. \nFollow ELLE on Instagram and YouTube: https://t.co/oPpHBvsBRv https://t.co/x1Rwchuvn0",
+			"url": "http://t.co/54wdRJ8G1n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/54wdRJ8G1n",
+							"expanded_url": "http://elle.com",
+							"display_url": "elle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oPpHBvsBRv",
+							"expanded_url": "http://instagram.com/elleusa/",
+							"display_url": "instagram.com/elleusa/",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/x1Rwchuvn0",
+							"expanded_url": "http://youtube.com/elle",
+							"display_url": "youtube.com/elle",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6704434,
+			"friends_count": 1191,
+			"listed_count": 18157,
+			"created_at": "Thu Feb 05 19:26:15 +0000 2009",
+			"favourites_count": 6678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 225111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D7DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20177423/1600347086",
+			"profile_link_color": "AB135A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17498,
+		"favorite_count": 39035,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lisa, the group’s tall, glamorous rapper is beloved for her blunt Cleopatra bangs and dramatic flair. “My mother says I was always dancing and singing as a child, [pretending] to hold a microphone,” she says. #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/YgU4ygsbke"
+	},
+	{
+		"created_at": "Thu Sep 17 13:39:03 +0000 2020",
+		"id": 1306575914990436400,
+		"id_str": "1306588478155546624",
+		"full_text": "K-drama actress Jisoo, BLACKPINK's oldest member, joined the group “eager to learn everything and catch up to everybody, which was really motivating for me as well,” Jennie says. @ygofficialblink #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/syCr5ITRD3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKxELLE",
+					"indices": [
+						196,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						179,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1r5SQHpJs1",
+					"expanded_url": "http://ellemag.co/rsHomsO",
+					"display_url": "ellemag.co/rsHomsO",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306575265745772500,
+					"id_str": "1306575265745772551",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHjSBsWoAcKX6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHjSBsWoAcKX6J.jpg",
+					"url": "https://t.co/syCr5ITRD3",
+					"display_url": "pic.twitter.com/syCr5ITRD3",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306575914990436355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306575265745772500,
+					"id_str": "1306575265745772551",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHjSBsWoAcKX6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHjSBsWoAcKX6J.jpg",
+					"url": "https://t.co/syCr5ITRD3",
+					"display_url": "pic.twitter.com/syCr5ITRD3",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306575914990436355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306575331793535000,
+					"id_str": "1306575331793534976",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHjV3vXgAA6888.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHjV3vXgAA6888.jpg",
+					"url": "https://t.co/syCr5ITRD3",
+					"display_url": "pic.twitter.com/syCr5ITRD3",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306575914990436355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306575162003857400,
+		"in_reply_to_status_id_str": "1306575162003857408",
+		"in_reply_to_user_id": 20177423,
+		"in_reply_to_user_id_str": "20177423",
+		"in_reply_to_screen_name": "ELLEmagazine",
+		"user": {
+			"id": 20177423,
+			"id_str": "20177423",
+			"name": "ELLE Magazine (US)",
+			"screen_name": "ELLEmagazine",
+			"location": "",
+			"description": "Fashion. Beauty. Celebrity. Culture. \nFollow ELLE on Instagram and YouTube: https://t.co/oPpHBvsBRv https://t.co/x1Rwchuvn0",
+			"url": "http://t.co/54wdRJ8G1n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/54wdRJ8G1n",
+							"expanded_url": "http://elle.com",
+							"display_url": "elle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oPpHBvsBRv",
+							"expanded_url": "http://instagram.com/elleusa/",
+							"display_url": "instagram.com/elleusa/",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/x1Rwchuvn0",
+							"expanded_url": "http://youtube.com/elle",
+							"display_url": "youtube.com/elle",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6704434,
+			"friends_count": 1191,
+			"listed_count": 18157,
+			"created_at": "Thu Feb 05 19:26:15 +0000 2009",
+			"favourites_count": 6678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 225111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D7DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20177423/1600347086",
+			"profile_link_color": "AB135A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11440,
+		"favorite_count": 31312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "K-drama actress Jisoo, BLACKPINK's oldest member, joined the group “eager to learn everything and catch up to everybody, which was really motivating for me as well,” Jennie says. @ygofficialblink #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/syCr5ITRD3"
+	},
+	{
+		"created_at": "Thu Sep 17 13:39:00 +0000 2020",
+		"id": 1306572097746022400,
+		"id_str": "1306588468277964800",
+		"full_text": "“Fashion definitely empowers us as much as music does,” Jennie says. With her classic beauty and affinity for timeless silhouettes, she has come to be affectionately referred to as “Human Chanel” by fans. #BLACKPINKxELLE  @ygofficialblink https://t.co/1r5SQHpJs1 https://t.co/5lABtYwcU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKxELLE",
+					"indices": [
+						205,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						222,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1r5SQHpJs1",
+					"expanded_url": "http://ellemag.co/rsHomsO",
+					"display_url": "ellemag.co/rsHomsO",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306571741922197500,
+					"id_str": "1306571741922197507",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHgE6bWAAM840t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHgE6bWAAM840t.jpg",
+					"url": "https://t.co/5lABtYwcU6",
+					"display_url": "pic.twitter.com/5lABtYwcU6",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306572097746022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306571741922197500,
+					"id_str": "1306571741922197507",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHgE6bWAAM840t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHgE6bWAAM840t.jpg",
+					"url": "https://t.co/5lABtYwcU6",
+					"display_url": "pic.twitter.com/5lABtYwcU6",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306572097746022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306571900139769900,
+					"id_str": "1306571900139769856",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHgOH1WkAAD4yQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHgOH1WkAAD4yQ.jpg",
+					"url": "https://t.co/5lABtYwcU6",
+					"display_url": "pic.twitter.com/5lABtYwcU6",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306572097746022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306569336140767200,
+		"in_reply_to_status_id_str": "1306569336140767237",
+		"in_reply_to_user_id": 20177423,
+		"in_reply_to_user_id_str": "20177423",
+		"in_reply_to_screen_name": "ELLEmagazine",
+		"user": {
+			"id": 20177423,
+			"id_str": "20177423",
+			"name": "ELLE Magazine (US)",
+			"screen_name": "ELLEmagazine",
+			"location": "",
+			"description": "Fashion. Beauty. Celebrity. Culture. \nFollow ELLE on Instagram and YouTube: https://t.co/oPpHBvsBRv https://t.co/x1Rwchuvn0",
+			"url": "http://t.co/54wdRJ8G1n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/54wdRJ8G1n",
+							"expanded_url": "http://elle.com",
+							"display_url": "elle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oPpHBvsBRv",
+							"expanded_url": "http://instagram.com/elleusa/",
+							"display_url": "instagram.com/elleusa/",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/x1Rwchuvn0",
+							"expanded_url": "http://youtube.com/elle",
+							"display_url": "youtube.com/elle",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6704434,
+			"friends_count": 1191,
+			"listed_count": 18157,
+			"created_at": "Thu Feb 05 19:26:15 +0000 2009",
+			"favourites_count": 6678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 225111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D7DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20177423/1600347086",
+			"profile_link_color": "AB135A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13593,
+		"favorite_count": 35469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Fashion definitely empowers us as much as music does,” Jennie says. With her classic beauty and affinity for timeless silhouettes, she has come to be affectionately referred to as “Human Chanel” by fans. #BLACKPINKxELLE  @ygofficialblink https://t.co/1r5SQHpJs1 https://t.co/5lABtYwcU6"
+	},
+	{
+		"created_at": "Thu Sep 17 13:34:46 +0000 2020",
+		"id": 1306578658157453300,
+		"id_str": "1306587403625410560",
+		"full_text": "#광고 #BLACKPINK is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST to see\nthe group cover. https://t.co/orh4ARqp6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						51,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306577740624138200,
+					"id_str": "1306577740624138241",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHliFVVkAE5MDE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHliFVVkAE5MDE.jpg",
+					"url": "https://t.co/orh4ARqp6y",
+					"display_url": "pic.twitter.com/orh4ARqp6y",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306578658157453312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306577740624138200,
+					"id_str": "1306577740624138241",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHliFVVkAE5MDE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHliFVVkAE5MDE.jpg",
+					"url": "https://t.co/orh4ARqp6y",
+					"display_url": "pic.twitter.com/orh4ARqp6y",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306578658157453312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1785096,
+			"friends_count": 0,
+			"listed_count": 2366,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1598855058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31647,
+		"favorite_count": 85878,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#광고 #BLACKPINK is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST to see\nthe group cover. https://t.co/orh4ARqp6y"
+	},
+	{
+		"created_at": "Thu Sep 17 13:34:39 +0000 2020",
+		"id": 1306577171754877000,
+		"id_str": "1306587373669683201",
+		"full_text": "#광고 #LISA is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST\nto see the group cover. https://t.co/gMUtybLNT3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306577099012976600,
+					"id_str": "1306577099012976643",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHk8vJUMAMHkjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHk8vJUMAMHkjq.jpg",
+					"url": "https://t.co/gMUtybLNT3",
+					"display_url": "pic.twitter.com/gMUtybLNT3",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306577171754876928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306577099012976600,
+					"id_str": "1306577099012976643",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHk8vJUMAMHkjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHk8vJUMAMHkjq.jpg",
+					"url": "https://t.co/gMUtybLNT3",
+					"display_url": "pic.twitter.com/gMUtybLNT3",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306577171754876928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1785096,
+			"friends_count": 0,
+			"listed_count": 2366,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1598855058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31715,
+		"favorite_count": 88368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#광고 #LISA is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST\nto see the group cover. https://t.co/gMUtybLNT3"
+	},
+	{
+		"created_at": "Thu Sep 17 13:34:35 +0000 2020",
+		"id": 1306577276604043300,
+		"id_str": "1306587356313649155",
+		"full_text": "#광고 #ROSÉ is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST\nto see the group cover. https://t.co/1fKm89TfK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306577258207801300,
+					"id_str": "1306577258207801344",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHlGAMUcAAuAyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHlGAMUcAAuAyT.jpg",
+					"url": "https://t.co/1fKm89TfK6",
+					"display_url": "pic.twitter.com/1fKm89TfK6",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306577276604043265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306577258207801300,
+					"id_str": "1306577258207801344",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHlGAMUcAAuAyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHlGAMUcAAuAyT.jpg",
+					"url": "https://t.co/1fKm89TfK6",
+					"display_url": "pic.twitter.com/1fKm89TfK6",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306577276604043265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1785096,
+			"friends_count": 0,
+			"listed_count": 2366,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1598855058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24911,
+		"favorite_count": 74528,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#광고 #ROSÉ is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST\nto see the group cover. https://t.co/1fKm89TfK6"
+	},
+	{
+		"created_at": "Thu Sep 17 13:34:28 +0000 2020",
+		"id": 1306577038573101000,
+		"id_str": "1306587326290722816",
+		"full_text": "#광고 #JENNIE is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST\nto see the group cover. https://t.co/O08rJg59i5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306576949678993400,
+					"id_str": "1306576949678993408",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHk0C1UcAA5wUS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHk0C1UcAA5wUS.jpg",
+					"url": "https://t.co/O08rJg59i5",
+					"display_url": "pic.twitter.com/O08rJg59i5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306577038573101057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306576949678993400,
+					"id_str": "1306576949678993408",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHk0C1UcAA5wUS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHk0C1UcAA5wUS.jpg",
+					"url": "https://t.co/O08rJg59i5",
+					"display_url": "pic.twitter.com/O08rJg59i5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306577038573101057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1785096,
+			"friends_count": 0,
+			"listed_count": 2366,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1598855058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25198,
+		"favorite_count": 75715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#광고 #JENNIE is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST\nto see the group cover. https://t.co/O08rJg59i5"
+	},
+	{
+		"created_at": "Thu Sep 17 13:34:26 +0000 2020",
+		"id": 1306577364810264600,
+		"id_str": "1306587317189201921",
+		"full_text": "#광고 #JISOO is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST\nto see the group cover. https://t.co/DjHVmxaDkv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						47,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306577339736666000,
+					"id_str": "1306577339736666112",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHlKv6UMAApb1O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHlKv6UMAApb1O.jpg",
+					"url": "https://t.co/DjHVmxaDkv",
+					"display_url": "pic.twitter.com/DjHVmxaDkv",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306577364810264578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306577339736666000,
+					"id_str": "1306577339736666112",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHlKv6UMAApb1O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHlKv6UMAApb1O.jpg",
+					"url": "https://t.co/DjHVmxaDkv",
+					"display_url": "pic.twitter.com/DjHVmxaDkv",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1306577364810264578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1785096,
+			"friends_count": 0,
+			"listed_count": 2366,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1598855058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24463,
+		"favorite_count": 72611,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#광고 #JISOO is on the cover of ELLE US!\nHead to @ellemagazine at 8AM EST\nto see the group cover. https://t.co/DjHVmxaDkv"
+	},
+	{
+		"created_at": "Thu Sep 17 13:34:24 +0000 2020",
+		"id": 1306569336140767200,
+		"id_str": "1306587308238528513",
+		"full_text": "BLACKPINK in your area and on the cover of ELLE! For our October issue, the biggest girl group in the world—Lisa, Jennie, Rosé, and Jisoo—take us inside their journey to world domination. @ygofficialblink #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/h6Jm7LnHB6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKxELLE",
+					"indices": [
+						205,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1r5SQHpJs1",
+					"expanded_url": "http://ellemag.co/rsHomsO",
+					"display_url": "ellemag.co/rsHomsO",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306568403176632300,
+					"id_str": "1306568403176632322",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHdCkoXsAIXfsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHdCkoXsAIXfsE.jpg",
+					"url": "https://t.co/h6Jm7LnHB6",
+					"display_url": "pic.twitter.com/h6Jm7LnHB6",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306569336140767237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306568403176632300,
+					"id_str": "1306568403176632322",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHdCkoXsAIXfsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHdCkoXsAIXfsE.jpg",
+					"url": "https://t.co/h6Jm7LnHB6",
+					"display_url": "pic.twitter.com/h6Jm7LnHB6",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1306569336140767237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20177423,
+			"id_str": "20177423",
+			"name": "ELLE Magazine (US)",
+			"screen_name": "ELLEmagazine",
+			"location": "",
+			"description": "Fashion. Beauty. Celebrity. Culture. \nFollow ELLE on Instagram and YouTube: https://t.co/oPpHBvsBRv https://t.co/x1Rwchuvn0",
+			"url": "http://t.co/54wdRJ8G1n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/54wdRJ8G1n",
+							"expanded_url": "http://elle.com",
+							"display_url": "elle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oPpHBvsBRv",
+							"expanded_url": "http://instagram.com/elleusa/",
+							"display_url": "instagram.com/elleusa/",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/x1Rwchuvn0",
+							"expanded_url": "http://youtube.com/elle",
+							"display_url": "youtube.com/elle",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6704434,
+			"friends_count": 1191,
+			"listed_count": 18157,
+			"created_at": "Thu Feb 05 19:26:15 +0000 2009",
+			"favourites_count": 6678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 225111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D7DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20177423/1600347086",
+			"profile_link_color": "AB135A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27963,
+		"favorite_count": 60564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK in your area and on the cover of ELLE! For our October issue, the biggest girl group in the world—Lisa, Jennie, Rosé, and Jisoo—take us inside their journey to world domination. @ygofficialblink #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/h6Jm7LnHB6"
+	},
+	{
 		"created_at": "Thu Sep 17 12:57:20 +0000 2020",
 		"id": 1306577980207108000,
 		"id_str": "1306577980207108096",
