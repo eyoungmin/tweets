@@ -1,6 +1,718 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 23:55:29 +0000 2020",
+		"id": 1306118160312012800,
+		"id_str": "1306381223560753153",
+		"full_text": "[흥신소]광고에게 스토킹 당하고 있어요 https://t.co/q8uCFkJW2h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q8uCFkJW2h",
+					"expanded_url": "http://www.bloter.net/archives/405992",
+					"display_url": "bloter.net/archives/405992",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54779,
+			"friends_count": 9,
+			"listed_count": 2363,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[흥신소]광고에게 스토킹 당하고 있어요 https://t.co/q8uCFkJW2h"
+	},
+	{
+		"created_at": "Wed Sep 16 23:51:49 +0000 2020",
+		"id": 1306379828870799400,
+		"id_str": "1306380299597541379",
+		"full_text": "❝ 국내의 한 저작권단체 관계자는 “스포티파이와의 협상이 잘 끝나 이르면 이달 중에도 국내 서비스가 가능한 상황이다. 다만 스포티파이가 본사와 조율 과정에서 시간이 걸리는 것으로 안다”고 말했다.\n\n#스포티파이 #Spotify #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1306379593641676800,
+		"in_reply_to_status_id_str": "1306379593641676801",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 국내의 한 저작권단체 관계자는 “스포티파이와의 협상이 잘 끝나 이르면 이달 중에도 국내 서비스가 가능한 상황이다. 다만 스포티파이가 본사와 조율 과정에서 시간이 걸리는 것으로 안다”고 말했다.\n\n#스포티파이 #Spotify #뮤직비지니스"
+	},
+	{
+		"created_at": "Wed Sep 16 23:51:46 +0000 2020",
+		"id": 1306379593641676800,
+		"id_str": "1306380285181718529",
+		"full_text": "❝ 한 글로벌음반사 관계자는 “한때 과반을 점했던 멜론의 시장 지배력이 1년여 만에 50% 이상 급감한 것을 느낀다. ‘멜론 이탈 수익’이 곧바로 유튜브로 이동 중인 것을 데이터로 보고 있다. 스포티파이는 멜론이 아니라 유튜브와 경쟁해야 할 것”이라고 했다.\n\n#스포티파이 #Spotify #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1306379031923761200,
+		"in_reply_to_status_id_str": "1306379031923761153",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 한 글로벌음반사 관계자는 “한때 과반을 점했던 멜론의 시장 지배력이 1년여 만에 50% 이상 급감한 것을 느낀다. ‘멜론 이탈 수익’이 곧바로 유튜브로 이동 중인 것을 데이터로 보고 있다. 스포티파이는 멜론이 아니라 유튜브와 경쟁해야 할 것”이라고 했다.\n\n#스포티파이 #Spotify #뮤직비지니스"
+	},
+	{
+		"created_at": "Wed Sep 16 23:51:44 +0000 2020",
+		"id": 1306379031923761200,
+		"id_str": "1306380277472612353",
+		"full_text": "국내 상륙 앞둔 음원 공룡 ‘스포티파이’, 음악계 넷플릭스 될까\nhttps://t.co/mlEoHs6Xuw\n\n#뮤직비지니스 #스포티파이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						69,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mlEoHs6Xuw",
+					"expanded_url": "https://n.news.naver.com/mnews/article/020/0003309722?sid=103",
+					"display_url": "n.news.naver.com/mnews/article/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내 상륙 앞둔 음원 공룡 ‘스포티파이’, 음악계 넷플릭스 될까\nhttps://t.co/mlEoHs6Xuw\n\n#뮤직비지니스 #스포티파이"
+	},
+	{
+		"created_at": "Wed Sep 16 23:34:55 +0000 2020",
+		"id": 1306375384208818200,
+		"id_str": "1306376046220996608",
+		"full_text": "당사는 라이브 방송 중 발생한 스태프의 잘못된 발언이 어떠한 이유를 막론하고 잘못됐음을 인정하고, 관련된 책임자는 그에 따른 조치를 취하겠습니다.\n\n에프이엔티는 향후 다시는 이러한 문제가 일어나지 않도록 더욱 세심하게 신경 쓰겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1306375113563017200,
+		"in_reply_to_status_id_str": "1306375113563017217",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당사는 라이브 방송 중 발생한 스태프의 잘못된 발언이 어떠한 이유를 막론하고 잘못됐음을 인정하고, 관련된 책임자는 그에 따른 조치를 취하겠습니다.\n\n에프이엔티는 향후 다시는 이러한 문제가 일어나지 않도록 더욱 세심하게 신경 쓰겠습니다."
+	},
+	{
+		"created_at": "Wed Sep 16 23:34:39 +0000 2020",
+		"id": 1306374873359331300,
+		"id_str": "1306375978260656128",
+		"full_text": "파나틱스 소속사, 성희롱 논란에 “심각성 느껴, 사과드린다”(공식입장 전문)\nhttps://t.co/iTPFh41luz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iTPFh41luz",
+					"expanded_url": "https://m.newsen.com/news_view.php?uid=202009170815062410",
+					"display_url": "m.newsen.com/news_view.php?…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파나틱스 소속사, 성희롱 논란에 “심각성 느껴, 사과드린다”(공식입장 전문)\nhttps://t.co/iTPFh41luz"
+	},
+	{
 		"created_at": "Wed Sep 16 20:43:02 +0000 2020",
 		"id": 1306332791693553700,
 		"id_str": "1306332791693553665",
