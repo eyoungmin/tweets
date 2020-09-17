@@ -1,6 +1,1898 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 17 04:47:14 +0000 2020",
+		"id": 1306454642067419100,
+		"id_str": "1306454642067419137",
+		"full_text": "#BBC코리아\n코로나19: 영국 장애인 '코로나19로 일자리 잃을까 두렵다'\nhttps://t.co/236qiBKHWr\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/236qiBKHWr",
+					"expanded_url": "https://www.bbc.com/korean/international-54128359",
+					"display_url": "bbc.com/korean/interna…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 영국 장애인 '코로나19로 일자리 잃을까 두렵다'\nhttps://t.co/236qiBKHWr\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Thu Sep 17 04:47:13 +0000 2020",
+		"id": 1306454638078627800,
+		"id_str": "1306454638078627840",
+		"full_text": "#BBC코리아\n코로나19: 마스크 대신 뱀으로 얼굴 가리고 버스 탑승한 영국 승객\nhttps://t.co/sN3vJ4ttwC\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						70,
+						83
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sN3vJ4ttwC",
+					"expanded_url": "https://www.bbc.com/korean/international-54128360",
+					"display_url": "bbc.com/korean/interna…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 마스크 대신 뱀으로 얼굴 가리고 버스 탑승한 영국 승객\nhttps://t.co/sN3vJ4ttwC\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Thu Sep 17 04:41:05 +0000 2020",
+		"id": 1306453095203983400,
+		"id_str": "1306453095203983360",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\nLauv - Modern Loneliness (cover by Yeri) [예리의 음악 선물 #2]\nhttps://t.co/GMkdpCvYSz\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GMkdpCvYSz",
+					"expanded_url": "https://youtu.be/0ZsX6Bk056E",
+					"display_url": "youtu.be/0ZsX6Bk056E",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\nLauv - Modern Loneliness (cover by Yeri) [예리의 음악 선물 #2]\nhttps://t.co/GMkdpCvYSz\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
+		"created_at": "Thu Sep 17 04:39:34 +0000 2020",
+		"id": 1306450567007355000,
+		"id_str": "1306452715849920514",
+		"full_text": "인터넷에 보딩패스 사진을 올리면 안되는 이유 https://t.co/dwHyysiUlh \n전 호주총리 Tony Abbott이 인스타에 올린 보딩패스로 그의 정보를 추적하는 과정을 공개한 글\n- 티켓에서 Booking Ref(예약번호)를 취득\n- 콴타스 항공사에서 해당 번호와 Last Name으로 예약 관리 페이지 접속\n- 그 웹...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dwHyysiUlh",
+					"expanded_url": "https://j.mp/2FGEm2v",
+					"display_url": "j.mp/2FGEm2v",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3987,
+			"friends_count": 0,
+			"listed_count": 59,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인터넷에 보딩패스 사진을 올리면 안되는 이유 https://t.co/dwHyysiUlh \n전 호주총리 Tony Abbott이 인스타에 올린 보딩패스로 그의 정보를 추적하는 과정을 공개한 글\n- 티켓에서 Booking Ref(예약번호)를 취득\n- 콴타스 항공사에서 해당 번호와 Last Name으로 예약 관리 페이지 접속\n- 그 웹..."
+	},
+	{
+		"created_at": "Thu Sep 17 04:33:53 +0000 2020",
+		"id": 1306156689494663200,
+		"id_str": "1306451284577247233",
+		"full_text": "[선공개] ⚠️긴급 속보⚠️ 이번 주 유스케 ‘아이유’ 단독 출연! 선공개 직캠 공개 (출처 : 유희열의 스케치북 | 네이버TV) https://t.co/UAnSmFfekG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UAnSmFfekG",
+					"expanded_url": "http://naver.me/5o2rjVs6",
+					"display_url": "naver.me/5o2rjVs6",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 699452,
+			"friends_count": 0,
+			"listed_count": 1171,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3700,
+		"favorite_count": 14558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] ⚠️긴급 속보⚠️ 이번 주 유스케 ‘아이유’ 단독 출연! 선공개 직캠 공개 (출처 : 유희열의 스케치북 | 네이버TV) https://t.co/UAnSmFfekG"
+	},
+	{
+		"created_at": "Thu Sep 17 04:33:25 +0000 2020",
+		"id": 1306389908593008600,
+		"id_str": "1306451166327271424",
+		"full_text": "⚠️긴급 속보⚠️ \n이번 주 유스케 '#아이유(#IU)’ 단독 출연! \n❣️9월 18일 #금요일에_만나요❣️\n#스케치북 #유희열의스케치북 #유희열 #이지은 https://t.co/vKkgenulW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "금요일에_만나요",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "스케치북",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306373866579570700,
+					"id_str": "1306373866579570689",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEx5eqU4AEDNQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEx5eqU4AEDNQY.jpg",
+					"url": "https://t.co/vKkgenulW5",
+					"display_url": "pic.twitter.com/vKkgenulW5",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1306389908593008645/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 414,
+							"h": 738,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 414,
+							"h": 738,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306373866579570700,
+					"id_str": "1306373866579570689",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEx5eqU4AEDNQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEx5eqU4AEDNQY.jpg",
+					"url": "https://t.co/vKkgenulW5",
+					"display_url": "pic.twitter.com/vKkgenulW5",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1306389908593008645/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 414,
+							"h": 738,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 414,
+							"h": 738,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 232619,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306373866579570689/vid/320x568/bpu9DkNT5Q5acT4f.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306373866579570689/vid/360x638/PLAGq3MHc0kdZpJ3.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306373866579570689/vid/480x852/Ho9mI_Syq3MPJKx1.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1306373866579570689/pl/RBBDZyIRFShqX0jD.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1085353,
+			"friends_count": 58888,
+			"listed_count": 2018,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1598405514",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 548,
+		"favorite_count": 1033,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚠️긴급 속보⚠️ \n이번 주 유스케 '#아이유(#IU)’ 단독 출연! \n❣️9월 18일 #금요일에_만나요❣️\n#스케치북 #유희열의스케치북 #유희열 #이지은 https://t.co/vKkgenulW5"
+	},
+	{
+		"created_at": "Thu Sep 17 04:26:37 +0000 2020",
+		"id": 1305580584912158700,
+		"id_str": "1306449454312992768",
+		"full_text": "@josematthew Hey Jose, sorry about that. We're working on fixing this bug and searching within Lists should be sorted out soon.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josematthew",
+					"name": "Jose Mathew",
+					"id": 27710681,
+					"id_str": "27710681",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": 1301216476347728000,
+		"in_reply_to_status_id_str": "1301216476347727876",
+		"in_reply_to_user_id": 27710681,
+		"in_reply_to_user_id_str": "27710681",
+		"in_reply_to_screen_name": "josematthew",
+		"user": {
+			"id": 17874544,
+			"id_str": "17874544",
+			"name": "Twitter Support",
+			"screen_name": "TwitterSupport",
+			"location": "Twitter HQ",
+			"description": "#Vote\nHere to help. 💙",
+			"url": "https://t.co/heEvRrl4yN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrl4yN",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6410106,
+			"friends_count": 17,
+			"listed_count": 14710,
+			"created_at": "Thu Dec 04 18:51:57 +0000 2008",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266884366279471105/OTps6MBS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266884366279471105/OTps6MBS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1590883745",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@josematthew Hey Jose, sorry about that. We're working on fixing this bug and searching within Lists should be sorted out soon."
+	},
+	{
+		"created_at": "Thu Sep 17 04:26:34 +0000 2020",
+		"id": 1306449441667178500,
+		"id_str": "1306449441667178496",
+		"full_text": "리스트 검색 해결 빨리 되었으면. https://t.co/uoy5EHJzmR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uoy5EHJzmR",
+					"expanded_url": "https://twitter.com/TwitterSupport/status/1305580584912158720",
+					"display_url": "twitter.com/TwitterSupport…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305580584912158700,
+		"quoted_status_id_str": "1305580584912158720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uoy5EHJzmR",
+			"expanded": "https://twitter.com/TwitterSupport/status/1305580584912158720",
+			"display": "twitter.com/TwitterSupport…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 14 18:54:02 +0000 2020",
+			"id": 1305580584912158700,
+			"id_str": "1305580584912158720",
+			"full_text": "@josematthew Hey Jose, sorry about that. We're working on fixing this bug and searching within Lists should be sorted out soon.",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "josematthew",
+						"name": "Jose Mathew",
+						"id": 27710681,
+						"id_str": "27710681",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": 1301216476347728000,
+			"in_reply_to_status_id_str": "1301216476347727876",
+			"in_reply_to_user_id": 27710681,
+			"in_reply_to_user_id_str": "27710681",
+			"in_reply_to_screen_name": "josematthew",
+			"user": {
+				"id": 17874544,
+				"id_str": "17874544",
+				"name": "Twitter Support",
+				"screen_name": "TwitterSupport",
+				"location": "Twitter HQ",
+				"description": "#Vote\nHere to help. 💙",
+				"url": "https://t.co/heEvRrl4yN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/heEvRrl4yN",
+								"expanded_url": "https://help.twitter.com",
+								"display_url": "help.twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6410106,
+				"friends_count": 17,
+				"listed_count": 14710,
+				"created_at": "Thu Dec 04 18:51:57 +0000 2008",
+				"favourites_count": 377,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28796,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1266884366279471105/OTps6MBS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266884366279471105/OTps6MBS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1590883745",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리스트 검색 해결 빨리 되었으면. https://t.co/uoy5EHJzmR"
+	},
+	{
+		"created_at": "Thu Sep 17 04:24:30 +0000 2020",
+		"id": 1306448924383690800,
+		"id_str": "1306448924383690753",
+		"full_text": "IFTTT가 10월 7일까지 결제하면 그 결제 금액으로 평생 이용할 수 있다고 발표. 최소 1.99달러부터 결제 가능.\n\n#Automation #자동화 #IFTTT https://t.co/0pzlEWF0QG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Automation",
+					"indices": [
+						68,
+						79
+					]
+				},
+				{
+					"text": "자동화",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "IFTTT",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0pzlEWF0QG",
+					"expanded_url": "https://twitter.com/IFTTT/status/1306323721729314822",
+					"display_url": "twitter.com/IFTTT/status/1…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306323721729314800,
+		"quoted_status_id_str": "1306323721729314822",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0pzlEWF0QG",
+			"expanded": "https://twitter.com/IFTTT/status/1306323721729314822",
+			"display": "twitter.com/IFTTT/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 16 20:07:00 +0000 2020",
+			"id": 1306323721729314800,
+			"id_str": "1306323721729314822",
+			"full_text": "Exciting Pro update! We're extending the set your own price offer. Set your price for Pro before Oct. 7th and we'll honor it indefinitely. Learn more from our CEO and Founder @ltibbets",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ltibbets",
+						"name": "Linden Tibbets",
+						"id": 8064682,
+						"id_str": "8064682",
+						"indices": [
+							175,
+							184
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75079616,
+				"id_str": "75079616",
+				"name": "IFTTT",
+				"screen_name": "IFTTT",
+				"location": "San Francisco, CA",
+				"description": "Every thing works better together.\n \nGet help at https://t.co/s6FI5snXQr\nBuild on https://t.co/XAKs80ZGat",
+				"url": "https://t.co/aawZ4nrIwb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aawZ4nrIwb",
+								"expanded_url": "https://ifttt.com",
+								"display_url": "ifttt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/s6FI5snXQr",
+								"expanded_url": "http://help.ifttt.com",
+								"display_url": "help.ifttt.com",
+								"indices": [
+									49,
+									72
+								]
+							},
+							{
+								"url": "https://t.co/XAKs80ZGat",
+								"expanded_url": "http://platform.ifttt.com",
+								"display_url": "platform.ifttt.com",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 167648,
+				"friends_count": 349,
+				"listed_count": 6040,
+				"created_at": "Thu Sep 17 18:30:25 +0000 2009",
+				"favourites_count": 4657,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 77686,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1154072494266933248/muawPqL4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154072494266933248/muawPqL4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75079616/1599681795",
+				"profile_link_color": "0099FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IFTTT가 10월 7일까지 결제하면 그 결제 금액으로 평생 이용할 수 있다고 발표. 최소 1.99달러부터 결제 가능.\n\n#Automation #자동화 #IFTTT https://t.co/0pzlEWF0QG"
+	},
+	{
+		"created_at": "Thu Sep 17 04:22:45 +0000 2020",
+		"id": 1306323721729314800,
+		"id_str": "1306448481603575808",
+		"full_text": "Exciting Pro update! We're extending the set your own price offer. Set your price for Pro before Oct. 7th and we'll honor it indefinitely. Learn more from our CEO and Founder @ltibbets",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ltibbets",
+					"name": "Linden Tibbets",
+					"id": 8064682,
+					"id_str": "8064682",
+					"indices": [
+						175,
+						184
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75079616,
+			"id_str": "75079616",
+			"name": "IFTTT",
+			"screen_name": "IFTTT",
+			"location": "San Francisco, CA",
+			"description": "Every thing works better together.\n \nGet help at https://t.co/s6FI5snXQr\nBuild on https://t.co/XAKs80ZGat",
+			"url": "https://t.co/aawZ4nrIwb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aawZ4nrIwb",
+							"expanded_url": "https://ifttt.com",
+							"display_url": "ifttt.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/s6FI5snXQr",
+							"expanded_url": "http://help.ifttt.com",
+							"display_url": "help.ifttt.com",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/XAKs80ZGat",
+							"expanded_url": "http://platform.ifttt.com",
+							"display_url": "platform.ifttt.com",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167648,
+			"friends_count": 349,
+			"listed_count": 6040,
+			"created_at": "Thu Sep 17 18:30:25 +0000 2009",
+			"favourites_count": 4657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 77686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154072494266933248/muawPqL4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154072494266933248/muawPqL4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75079616/1599681795",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Exciting Pro update! We're extending the set your own price offer. Set your price for Pro before Oct. 7th and we'll honor it indefinitely. Learn more from our CEO and Founder @ltibbets"
+	},
+	{
+		"created_at": "Thu Sep 17 04:18:43 +0000 2020",
+		"id": 1306442756299067400,
+		"id_str": "1306447465357258753",
+		"full_text": "세상에서 제일 이쁘고 귀여워🥰\n'뚜두뚜두'로 맛남 접수하러 온 블랙핑크 지수🖤❤️\n\nSBS &lt;맛남의 광장&gt;\n☞ 오늘 (17일, 목) 밤 8시 55분 방송!\n\n#맛남의광장 #DeliciousRendezvous #맛남 #백종원 #양세형 #김희철 #김동준 #유병재 #지수 #블랙핑크 #JISOO #BLACKPINK https://t.co/NCYbLJXvUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "맛남의광장",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "DeliciousRendezvous",
+					"indices": [
+						101,
+						121
+					]
+				},
+				{
+					"text": "맛남",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "백종원",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "김희철",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "김동준",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "유병재",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						168,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306415023489646600,
+					"id_str": "1306415023489646597",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFRisxVgAUbi6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFRisxVgAUbi6k.jpg",
+					"url": "https://t.co/NCYbLJXvUa",
+					"display_url": "pic.twitter.com/NCYbLJXvUa",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1306442756299067394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306415023489646600,
+					"id_str": "1306415023489646597",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFRisxVgAUbi6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFRisxVgAUbi6k.jpg",
+					"url": "https://t.co/NCYbLJXvUa",
+					"display_url": "pic.twitter.com/NCYbLJXvUa",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1306442756299067394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306415023497998300,
+					"id_str": "1306415023497998338",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFRiszU8AIHxBY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFRiszU8AIHxBY.jpg",
+					"url": "https://t.co/NCYbLJXvUa",
+					"display_url": "pic.twitter.com/NCYbLJXvUa",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1306442756299067394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306415023493849000,
+					"id_str": "1306415023493849089",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFRisyVoAEFEmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFRisyVoAEFEmP.jpg",
+					"url": "https://t.co/NCYbLJXvUa",
+					"display_url": "pic.twitter.com/NCYbLJXvUa",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1306442756299067394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306415023502160000,
+					"id_str": "1306415023502159873",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFRis0UcAEWq9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFRis0UcAEWq9w.jpg",
+					"url": "https://t.co/NCYbLJXvUa",
+					"display_url": "pic.twitter.com/NCYbLJXvUa",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1306442756299067394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1595616,
+			"friends_count": 4846,
+			"listed_count": 2799,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1597908784",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1109,
+		"favorite_count": 2135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상에서 제일 이쁘고 귀여워🥰\n'뚜두뚜두'로 맛남 접수하러 온 블랙핑크 지수🖤❤️\n\nSBS &lt;맛남의 광장&gt;\n☞ 오늘 (17일, 목) 밤 8시 55분 방송!\n\n#맛남의광장 #DeliciousRendezvous #맛남 #백종원 #양세형 #김희철 #김동준 #유병재 #지수 #블랙핑크 #JISOO #BLACKPINK https://t.co/NCYbLJXvUa"
+	},
+	{
 		"created_at": "Thu Sep 17 03:01:19 +0000 2020",
 		"id": 1306427987714355200,
 		"id_str": "1306427987714355200",
