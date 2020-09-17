@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 17 15:19:21 +0000 2020",
+		"id": 1265098846398374000,
+		"id_str": "1306613722962485249",
+		"full_text": "롸버트치킨 sbs 8뉴스  https://t.co/uYIVROUjUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uYIVROUjUU",
+					"expanded_url": "https://youtu.be/N2dCQYNKVw4",
+					"display_url": "youtu.be/N2dCQYNKVw4",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56954384,
+			"id_str": "56954384",
+			"name": "Kang, Ji Young",
+			"screen_name": "MickeyJY",
+			"location": "대한민국 강남구",
+			"description": "한때는 예능PD를 꿈꾸다 현실과 타협,IB에서 몇년간. 그러다 VC가 되었었고, 이제는 앙트레프루너. Robotic kitchen과 모든 부유하는 콘텐츠에 관심이 많습니다. 앞으로는 스타트업대표 로서의 뚱딴지와 치킨이야기를 주로 올릴까 합니다. #스타트업 #startup #chicken",
+			"url": "https://t.co/8oHv12YxgX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8oHv12YxgX",
+							"expanded_url": "http://robertchicken.com",
+							"display_url": "robertchicken.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1979,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Wed Jul 15 07:22:11 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225999052581429248/yDjgOZXv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225999052581429248/yDjgOZXv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56954384/1568936798",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "롸버트치킨 sbs 8뉴스  https://t.co/uYIVROUjUU"
+	},
+	{
 		"created_at": "Thu Sep 17 14:47:51 +0000 2020",
 		"id": 1305317270462361600,
 		"id_str": "1306605794348072961",
