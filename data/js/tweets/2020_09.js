@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 17 09:46:17 +0000 2020",
+		"id": 1306529901776957400,
+		"id_str": "1306529901776957440",
+		"full_text": "Dance with me baby | Recording Making Film\nhttps://t.co/KuuhpGodEI\n#최정윤 #JungyoonChoi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최정윤",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "JungyoonChoi",
+					"indices": [
+						72,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KuuhpGodEI",
+					"expanded_url": "https://youtu.be/3rbtfVyKDpU",
+					"display_url": "youtu.be/3rbtfVyKDpU",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dance with me baby | Recording Making Film\nhttps://t.co/KuuhpGodEI\n#최정윤 #JungyoonChoi"
+	},
+	{
+		"created_at": "Thu Sep 17 09:34:31 +0000 2020",
+		"id": 1306520214733873200,
+		"id_str": "1306526940233433088",
+		"full_text": "백예린이 참여한 The BLANK Shop의 [Tailor] 타이틀곡 'We are all Muse (Feat. 백예린)'가 발매되었습니다. 지금 바로 모든 음원 사이트에서 감상하실 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306520213144236000,
+		"in_reply_to_status_id_str": "1306520213144236032",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl\ncontact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13612,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "백예린이 참여한 The BLANK Shop의 [Tailor] 타이틀곡 'We are all Muse (Feat. 백예린)'가 발매되었습니다. 지금 바로 모든 음원 사이트에서 감상하실 수 있습니다."
+	},
+	{
+		"created_at": "Thu Sep 17 09:34:29 +0000 2020",
+		"id": 1306520213144236000,
+		"id_str": "1306526931190452224",
+		"full_text": "[Release] The BLANK Shop [Tailor] 'We are all Muse (Feat. 백예린)'\n\nThe BLANK Shop’s 'We are all Muse (Feat. Yerin Baek)' is now released on all streaming sites!\n\n#백예린 #yerinbaek https://t.co/lVZTBJGAAl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						165,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lVZTBJGAAl",
+					"expanded_url": "https://twitter.com/antennamusic/status/1306518449556877312",
+					"display_url": "twitter.com/antennamusic/s…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl\ncontact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13612,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306518449556877300,
+		"quoted_status_id_str": "1306518449556877312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lVZTBJGAAl",
+			"expanded": "https://twitter.com/antennamusic/status/1306518449556877312",
+			"display": "twitter.com/antennamusic/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 17 09:00:46 +0000 2020",
+			"id": 1306518449556877300,
+			"id_str": "1306518449556877312",
+			"full_text": "[Release]\n\nThe BLANK Shop &lt;Tailor&gt; OUT NOW!\n\n✔️ 사랑노래 (Feat. 원필(DAY6))\n https://t.co/1eHIgdo2mE \n\n✔️ We are all Muse (Feat. 백예린) \n https://t.co/ySihIjaS2V\n\n@SCJAZZY\n\n#TheBLANKShop #Tailor #윤석철\n\n#사랑노래 #Lovesong #WeareallMuse\n#원필 #DAY6 #백예린",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheBLANKShop",
+						"indices": [
+							171,
+							184
+						]
+					},
+					{
+						"text": "Tailor",
+						"indices": [
+							185,
+							192
+						]
+					},
+					{
+						"text": "윤석철",
+						"indices": [
+							193,
+							197
+						]
+					},
+					{
+						"text": "사랑노래",
+						"indices": [
+							199,
+							204
+						]
+					},
+					{
+						"text": "Lovesong",
+						"indices": [
+							205,
+							214
+						]
+					},
+					{
+						"text": "WeareallMuse",
+						"indices": [
+							215,
+							228
+						]
+					},
+					{
+						"text": "원필",
+						"indices": [
+							229,
+							232
+						]
+					},
+					{
+						"text": "DAY6",
+						"indices": [
+							233,
+							238
+						]
+					},
+					{
+						"text": "백예린",
+						"indices": [
+							239,
+							243
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SCJAZZY",
+						"name": "윤석철",
+						"id": 129854311,
+						"id_str": "129854311",
+						"indices": [
+							161,
+							169
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1eHIgdo2mE",
+						"expanded_url": "https://youtu.be/Il-0Pqg92gk",
+						"display_url": "youtu.be/Il-0Pqg92gk",
+						"indices": [
+							77,
+							100
+						]
+					},
+					{
+						"url": "https://t.co/ySihIjaS2V",
+						"expanded_url": "https://youtu.be/7uh_TBl40iQ",
+						"display_url": "youtu.be/7uh_TBl40iQ",
+						"indices": [
+							136,
+							159
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 266004552,
+				"id_str": "266004552",
+				"name": "안테나 Antenna",
+				"screen_name": "antennamusic",
+				"location": "대한민국 서울",
+				"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seunghwan, Lee Jin Ah, CHAI, Yun Seokcheol, Jukjae Official",
+				"url": "https://t.co/CqfXN7It7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CqfXN7It7U",
+								"expanded_url": "http://www.antenna.co.kr",
+								"display_url": "antenna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34630,
+				"friends_count": 10,
+				"listed_count": 366,
+				"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3251,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1599835677",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 635,
+			"favorite_count": 555,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 261,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Release] The BLANK Shop [Tailor] 'We are all Muse (Feat. 백예린)'\n\nThe BLANK Shop’s 'We are all Muse (Feat. Yerin Baek)' is now released on all streaming sites!\n\n#백예린 #yerinbaek https://t.co/lVZTBJGAAl"
+	},
+	{
+		"created_at": "Thu Sep 17 09:34:24 +0000 2020",
+		"id": 1306518255058657300,
+		"id_str": "1306526909631795200",
+		"full_text": "CHUNG HA x Christopher\n‘Bad Boy’\nSep 23 6:00PM (KST)\n\n#청하 #CHUNGHA\n#크리스토퍼 #Christopher\n@StopherMusic https://t.co/n7Z4abevf7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "크리스토퍼",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "Christopher",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StopherMusic",
+					"name": "Christopher",
+					"id": 361107109,
+					"id_str": "361107109",
+					"indices": [
+						87,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306515523618795500,
+					"id_str": "1306515523618795520",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGs8k7U8AA1Ban.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGs8k7U8AA1Ban.jpg",
+					"url": "https://t.co/n7Z4abevf7",
+					"display_url": "pic.twitter.com/n7Z4abevf7",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1306518255058657280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306515523618795500,
+					"id_str": "1306515523618795520",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGs8k7U8AA1Ban.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGs8k7U8AA1Ban.jpg",
+					"url": "https://t.co/n7Z4abevf7",
+					"display_url": "pic.twitter.com/n7Z4abevf7",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1306518255058657280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287001,
+			"friends_count": 0,
+			"listed_count": 1754,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1112,
+		"favorite_count": 3203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA x Christopher\n‘Bad Boy’\nSep 23 6:00PM (KST)\n\n#청하 #CHUNGHA\n#크리스토퍼 #Christopher\n@StopherMusic https://t.co/n7Z4abevf7"
+	},
+	{
+		"created_at": "Thu Sep 17 09:21:09 +0000 2020",
+		"id": 1306523575357235200,
+		"id_str": "1306523575357235200",
+		"full_text": "#EDAM엔터테인먼트 #카카오M\n[집콕시그널2] 집콕 액션 교실 Ep.1\nhttps://t.co/iOIyi8WkvO\n#아이유 #IU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDAM엔터테인먼트",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "카카오M",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						70,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iOIyi8WkvO",
+					"expanded_url": "https://youtu.be/9fjfi7DbTiA",
+					"display_url": "youtu.be/9fjfi7DbTiA",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 946,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EDAM엔터테인먼트 #카카오M\n[집콕시그널2] 집콕 액션 교실 Ep.1\nhttps://t.co/iOIyi8WkvO\n#아이유 #IU"
+	},
+	{
 		"created_at": "Thu Sep 17 08:34:30 +0000 2020",
 		"id": 1306509218065731600,
 		"id_str": "1306511836561408001",
