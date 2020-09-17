@@ -1,6 +1,1110 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 17 17:46:36 +0000 2020",
+		"id": 1306576088101990400,
+		"id_str": "1306650776870088709",
+		"full_text": "[INSTAGRAM POST]\n\n#광고 @.prada @.voguekorea #PradaFW20\nhttps://t.co/TQqXWSkmUZ\n\n#RedVelvet #레드벨벳 #Irene #아이린 #RVF @RVsmtown \n200917 · 21:49:18 KST https://t.co/qlyXAiIbao",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "PradaFW20",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "Irene",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TQqXWSkmUZ",
+					"expanded_url": "https://www.instagram.com/p/CFPPu1lA-Zy",
+					"display_url": "instagram.com/p/CFPPu1lA-Zy",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306576044648996900,
+					"id_str": "1306576044648996864",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306576044648996864/pu/img/mXt0NsKXoAG3w6tg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306576044648996864/pu/img/mXt0NsKXoAG3w6tg.jpg",
+					"url": "https://t.co/qlyXAiIbao",
+					"display_url": "pic.twitter.com/qlyXAiIbao",
+					"expanded_url": "https://twitter.com/sicmundusce/status/1306576085488930816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1306576085488930800,
+					"source_status_id_str": "1306576085488930816",
+					"source_user_id": 755094464905945100,
+					"source_user_id_str": "755094464905945088"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306576044648996900,
+					"id_str": "1306576044648996864",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306576044648996864/pu/img/mXt0NsKXoAG3w6tg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306576044648996864/pu/img/mXt0NsKXoAG3w6tg.jpg",
+					"url": "https://t.co/qlyXAiIbao",
+					"display_url": "pic.twitter.com/qlyXAiIbao",
+					"expanded_url": "https://twitter.com/sicmundusce/status/1306576085488930816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1306576085488930800,
+					"source_status_id_str": "1306576085488930816",
+					"source_user_id": 755094464905945100,
+					"source_user_id_str": "755094464905945088",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 32467,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1306576044648996864/pu/pl/x1TkErRGIO2RgVJ9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306576044648996864/pu/vid/720x720/T-F54UE1qOZ64bHE.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306576044648996864/pu/vid/320x320/Phe_Y0Sk_HaQStLd.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306576044648996864/pu/vid/480x480/etNtYdudS4ByWnRe.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 755094464905945100,
+							"id_str": "755094464905945088",
+							"name": "ʀᴠʟᴠᴛ 📺",
+							"screen_name": "sicmundusce",
+							"location": "",
+							"description": "RVLVT 📺 | You shouldn't be here. Please don't RT and like the videos 🙏🏻",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 757,
+							"friends_count": 0,
+							"listed_count": 22,
+							"created_at": "Mon Jul 18 17:38:44 +0000 2016",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 314,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1266985433566568450/RCS6-Uf1_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266985433566568450/RCS6-Uf1_normal.png",
+							"profile_link_color": "F58EA8",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/rvlvt\" rel=\"nofollow\">irenestgrm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174257702882689000,
+			"id_str": "1174257702882689026",
+			"name": "irenestgrm",
+			"screen_name": "renestgrm",
+			"location": "",
+			"description": "Irene's Instagram Updates. Also follow: @rvstgrm @wanstgrm @seulstgrm @joystgrm @yeristgrm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28411,
+			"friends_count": 0,
+			"listed_count": 547,
+			"created_at": "Wed Sep 18 09:43:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267035128972247040/612UzhQh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267035128972247040/612UzhQh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174257702882689026/1590933057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 939,
+		"favorite_count": 1433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[INSTAGRAM POST]\n\n#광고 @.prada @.voguekorea #PradaFW20\nhttps://t.co/TQqXWSkmUZ\n\n#RedVelvet #레드벨벳 #Irene #아이린 #RVF @RVsmtown \n200917 · 21:49:18 KST https://t.co/qlyXAiIbao"
+	},
+	{
+		"created_at": "Thu Sep 17 17:46:34 +0000 2020",
+		"id": 1306566636644847600,
+		"id_str": "1306650770696142850",
+		"full_text": "[INSTAGRAM POST] - 3P\n\n#광고 @.prada @.voguekorea #PradaFW20\nhttps://t.co/Hi7Dmy3N7H\n\n#RedVelvet #레드벨벳 #Irene #아이린 #RVF @RVsmtown \n200917 · 21:11:33 KST https://t.co/e4oWbMMh6U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "PradaFW20",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "Irene",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hi7Dmy3N7H",
+					"expanded_url": "https://www.instagram.com/p/CFPLgG5AitL",
+					"display_url": "instagram.com/p/CFPLgG5AitL",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306566559457050600,
+					"id_str": "1306566559457050625",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHbXQPXgAEVYwZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHbXQPXgAEVYwZ.jpg",
+					"url": "https://t.co/e4oWbMMh6U",
+					"display_url": "pic.twitter.com/e4oWbMMh6U",
+					"expanded_url": "https://twitter.com/renestgrm/status/1306566636644847616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306566559457050600,
+					"id_str": "1306566559457050625",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHbXQPXgAEVYwZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHbXQPXgAEVYwZ.jpg",
+					"url": "https://t.co/e4oWbMMh6U",
+					"display_url": "pic.twitter.com/e4oWbMMh6U",
+					"expanded_url": "https://twitter.com/renestgrm/status/1306566636644847616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306566587755966500,
+					"id_str": "1306566587755966464",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHbY5qWsAAQPgQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHbY5qWsAAQPgQ.jpg",
+					"url": "https://t.co/e4oWbMMh6U",
+					"display_url": "pic.twitter.com/e4oWbMMh6U",
+					"expanded_url": "https://twitter.com/renestgrm/status/1306566636644847616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306566613492265000,
+					"id_str": "1306566613492264963",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHbaZiXcAM50Vf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHbaZiXcAM50Vf.jpg",
+					"url": "https://t.co/e4oWbMMh6U",
+					"display_url": "pic.twitter.com/e4oWbMMh6U",
+					"expanded_url": "https://twitter.com/renestgrm/status/1306566636644847616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/rvlvt\" rel=\"nofollow\">irenestgrm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174257702882689000,
+			"id_str": "1174257702882689026",
+			"name": "irenestgrm",
+			"screen_name": "renestgrm",
+			"location": "",
+			"description": "Irene's Instagram Updates. Also follow: @rvstgrm @wanstgrm @seulstgrm @joystgrm @yeristgrm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28411,
+			"friends_count": 0,
+			"listed_count": 547,
+			"created_at": "Wed Sep 18 09:43:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267035128972247040/612UzhQh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267035128972247040/612UzhQh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174257702882689026/1590933057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1849,
+		"favorite_count": 2469,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[INSTAGRAM POST] - 3P\n\n#광고 @.prada @.voguekorea #PradaFW20\nhttps://t.co/Hi7Dmy3N7H\n\n#RedVelvet #레드벨벳 #Irene #아이린 #RVF @RVsmtown \n200917 · 21:11:33 KST https://t.co/e4oWbMMh6U"
+	},
+	{
+		"created_at": "Thu Sep 17 17:46:32 +0000 2020",
+		"id": 1306566272876978200,
+		"id_str": "1306650763070902272",
+		"full_text": "[INSTAGRAM POST]\n\n#광고 @.prada @.voguekorea #PradaFW20\nhttps://t.co/KGNwgYorNc\n\n#RedVelvet #레드벨벳 #Irene #아이린 #RVF @RVsmtown \n200917 · 21:09:52 KST https://t.co/lyC6g6lWmZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "PradaFW20",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "Irene",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KGNwgYorNc",
+					"expanded_url": "https://www.instagram.com/p/CFPLDTDAhDV",
+					"display_url": "instagram.com/p/CFPLDTDAhDV",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306566224776749000,
+					"id_str": "1306566224776749057",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306566224776749057/pu/img/mKus7j3jjoZcZrWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306566224776749057/pu/img/mKus7j3jjoZcZrWp.jpg",
+					"url": "https://t.co/lyC6g6lWmZ",
+					"display_url": "pic.twitter.com/lyC6g6lWmZ",
+					"expanded_url": "https://twitter.com/sicmundusce/status/1306566271203446785/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1306566271203446800,
+					"source_status_id_str": "1306566271203446785",
+					"source_user_id": 755094464905945100,
+					"source_user_id_str": "755094464905945088"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306566224776749000,
+					"id_str": "1306566224776749057",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306566224776749057/pu/img/mKus7j3jjoZcZrWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306566224776749057/pu/img/mKus7j3jjoZcZrWp.jpg",
+					"url": "https://t.co/lyC6g6lWmZ",
+					"display_url": "pic.twitter.com/lyC6g6lWmZ",
+					"expanded_url": "https://twitter.com/sicmundusce/status/1306566271203446785/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1306566271203446800,
+					"source_status_id_str": "1306566271203446785",
+					"source_user_id": 755094464905945100,
+					"source_user_id_str": "755094464905945088",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 32700,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306566224776749057/pu/vid/480x480/emhQ_ukajTZcVoni.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306566224776749057/pu/vid/320x320/qtE-YW_9LSy8Jjd7.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306566224776749057/pu/vid/720x720/wWociKK2TYefALek.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1306566224776749057/pu/pl/Kmxeg0eXPQ-kfql4.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 755094464905945100,
+							"id_str": "755094464905945088",
+							"name": "ʀᴠʟᴠᴛ 📺",
+							"screen_name": "sicmundusce",
+							"location": "",
+							"description": "RVLVT 📺 | You shouldn't be here. Please don't RT and like the videos 🙏🏻",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 757,
+							"friends_count": 0,
+							"listed_count": 22,
+							"created_at": "Mon Jul 18 17:38:44 +0000 2016",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 314,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1266985433566568450/RCS6-Uf1_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266985433566568450/RCS6-Uf1_normal.png",
+							"profile_link_color": "F58EA8",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/rvlvt\" rel=\"nofollow\">irenestgrm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174257702882689000,
+			"id_str": "1174257702882689026",
+			"name": "irenestgrm",
+			"screen_name": "renestgrm",
+			"location": "",
+			"description": "Irene's Instagram Updates. Also follow: @rvstgrm @wanstgrm @seulstgrm @joystgrm @yeristgrm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28411,
+			"friends_count": 0,
+			"listed_count": 547,
+			"created_at": "Wed Sep 18 09:43:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267035128972247040/612UzhQh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267035128972247040/612UzhQh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174257702882689026/1590933057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1483,
+		"favorite_count": 1840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[INSTAGRAM POST]\n\n#광고 @.prada @.voguekorea #PradaFW20\nhttps://t.co/KGNwgYorNc\n\n#RedVelvet #레드벨벳 #Irene #아이린 #RVF @RVsmtown \n200917 · 21:09:52 KST https://t.co/lyC6g6lWmZ"
+	},
+	{
+		"created_at": "Thu Sep 17 17:39:15 +0000 2020",
+		"id": 1306627349845172200,
+		"id_str": "1306648928155131904",
+		"full_text": "동료 예술가들이과 함께 제도에 보호받지 못하고, 보호받지 못하니 생활고에 시달리고, 온라인 몰에서 헐값에 원화를 팔고, 낮아진 단가와 인식에 타격을 입다 보면 가끔 어떤 말도 하기가 힘들어지곤 한다.\n타협이 필요할 수는 있지만, 이건 좀 아니란 생각이 자주 든다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1306625958711947300,
+		"in_reply_to_status_id_str": "1306625958711947266",
+		"in_reply_to_user_id": 564627167,
+		"in_reply_to_user_id_str": "564627167",
+		"in_reply_to_screen_name": "firecrackercity",
+		"user": {
+			"id": 564627167,
+			"id_str": "564627167",
+			"name": "박인주 | 爆竹都市",
+			"screen_name": "firecrackercity",
+			"location": "",
+			"description": "접어놨던 삶의 귀퉁이를 펴냅니다 CONTACT:silen9797@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8230,
+			"friends_count": 85,
+			"listed_count": 28,
+			"created_at": "Fri Apr 27 13:55:12 +0000 2012",
+			"favourites_count": 2651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273651013212200961/kbhms7wO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273651013212200961/kbhms7wO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/564627167/1596255973",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "동료 예술가들이과 함께 제도에 보호받지 못하고, 보호받지 못하니 생활고에 시달리고, 온라인 몰에서 헐값에 원화를 팔고, 낮아진 단가와 인식에 타격을 입다 보면 가끔 어떤 말도 하기가 힘들어지곤 한다.\n타협이 필요할 수는 있지만, 이건 좀 아니란 생각이 자주 든다."
+	},
+	{
+		"created_at": "Thu Sep 17 17:39:14 +0000 2020",
+		"id": 1306625958711947300,
+		"id_str": "1306648922635427840",
+		"full_text": "설치 비용, 노동력이 개인적으로 많이 소모되는 것은 둘째치고, 한 푼도 주지 않으면서 갤러리 홍보효과까지 갖고 싶어하는 경우가 대부분이고, '예술인 인증인가 뭔가 받으려면 전시 확인증 있어야 한다면서요?'라며 생색내는 경우도 많은데, 너무 폭력적인 자세라 생각한다. 개선이 됐으면 좋겠지만",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1306618742269337600,
+		"in_reply_to_status_id_str": "1306618742269337600",
+		"in_reply_to_user_id": 564627167,
+		"in_reply_to_user_id_str": "564627167",
+		"in_reply_to_screen_name": "firecrackercity",
+		"user": {
+			"id": 564627167,
+			"id_str": "564627167",
+			"name": "박인주 | 爆竹都市",
+			"screen_name": "firecrackercity",
+			"location": "",
+			"description": "접어놨던 삶의 귀퉁이를 펴냅니다 CONTACT:silen9797@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8230,
+			"friends_count": 85,
+			"listed_count": 28,
+			"created_at": "Fri Apr 27 13:55:12 +0000 2012",
+			"favourites_count": 2651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273651013212200961/kbhms7wO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273651013212200961/kbhms7wO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/564627167/1596255973",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "설치 비용, 노동력이 개인적으로 많이 소모되는 것은 둘째치고, 한 푼도 주지 않으면서 갤러리 홍보효과까지 갖고 싶어하는 경우가 대부분이고, '예술인 인증인가 뭔가 받으려면 전시 확인증 있어야 한다면서요?'라며 생색내는 경우도 많은데, 너무 폭력적인 자세라 생각한다. 개선이 됐으면 좋겠지만"
+	},
+	{
 		"created_at": "Thu Sep 17 15:34:24 +0000 2020",
 		"id": 1306608854872932400,
 		"id_str": "1306617506862428161",
