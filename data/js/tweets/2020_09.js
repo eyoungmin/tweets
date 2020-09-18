@@ -1,6 +1,738 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 13:53:34 +0000 2020",
+		"id": 1306812296572801000,
+		"id_str": "1306954521902366721",
+		"full_text": "정부, 추석 연휴 '한국 영화' 3백 편 무료 제공 #KBS뉴스 #KBS https://t.co/UzZCu5bHFl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						36,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UzZCu5bHFl",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=5007650",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "KBS뉴스는 시청자 여러분과 함께 만들어 갑니다. \n뉴스제보는 카카오톡, KBS뉴스앱 또는 kbs1234@kbs.co.kr로 전해주세요.",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426475,
+			"friends_count": 106885,
+			"listed_count": 4587,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 144790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250591183543271424/fK5Hq8NW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250591183543271424/fK5Hq8NW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1593418705",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5204,
+		"favorite_count": 1622,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정부, 추석 연휴 '한국 영화' 3백 편 무료 제공 #KBS뉴스 #KBS https://t.co/UzZCu5bHFl"
+	},
+	{
+		"created_at": "Fri Sep 18 13:40:05 +0000 2020",
+		"id": 1306735666387181600,
+		"id_str": "1306951126067982337",
+		"full_text": "BLACKPINK in your area and on the cover of ELLE! For our October issue, the biggest girl group in the world—#Lisa, #Jennie, #Rosé, and #Jisoo—take us inside their journey to world domination. @BLACKPINK #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/1r5SQHpJs1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lisa",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "Rosé",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "Jisoo",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "BLACKPINKxELLE",
+					"indices": [
+						203,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1r5SQHpJs1",
+					"expanded_url": "http://ellemag.co/rsHomsO",
+					"display_url": "ellemag.co/rsHomsO",
+					"indices": [
+						219,
+						242
+					]
+				},
+				{
+					"url": "https://t.co/1r5SQHpJs1",
+					"expanded_url": "http://ellemag.co/rsHomsO",
+					"display_url": "ellemag.co/rsHomsO",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20177423,
+			"id_str": "20177423",
+			"name": "ELLE Magazine (US)",
+			"screen_name": "ELLEmagazine",
+			"location": "",
+			"description": "Fashion. Beauty. Celebrity. Culture. \nFollow ELLE on Instagram and YouTube: https://t.co/oPpHBvsBRv https://t.co/x1Rwchuvn0",
+			"url": "http://t.co/54wdRJ8G1n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/54wdRJ8G1n",
+							"expanded_url": "http://elle.com",
+							"display_url": "elle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oPpHBvsBRv",
+							"expanded_url": "http://instagram.com/elleusa/",
+							"display_url": "instagram.com/elleusa/",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/x1Rwchuvn0",
+							"expanded_url": "http://youtube.com/elle",
+							"display_url": "youtube.com/elle",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6708089,
+			"friends_count": 1191,
+			"listed_count": 18156,
+			"created_at": "Thu Feb 05 19:26:15 +0000 2009",
+			"favourites_count": 6684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 225184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D7DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20177423/1600347086",
+			"profile_link_color": "AB135A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9962,
+		"favorite_count": 28152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK in your area and on the cover of ELLE! For our October issue, the biggest girl group in the world—#Lisa, #Jennie, #Rosé, and #Jisoo—take us inside their journey to world domination. @BLACKPINK #BLACKPINKxELLE https://t.co/1r5SQHpJs1 https://t.co/1r5SQHpJs1"
+	},
+	{
+		"created_at": "Fri Sep 18 13:39:48 +0000 2020",
+		"id": 1306863115259187200,
+		"id_str": "1306951054530023425",
+		"full_text": "프리랜서의 삶에 대해 퍼블리(@publy_ )에서 인터뷰했어요! 프리랜서 전향을 계획하는 분들, 아니면 저처럼 직업+프리랜서 투트랙의 삶을 생각하고 계신 분들께 도움이 될 내용입니다...☆\n\n인터뷰 링크: https://t.co/n5sGOHGviC\n(위의 링크로 들어가시면 첫 달 이용료가 9900원으로 할인됩니다&gt;&lt;) https://t.co/yxFv4Quasc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "publy_",
+					"name": "퍼블리 | PUBLY",
+					"id": 3161247421,
+					"id_str": "3161247421",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n5sGOHGviC",
+					"expanded_url": "https://publy.co/set/1010?referrer=hvimt3",
+					"display_url": "publy.co/set/1010?refer…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306863109013790700,
+					"id_str": "1306863109013790723",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLpEtbUYAM7i8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLpEtbUYAM7i8S.jpg",
+					"url": "https://t.co/yxFv4Quasc",
+					"display_url": "pic.twitter.com/yxFv4Quasc",
+					"expanded_url": "https://twitter.com/alreadytaken0_0/status/1306863115259187200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306863109013790700,
+					"id_str": "1306863109013790723",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLpEtbUYAM7i8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLpEtbUYAM7i8S.jpg",
+					"url": "https://t.co/yxFv4Quasc",
+					"display_url": "pic.twitter.com/yxFv4Quasc",
+					"expanded_url": "https://twitter.com/alreadytaken0_0/status/1306863115259187200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110121306,
+			"id_str": "110121306",
+			"name": "서밤",
+			"screen_name": "alreadytaken0_0",
+			"location": "",
+			"description": "'우리의 사랑은 언제 불행해질까’ 작가. 틈틈이 그림일기 그립니다, 팟캐스트 '서늘한 마음썰'. 인스타 @seobam_breeze 반말멘션과 알계는 자동차단중",
+			"url": "https://t.co/IRePmo51Dq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IRePmo51Dq",
+							"expanded_url": "https://bit.ly/38qZ0xd",
+							"display_url": "bit.ly/38qZ0xd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33210,
+			"friends_count": 1499,
+			"listed_count": 73,
+			"created_at": "Sun Jan 31 12:11:21 +0000 2010",
+			"favourites_count": 35567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110121306/1489064492",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프리랜서의 삶에 대해 퍼블리(@publy_ )에서 인터뷰했어요! 프리랜서 전향을 계획하는 분들, 아니면 저처럼 직업+프리랜서 투트랙의 삶을 생각하고 계신 분들께 도움이 될 내용입니다...☆\n\n인터뷰 링크: https://t.co/n5sGOHGviC\n(위의 링크로 들어가시면 첫 달 이용료가 9900원으로 할인됩니다&gt;&lt;) https://t.co/yxFv4Quasc"
+	},
+	{
+		"created_at": "Fri Sep 18 13:36:21 +0000 2020",
+		"id": 1306950189824061400,
+		"id_str": "1306950189824061452",
+		"full_text": "#이달의소녀 #LOONA\n[이달의 소녀] 달의 주파수 ep.28 | 이달의 소녀(LOONA)\nhttps://t.co/ehBtVgTRvk\n#VLIVE #브이앱 #브이라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "브이라이브",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ehBtVgTRvk",
+					"expanded_url": "https://www.vlive.tv/video/213643",
+					"display_url": "vlive.tv/video/213643",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA\n[이달의 소녀] 달의 주파수 ep.28 | 이달의 소녀(LOONA)\nhttps://t.co/ehBtVgTRvk\n#VLIVE #브이앱 #브이라이브"
+	},
+	{
+		"created_at": "Fri Sep 18 13:34:24 +0000 2020",
+		"id": 1306938190738137000,
+		"id_str": "1306949696083156998",
+		"full_text": "모노트리 라이브!\nhttps://t.co/eBpbQ5Y4zm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eBpbQ5Y4zm",
+					"expanded_url": "https://www.youtube.com/watch?v=GIw3Po16utg&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=GIw3Po…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6730,
+			"friends_count": 0,
+			"listed_count": 48,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모노트리 라이브!\nhttps://t.co/eBpbQ5Y4zm"
+	},
+	{
 		"created_at": "Fri Sep 18 12:59:23 +0000 2020",
 		"id": 1306940886689943600,
 		"id_str": "1306940886689943552",
@@ -933,7 +1665,7 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 166651117,
 			"id_str": "166651117",
-			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"name": "44BITS 기술 블로그 👩💻👨💻",
 			"screen_name": "fortyfourbits",
 			"location": "Republic of Korea",
 			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
