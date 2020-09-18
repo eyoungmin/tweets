@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 03:34:33 +0000 2020",
+		"id": 1306790143295197200,
+		"id_str": "1306798738405498888",
+		"full_text": "[이달의소녀킼킼 #214]\n완벽한 #진솔 각도를 찾기 위한 노력🐸\n\n#이달의소녀 #LOONA #LOONAKick #Jinsoul https://t.co/T7nV1r6S1i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "Jinsoul",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306790072168132600,
+					"id_str": "1306790072168132614",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306790072168132614/pu/img/1sgXXCK31sc45jxY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306790072168132614/pu/img/1sgXXCK31sc45jxY.jpg",
+					"url": "https://t.co/T7nV1r6S1i",
+					"display_url": "pic.twitter.com/T7nV1r6S1i",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1306790143295197186/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306790072168132600,
+					"id_str": "1306790072168132614",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306790072168132614/pu/img/1sgXXCK31sc45jxY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306790072168132614/pu/img/1sgXXCK31sc45jxY.jpg",
+					"url": "https://t.co/T7nV1r6S1i",
+					"display_url": "pic.twitter.com/T7nV1r6S1i",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1306790143295197186/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 13246,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306790072168132614/pu/vid/320x570/3K0DVlAB9rs4kRx7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306790072168132614/pu/vid/404x720/J60-MuSaN1xZDJrJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1306790072168132614/pu/pl/12qTuJ5B3TgvUvW3.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 527402,
+			"friends_count": 0,
+			"listed_count": 5541,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6182,
+		"favorite_count": 17006,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #214]\n완벽한 #진솔 각도를 찾기 위한 노력🐸\n\n#이달의소녀 #LOONA #LOONAKick #Jinsoul https://t.co/T7nV1r6S1i"
+	},
+	{
+		"created_at": "Fri Sep 18 03:27:57 +0000 2020",
+		"id": 1306787381627039700,
+		"id_str": "1306797079231115265",
+		"full_text": "Check out #YERI💜🐢 pulling off different vibes with her modern portrait with &lt;#DAZED&gt; October issue🍂\n\n모던한 포트레이트 화보를 통해 다양한 모습을 소화한 #예리💜🐢 를 &lt;#데이즈드&gt; 10월호에서 함께 만나보세요!🍂\n\n#레드벨벳#RedVelvet https://t.co/PWXugYWSqw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "DAZED",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306787364769915000,
+					"id_str": "1306787364769914882",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKkL0IUYAIScWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKkL0IUYAIScWN.jpg",
+					"url": "https://t.co/PWXugYWSqw",
+					"display_url": "pic.twitter.com/PWXugYWSqw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1306787381627039744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306787364769915000,
+					"id_str": "1306787364769914882",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKkL0IUYAIScWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKkL0IUYAIScWN.jpg",
+					"url": "https://t.co/PWXugYWSqw",
+					"display_url": "pic.twitter.com/PWXugYWSqw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1306787381627039744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306787365218730000,
+					"id_str": "1306787365218729984",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKkL1zUwAAF5pl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKkL1zUwAAF5pl.jpg",
+					"url": "https://t.co/PWXugYWSqw",
+					"display_url": "pic.twitter.com/PWXugYWSqw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1306787381627039744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306787364807692300,
+					"id_str": "1306787364807692289",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKkL0RU0AExP0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKkL0RU0AExP0P.jpg",
+					"url": "https://t.co/PWXugYWSqw",
+					"display_url": "pic.twitter.com/PWXugYWSqw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1306787381627039744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306787364828622800,
+					"id_str": "1306787364828622848",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKkL0WUMAAgxdB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKkL0WUMAAgxdB.jpg",
+					"url": "https://t.co/PWXugYWSqw",
+					"display_url": "pic.twitter.com/PWXugYWSqw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1306787381627039744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3187926,
+			"friends_count": 1,
+			"listed_count": 6706,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9121,
+		"favorite_count": 25026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Check out #YERI💜🐢 pulling off different vibes with her modern portrait with &lt;#DAZED&gt; October issue🍂\n\n모던한 포트레이트 화보를 통해 다양한 모습을 소화한 #예리💜🐢 를 &lt;#데이즈드&gt; 10월호에서 함께 만나보세요!🍂\n\n#레드벨벳#RedVelvet https://t.co/PWXugYWSqw"
+	},
+	{
 		"created_at": "Fri Sep 18 03:01:16 +0000 2020",
 		"id": 1306790365953839000,
 		"id_str": "1306790365953839105",
