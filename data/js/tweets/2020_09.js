@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 19:10:42 +0000 2020",
+		"id": 1306826855027105800,
+		"id_str": "1307034328698777600",
+		"full_text": "2020년 9월 18일 오늘! \n국세청 홍보대사 #아이유 데뷔 12주년을 축하드립니다! \n앞으로도 성실 납세로 선한 영향력을 펼칠 아이유 님을 응원해요~!\n\n#국세청 #성실납세 #모범납세자 #아이유와_함께쓴_열두번째_사랑시 #아이유_데뷔12주년 #아이유_데뷔12주년_축하해요 #12YearsWithIU #IU #이지은 https://t.co/wTdoacK4up",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "국세청",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "성실납세",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "모범납세자",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "아이유와_함께쓴_열두번째_사랑시",
+					"indices": [
+						106,
+						124
+					]
+				},
+				{
+					"text": "아이유_데뷔12주년",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"text": "아이유_데뷔12주년_축하해요",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"text": "12YearsWithIU",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						173,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306826795207909400,
+					"id_str": "1306826795207909376",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLIC99UYAAmp_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLIC99UYAAmp_P.jpg",
+					"url": "https://t.co/wTdoacK4up",
+					"display_url": "pic.twitter.com/wTdoacK4up",
+					"expanded_url": "https://twitter.com/ntskorea/status/1306826855027105793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 510,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 510,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306826795207909400,
+					"id_str": "1306826795207909376",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLIC99UYAAmp_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLIC99UYAAmp_P.jpg",
+					"url": "https://t.co/wTdoacK4up",
+					"display_url": "pic.twitter.com/wTdoacK4up",
+					"expanded_url": "https://twitter.com/ntskorea/status/1306826855027105793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 510,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 510,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144767345,
+			"id_str": "144767345",
+			"name": "국세청",
+			"screen_name": "ntskorea",
+			"location": "Republic of Korea",
+			"description": "안녕하세요? 국세청(세정홍보과)에서 운영하는 공식 트위터입니다.",
+			"url": "http://t.co/qxZQNeYEnK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qxZQNeYEnK",
+							"expanded_url": "http://nts.go.kr",
+							"display_url": "nts.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46326,
+			"friends_count": 11873,
+			"listed_count": 621,
+			"created_at": "Mon May 17 07:16:39 +0000 2010",
+			"favourites_count": 2505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/735017023097307136/067IMyH8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/735017023097307136/067IMyH8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144767345/1593138242",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1124,
+		"favorite_count": 1790,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020년 9월 18일 오늘! \n국세청 홍보대사 #아이유 데뷔 12주년을 축하드립니다! \n앞으로도 성실 납세로 선한 영향력을 펼칠 아이유 님을 응원해요~!\n\n#국세청 #성실납세 #모범납세자 #아이유와_함께쓴_열두번째_사랑시 #아이유_데뷔12주년 #아이유_데뷔12주년_축하해요 #12YearsWithIU #IU #이지은 https://t.co/wTdoacK4up"
+	},
+	{
 		"created_at": "Fri Sep 18 16:38:27 +0000 2020",
 		"id": 1306996017091489800,
 		"id_str": "1306996017091489794",
