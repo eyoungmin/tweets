@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 07:27:57 +0000 2020",
+		"id": 1306848189748662300,
+		"id_str": "1306857477582008323",
+		"full_text": "🎵 Sasha Sloan - Dancing With Your Ghost (cover by Yeri)\n👉https://t.co/e8YPS22P4s\n\n#예리 #Yeri #SashaSloan #DancingWithYourGhost #RedVelvet #YerisRoom #예리한방 #레드벨벳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "SashaSloan",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"text": "DancingWithYourGhost",
+					"indices": [
+						104,
+						125
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "YerisRoom",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e8YPS22P4s",
+					"expanded_url": "https://youtu.be/FJqSw-2YHWE",
+					"display_url": "youtu.be/FJqSw-2YHWE",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeri's Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28195,
+			"friends_count": 0,
+			"listed_count": 144,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1591762226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 638,
+		"favorite_count": 1000,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎵 Sasha Sloan - Dancing With Your Ghost (cover by Yeri)\n👉https://t.co/e8YPS22P4s\n\n#예리 #Yeri #SashaSloan #DancingWithYourGhost #RedVelvet #YerisRoom #예리한방 #레드벨벳"
+	},
+	{
+		"created_at": "Fri Sep 18 07:12:03 +0000 2020",
+		"id": 1306853474995515400,
+		"id_str": "1306853474995515392",
+		"full_text": "#SMTOWN #News\nSM엔터테인먼트, ‘2020 국가브랜드 대상’ 문화 기업 부문 수상\nhttps://t.co/P4GnesKUk4\n#SM엔터테인먼트 #minfav https://t.co/AFeBpv7GTd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P4GnesKUk4",
+					"expanded_url": "https://www.smtown.com/news/detail/234",
+					"display_url": "smtown.com/news/detail/234",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306853474123026400,
+					"id_str": "1306853474123026433",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLgT4qWkAE9WZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLgT4qWkAE9WZb.jpg",
+					"url": "https://t.co/AFeBpv7GTd",
+					"display_url": "pic.twitter.com/AFeBpv7GTd",
+					"expanded_url": "https://twitter.com/fromminn/status/1306853474995515392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306853474123026400,
+					"id_str": "1306853474123026433",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLgT4qWkAE9WZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLgT4qWkAE9WZb.jpg",
+					"url": "https://t.co/AFeBpv7GTd",
+					"display_url": "pic.twitter.com/AFeBpv7GTd",
+					"expanded_url": "https://twitter.com/fromminn/status/1306853474995515392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #News\nSM엔터테인먼트, ‘2020 국가브랜드 대상’ 문화 기업 부문 수상\nhttps://t.co/P4GnesKUk4\n#SM엔터테인먼트 #minfav https://t.co/AFeBpv7GTd"
+	},
+	{
 		"created_at": "Fri Sep 18 06:47:23 +0000 2020",
 		"id": 1306847266616086500,
 		"id_str": "1306847266616086530",
