@@ -1,6 +1,1347 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 12:59:23 +0000 2020",
+		"id": 1306940886689943600,
+		"id_str": "1306940886689943552",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 美 유명 패션지 커버..음악·패션 넘나드는 아이콘 ‘주목’\nhttps://t.co/bl14uATBFj\n#블랙핑크 #BLACKPINK https://t.co/bWzDAmNsmb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bl14uATBFj",
+					"expanded_url": "https://yg-life.com/archives/159754?lang=ko",
+					"display_url": "yg-life.com/archives/15975…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306940885532278800,
+					"id_str": "1306940885532278785",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMvz5iWAAEX_Jc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMvz5iWAAEX_Jc.jpg",
+					"url": "https://t.co/bWzDAmNsmb",
+					"display_url": "pic.twitter.com/bWzDAmNsmb",
+					"expanded_url": "https://twitter.com/fromminn/status/1306940886689943552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 585,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 585,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306940885532278800,
+					"id_str": "1306940885532278785",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMvz5iWAAEX_Jc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMvz5iWAAEX_Jc.jpg",
+					"url": "https://t.co/bWzDAmNsmb",
+					"display_url": "pic.twitter.com/bWzDAmNsmb",
+					"expanded_url": "https://twitter.com/fromminn/status/1306940886689943552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 585,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 585,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 美 유명 패션지 커버..음악·패션 넘나드는 아이콘 ‘주목’\nhttps://t.co/bl14uATBFj\n#블랙핑크 #BLACKPINK https://t.co/bWzDAmNsmb"
+	},
+	{
+		"created_at": "Fri Sep 18 12:37:41 +0000 2020",
+		"id": 1306728734037168000,
+		"id_str": "1306935422732263425",
+		"full_text": "‘틱톡글로벌’, 트럼프 승인 시 美 상장 준비 https://t.co/hrFR8xRMAo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hrFR8xRMAo",
+					"expanded_url": "http://www.bloter.net/archives/407807",
+					"display_url": "bloter.net/archives/407807",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54770,
+			"friends_count": 9,
+			"listed_count": 2363,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘틱톡글로벌’, 트럼프 승인 시 美 상장 준비 https://t.co/hrFR8xRMAo"
+	},
+	{
+		"created_at": "Fri Sep 18 12:34:29 +0000 2020",
+		"id": 1306925988819865600,
+		"id_str": "1306934619942649856",
+		"full_text": "오늘 #이달의소녀 달의 주파수 일일 DJ 콩디콩디와 함께한 사연의 주인공은 #김립 #최리 였습니다💌 오빛의 설렘을 함께 공유하고 느낄 수 있어서 더욱 값진 시간이었어요! 앞으로도 기대해 주세요❤️\n\n#LOONA #KimLip #Choerry https://t.co/fceX3eqxFk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306919925718499300,
+					"id_str": "1306919925718499328",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMcv4JUwAATN5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMcv4JUwAATN5C.jpg",
+					"url": "https://t.co/fceX3eqxFk",
+					"display_url": "pic.twitter.com/fceX3eqxFk",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1306925988819865601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306919925718499300,
+					"id_str": "1306919925718499328",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMcv4JUwAATN5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMcv4JUwAATN5C.jpg",
+					"url": "https://t.co/fceX3eqxFk",
+					"display_url": "pic.twitter.com/fceX3eqxFk",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1306925988819865601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306919925722706000,
+					"id_str": "1306919925722705922",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMcv4KU8AI0piJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMcv4KU8AI0piJ.jpg",
+					"url": "https://t.co/fceX3eqxFk",
+					"display_url": "pic.twitter.com/fceX3eqxFk",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1306925988819865601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 527665,
+			"friends_count": 0,
+			"listed_count": 5549,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5738,
+		"favorite_count": 15926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 #이달의소녀 달의 주파수 일일 DJ 콩디콩디와 함께한 사연의 주인공은 #김립 #최리 였습니다💌 오빛의 설렘을 함께 공유하고 느낄 수 있어서 더욱 값진 시간이었어요! 앞으로도 기대해 주세요❤️\n\n#LOONA #KimLip #Choerry https://t.co/fceX3eqxFk"
+	},
+	{
+		"created_at": "Fri Sep 18 12:33:26 +0000 2020",
+		"id": 1306787791787954200,
+		"id_str": "1306934354870808578",
+		"full_text": "GitHub CLI 1.0 정식버전 공개 https://t.co/yJsZmCpJw6 \n전체 깃헙 워크플로우를 커맨드라인에서 실행 가능\n- Clone / Issue (필터링 지원) / Release \n- Pull Request (생성/DIff/리뷰/머지)\n- Alias 및 GitHub API 직접 호출 가능\n- gist 생성 지원 \n- 윈/맥/리눅스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yJsZmCpJw6",
+					"expanded_url": "https://j.mp/35NLJzR",
+					"display_url": "j.mp/35NLJzR",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4018,
+			"friends_count": 0,
+			"listed_count": 59,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "GitHub CLI 1.0 정식버전 공개 https://t.co/yJsZmCpJw6 \n전체 깃헙 워크플로우를 커맨드라인에서 실행 가능\n- Clone / Issue (필터링 지원) / Release \n- Pull Request (생성/DIff/리뷰/머지)\n- Alias 및 GitHub API 직접 호출 가능\n- gist 생성 지원 \n- 윈/맥/리눅스"
+	},
+	{
+		"created_at": "Fri Sep 18 12:33:15 +0000 2020",
+		"id": 1306793968760316000,
+		"id_str": "1306934310121869313",
+		"full_text": "[이슈IN]’데이터 부자’ 네이버가 데이터 판매에 나섰다 https://t.co/pFMAUjIKGm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pFMAUjIKGm",
+					"expanded_url": "http://www.bloter.net/archives/408409",
+					"display_url": "bloter.net/archives/408409",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54770,
+			"friends_count": 9,
+			"listed_count": 2363,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이슈IN]’데이터 부자’ 네이버가 데이터 판매에 나섰다 https://t.co/pFMAUjIKGm"
+	},
+	{
+		"created_at": "Fri Sep 18 12:30:09 +0000 2020",
+		"id": 1306827015593492500,
+		"id_str": "1306933528748154881",
+		"full_text": "애플TV+가 국내 서비스를 시작하려는 정황이 포착되고 있습니다. 지난달 31일 한글 UI 도입과 오리지널 콘텐츠 한국어 자막 추가에 이어, 국내에서 영상 사업을 담당할 인력 채용도 시작했다고.\nhttps://t.co/RmWO4ZMqmG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RmWO4ZMqmG",
+					"expanded_url": "https://news.v.daum.net/v/20200918134402088",
+					"display_url": "news.v.daum.net/v/202009181344…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16001,
+			"friends_count": 746,
+			"listed_count": 88,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애플TV+가 국내 서비스를 시작하려는 정황이 포착되고 있습니다. 지난달 31일 한글 UI 도입과 오리지널 콘텐츠 한국어 자막 추가에 이어, 국내에서 영상 사업을 담당할 인력 채용도 시작했다고.\nhttps://t.co/RmWO4ZMqmG"
+	},
+	{
+		"created_at": "Fri Sep 18 12:29:33 +0000 2020",
+		"id": 1306825853989314600,
+		"id_str": "1306933377522479105",
+		"full_text": "TypeScript를 활용한 서비스개발 [당근마켓] \n#link #typescript #blog\nhttps://t.co/6iXmMTupia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "link",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "typescript",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"text": "blog",
+					"indices": [
+						48,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6iXmMTupia",
+					"expanded_url": "https://medium.com/daangn/typescript%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C-73877a741dbc",
+					"display_url": "medium.com/daangn/typescr…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166651117,
+			"id_str": "166651117",
+			"name": "44BITS 기술 블로그 👩‍💻👨‍💻",
+			"screen_name": "fortyfourbits",
+			"location": "Republic of Korea",
+			"description": "클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스를 주로 다룹니다. 제보 / 문의 / IT 행사 홍보 등은 DM이나 44bits.io@gmail.com로 받습니다. \n\n#cloud #programming #container #linux",
+			"url": "https://t.co/9Ou3Dtkocu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Ou3Dtkocu",
+							"expanded_url": "https://www.44bits.io/ko",
+							"display_url": "44bits.io/ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2498,
+			"friends_count": 86,
+			"listed_count": 35,
+			"created_at": "Wed Jul 14 17:46:41 +0000 2010",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007241563364208640/911Lz0Di_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TypeScript를 활용한 서비스개발 [당근마켓] \n#link #typescript #blog\nhttps://t.co/6iXmMTupia"
+	},
+	{
+		"created_at": "Fri Sep 18 12:26:20 +0000 2020",
+		"id": 1306925948420460500,
+		"id_str": "1306932569263321089",
+		"full_text": "You're watching #BLACKPINK play Song Association with @ellemagazine!\n🎬https://t.co/XAISjkBOv0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						54,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XAISjkBOv0",
+					"expanded_url": "http://youtu.be/MkcHBp4XKxs",
+					"display_url": "youtu.be/MkcHBp4XKxs",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1794798,
+			"friends_count": 0,
+			"listed_count": 2399,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 85,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1598855058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16542,
+		"favorite_count": 42378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You're watching #BLACKPINK play Song Association with @ellemagazine!\n🎬https://t.co/XAISjkBOv0"
+	},
+	{
+		"created_at": "Fri Sep 18 12:22:13 +0000 2020",
+		"id": 1306931530908876800,
+		"id_str": "1306931530908876800",
+		"full_text": "고대디도 그렇다고? 원래 고대디는 믿고 거르는 업체라서 안쓰지만. 최저가 검색, 도메인 주소 브랜딩 해주는 사이트도 쓰지 마세요. 짐작하건데 그 최저가 검색 자체가 문제가 아니라 검색해주는 것을 통해 들어가는 것이  문제 같긴 함. https://t.co/Wc9t5RHfoj https://t.co/t2GxBlScvx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wc9t5RHfoj",
+					"expanded_url": "https://twitter.com/fromminn/status/1295034810994315264",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/t2GxBlScvx",
+					"expanded_url": "https://twitter.com/GeekNewsBot/status/1306785023929061377",
+					"display_url": "twitter.com/GeekNewsBot/st…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306785023929061400,
+		"quoted_status_id_str": "1306785023929061377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/t2GxBlScvx",
+			"expanded": "https://twitter.com/GeekNewsBot/status/1306785023929061377",
+			"display": "twitter.com/GeekNewsBot/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 18 02:40:03 +0000 2020",
+			"id": 1306785023929061400,
+			"id_str": "1306785023929061377",
+			"full_text": "GoDaddy에서 도메인 검색하지 마세요 https://t.co/xKAYq9YfhI \nGoDaddy에서 도메인을 검색했더니, 몇일 후 GoDaddy가 그 도메인을 자신들이 등록해버렸다는 후기\n\n다른 사람도 같은 걸 당했다는 댓글도 있고,\n다른 도메인 레지스트라인 Namecheap 직원이 도메인 검색은 다양한 소스를 쿼리하므...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xKAYq9YfhI",
+						"expanded_url": "https://j.mp/3kx5EYd",
+						"display_url": "j.mp/3kx5EYd",
+						"indices": [
+							23,
+							46
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1149438140811116500,
+				"id_str": "1149438140811116544",
+				"name": "GeekNews",
+				"screen_name": "GeekNewsBot",
+				"location": "",
+				"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+				"url": "https://t.co/Eeoeh5jF1C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Eeoeh5jF1C",
+								"expanded_url": "https://news.hada.io",
+								"display_url": "news.hada.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4018,
+				"friends_count": 0,
+				"listed_count": 59,
+				"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2769,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+				"profile_link_color": "000065",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고대디도 그렇다고? 원래 고대디는 믿고 거르는 업체라서 안쓰지만. 최저가 검색, 도메인 주소 브랜딩 해주는 사이트도 쓰지 마세요. 짐작하건데 그 최저가 검색 자체가 문제가 아니라 검색해주는 것을 통해 들어가는 것이  문제 같긴 함. https://t.co/Wc9t5RHfoj https://t.co/t2GxBlScvx"
+	},
+	{
 		"created_at": "Fri Sep 18 11:02:43 +0000 2020",
 		"id": 1306911525546922000,
 		"id_str": "1306911525546921985",
