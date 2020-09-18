@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 02:02:03 +0000 2020",
+		"id": 1306775459921830000,
+		"id_str": "1306775459921829889",
+		"full_text": "#대한민국 #보건복지부\n[KTV LIVE] 코로나19 중앙재난안전대책본부 브리핑 (20.9.18.)\nhttps://t.co/U76qRc75UG\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						80,
+						93
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U76qRc75UG",
+					"expanded_url": "https://www.youtube.com/watch?v=YQyWEwbXqb0",
+					"display_url": "youtube.com/watch?v=YQyWEw…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[KTV LIVE] 코로나19 중앙재난안전대책본부 브리핑 (20.9.18.)\nhttps://t.co/U76qRc75UG\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Sep 18 01:34:24 +0000 2020",
+		"id": 1306756917725782000,
+		"id_str": "1306768502066475008",
+		"full_text": "🗞 '23일 발매' 청하X크리스토퍼, 콜라보 음원 '배드 보이' 커버 이미지 공개 (출처 : 한국경제 | 네이버 TV연예)\n\n🔎 https://t.co/68JTGzeM5g\n\n#청하 #CHUNGHA\n#크리스토퍼 #Christopher\n@StopherMusic https://t.co/yvxbLJmio4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "크리스토퍼",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "Christopher",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StopherMusic",
+					"name": "Christopher",
+					"id": 361107109,
+					"id_str": "361107109",
+					"indices": [
+						130,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/68JTGzeM5g",
+					"expanded_url": "http://naver.me/xY0MboU7",
+					"display_url": "naver.me/xY0MboU7",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306756905293889500,
+					"id_str": "1306756905293889537",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKIe1vUwAEHg1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKIe1vUwAEHg1z.jpg",
+					"url": "https://t.co/yvxbLJmio4",
+					"display_url": "pic.twitter.com/yvxbLJmio4",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1306756917725782016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306756905293889500,
+					"id_str": "1306756905293889537",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKIe1vUwAEHg1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKIe1vUwAEHg1z.jpg",
+					"url": "https://t.co/yvxbLJmio4",
+					"display_url": "pic.twitter.com/yvxbLJmio4",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1306756917725782016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287030,
+			"friends_count": 0,
+			"listed_count": 1750,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 355,
+		"favorite_count": 1523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗞 '23일 발매' 청하X크리스토퍼, 콜라보 음원 '배드 보이' 커버 이미지 공개 (출처 : 한국경제 | 네이버 TV연예)\n\n🔎 https://t.co/68JTGzeM5g\n\n#청하 #CHUNGHA\n#크리스토퍼 #Christopher\n@StopherMusic https://t.co/yvxbLJmio4"
+	},
+	{
 		"created_at": "Fri Sep 18 00:34:24 +0000 2020",
 		"id": 1306750201558782000,
 		"id_str": "1306753404585246722",
