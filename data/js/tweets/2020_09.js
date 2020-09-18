@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 15:02:35 +0000 2020",
+		"id": 1306823237322510300,
+		"id_str": "1306971891106684930",
+		"full_text": "[선공개] 오늘은 유스케 하는 금요일 + 아이유 데뷔 12주년 되는날💜\n\n＃유희열의스케치북 ＃아이유 ＃비하인드\n＃유희열없는스케치북 ＃유스케 ＃유없스\n＃아이유비하인드 https://t.co/7IxawQNUrF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "유희열없는스케치북",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "유스케",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "유없스",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "아이유비하인드",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306821304075518000,
+					"id_str": "1306821304075517952",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLExzSU4AEyYzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLExzSU4AEyYzj.jpg",
+					"url": "https://t.co/7IxawQNUrF",
+					"display_url": "pic.twitter.com/7IxawQNUrF",
+					"expanded_url": "https://twitter.com/officialclubkbs/status/1306823237322510337/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306821304075518000,
+					"id_str": "1306821304075517952",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLExzSU4AEyYzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLExzSU4AEyYzj.jpg",
+					"url": "https://t.co/7IxawQNUrF",
+					"display_url": "pic.twitter.com/7IxawQNUrF",
+					"expanded_url": "https://twitter.com/officialclubkbs/status/1306823237322510337/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 196496,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306821304075517952/vid/1280x720/Hya6uUQdt9BDJHCr.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306821304075517952/vid/640x360/HYWKf8fmvEHbCblk.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1306821304075517952/pl/zlJeck0CNeo1dnz0.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306821304075517952/vid/480x270/3BsjG4U_jCBZxfl2.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2183968818,
+			"id_str": "2183968818",
+			"name": "KBS 예능",
+			"screen_name": "officialclubkbs",
+			"location": "",
+			"description": "KBS 예능의 모든 것!",
+			"url": "https://t.co/RgDzgDUz8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RgDzgDUz8y",
+							"expanded_url": "http://www.facebook.com/clubkbs",
+							"display_url": "facebook.com/clubkbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3730,
+			"friends_count": 267,
+			"listed_count": 14,
+			"created_at": "Sat Nov 09 09:22:18 +0000 2013",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846175949242576896/F2fXmzeF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846175949242576896/F2fXmzeF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2183968818/1562051472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1477,
+		"favorite_count": 2465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] 오늘은 유스케 하는 금요일 + 아이유 데뷔 12주년 되는날💜\n\n＃유희열의스케치북 ＃아이유 ＃비하인드\n＃유희열없는스케치북 ＃유스케 ＃유없스\n＃아이유비하인드 https://t.co/7IxawQNUrF"
+	},
+	{
 		"created_at": "Fri Sep 18 14:34:22 +0000 2020",
 		"id": 1306209948636909600,
 		"id_str": "1306964788698730501",
