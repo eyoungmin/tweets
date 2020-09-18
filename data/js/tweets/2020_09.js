@@ -1,6 +1,3123 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 03:01:16 +0000 2020",
+		"id": 1306790365953839000,
+		"id_str": "1306790365953839105",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Sep 18) https://t.co/d9JII5WmSW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d9JII5WmSW",
+					"expanded_url": "https://nzzl.us/PJkseYN",
+					"display_url": "nzzl.us/PJkseYN",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Sep 18) https://t.co/d9JII5WmSW"
+	},
+	{
+		"created_at": "Fri Sep 18 02:47:14 +0000 2020",
+		"id": 1306786832143786000,
+		"id_str": "1306786832143785988",
+		"full_text": "#BBC코리아\n코로나19: '수어 통역사'가 알려주는 코로나19 브리핑 뒷이야기\nhttps://t.co/EPvZbtxxj8\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EPvZbtxxj8",
+					"expanded_url": "https://www.bbc.com/korean/news-54128356",
+					"display_url": "bbc.com/korean/news-54…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: '수어 통역사'가 알려주는 코로나19 브리핑 뒷이야기\nhttps://t.co/EPvZbtxxj8\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Sep 18 02:36:16 +0000 2020",
+		"id": 1306780060653891600,
+		"id_str": "1306784074388967424",
+		"full_text": "비주얼 블.록.버.스.터. 🎞\n서현X효진 배우의 &lt;사생활&gt; 메인포스터 대공개!\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #메인포스터 #Seohyun #Kimhyojin https://t.co/1PFGDSMlE3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "메인포스터",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "Kimhyojin",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306780035601387500,
+					"id_str": "1306780035601387521",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKdhM2X0AEsbbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKdhM2X0AEsbbq.jpg",
+					"url": "https://t.co/1PFGDSMlE3",
+					"display_url": "pic.twitter.com/1PFGDSMlE3",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306780060653891590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1059,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306780035601387500,
+					"id_str": "1306780035601387521",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKdhM2X0AEsbbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKdhM2X0AEsbbq.jpg",
+					"url": "https://t.co/1PFGDSMlE3",
+					"display_url": "pic.twitter.com/1PFGDSMlE3",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306780060653891590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1059,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31758,
+			"friends_count": 12,
+			"listed_count": 182,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비주얼 블.록.버.스.터. 🎞\n서현X효진 배우의 &lt;사생활&gt; 메인포스터 대공개!\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #메인포스터 #Seohyun #Kimhyojin https://t.co/1PFGDSMlE3"
+	},
+	{
+		"created_at": "Fri Sep 18 02:36:07 +0000 2020",
+		"id": 1306490039778517000,
+		"id_str": "1306784034362712065",
+		"full_text": "10월 7일 밤 9시 30분!\n서현 배우X효진 배우가 출연하는 &lt;사생활&gt; 보기 딱 좋은 날✨\n\n▶️https://t.co/Iqjv3LtDMi\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기\n#10월7일 #밤9시30분 #첫방송 #Seohyun #KimHyojin #사진제공_도레미엔터테인먼트 https://t.co/xrCICe6oA5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "10월7일",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "밤9시30분",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "첫방송",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "KimHyojin",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "사진제공_도레미엔터테인먼트",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iqjv3LtDMi",
+					"expanded_url": "https://youtu.be/5hwbPh6w1Ms",
+					"display_url": "youtu.be/5hwbPh6w1Ms",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306489792859758600,
+					"id_str": "1306489792859758592",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGVi2YUYAAXRii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGVi2YUYAAXRii.jpg",
+					"url": "https://t.co/xrCICe6oA5",
+					"display_url": "pic.twitter.com/xrCICe6oA5",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306490039778516995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306489792859758600,
+					"id_str": "1306489792859758592",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGVi2YUYAAXRii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGVi2YUYAAXRii.jpg",
+					"url": "https://t.co/xrCICe6oA5",
+					"display_url": "pic.twitter.com/xrCICe6oA5",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306490039778516995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306489803844718600,
+					"id_str": "1306489803844718592",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGVjfTVkAAnm3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGVjfTVkAAnm3N.jpg",
+					"url": "https://t.co/xrCICe6oA5",
+					"display_url": "pic.twitter.com/xrCICe6oA5",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306490039778516995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31758,
+			"friends_count": 12,
+			"listed_count": 182,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 612,
+		"favorite_count": 983,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10월 7일 밤 9시 30분!\n서현 배우X효진 배우가 출연하는 &lt;사생활&gt; 보기 딱 좋은 날✨\n\n▶️https://t.co/Iqjv3LtDMi\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기\n#10월7일 #밤9시30분 #첫방송 #Seohyun #KimHyojin #사진제공_도레미엔터테인먼트 https://t.co/xrCICe6oA5"
+	},
+	{
+		"created_at": "Fri Sep 18 02:35:57 +0000 2020",
+		"id": 1306417865436704800,
+		"id_str": "1306783993635975168",
+		"full_text": "김효진 = 아름다움\n서현 = 아름다움\n김효진X서현 = 아름답고 멋있고 우아하고 시크하고 황홀하고 ··· ∞\n\n#서현 #김효진 #퍼스트룩 #커플화보 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/OtmrxHFyN2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "커플화보",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "Kimhyojin",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306417751708164000,
+					"id_str": "1306417751708164096",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFUBgLUYAAh3tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFUBgLUYAAh3tj.jpg",
+					"url": "https://t.co/OtmrxHFyN2",
+					"display_url": "pic.twitter.com/OtmrxHFyN2",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306417865436704768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306417751708164000,
+					"id_str": "1306417751708164096",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFUBgLUYAAh3tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFUBgLUYAAh3tj.jpg",
+					"url": "https://t.co/OtmrxHFyN2",
+					"display_url": "pic.twitter.com/OtmrxHFyN2",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306417865436704768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306417818867392500,
+					"id_str": "1306417818867392513",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFUFaXU4AEulkR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFUFaXU4AEulkR.jpg",
+					"url": "https://t.co/OtmrxHFyN2",
+					"display_url": "pic.twitter.com/OtmrxHFyN2",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306417865436704768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1327,
+							"h": 885,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306415911188922400,
+		"in_reply_to_status_id_str": "1306415911188922368",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31758,
+			"friends_count": 12,
+			"listed_count": 182,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 476,
+		"favorite_count": 699,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김효진 = 아름다움\n서현 = 아름다움\n김효진X서현 = 아름답고 멋있고 우아하고 시크하고 황홀하고 ··· ∞\n\n#서현 #김효진 #퍼스트룩 #커플화보 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/OtmrxHFyN2"
+	},
+	{
+		"created_at": "Fri Sep 18 02:35:45 +0000 2020",
+		"id": 1306415911188922400,
+		"id_str": "1306783943950315521",
+		"full_text": "맹세하는데 정말이지(truly), 이런 완벽한(perfect) 워맨스는(womance) 처음 봤어요(first look) 👀\n\n&lt;1st Look&gt; 서현X효진 배우 커플 화보에서요 \n\n#서현 #김효진 #퍼스트룩 #커플화보 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/zVC9OZ0qhr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "커플화보",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "Kimhyojin",
+					"indices": [
+						159,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306415833250373600,
+					"id_str": "1306415833250373632",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFSR1XVoAAikOG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFSR1XVoAAikOG.jpg",
+					"url": "https://t.co/zVC9OZ0qhr",
+					"display_url": "pic.twitter.com/zVC9OZ0qhr",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306415911188922368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306415833250373600,
+					"id_str": "1306415833250373632",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFSR1XVoAAikOG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFSR1XVoAAikOG.jpg",
+					"url": "https://t.co/zVC9OZ0qhr",
+					"display_url": "pic.twitter.com/zVC9OZ0qhr",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306415911188922368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306415869778509800,
+					"id_str": "1306415869778509824",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFST9cUwAAGFcc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFST9cUwAAGFcc.jpg",
+					"url": "https://t.co/zVC9OZ0qhr",
+					"display_url": "pic.twitter.com/zVC9OZ0qhr",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306415911188922368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1227,
+							"h": 1725,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306415869849821200,
+					"id_str": "1306415869849821184",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EiFST9tU4AAF9cz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiFST9tU4AAF9cz.jpg",
+					"url": "https://t.co/zVC9OZ0qhr",
+					"display_url": "pic.twitter.com/zVC9OZ0qhr",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1306415911188922368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1227,
+							"h": 1795,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31758,
+			"friends_count": 12,
+			"listed_count": 182,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 933,
+		"favorite_count": 1493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맹세하는데 정말이지(truly), 이런 완벽한(perfect) 워맨스는(womance) 처음 봤어요(first look) 👀\n\n&lt;1st Look&gt; 서현X효진 배우 커플 화보에서요 \n\n#서현 #김효진 #퍼스트룩 #커플화보 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/zVC9OZ0qhr"
+	},
+	{
+		"created_at": "Fri Sep 18 02:35:24 +0000 2020",
+		"id": 1306368964251889700,
+		"id_str": "1306783855806996486",
+		"full_text": "드라마 #사생활 의 두 히로인 #김효진 과 #서현! 리얼 사기꾼으로 연기 대결을 선보일 두 배우가 #퍼스트룩 과 함께 멋진 화보를 완성했습니다. \n\n#KimHyojin #Seohyun #1stLook #FendiTimepieces #펜디타임피스 #갤러리어클락 #GalleryOclock #포에버펜디 #ForeverFendi #펜디런어웨이 #FendiRunAway https://t.co/5Wg5VkpwqS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "KimHyojin",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "FendiTimepieces",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "펜디타임피스",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "갤러리어클락",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "GalleryOclock",
+					"indices": [
+						145,
+						159
+					]
+				},
+				{
+					"text": "포에버펜디",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "ForeverFendi",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"text": "펜디런어웨이",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "FendiRunAway",
+					"indices": [
+						189,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306366706957209600,
+					"id_str": "1306366706957209600",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiElmTqU0AA9orl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiElmTqU0AA9orl.jpg",
+					"url": "https://t.co/5Wg5VkpwqS",
+					"display_url": "pic.twitter.com/5Wg5VkpwqS",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368964251889665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306366706957209600,
+					"id_str": "1306366706957209600",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiElmTqU0AA9orl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiElmTqU0AA9orl.jpg",
+					"url": "https://t.co/5Wg5VkpwqS",
+					"display_url": "pic.twitter.com/5Wg5VkpwqS",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368964251889665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306366707129221000,
+					"id_str": "1306366707129221120",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiElmUTVgAAMl0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiElmUTVgAAMl0d.jpg",
+					"url": "https://t.co/5Wg5VkpwqS",
+					"display_url": "pic.twitter.com/5Wg5VkpwqS",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368964251889665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306366707418587100,
+					"id_str": "1306366707418587136",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiElmVYU4AARzP3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiElmVYU4AARzP3.jpg",
+					"url": "https://t.co/5Wg5VkpwqS",
+					"display_url": "pic.twitter.com/5Wg5VkpwqS",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368964251889665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306366707527684000,
+					"id_str": "1306366707527684096",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiElmVyVkAAlYbi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiElmVyVkAAlYbi.jpg",
+					"url": "https://t.co/5Wg5VkpwqS",
+					"display_url": "pic.twitter.com/5Wg5VkpwqS",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368964251889665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184683,
+			"friends_count": 1,
+			"listed_count": 315,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1600310784",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 447,
+		"favorite_count": 593,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드라마 #사생활 의 두 히로인 #김효진 과 #서현! 리얼 사기꾼으로 연기 대결을 선보일 두 배우가 #퍼스트룩 과 함께 멋진 화보를 완성했습니다. \n\n#KimHyojin #Seohyun #1stLook #FendiTimepieces #펜디타임피스 #갤러리어클락 #GalleryOclock #포에버펜디 #ForeverFendi #펜디런어웨이 #FendiRunAway https://t.co/5Wg5VkpwqS"
+	},
+	{
+		"created_at": "Fri Sep 18 02:35:17 +0000 2020",
+		"id": 1306368950465228800,
+		"id_str": "1306783825427562500",
+		"full_text": "드라마 #사생활 의 두 히로인 #김효진 과 #서현! 리얼 사기꾼으로 연기 대결을 선보일 두 배우가 #퍼스트룩 과 함께 멋진 화보를 완성했습니다. \n\n#KimHyojin #Seohyun #1stLook #FendiTimepieces #펜디타임피스 #갤러리어클락 #GalleryOclock #포에버펜디 #ForeverFendi #펜디런어웨이 #FendiRunAway https://t.co/twETbdmuBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "KimHyojin",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "FendiTimepieces",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "펜디타임피스",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "갤러리어클락",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "GalleryOclock",
+					"indices": [
+						145,
+						159
+					]
+				},
+				{
+					"text": "포에버펜디",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "ForeverFendi",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"text": "펜디런어웨이",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "FendiRunAway",
+					"indices": [
+						189,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306366656692666400,
+					"id_str": "1306366656692666369",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEljYaUwAEmVQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEljYaUwAEmVQe.jpg",
+					"url": "https://t.co/twETbdmuBI",
+					"display_url": "pic.twitter.com/twETbdmuBI",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368950465228800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1227,
+							"h": 1725,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306366656692666400,
+					"id_str": "1306366656692666369",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEljYaUwAEmVQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEljYaUwAEmVQe.jpg",
+					"url": "https://t.co/twETbdmuBI",
+					"display_url": "pic.twitter.com/twETbdmuBI",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368950465228800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1227,
+							"h": 1725,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306366656701067300,
+					"id_str": "1306366656701067265",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEljYcU8AE9vjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEljYcU8AE9vjE.jpg",
+					"url": "https://t.co/twETbdmuBI",
+					"display_url": "pic.twitter.com/twETbdmuBI",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368950465228800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1227,
+							"h": 1795,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306366656692629500,
+					"id_str": "1306366656692629504",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEljYaUMAACM6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEljYaUMAACM6h.jpg",
+					"url": "https://t.co/twETbdmuBI",
+					"display_url": "pic.twitter.com/twETbdmuBI",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368950465228800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1327,
+							"h": 885,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306366656751386600,
+					"id_str": "1306366656751386624",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEljYoUwAAvRFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEljYoUwAAvRFa.jpg",
+					"url": "https://t.co/twETbdmuBI",
+					"display_url": "pic.twitter.com/twETbdmuBI",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1306368950465228800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1148,
+							"h": 1725,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184683,
+			"friends_count": 1,
+			"listed_count": 315,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1600310784",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 411,
+		"favorite_count": 537,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드라마 #사생활 의 두 히로인 #김효진 과 #서현! 리얼 사기꾼으로 연기 대결을 선보일 두 배우가 #퍼스트룩 과 함께 멋진 화보를 완성했습니다. \n\n#KimHyojin #Seohyun #1stLook #FendiTimepieces #펜디타임피스 #갤러리어클락 #GalleryOclock #포에버펜디 #ForeverFendi #펜디런어웨이 #FendiRunAway https://t.co/twETbdmuBI"
+	},
+	{
+		"created_at": "Fri Sep 18 02:28:18 +0000 2020",
+		"id": 1306447306217013200,
+		"id_str": "1306782067502571521",
+		"full_text": "🎵 Lauv - Modern Loneliness (cover by Yeri)\n👉https://t.co/S2tHcyupRf\n\n#예리 #Yeri #Lauv #ModernLoneliness #RedVelvet #YerisRoom #예리한방 #레드벨벳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "Lauv",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "ModernLoneliness",
+					"indices": [
+						85,
+						102
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "YerisRoom",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S2tHcyupRf",
+					"expanded_url": "https://youtu.be/0ZsX6Bk056E",
+					"display_url": "youtu.be/0ZsX6Bk056E",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeri's Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28161,
+			"friends_count": 0,
+			"listed_count": 142,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1591762226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1465,
+		"favorite_count": 2350,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎵 Lauv - Modern Loneliness (cover by Yeri)\n👉https://t.co/S2tHcyupRf\n\n#예리 #Yeri #Lauv #ModernLoneliness #RedVelvet #YerisRoom #예리한방 #레드벨벳"
+	},
+	{
+		"created_at": "Fri Sep 18 02:28:14 +0000 2020",
+		"id": 1306401973894226000,
+		"id_str": "1306782050280787969",
+		"full_text": "[9/17 (목) 엠뮤톡] 1시 37분 시~작! TOO/(여자)아이들/몬스타 엑스/러블리즈/유아/세븐틴/레드벨벳/방탄소년단 따분한 목요일엔 역시 엠뮤톡이지! 시간 맞춰 다들 놀러와 줄거지? 기다리고 있을게!_!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1069541,
+			"friends_count": 361,
+			"listed_count": 1192,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 511,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[9/17 (목) 엠뮤톡] 1시 37분 시~작! TOO/(여자)아이들/몬스타 엑스/러블리즈/유아/세븐틴/레드벨벳/방탄소년단 따분한 목요일엔 역시 엠뮤톡이지! 시간 맞춰 다들 놀러와 줄거지? 기다리고 있을게!_!!"
+	},
+	{
+		"created_at": "Fri Sep 18 02:28:10 +0000 2020",
+		"id": 1306152809369202700,
+		"id_str": "1306782033054707713",
+		"full_text": "5회차 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~9월 16일 23:59)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/zbhhXjBWZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_letter",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "WENDY_letter",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "디어유레터",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKW0yElQZV",
+					"expanded_url": "http://dear-u.lysn.com",
+					"display_url": "dear-u.lysn.com",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306152751542403000,
+					"id_str": "1306152751542403072",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306152751542403072/pu/img/UlfIchEwHOMEtfy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306152751542403072/pu/img/UlfIchEwHOMEtfy4.jpg",
+					"url": "https://t.co/zbhhXjBWZF",
+					"display_url": "pic.twitter.com/zbhhXjBWZF",
+					"expanded_url": "https://twitter.com/lysn_official/status/1306152809369202688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 730,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 730,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306152751542403000,
+					"id_str": "1306152751542403072",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306152751542403072/pu/img/UlfIchEwHOMEtfy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306152751542403072/pu/img/UlfIchEwHOMEtfy4.jpg",
+					"url": "https://t.co/zbhhXjBWZF",
+					"display_url": "pic.twitter.com/zbhhXjBWZF",
+					"expanded_url": "https://twitter.com/lysn_official/status/1306152809369202688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 730,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 730,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							73,
+							72
+						],
+						"duration_millis": 10497,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306152751542403072/pu/vid/272x270/lzevbkmvMWOfyc1s.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1306152751542403072/pu/pl/nD8pjDGR_IKl9Ttj.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306152751542403072/pu/vid/364x360/1-Cx5tN2JgqVJU6P.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306152751542403072/pu/vid/730x720/HP4C0-9mf_wZKjmg.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "이 세상 어느 커뮤니티보다 내 관심사에 대해 자유롭게 이야기할 수 있는 공간. 당신은 어떤 이야기를 나누고 싶나요?",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11114,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5회차 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~9월 16일 23:59)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/zbhhXjBWZF"
+	},
+	{
+		"created_at": "Fri Sep 18 02:28:05 +0000 2020",
+		"id": 1306041514779242500,
+		"id_str": "1306782011512754176",
+		"full_text": "아리아나 그란데와 맞팔월드와이드 황금인맥 뚜뚜\nDDU DDU &amp; Worldwide Superstar ARIANA GRANDE are FOLLOWING EACH OTHER\n👉 https://t.co/4LKSfFYvGN\n\n#예리 #Yeri #레드벨벳 #예리한방 #RedVelvet #예리한방 #Lauv #SashaSloan #ArianaGrande #YerisRoom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "Lauv",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "SashaSloan",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"text": "ArianaGrande",
+					"indices": [
+						183,
+						196
+					]
+				},
+				{
+					"text": "YerisRoom",
+					"indices": [
+						197,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4LKSfFYvGN",
+					"expanded_url": "https://youtu.be/CAi-xFMdpz0",
+					"display_url": "youtu.be/CAi-xFMdpz0",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeri's Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28161,
+			"friends_count": 0,
+			"listed_count": 142,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1591762226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1331,
+		"favorite_count": 2437,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아리아나 그란데와 맞팔월드와이드 황금인맥 뚜뚜\nDDU DDU &amp; Worldwide Superstar ARIANA GRANDE are FOLLOWING EACH OTHER\n👉 https://t.co/4LKSfFYvGN\n\n#예리 #Yeri #레드벨벳 #예리한방 #RedVelvet #예리한방 #Lauv #SashaSloan #ArianaGrande #YerisRoom"
+	},
+	{
+		"created_at": "Fri Sep 18 02:28:01 +0000 2020",
+		"id": 1305970945925013500,
+		"id_str": "1306781998359416832",
+		"full_text": "Who has the strongest fan army? Vote for @Louis_Tomlinson or @rvsmtown in this round of #BBFanArmy2020: https://t.co/LPjxMwWnGm https://t.co/2cCKCTWpEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBFanArmy2020",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Louis_Tomlinson",
+					"name": "Louis Tomlinson",
+					"id": 84279963,
+					"id_str": "84279963",
+					"indices": [
+						41,
+						57
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LPjxMwWnGm",
+					"expanded_url": "http://blbrd.cm/HoMGZus",
+					"display_url": "blbrd.cm/HoMGZus",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305970933325324300,
+					"id_str": "1305970933325324289",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh-9pP_XYAE1bBk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh-9pP_XYAE1bBk.jpg",
+					"url": "https://t.co/2cCKCTWpEL",
+					"display_url": "pic.twitter.com/2cCKCTWpEL",
+					"expanded_url": "https://twitter.com/billboard/status/1305970945925013505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305970933325324300,
+					"id_str": "1305970933325324289",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh-9pP_XYAE1bBk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh-9pP_XYAE1bBk.jpg",
+					"url": "https://t.co/2cCKCTWpEL",
+					"display_url": "pic.twitter.com/2cCKCTWpEL",
+					"expanded_url": "https://twitter.com/billboard/status/1305970945925013505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305970940514308000,
+					"id_str": "1305970940514308100",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh-9pqxWkAQW8Wm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh-9pqxWkAQW8Wm.jpg",
+					"url": "https://t.co/2cCKCTWpEL",
+					"display_url": "pic.twitter.com/2cCKCTWpEL",
+					"expanded_url": "https://twitter.com/billboard/status/1305970945925013505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9464678,
+			"friends_count": 3195,
+			"listed_count": 19510,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 258648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1600351576",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2287,
+		"favorite_count": 8845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who has the strongest fan army? Vote for @Louis_Tomlinson or @rvsmtown in this round of #BBFanArmy2020: https://t.co/LPjxMwWnGm https://t.co/2cCKCTWpEL"
+	},
+	{
 		"created_at": "Fri Sep 18 02:02:03 +0000 2020",
 		"id": 1306775459921830000,
 		"id_str": "1306775459921829889",
