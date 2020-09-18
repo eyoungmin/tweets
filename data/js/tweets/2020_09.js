@@ -1,6 +1,792 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 14:34:22 +0000 2020",
+		"id": 1306209948636909600,
+		"id_str": "1306964788698730501",
+		"full_text": "🐥⏳🎥\n\n유희열의 스케치북 🎨  이번주 금요일에 \n시간 있으신 분\n 저 나와요 \n\nhttps://t.co/GOO4IkRqo3\nhttps://t.co/4y8dKCWo3Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOO4IkRqo3",
+					"expanded_url": "https://www.instagram.com/stories/dlwlrma/2399474223175104071",
+					"display_url": "instagram.com/stories/dlwlrm…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306209887714644000,
+					"id_str": "1306209887714643968",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306209887714643968/pu/img/K-4kt9FwkuB21ZrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306209887714643968/pu/img/K-4kt9FwkuB21ZrZ.jpg",
+					"url": "https://t.co/4y8dKCWo3Q",
+					"display_url": "pic.twitter.com/4y8dKCWo3Q",
+					"expanded_url": "https://twitter.com/abcdefghij/status/1306209945675681794/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1306209945675681800,
+					"source_status_id_str": "1306209945675681794",
+					"source_user_id": 1155501133437104000,
+					"source_user_id_str": "1155501133437104129"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306209887714644000,
+					"id_str": "1306209887714643968",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306209887714643968/pu/img/K-4kt9FwkuB21ZrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306209887714643968/pu/img/K-4kt9FwkuB21ZrZ.jpg",
+					"url": "https://t.co/4y8dKCWo3Q",
+					"display_url": "pic.twitter.com/4y8dKCWo3Q",
+					"expanded_url": "https://twitter.com/abcdefghij/status/1306209945675681794/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1306209945675681800,
+					"source_status_id_str": "1306209945675681794",
+					"source_user_id": 1155501133437104000,
+					"source_user_id_str": "1155501133437104129",
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 14434,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306209887714643968/pu/vid/640x1136/TGMCQlNf1-akaAf7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306209887714643968/pu/vid/360x638/oXS6s-wSCD59wJwB.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306209887714643968/pu/vid/320x568/9626qZtkoaKJ0e8G.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1306209887714643968/pu/pl/_jRrdIbMiQPkKCrC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1155501133437104000,
+							"id_str": "1155501133437104129",
+							"name": "📺",
+							"screen_name": "qleldhlibrary",
+							"location": "",
+							"description": "PLEASE DON'T: LIKE / REPLY / FOLLOW / RETWEET /QUOTE WITH TWEET / To quote video method, add '/video/1' after the link",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1,
+							"friends_count": 0,
+							"listed_count": 2,
+							"created_at": "Sun Jul 28 15:31:53 +0000 2019",
+							"favourites_count": 1,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1102,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1255904028036218881/zdfDL8qO_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255904028036218881/zdfDL8qO_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.instagram.com/fullmoon.long/\" rel=\"nofollow\">_iustagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166201019358838800,
+			"id_str": "1166201019358838784",
+			"name": "IUstagram",
+			"screen_name": "_IUstagram",
+			"location": "dlwlrma",
+			"description": "eight∞",
+			"url": "https://t.co/W2YGRtUPjB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W2YGRtUPjB",
+							"expanded_url": "http://youtu.be/TgOu00Mf3kI",
+							"display_url": "youtu.be/TgOu00Mf3kI",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8420,
+			"friends_count": 3,
+			"listed_count": 107,
+			"created_at": "Tue Aug 27 04:09:31 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306609130132484097/-8fNcdcH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306609130132484097/-8fNcdcH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166201019358838784/1588831972",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 455,
+		"favorite_count": 920,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐥⏳🎥\n\n유희열의 스케치북 🎨  이번주 금요일에 \n시간 있으신 분\n 저 나와요 \n\nhttps://t.co/GOO4IkRqo3\nhttps://t.co/4y8dKCWo3Q"
+	},
+	{
+		"created_at": "Fri Sep 18 14:33:58 +0000 2020",
+		"id": 1306790049543934000,
+		"id_str": "1306964688320692226",
+		"full_text": "[유희열의 #스케치북 509회 예고] \n금요일 방송 기다리다 지치실까 봐 \n#아이유 영상 살짝 스포합니다❤\n#IU #배운_사람들 #유스케 #이지은 #갓지은 https://t.co/7gRV8vbgID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스케치북",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "배운_사람들",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "유스케",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "갓지은",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306506461661417500,
+					"id_str": "1306506461661417473",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGlj3ZUYAATWp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGlj3ZUYAATWp8.jpg",
+					"url": "https://t.co/7gRV8vbgID",
+					"display_url": "pic.twitter.com/7gRV8vbgID",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1306790049543933952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1092,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1092,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306506461661417500,
+					"id_str": "1306506461661417473",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGlj3ZUYAATWp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGlj3ZUYAATWp8.jpg",
+					"url": "https://t.co/7gRV8vbgID",
+					"display_url": "pic.twitter.com/7gRV8vbgID",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1306790049543933952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1092,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1092,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33344,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306506461661417473/vid/480x270/ZuNe_7HORKmjiFK_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306506461661417473/vid/1280x720/KKTzbGRzmLx14g53.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306506461661417473/vid/640x360/QdvOqCycFGwYyybI.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1306506461661417473/pl/Lb4Ff3Cw_wt6T0K6.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1085788,
+			"friends_count": 58878,
+			"listed_count": 2018,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1598405514",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 606,
+		"favorite_count": 1420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유희열의 #스케치북 509회 예고] \n금요일 방송 기다리다 지치실까 봐 \n#아이유 영상 살짝 스포합니다❤\n#IU #배운_사람들 #유스케 #이지은 #갓지은 https://t.co/7gRV8vbgID"
+	},
+	{
+		"created_at": "Fri Sep 18 14:33:50 +0000 2020",
+		"id": 1306158016970911700,
+		"id_str": "1306964655865171971",
+		"full_text": "🚨긴급 속보🚨 이번 주 유스케 ‘아이유’ 단독 출연! 선공개 직캠 공개\n우~ 이번 주 금요일 유스케에 여러분들을 초대합니다!\n9월 18일 금요일 밤 11시 20분 ❤️본방사수❤️\n-\n&lt;유희열의 스케치북&gt;\n금요일 밤 11시20분 KBS 2TV\n-\n#유희열의스케치북 #유스케 #유없스 #아이유 #IU #직캠 #금요일에만나요 https://t.co/bZ6YZJvKAq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "유스케",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "유없스",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "직캠",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "금요일에만나요",
+					"indices": [
+						176,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306151136508801000,
+					"id_str": "1306151136508801024",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EiBiHT-U0AAe2_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiBiHT-U0AAe2_r.jpg",
+					"url": "https://t.co/bZ6YZJvKAq",
+					"display_url": "pic.twitter.com/bZ6YZJvKAq",
+					"expanded_url": "https://twitter.com/officialclubkbs/status/1306158016970911744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306151136508801000,
+					"id_str": "1306151136508801024",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EiBiHT-U0AAe2_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiBiHT-U0AAe2_r.jpg",
+					"url": "https://t.co/bZ6YZJvKAq",
+					"display_url": "pic.twitter.com/bZ6YZJvKAq",
+					"expanded_url": "https://twitter.com/officialclubkbs/status/1306158016970911744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 232566,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306151136508801024/vid/320x568/Hso34nM6dduUksM7.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306151136508801024/vid/360x640/avLPm7jLaVIyaqRq.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306151136508801024/vid/720x1280/SdMecNsg3hPRVAGP.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1306151136508801024/pl/cFOR2rltcG9Y91zK.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2183968818,
+			"id_str": "2183968818",
+			"name": "KBS 예능",
+			"screen_name": "officialclubkbs",
+			"location": "",
+			"description": "KBS 예능의 모든 것!",
+			"url": "https://t.co/RgDzgDUz8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RgDzgDUz8y",
+							"expanded_url": "http://www.facebook.com/clubkbs",
+							"display_url": "facebook.com/clubkbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3729,
+			"friends_count": 267,
+			"listed_count": 14,
+			"created_at": "Sat Nov 09 09:22:18 +0000 2013",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846175949242576896/F2fXmzeF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846175949242576896/F2fXmzeF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2183968818/1562051472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1534,
+		"favorite_count": 2163,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚨긴급 속보🚨 이번 주 유스케 ‘아이유’ 단독 출연! 선공개 직캠 공개\n우~ 이번 주 금요일 유스케에 여러분들을 초대합니다!\n9월 18일 금요일 밤 11시 20분 ❤️본방사수❤️\n-\n&lt;유희열의 스케치북&gt;\n금요일 밤 11시20분 KBS 2TV\n-\n#유희열의스케치북 #유스케 #유없스 #아이유 #IU #직캠 #금요일에만나요 https://t.co/bZ6YZJvKAq"
+	},
+	{
 		"created_at": "Fri Sep 18 13:53:34 +0000 2020",
 		"id": 1306812296572801000,
 		"id_str": "1306954521902366721",
