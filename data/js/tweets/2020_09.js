@@ -1,6 +1,955 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 06:47:23 +0000 2020",
+		"id": 1306847266616086500,
+		"id_str": "1306847266616086530",
+		"full_text": "#레드벨벳 #RedVelvet #일본 #JAPAN\n10月2日（金）公開映画『トロールズ ミュージック★パワー』よりRed Velvetの本編シーン＆日本のみなさんへのメッセージを収めた特別映像が公開！\nhttps://t.co/KI0quJ1Fvc https://t.co/aRHs9hmDY0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "일본",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "JAPAN",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KI0quJ1Fvc",
+					"expanded_url": "http://redvelvet-jp.net/news/detail.php?id=1086095",
+					"display_url": "redvelvet-jp.net/news/detail.ph…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306847265584296000,
+					"id_str": "1306847265584295936",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLaqgDXsAAv19f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLaqgDXsAAv19f.jpg",
+					"url": "https://t.co/aRHs9hmDY0",
+					"display_url": "pic.twitter.com/aRHs9hmDY0",
+					"expanded_url": "https://twitter.com/fromminn/status/1306847266616086530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306847265584296000,
+					"id_str": "1306847265584295936",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLaqgDXsAAv19f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLaqgDXsAAv19f.jpg",
+					"url": "https://t.co/aRHs9hmDY0",
+					"display_url": "pic.twitter.com/aRHs9hmDY0",
+					"expanded_url": "https://twitter.com/fromminn/status/1306847266616086530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#레드벨벳 #RedVelvet #일본 #JAPAN\n10月2日（金）公開映画『トロールズ ミュージック★パワー』よりRed Velvetの本編シーン＆日本のみなさんへのメッセージを収めた特別映像が公開！\nhttps://t.co/KI0quJ1Fvc https://t.co/aRHs9hmDY0"
+	},
+	{
+		"created_at": "Fri Sep 18 06:41:04 +0000 2020",
+		"id": 1306845679801766000,
+		"id_str": "1306845679801765888",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\nSasha Sloan - Dancing With Your Ghost (cover by Yeri) [예리의 음악 선물 #3]\nhttps://t.co/zICnlSR1nM\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zICnlSR1nM",
+					"expanded_url": "https://youtu.be/FJqSw-2YHWE",
+					"display_url": "youtu.be/FJqSw-2YHWE",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\nSasha Sloan - Dancing With Your Ghost (cover by Yeri) [예리의 음악 선물 #3]\nhttps://t.co/zICnlSR1nM\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
+		"created_at": "Fri Sep 18 06:28:06 +0000 2020",
+		"id": 1306829331377782800,
+		"id_str": "1306842416675196929",
+		"full_text": "YERIMIESE\n\n현대적인 예리의 이미지, 이야기.\n\n#예리 #레드벨벳 #YERI #REDVELVET\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 10월호에서 만나볼 수 있습니다. Check out more of our editorials and articles in &lt;DAZED&gt; KOREA October print issue. https://t.co/gKz24sklQw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306829322490060800,
+					"id_str": "1306829322490060800",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKWE0VoAAMAkD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKWE0VoAAMAkD.jpg",
+					"url": "https://t.co/gKz24sklQw",
+					"display_url": "pic.twitter.com/gKz24sklQw",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829331377782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306829322490060800,
+					"id_str": "1306829322490060800",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKWE0VoAAMAkD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKWE0VoAAMAkD.jpg",
+					"url": "https://t.co/gKz24sklQw",
+					"display_url": "pic.twitter.com/gKz24sklQw",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829331377782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306829322745909200,
+					"id_str": "1306829322745909250",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKWFxVkAIEFG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKWFxVkAIEFG8.jpg",
+					"url": "https://t.co/gKz24sklQw",
+					"display_url": "pic.twitter.com/gKz24sklQw",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829331377782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 783,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306829322913681400,
+					"id_str": "1306829322913681408",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKWGZVkAAM9UO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKWGZVkAAM9UO.jpg",
+					"url": "https://t.co/gKz24sklQw",
+					"display_url": "pic.twitter.com/gKz24sklQw",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829331377782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/ti7hWg9xls",
+			"url": "https://t.co/7V95kcoUUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7V95kcoUUW",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ti7hWg9xls",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 128142,
+			"friends_count": 0,
+			"listed_count": 251,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1600320466",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 908,
+		"favorite_count": 1329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YERIMIESE\n\n현대적인 예리의 이미지, 이야기.\n\n#예리 #레드벨벳 #YERI #REDVELVET\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 10월호에서 만나볼 수 있습니다. Check out more of our editorials and articles in &lt;DAZED&gt; KOREA October print issue. https://t.co/gKz24sklQw"
+	},
+	{
+		"created_at": "Fri Sep 18 06:27:57 +0000 2020",
+		"id": 1306829308258783200,
+		"id_str": "1306842378486124544",
+		"full_text": "YERIMIESE\n\n현대적인 예리의 이미지, 이야기.\n\n#예리 #레드벨벳 #YERI #REDVELVET\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 10월호에서 만나볼 수 있습니다. Check out more of our editorials and articles in &lt;DAZED&gt; KOREA October print issue. https://t.co/dJAYJMX0HL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306829292970496000,
+					"id_str": "1306829292970496005",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKUW2U0AU3qji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKUW2U0AU3qji.jpg",
+					"url": "https://t.co/dJAYJMX0HL",
+					"display_url": "pic.twitter.com/dJAYJMX0HL",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829308258783234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306829292970496000,
+					"id_str": "1306829292970496005",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKUW2U0AU3qji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKUW2U0AU3qji.jpg",
+					"url": "https://t.co/dJAYJMX0HL",
+					"display_url": "pic.twitter.com/dJAYJMX0HL",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829308258783234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306829292974665700,
+					"id_str": "1306829292974665729",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKUW3UcAEiUUf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKUW3UcAEiUUf.jpg",
+					"url": "https://t.co/dJAYJMX0HL",
+					"display_url": "pic.twitter.com/dJAYJMX0HL",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829308258783234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306829292970492000,
+					"id_str": "1306829292970491904",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKUW2UwAAI6oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKUW2UwAAI6oo.jpg",
+					"url": "https://t.co/dJAYJMX0HL",
+					"display_url": "pic.twitter.com/dJAYJMX0HL",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829308258783234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1306829293004058600,
+					"id_str": "1306829293004058624",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EiLKUW-U8AAWQS-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiLKUW-U8AAWQS-.jpg",
+					"url": "https://t.co/dJAYJMX0HL",
+					"display_url": "pic.twitter.com/dJAYJMX0HL",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1306829308258783234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/ti7hWg9xls",
+			"url": "https://t.co/7V95kcoUUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7V95kcoUUW",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ti7hWg9xls",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 128142,
+			"friends_count": 0,
+			"listed_count": 251,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1600320466",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 826,
+		"favorite_count": 1197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YERIMIESE\n\n현대적인 예리의 이미지, 이야기.\n\n#예리 #레드벨벳 #YERI #REDVELVET\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 10월호에서 만나볼 수 있습니다. Check out more of our editorials and articles in &lt;DAZED&gt; KOREA October print issue. https://t.co/dJAYJMX0HL"
+	},
+	{
 		"created_at": "Fri Sep 18 05:47:06 +0000 2020",
 		"id": 1306832097789776000,
 		"id_str": "1306832097789775872",
