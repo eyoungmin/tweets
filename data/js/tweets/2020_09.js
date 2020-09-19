@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 03:47:06 +0000 2020",
+		"id": 1307164285131513900,
+		"id_str": "1307164285131513856",
+		"full_text": "#BBC코리아\n코로나19: 그냥 감기, 독감, 코로나19의 증상은 어떻게 다른가\nhttps://t.co/fOCHMdoddX\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fOCHMdoddX",
+					"expanded_url": "https://www.bbc.com/korean/international-54215813",
+					"display_url": "bbc.com/korean/interna…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 그냥 감기, 독감, 코로나19의 증상은 어떻게 다른가\nhttps://t.co/fOCHMdoddX\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Sat Sep 19 03:22:11 +0000 2020",
+		"id": 1307080186974871600,
+		"id_str": "1307158015930322945",
+		"full_text": "- 그러나 로이터, 틱톡의 미국 사용금지가 발효되지 않을 가능성도 있다고 보도\n- 행정부 당국자, 틱톡의 미국 다운로드 금지는 일요일 늦게 발효되기 전에 바이트댄스가 틱톡 미국 영업의 운명에 대한 합의를 결말지으면 여전히 트럼프에 의해 백지화될 수 있다고 말해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1307046473788522500,
+		"in_reply_to_status_id_str": "1307046473788522496",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46351,
+			"friends_count": 229,
+			"listed_count": 283,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 그러나 로이터, 틱톡의 미국 사용금지가 발효되지 않을 가능성도 있다고 보도\n- 행정부 당국자, 틱톡의 미국 다운로드 금지는 일요일 늦게 발효되기 전에 바이트댄스가 틱톡 미국 영업의 운명에 대한 합의를 결말지으면 여전히 트럼프에 의해 백지화될 수 있다고 말해"
+	},
+	{
+		"created_at": "Sat Sep 19 03:22:09 +0000 2020",
+		"id": 1307046473788522500,
+		"id_str": "1307158006597967877",
+		"full_text": "- 따라서 틱톡과 위챗 앱, 9월 20일부터 미국 앱스토어에서 제거돼\n- 그러나 CNBC, 바이트댄스가 미국 증권거래소에 글로벌 틱톡의 IPO 계획하고 있다고 보도\n- 이 IPO, 오라클이 20% 미만 지분 갖게 될 것\n- 미국 틱톡 사용자, 계속 앱 사용할 수 있지만 틱톡 경험은 향후 2개월 동안 질이 떨어질 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1307043722643804200,
+		"in_reply_to_status_id_str": "1307043722643804166",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46351,
+			"friends_count": 229,
+			"listed_count": 283,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 따라서 틱톡과 위챗 앱, 9월 20일부터 미국 앱스토어에서 제거돼\n- 그러나 CNBC, 바이트댄스가 미국 증권거래소에 글로벌 틱톡의 IPO 계획하고 있다고 보도\n- 이 IPO, 오라클이 20% 미만 지분 갖게 될 것\n- 미국 틱톡 사용자, 계속 앱 사용할 수 있지만 틱톡 경험은 향후 2개월 동안 질이 떨어질 것"
+	},
+	{
+		"created_at": "Sat Sep 19 03:22:04 +0000 2020",
+		"id": 1307043722643804200,
+		"id_str": "1307157988726112258",
+		"full_text": "틱톡과 위챗, 일요일부터 미국 앱스토어에서 다운로드 차단\n- 이는 미 상무부가 확인해 준 것으로 트럼프 대통령 금요일 아침 이 명령에 서명해\n- 이는 틱톡 소유주 바이트댄스가 미국 테크 회사 오라클과 파트너십을 제안했음에도 불구하고 나온 강경한 조치\nhttps://t.co/FLrzM5WkiQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FLrzM5WkiQ",
+					"expanded_url": "https://9to5mac.com/2020/09/18/tiktok-and-wechat/",
+					"display_url": "9to5mac.com/2020/09/18/tik…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User. Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods Pro, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46351,
+			"friends_count": 229,
+			"listed_count": 283,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "틱톡과 위챗, 일요일부터 미국 앱스토어에서 다운로드 차단\n- 이는 미 상무부가 확인해 준 것으로 트럼프 대통령 금요일 아침 이 명령에 서명해\n- 이는 틱톡 소유주 바이트댄스가 미국 테크 회사 오라클과 파트너십을 제안했음에도 불구하고 나온 강경한 조치\nhttps://t.co/FLrzM5WkiQ"
+	},
+	{
+		"created_at": "Sat Sep 19 03:17:22 +0000 2020",
+		"id": 1307156802900037600,
+		"id_str": "1307156802900037632",
+		"full_text": "(올해도 간답니다)\nhttps://t.co/wUBNYHj2if\n#닷페이스 #Dotface #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닷페이스",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "Dotface",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wUBNYHj2if",
+					"expanded_url": "https://youtu.be/ImTeCPOaT6s",
+					"display_url": "youtu.be/ImTeCPOaT6s",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 42977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(올해도 간답니다)\nhttps://t.co/wUBNYHj2if\n#닷페이스 #Dotface #minfav"
+	},
+	{
 		"created_at": "Sat Sep 19 03:00:19 +0000 2020",
 		"id": 1307152514308026400,
 		"id_str": "1307152514308026374",
