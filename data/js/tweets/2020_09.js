@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 10:52:32 +0000 2020",
+		"id": 1306805144311328800,
+		"id_str": "1307271350675939329",
+		"full_text": "블링크 다 모여!!\n\n👉 TikTok  블랙핑크 공식 계정 바로 가기:  https://t.co/3IsgxAFhbM\n\n#틱톡 #블랙핑크 #블링크 #blackpink #icecream #TikTok https://t.co/kHJSnxqSRZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "틱톡",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "blackpink",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "icecream",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "TikTok",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3IsgxAFhbM",
+					"expanded_url": "https://vt.tiktok.com/ZSaj4VWf/",
+					"display_url": "vt.tiktok.com/ZSaj4VWf/",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306509103653482500,
+					"id_str": "1306509103653482498",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1306509103653482498/img/r9cQl2D7V75_6uMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1306509103653482498/img/r9cQl2D7V75_6uMb.jpg",
+					"url": "https://t.co/kHJSnxqSRZ",
+					"display_url": "pic.twitter.com/kHJSnxqSRZ",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1306805144311328768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 778,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306509103653482500,
+					"id_str": "1306509103653482498",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1306509103653482498/img/r9cQl2D7V75_6uMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1306509103653482498/img/r9cQl2D7V75_6uMb.jpg",
+					"url": "https://t.co/kHJSnxqSRZ",
+					"display_url": "pic.twitter.com/kHJSnxqSRZ",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1306805144311328768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 778,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							270,
+							389
+						],
+						"duration_millis": 15207,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306509103653482498/vid/360x518/1ucjIwfi7tqysZxD.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306509103653482498/vid/320x460/_4KHdVh8stWnNGjt.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1306509103653482498/pl/feVog-yCYT9d23fq.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306509103653482498/vid/540x778/XYtCtyPqURid0z3U.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "그 시작은, 틱톡\nIt starts on TikTok",
+			"url": "https://t.co/yABXy07DNe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yABXy07DNe",
+							"expanded_url": "https://vt.tiktok.com/ZS5PcQag/",
+							"display_url": "vt.tiktok.com/ZS5PcQag/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191765,
+			"friends_count": 492,
+			"listed_count": 87,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305873722394333184/82mzl3cI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305873722394333184/82mzl3cI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1600237093",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1852,
+		"favorite_count": 6121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블링크 다 모여!!\n\n👉 TikTok  블랙핑크 공식 계정 바로 가기:  https://t.co/3IsgxAFhbM\n\n#틱톡 #블랙핑크 #블링크 #blackpink #icecream #TikTok https://t.co/kHJSnxqSRZ"
+	},
+	{
 		"created_at": "Sat Sep 19 07:41:04 +0000 2020",
 		"id": 1307223164771078100,
 		"id_str": "1307223164771078144",
