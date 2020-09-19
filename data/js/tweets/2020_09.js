@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 11:18:25 +0000 2020",
+		"id": 1307143321844768800,
+		"id_str": "1307277864262270977",
+		"full_text": "Notoriou R.B.G.(1933-2020) 양성 평등과 여성 인권, 소수자들의 권리를 위해 평생을 투쟁했던 루스 베이더 긴즈버그 대법관이 지난 금요일 별세했습니다. 향년 87세. 그의 단단했던 삶을 다룬 여러 편의 영화에 대한 리뷰 몇 대목을 다시언급하고 싶네요. https://t.co/JD8oq0xPks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307140053781618700,
+					"id_str": "1307140053781618690",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiPk9BFWoAIuHUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiPk9BFWoAIuHUM.jpg",
+					"url": "https://t.co/JD8oq0xPks",
+					"display_url": "pic.twitter.com/JD8oq0xPks",
+					"expanded_url": "https://twitter.com/cine21_editor/status/1307143321844768779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307140053781618700,
+					"id_str": "1307140053781618690",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiPk9BFWoAIuHUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiPk9BFWoAIuHUM.jpg",
+					"url": "https://t.co/JD8oq0xPks",
+					"display_url": "pic.twitter.com/JD8oq0xPks",
+					"expanded_url": "https://twitter.com/cine21_editor/status/1307143321844768779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130821868,
+			"id_str": "130821868",
+			"name": "cine21_editor",
+			"screen_name": "cine21_editor",
+			"location": "서울, 영등포구, 당산",
+			"description": "창간 25주년을 맞은 씨네21입니다. 📙최신호, 과월호 구입 👉 https://t.co/xd30HUeMc5  📕e북, 리디북스, 교보문고, 모아진, 중앙 조인스, 밀리의 서재  https://t.co/d9WYdzC4Xe",
+			"url": "https://t.co/2oKMERpkOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2oKMERpkOg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xd30HUeMc5",
+							"expanded_url": "https://smartstore.naver.com/cine21",
+							"display_url": "smartstore.naver.com/cine21",
+							"indices": [
+								36,
+								59
+							]
+						},
+						{
+							"url": "https://t.co/d9WYdzC4Xe",
+							"expanded_url": "https://www.youtube.com/c/cine21tv/featured",
+							"display_url": "youtube.com/c/cine21tv/fea…",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 447220,
+			"friends_count": 544,
+			"listed_count": 1689,
+			"created_at": "Thu Apr 08 12:28:06 +0000 2010",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130821868/1600394699",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 868,
+		"favorite_count": 388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Notoriou R.B.G.(1933-2020) 양성 평등과 여성 인권, 소수자들의 권리를 위해 평생을 투쟁했던 루스 베이더 긴즈버그 대법관이 지난 금요일 별세했습니다. 향년 87세. 그의 단단했던 삶을 다룬 여러 편의 영화에 대한 리뷰 몇 대목을 다시언급하고 싶네요. https://t.co/JD8oq0xPks"
+	},
+	{
 		"created_at": "Sat Sep 19 10:52:32 +0000 2020",
 		"id": 1306805144311328800,
 		"id_str": "1307271350675939329",
