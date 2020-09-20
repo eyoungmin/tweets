@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 13:34:24 +0000 2020",
+		"id": 1307660378642342000,
+		"id_str": "1307674472401567744",
+		"full_text": "Title “Better Me” (Official Teaser)\n\nEP /BE/ \n\nD-1\n\n2020.09.21 12PM (KST)\n\nAll\nProduced, Composed\nArranged, Lyrics by YESEO\n \nVideo by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by Mo Eun Seo\nPlant Mask by Lee Eun Seo\n\nClothes Sponsored by JCHOI\nHead Piece Sponsored by Q millinery https://t.co/VGBLneAwPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307660306756239400,
+					"id_str": "1307660306756239364",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1307660306756239364/pu/img/ETkd1vpGmqWn4HOq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1307660306756239364/pu/img/ETkd1vpGmqWn4HOq.jpg",
+					"url": "https://t.co/VGBLneAwPD",
+					"display_url": "pic.twitter.com/VGBLneAwPD",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1307660378642341889/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307660306756239400,
+					"id_str": "1307660306756239364",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1307660306756239364/pu/img/ETkd1vpGmqWn4HOq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1307660306756239364/pu/img/ETkd1vpGmqWn4HOq.jpg",
+					"url": "https://t.co/VGBLneAwPD",
+					"display_url": "pic.twitter.com/VGBLneAwPD",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1307660378642341889/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 41273,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1307660306756239364/pu/pl/6CNwDRinOPiFlJQW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1307660306756239364/pu/vid/720x406/yGzvKlzHJ-JPC_zZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1307660306756239364/pu/vid/478x270/or1T_B2qaxFOqU2A.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 685,
+			"friends_count": 2,
+			"listed_count": 14,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Title “Better Me” (Official Teaser)\n\nEP /BE/ \n\nD-1\n\n2020.09.21 12PM (KST)\n\nAll\nProduced, Composed\nArranged, Lyrics by YESEO\n \nVideo by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by Mo Eun Seo\nPlant Mask by Lee Eun Seo\n\nClothes Sponsored by JCHOI\nHead Piece Sponsored by Q millinery https://t.co/VGBLneAwPD"
+	},
+	{
 		"created_at": "Sun Sep 20 12:24:18 +0000 2020",
 		"id": 1307656831691616300,
 		"id_str": "1307656831691616260",
