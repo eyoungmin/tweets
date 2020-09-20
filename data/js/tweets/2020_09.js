@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 00:57:06 +0000 2020",
+		"id": 1307225224262242300,
+		"id_str": "1307483894250262528",
+		"full_text": "이와 함께 대통령은 \"누구도 가보지 못한 낯선 길이지만, 그 길을 가장 창의적이고 용기 있게 갈 수 있는 세대가 바로 대한민국 청년\"이라며 \"'기성세대를 뛰어넘어, 세계에서 앞서가는 나라를 만들 수 있다'는 자신감을 가져주기 바란다\"고 격려했습니다. https://t.co/61jDG4SbnX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307224559020466200,
+					"id_str": "1307224559020466177",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQxz3oU4AET7fV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQxz3oU4AET7fV.jpg",
+					"url": "https://t.co/61jDG4SbnX",
+					"display_url": "pic.twitter.com/61jDG4SbnX",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307225224262242304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307224559020466200,
+					"id_str": "1307224559020466177",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQxz3oU4AET7fV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQxz3oU4AET7fV.jpg",
+					"url": "https://t.co/61jDG4SbnX",
+					"display_url": "pic.twitter.com/61jDG4SbnX",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307225224262242304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307224604520321000,
+					"id_str": "1307224604520321024",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQx2hIVkAAoec7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQx2hIVkAAoec7.jpg",
+					"url": "https://t.co/61jDG4SbnX",
+					"display_url": "pic.twitter.com/61jDG4SbnX",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307225224262242304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307224924734382000,
+					"id_str": "1307224924734382080",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQyJKBUYAAftE1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQyJKBUYAAftE1.jpg",
+					"url": "https://t.co/61jDG4SbnX",
+					"display_url": "pic.twitter.com/61jDG4SbnX",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307225224262242304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307224944200175600,
+					"id_str": "1307224944200175616",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQyKSiU0AAk_qJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQyKSiU0AAk_qJ.jpg",
+					"url": "https://t.co/61jDG4SbnX",
+					"display_url": "pic.twitter.com/61jDG4SbnX",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307225224262242304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1307224478552789000,
+		"in_reply_to_status_id_str": "1307224478552788993",
+		"in_reply_to_user_id": 867990237804249100,
+		"in_reply_to_user_id_str": "867990237804249099",
+		"in_reply_to_screen_name": "TheBlueHouseKR",
+		"user": {
+			"id": 867990237804249100,
+			"id_str": "867990237804249099",
+			"name": "대한민국 청와대",
+			"screen_name": "TheBlueHouseKR",
+			"location": "대한민국",
+			"description": "대한민국 청와대의 공식 트위터입니다. Office of the President, the Republic of Korea 국민의 나라, 정의로운 대한민국을 함께 만들겠습니다. #청와대 #친절한청와대 #소통 @moonriver365 @TheBlueHouseENG",
+			"url": "https://t.co/9OTbCZBZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9OTbCZBZGD",
+							"expanded_url": "http://www.president.go.kr/",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 457685,
+			"friends_count": 30757,
+			"listed_count": 763,
+			"created_at": "Fri May 26 06:26:13 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1583200927",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7541,
+		"favorite_count": 20414,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이와 함께 대통령은 \"누구도 가보지 못한 낯선 길이지만, 그 길을 가장 창의적이고 용기 있게 갈 수 있는 세대가 바로 대한민국 청년\"이라며 \"'기성세대를 뛰어넘어, 세계에서 앞서가는 나라를 만들 수 있다'는 자신감을 가져주기 바란다\"고 격려했습니다. https://t.co/61jDG4SbnX"
+	},
+	{
+		"created_at": "Sun Sep 20 00:56:41 +0000 2020",
+		"id": 1307224478552789000,
+		"id_str": "1307483786993496064",
+		"full_text": "문재인 대통령은 \"'기회의 공정'을 위해 최선을 다하겠다\"고 약속하며 \"청년들은 상상하고, 도전하고, 꿈을 향해 힘차게 달려주기 바란다\"고 당부했습니다. 또, \"우리 청년들이 긴 호흡으로 공정사회를 향해 함께 나아가길 바란다\"고 덧붙였습니다. \n\n#BTS 메시지 ▶ https://t.co/g3erxK14Yo https://t.co/sJ2seOVTJd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g3erxK14Yo",
+					"expanded_url": "https://youtu.be/RYP3L8lxjDA",
+					"display_url": "youtu.be/RYP3L8lxjDA",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1307224024682958800,
+					"id_str": "1307224024682958848",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQxUxEVkAAdnoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQxUxEVkAAdnoZ.jpg",
+					"url": "https://t.co/sJ2seOVTJd",
+					"display_url": "pic.twitter.com/sJ2seOVTJd",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307224478552788993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307224024682958800,
+					"id_str": "1307224024682958848",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQxUxEVkAAdnoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQxUxEVkAAdnoZ.jpg",
+					"url": "https://t.co/sJ2seOVTJd",
+					"display_url": "pic.twitter.com/sJ2seOVTJd",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307224478552788993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307224268728541200,
+					"id_str": "1307224268728541184",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQxi-NVoAA3irL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQxi-NVoAA3irL.jpg",
+					"url": "https://t.co/sJ2seOVTJd",
+					"display_url": "pic.twitter.com/sJ2seOVTJd",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307224478552788993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307224339922649000,
+					"id_str": "1307224339922649093",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQxnHbVgAUcdFI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQxnHbVgAUcdFI.jpg",
+					"url": "https://t.co/sJ2seOVTJd",
+					"display_url": "pic.twitter.com/sJ2seOVTJd",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307224478552788993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307224363104567300,
+					"id_str": "1307224363104567296",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQxodyVgAAfnuf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQxodyVgAAfnuf.jpg",
+					"url": "https://t.co/sJ2seOVTJd",
+					"display_url": "pic.twitter.com/sJ2seOVTJd",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307224478552788993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1307223805840879600,
+		"in_reply_to_status_id_str": "1307223805840879617",
+		"in_reply_to_user_id": 867990237804249100,
+		"in_reply_to_user_id_str": "867990237804249099",
+		"in_reply_to_screen_name": "TheBlueHouseKR",
+		"user": {
+			"id": 867990237804249100,
+			"id_str": "867990237804249099",
+			"name": "대한민국 청와대",
+			"screen_name": "TheBlueHouseKR",
+			"location": "대한민국",
+			"description": "대한민국 청와대의 공식 트위터입니다. Office of the President, the Republic of Korea 국민의 나라, 정의로운 대한민국을 함께 만들겠습니다. #청와대 #친절한청와대 #소통 @moonriver365 @TheBlueHouseENG",
+			"url": "https://t.co/9OTbCZBZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9OTbCZBZGD",
+							"expanded_url": "http://www.president.go.kr/",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 457685,
+			"friends_count": 30757,
+			"listed_count": 763,
+			"created_at": "Fri May 26 06:26:13 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1583200927",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4601,
+		"favorite_count": 11907,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "문재인 대통령은 \"'기회의 공정'을 위해 최선을 다하겠다\"고 약속하며 \"청년들은 상상하고, 도전하고, 꿈을 향해 힘차게 달려주기 바란다\"고 당부했습니다. 또, \"우리 청년들이 긴 호흡으로 공정사회를 향해 함께 나아가길 바란다\"고 덧붙였습니다. \n\n#BTS 메시지 ▶ https://t.co/g3erxK14Yo https://t.co/sJ2seOVTJd"
+	},
+	{
+		"created_at": "Sun Sep 20 00:56:38 +0000 2020",
+		"id": 1307223805840879600,
+		"id_str": "1307483774427385856",
+		"full_text": "9월 셋째 주 토요일, 청년기본법 시행에 따른 제1회 청년의 날 기념식이 청와대 녹지원에서 개최됐습니다. 문재인 대통령은 \"가을 하늘처럼 높고 푸른 꿈을 가진 청년의 마음을 담아 행사 장소를 정했다\"며 \"오늘만큼은 청년이 주인공\"이라고 말했습니다.\n\n기념사 전문 ▶ https://t.co/Ln4wTHpKj8 https://t.co/XIlqf2nW8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ln4wTHpKj8",
+					"expanded_url": "https://youtu.be/7xenGTxwQUs",
+					"display_url": "youtu.be/7xenGTxwQUs",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1307223406287319000,
+					"id_str": "1307223406287319041",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQwwxXU8AE63DK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQwwxXU8AE63DK.jpg",
+					"url": "https://t.co/XIlqf2nW8r",
+					"display_url": "pic.twitter.com/XIlqf2nW8r",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307223805840879617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307223406287319000,
+					"id_str": "1307223406287319041",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQwwxXU8AE63DK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQwwxXU8AE63DK.jpg",
+					"url": "https://t.co/XIlqf2nW8r",
+					"display_url": "pic.twitter.com/XIlqf2nW8r",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307223805840879617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307223547064930300,
+					"id_str": "1307223547064930304",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQw49zU0AAYTmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQw49zU0AAYTmr.jpg",
+					"url": "https://t.co/XIlqf2nW8r",
+					"display_url": "pic.twitter.com/XIlqf2nW8r",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307223805840879617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307223564219682800,
+					"id_str": "1307223564219682817",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQw59tVkAEhJoB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQw59tVkAEhJoB.jpg",
+					"url": "https://t.co/XIlqf2nW8r",
+					"display_url": "pic.twitter.com/XIlqf2nW8r",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307223805840879617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307223583823810600,
+					"id_str": "1307223583823810560",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EiQw7GvU0AA8A-s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiQw7GvU0AA8A-s.jpg",
+					"url": "https://t.co/XIlqf2nW8r",
+					"display_url": "pic.twitter.com/XIlqf2nW8r",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1307223805840879617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 867990237804249100,
+			"id_str": "867990237804249099",
+			"name": "대한민국 청와대",
+			"screen_name": "TheBlueHouseKR",
+			"location": "대한민국",
+			"description": "대한민국 청와대의 공식 트위터입니다. Office of the President, the Republic of Korea 국민의 나라, 정의로운 대한민국을 함께 만들겠습니다. #청와대 #친절한청와대 #소통 @moonriver365 @TheBlueHouseENG",
+			"url": "https://t.co/9OTbCZBZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9OTbCZBZGD",
+							"expanded_url": "http://www.president.go.kr/",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 457685,
+			"friends_count": 30757,
+			"listed_count": 763,
+			"created_at": "Fri May 26 06:26:13 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1583200927",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12983,
+		"favorite_count": 27967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월 셋째 주 토요일, 청년기본법 시행에 따른 제1회 청년의 날 기념식이 청와대 녹지원에서 개최됐습니다. 문재인 대통령은 \"가을 하늘처럼 높고 푸른 꿈을 가진 청년의 마음을 담아 행사 장소를 정했다\"며 \"오늘만큼은 청년이 주인공\"이라고 말했습니다.\n\n기념사 전문 ▶ https://t.co/Ln4wTHpKj8 https://t.co/XIlqf2nW8r"
+	},
+	{
 		"created_at": "Sat Sep 19 23:45:21 +0000 2020",
 		"id": 1307304705144488000,
 		"id_str": "1307465835703750656",
