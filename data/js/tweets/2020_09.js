@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 05:59:43 +0000 2020",
+		"id": 1306820244481085400,
+		"id_str": "1307922438160707584",
+		"full_text": "세상 모든 귀여움을 뿌!셔! #우기 X #강호동\n#신동 X #수진 #덤디덤디♪ 무대 공개💚\n\n원곡자! #여자아이들 #소연 #미연 등장↗\n호동생 #하성운 #소녀시대 #서현 평가까지!\n\n&lt;#아는형님 방과 후 활동🔔 #동동신기&gt;\n매주 토요일 밤 11시(언저리) 풀버전은 JTBC Ent 채널 공개! https://t.co/vxWyIJnAYB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우기",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "강호동",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "신동",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "수진",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "덤디덤디",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동동신기",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306810157205090300,
+					"id_str": "1306810157205090305",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EiK7yw8U0AAjFdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiK7yw8U0AAjFdn.jpg",
+					"url": "https://t.co/vxWyIJnAYB",
+					"display_url": "pic.twitter.com/vxWyIJnAYB",
+					"expanded_url": "https://twitter.com/jtbclove/status/1306820244481085441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306810157205090300,
+					"id_str": "1306810157205090305",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EiK7yw8U0AAjFdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiK7yw8U0AAjFdn.jpg",
+					"url": "https://t.co/vxWyIJnAYB",
+					"display_url": "pic.twitter.com/vxWyIJnAYB",
+					"expanded_url": "https://twitter.com/jtbclove/status/1306820244481085441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32032,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306810157205090305/vid/640x360/xUJOABILVkC1fdH-.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306810157205090305/vid/1280x720/ZFTVxA87KYfpMdLj.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1306810157205090305/vid/480x270/RVpy8XTAtJAyQW6W.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1306810157205090305/pl/ONhUKILxG3yaPKxQ.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [동동신기│11회 예고] (여자)아이들x동동신기 콜라보 무대 공개!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/vod/pr10010392/pm10060022/vo10413357/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440570,
+			"friends_count": 111,
+			"listed_count": 638,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 518,
+		"favorite_count": 864,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상 모든 귀여움을 뿌!셔! #우기 X #강호동\n#신동 X #수진 #덤디덤디♪ 무대 공개💚\n\n원곡자! #여자아이들 #소연 #미연 등장↗\n호동생 #하성운 #소녀시대 #서현 평가까지!\n\n&lt;#아는형님 방과 후 활동🔔 #동동신기&gt;\n매주 토요일 밤 11시(언저리) 풀버전은 JTBC Ent 채널 공개! https://t.co/vxWyIJnAYB"
+	},
+	{
+		"created_at": "Mon Sep 21 05:58:57 +0000 2020",
+		"id": 1307921707580096500,
+		"id_str": "1307922243897274368",
+		"full_text": "9 Music Marketing Strategies That No Longer Work In 2020 - MTT - Music Think Tank https://t.co/1SVJfoa8ta\n\n2020년 더 이상 효과가 없는 마케팅 전략 9가지\n\n#뮤직비지니스 #예술경영",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						145,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1SVJfoa8ta",
+					"expanded_url": "http://www.musicthinktank.com/blog/9-music-marketing-strategies-that-no-longer-work-in-2020.html",
+					"display_url": "musicthinktank.com/blog/9-music-m…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 43,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9 Music Marketing Strategies That No Longer Work In 2020 - MTT - Music Think Tank https://t.co/1SVJfoa8ta\n\n2020년 더 이상 효과가 없는 마케팅 전략 9가지\n\n#뮤직비지니스 #예술경영"
+	},
+	{
 		"created_at": "Mon Sep 21 03:01:29 +0000 2020",
 		"id": 1307870866886160400,
 		"id_str": "1307877581513949184",
@@ -391,7 +827,7 @@ Grailbird.data.tweets_2020_09 =
 		"created_at": "Mon Sep 21 03:01:22 +0000 2020",
 		"id": 1307862109590560800,
 		"id_str": "1307877551214391297",
-		"full_text": "[#예리한방] 33-34화 공개💜\n보러가기🤳https://t.co/8zPMy9DEr7\n\n손소독제 제작! 예리한 방역👩‍⚕&amp; \n포토그래퍼 '리에'와 예리한 찍방📸\n\n📌매주 월요일 11시 예리한 방\n#Seezn 에서 무료 선공개💕 \n\n#Seezn오리지널 #덤덤스튜디오 #예리 #YERI #레드벨벳 #RedVelvet https://t.co/HRR87QIXtt",
+		"full_text": "[#예리한방] 33-34화 공개💜\n보러가기🤳https://t.co/8zPMy9DEr7\n\n손소독제 제작! 예리한 방역👩⚕&amp; \n포토그래퍼 '리에'와 예리한 찍방📸\n\n📌매주 월요일 11시 예리한 방\n#Seezn 에서 무료 선공개💕 \n\n#Seezn오리지널 #덤덤스튜디오 #예리 #YERI #레드벨벳 #RedVelvet https://t.co/HRR87QIXtt",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -662,7 +1098,7 @@ Grailbird.data.tweets_2020_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#예리한방] 33-34화 공개💜\n보러가기🤳https://t.co/8zPMy9DEr7\n\n손소독제 제작! 예리한 방역👩‍⚕&amp; \n포토그래퍼 '리에'와 예리한 찍방📸\n\n📌매주 월요일 11시 예리한 방\n#Seezn 에서 무료 선공개💕 \n\n#Seezn오리지널 #덤덤스튜디오 #예리 #YERI #레드벨벳 #RedVelvet https://t.co/HRR87QIXtt"
+		"text": "[#예리한방] 33-34화 공개💜\n보러가기🤳https://t.co/8zPMy9DEr7\n\n손소독제 제작! 예리한 방역👩⚕&amp; \n포토그래퍼 '리에'와 예리한 찍방📸\n\n📌매주 월요일 11시 예리한 방\n#Seezn 에서 무료 선공개💕 \n\n#Seezn오리지널 #덤덤스튜디오 #예리 #YERI #레드벨벳 #RedVelvet https://t.co/HRR87QIXtt"
 	},
 	{
 		"created_at": "Mon Sep 21 03:01:13 +0000 2020",
