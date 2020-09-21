@@ -1,6 +1,903 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 01:41:14 +0000 2020",
+		"id": 1307857387869614000,
+		"id_str": "1307857387869614081",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n[EN] 음색 깡패 뚜뚜띵곡 메들리 라이브 '예리한 음방' 💜[EP.16-1]\nhttps://t.co/T2MaYU5c1R\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						118,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T2MaYU5c1R",
+					"expanded_url": "https://youtu.be/22BuK3PLCIE",
+					"display_url": "youtu.be/22BuK3PLCIE",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 947,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n[EN] 음색 깡패 뚜뚜띵곡 메들리 라이브 '예리한 음방' 💜[EP.16-1]\nhttps://t.co/T2MaYU5c1R\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
+		"created_at": "Mon Sep 21 01:34:27 +0000 2020",
+		"id": 1307847271724195800,
+		"id_str": "1307855679785512960",
+		"full_text": "#BLACKPINK COMING SOON POSTER\n\n1st FULL ALBUM ’THE ALBUM’\n✅2020.10.02 12am EST &amp; 1pm KST\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #20201002_12amEST #20201002_1pmKST #COMINGSOON #YG https://t.co/P9YIgpSOCR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "20201002_12amEST",
+					"indices": [
+						124,
+						141
+					]
+				},
+				{
+					"text": "20201002_1pmKST",
+					"indices": [
+						142,
+						158
+					]
+				},
+				{
+					"text": "COMINGSOON",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						171,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307847252589723600,
+					"id_str": "1307847252589723648",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZoJZ8UwAAi_0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZoJZ8UwAAi_0_.jpg",
+					"url": "https://t.co/P9YIgpSOCR",
+					"display_url": "pic.twitter.com/P9YIgpSOCR",
+					"expanded_url": "https://twitter.com/ygent_official/status/1307847271724195842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307847252589723600,
+					"id_str": "1307847252589723648",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZoJZ8UwAAi_0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZoJZ8UwAAi_0_.jpg",
+					"url": "https://t.co/P9YIgpSOCR",
+					"display_url": "pic.twitter.com/P9YIgpSOCR",
+					"expanded_url": "https://twitter.com/ygent_official/status/1307847271724195842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6705200,
+			"friends_count": 38,
+			"listed_count": 6845,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34091,
+		"favorite_count": 82560,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK COMING SOON POSTER\n\n1st FULL ALBUM ’THE ALBUM’\n✅2020.10.02 12am EST &amp; 1pm KST\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #20201002_12amEST #20201002_1pmKST #COMINGSOON #YG https://t.co/P9YIgpSOCR"
+	},
+	{
+		"created_at": "Mon Sep 21 01:34:24 +0000 2020",
+		"id": 1307847013137080300,
+		"id_str": "1307855666678243329",
+		"full_text": "#BLACKPINK #블랙핑크 #1stFULLALBUM #THEALBUM #20201002_12amEST #20201002_1pmKST #COMINGSOON #YG https://t.co/83xA8QIFVY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"text": "20201002_12amEST",
+					"indices": [
+						41,
+						58
+					]
+				},
+				{
+					"text": "20201002_1pmKST",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"text": "COMINGSOON",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						88,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307842817167749000,
+					"id_str": "1307842817167749120",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZkHOtUcAAQFuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZkHOtUcAAQFuQ.jpg",
+					"url": "https://t.co/83xA8QIFVY",
+					"display_url": "pic.twitter.com/83xA8QIFVY",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1307847013137080320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307842817167749000,
+					"id_str": "1307842817167749120",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZkHOtUcAAQFuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZkHOtUcAAQFuQ.jpg",
+					"url": "https://t.co/83xA8QIFVY",
+					"display_url": "pic.twitter.com/83xA8QIFVY",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1307847013137080320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1815191,
+			"friends_count": 0,
+			"listed_count": 2429,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1598855058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59737,
+		"favorite_count": 120263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BLACKPINK #블랙핑크 #1stFULLALBUM #THEALBUM #20201002_12amEST #20201002_1pmKST #COMINGSOON #YG https://t.co/83xA8QIFVY"
+	},
+	{
+		"created_at": "Mon Sep 21 01:27:57 +0000 2020",
+		"id": 1307849475780567000,
+		"id_str": "1307854044552192001",
+		"full_text": "#JOY is back with her photos, ‘The Adventures of Finding Joy’ showing various charms! Meet more of her photos in &lt;#ArenaHommePlus&gt; October issue🐥\n\n‘조이를 찾는 모험’의 컨셉으로 다채로운 매력을 드러낸 #조이! 더 많은 화보는 &lt;#아레나옴므플러스&gt; 10월호에서 만나보세요🐥\n\n#레드벨벳 https://t.co/mSAo0HPiOH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "ArenaHommePlus",
+					"indices": [
+						117,
+						132
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "아레나옴므플러스",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						231,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307849466125328400,
+					"id_str": "1307849466125328384",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZqKQAVoAAuuKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZqKQAVoAAuuKN.jpg",
+					"url": "https://t.co/mSAo0HPiOH",
+					"display_url": "pic.twitter.com/mSAo0HPiOH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1307849475780567040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307849466125328400,
+					"id_str": "1307849466125328384",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZqKQAVoAAuuKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZqKQAVoAAuuKN.jpg",
+					"url": "https://t.co/mSAo0HPiOH",
+					"display_url": "pic.twitter.com/mSAo0HPiOH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1307849475780567040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307849466125250600,
+					"id_str": "1307849466125250560",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZqKQAUcAAGw8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZqKQAUcAAGw8J.jpg",
+					"url": "https://t.co/mSAo0HPiOH",
+					"display_url": "pic.twitter.com/mSAo0HPiOH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1307849475780567040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307849466125275100,
+					"id_str": "1307849466125275136",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZqKQAU0AAT8gy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZqKQAU0AAT8gy.jpg",
+					"url": "https://t.co/mSAo0HPiOH",
+					"display_url": "pic.twitter.com/mSAo0HPiOH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1307849475780567040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 994,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3198798,
+			"friends_count": 1,
+			"listed_count": 6721,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7509,
+		"favorite_count": 20889,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#JOY is back with her photos, ‘The Adventures of Finding Joy’ showing various charms! Meet more of her photos in &lt;#ArenaHommePlus&gt; October issue🐥\n\n‘조이를 찾는 모험’의 컨셉으로 다채로운 매력을 드러낸 #조이! 더 많은 화보는 &lt;#아레나옴므플러스&gt; 10월호에서 만나보세요🐥\n\n#레드벨벳 https://t.co/mSAo0HPiOH"
+	},
+	{
 		"created_at": "Sun Sep 20 23:34:26 +0000 2020",
 		"id": 1307820912478097400,
 		"id_str": "1307825477860687874",
