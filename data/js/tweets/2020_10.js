@@ -1,6 +1,1486 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 01 03:45:42 +0000 2020",
+		"id": 1311501090320515000,
+		"id_str": "1311512587562110976",
+		"full_text": "[KCON:TACT season 2] LIVE PREMIERE EVENT with #LOONA\n\nAre you ready?! Here's the first way to meet @loonatheworld!\n\n▶ KCON official: https://t.co/PiuQFbs71S\n▶ Mnet-Kpop: https://t.co/cHWmhYv2EF\n\n#KCON  #KCON2020 #KCONTACT https://t.co/onK2rWCwXJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						212,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						99,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PiuQFbs71S",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/cHWmhYv2EF",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311479322083901400,
+					"id_str": "1311479322083901442",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EjNPfrMUwAIurly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjNPfrMUwAIurly.jpg",
+					"url": "https://t.co/onK2rWCwXJ",
+					"display_url": "pic.twitter.com/onK2rWCwXJ",
+					"expanded_url": "https://twitter.com/kconusa/status/1311501090320515072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311479322083901400,
+					"id_str": "1311479322083901442",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EjNPfrMUwAIurly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjNPfrMUwAIurly.jpg",
+					"url": "https://t.co/onK2rWCwXJ",
+					"display_url": "pic.twitter.com/onK2rWCwXJ",
+					"expanded_url": "https://twitter.com/kconusa/status/1311501090320515072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311479334406746000,
+					"id_str": "1311479334406746113",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EjNPgZGUcAEVGbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjNPgZGUcAEVGbT.jpg",
+					"url": "https://t.co/onK2rWCwXJ",
+					"display_url": "pic.twitter.com/onK2rWCwXJ",
+					"expanded_url": "https://twitter.com/kconusa/status/1311501090320515072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188354,
+			"friends_count": 3,
+			"listed_count": 397,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1600452142",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE PREMIERE EVENT with #LOONA\n\nAre you ready?! Here's the first way to meet @loonatheworld!\n\n▶ KCON official: https://t.co/PiuQFbs71S\n▶ Mnet-Kpop: https://t.co/cHWmhYv2EF\n\n#KCON  #KCON2020 #KCONTACT https://t.co/onK2rWCwXJ"
+	},
+	{
+		"created_at": "Thu Oct 01 03:45:37 +0000 2020",
+		"id": 1311501088755867600,
+		"id_str": "1311512566053642240",
+		"full_text": "[KCON:TACT season 2] LIVE PREMIERE EVENT with #LOONA\n\n@loonatheworld 를 가장 먼저 만날 수 있는 방법!\nThe first way to meet @loonatheworld !\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet-Kpop: https://t.co/r2LY9mGrzA\n\n#KCON  #KCON2020 #KCONTACT https://t.co/kv7PHgcFoJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						215,
+						224
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						225,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311398440413220900,
+					"id_str": "1311398440413220864",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMF7vfU0AAjn3H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMF7vfU0AAjn3H.jpg",
+					"url": "https://t.co/kv7PHgcFoJ",
+					"display_url": "pic.twitter.com/kv7PHgcFoJ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1311501088755867650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311398440413220900,
+					"id_str": "1311398440413220864",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMF7vfU0AAjn3H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMF7vfU0AAjn3H.jpg",
+					"url": "https://t.co/kv7PHgcFoJ",
+					"display_url": "pic.twitter.com/kv7PHgcFoJ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1311501088755867650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311398440409002000,
+					"id_str": "1311398440409001984",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMF7veUcAAUAyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMF7veUcAAUAyA.jpg",
+					"url": "https://t.co/kv7PHgcFoJ",
+					"display_url": "pic.twitter.com/kv7PHgcFoJ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1311501088755867650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311398495216046000,
+					"id_str": "1311398495216046081",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMF-7pVkAEND1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMF-7pVkAEND1i.jpg",
+					"url": "https://t.co/kv7PHgcFoJ",
+					"display_url": "pic.twitter.com/kv7PHgcFoJ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1311501088755867650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311398495329292300,
+					"id_str": "1311398495329292288",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMF-8EVkAA8DXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMF-8EVkAA8DXa.jpg",
+					"url": "https://t.co/kv7PHgcFoJ",
+					"display_url": "pic.twitter.com/kv7PHgcFoJ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1311501088755867650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282170,
+			"friends_count": 67,
+			"listed_count": 881,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] LIVE PREMIERE EVENT with #LOONA\n\n@loonatheworld 를 가장 먼저 만날 수 있는 방법!\nThe first way to meet @loonatheworld !\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet-Kpop: https://t.co/r2LY9mGrzA\n\n#KCON  #KCON2020 #KCONTACT https://t.co/kv7PHgcFoJ"
+	},
+	{
+		"created_at": "Thu Oct 01 03:27:32 +0000 2020",
+		"id": 1311505431521423400,
+		"id_str": "1311508018429861888",
+		"full_text": "TAEYEON 태연 '#GirlsSpkOut (Feat. ちゃんみな(CHANMINA))' \n\n🎧Listen now on your favorite platform\n👉🏻 https://t.co/Y867Mbqev7\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y867Mbqev7",
+					"expanded_url": "https://smarturl.it/TY_GirlsSpkOut",
+					"display_url": "smarturl.it/TY_GirlsSpkOut",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3569710,
+			"friends_count": 4,
+			"listed_count": 5041,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1131,
+		"favorite_count": 2206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "TAEYEON 태연 '#GirlsSpkOut (Feat. ちゃんみな(CHANMINA))' \n\n🎧Listen now on your favorite platform\n👉🏻 https://t.co/Y867Mbqev7\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Thu Oct 01 03:27:26 +0000 2020",
+		"id": 1311504528919859200,
+		"id_str": "1311507992735608832",
+		"full_text": "TAEYEON 태연 '#GirlsSpkOut (Feat. ちゃんみな(CHANMINA))' \n\n🎧FLO: https://t.co/qeHjxee7NI\n🎧genie: https://t.co/muCOHTkyh4 \n🎧NAVER MUSIC: https://t.co/JwxRMCkprG\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						173,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qeHjxee7NI",
+					"expanded_url": "http://flomuz.io/s/a.Bz6Iz",
+					"display_url": "flomuz.io/s/a.Bz6Iz",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/muCOHTkyh4",
+					"expanded_url": "https://genie.co.kr/detail/albumInfo?axnm=81606396",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/JwxRMCkprG",
+					"expanded_url": "http://naver.me/FGptTPZ0",
+					"display_url": "naver.me/FGptTPZ0",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3569710,
+			"friends_count": 4,
+			"listed_count": 5041,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1299,
+		"favorite_count": 2298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "TAEYEON 태연 '#GirlsSpkOut (Feat. ちゃんみな(CHANMINA))' \n\n🎧FLO: https://t.co/qeHjxee7NI\n🎧genie: https://t.co/muCOHTkyh4 \n🎧NAVER MUSIC: https://t.co/JwxRMCkprG\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Thu Oct 01 03:27:19 +0000 2020",
+		"id": 1311501086876864500,
+		"id_str": "1311507962838609922",
+		"full_text": "┌ 🎀 ┐    ／\n├  ┼  ┤   #テヨン とオンラインで会える💜\n└  ┴  ┘   ＼\n\n条件をクリアしてくれた\n#LINEMUSIC 会員様の中から抽選で10名様を\n#TAEYEON(#태연)のオンラインイベントにご招待！🥳\n\n「#GirlsSpkOut (feat. #ちゃんみな)」をフル尺で沢山聴いてね🌹\n\n詳細を読んでね🎁👇#GiftForFans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "LINEMUSIC",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "ちゃんみな",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "GiftForFans",
+					"indices": [
+						173,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3015879513,
+			"id_str": "3015879513",
+			"name": "LINE MUSIC",
+			"screen_name": "LINEMUSIC_JP",
+			"location": "",
+			"description": "LINEの音楽ストリーミングサービス #LINEMUSIC \nおにし👩🏻たかってぃ🤱つっきー👩🏻‍🦱えってぃ👧🏻が旬な音楽情報をお届け🎁\n/✍️:https://t.co/r1HWxRsYBC\n/📷:https://t.co/u0zRxurTRy\n/お問合せ👉https://t.co/TFvmtwWpMO",
+			"url": "https://t.co/329xsvBLof",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/329xsvBLof",
+							"expanded_url": "https://lin.ee/g0w1Zz2/lnms",
+							"display_url": "lin.ee/g0w1Zz2/lnms",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/r1HWxRsYBC",
+							"expanded_url": "http://note.linemusic.jp",
+							"display_url": "note.linemusic.jp",
+							"indices": [
+								73,
+								96
+							]
+						},
+						{
+							"url": "https://t.co/u0zRxurTRy",
+							"expanded_url": "http://instagram.com/linemusic_jp",
+							"display_url": "instagram.com/linemusic_jp",
+							"indices": [
+								100,
+								123
+							]
+						},
+						{
+							"url": "https://t.co/TFvmtwWpMO",
+							"expanded_url": "http://lin.ee/ch6haNi",
+							"display_url": "lin.ee/ch6haNi",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 212925,
+			"friends_count": 153,
+			"listed_count": 357,
+			"created_at": "Wed Feb 04 01:23:45 +0000 2015",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 66875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145633774379491328/V8clvQH9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145633774379491328/V8clvQH9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3015879513/1588245666",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 474,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "┌ 🎀 ┐    ／\n├  ┼  ┤   #テヨン とオンラインで会える💜\n└  ┴  ┘   ＼\n\n条件をクリアしてくれた\n#LINEMUSIC 会員様の中から抽選で10名様を\n#TAEYEON(#태연)のオンラインイベントにご招待！🥳\n\n「#GirlsSpkOut (feat. #ちゃんみな)」をフル尺で沢山聴いてね🌹\n\n詳細を読んでね🎁👇#GiftForFans"
+	},
+	{
+		"created_at": "Thu Oct 01 03:27:11 +0000 2020",
+		"id": 1311501694451118000,
+		"id_str": "1311507928764035073",
+		"full_text": "テヨン新曲「#GirlsSpkOut ft.ちゃんみな」のLINE MUSICキャンペーンスタート🎉\n抽選で10名様に『オンラインイベント』へご招待するほか、参加者全員プレゼントも🎁\n\n🔗詳細はこちら\nhttps://t.co/DBL9gItPIY\n🎧LINE MUSIC再生はこちら\nhttps://t.co/8uzIqFsqE2\n\n#テヨン #TAEYEON #태연 #ちゃんみな",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "ちゃんみな",
+					"indices": [
+						186,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DBL9gItPIY",
+					"expanded_url": "http://taeyeon.girls-generation.jp/news/linemusic/",
+					"display_url": "taeyeon.girls-generation.jp/news/linemusic/",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/8uzIqFsqE2",
+					"expanded_url": "https://lnk.to/GSOLMt",
+					"display_url": "lnk.to/GSOLMt",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104841,
+			"friends_count": 0,
+			"listed_count": 478,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 574,
+		"favorite_count": 847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン新曲「#GirlsSpkOut ft.ちゃんみな」のLINE MUSICキャンペーンスタート🎉\n抽選で10名様に『オンラインイベント』へご招待するほか、参加者全員プレゼントも🎁\n\n🔗詳細はこちら\nhttps://t.co/DBL9gItPIY\n🎧LINE MUSIC再生はこちら\nhttps://t.co/8uzIqFsqE2\n\n#テヨン #TAEYEON #태연 #ちゃんみな"
+	},
+	{
+		"created_at": "Thu Oct 01 03:27:07 +0000 2020",
+		"id": 1311501093592092700,
+		"id_str": "1311507911441604609",
+		"full_text": "[이달의소녀탐구 #629]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/zfkEIeNtXQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311476457441435600,
+					"id_str": "1311476457441435649",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311476457441435649/pu/img/RwpN2fOgEEG-Arg2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311476457441435649/pu/img/RwpN2fOgEEG-Arg2.jpg",
+					"url": "https://t.co/zfkEIeNtXQ",
+					"display_url": "pic.twitter.com/zfkEIeNtXQ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1311501093592092672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311476457441435600,
+					"id_str": "1311476457441435649",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311476457441435649/pu/img/RwpN2fOgEEG-Arg2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311476457441435649/pu/img/RwpN2fOgEEG-Arg2.jpg",
+					"url": "https://t.co/zfkEIeNtXQ",
+					"display_url": "pic.twitter.com/zfkEIeNtXQ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1311501093592092672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60494,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311476457441435649/pu/vid/480x270/zEOzmgT_bR4SqrX3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1311476457441435649/pu/pl/koASUhjxE585eAyP.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311476457441435649/pu/vid/640x360/2roYxIQAx-AH0MBH.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311476457441435649/pu/vid/1280x720/GYLK4YS8PRuVU8JM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543434,
+			"friends_count": 0,
+			"listed_count": 5661,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2879,
+		"favorite_count": 9236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #629]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/zfkEIeNtXQ"
+	},
+	{
 		"created_at": "Thu Oct 01 03:00:54 +0000 2020",
 		"id": 1311501313260368000,
 		"id_str": "1311501313260367873",
