@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 01 10:36:27 +0000 2020",
+		"id": 1311615955319967700,
+		"id_str": "1311615955319967745",
+		"full_text": "#아이유 #기타\n릭터너 사 르네상스 https://t.co/N8lQthwDzD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "기타",
+					"indices": [
+						5,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N8lQthwDzD",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1311244450014752769",
+					"display_url": "twitter.com/_IUofficial/st…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 952,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311244450014752800,
+		"quoted_status_id_str": "1311244450014752769",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N8lQthwDzD",
+			"expanded": "https://twitter.com/_IUofficial/status/1311244450014752769",
+			"display": "twitter.com/_IUofficial/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 30 10:00:13 +0000 2020",
+			"id": 1311244450014752800,
+			"id_str": "1311244450014752769",
+			"full_text": "[IU TV] \n우리는 아이유가 좋은 걸🎵\n이렇게 좋은 날 선물 같은\n유스케 비하인드를 공개합니다💜\n\n🎥 https://t.co/GETJB0Nyt2 https://t.co/wjoAwEW1rK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GETJB0Nyt2",
+						"expanded_url": "https://youtu.be/LPwxjynAwLI",
+						"display_url": "youtu.be/LPwxjynAwLI",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1311244432075677700,
+						"id_str": "1311244432075677699",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EjJ53RuUYAMIZDx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjJ53RuUYAMIZDx.jpg",
+						"url": "https://t.co/wjoAwEW1rK",
+						"display_url": "pic.twitter.com/wjoAwEW1rK",
+						"expanded_url": "https://twitter.com/_IUofficial/status/1311244450014752769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311244432075677700,
+						"id_str": "1311244432075677699",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EjJ53RuUYAMIZDx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjJ53RuUYAMIZDx.jpg",
+						"url": "https://t.co/wjoAwEW1rK",
+						"display_url": "pic.twitter.com/wjoAwEW1rK",
+						"expanded_url": "https://twitter.com/_IUofficial/status/1311244450014752769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1024486566096326700,
+				"id_str": "1024486566096326656",
+				"name": "아이유(IU) 공식 트위터",
+				"screen_name": "_IUofficial",
+				"location": "",
+				"description": "아이유(IU) Official Twitter",
+				"url": "https://t.co/26KBouiO60",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/26KBouiO60",
+								"expanded_url": "http://cafe.daum.net/IU",
+								"display_url": "cafe.daum.net/IU",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 733106,
+				"friends_count": 0,
+				"listed_count": 1213,
+				"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 811,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3970,
+			"favorite_count": 19940,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아이유 #기타\n릭터너 사 르네상스 https://t.co/N8lQthwDzD"
+	},
+	{
+		"created_at": "Thu Oct 01 10:30:43 +0000 2020",
+		"id": 1311244450014752800,
+		"id_str": "1311614516271091713",
+		"full_text": "[IU TV] \n우리는 아이유가 좋은 걸🎵\n이렇게 좋은 날 선물 같은\n유스케 비하인드를 공개합니다💜\n\n🎥 https://t.co/GETJB0Nyt2 https://t.co/wjoAwEW1rK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GETJB0Nyt2",
+					"expanded_url": "https://youtu.be/LPwxjynAwLI",
+					"display_url": "youtu.be/LPwxjynAwLI",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311244432075677700,
+					"id_str": "1311244432075677699",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EjJ53RuUYAMIZDx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjJ53RuUYAMIZDx.jpg",
+					"url": "https://t.co/wjoAwEW1rK",
+					"display_url": "pic.twitter.com/wjoAwEW1rK",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1311244450014752769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311244432075677700,
+					"id_str": "1311244432075677699",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EjJ53RuUYAMIZDx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjJ53RuUYAMIZDx.jpg",
+					"url": "https://t.co/wjoAwEW1rK",
+					"display_url": "pic.twitter.com/wjoAwEW1rK",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1311244450014752769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733106,
+			"friends_count": 0,
+			"listed_count": 1213,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3970,
+		"favorite_count": 19940,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IU TV] \n우리는 아이유가 좋은 걸🎵\n이렇게 좋은 날 선물 같은\n유스케 비하인드를 공개합니다💜\n\n🎥 https://t.co/GETJB0Nyt2 https://t.co/wjoAwEW1rK"
+	},
+	{
+		"created_at": "Thu Oct 01 10:30:05 +0000 2020",
+		"id": 1311608282553827300,
+		"id_str": "1311614356300468225",
+		"full_text": "남은 추석 연휴 '집콕'할 계획이라면, 집에서 편리하게 전국 곳곳의 다양한 미술작품을 감상하면 어떨까. 국내 최대 규모의 미술축제 '2020 미술주간'이 오는 11일까지 열린다. \nhttps://t.co/JID0eDx0Cb https://t.co/bk8ulaOLBF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JID0eDx0Cb",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=310&aid=0000080973",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311608205579935700,
+					"id_str": "1311608205579935745",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EjPEtroUYAEI50Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjPEtroUYAEI50Y.jpg",
+					"url": "https://t.co/bk8ulaOLBF",
+					"display_url": "pic.twitter.com/bk8ulaOLBF",
+					"expanded_url": "https://twitter.com/wnewskr/status/1311608282553827328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311608205579935700,
+					"id_str": "1311608205579935745",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EjPEtroUYAEI50Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjPEtroUYAEI50Y.jpg",
+					"url": "https://t.co/bk8ulaOLBF",
+					"display_url": "pic.twitter.com/bk8ulaOLBF",
+					"expanded_url": "https://twitter.com/wnewskr/status/1311608282553827328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196025,
+			"friends_count": 3519,
+			"listed_count": 291,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남은 추석 연휴 '집콕'할 계획이라면, 집에서 편리하게 전국 곳곳의 다양한 미술작품을 감상하면 어떨까. 국내 최대 규모의 미술축제 '2020 미술주간'이 오는 11일까지 열린다. \nhttps://t.co/JID0eDx0Cb https://t.co/bk8ulaOLBF"
+	},
+	{
 		"created_at": "Thu Oct 01 09:22:16 +0000 2020",
 		"id": 1311597288989417500,
 		"id_str": "1311597288989417472",
