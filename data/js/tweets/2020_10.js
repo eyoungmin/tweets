@@ -1,6 +1,819 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 01 22:27:20 +0000 2020",
+		"id": 1311788246339182600,
+		"id_str": "1311794857925644288",
+		"full_text": "#BLACKPINK ‘THE ALBUM’ COMEBACK LIVE COUNTER\nOriginally posted by https://t.co/XZQ3IOI9MY\n\n📺 2020.10.01 9PM EST &amp; 2020.10.02 10AM KST on BLACKPINK V live channel\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #ComebackLive #Counter #Today #Vlive #20201001_9pmEST #20201002_10amKST #YG https://t.co/2aOYtvuQTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						173,
+						186
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "ComebackLive",
+					"indices": [
+						197,
+						210
+					]
+				},
+				{
+					"text": "Counter",
+					"indices": [
+						211,
+						219
+					]
+				},
+				{
+					"text": "Today",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "Vlive",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "20201001_9pmEST",
+					"indices": [
+						234,
+						250
+					]
+				},
+				{
+					"text": "20201002_10amKST",
+					"indices": [
+						251,
+						268
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						269,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZQ3IOI9MY",
+					"expanded_url": "http://yg-life.com",
+					"display_url": "yg-life.com",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311785415066542000,
+					"id_str": "1311785415066542081",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EjRl4oaUYAEygFY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjRl4oaUYAEygFY.jpg",
+					"url": "https://t.co/2aOYtvuQTQ",
+					"display_url": "pic.twitter.com/2aOYtvuQTQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1311788246339182592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311785415066542000,
+					"id_str": "1311785415066542081",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EjRl4oaUYAEygFY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjRl4oaUYAEygFY.jpg",
+					"url": "https://t.co/2aOYtvuQTQ",
+					"display_url": "pic.twitter.com/2aOYtvuQTQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1311788246339182592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6763043,
+			"friends_count": 38,
+			"listed_count": 6871,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7589,
+		"favorite_count": 27342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘THE ALBUM’ COMEBACK LIVE COUNTER\nOriginally posted by https://t.co/XZQ3IOI9MY\n\n📺 2020.10.01 9PM EST &amp; 2020.10.02 10AM KST on BLACKPINK V live channel\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #ComebackLive #Counter #Today #Vlive #20201001_9pmEST #20201002_10amKST #YG https://t.co/2aOYtvuQTQ"
+	},
+	{
+		"created_at": "Thu Oct 01 22:27:12 +0000 2020",
+		"id": 1311788230484787200,
+		"id_str": "1311794823767175169",
+		"full_text": "#BLACKPINK ‘THE ALBUM’ RELEASE COUNTER\nOriginally posted by https://t.co/XZQ3IOI9MY\n\n1st FULL ALBUM ’THE ALBUM’\n✅2020.10.02 12am EST &amp; 1pm KST\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #Counter #20201002_12amEST #20201002_1pmKST #Release #YG https://t.co/JGqoLMHP3G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "Counter",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "20201002_12amEST",
+					"indices": [
+						187,
+						204
+					]
+				},
+				{
+					"text": "20201002_1pmKST",
+					"indices": [
+						205,
+						221
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						222,
+						230
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						231,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZQ3IOI9MY",
+					"expanded_url": "http://yg-life.com",
+					"display_url": "yg-life.com",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311785014367928300,
+					"id_str": "1311785014367928320",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EjRlhTsUwAAxl8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjRlhTsUwAAxl8L.jpg",
+					"url": "https://t.co/JGqoLMHP3G",
+					"display_url": "pic.twitter.com/JGqoLMHP3G",
+					"expanded_url": "https://twitter.com/ygent_official/status/1311788230484787201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311785014367928300,
+					"id_str": "1311785014367928320",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EjRlhTsUwAAxl8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjRlhTsUwAAxl8L.jpg",
+					"url": "https://t.co/JGqoLMHP3G",
+					"display_url": "pic.twitter.com/JGqoLMHP3G",
+					"expanded_url": "https://twitter.com/ygent_official/status/1311788230484787201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6763043,
+			"friends_count": 38,
+			"listed_count": 6871,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5743,
+		"favorite_count": 21652,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘THE ALBUM’ RELEASE COUNTER\nOriginally posted by https://t.co/XZQ3IOI9MY\n\n1st FULL ALBUM ’THE ALBUM’\n✅2020.10.02 12am EST &amp; 1pm KST\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #Counter #20201002_12amEST #20201002_1pmKST #Release #YG https://t.co/JGqoLMHP3G"
+	},
+	{
+		"created_at": "Thu Oct 01 22:27:09 +0000 2020",
+		"id": 1311788228895146000,
+		"id_str": "1311794810651652109",
+		"full_text": "‘THE ALBUM’ COMEBACK LIVE COUNTER\n👉https://t.co/Qa42PEDit7\n\n#BLACKPINK #블랙핑크 #1stFULLALBUM #THEALBUM #ComebackLive #Counter #Today #Vlive #20201001_9pmEST #20201002_10amKST #Release #20201002_12amEST #20201002_1pmKST #YG https://t.co/wLFo5mOBPO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "ComebackLive",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"text": "Counter",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "Today",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "Vlive",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "20201001_9pmEST",
+					"indices": [
+						138,
+						154
+					]
+				},
+				{
+					"text": "20201002_10amKST",
+					"indices": [
+						155,
+						172
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "20201002_12amEST",
+					"indices": [
+						182,
+						199
+					]
+				},
+				{
+					"text": "20201002_1pmKST",
+					"indices": [
+						200,
+						216
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						217,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qa42PEDit7",
+					"expanded_url": "https://www.vlive.tv/video/215424",
+					"display_url": "vlive.tv/video/215424",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311637752560062500,
+					"id_str": "1311637752560062465",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EjPflitVkAExttz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjPflitVkAExttz.jpg",
+					"url": "https://t.co/wLFo5mOBPO",
+					"display_url": "pic.twitter.com/wLFo5mOBPO",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1311788228895145988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311637752560062500,
+					"id_str": "1311637752560062465",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EjPflitVkAExttz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjPflitVkAExttz.jpg",
+					"url": "https://t.co/wLFo5mOBPO",
+					"display_url": "pic.twitter.com/wLFo5mOBPO",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1311788228895145988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1958858,
+			"friends_count": 0,
+			"listed_count": 2675,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16865,
+		"favorite_count": 47310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘THE ALBUM’ COMEBACK LIVE COUNTER\n👉https://t.co/Qa42PEDit7\n\n#BLACKPINK #블랙핑크 #1stFULLALBUM #THEALBUM #ComebackLive #Counter #Today #Vlive #20201001_9pmEST #20201002_10amKST #Release #20201002_12amEST #20201002_1pmKST #YG https://t.co/wLFo5mOBPO"
+	},
+	{
 		"created_at": "Thu Oct 01 18:45:36 +0000 2020",
 		"id": 1311728244010279000,
 		"id_str": "1311739057232318465",
