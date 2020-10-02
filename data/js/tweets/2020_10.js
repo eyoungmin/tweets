@@ -1,6 +1,623 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 17:27:30 +0000 2020",
+		"id": 1312053293749686300,
+		"id_str": "1312081790627131393",
+		"full_text": "Hi #BLINKS. Wish you could win this @ygofficialblink ice cream merch? \n\n#BLACKPINK #블랙핑크 https://t.co/3vRAZ7NE8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLINKS",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						36,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312052329449885700,
+					"id_str": "1312052329449885696",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EjVYpF-VkAAByeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjVYpF-VkAAByeI.jpg",
+					"url": "https://t.co/3vRAZ7NE8r",
+					"display_url": "pic.twitter.com/3vRAZ7NE8r",
+					"expanded_url": "https://twitter.com/Postmates/status/1312053293749686273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 971,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 569,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312052329449885700,
+					"id_str": "1312052329449885696",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EjVYpF-VkAAByeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjVYpF-VkAAByeI.jpg",
+					"url": "https://t.co/3vRAZ7NE8r",
+					"display_url": "pic.twitter.com/3vRAZ7NE8r",
+					"expanded_url": "https://twitter.com/Postmates/status/1312053293749686273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 971,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 569,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276254736,
+			"id_str": "276254736",
+			"name": "Postmates",
+			"screen_name": "Postmates",
+			"location": "4,200+ cities & counting",
+			"description": "Whatever you need, whenever you need it. Postmate it. Need help? @Postmates_Help.",
+			"url": "https://t.co/sf2CLAfhYx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sf2CLAfhYx",
+							"expanded_url": "https://postmat.es/tw",
+							"display_url": "postmat.es/tw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142233,
+			"friends_count": 335,
+			"listed_count": 611,
+			"created_at": "Sun Apr 03 00:16:30 +0000 2011",
+			"favourites_count": 7264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267595912626311168/3Z8wHkHV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267595912626311168/3Z8wHkHV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276254736/1591053742",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "949494",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5407,
+		"favorite_count": 26417,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi #BLINKS. Wish you could win this @ygofficialblink ice cream merch? \n\n#BLACKPINK #블랙핑크 https://t.co/3vRAZ7NE8r"
+	},
+	{
+		"created_at": "Fri Oct 02 17:27:21 +0000 2020",
+		"id": 1312069402586620000,
+		"id_str": "1312081751888584706",
+		"full_text": "Tune in to Twitch at 2pm PT to watch our interview with @AmazonMusic! https://t.co/NEeOzo2p00 https://t.co/2PzRI1AaN4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amazonmusic",
+					"name": "Amazon Music",
+					"id": 14740219,
+					"id_str": "14740219",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NEeOzo2p00",
+					"expanded_url": "https://www.twitch.tv/amazonmusic",
+					"display_url": "twitch.tv/amazonmusic",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312069381896110000,
+					"id_str": "1312069381896110081",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EjVoJrSVgAEQ03U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjVoJrSVgAEQ03U.jpg",
+					"url": "https://t.co/2PzRI1AaN4",
+					"display_url": "pic.twitter.com/2PzRI1AaN4",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1312069402586619904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 917,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 917,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312069381896110000,
+					"id_str": "1312069381896110081",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EjVoJrSVgAEQ03U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjVoJrSVgAEQ03U.jpg",
+					"url": "https://t.co/2PzRI1AaN4",
+					"display_url": "pic.twitter.com/2PzRI1AaN4",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1312069402586619904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 917,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 917,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1988736,
+			"friends_count": 0,
+			"listed_count": 2726,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9232,
+		"favorite_count": 31688,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tune in to Twitch at 2pm PT to watch our interview with @AmazonMusic! https://t.co/NEeOzo2p00 https://t.co/2PzRI1AaN4"
+	},
+	{
+		"created_at": "Fri Oct 02 17:27:05 +0000 2020",
+		"id": 1312069206087614500,
+		"id_str": "1312081683852779521",
+		"full_text": "New merch available now! https://t.co/55XBhAyvvf https://t.co/DRpKu54f45",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/55XBhAyvvf",
+					"expanded_url": "https://smarturl.it/BLACKPINKShop",
+					"display_url": "smarturl.it/BLACKPINKShop",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312069169492361200,
+					"id_str": "1312069169492361216",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312069169492361216/pu/img/5DII0FGgJ8drmwbb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312069169492361216/pu/img/5DII0FGgJ8drmwbb.jpg",
+					"url": "https://t.co/DRpKu54f45",
+					"display_url": "pic.twitter.com/DRpKu54f45",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1312069206087614464/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312069169492361200,
+					"id_str": "1312069169492361216",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312069169492361216/pu/img/5DII0FGgJ8drmwbb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312069169492361216/pu/img/5DII0FGgJ8drmwbb.jpg",
+					"url": "https://t.co/DRpKu54f45",
+					"display_url": "pic.twitter.com/DRpKu54f45",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1312069206087614464/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1312069169492361216/pu/pl/A2MOhDkn31y2bzm_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312069169492361216/pu/vid/480x480/AhLEXwL9NsskqeFL.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312069169492361216/pu/vid/720x720/esfiFgGSlBsQoiR6.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312069169492361216/pu/vid/320x320/0_YqLzAH1-lFG52B.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1988736,
+			"friends_count": 0,
+			"listed_count": 2726,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11002,
+		"favorite_count": 46330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New merch available now! https://t.co/55XBhAyvvf https://t.co/DRpKu54f45"
+	},
+	{
 		"created_at": "Fri Oct 02 16:27:05 +0000 2020",
 		"id": 1312054797466361900,
 		"id_str": "1312066583334924290",
