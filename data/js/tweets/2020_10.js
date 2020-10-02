@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 01:27:57 +0000 2020",
+		"id": 1311829765712760800,
+		"id_str": "1311840308842377216",
+		"full_text": "Red Velvet’s \"Perfect Velvet\" is the ultimate girl group album, according to fans https://t.co/FLcY2Z0nbd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FLcY2Z0nbd",
+					"expanded_url": "http://blbrd.cm/WG7id46",
+					"display_url": "blbrd.cm/WG7id46",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9576198,
+			"friends_count": 3194,
+			"listed_count": 19566,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 259678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1600351576",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2404,
+		"favorite_count": 5524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet’s \"Perfect Velvet\" is the ultimate girl group album, according to fans https://t.co/FLcY2Z0nbd"
+	},
+	{
+		"created_at": "Fri Oct 02 01:27:23 +0000 2020",
+		"id": 1311833356854677500,
+		"id_str": "1311840168106758144",
+		"full_text": "#BLACKPINK ‘THE ALBUM’ COMEBACK LIVE\n\n▶️https://t.co/GYY1HtwwXM\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #ComebackLive #NowOnAir #Vlive #20201001_9pmEST #20201002_10amKST #Release #20201002_12amEST #20201002_1pmKST #YG https://t.co/t0E7rSc7jM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "ComebackLive",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "NowOnAir",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "Vlive",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "20201001_9pmEST",
+					"indices": [
+						126,
+						142
+					]
+				},
+				{
+					"text": "20201002_10amKST",
+					"indices": [
+						143,
+						160
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "20201002_12amEST",
+					"indices": [
+						170,
+						187
+					]
+				},
+				{
+					"text": "20201002_1pmKST",
+					"indices": [
+						188,
+						204
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						205,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GYY1HtwwXM",
+					"expanded_url": "https://www.vlive.tv/video/215424",
+					"display_url": "vlive.tv/video/215424",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311831124474093600,
+					"id_str": "1311831124474093570",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EjSPdROUYAIQXK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjSPdROUYAIQXK2.jpg",
+					"url": "https://t.co/t0E7rSc7jM",
+					"display_url": "pic.twitter.com/t0E7rSc7jM",
+					"expanded_url": "https://twitter.com/ygent_official/status/1311833356854677504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311831124474093600,
+					"id_str": "1311831124474093570",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EjSPdROUYAIQXK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjSPdROUYAIQXK2.jpg",
+					"url": "https://t.co/t0E7rSc7jM",
+					"display_url": "pic.twitter.com/t0E7rSc7jM",
+					"expanded_url": "https://twitter.com/ygent_official/status/1311833356854677504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6762977,
+			"friends_count": 38,
+			"listed_count": 6871,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13493,
+		"favorite_count": 44388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘THE ALBUM’ COMEBACK LIVE\n\n▶️https://t.co/GYY1HtwwXM\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #ComebackLive #NowOnAir #Vlive #20201001_9pmEST #20201002_10amKST #Release #20201002_12amEST #20201002_1pmKST #YG https://t.co/t0E7rSc7jM"
+	},
+	{
+		"created_at": "Fri Oct 02 01:27:14 +0000 2020",
+		"id": 1311833276772806700,
+		"id_str": "1311840129808465920",
+		"full_text": "‘THE ALBUM’ COMEBACK LIVE\n👉https://t.co/Qa42PEDit7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qa42PEDit7",
+					"expanded_url": "https://www.vlive.tv/video/215424",
+					"display_url": "vlive.tv/video/215424",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1961380,
+			"friends_count": 0,
+			"listed_count": 2677,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19641,
+		"favorite_count": 50319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘THE ALBUM’ COMEBACK LIVE\n👉https://t.co/Qa42PEDit7"
+	},
+	{
 		"created_at": "Fri Oct 02 00:27:05 +0000 2020",
 		"id": 1311818297403273200,
 		"id_str": "1311824991609131008",
