@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 03:27:21 +0000 2020",
+		"id": 1311867305744236500,
+		"id_str": "1311870358455226374",
+		"full_text": "예리의 데이즈드(DAZED) 화보 촬영 VLOG✌️\nV.log with style magazine DAZED\nWhich one of these 10 styles do you like?\n👉https://t.co/JzaoddwQcb\n\n#예리 #데이즈드 @DazedKorea #Yeri #RedVelvet #YerisRoom #레드벨벳 #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "YerisRoom",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DazedKorea",
+					"name": "DAZED KOREA 데이즈드 코리아",
+					"id": 128813558,
+					"id_str": "128813558",
+					"indices": [
+						139,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JzaoddwQcb",
+					"expanded_url": "https://youtu.be/5osuEF8Tap4",
+					"display_url": "youtu.be/5osuEF8Tap4",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28871,
+			"friends_count": 0,
+			"listed_count": 148,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 536,
+		"favorite_count": 739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예리의 데이즈드(DAZED) 화보 촬영 VLOG✌️\nV.log with style magazine DAZED\nWhich one of these 10 styles do you like?\n👉https://t.co/JzaoddwQcb\n\n#예리 #데이즈드 @DazedKorea #Yeri #RedVelvet #YerisRoom #레드벨벳 #예리한방"
+	},
+	{
+		"created_at": "Fri Oct 02 03:27:09 +0000 2020",
+		"id": 1311863480249712600,
+		"id_str": "1311870307309948928",
+		"full_text": "It’s time! We’re so excited to celebrate the release of #THEALBUM and answer some of your questions on #NewMusicDaily Presents BLACKPINK. Watch along live on @AppleMusic: https://t.co/UgPokYi4Zm https://t.co/XkeHYXTAsx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THEALBUM",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "NewMusicDaily",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						158,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UgPokYi4Zm",
+					"expanded_url": "http://apple.co/NMDBLACKPINKLive",
+					"display_url": "apple.co/NMDBLACKPINKLi…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311639368407244800,
+					"id_str": "1311639368407244802",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EjPhDmNU4AIuizG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjPhDmNU4AIuizG.jpg",
+					"url": "https://t.co/XkeHYXTAsx",
+					"display_url": "pic.twitter.com/XkeHYXTAsx",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1311863480249712640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311639368407244800,
+					"id_str": "1311639368407244802",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EjPhDmNU4AIuizG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjPhDmNU4AIuizG.jpg",
+					"url": "https://t.co/XkeHYXTAsx",
+					"display_url": "pic.twitter.com/XkeHYXTAsx",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1311863480249712640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1964029,
+			"friends_count": 0,
+			"listed_count": 2696,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25320,
+		"favorite_count": 77642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s time! We’re so excited to celebrate the release of #THEALBUM and answer some of your questions on #NewMusicDaily Presents BLACKPINK. Watch along live on @AppleMusic: https://t.co/UgPokYi4Zm https://t.co/XkeHYXTAsx"
+	},
+	{
+		"created_at": "Fri Oct 02 03:27:05 +0000 2020",
+		"id": 1311863479435886600,
+		"id_str": "1311870290079735808",
+		"full_text": "[이달의소녀탐구 #630]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/QtptR8W2yK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311650557082308600,
+					"id_str": "1311650557082308608",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311650557082308608/pu/img/Wbos2dWd_k2tv6sR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311650557082308608/pu/img/Wbos2dWd_k2tv6sR.jpg",
+					"url": "https://t.co/QtptR8W2yK",
+					"display_url": "pic.twitter.com/QtptR8W2yK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1311863479435886594/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311650557082308600,
+					"id_str": "1311650557082308608",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311650557082308608/pu/img/Wbos2dWd_k2tv6sR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311650557082308608/pu/img/Wbos2dWd_k2tv6sR.jpg",
+					"url": "https://t.co/QtptR8W2yK",
+					"display_url": "pic.twitter.com/QtptR8W2yK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1311863479435886594/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60494,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311650557082308608/pu/vid/640x360/PoixXlDuZzdXmV5m.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1311650557082308608/pu/pl/5DwdOu1dTco9CTbr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311650557082308608/pu/vid/1280x720/2MpozcidVpSj2rd-.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311650557082308608/pu/vid/480x270/PcOTcrYHhLh598P0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544564,
+			"friends_count": 0,
+			"listed_count": 5670,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2764,
+		"favorite_count": 9052,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #630]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/QtptR8W2yK"
+	},
+	{
+		"created_at": "Fri Oct 02 03:15:27 +0000 2020",
+		"id": 1311833279562014700,
+		"id_str": "1311867364007264256",
+		"full_text": "아이돌들과 반려견들의 유쾌한 레이스\n귀욤 뿜뿜 러블리 뿜뿜\n\n&lt;#아이돌멍멍선수권대회&gt;\n오늘 오후 5시 50분(1.2부), 8시(3부) 방송 https://t.co/j1J9X00wrZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌멍멍선수권대회",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311704749549314000,
+					"id_str": "1311704749549314048",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EjQeAsHU0AIZ2mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjQeAsHU0AIZ2mo.jpg",
+					"url": "https://t.co/j1J9X00wrZ",
+					"display_url": "pic.twitter.com/j1J9X00wrZ",
+					"expanded_url": "https://twitter.com/withMBC/status/1311833279562014721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311704749549314000,
+					"id_str": "1311704749549314048",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EjQeAsHU0AIZ2mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjQeAsHU0AIZ2mo.jpg",
+					"url": "https://t.co/j1J9X00wrZ",
+					"display_url": "pic.twitter.com/j1J9X00wrZ",
+					"expanded_url": "https://twitter.com/withMBC/status/1311833279562014721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38071,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311704749549314048/vid/480x270/NG7szS51MToeNq9z.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311704749549314048/vid/640x360/Aki95MRjwPRP445R.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1311704749549314048/pl/LcQ7lYGricWmxyoo.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311704749549314048/vid/1280x720/HofvJ1v_s-loMLpK.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1002401,
+			"friends_count": 10219,
+			"listed_count": 4199,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1598400001",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 579,
+		"favorite_count": 840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이돌들과 반려견들의 유쾌한 레이스\n귀욤 뿜뿜 러블리 뿜뿜\n\n&lt;#아이돌멍멍선수권대회&gt;\n오늘 오후 5시 50분(1.2부), 8시(3부) 방송 https://t.co/j1J9X00wrZ"
+	},
+	{
 		"created_at": "Fri Oct 02 03:01:05 +0000 2020",
 		"id": 1311863746512461800,
 		"id_str": "1311863746512461825",
