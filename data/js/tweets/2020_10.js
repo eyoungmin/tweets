@@ -1,6 +1,3147 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 07:01:52 +0000 2020",
+		"id": 1311924345401471000,
+		"id_str": "1311924345401470976",
+		"full_text": "Ella Mai – Not Another Love Song (Official Audio)\nhttps://t.co/VCZaxszZxR\n#Ella_Mai #엘라마이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ella_Mai",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "엘라마이",
+					"indices": [
+						84,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VCZaxszZxR",
+					"expanded_url": "https://youtu.be/30WQefSF3Ks",
+					"display_url": "youtu.be/30WQefSF3Ks",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ella Mai – Not Another Love Song (Official Audio)\nhttps://t.co/VCZaxszZxR\n#Ella_Mai #엘라마이"
+	},
+	{
+		"created_at": "Fri Oct 02 07:01:52 +0000 2020",
+		"id": 1311924341404307500,
+		"id_str": "1311924341404307458",
+		"full_text": "#팩트체크 #SNU팩트체크\n식당 등에서 마스크 미착용시 당장 처벌 가능하다\n▶ 판단유보\nhttps://t.co/ljszAD4ImZ\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ljszAD4ImZ",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2534",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n식당 등에서 마스크 미착용시 당장 처벌 가능하다\n▶ 판단유보\nhttps://t.co/ljszAD4ImZ\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Fri Oct 02 07:01:42 +0000 2020",
+		"id": 1311924303533875200,
+		"id_str": "1311924303533875202",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n[스페셜 영상] 예리의 데이즈드 화보 촬영 VLOG✌️\nhttps://t.co/sapbtI2HYF\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sapbtI2HYF",
+					"expanded_url": "https://youtu.be/5osuEF8Tap4",
+					"display_url": "youtu.be/5osuEF8Tap4",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n[스페셜 영상] 예리의 데이즈드 화보 촬영 VLOG✌️\nhttps://t.co/sapbtI2HYF\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
+		"created_at": "Fri Oct 02 07:01:37 +0000 2020",
+		"id": 1311924278628151300,
+		"id_str": "1311924278628151297",
+		"full_text": "Birdy - Island Lights [Live Performance Video]\nhttps://t.co/oWhd4KwEwN\n#Birdy #버디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Birdy",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "버디",
+					"indices": [
+						78,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oWhd4KwEwN",
+					"expanded_url": "https://youtu.be/-v_J6bZsgdg",
+					"display_url": "youtu.be/-v_J6bZsgdg",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Birdy - Island Lights [Live Performance Video]\nhttps://t.co/oWhd4KwEwN\n#Birdy #버디"
+	},
+	{
+		"created_at": "Fri Oct 02 06:57:30 +0000 2020",
+		"id": 1311911358418489300,
+		"id_str": "1311923243880599553",
+		"full_text": "BTS at THE TONIGHT SHOW D4\n\nHoseok wears BERLUTI shirt.\n\n#JHOPE #BTSOnFallon_D4 @BTS_twt https://t.co/BfElWiPqVT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JHOPE",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "BTSOnFallon_D4",
+					"indices": [
+						64,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311911352252817400,
+					"id_str": "1311911352252817408",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTYbI_U4AAxjVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTYbI_U4AAxjVJ.jpg",
+					"url": "https://t.co/BfElWiPqVT",
+					"display_url": "pic.twitter.com/BfElWiPqVT",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311911358418489345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311911352252817400,
+					"id_str": "1311911352252817408",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTYbI_U4AAxjVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTYbI_U4AAxjVJ.jpg",
+					"url": "https://t.co/BfElWiPqVT",
+					"display_url": "pic.twitter.com/BfElWiPqVT",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311911358418489345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311909247047725000,
+		"in_reply_to_status_id_str": "1311909247047725057",
+		"in_reply_to_user_id": 1253270114838831000,
+		"in_reply_to_user_id_str": "1253270114838831104",
+		"in_reply_to_screen_name": "Bangtan_Style07",
+		"user": {
+			"id": 1253270114838831000,
+			"id_str": "1253270114838831104",
+			"name": "𝙱𝚊𝚗𝚐𝚝𝚊𝚗 𝚂𝚝𝚢𝚕𝚎⁷",
+			"screen_name": "Bangtan_Style07",
+			"location": "",
+			"description": "All about the latest BTS fashion updates from personal styles to official looks and fashion media coverage. STREAM MOTS:7 & MOTS:The Journey,D-2 & DYNAMITE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50650,
+			"friends_count": 1540,
+			"listed_count": 239,
+			"created_at": "Thu Apr 23 10:31:09 +0000 2020",
+			"favourites_count": 3705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253270114838831104/1599104332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BTS at THE TONIGHT SHOW D4\n\nHoseok wears BERLUTI shirt.\n\n#JHOPE #BTSOnFallon_D4 @BTS_twt https://t.co/BfElWiPqVT"
+	},
+	{
+		"created_at": "Fri Oct 02 06:57:28 +0000 2020",
+		"id": 1311909247047725000,
+		"id_str": "1311923236385419265",
+		"full_text": "BTS at THE TONIGHT SHOW D4\n\nSeokjin wears BERLUTI shirt.\n\n#JIN #BTSOnFallon_D4 @BTS_twt https://t.co/osUVgaAU3N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JIN",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "BTSOnFallon_D4",
+					"indices": [
+						63,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311909241158942700,
+					"id_str": "1311909241158942727",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTWgQjUwAc7CVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTWgQjUwAc7CVw.jpg",
+					"url": "https://t.co/osUVgaAU3N",
+					"display_url": "pic.twitter.com/osUVgaAU3N",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311909247047725057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311909241158942700,
+					"id_str": "1311909241158942727",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTWgQjUwAc7CVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTWgQjUwAc7CVw.jpg",
+					"url": "https://t.co/osUVgaAU3N",
+					"display_url": "pic.twitter.com/osUVgaAU3N",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311909247047725057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311906202629021700,
+		"in_reply_to_status_id_str": "1311906202629021698",
+		"in_reply_to_user_id": 1253270114838831000,
+		"in_reply_to_user_id_str": "1253270114838831104",
+		"in_reply_to_screen_name": "Bangtan_Style07",
+		"user": {
+			"id": 1253270114838831000,
+			"id_str": "1253270114838831104",
+			"name": "𝙱𝚊𝚗𝚐𝚝𝚊𝚗 𝚂𝚝𝚢𝚕𝚎⁷",
+			"screen_name": "Bangtan_Style07",
+			"location": "",
+			"description": "All about the latest BTS fashion updates from personal styles to official looks and fashion media coverage. STREAM MOTS:7 & MOTS:The Journey,D-2 & DYNAMITE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50650,
+			"friends_count": 1540,
+			"listed_count": 239,
+			"created_at": "Thu Apr 23 10:31:09 +0000 2020",
+			"favourites_count": 3705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253270114838831104/1599104332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BTS at THE TONIGHT SHOW D4\n\nSeokjin wears BERLUTI shirt.\n\n#JIN #BTSOnFallon_D4 @BTS_twt https://t.co/osUVgaAU3N"
+	},
+	{
+		"created_at": "Fri Oct 02 06:57:26 +0000 2020",
+		"id": 1311906202629021700,
+		"id_str": "1311923226826559488",
+		"full_text": "BTS at THE TONIGHT SHOW D4\n\nJimin wears ROLAND MOURET top.\n\n#JIMIN #BTSOnFallon_D4 @BTS_twt https://t.co/9NxgJLjOqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JIMIN",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "BTSOnFallon_D4",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311906195817472000,
+					"id_str": "1311906195817472001",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTTu_xVoAERnvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTTu_xVoAERnvD.jpg",
+					"url": "https://t.co/9NxgJLjOqL",
+					"display_url": "pic.twitter.com/9NxgJLjOqL",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311906202629021698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311906195817472000,
+					"id_str": "1311906195817472001",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTTu_xVoAERnvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTTu_xVoAERnvD.jpg",
+					"url": "https://t.co/9NxgJLjOqL",
+					"display_url": "pic.twitter.com/9NxgJLjOqL",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311906202629021698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311896211159310300,
+		"in_reply_to_status_id_str": "1311896211159310342",
+		"in_reply_to_user_id": 1253270114838831000,
+		"in_reply_to_user_id_str": "1253270114838831104",
+		"in_reply_to_screen_name": "Bangtan_Style07",
+		"user": {
+			"id": 1253270114838831000,
+			"id_str": "1253270114838831104",
+			"name": "𝙱𝚊𝚗𝚐𝚝𝚊𝚗 𝚂𝚝𝚢𝚕𝚎⁷",
+			"screen_name": "Bangtan_Style07",
+			"location": "",
+			"description": "All about the latest BTS fashion updates from personal styles to official looks and fashion media coverage. STREAM MOTS:7 & MOTS:The Journey,D-2 & DYNAMITE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50650,
+			"friends_count": 1540,
+			"listed_count": 239,
+			"created_at": "Thu Apr 23 10:31:09 +0000 2020",
+			"favourites_count": 3705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253270114838831104/1599104332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BTS at THE TONIGHT SHOW D4\n\nJimin wears ROLAND MOURET top.\n\n#JIMIN #BTSOnFallon_D4 @BTS_twt https://t.co/9NxgJLjOqL"
+	},
+	{
+		"created_at": "Fri Oct 02 06:57:24 +0000 2020",
+		"id": 1311896211159310300,
+		"id_str": "1311923219545255937",
+		"full_text": "BTS at THE TONIGHT SHOW D4\n\nNamjoon wears LOUIS VUITTON shirt &amp; VALENTINO trousers.\n\n#RM #BTSOnFallon_D4 @BTS_twt https://t.co/W4SVCXZkYJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RM",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "BTSOnFallon_D4",
+					"indices": [
+						93,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311896203743817700,
+					"id_str": "1311896203743817731",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTKpYZVcAMI9uC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTKpYZVcAMI9uC.jpg",
+					"url": "https://t.co/W4SVCXZkYJ",
+					"display_url": "pic.twitter.com/W4SVCXZkYJ",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311896211159310342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311896203743817700,
+					"id_str": "1311896203743817731",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTKpYZVcAMI9uC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTKpYZVcAMI9uC.jpg",
+					"url": "https://t.co/W4SVCXZkYJ",
+					"display_url": "pic.twitter.com/W4SVCXZkYJ",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311896211159310342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311890962533085200,
+		"in_reply_to_status_id_str": "1311890962533085185",
+		"in_reply_to_user_id": 1253270114838831000,
+		"in_reply_to_user_id_str": "1253270114838831104",
+		"in_reply_to_screen_name": "Bangtan_Style07",
+		"user": {
+			"id": 1253270114838831000,
+			"id_str": "1253270114838831104",
+			"name": "𝙱𝚊𝚗𝚐𝚝𝚊𝚗 𝚂𝚝𝚢𝚕𝚎⁷",
+			"screen_name": "Bangtan_Style07",
+			"location": "",
+			"description": "All about the latest BTS fashion updates from personal styles to official looks and fashion media coverage. STREAM MOTS:7 & MOTS:The Journey,D-2 & DYNAMITE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50650,
+			"friends_count": 1540,
+			"listed_count": 239,
+			"created_at": "Thu Apr 23 10:31:09 +0000 2020",
+			"favourites_count": 3705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253270114838831104/1599104332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BTS at THE TONIGHT SHOW D4\n\nNamjoon wears LOUIS VUITTON shirt &amp; VALENTINO trousers.\n\n#RM #BTSOnFallon_D4 @BTS_twt https://t.co/W4SVCXZkYJ"
+	},
+	{
+		"created_at": "Fri Oct 02 06:57:22 +0000 2020",
+		"id": 1311890962533085200,
+		"id_str": "1311923210867277824",
+		"full_text": "BTS at THE TONIGHT SHOW D4\n\nJungkook wears BERLUTI silk shirt\n\n#JUNGKOOK #BTSOnFallon_D4 @BTS_twt https://t.co/n95qxJ2yOF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUNGKOOK",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"text": "BTSOnFallon_D4",
+					"indices": [
+						73,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311890957034348500,
+					"id_str": "1311890957034348546",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTF3-4UYAIyioU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTF3-4UYAIyioU.jpg",
+					"url": "https://t.co/n95qxJ2yOF",
+					"display_url": "pic.twitter.com/n95qxJ2yOF",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311890962533085185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311890957034348500,
+					"id_str": "1311890957034348546",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTF3-4UYAIyioU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTF3-4UYAIyioU.jpg",
+					"url": "https://t.co/n95qxJ2yOF",
+					"display_url": "pic.twitter.com/n95qxJ2yOF",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311890962533085185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311890003337703400,
+		"in_reply_to_status_id_str": "1311890003337703425",
+		"in_reply_to_user_id": 1253270114838831000,
+		"in_reply_to_user_id_str": "1253270114838831104",
+		"in_reply_to_screen_name": "Bangtan_Style07",
+		"user": {
+			"id": 1253270114838831000,
+			"id_str": "1253270114838831104",
+			"name": "𝙱𝚊𝚗𝚐𝚝𝚊𝚗 𝚂𝚝𝚢𝚕𝚎⁷",
+			"screen_name": "Bangtan_Style07",
+			"location": "",
+			"description": "All about the latest BTS fashion updates from personal styles to official looks and fashion media coverage. STREAM MOTS:7 & MOTS:The Journey,D-2 & DYNAMITE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50650,
+			"friends_count": 1540,
+			"listed_count": 239,
+			"created_at": "Thu Apr 23 10:31:09 +0000 2020",
+			"favourites_count": 3705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253270114838831104/1599104332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BTS at THE TONIGHT SHOW D4\n\nJungkook wears BERLUTI silk shirt\n\n#JUNGKOOK #BTSOnFallon_D4 @BTS_twt https://t.co/n95qxJ2yOF"
+	},
+	{
+		"created_at": "Fri Oct 02 06:57:20 +0000 2020",
+		"id": 1311890003337703400,
+		"id_str": "1311923204588363777",
+		"full_text": "BTS at THE TONIGHT SHOW D4\n\nTaehyung wears BERLUTI sweater.\n\n#TAEHYUNG #BTSOnFallon_D4 @BTS_twt https://t.co/jTR9qB7H3e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEHYUNG",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "BTSOnFallon_D4",
+					"indices": [
+						71,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311889994328334300,
+					"id_str": "1311889994328334336",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTE_8hUYAAqD3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTE_8hUYAAqD3K.jpg",
+					"url": "https://t.co/jTR9qB7H3e",
+					"display_url": "pic.twitter.com/jTR9qB7H3e",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311890003337703425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311889994328334300,
+					"id_str": "1311889994328334336",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTE_8hUYAAqD3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTE_8hUYAAqD3K.jpg",
+					"url": "https://t.co/jTR9qB7H3e",
+					"display_url": "pic.twitter.com/jTR9qB7H3e",
+					"expanded_url": "https://twitter.com/Bangtan_Style07/status/1311890003337703425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311889989710487600,
+		"in_reply_to_status_id_str": "1311889989710487552",
+		"in_reply_to_user_id": 1253270114838831000,
+		"in_reply_to_user_id_str": "1253270114838831104",
+		"in_reply_to_screen_name": "Bangtan_Style07",
+		"user": {
+			"id": 1253270114838831000,
+			"id_str": "1253270114838831104",
+			"name": "𝙱𝚊𝚗𝚐𝚝𝚊𝚗 𝚂𝚝𝚢𝚕𝚎⁷",
+			"screen_name": "Bangtan_Style07",
+			"location": "",
+			"description": "All about the latest BTS fashion updates from personal styles to official looks and fashion media coverage. STREAM MOTS:7 & MOTS:The Journey,D-2 & DYNAMITE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50650,
+			"friends_count": 1540,
+			"listed_count": 239,
+			"created_at": "Thu Apr 23 10:31:09 +0000 2020",
+			"favourites_count": 3705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289950746515931136/02fZab9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253270114838831104/1599104332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BTS at THE TONIGHT SHOW D4\n\nTaehyung wears BERLUTI sweater.\n\n#TAEHYUNG #BTSOnFallon_D4 @BTS_twt https://t.co/jTR9qB7H3e"
+	},
+	{
+		"created_at": "Fri Oct 02 06:47:15 +0000 2020",
+		"id": 1311920663876104200,
+		"id_str": "1311920663876104192",
+		"full_text": "방탄 선생님들 광택있는 셔츠 유행좀 만들어주세요. 한시즌 돌고 들어가서 다시 안나와서 너무 아쉬운데 트렌드 만들어주세요 😊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "방탄 선생님들 광택있는 셔츠 유행좀 만들어주세요. 한시즌 돌고 들어가서 다시 안나와서 너무 아쉬운데 트렌드 만들어주세요 😊"
+	},
+	{
+		"created_at": "Fri Oct 02 06:46:08 +0000 2020",
+		"id": 1311920382517997600,
+		"id_str": "1311920382517997568",
+		"full_text": "의상 정보 언제뜨지... 셔츠핏 뭐지.... https://t.co/4aB2nPU8m3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4aB2nPU8m3",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1311887607492640768",
+					"display_url": "twitter.com/FallonTonight/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311887607492640800,
+		"quoted_status_id_str": "1311887607492640768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4aB2nPU8m3",
+			"expanded": "https://twitter.com/FallonTonight/status/1311887607492640768",
+			"display": "twitter.com/FallonTonight/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 02 04:35:53 +0000 2020",
+			"id": 1311887607492640800,
+			"id_str": "1311887607492640768",
+			"full_text": "✨🌌 “Shine, Dream, Smile” 🌌✨\n\n.@BTS_twt shines in this performance of “Mikrokosmos” ✨\n\n▶️ https://t.co/GW0MJ3pNco \n\n#BTSWEEK #BTSonFallon_D4 https://t.co/r1efPl3rE8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BTSWEEK",
+						"indices": [
+							115,
+							123
+						]
+					},
+					{
+						"text": "BTSonFallon_D4",
+						"indices": [
+							124,
+							139
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BTS_twt",
+						"name": "방탄소년단",
+						"id": 335141638,
+						"id_str": "335141638",
+						"indices": [
+							30,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GW0MJ3pNco",
+						"expanded_url": "https://youtu.be/oYpUZjxJOVg",
+						"display_url": "youtu.be/oYpUZjxJOVg",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1311869740034424800,
+						"id_str": "1311869740034424833",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+						"url": "https://t.co/r1efPl3rE8",
+						"display_url": "pic.twitter.com/r1efPl3rE8",
+						"expanded_url": "https://twitter.com/FallonTonight/status/1311887607492640768/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311869740034424800,
+						"id_str": "1311869740034424833",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+						"url": "https://t.co/r1efPl3rE8",
+						"display_url": "pic.twitter.com/r1efPl3rE8",
+						"expanded_url": "https://twitter.com/FallonTonight/status/1311887607492640768/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 26226,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/640x360/nxqpWD8-KpX4It80.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/480x270/ZsNdyAN3pWTQbNmh.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1311869740034424833/pl/Yuoo-bDlal86Http.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/1280x720/is5_ktYxLR5j1fkm.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://youtu.be/oYpUZjxJOVg"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19777398,
+				"id_str": "19777398",
+				"name": "The Tonight Show",
+				"screen_name": "FallonTonight",
+				"location": "Back in 30 Rock!",
+				"description": "The Tonight Show starring @JimmyFallon\nWeeknights 11:35/10:35c on @NBC\nTweet along with us using #FallonTonight",
+				"url": "http://t.co/fgp5RYqr3T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fgp5RYqr3T",
+								"expanded_url": "http://www.tonightshow.com",
+								"display_url": "tonightshow.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4274901,
+				"friends_count": 21294,
+				"listed_count": 9601,
+				"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+				"favourites_count": 135173,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 86007,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "03253E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1310700736427196417/FEHiP1V3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310700736427196417/FEHiP1V3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1601330386",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78665,
+			"favorite_count": 183689,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "의상 정보 언제뜨지... 셔츠핏 뭐지.... https://t.co/4aB2nPU8m3"
+	},
+	{
+		"created_at": "Fri Oct 02 06:40:01 +0000 2020",
+		"id": 1311887607492640800,
+		"id_str": "1311918844705824768",
+		"full_text": "✨🌌 “Shine, Dream, Smile” 🌌✨\n\n.@BTS_twt shines in this performance of “Mikrokosmos” ✨\n\n▶️ https://t.co/GW0MJ3pNco \n\n#BTSWEEK #BTSonFallon_D4 https://t.co/r1efPl3rE8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTSWEEK",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "BTSonFallon_D4",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GW0MJ3pNco",
+					"expanded_url": "https://youtu.be/oYpUZjxJOVg",
+					"display_url": "youtu.be/oYpUZjxJOVg",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311869740034424800,
+					"id_str": "1311869740034424833",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+					"url": "https://t.co/r1efPl3rE8",
+					"display_url": "pic.twitter.com/r1efPl3rE8",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1311887607492640768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311869740034424800,
+					"id_str": "1311869740034424833",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+					"url": "https://t.co/r1efPl3rE8",
+					"display_url": "pic.twitter.com/r1efPl3rE8",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1311887607492640768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26226,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/640x360/nxqpWD8-KpX4It80.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/480x270/ZsNdyAN3pWTQbNmh.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1311869740034424833/pl/Yuoo-bDlal86Http.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/1280x720/is5_ktYxLR5j1fkm.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/oYpUZjxJOVg"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19777398,
+			"id_str": "19777398",
+			"name": "The Tonight Show",
+			"screen_name": "FallonTonight",
+			"location": "Back in 30 Rock!",
+			"description": "The Tonight Show starring @JimmyFallon\nWeeknights 11:35/10:35c on @NBC\nTweet along with us using #FallonTonight",
+			"url": "http://t.co/fgp5RYqr3T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fgp5RYqr3T",
+							"expanded_url": "http://www.tonightshow.com",
+							"display_url": "tonightshow.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4274901,
+			"friends_count": 21294,
+			"listed_count": 9601,
+			"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+			"favourites_count": 135173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03253E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310700736427196417/FEHiP1V3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310700736427196417/FEHiP1V3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1601330386",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78665,
+		"favorite_count": 183689,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨🌌 “Shine, Dream, Smile” 🌌✨\n\n.@BTS_twt shines in this performance of “Mikrokosmos” ✨\n\n▶️ https://t.co/GW0MJ3pNco \n\n#BTSWEEK #BTSonFallon_D4 https://t.co/r1efPl3rE8"
+	},
+	{
+		"created_at": "Fri Oct 02 06:38:49 +0000 2020",
+		"id": 1311918542577565700,
+		"id_str": "1311918542577565696",
+		"full_text": "해외 아티스트들이 보통 싱글내고 정규내면 싱글 내려버리는 방법으로 음원차트 누적 좋아요나 스트리밍수 날라간다고 팬들이 아쉬워하긴 하는데 이건 프로모션하는 레이블의 역할이지 음원사이트가 함부로 건들수 없는 부분인데 음원사이트에게 일 잘하라고 쏟아지는 건...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1311917645797621800,
+		"in_reply_to_status_id_str": "1311917645797621761",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "해외 아티스트들이 보통 싱글내고 정규내면 싱글 내려버리는 방법으로 음원차트 누적 좋아요나 스트리밍수 날라간다고 팬들이 아쉬워하긴 하는데 이건 프로모션하는 레이블의 역할이지 음원사이트가 함부로 건들수 없는 부분인데 음원사이트에게 일 잘하라고 쏟아지는 건..."
+	},
+	{
+		"created_at": "Fri Oct 02 06:35:15 +0000 2020",
+		"id": 1311917645797621800,
+		"id_str": "1311917645797621761",
+		"full_text": "블핑 1, 2번 트랙 중단했네. 전략적으로 보이는데 정규를 발매했는데 음원차트 성적때문에 막는다는건... 🤔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "블핑 1, 2번 트랙 중단했네. 전략적으로 보이는데 정규를 발매했는데 음원차트 성적때문에 막는다는건... 🤔"
+	},
+	{
+		"created_at": "Fri Oct 02 06:31:19 +0000 2020",
+		"id": 1311916656864583700,
+		"id_str": "1311916656864583680",
+		"full_text": "기준대로 판단하고 시켰어야 했는데 닭갈비집이 지난번에 먹은 곳과 여기뿐이라 다른 곳에서 먹고 싶어서 리뷰도 4개밖에 없는 곳에서 시켰는데... 그냥 닭갈비는 가서 먹거나 포장제품 시켜먹는 걸로.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1311915935570092000,
+		"in_reply_to_status_id_str": "1311915935570092033",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "기준대로 판단하고 시켰어야 했는데 닭갈비집이 지난번에 먹은 곳과 여기뿐이라 다른 곳에서 먹고 싶어서 리뷰도 4개밖에 없는 곳에서 시켰는데... 그냥 닭갈비는 가서 먹거나 포장제품 시켜먹는 걸로."
+	},
+	{
+		"created_at": "Fri Oct 02 06:28:27 +0000 2020",
+		"id": 1311915935570092000,
+		"id_str": "1311915935570092033",
+		"full_text": "방금 답변이 달렸다는 알림이 왔는데 들어가니 없다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1311915822382604300,
+		"in_reply_to_status_id_str": "1311915822382604288",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "방금 답변이 달렸다는 알림이 왔는데 들어가니 없다..."
+	},
+	{
+		"created_at": "Fri Oct 02 06:28:00 +0000 2020",
+		"id": 1311915822382604300,
+		"id_str": "1311915822382604288",
+		"full_text": "소비자의 문제거나 알바거나 다른 경쟁업체를 깎으려는 사람들도 있겠지만서도. 리뷰 시스템자체에 공신력 신뢰도가 없는 현재의 구조는 바뀌어야 한다고 생각함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1311914128475213800,
+		"in_reply_to_status_id_str": "1311914128475213824",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "소비자의 문제거나 알바거나 다른 경쟁업체를 깎으려는 사람들도 있겠지만서도. 리뷰 시스템자체에 공신력 신뢰도가 없는 현재의 구조는 바뀌어야 한다고 생각함."
+	},
+	{
+		"created_at": "Fri Oct 02 06:27:05 +0000 2020",
+		"id": 1311894464051343400,
+		"id_str": "1311915589313736704",
+		"full_text": "BLACKPINK \"THE ALBUM\" TITLE SONG - LOVESICK GIRLS RELEASES IN-GAME ON OCT.02\n\nLog in the game and listen to BLACKPINK’s new song!\n\n@ygent_official @BLACKPINK #PUBGMxBLACKPINK https://t.co/GvgqIoZ5Q9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PUBGMxBLACKPINK",
+					"indices": [
+						158,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygent_official",
+					"name": "YG FAMILY",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						131,
+						146
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						147,
+						157
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311894429502861300,
+					"id_str": "1311894429502861312",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTJCG1U8AAtFHg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTJCG1U8AAtFHg.jpg",
+					"url": "https://t.co/GvgqIoZ5Q9",
+					"display_url": "pic.twitter.com/GvgqIoZ5Q9",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1311894464051343361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311894429502861300,
+					"id_str": "1311894429502861312",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTJCG1U8AAtFHg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjTJCG1U8AAtFHg.jpg",
+					"url": "https://t.co/GvgqIoZ5Q9",
+					"display_url": "pic.twitter.com/GvgqIoZ5Q9",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1311894464051343361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968652142750810100,
+			"id_str": "968652142750810114",
+			"name": "PUBG MOBILE",
+			"screen_name": "PUBGMOBILE",
+			"location": "",
+			"description": "PLAYERUNKNOWN'S BATTLEGROUNDS goes mobile - the original Battle Royale game is now available on your device! #pubgmobile",
+			"url": "https://t.co/Wx3JvVKSnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wx3JvVKSnL",
+							"expanded_url": "http://pubgm.cc",
+							"display_url": "pubgm.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1102314,
+			"friends_count": 150,
+			"listed_count": 520,
+			"created_at": "Wed Feb 28 01:00:42 +0000 2018",
+			"favourites_count": 3464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308980746175033345/PlP8k0-r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308980746175033345/PlP8k0-r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968652142750810114/1600920316",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11974,
+		"favorite_count": 39986,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK \"THE ALBUM\" TITLE SONG - LOVESICK GIRLS RELEASES IN-GAME ON OCT.02\n\nLog in the game and listen to BLACKPINK’s new song!\n\n@ygent_official @BLACKPINK #PUBGMxBLACKPINK https://t.co/GvgqIoZ5Q9"
+	},
+	{
+		"created_at": "Fri Oct 02 06:21:17 +0000 2020",
+		"id": 1311914128475213800,
+		"id_str": "1311914128475213824",
+		"full_text": "배달앱의 리뷰 문제는 답글에 사장이 답을 달면 소비자는 다시 답글을 달 수 없음. 다시 댓글을 달려면 또 시켜먹어야 한다. 실구매자 정책 때문인데 이것이 나는 수많은 리뷰논란의 문제를 만든다고 본다. 소비자가 잘못했네로 끝나게 되는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1311913187931897900,
+		"in_reply_to_status_id_str": "1311913187931897856",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "배달앱의 리뷰 문제는 답글에 사장이 답을 달면 소비자는 다시 답글을 달 수 없음. 다시 댓글을 달려면 또 시켜먹어야 한다. 실구매자 정책 때문인데 이것이 나는 수많은 리뷰논란의 문제를 만든다고 본다. 소비자가 잘못했네로 끝나게 되는."
+	},
+	{
+		"created_at": "Fri Oct 02 06:17:32 +0000 2020",
+		"id": 1311913187931897900,
+		"id_str": "1311913187931897856",
+		"full_text": "요새는 안심번호도 하지마라 아이디도 써라 이래서 하나같이 의미없음. 리뷰 받아먹고 부담스럽게 문자보내고 메시지 같이 보내서 별 다섯개 부탁한다고. 시스템상의 문제도 있지만 3개 아래로는 잘 주지 않는데, 제대로 먹지도 못하고 실망하고 걍 누움.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1311912578147250200,
+		"in_reply_to_status_id_str": "1311912578147250176",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "요새는 안심번호도 하지마라 아이디도 써라 이래서 하나같이 의미없음. 리뷰 받아먹고 부담스럽게 문자보내고 메시지 같이 보내서 별 다섯개 부탁한다고. 시스템상의 문제도 있지만 3개 아래로는 잘 주지 않는데, 제대로 먹지도 못하고 실망하고 걍 누움."
+	},
+	{
+		"created_at": "Fri Oct 02 06:15:07 +0000 2020",
+		"id": 1311912578147250200,
+		"id_str": "1311912578147250176",
+		"full_text": "어차피 배달앱의 별점같은건 의미없다. 원래 리뷰 다수 보고 오히려 별 낮게준 사람의 리뷰를 보는데 물론 그과정에서 그 사람의 이전 리뷰도 같이 본다. 협박 문자며 들어와서 배달원인지 점원인지 배달하면서 리뷰남기라고 하던 사람도 있었고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1311911806797922300,
+		"in_reply_to_status_id_str": "1311911806797922304",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 953,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어차피 배달앱의 별점같은건 의미없다. 원래 리뷰 다수 보고 오히려 별 낮게준 사람의 리뷰를 보는데 물론 그과정에서 그 사람의 이전 리뷰도 같이 본다. 협박 문자며 들어와서 배달원인지 점원인지 배달하면서 리뷰남기라고 하던 사람도 있었고."
+	},
+	{
 		"created_at": "Fri Oct 02 05:27:05 +0000 2020",
 		"id": 1311893673836077000,
 		"id_str": "1311900489404080129",
