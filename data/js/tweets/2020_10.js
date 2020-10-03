@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 05:34:08 +0000 2020",
+		"id": 1312263853091086300,
+		"id_str": "1312264653041360896",
+		"full_text": "블랙핑크의 첫 정규 &lt;The Album&gt;에서 여러분들의 최애곡은 무엇인가요? 투표하고 결과도 확인하세요!\n\nWhat's your favorite song on Blackpink's 'The Album'? Vote and find out the result!\n\n#블랙핑크 #BLACKPINK\n\nhttps://t.co/Lc7jFNUPdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						157,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lc7jFNUPdw",
+					"expanded_url": "https://www.billboard.com/articles/columns/k-town/9459346/favorite-song-blackpink-debut-album-poll/",
+					"display_url": "billboard.com/articles/colum…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46451,
+			"friends_count": 30,
+			"listed_count": 83,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1599479013",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크의 첫 정규 &lt;The Album&gt;에서 여러분들의 최애곡은 무엇인가요? 투표하고 결과도 확인하세요!\n\nWhat's your favorite song on Blackpink's 'The Album'? Vote and find out the result!\n\n#블랙핑크 #BLACKPINK\n\nhttps://t.co/Lc7jFNUPdw"
+	},
+	{
+		"created_at": "Sat Oct 03 05:32:08 +0000 2020",
+		"id": 1312258348314579000,
+		"id_str": "1312264150484099073",
+		"full_text": "연휴 중에 보면 좋은 유익한 컨퍼런스. \n&lt;Bias, by Us&gt; 혐오를 주제로 한 인류학, 법학, 미디어학, 심리학 학자들의 연속 강연! 신청 접수와 함께 바로 시청 가능.\n\nhttps://t.co/0Lnyh5z6bM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Lnyh5z6bM",
+					"expanded_url": "https://tncfoundation.org/",
+					"display_url": "tncfoundation.org",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174556876,
+			"id_str": "174556876",
+			"name": "홍성수",
+			"screen_name": "sungsooh",
+			"location": "Republic of Korea",
+			"description": "법사회학/법철학/인권 연구자. 블로그 참조. 트위터는 외부 글 링크용으로만 사용합니다. 연락은 이메일로 부탁드립니다. sungsooh@gmail.com",
+			"url": "https://t.co/HlMdKviSff",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HlMdKviSff",
+							"expanded_url": "http://transproms.tistory.com",
+							"display_url": "transproms.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47834,
+			"friends_count": 8696,
+			"listed_count": 721,
+			"created_at": "Wed Aug 04 06:16:41 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896423579578806272/ZfK8FPJB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896423579578806272/ZfK8FPJB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174556876/1386733770",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연휴 중에 보면 좋은 유익한 컨퍼런스. \n&lt;Bias, by Us&gt; 혐오를 주제로 한 인류학, 법학, 미디어학, 심리학 학자들의 연속 강연! 신청 접수와 함께 바로 시청 가능.\n\nhttps://t.co/0Lnyh5z6bM"
+	},
+	{
+		"created_at": "Sat Oct 03 05:32:05 +0000 2020",
+		"id": 1312264136705761300,
+		"id_str": "1312264136705761280",
+		"full_text": "@sungsooh 교수님 신청을 했는데 비공개 유튜브 링크를 못받았는데 어떻게 받을 수 있을까요?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sungsooh",
+					"name": "홍성수",
+					"id": 174556876,
+					"id_str": "174556876",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1312258348314579000,
+		"in_reply_to_status_id_str": "1312258348314578944",
+		"in_reply_to_user_id": 174556876,
+		"in_reply_to_user_id_str": "174556876",
+		"in_reply_to_screen_name": "sungsooh",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 956,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sungsooh 교수님 신청을 했는데 비공개 유튜브 링크를 못받았는데 어떻게 받을 수 있을까요?"
+	},
+	{
 		"created_at": "Sat Oct 03 04:30:00 +0000 2020",
 		"id": 1311695510651060200,
 		"id_str": "1312248514315862016",
