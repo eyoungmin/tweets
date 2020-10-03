@@ -1,6 +1,905 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 04:30:00 +0000 2020",
+		"id": 1311695510651060200,
+		"id_str": "1312248514315862016",
+		"full_text": "정밀아 정규3집 &lt;청파소나타&gt; 티저Ver.01\nhttps://t.co/CZgAxPX7jH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CZgAxPX7jH",
+					"expanded_url": "https://www.youtube.com/watch?v=Lowo254aduY",
+					"display_url": "youtube.com/watch?v=Lowo25…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2972799367,
+			"id_str": "2972799367",
+			"name": "정밀아Jeongmilla",
+			"screen_name": "Jeong_milla",
+			"location": "",
+			"description": "정밀아 정규1집 [그리움도 병] 정규2집 [은하수] 싱글 [무명] [꽃] [언제나그댈]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 87,
+			"listed_count": 6,
+			"created_at": "Sat Jan 10 18:56:39 +0000 2015",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2972799367/1598485533",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정밀아 정규3집 &lt;청파소나타&gt; 티저Ver.01\nhttps://t.co/CZgAxPX7jH"
+	},
+	{
+		"created_at": "Sat Oct 03 04:27:05 +0000 2020",
+		"id": 1312241099121946600,
+		"id_str": "1312247777993293824",
+		"full_text": "#BLACKPINK 'Lovesick Girls' M/V MAKING FILM\n\n🎬YouTube : https://t.co/mjFVMXwIBE\n📺NAVER TV : https://t.co/WDEManDxaD\n\n'Lovesick Girls' M/V\nhttps://t.co/gfPGEjluUD\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #LovesickGirls #MV_MAKING #YG https://t.co/hcIjwMPWFZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						183,
+						192
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						193,
+						207
+					]
+				},
+				{
+					"text": "MV_MAKING",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						219,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mjFVMXwIBE",
+					"expanded_url": "https://youtu.be/Hryms86U1cE",
+					"display_url": "youtu.be/Hryms86U1cE",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/WDEManDxaD",
+					"expanded_url": "https://tv.naver.com/v/16047001",
+					"display_url": "tv.naver.com/v/16047001",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/gfPGEjluUD",
+					"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+					"display_url": "youtu.be/dyRsYk0LyA8",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312236076166074400,
+					"id_str": "1312236076166074368",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EjYAnjNVgAEg-Pd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjYAnjNVgAEg-Pd.jpg",
+					"url": "https://t.co/hcIjwMPWFZ",
+					"display_url": "pic.twitter.com/hcIjwMPWFZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1312241099121946625/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312236076166074400,
+					"id_str": "1312236076166074368",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EjYAnjNVgAEg-Pd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjYAnjNVgAEg-Pd.jpg",
+					"url": "https://t.co/hcIjwMPWFZ",
+					"display_url": "pic.twitter.com/hcIjwMPWFZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1312241099121946625/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 248123,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1312236076166074368/pl/y-Dk_tArlffXuOiZ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1312236076166074368/vid/640x360/UnwkRQaN7phwdsSi.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1312236076166074368/vid/1280x720/eqWK8ZfITZPWuVXx.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1312236076166074368/vid/480x270/EAf0vWo0Jd6LxPhY.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK 'Lovesick Girls' M/V MAKING FILM",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6769437,
+			"friends_count": 38,
+			"listed_count": 6869,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23633,
+		"favorite_count": 58556,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Lovesick Girls' M/V MAKING FILM\n\n🎬YouTube : https://t.co/mjFVMXwIBE\n📺NAVER TV : https://t.co/WDEManDxaD\n\n'Lovesick Girls' M/V\nhttps://t.co/gfPGEjluUD\n\n#블랙핑크 #1stFULLALBUM #THEALBUM #LovesickGirls #MV_MAKING #YG https://t.co/hcIjwMPWFZ"
+	},
+	{
+		"created_at": "Sat Oct 03 04:25:54 +0000 2020",
+		"id": 1312240721651359700,
+		"id_str": "1312247481543979009",
+		"full_text": "페이스북, 크롬 확장 개발회사 2개를 사용자 데이터 수집 혐의로 고소  https://t.co/sITFIgMKFY \n- 사용자 동의 없이 페이스북/인스타그램 데이터를 수집한 혐의로 UpVoice 와 Ads Feed 확장의 개발사 고소.\n- 설치수 5천~1만번 정도인 이 크롬 확장들은 설치한 사용자가 큰 회사의 \"패널&amp;q...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sITFIgMKFY",
+					"expanded_url": "https://j.mp/3l3Ueew",
+					"display_url": "j.mp/3l3Ueew",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4107,
+			"friends_count": 0,
+			"listed_count": 60,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북, 크롬 확장 개발회사 2개를 사용자 데이터 수집 혐의로 고소  https://t.co/sITFIgMKFY \n- 사용자 동의 없이 페이스북/인스타그램 데이터를 수집한 혐의로 UpVoice 와 Ads Feed 확장의 개발사 고소.\n- 설치수 5천~1만번 정도인 이 크롬 확장들은 설치한 사용자가 큰 회사의 \"패널&amp;q..."
+	},
+	{
+		"created_at": "Sat Oct 03 04:23:48 +0000 2020",
+		"id": 1312090351285366800,
+		"id_str": "1312246952847761408",
+		"full_text": "확보할 수 있도록 함. 그래서 나는 이게 좋은 기획이라고 생각해. 00년대 콘텐츠를 다루는 선두에 선 프로그램이 10년대 후반에 이런 잣대를 만들어준 것은 혁신이었다.(깡이 어떻게 다뤄졌는지 비교하면) 앞으로 과거의 콘텐츠를 다룰 때 이런 잣대 없이 소비한다면 왠지 촌스럽다고 느껴지지 않을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1312089341720633300,
+		"in_reply_to_status_id_str": "1312089341720633346",
+		"in_reply_to_user_id": 903961033529630700,
+		"in_reply_to_user_id_str": "903961033529630725",
+		"in_reply_to_screen_name": "sephialone",
+		"user": {
+			"id": 903961033529630700,
+			"id_str": "903961033529630725",
+			"name": "셒🍇",
+			"screen_name": "sephialone",
+			"location": "",
+			"description": "#MeToo #WithYou my life is not your porn 알림뮤트/미러블락/보겸체블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1571,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Sat Sep 02 12:41:19 +0000 2017",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "확보할 수 있도록 함. 그래서 나는 이게 좋은 기획이라고 생각해. 00년대 콘텐츠를 다루는 선두에 선 프로그램이 10년대 후반에 이런 잣대를 만들어준 것은 혁신이었다.(깡이 어떻게 다뤄졌는지 비교하면) 앞으로 과거의 콘텐츠를 다룰 때 이런 잣대 없이 소비한다면 왠지 촌스럽다고 느껴지지 않을까."
+	},
+	{
+		"created_at": "Sat Oct 03 04:23:47 +0000 2020",
+		"id": 1312089341720633300,
+		"id_str": "1312246946740854784",
+		"full_text": "가사를 분석하고 패륜을 지적함. 오빠는 OPPA로 치환됨. 콘텐츠를 재구성하면서 소비하기 때문에 '부끄러움'을 인지하고 승화하는 과정이 동반된다. 이건 당시 케이팝의 고질적인 문제(좋은 멜로디에 감수성이 구린 가사)를 지적하는 동시에 좋았던 그 요소(음악)들을 정당하게 감상할 수 있는 루트를",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1312087687415779300,
+		"in_reply_to_status_id_str": "1312087687415779328",
+		"in_reply_to_user_id": 903961033529630700,
+		"in_reply_to_user_id_str": "903961033529630725",
+		"in_reply_to_screen_name": "sephialone",
+		"user": {
+			"id": 903961033529630700,
+			"id_str": "903961033529630725",
+			"name": "셒🍇",
+			"screen_name": "sephialone",
+			"location": "",
+			"description": "#MeToo #WithYou my life is not your porn 알림뮤트/미러블락/보겸체블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1571,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Sat Sep 02 12:41:19 +0000 2017",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가사를 분석하고 패륜을 지적함. 오빠는 OPPA로 치환됨. 콘텐츠를 재구성하면서 소비하기 때문에 '부끄러움'을 인지하고 승화하는 과정이 동반된다. 이건 당시 케이팝의 고질적인 문제(좋은 멜로디에 감수성이 구린 가사)를 지적하는 동시에 좋았던 그 요소(음악)들을 정당하게 감상할 수 있는 루트를"
+	},
+	{
+		"created_at": "Sat Oct 03 04:22:41 +0000 2020",
+		"id": 1312087687415779300,
+		"id_str": "1312246672970268673",
+		"full_text": "8. '숨어서 듣는 명곡'이라는 네이밍이 포함하고 있듯이 토토가처럼 그시절 추억과 우상들을 소환하는 것이 아니라 이 기획은 '부끄러움'을 함께 소환하고 있음. 중독성이 있든 어떤 이유에서든 모두가 좋아하는 콘텐츠이지만 대놓고 열광할 수 있는 성격의 것이 아님을 밝히는 것임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1312086843471532000,
+		"in_reply_to_status_id_str": "1312086843471532033",
+		"in_reply_to_user_id": 903961033529630700,
+		"in_reply_to_user_id_str": "903961033529630725",
+		"in_reply_to_screen_name": "sephialone",
+		"user": {
+			"id": 903961033529630700,
+			"id_str": "903961033529630725",
+			"name": "셒🍇",
+			"screen_name": "sephialone",
+			"location": "",
+			"description": "#MeToo #WithYou my life is not your porn 알림뮤트/미러블락/보겸체블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1571,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Sat Sep 02 12:41:19 +0000 2017",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "8. '숨어서 듣는 명곡'이라는 네이밍이 포함하고 있듯이 토토가처럼 그시절 추억과 우상들을 소환하는 것이 아니라 이 기획은 '부끄러움'을 함께 소환하고 있음. 중독성이 있든 어떤 이유에서든 모두가 좋아하는 콘텐츠이지만 대놓고 열광할 수 있는 성격의 것이 아님을 밝히는 것임."
+	},
+	{
+		"created_at": "Sat Oct 03 04:22:23 +0000 2020",
+		"id": 1312086843471532000,
+		"id_str": "1312246595061125120",
+		"full_text": "5. 남탕제작자 기획이었던 토토가와 비교하면 오히려 열기에 비해 저평가되고 있다고 생각하고\n6. 아이돌 콘텐츠를 다룸에 있어 업계 최고 수준의 감수성\n7. 아이돌이라는 표현은 사실 좀 부적절할 수 있음 문특팀에서는 아이돌보다는 아티스트로 다루고 있다고 생각함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1312085924507873300,
+		"in_reply_to_status_id_str": "1312085924507873280",
+		"in_reply_to_user_id": 903961033529630700,
+		"in_reply_to_user_id_str": "903961033529630725",
+		"in_reply_to_screen_name": "sephialone",
+		"user": {
+			"id": 903961033529630700,
+			"id_str": "903961033529630725",
+			"name": "셒🍇",
+			"screen_name": "sephialone",
+			"location": "",
+			"description": "#MeToo #WithYou my life is not your porn 알림뮤트/미러블락/보겸체블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1571,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Sat Sep 02 12:41:19 +0000 2017",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 314,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "5. 남탕제작자 기획이었던 토토가와 비교하면 오히려 열기에 비해 저평가되고 있다고 생각하고\n6. 아이돌 콘텐츠를 다룸에 있어 업계 최고 수준의 감수성\n7. 아이돌이라는 표현은 사실 좀 부적절할 수 있음 문특팀에서는 아이돌보다는 아티스트로 다루고 있다고 생각함"
+	},
+	{
+		"created_at": "Sat Oct 03 04:22:21 +0000 2020",
+		"id": 1312085924507873300,
+		"id_str": "1312246588824145920",
+		"full_text": "내가 생각하는 문특의 의의는 이거야\n1. 90년대생(00년대) 문화를 수면위로 끌어올린 것\n2. 문화를 소비하던 세대가 생산하는 세대가 됐고 그 선두에 문특이라는 여성 크리에이터 팀이 있는 것\n3. 재재의 진행능력은 더 많이 인정받아야하고\n4. 문특 팀 메이저로 진출하셨으면하고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 903961033529630700,
+			"id_str": "903961033529630725",
+			"name": "셒🍇",
+			"screen_name": "sephialone",
+			"location": "",
+			"description": "#MeToo #WithYou my life is not your porn 알림뮤트/미러블락/보겸체블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1571,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Sat Sep 02 12:41:19 +0000 2017",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245369444991299584/svdu8Jp6_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1847,
+		"favorite_count": 988,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내가 생각하는 문특의 의의는 이거야\n1. 90년대생(00년대) 문화를 수면위로 끌어올린 것\n2. 문화를 소비하던 세대가 생산하는 세대가 됐고 그 선두에 문특이라는 여성 크리에이터 팀이 있는 것\n3. 재재의 진행능력은 더 많이 인정받아야하고\n4. 문특 팀 메이저로 진출하셨으면하고"
+	},
+	{
 		"created_at": "Sat Oct 03 03:15:22 +0000 2020",
 		"id": 1293911257053945900,
 		"id_str": "1312229729785704449",
