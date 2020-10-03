@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 03:15:22 +0000 2020",
+		"id": 1293911257053945900,
+		"id_str": "1312229729785704449",
+		"full_text": "자우림 23년 전의 쩌는 무대 보실 분 https://t.co/fOJwAL1ne4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293910487747268600,
+					"id_str": "1293910487747268609",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293910487747268609/pu/img/9AOTpIckJpZCVqVV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293910487747268609/pu/img/9AOTpIckJpZCVqVV.jpg",
+					"url": "https://t.co/fOJwAL1ne4",
+					"display_url": "pic.twitter.com/fOJwAL1ne4",
+					"expanded_url": "https://twitter.com/i_love_2020_/status/1293911257053945856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293910487747268600,
+					"id_str": "1293910487747268609",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293910487747268609/pu/img/9AOTpIckJpZCVqVV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293910487747268609/pu/img/9AOTpIckJpZCVqVV.jpg",
+					"url": "https://t.co/fOJwAL1ne4",
+					"display_url": "pic.twitter.com/fOJwAL1ne4",
+					"expanded_url": "https://twitter.com/i_love_2020_/status/1293911257053945856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 138988,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293910487747268609/pu/vid/1280x720/sCwda08XM86lasxp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1293910487747268609/pu/pl/W0dC1QCFuFHEC-79.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293910487747268609/pu/vid/480x270/UlorWkLyr7SVr0Rf.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293910487747268609/pu/vid/640x360/9W4lmUP9G8EteA3x.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 959016980467540000,
+			"id_str": "959016980467539969",
+			"name": "그땐그랬지",
+			"screen_name": "i_love_2020_",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54634,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Feb 01 10:54:00 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284171369907798023/zV2G7goE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284171369907798023/zV2G7goE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/959016980467539969/1554045870",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4494,
+		"favorite_count": 4089,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 23년 전의 쩌는 무대 보실 분 https://t.co/fOJwAL1ne4"
+	},
+	{
 		"created_at": "Sat Oct 03 03:00:45 +0000 2020",
 		"id": 1312226050504560600,
 		"id_str": "1312226050504560642",
