@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 16:55:37 +0000 2020",
+		"id": 1310172298901631000,
+		"id_str": "1312798540259753985",
+		"full_text": "Resources to discover profitable businesses by indie makers\n\n🧑‍💻 https://t.co/Q4nBDmFFBZ by @csallen \n🧑‍💻 https://t.co/IR7d2FzY1q by @raunometsa \n🧑‍💻 https://t.co/28YEGKtNip by @ferminrp \n🧑‍💻 https://t.co/OlljbKFxov by @sagunsh\n🧑‍💻 https://t.co/cwn6xTtkbK\n🧑‍💻 https://t.co/tyqQPIWVJ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csallen",
+					"name": "Courtland Allen",
+					"id": 15211790,
+					"id_str": "15211790",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"screen_name": "raunometsa",
+					"name": "Rauno Metsa",
+					"id": 2358405398,
+					"id_str": "2358405398",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"screen_name": "ferminrp",
+					"name": "Fermin Rodriguez",
+					"id": 766336330397777900,
+					"id_str": "766336330397777920",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"screen_name": "sagunsh",
+					"name": "Sagun Shrestha",
+					"id": 1177304586,
+					"id_str": "1177304586",
+					"indices": [
+						219,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q4nBDmFFBZ",
+					"expanded_url": "http://indiehackers.com/products",
+					"display_url": "indiehackers.com/products",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/IR7d2FzY1q",
+					"expanded_url": "http://makehub.io",
+					"display_url": "makehub.io",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/28YEGKtNip",
+					"expanded_url": "http://open-startups.xyz",
+					"display_url": "open-startups.xyz",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"url": "https://t.co/OlljbKFxov",
+					"expanded_url": "http://openstartup.dev",
+					"display_url": "openstartup.dev",
+					"indices": [
+						192,
+						215
+					]
+				},
+				{
+					"url": "https://t.co/cwn6xTtkbK",
+					"expanded_url": "http://profithunt.co",
+					"display_url": "profithunt.co",
+					"indices": [
+						232,
+						255
+					]
+				},
+				{
+					"url": "https://t.co/tyqQPIWVJ5",
+					"expanded_url": "http://news.ycombinator.com/item?id=19701783",
+					"display_url": "news.ycombinator.com/item?id=197017…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2849072026,
+			"id_str": "2849072026",
+			"name": "Matt Ha 👨🏻‍💻",
+			"screen_name": "matthlavacka",
+			"location": "Prague, Czechia",
+			"description": "Microstartup Maker 👨🏻‍💻 Building  https://t.co/0cQMX3ewDu  in public.",
+			"url": "https://t.co/ijohtNYp5b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ijohtNYp5b",
+							"expanded_url": "https://medium.com/@matthlavacka",
+							"display_url": "medium.com/@matthlavacka",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0cQMX3ewDu",
+							"expanded_url": "https://jobboardsheet.com",
+							"display_url": "jobboardsheet.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 612,
+			"friends_count": 190,
+			"listed_count": 35,
+			"created_at": "Tue Oct 28 23:51:22 +0000 2014",
+			"favourites_count": 5701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297278996552601600/aJfK0vzh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297278996552601600/aJfK0vzh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2849072026/1591008056",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Resources to discover profitable businesses by indie makers\n\n🧑‍💻 https://t.co/Q4nBDmFFBZ by @csallen \n🧑‍💻 https://t.co/IR7d2FzY1q by @raunometsa \n🧑‍💻 https://t.co/28YEGKtNip by @ferminrp \n🧑‍💻 https://t.co/OlljbKFxov by @sagunsh\n🧑‍💻 https://t.co/cwn6xTtkbK\n🧑‍💻 https://t.co/tyqQPIWVJ5"
+	},
+	{
 		"created_at": "Sun Oct 04 15:56:27 +0000 2020",
 		"id": 1312783651692662800,
 		"id_str": "1312783651692662785",
