@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 03:59:34 +0000 2020",
+		"id": 1312603240484294700,
+		"id_str": "1312603240484294658",
+		"full_text": "#YG라이프 #YG엔터테인먼트\nYG 트레저, 수록곡 ‘B.L.T’ 셀피 버전 MV 깜짝 공개\nhttps://t.co/szyGcGXBsG\n#블랙핑크 #BLACKPINK https://t.co/RRswCCwZ5C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/szyGcGXBsG",
+					"expanded_url": "https://yg-life.com/archives/160682?lang=ko",
+					"display_url": "yg-life.com/archives/16068…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312603239351832600,
+					"id_str": "1312603239351832576",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EjdNsRSX0AAfgLq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjdNsRSX0AAfgLq.jpg",
+					"url": "https://t.co/RRswCCwZ5C",
+					"display_url": "pic.twitter.com/RRswCCwZ5C",
+					"expanded_url": "https://twitter.com/fromminn/status/1312603240484294658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 228,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 228,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 151,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312603239351832600,
+					"id_str": "1312603239351832576",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EjdNsRSX0AAfgLq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjdNsRSX0AAfgLq.jpg",
+					"url": "https://t.co/RRswCCwZ5C",
+					"display_url": "pic.twitter.com/RRswCCwZ5C",
+					"expanded_url": "https://twitter.com/fromminn/status/1312603240484294658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 228,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 228,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 151,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\nYG 트레저, 수록곡 ‘B.L.T’ 셀피 버전 MV 깜짝 공개\nhttps://t.co/szyGcGXBsG\n#블랙핑크 #BLACKPINK https://t.co/RRswCCwZ5C"
+	},
+	{
+		"created_at": "Sun Oct 04 03:27:17 +0000 2020",
+		"id": 1312588327090962400,
+		"id_str": "1312595117082128384",
+		"full_text": "가을향기 물씬 느껴지는 오늘도 MC #이브 와 함께 TBS ‘팩트인스타’ 본방사수하는 날이에요🍂 잠시 후 오후 12시 30분(KST)에 늦지 않게 만나요!\n\n#이달의소녀 #LOONA #Yves https://t.co/YjYtWErsPG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312588315657289700,
+					"id_str": "1312588315657289729",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EjdAHmMUwAEIkSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjdAHmMUwAEIkSG.jpg",
+					"url": "https://t.co/YjYtWErsPG",
+					"display_url": "pic.twitter.com/YjYtWErsPG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1312588327090962434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1231,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1189,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312588315657289700,
+					"id_str": "1312588315657289729",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EjdAHmMUwAEIkSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjdAHmMUwAEIkSG.jpg",
+					"url": "https://t.co/YjYtWErsPG",
+					"display_url": "pic.twitter.com/YjYtWErsPG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1312588327090962434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1231,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1189,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544926,
+			"friends_count": 0,
+			"listed_count": 5679,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4900,
+		"favorite_count": 15195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가을향기 물씬 느껴지는 오늘도 MC #이브 와 함께 TBS ‘팩트인스타’ 본방사수하는 날이에요🍂 잠시 후 오후 12시 30분(KST)에 늦지 않게 만나요!\n\n#이달의소녀 #LOONA #Yves https://t.co/YjYtWErsPG"
+	},
+	{
+		"created_at": "Sun Oct 04 03:27:10 +0000 2020",
+		"id": 1312585185674891300,
+		"id_str": "1312595087239655425",
+		"full_text": "차주은과 정복기의 행복한 한 때..\n\nJTBC수목드라마 #사생활 10월7일 밤 9시30분 첫방송❤️ https://t.co/HUw2q74RrA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						31,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HUw2q74RrA",
+					"expanded_url": "https://www.instagram.com/p/CF58LrUgf22/?igshid=14axunnw9xegn",
+					"display_url": "instagram.com/p/CF58LrUgf22/…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383997,
+			"friends_count": 31,
+			"listed_count": 2855,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 531,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차주은과 정복기의 행복한 한 때..\n\nJTBC수목드라마 #사생활 10월7일 밤 9시30분 첫방송❤️ https://t.co/HUw2q74RrA"
+	},
+	{
+		"created_at": "Sun Oct 04 03:27:05 +0000 2020",
+		"id": 1312580666840809500,
+		"id_str": "1312595065798373376",
+		"full_text": "#사생활 D-4\n사기캐들의 통쾌한 사기 플레이👊\n사시캐들의 현실생활 &lt;사생활&gt;\n10/7(수) 밤9:30 첫 방송\n#JTBC #새수목드라마 #사생활 #PrivateLives\n#서현 #고경표 #김효진 #김영민 #태원석\n#ComingSoonJTBC #10월7일_밤_9시30분 #첫방송 https://t.co/gTnAGItICO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "새수목드라마",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "PrivateLives",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "태원석",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "ComingSoonJTBC",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"text": "10월7일_밤_9시30분",
+					"indices": [
+						142,
+						156
+					]
+				},
+				{
+					"text": "첫방송",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gTnAGItICO",
+					"expanded_url": "https://www.instagram.com/p/CF56cPVBjC9/?igshid=18pq6azshww7",
+					"display_url": "instagram.com/p/CF56cPVBjC9/…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383997,
+			"friends_count": 31,
+			"listed_count": 2855,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 252,
+		"favorite_count": 579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사생활 D-4\n사기캐들의 통쾌한 사기 플레이👊\n사시캐들의 현실생활 &lt;사생활&gt;\n10/7(수) 밤9:30 첫 방송\n#JTBC #새수목드라마 #사생활 #PrivateLives\n#서현 #고경표 #김효진 #김영민 #태원석\n#ComingSoonJTBC #10월7일_밤_9시30분 #첫방송 https://t.co/gTnAGItICO"
+	},
+	{
 		"created_at": "Sun Oct 04 03:00:52 +0000 2020",
 		"id": 1312588469198299100,
 		"id_str": "1312588469198299136",
