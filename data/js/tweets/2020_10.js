@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 19:00:20 +0000 2020",
+		"id": 1307982910721593300,
+		"id_str": "1312829927251562497",
+		"full_text": "#뷰티쁠_스타\n#뷰티쁠 이 #레베럽 을 위해 Happiness한 선물을 준비했습니다! #레드벨벳 #웬디 (@RVsmtown)가 촬영장에서 인사말을 전해왔는데요. 웬디와 함께한 화보는 뷰티쁠 10월호에서 만나보실 수 있습니다.\n\nhttps://t.co/54GEUsoz3W\n\n#beautypl #redvelvet #wendy #손승완 #ShonSeungwan https://t.co/zSDYP7nmuW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티쁠_스타",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "뷰티쁠",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "레베럽",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "beautypl",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"text": "wendy",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "손승완",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "ShonSeungwan",
+					"indices": [
+						185,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/54GEUsoz3W",
+					"expanded_url": "https://bit.ly/2Eine2w",
+					"display_url": "bit.ly/2Eine2w",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1307866881429102600,
+					"id_str": "1307866881429102592",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZ5_9EUYAAuO7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZ5_9EUYAAuO7C.jpg",
+					"url": "https://t.co/zSDYP7nmuW",
+					"display_url": "pic.twitter.com/zSDYP7nmuW",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1307982910721593344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307866881429102600,
+					"id_str": "1307866881429102592",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZ5_9EUYAAuO7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZ5_9EUYAAuO7C.jpg",
+					"url": "https://t.co/zSDYP7nmuW",
+					"display_url": "pic.twitter.com/zSDYP7nmuW",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1307982910721593344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245726999,
+			"id_str": "245726999",
+			"name": "뷰티쁠  BEAUTY+",
+			"screen_name": "beautyplmania",
+			"location": "Korea",
+			"description": "우리의 일상을 바꾸는 (뷰티+라이프) 매거진 뷰티쁠입니다. 코스메틱 브랜드의 신제품과 행사, 이벤트 소식을 매일 매일 업데이트하고 잘 나가는 뷰티 에디터들의 뷰티 노하우를 폭풍 전수합니다.",
+			"url": "https://t.co/kSUQZnUqY7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kSUQZnUqY7",
+							"expanded_url": "http://www.beautypl.co.kr/",
+							"display_url": "beautypl.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18675,
+			"friends_count": 6388,
+			"listed_count": 100,
+			"created_at": "Tue Feb 01 10:13:18 +0000 2011",
+			"favourites_count": 1242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310776136188616704/Ya39shxn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310776136188616704/Ya39shxn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245726999/1601348359",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3153,
+		"favorite_count": 4318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뷰티쁠_스타\n#뷰티쁠 이 #레베럽 을 위해 Happiness한 선물을 준비했습니다! #레드벨벳 #웬디 (@RVsmtown)가 촬영장에서 인사말을 전해왔는데요. 웬디와 함께한 화보는 뷰티쁠 10월호에서 만나보실 수 있습니다.\n\nhttps://t.co/54GEUsoz3W\n\n#beautypl #redvelvet #wendy #손승완 #ShonSeungwan https://t.co/zSDYP7nmuW"
+	},
+	{
+		"created_at": "Sun Oct 04 18:58:31 +0000 2020",
+		"id": 1310882589217943600,
+		"id_str": "1312829469799772160",
+		"full_text": "#사생활 의 두 배우 #김효진 과 #서현! 서로에게 물었습니다.👭🎤일상이 화보인 그녀들의 사생활 인터뷰, 전체 영상은 #퍼스트룩 유튜브에서 만나보세요.\n\n#1stLook interview with #KimHyoJin and #Seohyun has been released! https://t.co/q8l2LCG7dA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "KimHyoJin",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310877491146309600,
+					"id_str": "1310877491146309633",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310877491146309633/pu/img/aUC4NW0rcVvO0qqI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310877491146309633/pu/img/aUC4NW0rcVvO0qqI.jpg",
+					"url": "https://t.co/q8l2LCG7dA",
+					"display_url": "pic.twitter.com/q8l2LCG7dA",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1310882589217943552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310877491146309600,
+					"id_str": "1310877491146309633",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310877491146309633/pu/img/aUC4NW0rcVvO0qqI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310877491146309633/pu/img/aUC4NW0rcVvO0qqI.jpg",
+					"url": "https://t.co/q8l2LCG7dA",
+					"display_url": "pic.twitter.com/q8l2LCG7dA",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1310882589217943552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25292,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1310877491146309633/pu/vid/1280x720/DUSPZhYIHBKoJ8Kp.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1310877491146309633/pu/vid/640x360/3QwYZKeTvT8KAM1O.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1310877491146309633/pu/vid/480x270/Xz0OUfMsT8ZL9O9D.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1310877491146309633/pu/pl/1Gz1acv9lvm-kW81.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184878,
+			"friends_count": 1,
+			"listed_count": 315,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1600310784",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 520,
+		"favorite_count": 648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사생활 의 두 배우 #김효진 과 #서현! 서로에게 물었습니다.👭🎤일상이 화보인 그녀들의 사생활 인터뷰, 전체 영상은 #퍼스트룩 유튜브에서 만나보세요.\n\n#1stLook interview with #KimHyoJin and #Seohyun has been released! https://t.co/q8l2LCG7dA"
+	},
+	{
 		"created_at": "Sun Oct 04 17:39:38 +0000 2020",
 		"id": 1312809618352070700,
 		"id_str": "1312809618352070657",
