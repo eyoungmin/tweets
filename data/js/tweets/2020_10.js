@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 11:49:11 +0000 2020",
+		"id": 1312721423258079200,
+		"id_str": "1312721423258079234",
+		"full_text": "#예술의이유\n테스형이 여기에? 당신이 몰랐던 아테네학당의 비밀!\nhttps://t.co/t3k68bNDHE\n#예술경영 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술의이유",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						66,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3k68bNDHE",
+					"expanded_url": "https://youtu.be/DlrJ_ewiOnU",
+					"display_url": "youtu.be/DlrJ_ewiOnU",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술의이유\n테스형이 여기에? 당신이 몰랐던 아테네학당의 비밀!\nhttps://t.co/t3k68bNDHE\n#예술경영 #minfav"
+	},
+	{
+		"created_at": "Sun Oct 04 11:17:26 +0000 2020",
+		"id": 1312704123117006800,
+		"id_str": "1312713435382075393",
+		"full_text": "[#코로나19_중앙재난안전대책본부]\n【10월 4일 16시 30분 정례브리핑】\n\n✅ 마스크 착용 의무화(10.13~). 위반할 경우 과태료 부과\n✅ 생활치료센터 운영 효율화\n✅코리아세일페스타(11.1~15) 안전한 소비 행사로 추진\n\n자세히 보기 ☞ https://t.co/cflMnal4dR\n\n#추석특별방역기간\n#만남보다는_통화로 https://t.co/7J9pRPlMzU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코로나19_중앙재난안전대책본부",
+					"indices": [
+						1,
+						18
+					]
+				},
+				{
+					"text": "추석특별방역기간",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "만남보다는_통화로",
+					"indices": [
+						174,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cflMnal4dR",
+					"expanded_url": "https://bit.ly/3lgeYQj",
+					"display_url": "bit.ly/3lgeYQj",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312704102879514600,
+					"id_str": "1312704102879514626",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EjepbTNU0AId4FR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjepbTNU0AId4FR.jpg",
+					"url": "https://t.co/7J9pRPlMzU",
+					"display_url": "pic.twitter.com/7J9pRPlMzU",
+					"expanded_url": "https://twitter.com/mohwpr/status/1312704123117006848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312704102879514600,
+					"id_str": "1312704102879514626",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EjepbTNU0AId4FR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjepbTNU0AId4FR.jpg",
+					"url": "https://t.co/7J9pRPlMzU",
+					"display_url": "pic.twitter.com/7J9pRPlMzU",
+					"expanded_url": "https://twitter.com/mohwpr/status/1312704123117006848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90584054,
+			"id_str": "90584054",
+			"name": "보건복지부(따스아리)",
+			"screen_name": "mohwpr",
+			"location": "seoul, korea",
+			"description": "보건복지부가 트위터를 통해 국민께 다가가고자 합니다. 여러분 요구에 대해 따뜻한 응답을 드리겠습니다.mohw.go.kr",
+			"url": "https://t.co/za73A2zuEa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/za73A2zuEa",
+							"expanded_url": "http://blog.naver.com/mohw2016",
+							"display_url": "blog.naver.com/mohw2016",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80945,
+			"friends_count": 62549,
+			"listed_count": 1273,
+			"created_at": "Tue Nov 17 07:38:43 +0000 2009",
+			"favourites_count": 3853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103575806696026112/Y5Tg6aur_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103575806696026112/Y5Tg6aur_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90584054/1598248598",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#코로나19_중앙재난안전대책본부]\n【10월 4일 16시 30분 정례브리핑】\n\n✅ 마스크 착용 의무화(10.13~). 위반할 경우 과태료 부과\n✅ 생활치료센터 운영 효율화\n✅코리아세일페스타(11.1~15) 안전한 소비 행사로 추진\n\n자세히 보기 ☞ https://t.co/cflMnal4dR\n\n#추석특별방역기간\n#만남보다는_통화로 https://t.co/7J9pRPlMzU"
+	},
+	{
 		"created_at": "Sun Oct 04 10:14:57 +0000 2020",
 		"id": 1312697711590744000,
 		"id_str": "1312697711590744066",
