@@ -1,10 +1,210 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 17:39:38 +0000 2020",
+		"id": 1312809618352070700,
+		"id_str": "1312809618352070657",
+		"full_text": "#블록베리크리에이티브 #POST\n[이달의 소녀] Into the LOOΠΔtheworld\nhttps://t.co/aVRtwO1hBt\n#이달의소녀 #LOONA https://t.co/W2bfsNmhKl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블록베리크리에이티브",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "POST",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						81,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aVRtwO1hBt",
+					"expanded_url": "https://post.naver.com/viewer/postView.nhn?volumeNo=29612261&memberNo=39258591&navigationType=push",
+					"display_url": "post.naver.com/viewer/postVie…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312809616607244300,
+					"id_str": "1312809616607244289",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EjgJZAeXcAEev9q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjgJZAeXcAEev9q.jpg",
+					"url": "https://t.co/W2bfsNmhKl",
+					"display_url": "pic.twitter.com/W2bfsNmhKl",
+					"expanded_url": "https://twitter.com/fromminn/status/1312809618352070657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 707,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 707,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312809616607244300,
+					"id_str": "1312809616607244289",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EjgJZAeXcAEev9q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjgJZAeXcAEev9q.jpg",
+					"url": "https://t.co/W2bfsNmhKl",
+					"display_url": "pic.twitter.com/W2bfsNmhKl",
+					"expanded_url": "https://twitter.com/fromminn/status/1312809618352070657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 707,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 707,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블록베리크리에이티브 #POST\n[이달의 소녀] Into the LOOΠΔtheworld\nhttps://t.co/aVRtwO1hBt\n#이달의소녀 #LOONA https://t.co/W2bfsNmhKl"
+	},
+	{
 		"created_at": "Sun Oct 04 16:55:37 +0000 2020",
 		"id": 1310172298901631000,
 		"id_str": "1312798540259753985",
-		"full_text": "Resources to discover profitable businesses by indie makers\n\n🧑‍💻 https://t.co/Q4nBDmFFBZ by @csallen \n🧑‍💻 https://t.co/IR7d2FzY1q by @raunometsa \n🧑‍💻 https://t.co/28YEGKtNip by @ferminrp \n🧑‍💻 https://t.co/OlljbKFxov by @sagunsh\n🧑‍💻 https://t.co/cwn6xTtkbK\n🧑‍💻 https://t.co/tyqQPIWVJ5",
+		"full_text": "Resources to discover profitable businesses by indie makers\n\n🧑💻 https://t.co/Q4nBDmFFBZ by @csallen \n🧑💻 https://t.co/IR7d2FzY1q by @raunometsa \n🧑💻 https://t.co/28YEGKtNip by @ferminrp \n🧑💻 https://t.co/OlljbKFxov by @sagunsh\n🧑💻 https://t.co/cwn6xTtkbK\n🧑💻 https://t.co/tyqQPIWVJ5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -121,10 +321,10 @@ Grailbird.data.tweets_2020_10 =
 		"user": {
 			"id": 2849072026,
 			"id_str": "2849072026",
-			"name": "Matt Ha 👨🏻‍💻",
+			"name": "Matt Ha 👨🏻💻",
 			"screen_name": "matthlavacka",
 			"location": "Prague, Czechia",
-			"description": "Microstartup Maker 👨🏻‍💻 Building  https://t.co/0cQMX3ewDu  in public.",
+			"description": "Microstartup Maker 👨🏻💻 Building  https://t.co/0cQMX3ewDu  in public.",
 			"url": "https://t.co/ijohtNYp5b",
 			"entities": {
 				"url": {
@@ -200,7 +400,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Resources to discover profitable businesses by indie makers\n\n🧑‍💻 https://t.co/Q4nBDmFFBZ by @csallen \n🧑‍💻 https://t.co/IR7d2FzY1q by @raunometsa \n🧑‍💻 https://t.co/28YEGKtNip by @ferminrp \n🧑‍💻 https://t.co/OlljbKFxov by @sagunsh\n🧑‍💻 https://t.co/cwn6xTtkbK\n🧑‍💻 https://t.co/tyqQPIWVJ5"
+		"text": "Resources to discover profitable businesses by indie makers\n\n🧑💻 https://t.co/Q4nBDmFFBZ by @csallen \n🧑💻 https://t.co/IR7d2FzY1q by @raunometsa \n🧑💻 https://t.co/28YEGKtNip by @ferminrp \n🧑💻 https://t.co/OlljbKFxov by @sagunsh\n🧑💻 https://t.co/cwn6xTtkbK\n🧑💻 https://t.co/tyqQPIWVJ5"
 	},
 	{
 		"created_at": "Sun Oct 04 15:56:27 +0000 2020",
