@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 14:45:37 +0000 2020",
+		"id": 1312754345725751300,
+		"id_str": "1312765825967960066",
+		"full_text": "[KCON:TACT ALL-ACCESS]\n\nEpisode 3 feat. #LOONA\nLook out for LOONA's jaw-dropping performance's backstage at KCON:TACT!\n\nWatch the series and catch KCON:TACT season 2 via https://t.co/1sR04iVXJX\n\n📽 https://t.co/bmH0geSKWp\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/YKim6vCYCb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "KCONTACTALLACCESS",
+					"indices": [
+						222,
+						240
+					]
+				},
+				{
+					"text": "YouTubeOriginals",
+					"indices": [
+						241,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1sR04iVXJX",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/bmH0geSKWp",
+					"expanded_url": "https://youtu.be/s27K8PLnhII",
+					"display_url": "youtu.be/s27K8PLnhII",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311617791842164700,
+					"id_str": "1311617791842164737",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311617791842164737/pu/img/OHKxx_6aqBNia6ol.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311617791842164737/pu/img/OHKxx_6aqBNia6ol.jpg",
+					"url": "https://t.co/YKim6vCYCb",
+					"display_url": "pic.twitter.com/YKim6vCYCb",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1312754345725751302/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311617791842164700,
+					"id_str": "1311617791842164737",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311617791842164737/pu/img/OHKxx_6aqBNia6ol.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311617791842164737/pu/img/OHKxx_6aqBNia6ol.jpg",
+					"url": "https://t.co/YKim6vCYCb",
+					"display_url": "pic.twitter.com/YKim6vCYCb",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1312754345725751302/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31990,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1311617791842164737/pu/pl/5nxEOk5YXWdEnvYY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311617791842164737/pu/vid/480x270/VCDlWwJLg2Hc4rRI.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311617791842164737/pu/vid/1280x720/LDuhoCGglG-xfV8Z.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311617791842164737/pu/vid/640x360/qIT_-3HxoMPXpeQ2.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1747914,
+			"friends_count": 313,
+			"listed_count": 1721,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1559616428",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT ALL-ACCESS]\n\nEpisode 3 feat. #LOONA\nLook out for LOONA's jaw-dropping performance's backstage at KCON:TACT!\n\nWatch the series and catch KCON:TACT season 2 via https://t.co/1sR04iVXJX\n\n📽 https://t.co/bmH0geSKWp\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/YKim6vCYCb"
+	},
+	{
 		"created_at": "Sun Oct 04 13:22:46 +0000 2020",
 		"id": 1312744977018093600,
 		"id_str": "1312744977018093569",
