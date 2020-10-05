@@ -1,6 +1,884 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 08:47:32 +0000 2020",
+		"id": 1313036902019154000,
+		"id_str": "1313038098641547264",
+		"full_text": "온라인 차별비하글 ‘일베’가 최악…네이버의 34배 https://t.co/tqypV82x1g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tqypV82x1g",
+					"expanded_url": "http://www.bloter.net/archives/459566",
+					"display_url": "bloter.net/archives/459566",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54733,
+			"friends_count": 9,
+			"listed_count": 2359,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온라인 차별비하글 ‘일베’가 최악…네이버의 34배 https://t.co/tqypV82x1g"
+	},
+	{
+		"created_at": "Mon Oct 05 08:36:41 +0000 2020",
+		"id": 1313035369512751000,
+		"id_str": "1313035369512751104",
+		"full_text": "\"정의로운 사람이 더 힘들다\" \n아파트 비리를 밝힌 저자 레벤톤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"정의로운 사람이 더 힘들다\" \n아파트 비리를 밝힌 저자 레벤톤"
+	},
+	{
+		"created_at": "Mon Oct 05 08:31:52 +0000 2020",
+		"id": 1312748025861693400,
+		"id_str": "1313034158126428160",
+		"full_text": "결국 황시목은 지방가고 한여진은 좋아하는 현장에서 자리빼고 기업 비리 잡겠다고 정보 하나 받아 먹은 강원철은 사직하고 먼저 사실을 얘기한 최빛은 잘리고 끝까지 입다문 우태하만 살아남았네\n지독하다 비밀의숲 그래서 좋지만",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887777598591254500,
+			"id_str": "887777598591254528",
+			"name": "죠울로홉",
+			"screen_name": "johoologh",
+			"location": "",
+			"description": "조승우 너무 좋아서 어떡하냐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4712,
+			"friends_count": 92,
+			"listed_count": 13,
+			"created_at": "Wed Jul 19 20:54:08 +0000 2017",
+			"favourites_count": 3421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210114710416187394/daY_RcgE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210114710416187394/daY_RcgE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887777598591254528/1569583297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2296,
+		"favorite_count": 1158,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "결국 황시목은 지방가고 한여진은 좋아하는 현장에서 자리빼고 기업 비리 잡겠다고 정보 하나 받아 먹은 강원철은 사직하고 먼저 사실을 얘기한 최빛은 잘리고 끝까지 입다문 우태하만 살아남았네\n지독하다 비밀의숲 그래서 좋지만"
+	},
+	{
+		"created_at": "Mon Oct 05 08:30:08 +0000 2020",
+		"id": 1312579926202040300,
+		"id_str": "1313033721977597952",
+		"full_text": "비밀의 숲 최고 거짓말 https://t.co/4CejbVponQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312579923261812700,
+					"id_str": "1312579923261812737",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejc4fGFUcAEurAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejc4fGFUcAEurAb.jpg",
+					"url": "https://t.co/4CejbVponQ",
+					"display_url": "pic.twitter.com/4CejbVponQ",
+					"expanded_url": "https://twitter.com/lady_ykd/status/1312579926202040322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312579923261812700,
+					"id_str": "1312579923261812737",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejc4fGFUcAEurAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejc4fGFUcAEurAb.jpg",
+					"url": "https://t.co/4CejbVponQ",
+					"display_url": "pic.twitter.com/4CejbVponQ",
+					"expanded_url": "https://twitter.com/lady_ykd/status/1312579926202040322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4910393592,
+			"id_str": "4910393592",
+			"name": "🌲 댜비숲 🌲",
+			"screen_name": "lady_ykd",
+			"location": "",
+			"description": "저는 아마 끝까지 깨닫지 못할 겁니다\n알 만한 나이에 알 만한 걸요",
+			"url": "https://t.co/dZ4KYjb4X8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dZ4KYjb4X8",
+							"expanded_url": "https://lady-ykd.postype.com/",
+							"display_url": "lady-ykd.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 78,
+			"listed_count": 9,
+			"created_at": "Mon Feb 15 08:48:36 +0000 2016",
+			"favourites_count": 17370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308581367932805120/68IKnztl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308581367932805120/68IKnztl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4910393592/1545584705",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1254,
+		"favorite_count": 902,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비밀의 숲 최고 거짓말 https://t.co/4CejbVponQ"
+	},
+	{
+		"created_at": "Mon Oct 05 08:20:51 +0000 2020",
+		"id": 1312755872590749700,
+		"id_str": "1313031383694991360",
+		"full_text": "안녕하세요\n우린 서부지                     검이에요 https://t.co/tM8BoZbaWS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312755866693591000,
+					"id_str": "1312755866693591046",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EjfYgWcU4AYD_Ue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjfYgWcU4AYD_Ue.jpg",
+					"url": "https://t.co/tM8BoZbaWS",
+					"display_url": "pic.twitter.com/tM8BoZbaWS",
+					"expanded_url": "https://twitter.com/aeaaeuee/status/1312755872590749698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312755866693591000,
+					"id_str": "1312755866693591046",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EjfYgWcU4AYD_Ue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjfYgWcU4AYD_Ue.jpg",
+					"url": "https://t.co/tM8BoZbaWS",
+					"display_url": "pic.twitter.com/tM8BoZbaWS",
+					"expanded_url": "https://twitter.com/aeaaeuee/status/1312755872590749698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1312755870380421000,
+					"id_str": "1312755870380421120",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EjfYgkLVcAAgHt7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjfYgkLVcAAgHt7.jpg",
+					"url": "https://t.co/tM8BoZbaWS",
+					"display_url": "pic.twitter.com/tM8BoZbaWS",
+					"expanded_url": "https://twitter.com/aeaaeuee/status/1312755872590749698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893110522182119400,
+			"id_str": "893110522182119424",
+			"name": "얼데란실향민",
+			"screen_name": "aeaaeuee",
+			"location": "Alderaan",
+			"description": "제 고향은 터졌어요",
+			"url": "https://t.co/WGIiVtJ5oW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WGIiVtJ5oW",
+							"expanded_url": "https://peing.net/ko/aldrnrfg?p=auto",
+							"display_url": "peing.net/ko/aldrnrfg?p=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2258,
+			"friends_count": 86,
+			"listed_count": 7,
+			"created_at": "Thu Aug 03 14:05:16 +0000 2017",
+			"favourites_count": 11640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311322206777954306/Z7QbuQnA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311322206777954306/Z7QbuQnA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893110522182119424/1587961748",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12138,
+		"favorite_count": 4440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요\n우린 서부지                     검이에요 https://t.co/tM8BoZbaWS"
+	},
+	{
+		"created_at": "Mon Oct 05 08:12:17 +0000 2020",
+		"id": 1313029226170327000,
+		"id_str": "1313029226170327041",
+		"full_text": "#TED_Talks #한국어자막\n간성의 의미와 잘못된 성적 이분법의 악영향 by. Susannah Temko (Aug 2020)\nhttps://t.co/UjujEfGgUd\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UjujEfGgUd",
+					"expanded_url": "https://www.ted.com/talks/susannah_temko_what_it_means_to_be_intersex?language=ko",
+					"display_url": "ted.com/talks/susannah…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n간성의 의미와 잘못된 성적 이분법의 악영향 by. Susannah Temko (Aug 2020)\nhttps://t.co/UjujEfGgUd\n#TED #테드 #minfav"
+	},
+	{
+		"created_at": "Mon Oct 05 08:09:07 +0000 2020",
+		"id": 1312371167542407200,
+		"id_str": "1313028429436973057",
+		"full_text": "근데 비숲작가는... 응팔 나온 아빠들 죄다 빌런으로 만들셈인가? 1은 동룡아빠고 2는 택이아빠다 만약 비밀의숲3이 나온다면 정환이 아빠 캐스팅해서 빌런으로 만들어버리는거아님?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092428166302359600,
+			"id_str": "1092428166302359554",
+			"name": "우친녀",
+			"screen_name": "wuchinnyeo",
+			"location": "",
+			"description": "\"전혜진 좋아하지마\" \"그거 어떻게 하는건데\"",
+			"url": "https://t.co/lHR54Vyn5c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lHR54Vyn5c",
+							"expanded_url": "https://peing.net/ko/wuchinnyeo",
+							"display_url": "peing.net/ko/wuchinnyeo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2597,
+			"friends_count": 72,
+			"listed_count": 6,
+			"created_at": "Mon Feb 04 14:22:26 +0000 2019",
+			"favourites_count": 823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255663344226144256/XJrq0KHQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255663344226144256/XJrq0KHQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092428166302359554/1594691263",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2231,
+		"favorite_count": 1100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "근데 비숲작가는... 응팔 나온 아빠들 죄다 빌런으로 만들셈인가? 1은 동룡아빠고 2는 택이아빠다 만약 비밀의숲3이 나온다면 정환이 아빠 캐스팅해서 빌런으로 만들어버리는거아님?"
+	},
+	{
 		"created_at": "Mon Oct 05 07:36:10 +0000 2020",
 		"id": 1312925506757517300,
 		"id_str": "1313020138774380545",
