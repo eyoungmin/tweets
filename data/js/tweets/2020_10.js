@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 03:27:11 +0000 2020",
+		"id": 1312950638779797500,
+		"id_str": "1312957479286902785",
+		"full_text": "[이달의소녀탐구 #631]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/M3yeCNqt0f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312919250361675800,
+					"id_str": "1312919250361675777",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312919250361675777/pu/img/I2z_G41KFfHNgKj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312919250361675777/pu/img/I2z_G41KFfHNgKj6.jpg",
+					"url": "https://t.co/M3yeCNqt0f",
+					"display_url": "pic.twitter.com/M3yeCNqt0f",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1312950638779797506/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312919250361675800,
+					"id_str": "1312919250361675777",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312919250361675777/pu/img/I2z_G41KFfHNgKj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312919250361675777/pu/img/I2z_G41KFfHNgKj6.jpg",
+					"url": "https://t.co/M3yeCNqt0f",
+					"display_url": "pic.twitter.com/M3yeCNqt0f",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1312950638779797506/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60494,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312919250361675777/pu/vid/1280x720/g94ZIfH2iRG89PCl.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312919250361675777/pu/vid/640x360/d-_dRnCUn0UR5MrS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1312919250361675777/pu/pl/63pPvbLKlCAVj6hM.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312919250361675777/pu/vid/480x270/X04RQtKc6wRxzup1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546033,
+			"friends_count": 0,
+			"listed_count": 5699,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2848,
+		"favorite_count": 9233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #631]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/M3yeCNqt0f"
+	},
+	{
+		"created_at": "Mon Oct 05 03:27:05 +0000 2020",
+		"id": 1312944272073650200,
+		"id_str": "1312957453672296448",
+		"full_text": "레전드 자연인 입장이승윤 묻고 능이백숙 따블로 가!\nA legendary wild man has appeared! Mr. Lee Seungyoon, let's cook that Neungi Chicken Soup\n👉https://t.co/tHKjJslita\n\n#예리 #이승윤 #자연인 #Yeri #RedVelvet #YerisRoom #레드벨벳 #예리한방 #나는자연인이다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "이승윤",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "자연인",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "YerisRoom",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "나는자연인이다",
+					"indices": [
+						199,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tHKjJslita",
+					"expanded_url": "https://youtu.be/5uSq0oFuWzM",
+					"display_url": "youtu.be/5uSq0oFuWzM",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29065,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 611,
+		"favorite_count": 955,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레전드 자연인 입장이승윤 묻고 능이백숙 따블로 가!\nA legendary wild man has appeared! Mr. Lee Seungyoon, let's cook that Neungi Chicken Soup\n👉https://t.co/tHKjJslita\n\n#예리 #이승윤 #자연인 #Yeri #RedVelvet #YerisRoom #레드벨벳 #예리한방 #나는자연인이다"
+	},
+	{
 		"created_at": "Mon Oct 05 03:00:21 +0000 2020",
 		"id": 1312950729087373300,
 		"id_str": "1312950729087373313",
