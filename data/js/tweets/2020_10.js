@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 13:56:46 +0000 2020",
+		"id": 1313031235619307500,
+		"id_str": "1313115920949153793",
+		"full_text": "상황은 더욱 악화될 뿐입니다.\n\n보건의료노조는 여성과 간호사에 대한 성적 대상화와 성상품화에 단호히 반대합니다.\n\n#nurse_is_profession \n#Stop_Sexualizing_Nurses \n#간호사는코스튬이아니다\n\n🔎논평 상세보기 \nhttps://t.co/YQ5vaN4f2O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nurse_is_profession",
+					"indices": [
+						64,
+						84
+					]
+				},
+				{
+					"text": "Stop_Sexualizing_Nurses",
+					"indices": [
+						86,
+						110
+					]
+				},
+				{
+					"text": "간호사는코스튬이아니다",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YQ5vaN4f2O",
+					"expanded_url": "https://bit.ly/3cXEvLg",
+					"display_url": "bit.ly/3cXEvLg",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1313031077707931600,
+		"in_reply_to_status_id_str": "1313031077707931649",
+		"in_reply_to_user_id": 486398044,
+		"in_reply_to_user_id_str": "486398044",
+		"in_reply_to_screen_name": "kfhu980227",
+		"user": {
+			"id": 486398044,
+			"id_str": "486398044",
+			"name": "보건의료노조 KHMU",
+			"screen_name": "kfhu980227",
+			"location": "",
+			"description": "《돈보다 생명을》국민건강권 수호 민주노총 전국보건의료산업노동조합",
+			"url": "https://t.co/WfWK7d89X4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WfWK7d89X4",
+							"expanded_url": "http://bogun.nodong.org",
+							"display_url": "bogun.nodong.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2353,
+			"friends_count": 3126,
+			"listed_count": 29,
+			"created_at": "Wed Feb 08 07:50:53 +0000 2012",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253232530251108352/54ctD5CE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253232530251108352/54ctD5CE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486398044/1528768422",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "상황은 더욱 악화될 뿐입니다.\n\n보건의료노조는 여성과 간호사에 대한 성적 대상화와 성상품화에 단호히 반대합니다.\n\n#nurse_is_profession \n#Stop_Sexualizing_Nurses \n#간호사는코스튬이아니다\n\n🔎논평 상세보기 \nhttps://t.co/YQ5vaN4f2O"
+	},
+	{
+		"created_at": "Mon Oct 05 13:56:43 +0000 2020",
+		"id": 1313031077707931600,
+		"id_str": "1313115905904144385",
+		"full_text": "블랙핑크 &lt;Lovesick Girls&gt; MV 속 간호사 묘사는 명백한 성적 대상화입니다. 실제 보건의료현장에서 간호사들은 감염의 위협과 장시간 고된 노동환경 속에서 고군분투하고 있습니다. 대중문화가 왜곡된 간호사의 이미지를 반복해 재현한다면, 전문의료인인 간호사가 높은 비율로 성폭력에 노출되는 https://t.co/Vr6qjVzCnt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313031070795792400,
+					"id_str": "1313031070795792386",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EjjSzVnVgAIEOL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjjSzVnVgAIEOL1.jpg",
+					"url": "https://t.co/Vr6qjVzCnt",
+					"display_url": "pic.twitter.com/Vr6qjVzCnt",
+					"expanded_url": "https://twitter.com/kfhu980227/status/1313031077707931649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 904,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313031070795792400,
+					"id_str": "1313031070795792386",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EjjSzVnVgAIEOL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjjSzVnVgAIEOL1.jpg",
+					"url": "https://t.co/Vr6qjVzCnt",
+					"display_url": "pic.twitter.com/Vr6qjVzCnt",
+					"expanded_url": "https://twitter.com/kfhu980227/status/1313031077707931649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 904,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486398044,
+			"id_str": "486398044",
+			"name": "보건의료노조 KHMU",
+			"screen_name": "kfhu980227",
+			"location": "",
+			"description": "《돈보다 생명을》국민건강권 수호 민주노총 전국보건의료산업노동조합",
+			"url": "https://t.co/WfWK7d89X4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WfWK7d89X4",
+							"expanded_url": "http://bogun.nodong.org",
+							"display_url": "bogun.nodong.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2353,
+			"friends_count": 3126,
+			"listed_count": 29,
+			"created_at": "Wed Feb 08 07:50:53 +0000 2012",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253232530251108352/54ctD5CE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253232530251108352/54ctD5CE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486398044/1528768422",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1033,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 &lt;Lovesick Girls&gt; MV 속 간호사 묘사는 명백한 성적 대상화입니다. 실제 보건의료현장에서 간호사들은 감염의 위협과 장시간 고된 노동환경 속에서 고군분투하고 있습니다. 대중문화가 왜곡된 간호사의 이미지를 반복해 재현한다면, 전문의료인인 간호사가 높은 비율로 성폭력에 노출되는 https://t.co/Vr6qjVzCnt"
+	},
+	{
+		"created_at": "Mon Oct 05 13:55:50 +0000 2020",
+		"id": 1313115684193222700,
+		"id_str": "1313115684193222657",
+		"full_text": "뿔난 보건의료노조 \"블랙핑크 뮤비 간호사복, 성적 대상 비하\" - 중앙일보\nhttps://t.co/parODzppyI\n\n#블랙핑크 #BLACKPINK #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						84,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/parODzppyI",
+					"expanded_url": "https://mnews.joins.com/article/23886637",
+					"display_url": "mnews.joins.com/article/238866…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뿔난 보건의료노조 \"블랙핑크 뮤비 간호사복, 성적 대상 비하\" - 중앙일보\nhttps://t.co/parODzppyI\n\n#블랙핑크 #BLACKPINK #minfav"
+	},
+	{
 		"created_at": "Mon Oct 05 12:43:39 +0000 2020",
 		"id": 1313097518054547500,
 		"id_str": "1313097518054547456",
