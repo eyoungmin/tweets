@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 05:58:58 +0000 2020",
+		"id": 1312983396864254000,
+		"id_str": "1312995677899612160",
+		"full_text": "2020 아시아송페스티벌  비대면 온택트 개최!!!\n일시: 2020.10.10(토) 20:00\n온라인 라이브 스트리밍\nhttps://t.co/TtTYBSqQOV\n https://t.co/kjJBF5fj7g\n#아송페 #ASF #강다니엘 #더보이즈 #레드벨벳아이린앤슬기 #모모랜드 #아이콘 #에이티즈 #유아 #모모랜드 https://t.co/obV3gWo86h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아송페",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "ASF",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "강다니엘",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "레드벨벳아이린앤슬기",
+					"indices": [
+						137,
+						148
+					]
+				},
+				{
+					"text": "모모랜드",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "아이콘",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "에이티즈",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "모모랜드",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TtTYBSqQOV",
+					"expanded_url": "http://www.asiasongfestival.kr/kr/",
+					"display_url": "asiasongfestival.kr/kr/",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/kjJBF5fj7g",
+					"expanded_url": "https://www.youtube.com/thekpop",
+					"display_url": "youtube.com/thekpop",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312980293985267700,
+					"id_str": "1312980293985267712",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EjinYV9U0AUxYF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjinYV9U0AUxYF-.jpg",
+					"url": "https://t.co/obV3gWo86h",
+					"display_url": "pic.twitter.com/obV3gWo86h",
+					"expanded_url": "https://twitter.com/TheKpop/status/1312983396864253954/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312980293985267700,
+					"id_str": "1312980293985267712",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EjinYV9U0AUxYF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjinYV9U0AUxYF-.jpg",
+					"url": "https://t.co/obV3gWo86h",
+					"display_url": "pic.twitter.com/obV3gWo86h",
+					"expanded_url": "https://twitter.com/TheKpop/status/1312983396864253954/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30083,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1312980293985267712/vid/480x270/DSbfnFzciFWEUu-u.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1312980293985267712/vid/640x360/Gg2YMU56zZdXCVBi.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1312980293985267712/pl/JLXvxybyy3k9EX9k.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1312980293985267712/vid/1280x720/NJHcNk7UGFR2cLnn.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "2020 아시아송페스티벌  비대면 온택트 개최!!!",
+						"description": "2020 아시아송페스티벌  비대면 온택트 개최!!!\n\n일시: 2020.10.10(토) 20:00\n온라인 라이브 스트리밍\nhttp://www.asiasongfestival.kr/kr/\n https://www.youtube.com/thekpop\n#아송페 #ASF #강다니엘 #더보이즈 #레드벨벳아이린앤슬기 #모모랜드 #아이콘 #에이티즈 #유아 #모모랜드",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113842072,
+			"id_str": "113842072",
+			"name": "THE K-POP",
+			"screen_name": "TheKpop",
+			"location": "Seoul, Republic of Korea",
+			"description": "We provide 'SBS medianet' original K-POP shows. https://t.co/fzcaNmmjeM",
+			"url": "https://t.co/oUucbEp3c3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oUucbEp3c3",
+							"expanded_url": "https://mtv.sbs.co.kr/channel.html",
+							"display_url": "mtv.sbs.co.kr/channel.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fzcaNmmjeM",
+							"expanded_url": "https://www.youtube.com/c/TheKPOP",
+							"display_url": "youtube.com/c/TheKPOP",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 611036,
+			"friends_count": 1071,
+			"listed_count": 1008,
+			"created_at": "Sat Feb 13 06:30:47 +0000 2010",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113842072/1601288697",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2040,
+		"favorite_count": 2847,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 아시아송페스티벌  비대면 온택트 개최!!!\n일시: 2020.10.10(토) 20:00\n온라인 라이브 스트리밍\nhttps://t.co/TtTYBSqQOV\n https://t.co/kjJBF5fj7g\n#아송페 #ASF #강다니엘 #더보이즈 #레드벨벳아이린앤슬기 #모모랜드 #아이콘 #에이티즈 #유아 #모모랜드 https://t.co/obV3gWo86h"
+	},
+	{
 		"created_at": "Mon Oct 05 04:39:26 +0000 2020",
 		"id": 1312975663054418000,
 		"id_str": "1312975663054417921",
