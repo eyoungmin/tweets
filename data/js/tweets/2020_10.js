@@ -1,6 +1,1015 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 07:36:10 +0000 2020",
+		"id": 1312925506757517300,
+		"id_str": "1313020138774380545",
+		"full_text": "아동 성착취물 102개 만든 30대…美 법원 \"징역 600년\" #SBS뉴스 https://t.co/uAIhu9Vqw4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS뉴스",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uAIhu9Vqw4",
+					"expanded_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006008745&plink=TWEET&cooper=TWITTER",
+					"display_url": "news.sbs.co.kr/news/endPage.d…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.sbs.co.kr\" rel=\"nofollow\">sbs8news</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91946403,
+			"id_str": "91946403",
+			"name": "SBS 뉴스",
+			"screen_name": "SBS8news",
+			"location": "KOREA",
+			"description": "SBS 보도본부 공식 트위터입니다. 시청자 여러분과 함께 하는 뉴스를 만들도록 최선을 다하겠습니다. 제보는 이메일 sbs8news@sbs.co.kr로 연락 주시기 바랍니다.",
+			"url": "https://t.co/HNq9OuURor",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HNq9OuURor",
+							"expanded_url": "https://news.sbs.co.kr",
+							"display_url": "news.sbs.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425459,
+			"friends_count": 93089,
+			"listed_count": 3834,
+			"created_at": "Mon Nov 23 05:47:28 +0000 2009",
+			"favourites_count": 2062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 201026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086075115551354880/P91M6DEi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086075115551354880/P91M6DEi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91946403/1434703804",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6592,
+		"favorite_count": 1231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아동 성착취물 102개 만든 30대…美 법원 \"징역 600년\" #SBS뉴스 https://t.co/uAIhu9Vqw4"
+	},
+	{
+		"created_at": "Mon Oct 05 07:34:27 +0000 2020",
+		"id": 1313019705263820800,
+		"id_str": "1313019705263820800",
+		"full_text": "#BBC코리아\n코로나19: '세계 최고 공항'도 피하지 못한 코로나 피해\nhttps://t.co/cTFQNHk0dQ\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cTFQNHk0dQ",
+					"expanded_url": "https://www.bbc.com/korean/international-54416233",
+					"display_url": "bbc.com/korean/interna…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: '세계 최고 공항'도 피하지 못한 코로나 피해\nhttps://t.co/cTFQNHk0dQ\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Mon Oct 05 07:27:14 +0000 2020",
+		"id": 1313017306499354600,
+		"id_str": "1313017890191421442",
+		"full_text": "#BLACKPINK 'Lovesick Girls' M/V HITS 100 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Lovesick Girls' M/V\nhttps://t.co/gfPGEjluUD\n\n#블랙핑크 #LovesickGirls #MV #100MILLION #YOUTUBE #YG https://t.co/msmUciEQfT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "100MILLION",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						194,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gfPGEjluUD",
+					"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+					"display_url": "youtu.be/dyRsYk0LyA8",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313017043214459000,
+					"id_str": "1313017043214458880",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EjjGC0zU4AAquZ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjjGC0zU4AAquZ7.jpg",
+					"url": "https://t.co/msmUciEQfT",
+					"display_url": "pic.twitter.com/msmUciEQfT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1313017306499354625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313017043214459000,
+					"id_str": "1313017043214458880",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EjjGC0zU4AAquZ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjjGC0zU4AAquZ7.jpg",
+					"url": "https://t.co/msmUciEQfT",
+					"display_url": "pic.twitter.com/msmUciEQfT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1313017306499354625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6779414,
+			"friends_count": 38,
+			"listed_count": 6878,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19175,
+		"favorite_count": 47395,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Lovesick Girls' M/V HITS 100 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Lovesick Girls' M/V\nhttps://t.co/gfPGEjluUD\n\n#블랙핑크 #LovesickGirls #MV #100MILLION #YOUTUBE #YG https://t.co/msmUciEQfT"
+	},
+	{
+		"created_at": "Mon Oct 05 07:27:05 +0000 2020",
+		"id": 1313011328798220300,
+		"id_str": "1313017851993874432",
+		"full_text": "#OFFICIALBLINK \n#젠츄리챙 이 준비한 핸드폰 배경화면 선물 도착!🎁\n\n#블링크존 과 #VFANSHIP 에서 더 많은 선물을 만나보세요🖤💖\n\n#BLACKPINK #블랙핑크 #LovesickGirls \n#1stFULLALBUM #THEALBUM https://t.co/VN0n4gk6mp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "젠츄리챙",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "블링크존",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "VFANSHIP",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313006028967964700,
+					"id_str": "1313006028967964673",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eji8BtiU8AEAWJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eji8BtiU8AEAWJ4.jpg",
+					"url": "https://t.co/VN0n4gk6mp",
+					"display_url": "pic.twitter.com/VN0n4gk6mp",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1313011328798220288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313006028967964700,
+					"id_str": "1313006028967964673",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eji8BtiU8AEAWJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eji8BtiU8AEAWJ4.jpg",
+					"url": "https://t.co/VN0n4gk6mp",
+					"display_url": "pic.twitter.com/VN0n4gk6mp",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1313011328798220288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313006044931530800,
+					"id_str": "1313006044931530755",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eji8CpAVoAMbzul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eji8CpAVoAMbzul.jpg",
+					"url": "https://t.co/VN0n4gk6mp",
+					"display_url": "pic.twitter.com/VN0n4gk6mp",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1313011328798220288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5268889,
+			"friends_count": 2,
+			"listed_count": 5651,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11195,
+		"favorite_count": 36367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK \n#젠츄리챙 이 준비한 핸드폰 배경화면 선물 도착!🎁\n\n#블링크존 과 #VFANSHIP 에서 더 많은 선물을 만나보세요🖤💖\n\n#BLACKPINK #블랙핑크 #LovesickGirls \n#1stFULLALBUM #THEALBUM https://t.co/VN0n4gk6mp"
+	},
+	{
+		"created_at": "Mon Oct 05 07:26:17 +0000 2020",
+		"id": 1313017652365987800,
+		"id_str": "1313017652365987843",
+		"full_text": "#팩트체크 #SNU팩트체크\n경남 양산에 중국 바이러스 연구소 들어선다\n▶ 대체로 사실이 아님\nhttps://t.co/WL9eIhSV0q\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WL9eIhSV0q",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2536",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n경남 양산에 중국 바이러스 연구소 들어선다\n▶ 대체로 사실이 아님\nhttps://t.co/WL9eIhSV0q\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Mon Oct 05 07:26:16 +0000 2020",
+		"id": 1313017649044099000,
+		"id_str": "1313017649044099078",
+		"full_text": "#팩트체크 #SNU팩트체크\n\"'추미애가...' 조롱시는 방랑시인 김삿갓의 작품이다\"\n▶ 전혀 사실 아님\nhttps://t.co/5yNRATHQuy\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						84,
+						95
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5yNRATHQuy",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2537",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n\"'추미애가...' 조롱시는 방랑시인 김삿갓의 작품이다\"\n▶ 전혀 사실 아님\nhttps://t.co/5yNRATHQuy\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Mon Oct 05 06:59:18 +0000 2020",
 		"id": 1313010862609793000,
 		"id_str": "1313010862609793024",
