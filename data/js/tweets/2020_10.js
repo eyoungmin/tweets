@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 04:39:26 +0000 2020",
+		"id": 1312975663054418000,
+		"id_str": "1312975663054417921",
+		"full_text": "#BBC코리아\n코로나19: 트럼프 주치의, 숀 콘리는 누구인가?\nhttps://t.co/yTYZt3L9uh\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yTYZt3L9uh",
+					"expanded_url": "https://www.bbc.com/korean/news-54414748",
+					"display_url": "bbc.com/korean/news-54…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 트럼프 주치의, 숀 콘리는 누구인가?\nhttps://t.co/yTYZt3L9uh\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Mon Oct 05 04:35:55 +0000 2020",
+		"id": 1312834102697967600,
+		"id_str": "1312974775778648069",
+		"full_text": "작은 코딱지에게 2020년 10월 5일 편지 \nhttps://t.co/YNoMQrMMlK https://t.co/OcgrRASpm0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YNoMQrMMlK",
+					"expanded_url": "http://cafe.daum.net/SESONEON/SqAj/23",
+					"display_url": "cafe.daum.net/SESONEON/SqAj/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312833813475594200,
+					"id_str": "1312833813475594240",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EjgfZc1VkAAnQpc.png",
+					"media_url_https": "https://pbs.twimg.com/media/EjgfZc1VkAAnQpc.png",
+					"url": "https://t.co/OcgrRASpm0",
+					"display_url": "pic.twitter.com/OcgrRASpm0",
+					"expanded_url": "https://twitter.com/iam_so_yoon/status/1312834102697967616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 791,
+							"h": 742,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 742,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312833813475594200,
+					"id_str": "1312833813475594240",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EjgfZc1VkAAnQpc.png",
+					"media_url_https": "https://pbs.twimg.com/media/EjgfZc1VkAAnQpc.png",
+					"url": "https://t.co/OcgrRASpm0",
+					"display_url": "pic.twitter.com/OcgrRASpm0",
+					"expanded_url": "https://twitter.com/iam_so_yoon/status/1312834102697967616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 791,
+							"h": 742,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 742,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 737696418492645400,
+			"id_str": "737696418492645376",
+			"name": "황소윤",
+			"screen_name": "iam_so_yoon",
+			"location": "",
+			"description": "새소윤",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11296,
+			"friends_count": 95,
+			"listed_count": 25,
+			"created_at": "Tue May 31 17:25:06 +0000 2016",
+			"favourites_count": 403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234200432089518080/r9alReRT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234200432089518080/r9alReRT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/737696418492645376/1588615177",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 571,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "작은 코딱지에게 2020년 10월 5일 편지 \nhttps://t.co/YNoMQrMMlK https://t.co/OcgrRASpm0"
+	},
+	{
+		"created_at": "Mon Oct 05 04:32:22 +0000 2020",
+		"id": 1312890244228735000,
+		"id_str": "1312973882748403713",
+		"full_text": "“부자들은 가난을 통계 지표로 객관화해서 이해하지만, 가난은 개념(poverty)이 아니라 생활(being poor)이다.”\n\nhttps://t.co/BB5DsZZN3v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BB5DsZZN3v",
+					"expanded_url": "https://news.khan.kr/myTX",
+					"display_url": "news.khan.kr/myTX",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722001,
+			"friends_count": 77637,
+			"listed_count": 5920,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“부자들은 가난을 통계 지표로 객관화해서 이해하지만, 가난은 개념(poverty)이 아니라 생활(being poor)이다.”\n\nhttps://t.co/BB5DsZZN3v"
+	},
+	{
+		"created_at": "Mon Oct 05 04:32:16 +0000 2020",
+		"id": 1312937424553611300,
+		"id_str": "1312973856940802049",
+		"full_text": "서울시 전 비서관이 한겨레에 글을 기고했다. \n\"저는 비서실에서 일하는 동안 고인이 성폭력 가해자가 될 수 있나는 생각을 단 한번도 해본 적이 없습니다. 그것이 우리 팀의 실패였습니다.\" \n이름을 밝히고 목소리를 내 준 그를 응원한다. \nhttps://t.co/ilk998STdC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ilk998STdC",
+					"expanded_url": "http://www.hani.co.kr/arti/opinion/column/964383.html",
+					"display_url": "hani.co.kr/arti/opinion/c…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971917831242637300,
+			"id_str": "971917831242637312",
+			"name": "아웃박스 - 초등젠더교육연구회",
+			"screen_name": "OUTBOXGD",
+			"location": "",
+			"description": "🏫 초등학교부터 시작하는 젠더교육.  아이들의 고정관념을 깨고 젠더감수성을 길러주고자 모였습니다. 📚 예민함을 가르칩니다(2018, 서해문집) \n📰한겨레 [초등교실 속 젠더이야기] 칼럼 연재\n 📞연수,  강연, 협업 문의(쪽지)",
+			"url": "https://t.co/aCP3u27zBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aCP3u27zBN",
+							"expanded_url": "http://outbox.co.kr",
+							"display_url": "outbox.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3450,
+			"friends_count": 60,
+			"listed_count": 12,
+			"created_at": "Fri Mar 09 01:17:23 +0000 2018",
+			"favourites_count": 361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093363849619636224/UjqegDrX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093363849619636224/UjqegDrX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971917831242637312/1542759298",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 983,
+		"favorite_count": 290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울시 전 비서관이 한겨레에 글을 기고했다. \n\"저는 비서실에서 일하는 동안 고인이 성폭력 가해자가 될 수 있나는 생각을 단 한번도 해본 적이 없습니다. 그것이 우리 팀의 실패였습니다.\" \n이름을 밝히고 목소리를 내 준 그를 응원한다. \nhttps://t.co/ilk998STdC"
+	},
+	{
+		"created_at": "Mon Oct 05 04:27:14 +0000 2020",
+		"id": 1312952635859718100,
+		"id_str": "1312972590575566848",
+		"full_text": "[우효 OOHYO]\n\nD-3\n[silence] EP\n2020.10.08 6PM (KST)\n\nTrack 4.  ‘Enough’\n\nHeight of the skies\nStars in your eyes\nMake enough room to breathe\nIt’s enough, it’s enough for me\n\nTrack List\n1. Quiet Night\n2. 2020\n3. New Shoes\n4. Enough https://t.co/Zh8dzGOitX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312952624564465700,
+					"id_str": "1312952624564465665",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EjiLdKoU8AE0Zmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjiLdKoU8AE0Zmk.jpg",
+					"url": "https://t.co/Zh8dzGOitX",
+					"display_url": "pic.twitter.com/Zh8dzGOitX",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1312952635859718145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312952624564465700,
+					"id_str": "1312952624564465665",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EjiLdKoU8AE0Zmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjiLdKoU8AE0Zmk.jpg",
+					"url": "https://t.co/Zh8dzGOitX",
+					"display_url": "pic.twitter.com/Zh8dzGOitX",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1312952635859718145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 우효/윤현상/유라/크래커/로지/섞김/아일/에버루아",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 692,
+			"friends_count": 5,
+			"listed_count": 16,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[우효 OOHYO]\n\nD-3\n[silence] EP\n2020.10.08 6PM (KST)\n\nTrack 4.  ‘Enough’\n\nHeight of the skies\nStars in your eyes\nMake enough room to breathe\nIt’s enough, it’s enough for me\n\nTrack List\n1. Quiet Night\n2. 2020\n3. New Shoes\n4. Enough https://t.co/Zh8dzGOitX"
+	},
+	{
 		"created_at": "Mon Oct 05 03:27:11 +0000 2020",
 		"id": 1312950638779797500,
 		"id_str": "1312957479286902785",
