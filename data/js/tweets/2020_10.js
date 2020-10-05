@@ -1,6 +1,1616 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 15:01:48 +0000 2020",
+		"id": 1312925734394978300,
+		"id_str": "1313132285881839618",
+		"full_text": "제가 틀렸었어요. CRDT가 미래입니다. https://t.co/lvbAfvAlWA \n구글 Wave 개발자가 얘기하는 Conflict-free Replicated Data Types 이야기\nㅤ→ CRDT : 실시간 협업도구에서 동시 편집을 지원하는 자료 구조 \n- Wave는 OT(Operational Transform) 기반 : 모든 변경에 대한 시간순 목록을 저장....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lvbAfvAlWA",
+					"expanded_url": "https://j.mp/3jxcBZc",
+					"display_url": "j.mp/3jxcBZc",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4119,
+			"friends_count": 0,
+			"listed_count": 60,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 틀렸었어요. CRDT가 미래입니다. https://t.co/lvbAfvAlWA \n구글 Wave 개발자가 얘기하는 Conflict-free Replicated Data Types 이야기\nㅤ→ CRDT : 실시간 협업도구에서 동시 편집을 지원하는 자료 구조 \n- Wave는 OT(Operational Transform) 기반 : 모든 변경에 대한 시간순 목록을 저장...."
+	},
+	{
+		"created_at": "Mon Oct 05 14:57:26 +0000 2020",
+		"id": 1312930033569202200,
+		"id_str": "1313131188614172672",
+		"full_text": "정해인, BLACKPINK 지수, JTBC &lt;설강화&gt;(가제) 주연 확정. 1987년 서울, 어느 날 갑자기 여자 기숙사에 피투성이로 뛰어든 명문대생 임수호(정해인)와 감시와 위기 속에 그를 감추고 치료해 준 대학생 은영초(지수)의 사랑 이야기. &lt;SKY 캐슬&gt; 유현미 작가, 조현탁 감독.\nhttps://t.co/EpWknzhJ2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EpWknzhJ2P",
+					"expanded_url": "https://entertain.v.daum.net/v/20201005094739465",
+					"display_url": "entertain.v.daum.net/v/202010050947…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16318,
+			"friends_count": 735,
+			"listed_count": 0,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정해인, BLACKPINK 지수, JTBC &lt;설강화&gt;(가제) 주연 확정. 1987년 서울, 어느 날 갑자기 여자 기숙사에 피투성이로 뛰어든 명문대생 임수호(정해인)와 감시와 위기 속에 그를 감추고 치료해 준 대학생 은영초(지수)의 사랑 이야기. &lt;SKY 캐슬&gt; 유현미 작가, 조현탁 감독.\nhttps://t.co/EpWknzhJ2P"
+	},
+	{
+		"created_at": "Mon Oct 05 14:52:00 +0000 2020",
+		"id": 1313051265908142000,
+		"id_str": "1313129820172115968",
+		"full_text": "“안 가요” 구글·넷플릭스 출석 거부로 김 빠진 국감 https://t.co/KcksawSXZM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KcksawSXZM",
+					"expanded_url": "http://www.bloter.net/archives/459563",
+					"display_url": "bloter.net/archives/459563",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54732,
+			"friends_count": 9,
+			"listed_count": 2359,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“안 가요” 구글·넷플릭스 출석 거부로 김 빠진 국감 https://t.co/KcksawSXZM"
+	},
+	{
+		"created_at": "Mon Oct 05 14:51:53 +0000 2020",
+		"id": 1313056340005122000,
+		"id_str": "1313129789646008321",
+		"full_text": "Heart Attack : Live Watch Party 지금 라이브 중! 📢 라이브에 참여하시고 갤럭시 버즈라이브 &amp; 영화 굿즈 받아가세요! '콜’ #이충현 감독 X #이성경 ‘하트어택’💘 #HeartAttack Filmed #withGalaxy S20 Series #TwitterBlueroom @SamsungMobile https://t.co/VjHoF72V8U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이충현",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "이성경",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "HeartAttack",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "withGalaxy",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						154,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamsungMobile",
+					"name": "Samsung Mobile",
+					"id": 297169759,
+					"id_str": "297169759",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VjHoF72V8U",
+					"expanded_url": "https://twitter.com/i/events/1311110713641844736",
+					"display_url": "twitter.com/i/events/13111…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "트위터 코리아의 공식 계정입니다. 트위터 서비스 관련 문의는 https://t.co/jTMg7YsLw5 을, 광고 관련 문의는 @TwitterMktgKR 계정을 이용해 주세요.",
+			"url": "https://t.co/SvWUEpsmUj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SvWUEpsmUj",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jTMg7YsLw5",
+							"expanded_url": "https://support.twitter.com",
+							"display_url": "support.twitter.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1216575,
+			"friends_count": 290,
+			"listed_count": 1984,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 2981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311075559582044160/56qq5tAH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311075559582044160/56qq5tAH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1601419747",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Heart Attack : Live Watch Party 지금 라이브 중! 📢 라이브에 참여하시고 갤럭시 버즈라이브 &amp; 영화 굿즈 받아가세요! '콜’ #이충현 감독 X #이성경 ‘하트어택’💘 #HeartAttack Filmed #withGalaxy S20 Series #TwitterBlueroom @SamsungMobile https://t.co/VjHoF72V8U"
+	},
+	{
+		"created_at": "Mon Oct 05 14:50:05 +0000 2020",
+		"id": 1313129336359121000,
+		"id_str": "1313129336359120896",
+		"full_text": "얼마 전에 읽은 글에서 셀카 뷰티필터가 정신건강에 악영할 미칠 수 있다고 했는데 솔직히 스마트폰을 쥐고 있는 이상 아날로그하게 돌아갈 수 없다 생각하는데 이런 자판기가  있으면 꽤 좋을 것 같다. 뭐 필름카메라앱이 인기탔던 것도 그렇고.  https://t.co/Q55XHUXjdx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q55XHUXjdx",
+					"expanded_url": "https://zdnet.co.kr/view/?no=20201005123415",
+					"display_url": "zdnet.co.kr/view/?no=20201…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1313128375033032700,
+		"in_reply_to_status_id_str": "1313128375033032706",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얼마 전에 읽은 글에서 셀카 뷰티필터가 정신건강에 악영할 미칠 수 있다고 했는데 솔직히 스마트폰을 쥐고 있는 이상 아날로그하게 돌아갈 수 없다 생각하는데 이런 자판기가  있으면 꽤 좋을 것 같다. 뭐 필름카메라앱이 인기탔던 것도 그렇고.  https://t.co/Q55XHUXjdx"
+	},
+	{
+		"created_at": "Mon Oct 05 14:46:16 +0000 2020",
+		"id": 1313128375033032700,
+		"id_str": "1313128375033032706",
+		"full_text": "필름자판기라는게 있다는 걸 알고 수요가 얼마나 있을까 했는데 꽤 있다는 말에 신기했음. 코로나19 끝나면 어떨지 궁금하다. 필름로그는 업사이클 카메라로 필름 한 롤 다 사용하고 반납하는 개념. 어릴 때 소풍가면 일회용 카메라 사서 휠 돌려가며 찍었는데. 📸",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1313125409899200500,
+		"in_reply_to_status_id_str": "1313125409899200513",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "필름자판기라는게 있다는 걸 알고 수요가 얼마나 있을까 했는데 꽤 있다는 말에 신기했음. 코로나19 끝나면 어떨지 궁금하다. 필름로그는 업사이클 카메라로 필름 한 롤 다 사용하고 반납하는 개념. 어릴 때 소풍가면 일회용 카메라 사서 휠 돌려가며 찍었는데. 📸"
+	},
+	{
+		"created_at": "Mon Oct 05 14:39:13 +0000 2020",
+		"id": 1313081994276814800,
+		"id_str": "1313126603300335617",
+		"full_text": "진정한 음악 애호가들을 위해 만들어진 네스트 오디오가 정식 공개되었습니다!  더욱 강력한 베이스와 소리로 감동을 전하는 네스트 오디오에 대한 자세한 이야기를 구글코리아 블로그(https://t.co/Y1emshy9wb)에서 확인하세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y1emshy9wb",
+					"expanded_url": "https://bit.ly/36vYRu0",
+					"display_url": "bit.ly/36vYRu0",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62717084,
+			"id_str": "62717084",
+			"name": "Google Korea",
+			"screen_name": "googlekorea",
+			"location": "Seoul",
+			"description": "Google Korea's Official Twitter\nhttp://t.co/q7ki3pU93d",
+			"url": "http://t.co/gJlHUbYNCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gJlHUbYNCd",
+							"expanded_url": "http://www.google.co.kr",
+							"display_url": "google.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/q7ki3pU93d",
+							"expanded_url": "http://googlekoreablog.blogspot.com/",
+							"display_url": "googlekoreablog.blogspot.com",
+							"indices": [
+								32,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 82583,
+			"friends_count": 788,
+			"listed_count": 1949,
+			"created_at": "Tue Aug 04 04:23:08 +0000 2009",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770139154898382848/ndFg-IDH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770139154898382848/ndFg-IDH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62717084/1427179644",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진정한 음악 애호가들을 위해 만들어진 네스트 오디오가 정식 공개되었습니다!  더욱 강력한 베이스와 소리로 감동을 전하는 네스트 오디오에 대한 자세한 이야기를 구글코리아 블로그(https://t.co/Y1emshy9wb)에서 확인하세요."
+	},
+	{
+		"created_at": "Mon Oct 05 14:34:29 +0000 2020",
+		"id": 1313125409899200500,
+		"id_str": "1313125409899200513",
+		"full_text": "필름로그 필름자판기. 텀블벅에서 펀딩한 제품. https://t.co/ITr5P2nmLj https://t.co/IohhRzmuGT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ITr5P2nmLj",
+					"expanded_url": "https://tumblbug.com/filmlog",
+					"display_url": "tumblbug.com/filmlog",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/IohhRzmuGT",
+					"expanded_url": "https://twitter.com/msbsound/status/1313107947875037186",
+					"display_url": "twitter.com/msbsound/statu…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313107947875037200,
+		"quoted_status_id_str": "1313107947875037186",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IohhRzmuGT",
+			"expanded": "https://twitter.com/msbsound/status/1313107947875037186",
+			"display": "twitter.com/msbsound/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 05 13:25:05 +0000 2020",
+			"id": 1313107947875037200,
+			"id_str": "1313107947875037186",
+			"full_text": "서교동에 등장한 수상한 자판기가 있다던데??\n🎞https://t.co/eMZxZxPovE\n\n#매스사 #마딸소 #필름로그 #필름자판기 https://t.co/Es2eUDw6xz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "매스사",
+						"indices": [
+							51,
+							55
+						]
+					},
+					{
+						"text": "마딸소",
+						"indices": [
+							56,
+							60
+						]
+					},
+					{
+						"text": "필름로그",
+						"indices": [
+							61,
+							66
+						]
+					},
+					{
+						"text": "필름자판기",
+						"indices": [
+							67,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eMZxZxPovE",
+						"expanded_url": "https://youtu.be/fQO5b5ICTEE",
+						"display_url": "youtu.be/fQO5b5ICTEE",
+						"indices": [
+							26,
+							49
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1313107626259959800,
+						"id_str": "1313107626259959813",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313107626259959813/pu/img/XEgK4uIiTH2aLoBX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313107626259959813/pu/img/XEgK4uIiTH2aLoBX.jpg",
+						"url": "https://t.co/Es2eUDw6xz",
+						"display_url": "pic.twitter.com/Es2eUDw6xz",
+						"expanded_url": "https://twitter.com/msbsound/status/1313107947875037186/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313107626259959800,
+						"id_str": "1313107626259959813",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313107626259959813/pu/img/XEgK4uIiTH2aLoBX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313107626259959813/pu/img/XEgK4uIiTH2aLoBX.jpg",
+						"url": "https://t.co/Es2eUDw6xz",
+						"display_url": "pic.twitter.com/Es2eUDw6xz",
+						"expanded_url": "https://twitter.com/msbsound/status/1313107947875037186/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 28061,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1313107626259959813/pu/vid/640x360/_haKevZNnztpI_YC.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1313107626259959813/pu/pl/l1bpZpPf3wFmc_Fj.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1313107626259959813/pu/vid/1280x720/5sy1XHJXJsEI5G9Q.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1313107626259959813/pu/vid/480x270/8RCgHzYS7vHi25T0.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 263751129,
+				"id_str": "263751129",
+				"name": "매직스트로베리사운드",
+				"screen_name": "msbsound",
+				"location": "Republic of Korea",
+				"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+				"url": "https://t.co/hG14tT4CA9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hG14tT4CA9",
+								"expanded_url": "http://www.msbsound.com/",
+								"display_url": "msbsound.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8383,
+				"friends_count": 6285,
+				"listed_count": 97,
+				"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+				"favourites_count": 70,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5585,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "필름로그 필름자판기. 텀블벅에서 펀딩한 제품. https://t.co/ITr5P2nmLj https://t.co/IohhRzmuGT"
+	},
+	{
+		"created_at": "Mon Oct 05 14:27:26 +0000 2020",
+		"id": 1313107947875037200,
+		"id_str": "1313123639332544512",
+		"full_text": "서교동에 등장한 수상한 자판기가 있다던데??\n🎞https://t.co/eMZxZxPovE\n\n#매스사 #마딸소 #필름로그 #필름자판기 https://t.co/Es2eUDw6xz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매스사",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "마딸소",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "필름로그",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "필름자판기",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eMZxZxPovE",
+					"expanded_url": "https://youtu.be/fQO5b5ICTEE",
+					"display_url": "youtu.be/fQO5b5ICTEE",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313107626259959800,
+					"id_str": "1313107626259959813",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313107626259959813/pu/img/XEgK4uIiTH2aLoBX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313107626259959813/pu/img/XEgK4uIiTH2aLoBX.jpg",
+					"url": "https://t.co/Es2eUDw6xz",
+					"display_url": "pic.twitter.com/Es2eUDw6xz",
+					"expanded_url": "https://twitter.com/msbsound/status/1313107947875037186/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313107626259959800,
+					"id_str": "1313107626259959813",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313107626259959813/pu/img/XEgK4uIiTH2aLoBX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313107626259959813/pu/img/XEgK4uIiTH2aLoBX.jpg",
+					"url": "https://t.co/Es2eUDw6xz",
+					"display_url": "pic.twitter.com/Es2eUDw6xz",
+					"expanded_url": "https://twitter.com/msbsound/status/1313107947875037186/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28061,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1313107626259959813/pu/vid/640x360/_haKevZNnztpI_YC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1313107626259959813/pu/pl/l1bpZpPf3wFmc_Fj.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1313107626259959813/pu/vid/1280x720/5sy1XHJXJsEI5G9Q.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1313107626259959813/pu/vid/480x270/8RCgHzYS7vHi25T0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8383,
+			"friends_count": 6285,
+			"listed_count": 97,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "서교동에 등장한 수상한 자판기가 있다던데??\n🎞https://t.co/eMZxZxPovE\n\n#매스사 #마딸소 #필름로그 #필름자판기 https://t.co/Es2eUDw6xz"
+	},
+	{
+		"created_at": "Mon Oct 05 14:14:32 +0000 2020",
+		"id": 1313094965950509000,
+		"id_str": "1313120391951388672",
+		"full_text": "트위터에도 남겨둡니다. https://t.co/3rzSIlVwSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313094963610099700,
+					"id_str": "1313094963610099712",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EjkM6Y5VoAAZ8QN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjkM6Y5VoAAZ8QN.jpg",
+					"url": "https://t.co/3rzSIlVwSy",
+					"display_url": "pic.twitter.com/3rzSIlVwSy",
+					"expanded_url": "https://twitter.com/callmeRang/status/1313094965950509059/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 711,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 711,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313094963610099700,
+					"id_str": "1313094963610099712",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EjkM6Y5VoAAZ8QN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjkM6Y5VoAAZ8QN.jpg",
+					"url": "https://t.co/3rzSIlVwSy",
+					"display_url": "pic.twitter.com/3rzSIlVwSy",
+					"expanded_url": "https://twitter.com/callmeRang/status/1313094965950509059/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 711,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 711,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39686597,
+			"id_str": "39686597",
+			"name": "정세랑",
+			"screen_name": "callmeRang",
+			"location": "seoul",
+			"description": "가벼운 거 좋아해요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15901,
+			"friends_count": 1240,
+			"listed_count": 99,
+			"created_at": "Wed May 13 04:22:17 +0000 2009",
+			"favourites_count": 2497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238321555752374273/PXXdCXI__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238321555752374273/PXXdCXI__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39686597/1416965359",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 817,
+		"favorite_count": 691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터에도 남겨둡니다. https://t.co/3rzSIlVwSy"
+	},
+	{
+		"created_at": "Mon Oct 05 14:08:52 +0000 2020",
+		"id": 1313118963207864300,
+		"id_str": "1313118963207864321",
+		"full_text": "이런 목소리가 처음도 아니고 꾸준히 나왔는데 인기가 있어서 타케팅이 된다느니 하며 팬덤의 목소리를 하나로 덮으려는 사람들이나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1313118464396062700,
+		"in_reply_to_status_id_str": "1313118464396062722",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 958,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이런 목소리가 처음도 아니고 꾸준히 나왔는데 인기가 있어서 타케팅이 된다느니 하며 팬덤의 목소리를 하나로 덮으려는 사람들이나."
+	},
+	{
 		"created_at": "Mon Oct 05 13:56:46 +0000 2020",
 		"id": 1313031235619307500,
 		"id_str": "1313115920949153793",
