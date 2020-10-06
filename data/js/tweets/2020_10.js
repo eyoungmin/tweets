@@ -1,6 +1,477 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 10:45:37 +0000 2020",
+		"id": 1313418729233899500,
+		"id_str": "1313430204015169537",
+		"full_text": "[KCON:TACT season 2] FAN REQUEST\n\nKCON:TACT 에서 보고싶은이달의 소녀만의 무대가 있다면? 영어 댓글로!\nWhat do you want to see at #LOONA 's stage at #KCONTACT?\nComment in English!\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet-Kpop: https://t.co/r2LY9mGrzA\n#KCON #LetsKCON https://t.co/VMF0jrQqSZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						233,
+						238
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						239,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313056233394327600,
+					"id_str": "1313056233394327553",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejjpr_mU0AEo4kZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejjpr_mU0AEo4kZ.jpg",
+					"url": "https://t.co/VMF0jrQqSZ",
+					"display_url": "pic.twitter.com/VMF0jrQqSZ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1313418729233899520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313056233394327600,
+					"id_str": "1313056233394327553",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejjpr_mU0AEo4kZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejjpr_mU0AEo4kZ.jpg",
+					"url": "https://t.co/VMF0jrQqSZ",
+					"display_url": "pic.twitter.com/VMF0jrQqSZ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1313418729233899520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313056233394327600,
+					"id_str": "1313056233394327552",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejjpr_mU0AAv05t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejjpr_mU0AAv05t.jpg",
+					"url": "https://t.co/VMF0jrQqSZ",
+					"display_url": "pic.twitter.com/VMF0jrQqSZ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1313418729233899520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284202,
+			"friends_count": 67,
+			"listed_count": 882,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] FAN REQUEST\n\nKCON:TACT 에서 보고싶은이달의 소녀만의 무대가 있다면? 영어 댓글로!\nWhat do you want to see at #LOONA 's stage at #KCONTACT?\nComment in English!\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet-Kpop: https://t.co/r2LY9mGrzA\n#KCON #LetsKCON https://t.co/VMF0jrQqSZ"
+	},
+	{
+		"created_at": "Tue Oct 06 10:27:05 +0000 2020",
+		"id": 1313417085146464300,
+		"id_str": "1313425537633837056",
+		"full_text": "[#예술경영 웹진 : 사람읽기] \n\n&lt;게릴라 아키비스트가 선택한 오늘의 무게&gt;\n\n454호 사람읽기 더보기👇\nhttps://t.co/15Qh4b3rXu\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/xU7Cx2D8aR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/15Qh4b3rXu",
+					"expanded_url": "https://bit.ly/32TXstZ",
+					"display_url": "bit.ly/32TXstZ",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313417078724993000,
+					"id_str": "1313417078724993026",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejox39NVoAIeJBF.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ejox39NVoAIeJBF.png",
+					"url": "https://t.co/xU7Cx2D8aR",
+					"display_url": "pic.twitter.com/xU7Cx2D8aR",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1313417085146464256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 794,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 794,
+							"h": 344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313417078724993000,
+					"id_str": "1313417078724993026",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejox39NVoAIeJBF.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ejox39NVoAIeJBF.png",
+					"url": "https://t.co/xU7Cx2D8aR",
+					"display_url": "pic.twitter.com/xU7Cx2D8aR",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1313417085146464256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 794,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 794,
+							"h": 344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6836,
+			"friends_count": 3003,
+			"listed_count": 103,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 사람읽기] \n\n&lt;게릴라 아키비스트가 선택한 오늘의 무게&gt;\n\n454호 사람읽기 더보기👇\nhttps://t.co/15Qh4b3rXu\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/xU7Cx2D8aR"
+	},
+	{
 		"created_at": "Tue Oct 06 09:56:47 +0000 2020",
 		"id": 1313417915887169500,
 		"id_str": "1313417915887169537",
