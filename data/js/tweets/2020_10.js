@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 17:45:37 +0000 2020",
+		"id": 1313524427087401000,
+		"id_str": "1313535899699998720",
+		"full_text": "[KCON:TACT season 2] FAN REQUEST\n\nTell us what you want to see at #LOONA's stage at #KCONTACT!\n\n▶ KCON official: https://t.co/PiuQFbs71S\n▶ Mnet-Kpop: https://t.co/cHWmhYv2EF\n#KCON #LetsKCON #KCON2020 https://t.co/JNDEGjWesy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						190,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PiuQFbs71S",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/cHWmhYv2EF",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313490983041065000,
+					"id_str": "1313490983041064960",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejp1FwPXYAAxxXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejp1FwPXYAAxxXX.jpg",
+					"url": "https://t.co/JNDEGjWesy",
+					"display_url": "pic.twitter.com/JNDEGjWesy",
+					"expanded_url": "https://twitter.com/kconusa/status/1313524427087400966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313490983041065000,
+					"id_str": "1313490983041064960",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejp1FwPXYAAxxXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejp1FwPXYAAxxXX.jpg",
+					"url": "https://t.co/JNDEGjWesy",
+					"display_url": "pic.twitter.com/JNDEGjWesy",
+					"expanded_url": "https://twitter.com/kconusa/status/1313524427087400966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188465,
+			"friends_count": 3,
+			"listed_count": 396,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1600452142",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] FAN REQUEST\n\nTell us what you want to see at #LOONA's stage at #KCONTACT!\n\n▶ KCON official: https://t.co/PiuQFbs71S\n▶ Mnet-Kpop: https://t.co/cHWmhYv2EF\n#KCON #LetsKCON #KCON2020 https://t.co/JNDEGjWesy"
+	},
+	{
+		"created_at": "Tue Oct 06 17:14:28 +0000 2020",
+		"id": 1313267731098075100,
+		"id_str": "1313528060415627265",
+		"full_text": "“이건 시작일 뿐이에요” \n10/14일, 드디어 다음주! 찰떡궁합 모먼트부터 무대 뒷이야기까지👀\n없는 거 빼고 다~있는 블랙핑크의 솔직한 이야기\n.\n#블랙핑크 #세상을밝혀라 #넷플릭스 https://t.co/wp4vTmMbGN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "세상을밝혀라",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313249023327826000,
+					"id_str": "1313249023327825920",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EjmapqMU0AIV1J-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjmapqMU0AIV1J-.jpg",
+					"url": "https://t.co/wp4vTmMbGN",
+					"display_url": "pic.twitter.com/wp4vTmMbGN",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1313267731098075136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1421,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313249023327826000,
+					"id_str": "1313249023327825920",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EjmapqMU0AIV1J-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjmapqMU0AIV1J-.jpg",
+					"url": "https://t.co/wp4vTmMbGN",
+					"display_url": "pic.twitter.com/wp4vTmMbGN",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1313267731098075136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1421,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 125083,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1313249023327825920/pl/oiz_8iXAAAy09i3R.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313249023327825920/vid/480x270/BtLc6vi9DxAZkVNg.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313249023327825920/vid/1280x720/Xdhl_C4vKCmwOjG1.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313249023327825920/vid/640x360/No0inpXiQyV2LIFi.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3026881800,
+			"id_str": "3026881800",
+			"name": "@NetflixKR",
+			"screen_name": "NetflixKR",
+			"location": "대한민국 서울",
+			"description": "세계 최대 온라인 스트리밍 서비스 넷플릭스의 한국 공식 페이지입니다! 넷플릭스의 최신 소식을 발 빠르게 전해드립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118126,
+			"friends_count": 237,
+			"listed_count": 242,
+			"created_at": "Wed Feb 18 18:46:33 +0000 2015",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744938017106714624/agbT591Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744938017106714624/agbT591Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3026881800/1601283660",
+			"profile_link_color": "E50913",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12261,
+		"favorite_count": 26016,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“이건 시작일 뿐이에요” \n10/14일, 드디어 다음주! 찰떡궁합 모먼트부터 무대 뒷이야기까지👀\n없는 거 빼고 다~있는 블랙핑크의 솔직한 이야기\n.\n#블랙핑크 #세상을밝혀라 #넷플릭스 https://t.co/wp4vTmMbGN"
+	},
+	{
 		"created_at": "Tue Oct 06 15:27:18 +0000 2020",
 		"id": 1313501091019944000,
 		"id_str": "1313501091019943938",
