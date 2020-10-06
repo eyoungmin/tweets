@@ -1,6 +1,2594 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 13:45:37 +0000 2020",
+		"id": 1313470508352987100,
+		"id_str": "1313475501185474562",
+		"full_text": "[KCON:TACT season 2] FAN REQUEST\n\nKCON:TACT 에서 보고싶은이달의 소녀만의 무대가 있다면? 영어 댓글로!\nWhat do you want to see at #LOONA 's stage at #KCONTACT?\nComment in English!\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet-Kpop: https://t.co/r2LY9mGrzA\n#KCON #LetsKCON https://t.co/bIifBoRXVJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						233,
+						238
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						239,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313470468146573300,
+					"id_str": "1313470468146573312",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpiboTXsAAAmFh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpiboTXsAAAmFh.jpg",
+					"url": "https://t.co/bIifBoRXVJ",
+					"display_url": "pic.twitter.com/bIifBoRXVJ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1313470508352987136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313470468146573300,
+					"id_str": "1313470468146573312",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpiboTXsAAAmFh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpiboTXsAAAmFh.jpg",
+					"url": "https://t.co/bIifBoRXVJ",
+					"display_url": "pic.twitter.com/bIifBoRXVJ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1313470508352987136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313470468616118300,
+					"id_str": "1313470468616118273",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpibqDUYAEr1Kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpibqDUYAEr1Kc.jpg",
+					"url": "https://t.co/bIifBoRXVJ",
+					"display_url": "pic.twitter.com/bIifBoRXVJ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1313470508352987136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284244,
+			"friends_count": 67,
+			"listed_count": 883,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 348,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] FAN REQUEST\n\nKCON:TACT 에서 보고싶은이달의 소녀만의 무대가 있다면? 영어 댓글로!\nWhat do you want to see at #LOONA 's stage at #KCONTACT?\nComment in English!\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet-Kpop: https://t.co/r2LY9mGrzA\n#KCON #LetsKCON https://t.co/bIifBoRXVJ"
+	},
+	{
+		"created_at": "Tue Oct 06 13:26:44 +0000 2020",
+		"id": 1313297412287389700,
+		"id_str": "1313470747902263296",
+		"full_text": "https://t.co/elE3AvGKUu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313297296558235600,
+					"id_str": "1313297296558235648",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313297296558235648/pu/img/cL93gzH9aguz0KjW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313297296558235648/pu/img/cL93gzH9aguz0KjW.jpg",
+					"url": "https://t.co/elE3AvGKUu",
+					"display_url": "pic.twitter.com/elE3AvGKUu",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1313297412287389697/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313297296558235600,
+					"id_str": "1313297296558235648",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313297296558235648/pu/img/cL93gzH9aguz0KjW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313297296558235648/pu/img/cL93gzH9aguz0KjW.jpg",
+					"url": "https://t.co/elE3AvGKUu",
+					"display_url": "pic.twitter.com/elE3AvGKUu",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1313297412287389697/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1313297296558235648/pu/vid/852x480/oCH3mH6C1C7gizHx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1313297296558235648/pu/vid/638x360/DwTVMnN4RpHsBkSv.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1313297296558235648/pu/vid/478x270/5i2ly9Kq5fcD-YUn.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1313297296558235648/pu/pl/_8PcBlWA8MyLZITA.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1313297156384542700,
+		"in_reply_to_status_id_str": "1313297156384542721",
+		"in_reply_to_user_id": 3308936688,
+		"in_reply_to_user_id_str": "3308936688",
+		"in_reply_to_screen_name": "saveKRYSTAL",
+		"user": {
+			"id": 3308936688,
+			"id_str": "3308936688",
+			"name": "수정이 저장소",
+			"screen_name": "saveKRYSTAL",
+			"location": "",
+			"description": "𝐦𝐲 𝐨𝐧𝐞 𝐚𝐧𝐝 𝐨𝐧𝐥𝐲 𝐣𝐮𝐧𝐠𝐬𝐨𝐨𝐣𝐮𝐧𝐠",
+			"url": "https://t.co/cLkBsX6961",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cLkBsX6961",
+							"expanded_url": "http://Instagram.com/vousmevoyez",
+							"display_url": "Instagram.com/vousmevoyez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44402,
+			"friends_count": 0,
+			"listed_count": 662,
+			"created_at": "Fri Aug 07 18:18:52 +0000 2015",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300671764754698240/3agE55kp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300671764754698240/3agE55kp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308936688/1598939371",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1433,
+		"favorite_count": 754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/elE3AvGKUu"
+	},
+	{
+		"created_at": "Tue Oct 06 13:26:42 +0000 2020",
+		"id": 1313297156384542700,
+		"id_str": "1313470741396873217",
+		"full_text": "애비규환 11월 개봉 https://t.co/utFAOCq3VK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313297149057093600,
+					"id_str": "1313297149057093632",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EjnEzIYU0AAfoY9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjnEzIYU0AAfoY9.jpg",
+					"url": "https://t.co/utFAOCq3VK",
+					"display_url": "pic.twitter.com/utFAOCq3VK",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1313297156384542721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313297149057093600,
+					"id_str": "1313297149057093632",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EjnEzIYU0AAfoY9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjnEzIYU0AAfoY9.jpg",
+					"url": "https://t.co/utFAOCq3VK",
+					"display_url": "pic.twitter.com/utFAOCq3VK",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1313297156384542721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308936688,
+			"id_str": "3308936688",
+			"name": "수정이 저장소",
+			"screen_name": "saveKRYSTAL",
+			"location": "",
+			"description": "𝐦𝐲 𝐨𝐧𝐞 𝐚𝐧𝐝 𝐨𝐧𝐥𝐲 𝐣𝐮𝐧𝐠𝐬𝐨𝐨𝐣𝐮𝐧𝐠",
+			"url": "https://t.co/cLkBsX6961",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cLkBsX6961",
+							"expanded_url": "http://Instagram.com/vousmevoyez",
+							"display_url": "Instagram.com/vousmevoyez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44402,
+			"friends_count": 0,
+			"listed_count": 662,
+			"created_at": "Fri Aug 07 18:18:52 +0000 2015",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300671764754698240/3agE55kp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300671764754698240/3agE55kp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308936688/1598939371",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3623,
+		"favorite_count": 1492,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애비규환 11월 개봉 https://t.co/utFAOCq3VK"
+	},
+	{
+		"created_at": "Tue Oct 06 13:26:27 +0000 2020",
+		"id": 1313470677433770000,
+		"id_str": "1313470677433769984",
+		"full_text": "SBS 뉴스 안상우 https://t.co/PFAUBm6zQA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFAUBm6zQA",
+					"expanded_url": "https://twitter.com/SBS8news/status/1313438885112762368",
+					"display_url": "twitter.com/SBS8news/statu…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313438885112762400,
+		"quoted_status_id_str": "1313438885112762368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PFAUBm6zQA",
+			"expanded": "https://twitter.com/SBS8news/status/1313438885112762368",
+			"display": "twitter.com/SBS8news/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 06 11:20:07 +0000 2020",
+			"id": 1313438885112762400,
+			"id_str": "1313438885112762368",
+			"full_text": "\"낙태죄 유지 실망스럽다\" vs \"낙태 남용 소지 농후\" #SBS뉴스 https://t.co/mbILv6TIgt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SBS뉴스",
+						"indices": [
+							32,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mbILv6TIgt",
+						"expanded_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006011766&plink=TWEET&cooper=TWITTER",
+						"display_url": "news.sbs.co.kr/news/endPage.d…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://news.sbs.co.kr\" rel=\"nofollow\">sbs8news</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 91946403,
+				"id_str": "91946403",
+				"name": "SBS 뉴스",
+				"screen_name": "SBS8news",
+				"location": "KOREA",
+				"description": "SBS 보도본부 공식 트위터입니다. 시청자 여러분과 함께 하는 뉴스를 만들도록 최선을 다하겠습니다. 제보는 이메일 sbs8news@sbs.co.kr로 연락 주시기 바랍니다.",
+				"url": "https://t.co/HNq9OuURor",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HNq9OuURor",
+								"expanded_url": "https://news.sbs.co.kr",
+								"display_url": "news.sbs.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 425528,
+				"friends_count": 93080,
+				"listed_count": 3832,
+				"created_at": "Mon Nov 23 05:47:28 +0000 2009",
+				"favourites_count": 2062,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 201167,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1313384888578400256/jdylIb2a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313384888578400256/jdylIb2a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/91946403/1434703804",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SBS 뉴스 안상우 https://t.co/PFAUBm6zQA"
+	},
+	{
+		"created_at": "Tue Oct 06 13:24:49 +0000 2020",
+		"id": 1310846070142926800,
+		"id_str": "1313470268304547840",
+		"full_text": "미성년 연예인 등(연습생 및 지망생 포함)에 대한 권익보호 강화한다\nhttps://t.co/eHGBZq9Hly\n#문화체육관광부 #보도자료",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화체육관광부",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "보도자료",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eHGBZq9Hly",
+					"expanded_url": "http://www.mcst.go.kr/web/s_notice/press/pressView.jsp?pMenuCD=0302000000&pSeq=18326",
+					"display_url": "mcst.go.kr/web/s_notice/p…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 327,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미성년 연예인 등(연습생 및 지망생 포함)에 대한 권익보호 강화한다\nhttps://t.co/eHGBZq9Hly\n#문화체육관광부 #보도자료"
+	},
+	{
+		"created_at": "Tue Oct 06 13:18:15 +0000 2020",
+		"id": 1312356877779435500,
+		"id_str": "1313468614003941378",
+		"full_text": "[#STUDIOCHOOM &amp; CHILL🔥]\n#BE_ORIGINAL 모아보기 \n\n📌ARTIST LIST\n🎵 TXT\n🎵 CHUNG HA\n🎵 Stray Kids\n🎵 ATEEZ\n🎵 CIX\n🎵 (G)I-DLE\n🎵 X1\n🎵 AB6IX\n🎵 HyunA\n🎵 DAWN\n🎵 GOT7\n🎵 GFRIEND\n🎵 EVERGLOW\n🎵 Moon Byul\n🎵 VICTON \n\n▶ https://t.co/1SWkkdeS6k https://t.co/qqmPgiaLjB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						28,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1SWkkdeS6k",
+					"expanded_url": "https://youtu.be/wHYFDeZBdFc",
+					"display_url": "youtu.be/wHYFDeZBdFc",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312356842257883100,
+					"id_str": "1312356842257883137",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EjZtmElVoAEf4A1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjZtmElVoAEf4A1.jpg",
+					"url": "https://t.co/qqmPgiaLjB",
+					"display_url": "pic.twitter.com/qqmPgiaLjB",
+					"expanded_url": "https://twitter.com/M2MPD/status/1312356877779435520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312356842257883100,
+					"id_str": "1312356842257883137",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EjZtmElVoAEf4A1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjZtmElVoAEf4A1.jpg",
+					"url": "https://t.co/qqmPgiaLjB",
+					"display_url": "pic.twitter.com/qqmPgiaLjB",
+					"expanded_url": "https://twitter.com/M2MPD/status/1312356877779435520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1077213,
+			"friends_count": 364,
+			"listed_count": 1204,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2151,
+		"favorite_count": 4907,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STUDIOCHOOM &amp; CHILL🔥]\n#BE_ORIGINAL 모아보기 \n\n📌ARTIST LIST\n🎵 TXT\n🎵 CHUNG HA\n🎵 Stray Kids\n🎵 ATEEZ\n🎵 CIX\n🎵 (G)I-DLE\n🎵 X1\n🎵 AB6IX\n🎵 HyunA\n🎵 DAWN\n🎵 GOT7\n🎵 GFRIEND\n🎵 EVERGLOW\n🎵 Moon Byul\n🎵 VICTON \n\n▶ https://t.co/1SWkkdeS6k https://t.co/qqmPgiaLjB"
+	},
+	{
+		"created_at": "Tue Oct 06 13:16:58 +0000 2020",
+		"id": 1313467855355093000,
+		"id_str": "1313468290899931136",
+		"full_text": "에버글로우의 ‘LA DI DA’ 사운드 편곡이 마음에 들어 살펴봤더니 트와이스 ‘Feel Special’과 레드벨벳 ‘짐살라빔’에 참여했던 Ollipop이네. Tidal의 크레딧 정보로 확인했다. 국내 서비스에서도 이렇게 메타데이터로 참여진 DB 만들어주면 얼마나 좋을까. https://t.co/jmpR8c0Yh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313467845062258700,
+					"id_str": "1313467845062258689",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpgC8jVcAEPGCZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpgC8jVcAEPGCZ.jpg",
+					"url": "https://t.co/jmpR8c0Yh2",
+					"display_url": "pic.twitter.com/jmpR8c0Yh2",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1313467855355092993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313467845062258700,
+					"id_str": "1313467845062258689",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpgC8jVcAEPGCZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpgC8jVcAEPGCZ.jpg",
+					"url": "https://t.co/jmpR8c0Yh2",
+					"display_url": "pic.twitter.com/jmpR8c0Yh2",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1313467855355092993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313467845053829000,
+					"id_str": "1313467845053829125",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpgC8hU0AUAm8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpgC8hU0AUAm8o.jpg",
+					"url": "https://t.co/jmpR8c0Yh2",
+					"display_url": "pic.twitter.com/jmpR8c0Yh2",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1313467855355092993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313467845225799700,
+					"id_str": "1313467845225799680",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpgC9KU4AAepMd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpgC9KU4AAepMd.jpg",
+					"url": "https://t.co/jmpR8c0Yh2",
+					"display_url": "pic.twitter.com/jmpR8c0Yh2",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1313467855355092993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313467845414547500,
+					"id_str": "1313467845414547457",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpgC93U8AE4cPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpgC93U8AE4cPE.jpg",
+					"url": "https://t.co/jmpR8c0Yh2",
+					"display_url": "pic.twitter.com/jmpR8c0Yh2",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1313467855355092993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @officialkpopin💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5337,
+			"friends_count": 1210,
+			"listed_count": 76,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 8014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에버글로우의 ‘LA DI DA’ 사운드 편곡이 마음에 들어 살펴봤더니 트와이스 ‘Feel Special’과 레드벨벳 ‘짐살라빔’에 참여했던 Ollipop이네. Tidal의 크레딧 정보로 확인했다. 국내 서비스에서도 이렇게 메타데이터로 참여진 DB 만들어주면 얼마나 좋을까. https://t.co/jmpR8c0Yh2"
+	},
+	{
+		"created_at": "Tue Oct 06 13:16:30 +0000 2020",
+		"id": 1313468076046774300,
+		"id_str": "1313468173191061505",
+		"full_text": "스포티파이 가사 지원 시작\n\n#스포티파이 #Spotify #음원플랫폼 #뮤직비지니스 https://t.co/vFqogGyCh9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"text": "음원플랫폼",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vFqogGyCh9",
+					"expanded_url": "https://twitter.com/linafab/status/1313081457326391297",
+					"display_url": "twitter.com/linafab/status…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 327,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313081457326391300,
+		"quoted_status_id_str": "1313081457326391297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vFqogGyCh9",
+			"expanded": "https://twitter.com/linafab/status/1313081457326391297",
+			"display": "twitter.com/linafab/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 05 11:39:49 +0000 2020",
+			"id": 1313081457326391300,
+			"id_str": "1313081457326391297",
+			"full_text": "My team just shipped something on iOS and Android - \n\nnow you can find songs by lyrics 😉 on Spotify \n\nGive it a try 😊 https://t.co/bOs4Ob9O84",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1313081447209721900,
+						"id_str": "1313081447209721856",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/EjkAnoYXYAAkezP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjkAnoYXYAAkezP.jpg",
+						"url": "https://t.co/bOs4Ob9O84",
+						"display_url": "pic.twitter.com/bOs4Ob9O84",
+						"expanded_url": "https://twitter.com/linafab/status/1313081457326391297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313081447209721900,
+						"id_str": "1313081447209721856",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/EjkAnoYXYAAkezP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjkAnoYXYAAkezP.jpg",
+						"url": "https://t.co/bOs4Ob9O84",
+						"display_url": "pic.twitter.com/bOs4Ob9O84",
+						"expanded_url": "https://twitter.com/linafab/status/1313081457326391297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2491948153,
+				"id_str": "2491948153",
+				"name": "Lina",
+				"screen_name": "linafab",
+				"location": "Stockholm / San Francisco",
+				"description": "🧘🏻‍♀️ Design @Spotify / #search Previously @lyft • Ex-architect • F1 • Indie 🎵• 🌿• ❤️ startups • Not too shallow, not too deep",
+				"url": "https://t.co/UaVgirnJjy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UaVgirnJjy",
+								"expanded_url": "https://thelinwang.com",
+								"display_url": "thelinwang.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2887,
+				"friends_count": 91,
+				"listed_count": 78,
+				"created_at": "Mon May 12 20:34:44 +0000 2014",
+				"favourites_count": 2475,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1618,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1261142020304916480/kxxL3zwe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261142020304916480/kxxL3zwe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2491948153/1476992674",
+				"profile_link_color": "EEAEEE",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "d56c5babcffde8ef",
+				"url": "https://api.twitter.com/1.1/geo/id/d56c5babcffde8ef.json",
+				"place_type": "city",
+				"name": "Stockholm",
+				"full_name": "Stockholm, Sverige",
+				"country_code": "SE",
+				"country": "Sverige",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								17.7601322,
+								59.2271383
+							],
+							[
+								18.1999856,
+								59.2271383
+							],
+							[
+								18.1999856,
+								59.4402037
+							],
+							[
+								17.7601322,
+								59.4402037
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 722,
+			"favorite_count": 7104,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스포티파이 가사 지원 시작\n\n#스포티파이 #Spotify #음원플랫폼 #뮤직비지니스 https://t.co/vFqogGyCh9"
+	},
+	{
+		"created_at": "Tue Oct 06 13:16:25 +0000 2020",
+		"id": 1313467883213652000,
+		"id_str": "1313468154635415552",
+		"full_text": "Spotify now lets you search for songs by lyrics\nhttps://t.co/sob5lQiHvE\n\n- 스포티파이가 가사 지원을 시작함. 일부 국가에서 제공하던 기능.\n- 스포티파이 차트 신설(@spotifycharts). 금주의 가장 인기있는 앨범 순위 제공.\n\n#스포티파이 #Spotify #음원플랫폼 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "음원플랫폼",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						188,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spotifycharts",
+					"name": "Spotify Charts",
+					"id": 1305536251110588400,
+					"id_str": "1305536251110588416",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sob5lQiHvE",
+					"expanded_url": "https://www.engadget.com/spotify-lyric-search-154658075.html",
+					"display_url": "engadget.com/spotify-lyric-…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 327,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Spotify now lets you search for songs by lyrics\nhttps://t.co/sob5lQiHvE\n\n- 스포티파이가 가사 지원을 시작함. 일부 국가에서 제공하던 기능.\n- 스포티파이 차트 신설(@spotifycharts). 금주의 가장 인기있는 앨범 순위 제공.\n\n#스포티파이 #Spotify #음원플랫폼 #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Oct 06 13:10:59 +0000 2020",
+		"id": 1313081457326391300,
+		"id_str": "1313466787434913792",
+		"full_text": "My team just shipped something on iOS and Android - \n\nnow you can find songs by lyrics 😉 on Spotify \n\nGive it a try 😊 https://t.co/bOs4Ob9O84",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313081447209721900,
+					"id_str": "1313081447209721856",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EjkAnoYXYAAkezP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjkAnoYXYAAkezP.jpg",
+					"url": "https://t.co/bOs4Ob9O84",
+					"display_url": "pic.twitter.com/bOs4Ob9O84",
+					"expanded_url": "https://twitter.com/linafab/status/1313081457326391297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313081447209721900,
+					"id_str": "1313081447209721856",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EjkAnoYXYAAkezP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjkAnoYXYAAkezP.jpg",
+					"url": "https://t.co/bOs4Ob9O84",
+					"display_url": "pic.twitter.com/bOs4Ob9O84",
+					"expanded_url": "https://twitter.com/linafab/status/1313081457326391297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2491948153,
+			"id_str": "2491948153",
+			"name": "Lina",
+			"screen_name": "linafab",
+			"location": "Stockholm / San Francisco",
+			"description": "🧘🏻‍♀️ Design @Spotify / #search Previously @lyft • Ex-architect • F1 • Indie 🎵• 🌿• ❤️ startups • Not too shallow, not too deep",
+			"url": "https://t.co/UaVgirnJjy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UaVgirnJjy",
+							"expanded_url": "https://thelinwang.com",
+							"display_url": "thelinwang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2887,
+			"friends_count": 91,
+			"listed_count": 78,
+			"created_at": "Mon May 12 20:34:44 +0000 2014",
+			"favourites_count": 2475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261142020304916480/kxxL3zwe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261142020304916480/kxxL3zwe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2491948153/1476992674",
+			"profile_link_color": "EEAEEE",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d56c5babcffde8ef",
+			"url": "https://api.twitter.com/1.1/geo/id/d56c5babcffde8ef.json",
+			"place_type": "city",
+			"name": "Stockholm",
+			"full_name": "Stockholm, Sverige",
+			"country_code": "SE",
+			"country": "Sverige",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							17.7601322,
+							59.2271383
+						],
+						[
+							18.1999856,
+							59.2271383
+						],
+						[
+							18.1999856,
+							59.4402037
+						],
+						[
+							17.7601322,
+							59.4402037
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 722,
+		"favorite_count": 7104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My team just shipped something on iOS and Android - \n\nnow you can find songs by lyrics 😉 on Spotify \n\nGive it a try 😊 https://t.co/bOs4Ob9O84"
+	},
+	{
+		"created_at": "Tue Oct 06 13:08:13 +0000 2020",
+		"id": 1313308440597463000,
+		"id_str": "1313466088747790337",
+		"full_text": "추가: 2017년에 남성 가수 한솔씨가 에이섹슈얼 커밍아웃을 하였고,\n2017~2018년 경에 가수 홀랜드씨가 게이임을 커밍아웃했던 사례가 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1313306357311832000,
+		"in_reply_to_status_id_str": "1313306357311832064",
+		"in_reply_to_user_id": 1225441904285741000,
+		"in_reply_to_user_id_str": "1225441904285741056",
+		"in_reply_to_screen_name": "shouldlistenemo",
+		"user": {
+			"id": 1225441904285741000,
+			"id_str": "1225441904285741056",
+			"name": "이달🎗",
+			"screen_name": "shouldlistenemo",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 220,
+			"listed_count": 2,
+			"created_at": "Thu Feb 06 15:31:42 +0000 2020",
+			"favourites_count": 10598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "추가: 2017년에 남성 가수 한솔씨가 에이섹슈얼 커밍아웃을 하였고,\n2017~2018년 경에 가수 홀랜드씨가 게이임을 커밍아웃했던 사례가 있습니다."
+	},
+	{
+		"created_at": "Tue Oct 06 13:08:12 +0000 2020",
+		"id": 1313306357311832000,
+		"id_str": "1313466084251463683",
+		"full_text": "정정: 김지후씨의 &lt;거침없이 하이킥&gt; 출연 여부는 당시 언론들의 마구잡이식 보도 때문에 와전되었다는 지적이 있어 여기 달아둡니다.\n출연한 게 사실이라도 1회성 단역이었을 거라 해요. 혹시 찾아보실 분들이 있으실까봐 정정합니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1313303694205575200,
+		"in_reply_to_status_id_str": "1313303694205575168",
+		"in_reply_to_user_id": 1225441904285741000,
+		"in_reply_to_user_id_str": "1225441904285741056",
+		"in_reply_to_screen_name": "shouldlistenemo",
+		"user": {
+			"id": 1225441904285741000,
+			"id_str": "1225441904285741056",
+			"name": "이달🎗",
+			"screen_name": "shouldlistenemo",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 220,
+			"listed_count": 2,
+			"created_at": "Thu Feb 06 15:31:42 +0000 2020",
+			"favourites_count": 10598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정정: 김지후씨의 &lt;거침없이 하이킥&gt; 출연 여부는 당시 언론들의 마구잡이식 보도 때문에 와전되었다는 지적이 있어 여기 달아둡니다.\n출연한 게 사실이라도 1회성 단역이었을 거라 해요. 혹시 찾아보실 분들이 있으실까봐 정정합니다"
+	},
+	{
+		"created_at": "Tue Oct 06 13:08:10 +0000 2020",
+		"id": 1313303694205575200,
+		"id_str": "1313466077108609029",
+		"full_text": "앞선 사례들을 꺼낸 것은 결코 권도운씨의 커밍아웃을 폄하하기 위함이 아닙니다.\n다만 다른 성소수자 연예인들의 앞서갔던 용기가 역사에서 사라지지 않고 기억되기를 바랄 뿐이에요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1313302936731017200,
+		"in_reply_to_status_id_str": "1313302936731017217",
+		"in_reply_to_user_id": 1225441904285741000,
+		"in_reply_to_user_id_str": "1225441904285741056",
+		"in_reply_to_screen_name": "shouldlistenemo",
+		"user": {
+			"id": 1225441904285741000,
+			"id_str": "1225441904285741056",
+			"name": "이달🎗",
+			"screen_name": "shouldlistenemo",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 220,
+			"listed_count": 2,
+			"created_at": "Thu Feb 06 15:31:42 +0000 2020",
+			"favourites_count": 10598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앞선 사례들을 꺼낸 것은 결코 권도운씨의 커밍아웃을 폄하하기 위함이 아닙니다.\n다만 다른 성소수자 연예인들의 앞서갔던 용기가 역사에서 사라지지 않고 기억되기를 바랄 뿐이에요."
+	},
+	{
+		"created_at": "Tue Oct 06 13:08:08 +0000 2020",
+		"id": 1313302936731017200,
+		"id_str": "1313466068300558336",
+		"full_text": "그리고 마골피라는 여성 가수가 라디오 방송에서 본인은 여성을 좋아한다고 발언했으나, 소속사가 오해라며 해명한 이후 오랫동안 무대에서 보이지 않아(현재는 다른 이름으로 활동중이라 함) 커밍아웃이 억압당한 사례라는 의심을 받고 있어요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1313301649809535000,
+		"in_reply_to_status_id_str": "1313301649809534976",
+		"in_reply_to_user_id": 1225441904285741000,
+		"in_reply_to_user_id_str": "1225441904285741056",
+		"in_reply_to_screen_name": "shouldlistenemo",
+		"user": {
+			"id": 1225441904285741000,
+			"id_str": "1225441904285741056",
+			"name": "이달🎗",
+			"screen_name": "shouldlistenemo",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 220,
+			"listed_count": 2,
+			"created_at": "Thu Feb 06 15:31:42 +0000 2020",
+			"favourites_count": 10598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 364,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 마골피라는 여성 가수가 라디오 방송에서 본인은 여성을 좋아한다고 발언했으나, 소속사가 오해라며 해명한 이후 오랫동안 무대에서 보이지 않아(현재는 다른 이름으로 활동중이라 함) 커밍아웃이 억압당한 사례라는 의심을 받고 있어요."
+	},
+	{
+		"created_at": "Tue Oct 06 13:08:06 +0000 2020",
+		"id": 1313301649809535000,
+		"id_str": "1313466061782568961",
+		"full_text": "&lt;거침없이 하이킥&gt;에 출연했던 고 김지후씨는 2008년에 본인이 게이임을 공개적으로 밝히며 커밍아웃했어요.\n배우 이대학씨 역시 연예게 데뷔 이후 트랜지션 수술을 받았고, 커밍아웃을 했어요(현재 활동명은 이시연)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1313300110621634600,
+		"in_reply_to_status_id_str": "1313300110621634561",
+		"in_reply_to_user_id": 1225441904285741000,
+		"in_reply_to_user_id_str": "1225441904285741056",
+		"in_reply_to_screen_name": "shouldlistenemo",
+		"user": {
+			"id": 1225441904285741000,
+			"id_str": "1225441904285741056",
+			"name": "이달🎗",
+			"screen_name": "shouldlistenemo",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 220,
+			"listed_count": 2,
+			"created_at": "Thu Feb 06 15:31:42 +0000 2020",
+			"favourites_count": 10598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312794856423526401/Xqn8frDV_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 355,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;거침없이 하이킥&gt;에 출연했던 고 김지후씨는 2008년에 본인이 게이임을 공개적으로 밝히며 커밍아웃했어요.\n배우 이대학씨 역시 연예게 데뷔 이후 트랜지션 수술을 받았고, 커밍아웃을 했어요(현재 활동명은 이시연)"
+	},
+	{
 		"created_at": "Tue Oct 06 12:23:31 +0000 2020",
 		"id": 1313280760934064000,
 		"id_str": "1313454841096630272",
