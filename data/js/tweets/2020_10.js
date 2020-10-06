@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 01:45:37 +0000 2020",
+		"id": 1313285853775458300,
+		"id_str": "1313294306694893569",
+		"full_text": "[#IDOLCHAMP_VOTE]\n\n팬PD들이 가장 기대한 10월 컴백아이돌은? 💖?\nVote for idols who you most look forward in October.ᐟ.ᐟ\n\n🏆Now Ranking🏆\n#NCT2020 \n#TOMORROW_X_TOGETHER \n#BLACKPINK\n#LOONA \n\nCheck Here ▶ https://t.co/LhjkYNrLkb https://t.co/qalj4KhzZx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IDOLCHAMP_VOTE",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"text": "NCT2020",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "TOMORROW_X_TOGETHER",
+					"indices": [
+						128,
+						148
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LhjkYNrLkb",
+					"expanded_url": "https://bit.ly/36wYsrf",
+					"display_url": "bit.ly/36wYsrf",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313285847324582000,
+					"id_str": "1313285847324581888",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejm6hSJUYAAJP2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejm6hSJUYAAJP2x.jpg",
+					"url": "https://t.co/qalj4KhzZx",
+					"display_url": "pic.twitter.com/qalj4KhzZx",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1313285853775458304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313285847324582000,
+					"id_str": "1313285847324581888",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejm6hSJUYAAJP2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejm6hSJUYAAJP2x.jpg",
+					"url": "https://t.co/qalj4KhzZx",
+					"display_url": "pic.twitter.com/qalj4KhzZx",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1313285853775458304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313285847320469500,
+					"id_str": "1313285847320469505",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejm6hSIVoAESCWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejm6hSIVoAESCWe.jpg",
+					"url": "https://t.co/qalj4KhzZx",
+					"display_url": "pic.twitter.com/qalj4KhzZx",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1313285853775458304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69756,
+			"friends_count": 623,
+			"listed_count": 131,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#IDOLCHAMP_VOTE]\n\n팬PD들이 가장 기대한 10월 컴백아이돌은? 💖?\nVote for idols who you most look forward in October.ᐟ.ᐟ\n\n🏆Now Ranking🏆\n#NCT2020 \n#TOMORROW_X_TOGETHER \n#BLACKPINK\n#LOONA \n\nCheck Here ▶ https://t.co/LhjkYNrLkb https://t.co/qalj4KhzZx"
+	},
+	{
+		"created_at": "Tue Oct 06 01:27:14 +0000 2020",
+		"id": 1313287955063111700,
+		"id_str": "1313289681673564162",
+		"full_text": "#사생활 D-1\n사기캐들의 통쾌한 사기 플레이👊\n사기캐들의 현실생활 &lt;사생활&gt;\n10/7(수) 밤9:30 첫 방송\n#JTBC #새수목드라마 #사생활 #PrivateLives\n#서현 #고경표 #김효진 #김영민 #태원석\n#ComingSoonJTBC #10월7일_밤_9시30분 #첫방송 https://t.co/pDIeRoC5sC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "새수목드라마",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "PrivateLives",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "태원석",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "ComingSoonJTBC",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"text": "10월7일_밤_9시30분",
+					"indices": [
+						142,
+						156
+					]
+				},
+				{
+					"text": "첫방송",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pDIeRoC5sC",
+					"expanded_url": "https://www.instagram.com/p/CF-8E90hTCw/?igshid=94zanodx15hm",
+					"display_url": "instagram.com/p/CF-8E90hTCw/…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383836,
+			"friends_count": 31,
+			"listed_count": 2852,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 410,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사생활 D-1\n사기캐들의 통쾌한 사기 플레이👊\n사기캐들의 현실생활 &lt;사생활&gt;\n10/7(수) 밤9:30 첫 방송\n#JTBC #새수목드라마 #사생활 #PrivateLives\n#서현 #고경표 #김효진 #김영민 #태원석\n#ComingSoonJTBC #10월7일_밤_9시30분 #첫방송 https://t.co/pDIeRoC5sC"
+	},
+	{
 		"created_at": "Mon Oct 05 20:15:44 +0000 2020",
 		"id": 1313211291155280000,
 		"id_str": "1313211291155279872",
