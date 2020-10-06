@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 14:52:47 +0000 2020",
+		"id": 1313492334819127300,
+		"id_str": "1313492405912563712",
+		"full_text": "[티저] 🎸2020 인천 펜타포트 록페스티벌🎤 라이브 (2020. 10. 16. - 17.)\nhttps://t.co/vhkLhtUazW\n\n#펜타포트 #펜타포트록페스티벌 #PENTAPORT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펜타포트",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "펜타포트록페스티벌",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "PENTAPORT",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vhkLhtUazW",
+					"expanded_url": "https://youtu.be/XS7GdXJlDDg",
+					"display_url": "youtu.be/XS7GdXJlDDg",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 327,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티저] 🎸2020 인천 펜타포트 록페스티벌🎤 라이브 (2020. 10. 16. - 17.)\nhttps://t.co/vhkLhtUazW\n\n#펜타포트 #펜타포트록페스티벌 #PENTAPORT"
+	},
+	{
+		"created_at": "Tue Oct 06 14:45:39 +0000 2020",
+		"id": 1313479125852512300,
+		"id_str": "1313490609060163593",
+		"full_text": "[KCON:TACT season 2] LIVE KCON-ers Now Recruiting!\n\n#KCONTACT DAY10\n\n#CLC\n#GHOST9\n#LOONA\n#MAMAMOO\n#TOO\n\nApply now to get a chance!\n\n▶ KCON official: https://t.co/PiuQFbavDi\n▶ Mnet-Kpop: https://t.co/cHWmhYMDwd\n\n#KCON #KCON2020 https://t.co/ViPvtYjjJC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "CLC",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "TOO",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						217,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PiuQFbavDi",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/cHWmhYMDwd",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313330670387646500,
+					"id_str": "1313330670387646464",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EjnjSVEU0AAjB59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjnjSVEU0AAjB59.jpg",
+					"url": "https://t.co/ViPvtYjjJC",
+					"display_url": "pic.twitter.com/ViPvtYjjJC",
+					"expanded_url": "https://twitter.com/kconusa/status/1313479125852512256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313330670387646500,
+					"id_str": "1313330670387646464",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EjnjSVEU0AAjB59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjnjSVEU0AAjB59.jpg",
+					"url": "https://t.co/ViPvtYjjJC",
+					"display_url": "pic.twitter.com/ViPvtYjjJC",
+					"expanded_url": "https://twitter.com/kconusa/status/1313479125852512256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188472,
+			"friends_count": 3,
+			"listed_count": 396,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1600452142",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE KCON-ers Now Recruiting!\n\n#KCONTACT DAY10\n\n#CLC\n#GHOST9\n#LOONA\n#MAMAMOO\n#TOO\n\nApply now to get a chance!\n\n▶ KCON official: https://t.co/PiuQFbavDi\n▶ Mnet-Kpop: https://t.co/cHWmhYMDwd\n\n#KCON #KCON2020 https://t.co/ViPvtYjjJC"
+	},
+	{
 		"created_at": "Tue Oct 06 13:45:37 +0000 2020",
 		"id": 1313470508352987100,
 		"id_str": "1313475501185474562",
@@ -1394,7 +1782,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @officialkpopin💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @officialkpopin💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
@@ -1712,7 +2100,7 @@ Grailbird.data.tweets_2020_10 =
 				"name": "Lina",
 				"screen_name": "linafab",
 				"location": "Stockholm / San Francisco",
-				"description": "🧘🏻‍♀️ Design @Spotify / #search Previously @lyft • Ex-architect • F1 • Indie 🎵• 🌿• ❤️ startups • Not too shallow, not too deep",
+				"description": "🧘🏻♀️ Design @Spotify / #search Previously @lyft • Ex-architect • F1 • Indie 🎵• 🌿• ❤️ startups • Not too shallow, not too deep",
 				"url": "https://t.co/UaVgirnJjy",
 				"entities": {
 					"url": {
@@ -2082,7 +2470,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "Lina",
 			"screen_name": "linafab",
 			"location": "Stockholm / San Francisco",
-			"description": "🧘🏻‍♀️ Design @Spotify / #search Previously @lyft • Ex-architect • F1 • Indie 🎵• 🌿• ❤️ startups • Not too shallow, not too deep",
+			"description": "🧘🏻♀️ Design @Spotify / #search Previously @lyft • Ex-architect • F1 • Indie 🎵• 🌿• ❤️ startups • Not too shallow, not too deep",
 			"url": "https://t.co/UaVgirnJjy",
 			"entities": {
 				"url": {
