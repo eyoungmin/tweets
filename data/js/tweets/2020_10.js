@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 13:57:15 +0000 2020",
+		"id": 1313823877768781800,
+		"id_str": "1313840816566067202",
+		"full_text": "미국 하원 반독점소위원회에서 민주당 주도 하에 애플, 아마존, 페이스북, 구글 4개사가 시장지배력을 남용한다는 내용의 보고서를 채택했다는 기사 https://t.co/1GBlfGreEM 해당 보고서에서는 의회가 적극적으로 '지배 플랫폼'들을 구조적으로 분할할 것을 고려하도록 권하고 있다고… https://t.co/2G9BOvJ4Mm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1GBlfGreEM",
+					"expanded_url": "https://www.forbes.com/sites/rachelsandler/2020/10/06/long-awaited-house-report-recommends-breaking-up-big-tech/#2588deed5c83",
+					"display_url": "forbes.com/sites/rachelsa…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313823796290224000,
+					"id_str": "1313823796290224128",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EjujyCNVgAAsZSG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EjujyCNVgAAsZSG.png",
+					"url": "https://t.co/2G9BOvJ4Mm",
+					"display_url": "pic.twitter.com/2G9BOvJ4Mm",
+					"expanded_url": "https://twitter.com/metavital/status/1313823877768781824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313823796290224000,
+					"id_str": "1313823796290224128",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EjujyCNVgAAsZSG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EjujyCNVgAAsZSG.png",
+					"url": "https://t.co/2G9BOvJ4Mm",
+					"display_url": "pic.twitter.com/2G9BOvJ4Mm",
+					"expanded_url": "https://twitter.com/metavital/status/1313823877768781824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1226281,
+			"id_str": "1226281",
+			"name": "H. Kim",
+			"screen_name": "metavital",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1898,
+			"friends_count": 388,
+			"listed_count": 67,
+			"created_at": "Thu Mar 15 14:36:38 +0000 2007",
+			"favourites_count": 2635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836821324383277056/u9w3BViK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836821324383277056/u9w3BViK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1226281/1451730037",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 하원 반독점소위원회에서 민주당 주도 하에 애플, 아마존, 페이스북, 구글 4개사가 시장지배력을 남용한다는 내용의 보고서를 채택했다는 기사 https://t.co/1GBlfGreEM 해당 보고서에서는 의회가 적극적으로 '지배 플랫폼'들을 구조적으로 분할할 것을 고려하도록 권하고 있다고… https://t.co/2G9BOvJ4Mm"
+	},
+	{
+		"created_at": "Wed Oct 07 13:56:10 +0000 2020",
+		"id": 1313789078815543300,
+		"id_str": "1313840543336525824",
+		"full_text": "“My wish is that this will provide a positive message to the young girls who would like to follow the path of science, and to show them that women in science can also have an impact through the research that they are performing.”\n\n- 2020 Chemistry Laureate Emmanuelle Charpentier. https://t.co/0yWdih3hpl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313788408452526000,
+					"id_str": "1313788408452526080",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuDmMPWsAAEUkj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuDmMPWsAAEUkj.jpg",
+					"url": "https://t.co/0yWdih3hpl",
+					"display_url": "pic.twitter.com/0yWdih3hpl",
+					"expanded_url": "https://twitter.com/NobelPrize/status/1313789078815543296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313788408452526000,
+					"id_str": "1313788408452526080",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuDmMPWsAAEUkj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuDmMPWsAAEUkj.jpg",
+					"url": "https://t.co/0yWdih3hpl",
+					"display_url": "pic.twitter.com/0yWdih3hpl",
+					"expanded_url": "https://twitter.com/NobelPrize/status/1313789078815543296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16465385,
+			"id_str": "16465385",
+			"name": "The Nobel Prize",
+			"screen_name": "NobelPrize",
+			"location": "Stockholm, Sweden",
+			"description": "The official Twitter feed of the Nobel Prize @NobelPrize #NobelPrize",
+			"url": "https://t.co/5YEscsEeZ9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5YEscsEeZ9",
+							"expanded_url": "http://nobelprize.org",
+							"display_url": "nobelprize.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 665726,
+			"friends_count": 491,
+			"listed_count": 4971,
+			"created_at": "Fri Sep 26 08:47:58 +0000 2008",
+			"favourites_count": 633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029729528548139009/fVPd0EwX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029729528548139009/fVPd0EwX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16465385/1598264048",
+			"profile_link_color": "307497",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E2E8EA",
+			"profile_text_color": "023C59",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2241,
+		"favorite_count": 5042,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“My wish is that this will provide a positive message to the young girls who would like to follow the path of science, and to show them that women in science can also have an impact through the research that they are performing.”\n\n- 2020 Chemistry Laureate Emmanuelle Charpentier. https://t.co/0yWdih3hpl"
+	},
+	{
+		"created_at": "Wed Oct 07 13:56:06 +0000 2020",
+		"id": 1313836717103747000,
+		"id_str": "1313840526454521856",
+		"full_text": "노벨화학상 수상한 여성과학자의 메시지 \"소녀들에게 긍정 메시지 되길\"\n2020년 노벨화학상은 ‘크리스퍼 유전자 가위’ 개발에 기여한 여성과학자 에마뉘엘 샤르팡티에 박사와 제니퍼 다우드나 교수가 공동수상했다. 여성 공동수상은 최초다. \nhttps://t.co/zPXtsMioUQ https://t.co/BLriewBWyq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zPXtsMioUQ",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=310&aid=0000081095",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313836669557043200,
+					"id_str": "1313836669557043201",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuvfW3UcAENFW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuvfW3UcAENFW0.jpg",
+					"url": "https://t.co/BLriewBWyq",
+					"display_url": "pic.twitter.com/BLriewBWyq",
+					"expanded_url": "https://twitter.com/wnewskr/status/1313836717103747084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1212,
+							"h": 606,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313836669557043200,
+					"id_str": "1313836669557043201",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuvfW3UcAENFW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuvfW3UcAENFW0.jpg",
+					"url": "https://t.co/BLriewBWyq",
+					"display_url": "pic.twitter.com/BLriewBWyq",
+					"expanded_url": "https://twitter.com/wnewskr/status/1313836717103747084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1212,
+							"h": 606,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196310,
+			"friends_count": 3518,
+			"listed_count": 294,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노벨화학상 수상한 여성과학자의 메시지 \"소녀들에게 긍정 메시지 되길\"\n2020년 노벨화학상은 ‘크리스퍼 유전자 가위’ 개발에 기여한 여성과학자 에마뉘엘 샤르팡티에 박사와 제니퍼 다우드나 교수가 공동수상했다. 여성 공동수상은 최초다. \nhttps://t.co/zPXtsMioUQ https://t.co/BLriewBWyq"
+	},
+	{
+		"created_at": "Wed Oct 07 13:55:58 +0000 2020",
+		"id": 1313838007791743000,
+		"id_str": "1313840493340487680",
+		"full_text": "어려운 말 남발은 화자의 전문성보다 지위 불안을 드러내는 경향. 똑똑해 보이기 위해 필요 이상 전문용어에 의지하는 경향 보여주는 연구 결과들. 하위 대학 저자 논문 제목이 더 어렵고, 대화에서도 명료성보다 평가에 신경. 소통도 소비처럼 보상이나 과시 요소 작동한다는https://t.co/6atVxNIfpt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6atVxNIfpt",
+					"expanded_url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597820303666",
+					"display_url": "sciencedirect.com/science/articl…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101283,
+			"friends_count": 2387,
+			"listed_count": 312,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어려운 말 남발은 화자의 전문성보다 지위 불안을 드러내는 경향. 똑똑해 보이기 위해 필요 이상 전문용어에 의지하는 경향 보여주는 연구 결과들. 하위 대학 저자 논문 제목이 더 어렵고, 대화에서도 명료성보다 평가에 신경. 소통도 소비처럼 보상이나 과시 요소 작동한다는https://t.co/6atVxNIfpt"
+	},
+	{
+		"created_at": "Wed Oct 07 13:55:15 +0000 2020",
+		"id": 1313840314503716900,
+		"id_str": "1313840314503716864",
+		"full_text": "과징금 얼마 내지도 않는데 무서워 하겠냐고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "과징금 얼마 내지도 않는데 무서워 하겠냐고."
+	},
+	{
+		"created_at": "Wed Oct 07 13:51:23 +0000 2020",
+		"id": 1313821169158561800,
+		"id_str": "1313839342394122241",
+		"full_text": "'쇼핑 검색 조작' 네이버, 국감서 질타…뉴스도 눈초리 https://t.co/D3xq34hsj5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D3xq34hsj5",
+					"expanded_url": "http://news.jtbc.joins.com/html/816/NB11972816.html",
+					"display_url": "news.jtbc.joins.com/html/816/NB119…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603734,
+			"friends_count": 44018,
+			"listed_count": 2141,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 77915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'쇼핑 검색 조작' 네이버, 국감서 질타…뉴스도 눈초리 https://t.co/D3xq34hsj5"
+	},
+	{
 		"created_at": "Wed Oct 07 12:51:47 +0000 2020",
 		"id": 1313824342304682000,
 		"id_str": "1313824342304681984",
