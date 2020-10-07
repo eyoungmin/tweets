@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 16:34:44 +0000 2020",
+		"id": 1313880450830491600,
+		"id_str": "1313880450830491654",
+		"full_text": "카*나 논란 터짐. 회원가입 시, 본인인증 절차가 없어서 무한 계정을 생성해 14족 먹은 사람이 있다고. 3자리수 4자리수 계정 보유한 사람도 있다고 함. 드로우나 레플이 무슨 의미인지. 역시 어메이징. https://t.co/dCeN5wFBpc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313880436263714800,
+					"id_str": "1313880436263714818",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EjvXS6jVgAIiOOd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjvXS6jVgAIiOOd.jpg",
+					"url": "https://t.co/dCeN5wFBpc",
+					"display_url": "pic.twitter.com/dCeN5wFBpc",
+					"expanded_url": "https://twitter.com/fromminn/status/1313880450830491654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1258,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 611,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313880436263714800,
+					"id_str": "1313880436263714818",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EjvXS6jVgAIiOOd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjvXS6jVgAIiOOd.jpg",
+					"url": "https://t.co/dCeN5wFBpc",
+					"display_url": "pic.twitter.com/dCeN5wFBpc",
+					"expanded_url": "https://twitter.com/fromminn/status/1313880450830491654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1258,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 611,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313880441196142600,
+					"id_str": "1313880441196142592",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EjvXTM7UYAASaHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjvXTM7UYAASaHv.jpg",
+					"url": "https://t.co/dCeN5wFBpc",
+					"display_url": "pic.twitter.com/dCeN5wFBpc",
+					"expanded_url": "https://twitter.com/fromminn/status/1313880450830491654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1398,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313880445105270800,
+					"id_str": "1313880445105270784",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EjvXTbfU8AAdmx3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjvXTbfU8AAdmx3.jpg",
+					"url": "https://t.co/dCeN5wFBpc",
+					"display_url": "pic.twitter.com/dCeN5wFBpc",
+					"expanded_url": "https://twitter.com/fromminn/status/1313880450830491654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 831,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 969,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313880448552988700,
+					"id_str": "1313880448552988672",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EjvXToVU8AAIsbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjvXToVU8AAIsbV.jpg",
+					"url": "https://t.co/dCeN5wFBpc",
+					"display_url": "pic.twitter.com/dCeN5wFBpc",
+					"expanded_url": "https://twitter.com/fromminn/status/1313880450830491654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1293,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카*나 논란 터짐. 회원가입 시, 본인인증 절차가 없어서 무한 계정을 생성해 14족 먹은 사람이 있다고. 3자리수 4자리수 계정 보유한 사람도 있다고 함. 드로우나 레플이 무슨 의미인지. 역시 어메이징. https://t.co/dCeN5wFBpc"
+	},
+	{
 		"created_at": "Wed Oct 07 15:31:14 +0000 2020",
 		"id": 1313864467294244900,
 		"id_str": "1313864467294244867",
