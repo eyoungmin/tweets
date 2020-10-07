@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 08:27:05 +0000 2020",
+		"id": 1313752326293790700,
+		"id_str": "1313757727030730755",
+		"full_text": "새 음반 녹음 시작 했습니다🌒\n#심규선 #루시아 #새음반 #녹음 #연간규 https://t.co/giuJ2M629z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "새음반",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "녹음",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "연간규",
+					"indices": [
+						36,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313752322867044400,
+					"id_str": "1313752322867044352",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejtixu9VoAAv6kW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejtixu9VoAAv6kW.jpg",
+					"url": "https://t.co/giuJ2M629z",
+					"display_url": "pic.twitter.com/giuJ2M629z",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1313752326293790720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313752322867044400,
+					"id_str": "1313752322867044352",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejtixu9VoAAv6kW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejtixu9VoAAv6kW.jpg",
+					"url": "https://t.co/giuJ2M629z",
+					"display_url": "pic.twitter.com/giuJ2M629z",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1313752326293790720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "IVORY 4/20 pm6시 공개",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 160,
+			"listed_count": 161,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177474724164591616/AyTeBxXd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177474724164591616/AyTeBxXd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1570345723",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새 음반 녹음 시작 했습니다🌒\n#심규선 #루시아 #새음반 #녹음 #연간규 https://t.co/giuJ2M629z"
+	},
+	{
 		"created_at": "Wed Oct 07 08:01:37 +0000 2020",
 		"id": 1313751317421142000,
 		"id_str": "1313751317421142016",
