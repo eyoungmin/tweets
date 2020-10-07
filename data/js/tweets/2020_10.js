@@ -1,6 +1,777 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 01:27:22 +0000 2020",
+		"id": 1313646474824044500,
+		"id_str": "1313652102053462018",
+		"full_text": "[EN] 광고포함 | 3대 600 가능! 헬린이 예리 앞 속타는 이승윤🏋🏻 [EP.18-2] \n\n👉🏻 https://t.co/f67PzhsyVt \n\n#예리 #YERI #레드벨벳 #RedVelvet #이승윤 #자연인 #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "이승윤",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "자연인",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f67PzhsyVt",
+					"expanded_url": "https://youtu.be/wmoEG1VY9KQ",
+					"display_url": "youtu.be/wmoEG1VY9KQ",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3260137,
+			"friends_count": 1,
+			"listed_count": 6794,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1781,
+		"favorite_count": 6064,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN] 광고포함 | 3대 600 가능! 헬린이 예리 앞 속타는 이승윤🏋🏻 [EP.18-2] \n\n👉🏻 https://t.co/f67PzhsyVt \n\n#예리 #YERI #레드벨벳 #RedVelvet #이승윤 #자연인 #예리한방"
+	},
+	{
+		"created_at": "Wed Oct 07 01:27:19 +0000 2020",
+		"id": 1313646304019402800,
+		"id_str": "1313652088921092098",
+		"full_text": "3대 600 가능! 헬린이 예리 앞 속타는 이승윤\nDo you even lift 600kg? Lee Seung Yoon wants Yeri to know how difficult it is🏋🏻\n👉https://t.co/Zo8ftMTIbI\n\n#예리 #이승윤 #자연인 #Yeri #RedVelvet #YerisRoom #레드벨벳 #예리한방 #나는자연인이다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "이승윤",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "자연인",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "YerisRoom",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "나는자연인이다",
+					"indices": [
+						188,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zo8ftMTIbI",
+					"expanded_url": "https://youtu.be/wmoEG1VY9KQ",
+					"display_url": "youtu.be/wmoEG1VY9KQ",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29065,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 465,
+		"favorite_count": 673,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3대 600 가능! 헬린이 예리 앞 속타는 이승윤\nDo you even lift 600kg? Lee Seung Yoon wants Yeri to know how difficult it is🏋🏻\n👉https://t.co/Zo8ftMTIbI\n\n#예리 #이승윤 #자연인 #Yeri #RedVelvet #YerisRoom #레드벨벳 #예리한방 #나는자연인이다"
+	},
+	{
+		"created_at": "Wed Oct 07 01:27:05 +0000 2020",
+		"id": 1313645219011723300,
+		"id_str": "1313652031270326273",
+		"full_text": "Pick up 1 of our 4 exclusive album versions with @target now in stores! https://t.co/4bF1vuYExJ https://t.co/5usBdoGNeT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Target",
+					"name": "Target",
+					"id": 89084561,
+					"id_str": "89084561",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4bF1vuYExJ",
+					"expanded_url": "https://smarturl.it/BLACKPINKTHEALBUM/target",
+					"display_url": "smarturl.it/BLACKPINKTHEAL…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313641902558736400,
+					"id_str": "1313641902558736385",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1313641902558736385/img/OI8vyN_G8B-oaq8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1313641902558736385/img/OI8vyN_G8B-oaq8J.jpg",
+					"url": "https://t.co/5usBdoGNeT",
+					"display_url": "pic.twitter.com/5usBdoGNeT",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1313645219011723265/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 892,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313641902558736400,
+					"id_str": "1313641902558736385",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1313641902558736385/img/OI8vyN_G8B-oaq8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1313641902558736385/img/OI8vyN_G8B-oaq8J.jpg",
+					"url": "https://t.co/5usBdoGNeT",
+					"display_url": "pic.twitter.com/5usBdoGNeT",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1313645219011723265/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 892,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							223,
+							180
+						],
+						"duration_millis": 7200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1313641902558736385/pl/C1aw7V4SbwKT94Nl.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313641902558736385/vid/446x360/fxk9y846o1HImVm7.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313641902558736385/vid/334x270/lq_8mX9c9ExmNkUX.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313641902558736385/vid/892x720/_ULjMQWEU7-oEU8Q.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2041950,
+			"friends_count": 0,
+			"listed_count": 2742,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8997,
+		"favorite_count": 36287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pick up 1 of our 4 exclusive album versions with @target now in stores! https://t.co/4bF1vuYExJ https://t.co/5usBdoGNeT"
+	},
+	{
+		"created_at": "Wed Oct 07 01:05:36 +0000 2020",
+		"id": 1313646624757948400,
+		"id_str": "1313646624757948416",
+		"full_text": "#블랙핑크 #BLACKPINK\nBLACKPINK dishes about music, festivals and style | BLACKPINK on RELEASED\nhttps://t.co/v2jnyxiSzq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v2jnyxiSzq",
+					"expanded_url": "https://youtu.be/PLd-PoQtJFk",
+					"display_url": "youtu.be/PLd-PoQtJFk",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK\nBLACKPINK dishes about music, festivals and style | BLACKPINK on RELEASED\nhttps://t.co/v2jnyxiSzq"
+	},
+	{
+		"created_at": "Wed Oct 07 01:05:35 +0000 2020",
+		"id": 1313646621977174000,
+		"id_str": "1313646621977174016",
+		"full_text": "#블랙핑크 #BLACKPINK\nEach BLACKPINK member wants a superpower | BLACKPINK on RELEASED\nhttps://t.co/CDjDcxMGpn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CDjDcxMGpn",
+					"expanded_url": "https://youtu.be/_oGv-g2HSEc",
+					"display_url": "youtu.be/_oGv-g2HSEc",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK\nEach BLACKPINK member wants a superpower | BLACKPINK on RELEASED\nhttps://t.co/CDjDcxMGpn"
+	},
+	{
 		"created_at": "Wed Oct 07 00:39:15 +0000 2020",
 		"id": 1313639992305094700,
 		"id_str": "1313639992305094657",
