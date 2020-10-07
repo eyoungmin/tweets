@@ -1,6 +1,1759 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 12:51:47 +0000 2020",
+		"id": 1313824342304682000,
+		"id_str": "1313824342304681984",
+		"full_text": "사생활에 서현 아버지로 나오는 분 비숲 동부지검장...  😃",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "사생활에 서현 아버지로 나오는 분 비숲 동부지검장...  😃"
+	},
+	{
+		"created_at": "Wed Oct 07 12:31:03 +0000 2020",
+		"id": 1313811437001887700,
+		"id_str": "1313819125345468417",
+		"full_text": "[방송] 오늘(10/7) PM11:00 JTBC &lt;In the SOOP BTS ver.&gt;에 #방탄소년단 이 출연합니다.\n\n[TV] #BTS will be on the &lt;In the SOOP BTS ver.&gt; on JTBC on Oct 7 at 11PM KST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						79,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17011960,
+			"friends_count": 28,
+			"listed_count": 18422,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306500843370291201/UcZ0X5be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306500843370291201/UcZ0X5be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1600329050",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16416,
+		"favorite_count": 84455,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[방송] 오늘(10/7) PM11:00 JTBC &lt;In the SOOP BTS ver.&gt;에 #방탄소년단 이 출연합니다.\n\n[TV] #BTS will be on the &lt;In the SOOP BTS ver.&gt; on JTBC on Oct 7 at 11PM KST"
+	},
+	{
+		"created_at": "Wed Oct 07 12:29:25 +0000 2020",
+		"id": 1313818712797978600,
+		"id_str": "1313818712797978624",
+		"full_text": "❝ 쇼핑분야 검색서비스 시장에서 점유율 70%가 넘는 1위 사업자 네이버는 2012년부터 2015년까지 자사에 유리하게끔 알고리즘을 최소 6차례 변경했다.\n\n#네이버 #검색순위 #조작 https://t.co/21axlERTR4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "검색순위",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "조작",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/21axlERTR4",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1313367307024912385",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313367307024912400,
+		"quoted_status_id_str": "1313367307024912385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/21axlERTR4",
+			"expanded": "https://twitter.com/yonhaptweet/status/1313367307024912385",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 06 06:35:41 +0000 2020",
+			"id": 1313367307024912400,
+			"id_str": "1313367307024912385",
+			"full_text": "네이버, 검색결과 조작해 경쟁 쇼핑몰 쫓아내…과징금 267억\nhttps://t.co/wAEE5Uae1o\n\n공정거래위원회가 6일 독점적 지위를 이용해 경쟁사를 쫓아내고 소비자를 속인 네이버에 과징금 267억원을 부과했습니다. https://t.co/g1Vcd9ZqjK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wAEE5Uae1o",
+						"expanded_url": "https://www.yna.co.kr/view/AKR20201006084251002?input=tw",
+						"display_url": "yna.co.kr/view/AKR202010…",
+						"indices": [
+							34,
+							57
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1313367297617129500,
+						"id_str": "1313367297617129472",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/EjoEmUIVcAAeUJZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjoEmUIVcAAeUJZ.jpg",
+						"url": "https://t.co/g1Vcd9ZqjK",
+						"display_url": "pic.twitter.com/g1Vcd9ZqjK",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1313367307024912385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 612,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313367297617129500,
+						"id_str": "1313367297617129472",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/EjoEmUIVcAAeUJZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjoEmUIVcAAeUJZ.jpg",
+						"url": "https://t.co/g1Vcd9ZqjK",
+						"display_url": "pic.twitter.com/g1Vcd9ZqjK",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1313367307024912385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 612,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147451838,
+				"id_str": "147451838",
+				"name": "연합뉴스",
+				"screen_name": "yonhaptweet",
+				"location": "대한민국 서울",
+				"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+				"url": "https://t.co/1xjsaY9KNh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									7,
+									30
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 318785,
+				"friends_count": 69681,
+				"listed_count": 4489,
+				"created_at": "Mon May 24 05:08:01 +0000 2010",
+				"favourites_count": 212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 222031,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 469,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝ 쇼핑분야 검색서비스 시장에서 점유율 70%가 넘는 1위 사업자 네이버는 2012년부터 2015년까지 자사에 유리하게끔 알고리즘을 최소 6차례 변경했다.\n\n#네이버 #검색순위 #조작 https://t.co/21axlERTR4"
+	},
+	{
+		"created_at": "Wed Oct 07 12:28:50 +0000 2020",
+		"id": 1313367307024912400,
+		"id_str": "1313818567763062784",
+		"full_text": "네이버, 검색결과 조작해 경쟁 쇼핑몰 쫓아내…과징금 267억\nhttps://t.co/wAEE5Uae1o\n\n공정거래위원회가 6일 독점적 지위를 이용해 경쟁사를 쫓아내고 소비자를 속인 네이버에 과징금 267억원을 부과했습니다. https://t.co/g1Vcd9ZqjK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wAEE5Uae1o",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20201006084251002?input=tw",
+					"display_url": "yna.co.kr/view/AKR202010…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313367297617129500,
+					"id_str": "1313367297617129472",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EjoEmUIVcAAeUJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjoEmUIVcAAeUJZ.jpg",
+					"url": "https://t.co/g1Vcd9ZqjK",
+					"display_url": "pic.twitter.com/g1Vcd9ZqjK",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1313367307024912385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313367297617129500,
+					"id_str": "1313367297617129472",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EjoEmUIVcAAeUJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjoEmUIVcAAeUJZ.jpg",
+					"url": "https://t.co/g1Vcd9ZqjK",
+					"display_url": "pic.twitter.com/g1Vcd9ZqjK",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1313367307024912385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 318785,
+			"friends_count": 69681,
+			"listed_count": 4489,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 222031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 469,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버, 검색결과 조작해 경쟁 쇼핑몰 쫓아내…과징금 267억\nhttps://t.co/wAEE5Uae1o\n\n공정거래위원회가 6일 독점적 지위를 이용해 경쟁사를 쫓아내고 소비자를 속인 네이버에 과징금 267억원을 부과했습니다. https://t.co/g1Vcd9ZqjK"
+	},
+	{
+		"created_at": "Wed Oct 07 12:21:59 +0000 2020",
+		"id": 1313640197288947700,
+		"id_str": "1313816843887341570",
+		"full_text": "개인적으로는 구글의 새 서비스 아이콘들은 색상적으로 구글 서비스라는 것을 쉽게 인지하게 하는 것에는 성공했을지 몰라도, 각 제품의 아이덴티티를 완전히 사라지게 만든 아주 나쁜 선택이라고 생각. 사용하다보면 익숙해지긴 하겠지만 개인적으로는 실망. https://t.co/CLPRfKf8yK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313639512182984700,
+					"id_str": "1313639512182984704",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejr8LSaVkAAuRJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejr8LSaVkAAuRJH.jpg",
+					"url": "https://t.co/CLPRfKf8yK",
+					"display_url": "pic.twitter.com/CLPRfKf8yK",
+					"expanded_url": "https://twitter.com/minist/status/1313640197288947713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 990,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 990,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313639512182984700,
+					"id_str": "1313639512182984704",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejr8LSaVkAAuRJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejr8LSaVkAAuRJH.jpg",
+					"url": "https://t.co/CLPRfKf8yK",
+					"display_url": "pic.twitter.com/CLPRfKf8yK",
+					"expanded_url": "https://twitter.com/minist/status/1313640197288947713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 990,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 990,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1313631659007381500,
+		"in_reply_to_status_id_str": "1313631659007381509",
+		"in_reply_to_user_id": 13113612,
+		"in_reply_to_user_id_str": "13113612",
+		"in_reply_to_screen_name": "minist",
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "아마존 게임 스튜디오, WizeIoT, 블루홀, 크래프톤, 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트 / 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": "https://t.co/3cxweHYPJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3cxweHYPJO",
+							"expanded_url": "https://minist.kr",
+							"display_url": "minist.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63106,
+			"friends_count": 725,
+			"listed_count": 845,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인적으로는 구글의 새 서비스 아이콘들은 색상적으로 구글 서비스라는 것을 쉽게 인지하게 하는 것에는 성공했을지 몰라도, 각 제품의 아이덴티티를 완전히 사라지게 만든 아주 나쁜 선택이라고 생각. 사용하다보면 익숙해지긴 하겠지만 개인적으로는 실망. https://t.co/CLPRfKf8yK"
+	},
+	{
+		"created_at": "Wed Oct 07 12:21:28 +0000 2020",
+		"id": 1313816710797906000,
+		"id_str": "1313816710797905921",
+		"full_text": "지메일 브랜딩에 이런 목소리가 있어서 내부 고려 중이라는 것을 봤는데 지슈트부터 바뀌는 모양. https://t.co/xpP5D6w0dq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xpP5D6w0dq",
+					"expanded_url": "https://twitter.com/minist/status/1313631659007381509",
+					"display_url": "twitter.com/minist/status/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313631659007381500,
+		"quoted_status_id_str": "1313631659007381509",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xpP5D6w0dq",
+			"expanded": "https://twitter.com/minist/status/1313631659007381509",
+			"display": "twitter.com/minist/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 07 00:06:08 +0000 2020",
+			"id": 1313631659007381500,
+			"id_str": "1313631659007381509",
+			"full_text": "구글 비즈니스 패키지인 G Suite이 \"Google Workspace\"로 이름을 변경. 이미 6백만 이상의 기업체가 사용중으로 특히 Meet,Chat,Rooms가 협업기능이 전체 서비스와 통합된 것이 큰 개선. 아이콘도 변경되었지만 가격은 그대로. 새로운 월 18불의 비즈니스 플러스 요금제 추가 https://t.co/nhXK9dzDxI https://t.co/k7iPAxJa3x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nhXK9dzDxI",
+						"expanded_url": "https://techcrunch.com/2020/10/06/g-suite-is-now-google-workspace/",
+						"display_url": "techcrunch.com/2020/10/06/g-s…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1313631657577119700,
+						"id_str": "1313631657577119745",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejr1CFuXgAEVz2t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejr1CFuXgAEVz2t.jpg",
+						"url": "https://t.co/k7iPAxJa3x",
+						"display_url": "pic.twitter.com/k7iPAxJa3x",
+						"expanded_url": "https://twitter.com/minist/status/1313631659007381509/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 711,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 711,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313631657577119700,
+						"id_str": "1313631657577119745",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejr1CFuXgAEVz2t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejr1CFuXgAEVz2t.jpg",
+						"url": "https://t.co/k7iPAxJa3x",
+						"display_url": "pic.twitter.com/k7iPAxJa3x",
+						"expanded_url": "https://twitter.com/minist/status/1313631659007381509/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 711,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 711,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13113612,
+				"id_str": "13113612",
+				"name": "박수민 / Soomin Park",
+				"screen_name": "minist",
+				"location": "Seattle, WA, USA",
+				"description": "아마존 게임 스튜디오, WizeIoT, 블루홀, 크래프톤, 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트 / 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+				"url": "https://t.co/3cxweHYPJO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3cxweHYPJO",
+								"expanded_url": "https://minist.kr",
+								"display_url": "minist.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63106,
+				"friends_count": 725,
+				"listed_count": 845,
+				"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+				"favourites_count": 791,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22551,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "402021",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+				"profile_link_color": "260D03",
+				"profile_sidebar_border_color": "8A7167",
+				"profile_sidebar_fill_color": "8A7167",
+				"profile_text_color": "341617",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지메일 브랜딩에 이런 목소리가 있어서 내부 고려 중이라는 것을 봤는데 지슈트부터 바뀌는 모양. https://t.co/xpP5D6w0dq"
+	},
+	{
+		"created_at": "Wed Oct 07 12:20:10 +0000 2020",
+		"id": 1313816385680633900,
+		"id_str": "1313816385680633858",
+		"full_text": "[단독]“청와대, '낙태죄 유지' 의지 강했다”…6~7월 이미 결론 내려 (출처 : 경향신문 | 네이버 뉴스)\nhttps://t.co/qj0llS7daH\n\n#낙태죄 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "낙태죄",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qj0llS7daH",
+					"expanded_url": "http://naver.me/GpPSK8dw",
+					"display_url": "naver.me/GpPSK8dw",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독]“청와대, '낙태죄 유지' 의지 강했다”…6~7월 이미 결론 내려 (출처 : 경향신문 | 네이버 뉴스)\nhttps://t.co/qj0llS7daH\n\n#낙태죄 #minfav"
+	},
+	{
+		"created_at": "Wed Oct 07 12:17:15 +0000 2020",
+		"id": 1313781867217256400,
+		"id_str": "1313815650825977856",
+		"full_text": "낙태죄 입법예고안은 독일 형법 218조와 비슷합니다. \n독일 여성들은 \"나치 시대 법 폐지하라\"며 법에 반대합니다. \n임신중단은 국가 허락이 필요한 조건부 권리가 아니라 여성의 권리입니다. \n\nhttps://t.co/Nj94VgJnW5 BY 나영 #낙태죄 #임신중단 #임신중지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "낙태죄",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "임신중단",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "임신중지",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nj94VgJnW5",
+					"expanded_url": "https://slownews.kr/77892",
+					"display_url": "slownews.kr/77892",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532161219,
+			"id_str": "532161219",
+			"name": "슬로우뉴스",
+			"screen_name": "slownewskr",
+			"location": "",
+			"description": "Fast is good, slow is better. 느리지만 꼼꼼한 뉴스, 슬로우뉴스입니다. \n기고 문의: editor@slownews.kr",
+			"url": "http://t.co/hUa0sZzIii",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/hUa0sZzIii",
+							"expanded_url": "http://slownews.kr",
+							"display_url": "slownews.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23861,
+			"friends_count": 0,
+			"listed_count": 387,
+			"created_at": "Wed Mar 21 09:27:25 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532161219/1398608454",
+			"profile_link_color": "947F15",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "낙태죄 입법예고안은 독일 형법 218조와 비슷합니다. \n독일 여성들은 \"나치 시대 법 폐지하라\"며 법에 반대합니다. \n임신중단은 국가 허락이 필요한 조건부 권리가 아니라 여성의 권리입니다. \n\nhttps://t.co/Nj94VgJnW5 BY 나영 #낙태죄 #임신중단 #임신중지"
+	},
+	{
+		"created_at": "Wed Oct 07 12:16:38 +0000 2020",
+		"id": 1313781114012610600,
+		"id_str": "1313815498216239104",
+		"full_text": "유퀴즈에서 #이날치 만난 후 1일 1범하고 있다면?🐯 더 다양하고 중독적인 '힙한 국악'을 찾고 있다면?🇰🇷 #잠비나이, #아마도이자람밴드, #씽씽, #추다혜, #이희문 검색하고 있다면?🔎\n\n✒️바로 지금의 한국 음악, ‘힙한 국악' \n👉https://t.co/4O3I7WFKUt https://t.co/Z3LVQzl3r9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이날치",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "잠비나이",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "씽씽",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "추다혜",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "이희문",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4O3I7WFKUt",
+					"expanded_url": "http://billboard.co.kr/main/news/view/470",
+					"display_url": "billboard.co.kr/main/news/view…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313776087147573200,
+					"id_str": "1313776087147573249",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejt4Y_zVcAE2h9_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejt4Y_zVcAE2h9_.jpg",
+					"url": "https://t.co/Z3LVQzl3r9",
+					"display_url": "pic.twitter.com/Z3LVQzl3r9",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1313781114012610561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313776087147573200,
+					"id_str": "1313776087147573249",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejt4Y_zVcAE2h9_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejt4Y_zVcAE2h9_.jpg",
+					"url": "https://t.co/Z3LVQzl3r9",
+					"display_url": "pic.twitter.com/Z3LVQzl3r9",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1313781114012610561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46741,
+			"friends_count": 30,
+			"listed_count": 85,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1599479013",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유퀴즈에서 #이날치 만난 후 1일 1범하고 있다면?🐯 더 다양하고 중독적인 '힙한 국악'을 찾고 있다면?🇰🇷 #잠비나이, #아마도이자람밴드, #씽씽, #추다혜, #이희문 검색하고 있다면?🔎\n\n✒️바로 지금의 한국 음악, ‘힙한 국악' \n👉https://t.co/4O3I7WFKUt https://t.co/Z3LVQzl3r9"
+	},
+	{
+		"created_at": "Wed Oct 07 12:04:44 +0000 2020",
+		"id": 1313812500341756000,
+		"id_str": "1313812500341755910",
+		"full_text": "#EO\n아내 몰래 직장까지 관두고 창업한 이유\nhttps://t.co/CLmxkH6ko6\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CLmxkH6ko6",
+					"expanded_url": "https://youtu.be/rz1S9N2JgEo",
+					"display_url": "youtu.be/rz1S9N2JgEo",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 961,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n아내 몰래 직장까지 관두고 창업한 이유\nhttps://t.co/CLmxkH6ko6\n#스타트업 #태용 #minfav"
+	},
+	{
 		"created_at": "Wed Oct 07 11:59:18 +0000 2020",
 		"id": 1313631659007381500,
 		"id_str": "1313811135582277632",
