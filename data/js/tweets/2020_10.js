@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 11:59:18 +0000 2020",
+		"id": 1313631659007381500,
+		"id_str": "1313811135582277632",
+		"full_text": "구글 비즈니스 패키지인 G Suite이 \"Google Workspace\"로 이름을 변경. 이미 6백만 이상의 기업체가 사용중으로 특히 Meet,Chat,Rooms가 협업기능이 전체 서비스와 통합된 것이 큰 개선. 아이콘도 변경되었지만 가격은 그대로. 새로운 월 18불의 비즈니스 플러스 요금제 추가 https://t.co/nhXK9dzDxI https://t.co/k7iPAxJa3x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nhXK9dzDxI",
+					"expanded_url": "https://techcrunch.com/2020/10/06/g-suite-is-now-google-workspace/",
+					"display_url": "techcrunch.com/2020/10/06/g-s…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313631657577119700,
+					"id_str": "1313631657577119745",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejr1CFuXgAEVz2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejr1CFuXgAEVz2t.jpg",
+					"url": "https://t.co/k7iPAxJa3x",
+					"display_url": "pic.twitter.com/k7iPAxJa3x",
+					"expanded_url": "https://twitter.com/minist/status/1313631659007381509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 711,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 711,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313631657577119700,
+					"id_str": "1313631657577119745",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejr1CFuXgAEVz2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejr1CFuXgAEVz2t.jpg",
+					"url": "https://t.co/k7iPAxJa3x",
+					"display_url": "pic.twitter.com/k7iPAxJa3x",
+					"expanded_url": "https://twitter.com/minist/status/1313631659007381509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 711,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 711,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "아마존 게임 스튜디오, WizeIoT, 블루홀, 크래프톤, 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트 / 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": "https://t.co/3cxweHYPJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3cxweHYPJO",
+							"expanded_url": "https://minist.kr",
+							"display_url": "minist.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63106,
+			"friends_count": 725,
+			"listed_count": 845,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 비즈니스 패키지인 G Suite이 \"Google Workspace\"로 이름을 변경. 이미 6백만 이상의 기업체가 사용중으로 특히 Meet,Chat,Rooms가 협업기능이 전체 서비스와 통합된 것이 큰 개선. 아이콘도 변경되었지만 가격은 그대로. 새로운 월 18불의 비즈니스 플러스 요금제 추가 https://t.co/nhXK9dzDxI https://t.co/k7iPAxJa3x"
+	},
+	{
+		"created_at": "Wed Oct 07 11:27:09 +0000 2020",
+		"id": 1313796250077020200,
+		"id_str": "1313803043545194499",
+		"full_text": "🎨 #FANSHIPonly\n\n📸 'C'HUNG HA RANGㅣEP 7. 밤비 생일 케이크 만들기\n✌🏻 https://t.co/lERZHsB3M8\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/ow7RElOcSW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FANSHIPonly",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						119,
+						134
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						135,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lERZHsB3M8",
+					"expanded_url": "https://bit.ly/3ddmyZl",
+					"display_url": "bit.ly/3ddmyZl",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313796239855554600,
+					"id_str": "1313796239855554560",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuKuCfVkAAdirk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuKuCfVkAAdirk.jpg",
+					"url": "https://t.co/ow7RElOcSW",
+					"display_url": "pic.twitter.com/ow7RElOcSW",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1313796250077020160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313796239855554600,
+					"id_str": "1313796239855554560",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuKuCfVkAAdirk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuKuCfVkAAdirk.jpg",
+					"url": "https://t.co/ow7RElOcSW",
+					"display_url": "pic.twitter.com/ow7RElOcSW",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1313796250077020160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313796239985574000,
+					"id_str": "1313796239985573891",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuKuC-VgAMSsVG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuKuC-VgAMSsVG.jpg",
+					"url": "https://t.co/ow7RElOcSW",
+					"display_url": "pic.twitter.com/ow7RElOcSW",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1313796250077020160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313796240228794400,
+					"id_str": "1313796240228794370",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuKuD4UwAIagxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuKuD4UwAIagxx.jpg",
+					"url": "https://t.co/ow7RElOcSW",
+					"display_url": "pic.twitter.com/ow7RElOcSW",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1313796250077020160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313796240446943200,
+					"id_str": "1313796240446943232",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuKuEsVcAAzM7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuKuEsVcAAzM7C.jpg",
+					"url": "https://t.co/ow7RElOcSW",
+					"display_url": "pic.twitter.com/ow7RElOcSW",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1313796250077020160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1313796234763665400,
+		"in_reply_to_status_id_str": "1313796234763665410",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 286671,
+			"friends_count": 0,
+			"listed_count": 1748,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎨 #FANSHIPonly\n\n📸 'C'HUNG HA RANGㅣEP 7. 밤비 생일 케이크 만들기\n✌🏻 https://t.co/lERZHsB3M8\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG \n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/ow7RElOcSW"
+	},
+	{
 		"created_at": "Wed Oct 07 10:32:20 +0000 2020",
 		"id": 1313789249238585300,
 		"id_str": "1313789249238585344",
