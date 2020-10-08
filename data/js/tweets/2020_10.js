@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 03:00:52 +0000 2020",
+		"id": 1314038021583495200,
+		"id_str": "1314038021583495168",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Oct 8) https://t.co/zSAHbf6vlv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zSAHbf6vlv",
+					"expanded_url": "https://nzzl.us/IsfQpyb",
+					"display_url": "nzzl.us/IsfQpyb",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 962,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Oct 8) https://t.co/zSAHbf6vlv"
+	},
+	{
+		"created_at": "Thu Oct 08 02:52:19 +0000 2020",
+		"id": 1314035868638810000,
+		"id_str": "1314035868638810112",
+		"full_text": "오렌지라이브 웰컴키트 언박싱\nhttps://t.co/kh1HhawsrY\n#슬로워크 #Slowalk #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로워크",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "Slowalk",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kh1HhawsrY",
+					"expanded_url": "https://slowalk.com/2648",
+					"display_url": "slowalk.com/2648",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 962,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오렌지라이브 웰컴키트 언박싱\nhttps://t.co/kh1HhawsrY\n#슬로워크 #Slowalk #minfav"
+	},
+	{
+		"created_at": "Thu Oct 08 02:42:28 +0000 2020",
+		"id": 1314033392384700400,
+		"id_str": "1314033392384700420",
+		"full_text": "#대한민국 #보건복지부\n[LIVE 예정] 코로나19 중앙방역대책본부 브리핑 (20.10.8.)\nhttps://t.co/osnNa2gdnV\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/osnNa2gdnV",
+					"expanded_url": "https://www.youtube.com/watch?v=wiKUs-IuG5M",
+					"display_url": "youtube.com/watch?v=wiKUs-…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 962,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[LIVE 예정] 코로나19 중앙방역대책본부 브리핑 (20.10.8.)\nhttps://t.co/osnNa2gdnV\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Thu Oct 08 02:21:55 +0000 2020",
+		"id": 1313987974888005600,
+		"id_str": "1314028218169450496",
+		"full_text": "형법에서 낙태죄를 완전히 들어내겠습니다.\n저는 형법에서 낙태의 죄를 전부 삭제하고자 합니다. 그리고 여성의 자기결정권 보장, 인공임신중단의 절차와 요건 등은 보건의 관점에서 접근하도록 모자보건법의 관련 조항을 개정해 반영할 계획입니다. https://t.co/3VLFbgFwtn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313987950552604700,
+					"id_str": "1313987950552604672",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejw5FEfU4AAGdCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejw5FEfU4AAGdCP.jpg",
+					"url": "https://t.co/3VLFbgFwtn",
+					"display_url": "pic.twitter.com/3VLFbgFwtn",
+					"expanded_url": "https://twitter.com/yoeman6310/status/1313987974888005633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313987950552604700,
+					"id_str": "1313987950552604672",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejw5FEfU4AAGdCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejw5FEfU4AAGdCP.jpg",
+					"url": "https://t.co/3VLFbgFwtn",
+					"display_url": "pic.twitter.com/3VLFbgFwtn",
+					"expanded_url": "https://twitter.com/yoeman6310/status/1313987974888005633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313987957708124200,
+					"id_str": "1313987957708124161",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejw5FfJVcAEXPih.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ejw5FfJVcAEXPih.png",
+					"url": "https://t.co/3VLFbgFwtn",
+					"display_url": "pic.twitter.com/3VLFbgFwtn",
+					"expanded_url": "https://twitter.com/yoeman6310/status/1313987974888005633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 506,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 506,
+							"h": 495,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2390107598,
+			"id_str": "2390107598",
+			"name": "박주민과 더민주",
+			"screen_name": "yoeman6310",
+			"location": "",
+			"description": "더불어민주당 서울 은평갑 국회의원 박주민입니다. \nhttps://t.co/R3ncCKue1c박주민TV",
+			"url": "https://t.co/ZHin0QhUhh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHin0QhUhh",
+							"expanded_url": "http://joomincenter.com",
+							"display_url": "joomincenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R3ncCKue1c",
+							"expanded_url": "http://youtube.com/c/",
+							"display_url": "youtube.com/c/",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 337148,
+			"friends_count": 2114,
+			"listed_count": 401,
+			"created_at": "Sat Mar 15 00:37:09 +0000 2014",
+			"favourites_count": 1435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035412524395417600/1ddwUv79_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035412524395417600/1ddwUv79_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2390107598/1599027411",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1754,
+		"favorite_count": 965,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "형법에서 낙태죄를 완전히 들어내겠습니다.\n저는 형법에서 낙태의 죄를 전부 삭제하고자 합니다. 그리고 여성의 자기결정권 보장, 인공임신중단의 절차와 요건 등은 보건의 관점에서 접근하도록 모자보건법의 관련 조항을 개정해 반영할 계획입니다. https://t.co/3VLFbgFwtn"
+	},
+	{
+		"created_at": "Thu Oct 08 02:21:40 +0000 2020",
+		"id": 1313836943550017500,
+		"id_str": "1314028155015815169",
+		"full_text": "삼성전자 임원의 기자출입증이 말이 됩니까?\n\n국정감사 삼성전자 증인 철회, 어떠한 관행도 용납하지 않겠습니다. https://t.co/B4xRVsQD0w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313834518386667500,
+					"id_str": "1313834518386667520",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuvOyoVgAIo3Ns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuvOyoVgAIo3Ns.jpg",
+					"url": "https://t.co/B4xRVsQD0w",
+					"display_url": "pic.twitter.com/B4xRVsQD0w",
+					"expanded_url": "https://twitter.com/ryuhojeong92/status/1313836943550017536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313834518386667500,
+					"id_str": "1313834518386667520",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuvOyoVgAIo3Ns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuvOyoVgAIo3Ns.jpg",
+					"url": "https://t.co/B4xRVsQD0w",
+					"display_url": "pic.twitter.com/B4xRVsQD0w",
+					"expanded_url": "https://twitter.com/ryuhojeong92/status/1313836943550017536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 307541,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1313834518386667520/pl/Q1BAhP0Sd06Vcr2O.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313834518386667520/vid/640x360/Jz2SOZL3U9qmFe0N.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313834518386667520/vid/480x270/qHEQ2Tq-6ZYJWbun.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313834518386667520/vid/1280x720/k169dmNAK31Xhc0W.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1267342235714023400,
+			"id_str": "1267342235714023424",
+			"name": "류호정",
+			"screen_name": "ryuhojeong92",
+			"location": "",
+			"description": "정의당 국회의원 류호정 / 류호정 후원회: 농협 301-0276-0536-41 / 문의: 02-784-9740, 010-7502-4430",
+			"url": "https://t.co/b3QWaGsBvS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b3QWaGsBvS",
+							"expanded_url": "http://youTube.com/c/ryutube",
+							"display_url": "youTube.com/c/ryutube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5438,
+			"friends_count": 383,
+			"listed_count": 9,
+			"created_at": "Mon Jun 01 06:28:42 +0000 2020",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277083023767334912/0B3Kat4P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277083023767334912/0B3Kat4P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1267342235714023424/1595657118",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "삼성전자 임원의 기자출입증이 말이 됩니까?\n\n국정감사 삼성전자 증인 철회, 어떠한 관행도 용납하지 않겠습니다. https://t.co/B4xRVsQD0w"
+	},
+	{
 		"created_at": "Thu Oct 08 00:51:59 +0000 2020",
 		"id": 1313743361950457900,
 		"id_str": "1314005587416424448",
