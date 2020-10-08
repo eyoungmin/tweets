@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 05:27:57 +0000 2020",
+		"id": 1314065848349327400,
+		"id_str": "1314075035917864960",
+		"full_text": "2020 강남페스티벌 영동대로 \nK-POP 콘서트가 온택트로 돌아왔다!\n\n[2020 영동대로 K-POP CONCERT] \n☞10월 18일 (일) 오후 7시\n\n#영동대로 #강남페스티벌 #KPOP #콘서트 #2020영동대로\n#강다니엘 #레드벨벳 #아스트로 #AB6IX #오마이걸\n#KangDaniel #Redvelvet #Astro #Ohmygirl https://t.co/ro1dfRv0Gr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "영동대로",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "강남페스티벌",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "2020영동대로",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "강다니엘",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						154,
+						165
+					]
+				},
+				{
+					"text": "Redvelvet",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "Astro",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "Ohmygirl",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314033420175995000,
+					"id_str": "1314033420175994880",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejx_6BlVkAEscXM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejx_6BlVkAEscXM.jpg",
+					"url": "https://t.co/ro1dfRv0Gr",
+					"display_url": "pic.twitter.com/ro1dfRv0Gr",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1314065848349327360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314033420175995000,
+					"id_str": "1314033420175994880",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejx_6BlVkAEscXM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejx_6BlVkAEscXM.jpg",
+					"url": "https://t.co/ro1dfRv0Gr",
+					"display_url": "pic.twitter.com/ro1dfRv0Gr",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1314065848349327360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29997,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314033420175994880/vid/640x360/kp2S4UN57nXazzTy.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314033420175994880/vid/480x270/WeYgcYAKwWkkuW_L.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1314033420175994880/pl/NJvD-8oyKgbslhz4.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314033420175994880/vid/1280x720/-X6DVoSgJannkOeZ.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608484,
+			"friends_count": 4772,
+			"listed_count": 2815,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1597908784",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2120,
+		"favorite_count": 2894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 강남페스티벌 영동대로 \nK-POP 콘서트가 온택트로 돌아왔다!\n\n[2020 영동대로 K-POP CONCERT] \n☞10월 18일 (일) 오후 7시\n\n#영동대로 #강남페스티벌 #KPOP #콘서트 #2020영동대로\n#강다니엘 #레드벨벳 #아스트로 #AB6IX #오마이걸\n#KangDaniel #Redvelvet #Astro #Ohmygirl https://t.co/ro1dfRv0Gr"
+	},
+	{
 		"created_at": "Thu Oct 08 04:19:09 +0000 2020",
 		"id": 1314057721268695000,
 		"id_str": "1314057721268695041",
