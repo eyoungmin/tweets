@@ -1,6 +1,1539 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 04:19:09 +0000 2020",
+		"id": 1314057721268695000,
+		"id_str": "1314057721268695041",
+		"full_text": "스폰서드 광고 자체를 싫다고 하고 뒷광고랑 똑같은 취급을 하는 사람이 정말 많다 생각. 잘 정제된 콘텐츠를 만드는데 얼만큼의 시간과 노력이 들어가는지 공짜 좋아하는 사람 중에는 그 정도의 능력을 갖은 사람을 한 번도 본 적이 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 962,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스폰서드 광고 자체를 싫다고 하고 뒷광고랑 똑같은 취급을 하는 사람이 정말 많다 생각. 잘 정제된 콘텐츠를 만드는데 얼만큼의 시간과 노력이 들어가는지 공짜 좋아하는 사람 중에는 그 정도의 능력을 갖은 사람을 한 번도 본 적이 없다."
+	},
+	{
+		"created_at": "Thu Oct 08 04:07:20 +0000 2020",
+		"id": 1314022702550786000,
+		"id_str": "1314054749432422400",
+		"full_text": "세상에 믿은 주은(#서현) 하나 없다?!\n\n부캐X부캐X부캐! 본격적으로\n다큐 연기에 뛰어든 주은🎬\n\n오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본방사수✨ https://t.co/teNyoYcfjv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						75,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314014081334956000,
+					"id_str": "1314014081334956033",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EjxRI5tUcAAx6-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjxRI5tUcAAx6-A.jpg",
+					"url": "https://t.co/teNyoYcfjv",
+					"display_url": "pic.twitter.com/teNyoYcfjv",
+					"expanded_url": "https://twitter.com/jtbclove/status/1314022702550786049/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314014081334956000,
+					"id_str": "1314014081334956033",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EjxRI5tUcAAx6-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjxRI5tUcAAx6-A.jpg",
+					"url": "https://t.co/teNyoYcfjv",
+					"display_url": "pic.twitter.com/teNyoYcfjv",
+					"expanded_url": "https://twitter.com/jtbclove/status/1314022702550786049/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75208,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314014081334956033/vid/640x360/vaHwRPo33mNgsYHT.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314014081334956033/vid/480x270/X7McwgP6TW7tHMwN.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1314014081334956033/pl/VWzmfoddOy6a7plN.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314014081334956033/vid/1280x720/_74H-dX6lLQ-CKII.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [사생활] 다큐 연기에 뛰어든 서현🎬 (ft. 의사부터 택시 기사까지!)",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://vod.jtbc.joins.com/player/clip/vo10421339"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440388,
+			"friends_count": 111,
+			"listed_count": 642,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 239,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "세상에 믿은 주은(#서현) 하나 없다?!\n\n부캐X부캐X부캐! 본격적으로\n다큐 연기에 뛰어든 주은🎬\n\n오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본방사수✨ https://t.co/teNyoYcfjv"
+	},
+	{
+		"created_at": "Thu Oct 08 04:07:17 +0000 2020",
+		"id": 1313787835284033500,
+		"id_str": "1314054733573713923",
+		"full_text": "소녀시대 #태연 친동생 #하연 가수 데뷔, 인공지능이 작곡한 음반이 데뷔곡?\nhttps://t.co/OGX6PQ2n0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "하연",
+					"indices": [
+						13,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OGX6PQ2n0o",
+					"expanded_url": "http://www.wkorea.com/2020/10/07/%ED%83%9C%EC%97%B0-%EB%8F%99%EC%83%9D-%ED%95%98%EC%97%B0-%EA%B0%80%EC%88%98-%EB%8D%B0%EB%B7%94/?ddw=76766&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2020/10/07/%ED…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "Conceptual Trend Magazine 'W Korea' 공식 트위터 계정입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249007,
+			"friends_count": 0,
+			"listed_count": 765,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 3726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1600333350",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 #태연 친동생 #하연 가수 데뷔, 인공지능이 작곡한 음반이 데뷔곡?\nhttps://t.co/OGX6PQ2n0o"
+	},
+	{
+		"created_at": "Thu Oct 08 04:07:09 +0000 2020",
+		"id": 1313773562654675000,
+		"id_str": "1314054702045118467",
+		"full_text": "부모 밑에서 밥 먹듯 사기를 치며\n자란 모태 사기꾼 차주은(서현)\n\n부모와 달리 평범한 삶을 꿈꾸던\n그녀의 인생은 정복기(김효진)의 등장으로\n180도 뒤바뀌게 되는데...! \n\n오늘(수) 밤 9시 30분 &lt;#사생활&gt; 첫 방송✨\n#서현 #고경표 #김효진 #김영민 #태원석 https://t.co/XhTFvvoTVP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "태원석",
+					"indices": [
+						152,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313749890837540900,
+					"id_str": "1313749890837540864",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejts-TbU4AAp6Z0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejts-TbU4AAp6Z0.jpg",
+					"url": "https://t.co/XhTFvvoTVP",
+					"display_url": "pic.twitter.com/XhTFvvoTVP",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313773562654674946/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313749890837540900,
+					"id_str": "1313749890837540864",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejts-TbU4AAp6Z0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejts-TbU4AAp6Z0.jpg",
+					"url": "https://t.co/XhTFvvoTVP",
+					"display_url": "pic.twitter.com/XhTFvvoTVP",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313773562654674946/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58058,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313749890837540864/vid/1280x720/cDsb_PRjQ3LzRk3K.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313749890837540864/vid/480x270/5sLLHXA7vVcsvLv0.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1313749890837540864/pl/sBJVpTYuBNXYlSPh.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313749890837540864/vid/640x360/dBL5A_iMtK3ZkoZg.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[1회 예고] 그럼 이제 믿음을 한 번 시험해 볼까?",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011229/pm10060473/vo10413867/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440388,
+			"friends_count": 111,
+			"listed_count": 642,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 453,
+		"favorite_count": 535,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "부모 밑에서 밥 먹듯 사기를 치며\n자란 모태 사기꾼 차주은(서현)\n\n부모와 달리 평범한 삶을 꿈꾸던\n그녀의 인생은 정복기(김효진)의 등장으로\n180도 뒤바뀌게 되는데...! \n\n오늘(수) 밤 9시 30분 &lt;#사생활&gt; 첫 방송✨\n#서현 #고경표 #김효진 #김영민 #태원석 https://t.co/XhTFvvoTVP"
+	},
+	{
+		"created_at": "Thu Oct 08 04:06:57 +0000 2020",
+		"id": 1313764767727673300,
+		"id_str": "1314054652917280768",
+		"full_text": "오늘 밤 9시 30분 서현X효진 배우와의 약속 잊지 않으셨죠?\n무슨 약속인지는 묻지 말아주세요. &lt;사생활&gt;이니까요😉\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/KQswdGWFxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "Kimhyojin",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313764732910805000,
+					"id_str": "1313764732910804993",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtuEF-VoAEXxQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtuEF-VoAEXxQH.jpg",
+					"url": "https://t.co/KQswdGWFxX",
+					"display_url": "pic.twitter.com/KQswdGWFxX",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313764767727673344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313764732910805000,
+					"id_str": "1313764732910804993",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtuEF-VoAEXxQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtuEF-VoAEXxQH.jpg",
+					"url": "https://t.co/KQswdGWFxX",
+					"display_url": "pic.twitter.com/KQswdGWFxX",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313764767727673344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313764732914950100,
+					"id_str": "1313764732914950144",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtuEF_U4AAeUPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtuEF_U4AAeUPX.jpg",
+					"url": "https://t.co/KQswdGWFxX",
+					"display_url": "pic.twitter.com/KQswdGWFxX",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313764767727673344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 990,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 660,
+							"h": 990,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313764752338739200,
+					"id_str": "1313764752338739200",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtuFOWUYAACAkR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtuFOWUYAACAkR.jpg",
+					"url": "https://t.co/KQswdGWFxX",
+					"display_url": "pic.twitter.com/KQswdGWFxX",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313764767727673344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32591,
+			"friends_count": 12,
+			"listed_count": 185,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 974,
+		"favorite_count": 1538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 밤 9시 30분 서현X효진 배우와의 약속 잊지 않으셨죠?\n무슨 약속인지는 묻지 말아주세요. &lt;사생활&gt;이니까요😉\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/KQswdGWFxX"
+	},
+	{
+		"created_at": "Thu Oct 08 04:06:54 +0000 2020",
+		"id": 1313747599317323800,
+		"id_str": "1314054639906562048",
+		"full_text": "JTBC 수목드라마 &lt;사생활&gt; 제작발표회\n\n생활형 사기꾼 차주은(#서현),\n미스터리한 대기업 팀장 이정환(#고경표)\n\n사기꾼들이 모든 기술을 총동원해\n국가의 거대한 ‘사생활’을 밝혀내는\n통쾌한 사기 플레이 드라마\n\n오늘(수) 밤 9시 30분 &lt;#사생활&gt; 첫 방송✨ https://t.co/68cDMRXZBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						145,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313744796897276000,
+					"id_str": "1313744796897275904",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejtb7qiUcAA2zLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejtb7qiUcAA2zLO.jpg",
+					"url": "https://t.co/68cDMRXZBX",
+					"display_url": "pic.twitter.com/68cDMRXZBX",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313747599317323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313744796897276000,
+					"id_str": "1313744796897275904",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejtb7qiUcAA2zLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejtb7qiUcAA2zLO.jpg",
+					"url": "https://t.co/68cDMRXZBX",
+					"display_url": "pic.twitter.com/68cDMRXZBX",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313747599317323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313744812147785700,
+					"id_str": "1313744812147785728",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejtb8jWUwAABisU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejtb8jWUwAABisU.jpg",
+					"url": "https://t.co/68cDMRXZBX",
+					"display_url": "pic.twitter.com/68cDMRXZBX",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313747599317323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 1296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313744851909832700,
+					"id_str": "1313744851909832704",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejtb-3eVcAAbhI2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejtb-3eVcAAbhI2.jpg",
+					"url": "https://t.co/68cDMRXZBX",
+					"display_url": "pic.twitter.com/68cDMRXZBX",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313747599317323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 1296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313744881743921200,
+					"id_str": "1313744881743921152",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtcAmnVgAAsWot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtcAmnVgAAsWot.jpg",
+					"url": "https://t.co/68cDMRXZBX",
+					"display_url": "pic.twitter.com/68cDMRXZBX",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313747599317323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440388,
+			"friends_count": 111,
+			"listed_count": 642,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 735,
+		"favorite_count": 1032,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "JTBC 수목드라마 &lt;사생활&gt; 제작발표회\n\n생활형 사기꾼 차주은(#서현),\n미스터리한 대기업 팀장 이정환(#고경표)\n\n사기꾼들이 모든 기술을 총동원해\n국가의 거대한 ‘사생활’을 밝혀내는\n통쾌한 사기 플레이 드라마\n\n오늘(수) 밤 9시 30분 &lt;#사생활&gt; 첫 방송✨ https://t.co/68cDMRXZBX"
+	},
+	{
+		"created_at": "Thu Oct 08 04:06:46 +0000 2020",
+		"id": 1313662419676196900,
+		"id_str": "1314054603466440705",
+		"full_text": "WHO❓서현, 김효진 배우가\nWHEN ❓잠시 후 오후 2시에\nWHERE❓JTBC 드라마 공식 유튜브 채널에서\n\n&lt;사생활&gt; 제작발표회 온라인 생중계를 합니다‼‼\n\n▶ https://t.co/cbzDpJJJ4F\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/K30HdzpjfA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "Kimhyojin",
+					"indices": [
+						162,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cbzDpJJJ4F",
+					"expanded_url": "https://www.youtube.com/jtbcdrama",
+					"display_url": "youtube.com/jtbcdrama",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313662412277473300,
+					"id_str": "1313662412277473281",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EjsRAP6U4AE37dE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjsRAP6U4AE37dE.jpg",
+					"url": "https://t.co/K30HdzpjfA",
+					"display_url": "pic.twitter.com/K30HdzpjfA",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313662419676196864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313662412277473300,
+					"id_str": "1313662412277473281",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EjsRAP6U4AE37dE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjsRAP6U4AE37dE.jpg",
+					"url": "https://t.co/K30HdzpjfA",
+					"display_url": "pic.twitter.com/K30HdzpjfA",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313662419676196864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32591,
+			"friends_count": 12,
+			"listed_count": 185,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WHO❓서현, 김효진 배우가\nWHEN ❓잠시 후 오후 2시에\nWHERE❓JTBC 드라마 공식 유튜브 채널에서\n\n&lt;사생활&gt; 제작발표회 온라인 생중계를 합니다‼‼\n\n▶ https://t.co/cbzDpJJJ4F\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/K30HdzpjfA"
+	},
+	{
 		"created_at": "Thu Oct 08 03:27:05 +0000 2020",
 		"id": 1314037804066893800,
 		"id_str": "1314044618506465280",
