@@ -1,6 +1,2751 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 16:42:38 +0000 2020",
+		"id": 1314244824992628700,
+		"id_str": "1314244824992628737",
+		"full_text": "타임리프 드라마는 왜 남자주인공이 돌아가거나 먼저 돌아가는거지. 여자 단독으로 돌아가는 국내 드라마는 뭐가 있지?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "타임리프 드라마는 왜 남자주인공이 돌아가거나 먼저 돌아가는거지. 여자 단독으로 돌아가는 국내 드라마는 뭐가 있지?"
+	},
+	{
+		"created_at": "Thu Oct 08 16:35:37 +0000 2020",
+		"id": 1314243058196652000,
+		"id_str": "1314243058196652032",
+		"full_text": "실제로 얼마전 정주영 창업대회에서도 원격 간호서비스 나오기도 했고 제일 호기심이 갔음. 간호사였다가 여러 이유로 관두거나 쉬고 계시는 분들을 통해 만성 질환자를 케어한다는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1314242692050677800,
+		"in_reply_to_status_id_str": "1314242692050677765",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "실제로 얼마전 정주영 창업대회에서도 원격 간호서비스 나오기도 했고 제일 호기심이 갔음. 간호사였다가 여러 이유로 관두거나 쉬고 계시는 분들을 통해 만성 질환자를 케어한다는 것."
+	},
+	{
+		"created_at": "Thu Oct 08 16:34:09 +0000 2020",
+		"id": 1314242692050677800,
+		"id_str": "1314242692050677765",
+		"full_text": "그리고 최근에는 본인인증 까다로워져서 다들 걱정하는 문제가 일부 해결되었지만 그와 별개로 나는 개인정보 관리 제대로 안하면 큰 일 나겠단 생각이 들었음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1314242166403727400,
+		"in_reply_to_status_id_str": "1314242166403727361",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그리고 최근에는 본인인증 까다로워져서 다들 걱정하는 문제가 일부 해결되었지만 그와 별개로 나는 개인정보 관리 제대로 안하면 큰 일 나겠단 생각이 들었음."
+	},
+	{
+		"created_at": "Thu Oct 08 16:32:04 +0000 2020",
+		"id": 1314242166403727400,
+		"id_str": "1314242166403727361",
+		"full_text": "원격진료 어플리케이션 코로나19 때문에 허용해준 것으로 알고 있는데 이권에 얽힌 사람들인지 여럿 몰려가서 의료의 질을 깎는다 어쩐다 하면서 쓰는 건 보기 싫네. 만성질환자 입장에서 좋은 결정이라고 생각하는데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "원격진료 어플리케이션 코로나19 때문에 허용해준 것으로 알고 있는데 이권에 얽힌 사람들인지 여럿 몰려가서 의료의 질을 깎는다 어쩐다 하면서 쓰는 건 보기 싫네. 만성질환자 입장에서 좋은 결정이라고 생각하는데."
+	},
+	{
+		"created_at": "Thu Oct 08 16:29:07 +0000 2020",
+		"id": 1314241424301330400,
+		"id_str": "1314241424301330433",
+		"full_text": "트윗이 동시에 여러 개가 올라오면 리트윗이 제대로 작동 안해서 불편하네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트윗이 동시에 여러 개가 올라오면 리트윗이 제대로 작동 안해서 불편하네."
+	},
+	{
+		"created_at": "Thu Oct 08 16:28:15 +0000 2020",
+		"id": 1314213267514949600,
+		"id_str": "1314241204737900544",
+		"full_text": "말해 뭐해.. 나의 심장은 이미 서현 배우 꺼💘\n\n▶️ https://t.co/XoteGDUZ93\n\n#서현 #JTBC #사생활 #Seohyun https://t.co/9KPvMfIkNA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XoteGDUZ93",
+					"expanded_url": "http://naver.me/xKJ845TC",
+					"display_url": "naver.me/xKJ845TC",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314213256441917400,
+					"id_str": "1314213256441917440",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej0F_mVUcAAiuhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej0F_mVUcAAiuhp.jpg",
+					"url": "https://t.co/9KPvMfIkNA",
+					"display_url": "pic.twitter.com/9KPvMfIkNA",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1314213267514949637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314213256441917400,
+					"id_str": "1314213256441917440",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej0F_mVUcAAiuhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej0F_mVUcAAiuhp.jpg",
+					"url": "https://t.co/9KPvMfIkNA",
+					"display_url": "pic.twitter.com/9KPvMfIkNA",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1314213267514949637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32599,
+			"friends_count": 12,
+			"listed_count": 185,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 393,
+		"favorite_count": 612,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "말해 뭐해.. 나의 심장은 이미 서현 배우 꺼💘\n\n▶️ https://t.co/XoteGDUZ93\n\n#서현 #JTBC #사생활 #Seohyun https://t.co/9KPvMfIkNA"
+	},
+	{
+		"created_at": "Thu Oct 08 16:28:11 +0000 2020",
+		"id": 1314128401108590600,
+		"id_str": "1314241188409438208",
+		"full_text": "주은(#서현)은 다단계 사기 사업의\n산증인이 되겠다는 폭탄선언을 던지며\n복기(#김효진)에게 팽팽히 맞선다!\n\n한편, 주은과 마주친 정환(#고경표)은\n첫눈에 반한 듯 돌직구 멘트를 던지며\n주은에게 다가가는데...\n\n▶오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본방사수❣ https://t.co/egNrK4Rljg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						3,
+						6
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						139,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314094348896669700,
+					"id_str": "1314094348896669696",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyaD8iUwAIsorJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyaD8iUwAIsorJ.jpg",
+					"url": "https://t.co/egNrK4Rljg",
+					"display_url": "pic.twitter.com/egNrK4Rljg",
+					"expanded_url": "https://twitter.com/jtbclove/status/1314128401108590592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314094348896669700,
+					"id_str": "1314094348896669696",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyaD8iUwAIsorJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyaD8iUwAIsorJ.jpg",
+					"url": "https://t.co/egNrK4Rljg",
+					"display_url": "pic.twitter.com/egNrK4Rljg",
+					"expanded_url": "https://twitter.com/jtbclove/status/1314128401108590592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42042,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1314094348896669696/pl/cBD_-7MaFIV_fTxb.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314094348896669696/vid/480x270/PDtf751OZK4EErFD.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314094348896669696/vid/640x360/woeJJ2_oppwwnDf_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314094348896669696/vid/1280x720/roQ_xZM0M-TNic2G.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[2회 예고] 자랑하고 싶어서요, 주은 씨요…",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011229/pm10060473/vo10421354/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440380,
+			"friends_count": 111,
+			"listed_count": 642,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "주은(#서현)은 다단계 사기 사업의\n산증인이 되겠다는 폭탄선언을 던지며\n복기(#김효진)에게 팽팽히 맞선다!\n\n한편, 주은과 마주친 정환(#고경표)은\n첫눈에 반한 듯 돌직구 멘트를 던지며\n주은에게 다가가는데...\n\n▶오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본방사수❣ https://t.co/egNrK4Rljg"
+	},
+	{
+		"created_at": "Thu Oct 08 16:28:04 +0000 2020",
+		"id": 1314082573031596000,
+		"id_str": "1314241158474690561",
+		"full_text": "🎬아빠는 주연, 엄마는 조연,\n주은(서현)은... 엑스트라? 스턴트?\n\n자해 공갈 다큐를 찍는 사기꾼 가족💸\n\n#사생활 #서현 #박성근 #송선미 https://t.co/gqFegdHBwK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "박성근",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "송선미",
+					"indices": [
+						76,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314081128903450600,
+					"id_str": "1314081128903450626",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyPHVFVgAI_bQq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyPHVFVgAI_bQq.jpg",
+					"url": "https://t.co/gqFegdHBwK",
+					"display_url": "pic.twitter.com/gqFegdHBwK",
+					"expanded_url": "https://twitter.com/jtbclove/status/1314082573031596033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314081128903450600,
+					"id_str": "1314081128903450626",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyPHVFVgAI_bQq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyPHVFVgAI_bQq.jpg",
+					"url": "https://t.co/gqFegdHBwK",
+					"display_url": "pic.twitter.com/gqFegdHBwK",
+					"expanded_url": "https://twitter.com/jtbclove/status/1314082573031596033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 102836,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314081128903450626/vid/640x360/LFsu8snRu73vMabH.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314081128903450626/vid/480x270/mNwRg7DVeVNEB8S3.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314081128903450626/vid/1280x720/3DJ54L72yFS848hJ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1314081128903450626/pl/UTxsEcBsBad6YBm2.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활] 송선미의 뻔뻔한 논리 \"우린 부의 재분배 다큐를 찍은 거야!\"💸",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/clip/pr10011229/pm10060702/vo10421324/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440380,
+			"friends_count": 111,
+			"listed_count": 642,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "🎬아빠는 주연, 엄마는 조연,\n주은(서현)은... 엑스트라? 스턴트?\n\n자해 공갈 다큐를 찍는 사기꾼 가족💸\n\n#사생활 #서현 #박성근 #송선미 https://t.co/gqFegdHBwK"
+	},
+	{
+		"created_at": "Thu Oct 08 16:27:22 +0000 2020",
+		"id": 1314240981558980600,
+		"id_str": "1314240981558980609",
+		"full_text": "https://t.co/CvleGgPghj https://t.co/5aZWKALG7j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CvleGgPghj",
+					"expanded_url": "https://twitter.com/fromminn/status/1314133849757155329",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/5aZWKALG7j",
+					"expanded_url": "https://twitter.com/Beheeve/status/1308663665567047681",
+					"display_url": "twitter.com/Beheeve/status…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308663665567047700,
+		"quoted_status_id_str": "1308663665567047681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5aZWKALG7j",
+			"expanded": "https://twitter.com/Beheeve/status/1308663665567047681",
+			"display": "twitter.com/Beheeve/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 23 07:05:06 +0000 2020",
+			"id": 1308663665567047700,
+			"id_str": "1308663665567047681",
+			"full_text": "나 어디서 들었지? 지금 전세계적으로 불어 배우는 인구보다 한국어 배우는 인구가 많다고. 믿어지지 않는다. 외국에 가서 한국어 조심.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 144901601,
+				"id_str": "144901601",
+				"name": "beheeve",
+				"screen_name": "Beheeve",
+				"location": "",
+				"description": "like cy twombly",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5613,
+				"friends_count": 486,
+				"listed_count": 37,
+				"created_at": "Mon May 17 16:18:07 +0000 2010",
+				"favourites_count": 145128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181895,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1261621095355920385/4RGu8JB8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261621095355920385/4RGu8JB8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144901601/1540570231",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15523,
+			"favorite_count": 7029,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/CvleGgPghj https://t.co/5aZWKALG7j"
+	},
+	{
+		"created_at": "Thu Oct 08 16:26:30 +0000 2020",
+		"id": 1314240767003512800,
+		"id_str": "1314240767003512832",
+		"full_text": "❝ 이는 프랑스 인구보다 남북한을 합친 인구가 많기 때문이다. 트위터 등에서 나오는 주장은 이 통계를 오인한 것으로 보인다. “불어를 배우는 인구보다 한국어를 배우는 인구가 많다”는 주장은 사실이 아니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1314240652855525400,
+		"in_reply_to_status_id_str": "1314240652855525377",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 이는 프랑스 인구보다 남북한을 합친 인구가 많기 때문이다. 트위터 등에서 나오는 주장은 이 통계를 오인한 것으로 보인다. “불어를 배우는 인구보다 한국어를 배우는 인구가 많다”는 주장은 사실이 아니다."
+	},
+	{
+		"created_at": "Thu Oct 08 16:26:03 +0000 2020",
+		"id": 1314240652855525400,
+		"id_str": "1314240652855525377",
+		"full_text": "❝ ①전세계적으로 프랑스어를 쓰는 인구는 여전히 한국어와 비교하면 월등히 많다. ②제2외국어 채택 비율 역시 한국어의 증가 추세에도 불구하고, 프랑스어 사용 인구가 훨씬 많다. ③모국어로 한국어를 사용하는 인구는 프랑스어를 사용하는 인구보다 많은 게 사실이다. https://t.co/CvleGgPghj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CvleGgPghj",
+					"expanded_url": "https://twitter.com/fromminn/status/1314133849757155329",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314133849757155300,
+		"quoted_status_id_str": "1314133849757155329",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CvleGgPghj",
+			"expanded": "https://twitter.com/fromminn/status/1314133849757155329",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 08 09:21:39 +0000 2020",
+			"id": 1314133849757155300,
+			"id_str": "1314133849757155329",
+			"full_text": "#팩트체크 #SNU팩트체크\n\"전세계적으로 불어 배우는 인구보다 한국어 배우는 인구가 많다\"\n▶ 전혀 사실 아님\nhttps://t.co/KJZTZGIqUu\n　\n#서울대언론정보연구소 #minfav",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "팩트체크",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "SNU팩트체크",
+						"indices": [
+							6,
+							14
+						]
+					},
+					{
+						"text": "서울대언론정보연구소",
+						"indices": [
+							88,
+							99
+						]
+					},
+					{
+						"text": "minfav",
+						"indices": [
+							100,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KJZTZGIqUu",
+						"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2546",
+						"display_url": "m.news.naver.com/factcheck/end.…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "정보를 능동적으로 #minfav",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 298,
+				"friends_count": 963,
+				"listed_count": 8,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 43510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 69390,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝ ①전세계적으로 프랑스어를 쓰는 인구는 여전히 한국어와 비교하면 월등히 많다. ②제2외국어 채택 비율 역시 한국어의 증가 추세에도 불구하고, 프랑스어 사용 인구가 훨씬 많다. ③모국어로 한국어를 사용하는 인구는 프랑스어를 사용하는 인구보다 많은 게 사실이다. https://t.co/CvleGgPghj"
+	},
+	{
+		"created_at": "Thu Oct 08 16:23:43 +0000 2020",
+		"id": 1314240064570835000,
+		"id_str": "1314240064570834944",
+		"full_text": "관련 트윗 당시에 수백수천 리트윗 받았던 것으로 기억하고 정말인가? 싶었던 것 두 가지가 팩트체크에 올라옴. https://t.co/nqluANDQE4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nqluANDQE4",
+					"expanded_url": "https://twitter.com/fromminn/status/1314150229441216512",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314150229441216500,
+		"quoted_status_id_str": "1314150229441216512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nqluANDQE4",
+			"expanded": "https://twitter.com/fromminn/status/1314150229441216512",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 08 10:26:45 +0000 2020",
+			"id": 1314150229441216500,
+			"id_str": "1314150229441216512",
+			"full_text": "#팩트체크 #SNU팩트체크\n\"추석 연휴에는 반려동물 유기가 늘어난다\"\n▶ 대체로 사실이 아님\nhttps://t.co/HXM70m3LIq\n　\n#서울대언론정보연구소 #minfav",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "팩트체크",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "SNU팩트체크",
+						"indices": [
+							6,
+							14
+						]
+					},
+					{
+						"text": "서울대언론정보연구소",
+						"indices": [
+							78,
+							89
+						]
+					},
+					{
+						"text": "minfav",
+						"indices": [
+							90,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HXM70m3LIq",
+						"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2549",
+						"display_url": "m.news.naver.com/factcheck/end.…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "정보를 능동적으로 #minfav",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 298,
+				"friends_count": 963,
+				"listed_count": 8,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 43510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 69390,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "관련 트윗 당시에 수백수천 리트윗 받았던 것으로 기억하고 정말인가? 싶었던 것 두 가지가 팩트체크에 올라옴. https://t.co/nqluANDQE4"
+	},
+	{
+		"created_at": "Thu Oct 08 16:20:07 +0000 2020",
+		"id": 1314130867430682600,
+		"id_str": "1314239160417349634",
+		"full_text": "[우효 OOHYO]\n\n우효의 새 EP앨범 [silence] 가 발매되었습니다\nOOHYO’s New Ep [silence] is out.\n\n#우효 #OOHYO\n\n🎧 https://t.co/fF2PLaiEWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우효",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "OOHYO",
+					"indices": [
+						81,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fF2PLaiEWH",
+					"expanded_url": "https://www.youtube.com/channel/UCjU2-4QDBGw16stNPyGHw0Q",
+					"display_url": "youtube.com/channel/UCjU2-…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 우효/윤현상/유라/크래커/로지/섞김/아일/에버루아",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698,
+			"friends_count": 5,
+			"listed_count": 16,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[우효 OOHYO]\n\n우효의 새 EP앨범 [silence] 가 발매되었습니다\nOOHYO’s New Ep [silence] is out.\n\n#우효 #OOHYO\n\n🎧 https://t.co/fF2PLaiEWH"
+	},
+	{
+		"created_at": "Thu Oct 08 16:19:00 +0000 2020",
+		"id": 1314238876567761000,
+		"id_str": "1314238876567760901",
+		"full_text": "네이버가 꽤 오래전부터 가두리 했지만 네이버페이를 강화하려고 했다는게 공정위 조사에서 드러남. 꽤 치밀하게 오래전부터 시도한 듯.\n\n이베이코리아도 포기하고 다시 들어갔으니 말 다했음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "네이버가 꽤 오래전부터 가두리 했지만 네이버페이를 강화하려고 했다는게 공정위 조사에서 드러남. 꽤 치밀하게 오래전부터 시도한 듯.\n\n이베이코리아도 포기하고 다시 들어갔으니 말 다했음."
+	},
+	{
+		"created_at": "Thu Oct 08 16:15:07 +0000 2020",
+		"id": 1290651966696304600,
+		"id_str": "1314237900255490049",
+		"full_text": "네이버페이 요즘 유통계의 배민같다는 느낌이 드는데, 편하다는 점 뿐 아니라 유통판매자가 '판매응대/사이트운영/세금처리'를 직접 하는 대신 수수료 내고말지 하는 형태로 거래하는 업체가 매우 많아짐. 심지어 지난번 가게 보수공사때 거래한 시설건재 도매상도 '걍 네이버로 주문하세요' 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 283881311,
+			"id_str": "283881311",
+			"name": "tilt : 6시 오픈합니다 / 고기 팝니다",
+			"screen_name": "barTILT",
+			"location": "Sinchon, Seoul, Korea",
+			"description": "aikoジャンキー/Baby Peenats/MA sociology/Futurismo/Seoul,Korea/서대문구 창천동 52-151 2층/ranked Korea best bar 100/김사월/lucie,too",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10290,
+			"friends_count": 1316,
+			"listed_count": 128,
+			"created_at": "Mon Apr 18 05:59:59 +0000 2011",
+			"favourites_count": 23628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309765695362625537/vCQiLn7u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309765695362625537/vCQiLn7u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283881311/1598434060",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1695,
+		"favorite_count": 955,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "네이버페이 요즘 유통계의 배민같다는 느낌이 드는데, 편하다는 점 뿐 아니라 유통판매자가 '판매응대/사이트운영/세금처리'를 직접 하는 대신 수수료 내고말지 하는 형태로 거래하는 업체가 매우 많아짐. 심지어 지난번 가게 보수공사때 거래한 시설건재 도매상도 '걍 네이버로 주문하세요' 함."
+	},
+	{
+		"created_at": "Thu Oct 08 16:13:38 +0000 2020",
+		"id": 1314237528019357700,
+		"id_str": "1314237528019357696",
+		"full_text": "드디어 네이버 바이브에 나우 다시듣기 지원! https://t.co/H5NzhsHulH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H5NzhsHulH",
+					"expanded_url": "https://twitter.com/fromminn/status/1260223832129822721",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260223832129822700,
+		"quoted_status_id_str": "1260223832129822721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H5NzhsHulH",
+			"expanded": "https://twitter.com/fromminn/status/1260223832129822721",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 12 15:02:30 +0000 2020",
+			"id": 1260223832129822700,
+			"id_str": "1260223832129822721",
+			"full_text": "네이버 플러스 구독 플랜보니까 바이브+브이앱+나우 다시듣기 이렇게 만들어서 팔면 케이팝팬들에게 엄청 팔릴 것 같은데 아쉽네. 클라우드야 이미 가격대 압도적인 아마존이 있고 VOD도 OTT서비스 넷플릭스, 티빙 등 쓰는데 굳이 필요 없음.\n\n#포털사이트 #구독제 #네이버플러스 #뮤직비지니스",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "포털사이트",
+						"indices": [
+							134,
+							140
+						]
+					},
+					{
+						"text": "구독제",
+						"indices": [
+							141,
+							145
+						]
+					},
+					{
+						"text": "네이버플러스",
+						"indices": [
+							146,
+							153
+						]
+					},
+					{
+						"text": "뮤직비지니스",
+						"indices": [
+							154,
+							161
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "정보를 능동적으로 #minfav",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 298,
+				"friends_count": 963,
+				"listed_count": 8,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 43510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 69390,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 네이버 바이브에 나우 다시듣기 지원! https://t.co/H5NzhsHulH"
+	},
+	{
+		"created_at": "Thu Oct 08 16:13:13 +0000 2020",
+		"id": 1260223832129822700,
+		"id_str": "1314237422113230848",
+		"full_text": "네이버 플러스 구독 플랜보니까 바이브+브이앱+나우 다시듣기 이렇게 만들어서 팔면 케이팝팬들에게 엄청 팔릴 것 같은데 아쉽네. 클라우드야 이미 가격대 압도적인 아마존이 있고 VOD도 OTT서비스 넷플릭스, 티빙 등 쓰는데 굳이 필요 없음.\n\n#포털사이트 #구독제 #네이버플러스 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포털사이트",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "구독제",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "네이버플러스",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						154,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 963,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "네이버 플러스 구독 플랜보니까 바이브+브이앱+나우 다시듣기 이렇게 만들어서 팔면 케이팝팬들에게 엄청 팔릴 것 같은데 아쉽네. 클라우드야 이미 가격대 압도적인 아마존이 있고 VOD도 OTT서비스 넷플릭스, 티빙 등 쓰는데 굳이 필요 없음.\n\n#포털사이트 #구독제 #네이버플러스 #뮤직비지니스"
+	},
+	{
+		"created_at": "Thu Oct 08 16:11:29 +0000 2020",
+		"id": 1313663423025041400,
+		"id_str": "1314236987050655745",
+		"full_text": "저는 임신 중절 수술 경험자입니다. 원치 않은 임신과(피임했음) 그 이후에 경험한 일련의 ☠️같은 과정에 대해 “낙태죄”라는 말이 있는 한국에서 공개적으로 얘기해 본 적이 없습니다. 이제부터 해야지~ #낙태죄폐지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "낙태죄폐지",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "🔥의뢰|문의 📧 info.langlee@gmail.com 📧日本の仕事はinfo.sweetdreams@gmail.com STAFF @info_langlee",
+			"url": "https://t.co/CxKklAUBvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CxKklAUBvk",
+							"expanded_url": "http://www.youtube.com/langleeschool",
+							"display_url": "youtube.com/langleeschool",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31742,
+			"friends_count": 1044,
+			"listed_count": 172,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3475,
+		"favorite_count": 2532,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저는 임신 중절 수술 경험자입니다. 원치 않은 임신과(피임했음) 그 이후에 경험한 일련의 ☠️같은 과정에 대해 “낙태죄”라는 말이 있는 한국에서 공개적으로 얘기해 본 적이 없습니다. 이제부터 해야지~ #낙태죄폐지"
+	},
+	{
+		"created_at": "Thu Oct 08 16:11:27 +0000 2020",
+		"id": 1313727919240478700,
+		"id_str": "1314236979375030272",
+		"full_text": "#인터파크티켓 #티켓오픈소식 #주요티켓오픈\n뮤지컬 ［어쩌면 해피엔딩］ Live 온라인 생중계 티켓오픈 안내 : 20.10.08(목) 14:00\nhttps://t.co/OCRT5nG6nj https://t.co/Mf27e4dSt7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "주요티켓오픈",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OCRT5nG6nj",
+					"expanded_url": "https://bit.ly/2HZbJ1n",
+					"display_url": "bit.ly/2HZbJ1n",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313727918263107600,
+					"id_str": "1313727918263107585",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtMlMuWAAEW7iF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtMlMuWAAEW7iF.jpg",
+					"url": "https://t.co/Mf27e4dSt7",
+					"display_url": "pic.twitter.com/Mf27e4dSt7",
+					"expanded_url": "https://twitter.com/InterTicketOpen/status/1313727919240478727/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313727918263107600,
+					"id_str": "1313727918263107585",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtMlMuWAAEW7iF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtMlMuWAAEW7iF.jpg",
+					"url": "https://t.co/Mf27e4dSt7",
+					"display_url": "pic.twitter.com/Mf27e4dSt7",
+					"expanded_url": "https://twitter.com/InterTicketOpen/status/1313727919240478727/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1210277696464248800,
+			"id_str": "1210277696464248832",
+			"name": "인터파크 티켓 - 티켓오픈소식",
+			"screen_name": "InterTicketOpen",
+			"location": "",
+			"description": "#인터파크티켓 #티켓오픈소식 #주요티켓오픈 비공식 봇\n\n티켓링크/하나티켓/위메프 공연티켓 @TicketOpen\n예스24 티켓 @YES24TicketOpen\n멜론 티켓 @MelonTicketOpen\n\n문의 : https://t.co/5UtEDwipCh",
+			"url": "https://t.co/O3Spoldw9S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O3Spoldw9S",
+							"expanded_url": "http://ticket.interpark.com/webzine/paper/TPNoticeList.asp",
+							"display_url": "ticket.interpark.com/webzine/paper/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UtEDwipCh",
+							"expanded_url": "https://solplparty.channel.io",
+							"display_url": "solplparty.channel.io",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 375,
+			"friends_count": 6,
+			"listed_count": 6,
+			"created_at": "Thu Dec 26 19:14:33 +0000 2019",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210277915377594368/N2kpJZh2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210277915377594368/N2kpJZh2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1210277696464248832/1583569240",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓 #티켓오픈소식 #주요티켓오픈\n뮤지컬 ［어쩌면 해피엔딩］ Live 온라인 생중계 티켓오픈 안내 : 20.10.08(목) 14:00\nhttps://t.co/OCRT5nG6nj https://t.co/Mf27e4dSt7"
+	},
+	{
 		"created_at": "Thu Oct 08 16:00:29 +0000 2020",
 		"id": 1314195843067519000,
 		"id_str": "1314234219929845761",
