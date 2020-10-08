@@ -1,6 +1,891 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 07:27:17 +0000 2020",
+		"id": 1314098786872950800,
+		"id_str": "1314105067411320833",
+		"full_text": "블링크의 심장을 뚜두뚜두 때리는 #블랙핑크 의 매력감옥 #인터뷰감옥💖\n✨오늘 저녁 6시 원더케이오리지널 유튜브에서 최초공개✨\n\n#BLACKPINK's &lt;Prison Interview&gt; premiere on 1theK Originals Youtube in 2 hours!💖 @ygofficialblink\n\n▶ https://t.co/iRbXnIhNIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "인터뷰감옥",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						158,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iRbXnIhNIN",
+					"expanded_url": "https://youtu.be/5h48GEoLD-c",
+					"display_url": "youtu.be/5h48GEoLD-c",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2081806,
+			"friends_count": 807,
+			"listed_count": 1771,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1601895756",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5478,
+		"favorite_count": 13502,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블링크의 심장을 뚜두뚜두 때리는 #블랙핑크 의 매력감옥 #인터뷰감옥💖\n✨오늘 저녁 6시 원더케이오리지널 유튜브에서 최초공개✨\n\n#BLACKPINK's &lt;Prison Interview&gt; premiere on 1theK Originals Youtube in 2 hours!💖 @ygofficialblink\n\n▶ https://t.co/iRbXnIhNIN"
+	},
+	{
+		"created_at": "Thu Oct 08 07:27:05 +0000 2020",
+		"id": 1314098199544635400,
+		"id_str": "1314105015481630720",
+		"full_text": "🖤10월 14일 오후 1시 (KST) #블랙핑크 와 함께하는 트위터 블루룸 라이브💖\n#Ask_BLACKPINK 해시태그와 함께 트윗으로 질문을 보내주시면 블랙핑크가 라이브에서 직접 답변해드려요🎁💘\n\n#Ask_BLACKPINK #TwitterBlueroom LIVE Q&amp;A with #BLACKPINK https://t.co/SxEmIdoVru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "Ask_BLACKPINK",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"text": "Ask_BLACKPINK",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						126,
+						142
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314067897661055000,
+					"id_str": "1314067897661054977",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyBymrU4AEhrb3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyBymrU4AEhrb3.jpg",
+					"url": "https://t.co/SxEmIdoVru",
+					"display_url": "pic.twitter.com/SxEmIdoVru",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1314098199544635392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314067897661055000,
+					"id_str": "1314067897661054977",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyBymrU4AEhrb3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyBymrU4AEhrb3.jpg",
+					"url": "https://t.co/SxEmIdoVru",
+					"display_url": "pic.twitter.com/SxEmIdoVru",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1314098199544635392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2060083,
+			"friends_count": 0,
+			"listed_count": 2777,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14063,
+		"favorite_count": 46431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🖤10월 14일 오후 1시 (KST) #블랙핑크 와 함께하는 트위터 블루룸 라이브💖\n#Ask_BLACKPINK 해시태그와 함께 트윗으로 질문을 보내주시면 블랙핑크가 라이브에서 직접 답변해드려요🎁💘\n\n#Ask_BLACKPINK #TwitterBlueroom LIVE Q&amp;A with #BLACKPINK https://t.co/SxEmIdoVru"
+	},
+	{
+		"created_at": "Thu Oct 08 07:13:09 +0000 2020",
+		"id": 1314101510674894800,
+		"id_str": "1314101510674894848",
+		"full_text": "#예술경영지원센터 #온라인참가신청\n2020 예술과 기술 융합 지원 &lt;3D프린팅을 활용한 굿즈 개발 워크숍&gt;\nhttps://t.co/SDBnh56sIr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SDBnh56sIr",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=983&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 962,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청\n2020 예술과 기술 융합 지원 &lt;3D프린팅을 활용한 굿즈 개발 워크숍&gt;\nhttps://t.co/SDBnh56sIr"
+	},
+	{
+		"created_at": "Thu Oct 08 07:03:49 +0000 2020",
+		"id": 1314099162884038700,
+		"id_str": "1314099162884038657",
+		"full_text": "#라이브네이션코리아 #Live_Nation\nGlass Animals Live From The Internet (2020년 10월 16일 금요일 오후 7:00)\nhttps://t.co/iUNXcp9aaf\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/NYj6oGRJlT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브네이션코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Live_Nation",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iUNXcp9aaf",
+					"expanded_url": "https://www.livenation.kr/show/1321260/glass-animals-live-from-the-internet/online/2020-10-16/kr",
+					"display_url": "livenation.kr/show/1321260/g…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314099161810251800,
+					"id_str": "1314099161810251776",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyeOatWsAAw7eW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyeOatWsAAw7eW.jpg",
+					"url": "https://t.co/NYj6oGRJlT",
+					"display_url": "pic.twitter.com/NYj6oGRJlT",
+					"expanded_url": "https://twitter.com/fromminn/status/1314099162884038657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314099161810251800,
+					"id_str": "1314099161810251776",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyeOatWsAAw7eW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyeOatWsAAw7eW.jpg",
+					"url": "https://t.co/NYj6oGRJlT",
+					"display_url": "pic.twitter.com/NYj6oGRJlT",
+					"expanded_url": "https://twitter.com/fromminn/status/1314099162884038657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 962,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라이브네이션코리아 #Live_Nation\nGlass Animals Live From The Internet (2020년 10월 16일 금요일 오후 7:00)\nhttps://t.co/iUNXcp9aaf\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/NYj6oGRJlT"
+	},
+	{
+		"created_at": "Thu Oct 08 07:03:47 +0000 2020",
+		"id": 1314099154646425600,
+		"id_str": "1314099154646425600",
+		"full_text": "#라이브네이션코리아 #Live_Nation\nJames Bay Live at Shakespeare’s Globe (2020년 10월 22일 목요일 오후 6:00)\nhttps://t.co/VN2sRwqqob\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/kuWc43P75h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브네이션코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Live_Nation",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VN2sRwqqob",
+					"expanded_url": "https://www.livenation.kr/show/1321258/james-bay-live-at-shakespeare-s-globe/online/2020-10-22/kr",
+					"display_url": "livenation.kr/show/1321258/j…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314099153392283600,
+					"id_str": "1314099153392283653",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyeN7WWsAUbcmB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyeN7WWsAUbcmB.jpg",
+					"url": "https://t.co/kuWc43P75h",
+					"display_url": "pic.twitter.com/kuWc43P75h",
+					"expanded_url": "https://twitter.com/fromminn/status/1314099154646425600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314099153392283600,
+					"id_str": "1314099153392283653",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyeN7WWsAUbcmB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyeN7WWsAUbcmB.jpg",
+					"url": "https://t.co/kuWc43P75h",
+					"display_url": "pic.twitter.com/kuWc43P75h",
+					"expanded_url": "https://twitter.com/fromminn/status/1314099154646425600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 962,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라이브네이션코리아 #Live_Nation\nJames Bay Live at Shakespeare’s Globe (2020년 10월 22일 목요일 오후 6:00)\nhttps://t.co/VN2sRwqqob\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/kuWc43P75h"
+	},
+	{
 		"created_at": "Thu Oct 08 05:27:57 +0000 2020",
 		"id": 1314065848349327400,
 		"id_str": "1314075035917864960",
