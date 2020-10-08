@@ -1,6 +1,1986 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 13:27:06 +0000 2020",
+		"id": 1314181953441022000,
+		"id_str": "1314195617208561665",
+		"full_text": "[#예술경영 웹진 제455호] 발행! \n\n&lt;예술사 관점에서 본 코로나 시대의 예술&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 👇\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/e6yxGawKOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nnJOswx4up",
+					"expanded_url": "http://www.gokams.or.kr/webzine/",
+					"display_url": "gokams.or.kr/webzine/",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/ot3uNW18eC",
+					"expanded_url": "http://www.gokams.or.kr/webzine/mobile/",
+					"display_url": "gokams.or.kr/webzine/mobile/",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314181902023098400,
+					"id_str": "1314181902023098368",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzpeiBVgAAUmXA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EjzpeiBVgAAUmXA.png",
+					"url": "https://t.co/e6yxGawKOC",
+					"display_url": "pic.twitter.com/e6yxGawKOC",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1314181953441021953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 665,
+							"h": 521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314181902023098400,
+					"id_str": "1314181902023098368",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzpeiBVgAAUmXA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EjzpeiBVgAAUmXA.png",
+					"url": "https://t.co/e6yxGawKOC",
+					"display_url": "pic.twitter.com/e6yxGawKOC",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1314181953441021953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 665,
+							"h": 521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6840,
+			"friends_count": 3003,
+			"listed_count": 103,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 제455호] 발행! \n\n&lt;예술사 관점에서 본 코로나 시대의 예술&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 👇\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/e6yxGawKOC"
+	},
+	{
+		"created_at": "Thu Oct 08 13:22:37 +0000 2020",
+		"id": 1314151075063054300,
+		"id_str": "1314194488324050944",
+		"full_text": "대본이 필요 없었다💁\n애드리브가 80%였던\n징짱과 김이나 작가님의\n작사의 모든 것✏\n\nEDAM YouTube ▶▶ https://t.co/K2DQ2e268Q\n\n#아이유 #IU #집콕시그널2\n#이담_프로젝트 #EDAM_Project https://t.co/34IUt9gbuE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "집콕시그널2",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "이담_프로젝트",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "EDAM_Project",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K2DQ2e268Q",
+					"expanded_url": "https://youtu.be/sTmT9yb_95Y",
+					"display_url": "youtu.be/sTmT9yb_95Y",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314151013431959600,
+					"id_str": "1314151013431959553",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzNYlDU4AEV_mg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzNYlDU4AEV_mg.jpg",
+					"url": "https://t.co/34IUt9gbuE",
+					"display_url": "pic.twitter.com/34IUt9gbuE",
+					"expanded_url": "https://twitter.com/edam_ent/status/1314151075063054342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314151013431959600,
+					"id_str": "1314151013431959553",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzNYlDU4AEV_mg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzNYlDU4AEV_mg.jpg",
+					"url": "https://t.co/34IUt9gbuE",
+					"display_url": "pic.twitter.com/34IUt9gbuE",
+					"expanded_url": "https://twitter.com/edam_ent/status/1314151075063054342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31846,
+			"friends_count": 1,
+			"listed_count": 89,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1977,
+		"favorite_count": 6236,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대본이 필요 없었다💁\n애드리브가 80%였던\n징짱과 김이나 작가님의\n작사의 모든 것✏\n\nEDAM YouTube ▶▶ https://t.co/K2DQ2e268Q\n\n#아이유 #IU #집콕시그널2\n#이담_프로젝트 #EDAM_Project https://t.co/34IUt9gbuE"
+	},
+	{
+		"created_at": "Thu Oct 08 13:17:42 +0000 2020",
+		"id": 1314156413392834600,
+		"id_str": "1314193253709705217",
+		"full_text": "[사실은 이렇습니다]\n구글의 인앱결제 관련하여 공정거래법 위반 여부를 면밀히 살펴보겠습니다.\n10월8일&lt;구글의 인앱결제 강제 및 수수료 30% 부과와 관련하여 공정위에서 조사 중&gt;이라는 다수 매체의 보도에 대해 설명드립니다.https://t.co/Vy3V2F4tPG #공정위 #구글 #인앱결제 #OS시장 #공정거래법 https://t.co/AWT6aU0tVK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공정위",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "구글",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "인앱결제",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "OS시장",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "공정거래법",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vy3V2F4tPG",
+					"expanded_url": "https://blog.naver.com/ftc_news/222110488993",
+					"display_url": "blog.naver.com/ftc_news/22211…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314156245960421400,
+					"id_str": "1314156245960421376",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzSJJvU8AAkTTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzSJJvU8AAkTTH.jpg",
+					"url": "https://t.co/AWT6aU0tVK",
+					"display_url": "pic.twitter.com/AWT6aU0tVK",
+					"expanded_url": "https://twitter.com/kftcnews/status/1314156413392834566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314156245960421400,
+					"id_str": "1314156245960421376",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzSJJvU8AAkTTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzSJJvU8AAkTTH.jpg",
+					"url": "https://t.co/AWT6aU0tVK",
+					"display_url": "pic.twitter.com/AWT6aU0tVK",
+					"expanded_url": "https://twitter.com/kftcnews/status/1314156413392834566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60856026,
+			"id_str": "60856026",
+			"name": "공정거래위원회",
+			"screen_name": "kftcnews",
+			"location": "seoul korea",
+			"description": "안녕하세요~ 공정거래위원회입니다.\r\nHere is Korea Fair Trade Commission",
+			"url": "https://t.co/GNxx35QaGY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GNxx35QaGY",
+							"expanded_url": "https://twitter.com/kftcnews",
+							"display_url": "twitter.com/kftcnews",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53636,
+			"friends_count": 27973,
+			"listed_count": 697,
+			"created_at": "Tue Jul 28 09:03:47 +0000 2009",
+			"favourites_count": 277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057157930590527488/tsim42wa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057157930590527488/tsim42wa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60856026/1598944241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[사실은 이렇습니다]\n구글의 인앱결제 관련하여 공정거래법 위반 여부를 면밀히 살펴보겠습니다.\n10월8일&lt;구글의 인앱결제 강제 및 수수료 30% 부과와 관련하여 공정위에서 조사 중&gt;이라는 다수 매체의 보도에 대해 설명드립니다.https://t.co/Vy3V2F4tPG #공정위 #구글 #인앱결제 #OS시장 #공정거래법 https://t.co/AWT6aU0tVK"
+	},
+	{
+		"created_at": "Thu Oct 08 13:16:57 +0000 2020",
+		"id": 1314162216011100200,
+		"id_str": "1314193063607181312",
+		"full_text": "[단독] 전범기업 '소송전'에 또…대법원장실 드나들던 김앤장 https://t.co/KxLF28KQLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KxLF28KQLP",
+					"expanded_url": "http://news.jtbc.joins.com/html/016/NB11973016.html",
+					"display_url": "news.jtbc.joins.com/html/016/NB119…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603785,
+			"friends_count": 44011,
+			"listed_count": 2142,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 77968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독] 전범기업 '소송전'에 또…대법원장실 드나들던 김앤장 https://t.co/KxLF28KQLP"
+	},
+	{
+		"created_at": "Thu Oct 08 13:13:49 +0000 2020",
+		"id": 1314163796525551600,
+		"id_str": "1314192272880144384",
+		"full_text": "[티벤의 요즘 이 책📚]\n꾸준한 사랑을 받아온 비숲2의 종영 기념 특별판 출간!🤥\n(했으면 좋겠다....)\n⠀\n#비밀의숲2\n#침묵을원하는자모두가공범이다\n#비숲 #tvN #토일드라마 #조승우 #배두나\n#전혜진 #최무성 #이준혁 #윤세아 https://t.co/WeehM29Nlr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비밀의숲2",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "침묵을원하는자모두가공범이다",
+					"indices": [
+						69,
+						84
+					]
+				},
+				{
+					"text": "비숲",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "조승우",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "전혜진",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "최무성",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "이준혁",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "윤세아",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314163769124118500,
+					"id_str": "1314163769124118528",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzY_DtU4AA_sIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzY_DtU4AA_sIb.jpg",
+					"url": "https://t.co/WeehM29Nlr",
+					"display_url": "pic.twitter.com/WeehM29Nlr",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314163796525551618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314163769124118500,
+					"id_str": "1314163769124118528",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzY_DtU4AA_sIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzY_DtU4AA_sIb.jpg",
+					"url": "https://t.co/WeehM29Nlr",
+					"display_url": "pic.twitter.com/WeehM29Nlr",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314163796525551618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314163769346408400,
+					"id_str": "1314163769346408449",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzY_EiUwAEXDKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzY_EiUwAEXDKZ.jpg",
+					"url": "https://t.co/WeehM29Nlr",
+					"display_url": "pic.twitter.com/WeehM29Nlr",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314163796525551618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314163769497403400,
+					"id_str": "1314163769497403394",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzY_FGUwAIvaFE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzY_FGUwAIvaFE.jpg",
+					"url": "https://t.co/WeehM29Nlr",
+					"display_url": "pic.twitter.com/WeehM29Nlr",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314163796525551618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314163728003154000,
+		"in_reply_to_status_id_str": "1314163728003153924",
+		"in_reply_to_user_id": 335749973,
+		"in_reply_to_user_id_str": "335749973",
+		"in_reply_to_screen_name": "CJnDrama",
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔 #청춘기록 #악의꽃 #비밀의숲2 #구미호뎐 #스타트업",
+			"url": "https://t.co/Em6okU1Ysx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Em6okU1Ysx",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 403224,
+			"friends_count": 41,
+			"listed_count": 596,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1599449849",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 507,
+		"favorite_count": 434,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티벤의 요즘 이 책📚]\n꾸준한 사랑을 받아온 비숲2의 종영 기념 특별판 출간!🤥\n(했으면 좋겠다....)\n⠀\n#비밀의숲2\n#침묵을원하는자모두가공범이다\n#비숲 #tvN #토일드라마 #조승우 #배두나\n#전혜진 #최무성 #이준혁 #윤세아 https://t.co/WeehM29Nlr"
+	},
+	{
+		"created_at": "Thu Oct 08 13:13:46 +0000 2020",
+		"id": 1314163728003154000,
+		"id_str": "1314192261865906177",
+		"full_text": "[티벤의 요즘 이 책📚]\n꾸준한 사랑을 받아온 비숲2의 종영 기념 특별판 출간!🤥\n(했으면 좋겠다....)\n⠀\n#비밀의숲2\n#침묵을원하는자모두가공범이다\n#비숲 #tvN #토일드라마 #조승우 #배두나\n#전혜진 #최무성 #이준혁 #윤세아 https://t.co/uaFWOFmsAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비밀의숲2",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "침묵을원하는자모두가공범이다",
+					"indices": [
+						69,
+						84
+					]
+				},
+				{
+					"text": "비숲",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "조승우",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "전혜진",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "최무성",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "이준혁",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "윤세아",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314163700924739600,
+					"id_str": "1314163700924739586",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzY7FpU8AI7ffU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzY7FpU8AI7ffU.jpg",
+					"url": "https://t.co/uaFWOFmsAT",
+					"display_url": "pic.twitter.com/uaFWOFmsAT",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314163728003153924/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314163700924739600,
+					"id_str": "1314163700924739586",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzY7FpU8AI7ffU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzY7FpU8AI7ffU.jpg",
+					"url": "https://t.co/uaFWOFmsAT",
+					"display_url": "pic.twitter.com/uaFWOFmsAT",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314163728003153924/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314163700928925700,
+					"id_str": "1314163700928925696",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EjzY7FqU0AAyDbO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjzY7FqU0AAyDbO.jpg",
+					"url": "https://t.co/uaFWOFmsAT",
+					"display_url": "pic.twitter.com/uaFWOFmsAT",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314163728003153924/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔 #청춘기록 #악의꽃 #비밀의숲2 #구미호뎐 #스타트업",
+			"url": "https://t.co/Em6okU1Ysx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Em6okU1Ysx",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 403224,
+			"friends_count": 41,
+			"listed_count": 596,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1599449849",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 775,
+		"favorite_count": 718,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티벤의 요즘 이 책📚]\n꾸준한 사랑을 받아온 비숲2의 종영 기념 특별판 출간!🤥\n(했으면 좋겠다....)\n⠀\n#비밀의숲2\n#침묵을원하는자모두가공범이다\n#비숲 #tvN #토일드라마 #조승우 #배두나\n#전혜진 #최무성 #이준혁 #윤세아 https://t.co/uaFWOFmsAT"
+	},
+	{
+		"created_at": "Thu Oct 08 13:11:50 +0000 2020",
+		"id": 1314116444209270800,
+		"id_str": "1314191776673009664",
+		"full_text": "엑시트에서 윤아 캐릭터가 자기보다 다른 사람들 먼저 헬기 태워보낸 다음에 무슨 비장한 표정을 짓는 것도 아니고 그냥 엉엉 울던 거 생각난다. https://t.co/K4rUdTIita",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K4rUdTIita",
+					"expanded_url": "https://twitter.com/lady_ykd/status/1313815133940903938",
+					"display_url": "twitter.com/lady_ykd/statu…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847305555035144200,
+			"id_str": "847305555035144194",
+			"name": "담디",
+			"screen_name": "damdy36",
+			"location": "",
+			"description": "사진은 스페인 시체스의 Museu de Cau Ferrat",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396,
+			"friends_count": 363,
+			"listed_count": 1,
+			"created_at": "Thu Mar 30 04:32:41 +0000 2017",
+			"favourites_count": 7155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867439802756550656/traez37m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867439802756550656/traez37m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847305555035144194/1579816338",
+			"profile_link_color": "086A87",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313815133940904000,
+		"quoted_status_id_str": "1313815133940903938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K4rUdTIita",
+			"expanded": "https://twitter.com/lady_ykd/status/1313815133940903938",
+			"display": "twitter.com/lady_ykd/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 07 12:15:12 +0000 2020",
+			"id": 1313815133940904000,
+			"id_str": "1313815133940903938",
+			"full_text": "히어로가 될 생각이 없던 히어로들을 보고 있으면 물에 흠뻑 젖은 솜처럼 너무 무겁고 힘들어 보인다. 무슨 보상을 바란 것도 아니고 정의에 미친 대단한 인간도 아니다. 하루하루 살아내기 바쁘고 곤경에 처한 남을 외면하지 못하는, 지극히 일반적이고 따뜻한 사람일 뿐이다. 어쩌다 히어로인. https://t.co/XbbiRvHhE6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1313815129339830300,
+						"id_str": "1313815129339830272",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejub5jTVoAAE3dq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejub5jTVoAAE3dq.jpg",
+						"url": "https://t.co/XbbiRvHhE6",
+						"display_url": "pic.twitter.com/XbbiRvHhE6",
+						"expanded_url": "https://twitter.com/lady_ykd/status/1313815133940903938/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 511,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 339,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313815129339830300,
+						"id_str": "1313815129339830272",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejub5jTVoAAE3dq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejub5jTVoAAE3dq.jpg",
+						"url": "https://t.co/XbbiRvHhE6",
+						"display_url": "pic.twitter.com/XbbiRvHhE6",
+						"expanded_url": "https://twitter.com/lady_ykd/status/1313815133940903938/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 511,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 339,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1313815131541827600,
+						"id_str": "1313815131541827586",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejub5rgVcAI8sW2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejub5rgVcAI8sW2.jpg",
+						"url": "https://t.co/XbbiRvHhE6",
+						"display_url": "pic.twitter.com/XbbiRvHhE6",
+						"expanded_url": "https://twitter.com/lady_ykd/status/1313815133940903938/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 556,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 703,
+								"h": 575,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 703,
+								"h": 575,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4910393592,
+				"id_str": "4910393592",
+				"name": "🌲 댜비숲 🌲",
+				"screen_name": "lady_ykd",
+				"location": "",
+				"description": "저는 아마 끝까지 깨닫지 못할 겁니다\n알 만한 나이에 알 만한 걸요",
+				"url": "https://t.co/dZ4KYjb4X8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dZ4KYjb4X8",
+								"expanded_url": "https://lady-ykd.postype.com/",
+								"display_url": "lady-ykd.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2143,
+				"friends_count": 78,
+				"listed_count": 10,
+				"created_at": "Mon Feb 15 08:48:36 +0000 2016",
+				"favourites_count": 17400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65931,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1308581367932805120/68IKnztl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308581367932805120/68IKnztl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4910393592/1545584705",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5169,
+			"favorite_count": 3765,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10502,
+		"favorite_count": 3698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엑시트에서 윤아 캐릭터가 자기보다 다른 사람들 먼저 헬기 태워보낸 다음에 무슨 비장한 표정을 짓는 것도 아니고 그냥 엉엉 울던 거 생각난다. https://t.co/K4rUdTIita"
+	},
+	{
+		"created_at": "Thu Oct 08 13:11:45 +0000 2020",
+		"id": 1313815853209538600,
+		"id_str": "1314191754531225600",
+		"full_text": "눈앞의 불의에 두 눈 질끈 감아버릴 수 없는 사람. 법을 어기지 않고 나빠지지 말고, 조금 더 따뜻하게만 살자. 그게 모토일 뿐인데 돌아보니 혼자만 그렇게 살고 있던 사람. 주변이 냉랭하고 냉정하고 확 도망가버리고 싶은데 그러지도 못하고 저만치 뛰어가도 결국 다시 돌아오는 사람. 어쩌다 영웅.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1313815133940904000,
+		"in_reply_to_status_id_str": "1313815133940903938",
+		"in_reply_to_user_id": 4910393592,
+		"in_reply_to_user_id_str": "4910393592",
+		"in_reply_to_screen_name": "lady_ykd",
+		"user": {
+			"id": 4910393592,
+			"id_str": "4910393592",
+			"name": "🌲 댜비숲 🌲",
+			"screen_name": "lady_ykd",
+			"location": "",
+			"description": "저는 아마 끝까지 깨닫지 못할 겁니다\n알 만한 나이에 알 만한 걸요",
+			"url": "https://t.co/dZ4KYjb4X8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dZ4KYjb4X8",
+							"expanded_url": "https://lady-ykd.postype.com/",
+							"display_url": "lady-ykd.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 78,
+			"listed_count": 10,
+			"created_at": "Mon Feb 15 08:48:36 +0000 2016",
+			"favourites_count": 17400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308581367932805120/68IKnztl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308581367932805120/68IKnztl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4910393592/1545584705",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 976,
+		"favorite_count": 736,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "눈앞의 불의에 두 눈 질끈 감아버릴 수 없는 사람. 법을 어기지 않고 나빠지지 말고, 조금 더 따뜻하게만 살자. 그게 모토일 뿐인데 돌아보니 혼자만 그렇게 살고 있던 사람. 주변이 냉랭하고 냉정하고 확 도망가버리고 싶은데 그러지도 못하고 저만치 뛰어가도 결국 다시 돌아오는 사람. 어쩌다 영웅."
+	},
+	{
+		"created_at": "Thu Oct 08 13:11:43 +0000 2020",
+		"id": 1313815133940904000,
+		"id_str": "1314191745308008448",
+		"full_text": "히어로가 될 생각이 없던 히어로들을 보고 있으면 물에 흠뻑 젖은 솜처럼 너무 무겁고 힘들어 보인다. 무슨 보상을 바란 것도 아니고 정의에 미친 대단한 인간도 아니다. 하루하루 살아내기 바쁘고 곤경에 처한 남을 외면하지 못하는, 지극히 일반적이고 따뜻한 사람일 뿐이다. 어쩌다 히어로인. https://t.co/XbbiRvHhE6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313815129339830300,
+					"id_str": "1313815129339830272",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejub5jTVoAAE3dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejub5jTVoAAE3dq.jpg",
+					"url": "https://t.co/XbbiRvHhE6",
+					"display_url": "pic.twitter.com/XbbiRvHhE6",
+					"expanded_url": "https://twitter.com/lady_ykd/status/1313815133940903938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313815129339830300,
+					"id_str": "1313815129339830272",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejub5jTVoAAE3dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejub5jTVoAAE3dq.jpg",
+					"url": "https://t.co/XbbiRvHhE6",
+					"display_url": "pic.twitter.com/XbbiRvHhE6",
+					"expanded_url": "https://twitter.com/lady_ykd/status/1313815133940903938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313815131541827600,
+					"id_str": "1313815131541827586",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejub5rgVcAI8sW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejub5rgVcAI8sW2.jpg",
+					"url": "https://t.co/XbbiRvHhE6",
+					"display_url": "pic.twitter.com/XbbiRvHhE6",
+					"expanded_url": "https://twitter.com/lady_ykd/status/1313815133940903938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 575,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 703,
+							"h": 575,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4910393592,
+			"id_str": "4910393592",
+			"name": "🌲 댜비숲 🌲",
+			"screen_name": "lady_ykd",
+			"location": "",
+			"description": "저는 아마 끝까지 깨닫지 못할 겁니다\n알 만한 나이에 알 만한 걸요",
+			"url": "https://t.co/dZ4KYjb4X8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dZ4KYjb4X8",
+							"expanded_url": "https://lady-ykd.postype.com/",
+							"display_url": "lady-ykd.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 78,
+			"listed_count": 10,
+			"created_at": "Mon Feb 15 08:48:36 +0000 2016",
+			"favourites_count": 17400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308581367932805120/68IKnztl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308581367932805120/68IKnztl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4910393592/1545584705",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5169,
+		"favorite_count": 3765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "히어로가 될 생각이 없던 히어로들을 보고 있으면 물에 흠뻑 젖은 솜처럼 너무 무겁고 힘들어 보인다. 무슨 보상을 바란 것도 아니고 정의에 미친 대단한 인간도 아니다. 하루하루 살아내기 바쁘고 곤경에 처한 남을 외면하지 못하는, 지극히 일반적이고 따뜻한 사람일 뿐이다. 어쩌다 히어로인. https://t.co/XbbiRvHhE6"
+	},
+	{
 		"created_at": "Thu Oct 08 12:36:32 +0000 2020",
 		"id": 1314182893145657300,
 		"id_str": "1314182893145657350",
