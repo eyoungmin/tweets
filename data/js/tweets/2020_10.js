@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 12:36:32 +0000 2020",
+		"id": 1314182893145657300,
+		"id_str": "1314182893145657350",
+		"full_text": "#웹진예술경영\n[예술경영웹진 455호] 예술사 관점에서 본 코로나 시대의 예술\nhttps://t.co/61B2l9SyD0\n#웹진 #예술경영 #뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웹진예술경영",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/61B2l9SyD0",
+					"expanded_url": "https://notifier.in/item/gvfhuxrra1dr47n0oz46zqocuu8jmoip/2127068.html",
+					"display_url": "notifier.in/item/gvfhuxrra…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 962,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웹진예술경영\n[예술경영웹진 455호] 예술사 관점에서 본 코로나 시대의 예술\nhttps://t.co/61B2l9SyD0\n#웹진 #예술경영 #뉴스레터 #Newsletter"
+	},
+	{
 		"created_at": "Thu Oct 08 11:03:04 +0000 2020",
 		"id": 1314159370507255800,
 		"id_str": "1314159370507255808",
