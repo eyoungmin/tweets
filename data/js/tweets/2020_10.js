@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 19:03:02 +0000 2020",
+		"id": 1314642543993184300,
+		"id_str": "1314642543993184256",
+		"full_text": "이거 무슨 폰트인지 궁금하다. 봉황없이 텍스쳐 공유해주면 좋겠다. https://t.co/x30hrHW8KJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x30hrHW8KJ",
+					"expanded_url": "https://twitter.com/moonriver365/status/1314354893008723969",
+					"display_url": "twitter.com/moonriver365/s…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 964,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314354893008724000,
+		"quoted_status_id_str": "1314354893008723969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x30hrHW8KJ",
+			"expanded": "https://twitter.com/moonriver365/status/1314354893008723969",
+			"display": "twitter.com/moonriver365/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 09 00:00:00 +0000 2020",
+			"id": 1314354893008724000,
+			"id_str": "1314354893008723969",
+			"full_text": "한글에 깃든 더불어 사는 세상의 꿈 https://t.co/85B8xtjvES",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				19
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1314341842104672300,
+						"id_str": "1314341842104672257",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej168RQU4AEH4OU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej168RQU4AEH4OU.jpg",
+						"url": "https://t.co/85B8xtjvES",
+						"display_url": "pic.twitter.com/85B8xtjvES",
+						"expanded_url": "https://twitter.com/moonriver365/status/1314354893008723969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 622,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 352,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1061,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314341842104672300,
+						"id_str": "1314341842104672257",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej168RQU4AEH4OU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej168RQU4AEH4OU.jpg",
+						"url": "https://t.co/85B8xtjvES",
+						"display_url": "pic.twitter.com/85B8xtjvES",
+						"expanded_url": "https://twitter.com/moonriver365/status/1314354893008723969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 622,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 352,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1061,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 444465942,
+				"id_str": "444465942",
+				"name": "문재인",
+				"screen_name": "moonriver365",
+				"location": "대한민국",
+				"description": "대한민국 대통령 문재인입니다. President of the Republic of Korea. 나라다운 나라를 만들기 위해 국민여러분과 함께 하겠습니다. @thebluehousekr @TheBlueHouseENG",
+				"url": "https://t.co/FAKWOwyhHd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FAKWOwyhHd",
+								"expanded_url": "http://www.president.go.kr",
+								"display_url": "president.go.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1817671,
+				"friends_count": 143233,
+				"listed_count": 7573,
+				"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+				"favourites_count": 717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1583716608",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4137,
+			"favorite_count": 8214,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 무슨 폰트인지 궁금하다. 봉황없이 텍스쳐 공유해주면 좋겠다. https://t.co/x30hrHW8KJ"
+	},
+	{
 		"created_at": "Fri Oct 09 18:45:37 +0000 2020",
 		"id": 1314634234196299800,
 		"id_str": "1314638162560462848",
