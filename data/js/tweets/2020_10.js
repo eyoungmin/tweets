@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 20:54:08 +0000 2020",
+		"id": 1314670506520449000,
+		"id_str": "1314670506520449029",
+		"full_text": "@esquirekr 슬기님, 스타일링 할 때 자신만의 소신(?) 같은 것이 있다면 무엇인가요? 색감이나 소재, 포인트 되는 악세사리를 잘 활용하시는데 좋아하는 컬러나 원단 소재가 있으신지 궁금합니다. 그리고 요새 꽂혀있는 스타일이 있으신지 궁금해요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "esquirekr",
+					"name": "ESQUIRE Korea",
+					"id": 174477812,
+					"id_str": "174477812",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1313734911358988300,
+		"in_reply_to_status_id_str": "1313734911358988288",
+		"in_reply_to_user_id": 174477812,
+		"in_reply_to_user_id_str": "174477812",
+		"in_reply_to_screen_name": "esquirekr",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 964,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@esquirekr 슬기님, 스타일링 할 때 자신만의 소신(?) 같은 것이 있다면 무엇인가요? 색감이나 소재, 포인트 되는 악세사리를 잘 활용하시는데 좋아하는 컬러나 원단 소재가 있으신지 궁금합니다. 그리고 요새 꽂혀있는 스타일이 있으신지 궁금해요."
+	},
+	{
 		"created_at": "Fri Oct 09 19:03:02 +0000 2020",
 		"id": 1314642543993184300,
 		"id_str": "1314642543993184256",
