@@ -1,6 +1,785 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 00:49:34 +0000 2020",
+		"id": 1314276455279452200,
+		"id_str": "1314367366642372608",
+		"full_text": "A big thanks from @ygofficialblink to all #BLINKS #SpotifyCharts https://t.co/e4692PjWi7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLINKS",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "SpotifyCharts",
+					"indices": [
+						50,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314276110159544300,
+					"id_str": "1314276110159544324",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314276110159544324/pu/img/tcgb36VovpFgZoyj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314276110159544324/pu/img/tcgb36VovpFgZoyj.jpg",
+					"url": "https://t.co/e4692PjWi7",
+					"display_url": "pic.twitter.com/e4692PjWi7",
+					"expanded_url": "https://twitter.com/spotifycharts/status/1314276455279452161/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314276110159544300,
+					"id_str": "1314276110159544324",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314276110159544324/pu/img/tcgb36VovpFgZoyj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314276110159544324/pu/img/tcgb36VovpFgZoyj.jpg",
+					"url": "https://t.co/e4692PjWi7",
+					"display_url": "pic.twitter.com/e4692PjWi7",
+					"expanded_url": "https://twitter.com/spotifycharts/status/1314276455279452161/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22314,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314276110159544324/pu/vid/320x320/z5DOp2QJjbczR02m.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314276110159544324/pu/vid/480x480/lGguQjm0MBNA-o7_.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314276110159544324/pu/vid/720x720/ECY8i5q9Qs-reC4R.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314276110159544324/pu/pl/IiGjwod3QrslYZl-.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1314007604020998100,
+		"in_reply_to_status_id_str": "1314007604020998144",
+		"in_reply_to_user_id": 1305536251110588400,
+		"in_reply_to_user_id_str": "1305536251110588416",
+		"in_reply_to_screen_name": "spotifycharts",
+		"user": {
+			"id": 1305536251110588400,
+			"id_str": "1305536251110588416",
+			"name": "Spotify Charts",
+			"screen_name": "spotifycharts",
+			"location": "",
+			"description": "A snapshot of what music fans are loving around the world, powered by @Spotify. \nNew weekly charts posted every Monday 📈 #SpotifyCharts",
+			"url": "https://t.co/P6yOb75vrz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6yOb75vrz",
+							"expanded_url": "http://spotify.com",
+							"display_url": "spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17605,
+			"friends_count": 95,
+			"listed_count": 54,
+			"created_at": "Mon Sep 14 15:58:27 +0000 2020",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311394846817619969/W_WHDpPV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311394846817619969/W_WHDpPV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1305536251110588416/1601495906",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2103,
+		"favorite_count": 4935,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A big thanks from @ygofficialblink to all #BLINKS #SpotifyCharts https://t.co/e4692PjWi7"
+	},
+	{
+		"created_at": "Fri Oct 09 00:49:31 +0000 2020",
+		"id": 1314007604020998100,
+		"id_str": "1314367354273296384",
+		"full_text": "Congrats #BLACKPINK for reaching #1 on both Top 10 Global Album &amp; Song Debuts this past weekend 📈 #SpotifyCharts #SpotifyxBLACKPINK https://t.co/zUGkevHAIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "SpotifyCharts",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "SpotifyxBLACKPINK",
+					"indices": [
+						117,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313936685537861600,
+					"id_str": "1313936685537861636",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EjwKdDbWoAQOnKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjwKdDbWoAQOnKN.jpg",
+					"url": "https://t.co/zUGkevHAIJ",
+					"display_url": "pic.twitter.com/zUGkevHAIJ",
+					"expanded_url": "https://twitter.com/spotifycharts/status/1314007604020998144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313936685537861600,
+					"id_str": "1313936685537861636",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EjwKdDbWoAQOnKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjwKdDbWoAQOnKN.jpg",
+					"url": "https://t.co/zUGkevHAIJ",
+					"display_url": "pic.twitter.com/zUGkevHAIJ",
+					"expanded_url": "https://twitter.com/spotifycharts/status/1314007604020998144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1305536251110588400,
+			"id_str": "1305536251110588416",
+			"name": "Spotify Charts",
+			"screen_name": "spotifycharts",
+			"location": "",
+			"description": "A snapshot of what music fans are loving around the world, powered by @Spotify. \nNew weekly charts posted every Monday 📈 #SpotifyCharts",
+			"url": "https://t.co/P6yOb75vrz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6yOb75vrz",
+							"expanded_url": "http://spotify.com",
+							"display_url": "spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17605,
+			"friends_count": 95,
+			"listed_count": 54,
+			"created_at": "Mon Sep 14 15:58:27 +0000 2020",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311394846817619969/W_WHDpPV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311394846817619969/W_WHDpPV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1305536251110588416/1601495906",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6626,
+		"favorite_count": 16206,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats #BLACKPINK for reaching #1 on both Top 10 Global Album &amp; Song Debuts this past weekend 📈 #SpotifyCharts #SpotifyxBLACKPINK https://t.co/zUGkevHAIJ"
+	},
+	{
+		"created_at": "Fri Oct 09 00:48:30 +0000 2020",
+		"id": 1314302407547920400,
+		"id_str": "1314367099389632512",
+		"full_text": "Watch Billie’s performance of “No Time To Die” live from @FallonTonight from James Bond Day. @007 https://t.co/yXWHTXbjUr https://t.co/ZOKgVkAcY3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FallonTonight",
+					"name": "The Tonight Show",
+					"id": 19777398,
+					"id_str": "19777398",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "007",
+					"name": "James Bond",
+					"id": 389229444,
+					"id_str": "389229444",
+					"indices": [
+						93,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yXWHTXbjUr",
+					"expanded_url": "https://youtu.be/s-ltmarIBP8",
+					"display_url": "youtu.be/s-ltmarIBP8",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314302334168518700,
+					"id_str": "1314302334168518656",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314302334168518656/pu/img/jP2l87Tgeu6w22t8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314302334168518656/pu/img/jP2l87Tgeu6w22t8.jpg",
+					"url": "https://t.co/ZOKgVkAcY3",
+					"display_url": "pic.twitter.com/ZOKgVkAcY3",
+					"expanded_url": "https://twitter.com/billieeilish/status/1314302407547920384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314302334168518700,
+					"id_str": "1314302334168518656",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314302334168518656/pu/img/jP2l87Tgeu6w22t8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314302334168518656/pu/img/jP2l87Tgeu6w22t8.jpg",
+					"url": "https://t.co/ZOKgVkAcY3",
+					"display_url": "pic.twitter.com/ZOKgVkAcY3",
+					"expanded_url": "https://twitter.com/billieeilish/status/1314302407547920384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 47042,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314302334168518656/pu/vid/320x320/3W5cM9Rg0yZ57M1n.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314302334168518656/pu/vid/480x480/0HXETVH9x0yKfwRF.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314302334168518656/pu/vid/720x720/v_qxVhWXsH_zifnd.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314302334168518656/pu/pl/mqRiw4_61NvJx7H_.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4954696,
+			"friends_count": 0,
+			"listed_count": 2905,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288897450313359360/NH44P9Ta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288897450313359360/NH44P9Ta_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1596150664",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2587,
+		"favorite_count": 18697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Billie’s performance of “No Time To Die” live from @FallonTonight from James Bond Day. @007 https://t.co/yXWHTXbjUr https://t.co/ZOKgVkAcY3"
+	},
+	{
+		"created_at": "Fri Oct 09 00:25:00 +0000 2020",
+		"id": 1314015152526819300,
+		"id_str": "1314361182229151744",
+		"full_text": "\"'이이효재 쌤(선생님)이나 긴즈버그를 보면 90세가 넘도록 평생을 싸우셨는데, 과대 스포트라이트를 받고 고작 몇년 싸웠다고 힘들다하지 말자'. 90세가 넘도록 살 자신은 없지만, 평생 싸워는 봐야겠다\"\n\nhttps://t.co/8CCDFmo5sJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8CCDFmo5sJ",
+					"expanded_url": "https://news.khan.kr/cxYk",
+					"display_url": "news.khan.kr/cxYk",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722010,
+			"friends_count": 77618,
+			"listed_count": 5917,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 827,
+		"favorite_count": 627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"'이이효재 쌤(선생님)이나 긴즈버그를 보면 90세가 넘도록 평생을 싸우셨는데, 과대 스포트라이트를 받고 고작 몇년 싸웠다고 힘들다하지 말자'. 90세가 넘도록 살 자신은 없지만, 평생 싸워는 봐야겠다\"\n\nhttps://t.co/8CCDFmo5sJ"
+	},
+	{
 		"created_at": "Thu Oct 08 21:20:10 +0000 2020",
 		"id": 1314168130839605200,
 		"id_str": "1314314670178594816",
