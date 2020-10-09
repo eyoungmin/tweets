@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 16:24:11 +0000 2020",
+		"id": 1314602571667918800,
+		"id_str": "1314602571667918848",
+		"full_text": "웹이나 소셜미디어에 대해 생각이 점점 잘못생각했던 것은 아닐까 싶어진다. 검색제한도 잘 생각해보면 장점이자 단점임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1314602264439398400,
+		"in_reply_to_status_id_str": "1314602264439398403",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 964,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "웹이나 소셜미디어에 대해 생각이 점점 잘못생각했던 것은 아닐까 싶어진다. 검색제한도 잘 생각해보면 장점이자 단점임."
+	},
+	{
+		"created_at": "Fri Oct 09 16:22:58 +0000 2020",
+		"id": 1314602264439398400,
+		"id_str": "1314602264439398403",
+		"full_text": "트위터 대안인 마스토돈이 검색제한을 기본(Default)으로 했는지, 왜 이렇게 서비스를 기획했는지 의도가 새삼 이해됨. 물론 나는 오픈SNS 커뮤니티를 지향하는 사람이라 트위터를 좋아하지만서도 트롤링이나 말도 안되는 주장이 본인 지인이나 무리로부터 둥기둥기 되고 조리돌림 당한다는 점에서.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 964,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 대안인 마스토돈이 검색제한을 기본(Default)으로 했는지, 왜 이렇게 서비스를 기획했는지 의도가 새삼 이해됨. 물론 나는 오픈SNS 커뮤니티를 지향하는 사람이라 트위터를 좋아하지만서도 트롤링이나 말도 안되는 주장이 본인 지인이나 무리로부터 둥기둥기 되고 조리돌림 당한다는 점에서."
+	},
+	{
+		"created_at": "Fri Oct 09 16:12:57 +0000 2020",
+		"id": 1314528535198011400,
+		"id_str": "1314599741527744512",
+		"full_text": "'아이돌 투자금 사기' 가수 조PD 유죄 확정…집행유예\nhttps://t.co/fBZY1cJD7T\n\n아이돌그룹에 대한 투자금을 부풀려 사기 등 혐의로 기소된 가수 겸 프로듀서 조PD(본명 조중훈·44)에게 집행유예가 확정됐습니다 https://t.co/ZGswVIqfYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fBZY1cJD7T",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20201009049400004?input=tw",
+					"display_url": "yna.co.kr/view/AKR202010…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314466587013869600,
+					"id_str": "1314466587013869570",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej3sZYQU8AIcYOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej3sZYQU8AIcYOr.jpg",
+					"url": "https://t.co/ZGswVIqfYm",
+					"display_url": "pic.twitter.com/ZGswVIqfYm",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1314528535198011392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314466587013869600,
+					"id_str": "1314466587013869570",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej3sZYQU8AIcYOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej3sZYQU8AIcYOr.jpg",
+					"url": "https://t.co/ZGswVIqfYm",
+					"display_url": "pic.twitter.com/ZGswVIqfYm",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1314528535198011392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 318893,
+			"friends_count": 69673,
+			"listed_count": 4486,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 222157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'아이돌 투자금 사기' 가수 조PD 유죄 확정…집행유예\nhttps://t.co/fBZY1cJD7T\n\n아이돌그룹에 대한 투자금을 부풀려 사기 등 혐의로 기소된 가수 겸 프로듀서 조PD(본명 조중훈·44)에게 집행유예가 확정됐습니다 https://t.co/ZGswVIqfYm"
+	},
+	{
 		"created_at": "Fri Oct 09 16:01:55 +0000 2020",
 		"id": 1314596968388153300,
 		"id_str": "1314596968388153344",
@@ -752,7 +1110,7 @@ Grailbird.data.tweets_2020_10 =
 		"created_at": "Fri Oct 09 15:36:07 +0000 2020",
 		"id": 1314476397339893800,
 		"id_str": "1314590473390944259",
-		"full_text": "강남역 11번 출구 SPAO 건물 (10번 출구 지오다노, 카카오프렌즈샵 맞은 편) 에 차별금지법 제정 광고가 게시되었다고 합니다🏳️‍🌈🏳️‍🌈\n\n#차별금지법_제정하라! https://t.co/Tgx0mwN5pi",
+		"full_text": "강남역 11번 출구 SPAO 건물 (10번 출구 지오다노, 카카오프렌즈샵 맞은 편) 에 차별금지법 제정 광고가 게시되었다고 합니다🏳️🌈🏳️🌈\n\n#차별금지법_제정하라! https://t.co/Tgx0mwN5pi",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -946,7 +1304,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "강남역 11번 출구 SPAO 건물 (10번 출구 지오다노, 카카오프렌즈샵 맞은 편) 에 차별금지법 제정 광고가 게시되었다고 합니다🏳️‍🌈🏳️‍🌈\n\n#차별금지법_제정하라! https://t.co/Tgx0mwN5pi"
+		"text": "강남역 11번 출구 SPAO 건물 (10번 출구 지오다노, 카카오프렌즈샵 맞은 편) 에 차별금지법 제정 광고가 게시되었다고 합니다🏳️🌈🏳️🌈\n\n#차별금지법_제정하라! https://t.co/Tgx0mwN5pi"
 	},
 	{
 		"created_at": "Fri Oct 09 15:35:55 +0000 2020",
