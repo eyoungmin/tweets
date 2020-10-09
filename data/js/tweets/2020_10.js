@@ -1,6 +1,818 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 15:06:04 +0000 2020",
+		"id": 1314582913397088300,
+		"id_str": "1314582913397088256",
+		"full_text": "수현 솔로 나오는구나 😃",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 964,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "수현 솔로 나오는구나 😃"
+	},
+	{
+		"created_at": "Fri Oct 09 15:05:14 +0000 2020",
+		"id": 1313494296398565400,
+		"id_str": "1314582701383380994",
+		"full_text": "LEE SUHYUN ‘ALIEN’ TITLE POSTER\n\n1st Single\n✅2020.10.16 6PM\n\n#이수현 #LEESUHYUN #1stSingle #ALIEN #TitlePoster #Release #20201016_6PM #YG https://t.co/r7cLTxwTBT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수현",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "LEESUHYUN",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "1stSingle",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "ALIEN",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "TitlePoster",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "20201016_6PM",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						131,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313490935876026400,
+					"id_str": "1313490935876026380",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejp1DAiWAAwAyvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejp1DAiWAAwAyvZ.jpg",
+					"url": "https://t.co/r7cLTxwTBT",
+					"display_url": "pic.twitter.com/r7cLTxwTBT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1313494296398565376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313490935876026400,
+					"id_str": "1313490935876026380",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejp1DAiWAAwAyvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejp1DAiWAAwAyvZ.jpg",
+					"url": "https://t.co/r7cLTxwTBT",
+					"display_url": "pic.twitter.com/r7cLTxwTBT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1313494296398565376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6806081,
+			"friends_count": 38,
+			"listed_count": 6886,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13051,
+		"favorite_count": 52106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LEE SUHYUN ‘ALIEN’ TITLE POSTER\n\n1st Single\n✅2020.10.16 6PM\n\n#이수현 #LEESUHYUN #1stSingle #ALIEN #TitlePoster #Release #20201016_6PM #YG https://t.co/r7cLTxwTBT"
+	},
+	{
+		"created_at": "Fri Oct 09 15:05:03 +0000 2020",
+		"id": 1314581516618354700,
+		"id_str": "1314582656202407936",
+		"full_text": "LEE SUHYUN ‘ALIEN’ COUNTDOWN PARTY\n\n📺 2020.10.16 5:30PM (KST) on AKMU V live Channel\n\n#이수현 #LEESUHYUN #1stSingle #ALIEN #CountdownParty #Vlive #20201016_530PM #Release #20201016_6PM #YG https://t.co/FtLrZBozMU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수현",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "LEESUHYUN",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "1stSingle",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "ALIEN",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "CountdownParty",
+					"indices": [
+						120,
+						135
+					]
+				},
+				{
+					"text": "Vlive",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "20201016_530PM",
+					"indices": [
+						143,
+						158
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "20201016_6PM",
+					"indices": [
+						168,
+						181
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						182,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314580242925719600,
+					"id_str": "1314580242925719553",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5TxBhVkAE6RuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5TxBhVkAE6RuV.jpg",
+					"url": "https://t.co/FtLrZBozMU",
+					"display_url": "pic.twitter.com/FtLrZBozMU",
+					"expanded_url": "https://twitter.com/ygent_official/status/1314581516618354691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314580242925719600,
+					"id_str": "1314580242925719553",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5TxBhVkAE6RuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5TxBhVkAE6RuV.jpg",
+					"url": "https://t.co/FtLrZBozMU",
+					"display_url": "pic.twitter.com/FtLrZBozMU",
+					"expanded_url": "https://twitter.com/ygent_official/status/1314581516618354691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6806081,
+			"friends_count": 38,
+			"listed_count": 6886,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2976,
+		"favorite_count": 9129,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "LEE SUHYUN ‘ALIEN’ COUNTDOWN PARTY\n\n📺 2020.10.16 5:30PM (KST) on AKMU V live Channel\n\n#이수현 #LEESUHYUN #1stSingle #ALIEN #CountdownParty #Vlive #20201016_530PM #Release #20201016_6PM #YG https://t.co/FtLrZBozMU"
+	},
+	{
+		"created_at": "Fri Oct 09 15:05:02 +0000 2020",
+		"id": 1314415419797598200,
+		"id_str": "1314582649298509824",
+		"full_text": "LEE SUHYUN ‘ALIEN’ CREDIT POSTER\n\n1st Single\n✅2020.10.16 6PM\n\n#LEESUHYUN #1stSingle #ALIEN #CreditPoster #Release #20201016_6PM #YG https://t.co/d7crZGuDdD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEESUHYUN",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "1stSingle",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "ALIEN",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "CreditPoster",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "20201016_6PM",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						128,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314412958852673500,
+					"id_str": "1314412958852673540",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej27nzyVcAQ8cJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej27nzyVcAQ8cJa.jpg",
+					"url": "https://t.co/d7crZGuDdD",
+					"display_url": "pic.twitter.com/d7crZGuDdD",
+					"expanded_url": "https://twitter.com/ygent_official/status/1314415419797598208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314412958852673500,
+					"id_str": "1314412958852673540",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej27nzyVcAQ8cJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej27nzyVcAQ8cJa.jpg",
+					"url": "https://t.co/d7crZGuDdD",
+					"display_url": "pic.twitter.com/d7crZGuDdD",
+					"expanded_url": "https://twitter.com/ygent_official/status/1314415419797598208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6806081,
+			"friends_count": 38,
+			"listed_count": 6886,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14481,
+		"favorite_count": 52525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LEE SUHYUN ‘ALIEN’ CREDIT POSTER\n\n1st Single\n✅2020.10.16 6PM\n\n#LEESUHYUN #1stSingle #ALIEN #CreditPoster #Release #20201016_6PM #YG https://t.co/d7crZGuDdD"
+	},
+	{
 		"created_at": "Fri Oct 09 14:59:12 +0000 2020",
 		"id": 1314581182231785500,
 		"id_str": "1314581182231785474",
