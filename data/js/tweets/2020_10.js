@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 18:45:37 +0000 2020",
+		"id": 1314634234196299800,
+		"id_str": "1314638162560462848",
+		"full_text": "[KCON:TACT season 2] LIVE PREMIERE w #LOONA\n\nAre you ready to watch \n@loonatheworld\n at #KCONTACT 's first LIVE PREMIERE?!\n\nDon't forget to check it out for free at KCON official's YT channel!\n\n▶ KCON official: https://t.co/PiuQFbs71S\n▶ Mnet K-POP: https://t.co/cHWmhYv2EF\n#KCON https://t.co/KCuNl0iAJH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						273,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						69,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PiuQFbs71S",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						211,
+						234
+					]
+				},
+				{
+					"url": "https://t.co/cHWmhYv2EF",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314591293201244200,
+					"id_str": "1314591293201244160",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5eECAU0AAWnP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5eECAU0AAWnP0.jpg",
+					"url": "https://t.co/KCuNl0iAJH",
+					"display_url": "pic.twitter.com/KCuNl0iAJH",
+					"expanded_url": "https://twitter.com/kconusa/status/1314634234196299780/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314591293201244200,
+					"id_str": "1314591293201244160",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5eECAU0AAWnP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5eECAU0AAWnP0.jpg",
+					"url": "https://t.co/KCuNl0iAJH",
+					"display_url": "pic.twitter.com/KCuNl0iAJH",
+					"expanded_url": "https://twitter.com/kconusa/status/1314634234196299780/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19603,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314591293201244160/vid/480x270/PSS5eTZdR5IP3o2J.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314591293201244160/vid/640x360/V767BFy86Nf-2mMz.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314591293201244160/vid/1280x720/A2EzyNZ4orV31yfw.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1314591293201244160/pl/zwvktw18EADbM2uO.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188407,
+			"friends_count": 3,
+			"listed_count": 398,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1600452142",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE PREMIERE w #LOONA\n\nAre you ready to watch \n@loonatheworld\n at #KCONTACT 's first LIVE PREMIERE?!\n\nDon't forget to check it out for free at KCON official's YT channel!\n\n▶ KCON official: https://t.co/PiuQFbs71S\n▶ Mnet K-POP: https://t.co/cHWmhYv2EF\n#KCON https://t.co/KCuNl0iAJH"
+	},
+	{
 		"created_at": "Fri Oct 09 17:45:37 +0000 2020",
 		"id": 1314619134018166800,
 		"id_str": "1314623061723934725",
