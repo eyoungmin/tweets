@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 08:45:41 +0000 2020",
+		"id": 1314483292339499000,
+		"id_str": "1314487183005319168",
+		"full_text": "[🍓인턴일지]\n요새 뮤플리는 #이달의소녀 회사에서\n인턴으로 투잡 뛰는 중 ~ !\n\n앞으로 인턴 생활하며 있었던 일들을\n오빛 여러분께 낱낱이 전달드릴게요🙋\n\n#딸기벽돌엔터 https://t.co/PoU5DtYP3G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "딸기벽돌엔터",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314440430021296000,
+					"id_str": "1314440430021296128",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej3Um13UwAAQi7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej3Um13UwAAQi7l.jpg",
+					"url": "https://t.co/PoU5DtYP3G",
+					"display_url": "pic.twitter.com/PoU5DtYP3G",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1314483292339499008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314440430021296000,
+					"id_str": "1314440430021296128",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej3Um13UwAAQi7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej3Um13UwAAQi7l.jpg",
+					"url": "https://t.co/PoU5DtYP3G",
+					"display_url": "pic.twitter.com/PoU5DtYP3G",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1314483292339499008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16410,
+			"friends_count": 58,
+			"listed_count": 28,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🍓인턴일지]\n요새 뮤플리는 #이달의소녀 회사에서\n인턴으로 투잡 뛰는 중 ~ !\n\n앞으로 인턴 생활하며 있었던 일들을\n오빛 여러분께 낱낱이 전달드릴게요🙋\n\n#딸기벽돌엔터 https://t.co/PoU5DtYP3G"
+	},
+	{
+		"created_at": "Fri Oct 09 08:27:05 +0000 2020",
+		"id": 1314475692348895200,
+		"id_str": "1314482502103437313",
+		"full_text": "이달소가 회사 차린 거 앎? 😎\n\n#딸기벽돌엔터 직원이 된 \n아이돌의 좌충우돌 컴백 준비기\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓 10월 16일 저녁 5시 첫 방송 🍓\n\n#B_Side2_이달의소녀 \n#B_Side2_LOOΠΔ\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/oZT8VsN7EE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딸기벽돌엔터",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						158,
+						172
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314420817841676300,
+					"id_str": "1314420817841676288",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej3CxQzU4AAscOq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej3CxQzU4AAscOq.jpg",
+					"url": "https://t.co/oZT8VsN7EE",
+					"display_url": "pic.twitter.com/oZT8VsN7EE",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1314475692348895233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1434,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314420817841676300,
+					"id_str": "1314420817841676288",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej3CxQzU4AAscOq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej3CxQzU4AAscOq.jpg",
+					"url": "https://t.co/oZT8VsN7EE",
+					"display_url": "pic.twitter.com/oZT8VsN7EE",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1314475692348895233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1434,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16410,
+			"friends_count": 58,
+			"listed_count": 28,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1112,
+		"favorite_count": 2750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달소가 회사 차린 거 앎? 😎\n\n#딸기벽돌엔터 직원이 된 \n아이돌의 좌충우돌 컴백 준비기\n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓 10월 16일 저녁 5시 첫 방송 🍓\n\n#B_Side2_이달의소녀 \n#B_Side2_LOOΠΔ\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/oZT8VsN7EE"
+	},
+	{
 		"created_at": "Fri Oct 09 07:16:22 +0000 2020",
 		"id": 1314464705566642200,
 		"id_str": "1314464705566642176",
