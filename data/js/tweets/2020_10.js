@@ -1,6 +1,1464 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 12:32:32 +0000 2020",
+		"id": 1314311113694015500,
+		"id_str": "1314544272553598976",
+		"full_text": "에어비엔비에서 온라인 K-pop 댄스 수업 운영하는 팬시스튜디오 (인터뷰) https://t.co/76ayIJkeQZ https://t.co/bEeffThEgp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/76ayIJkeQZ",
+					"expanded_url": "https://techneedle.com/archives/40416?utm_source=dlvr.it&utm_medium=twitter",
+					"display_url": "techneedle.com/archives/40416…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314311112037265400,
+					"id_str": "1314311112037265409",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej1e_i1UcAEz8ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej1e_i1UcAEz8ky.jpg",
+					"url": "https://t.co/bEeffThEgp",
+					"display_url": "pic.twitter.com/bEeffThEgp",
+					"expanded_url": "https://twitter.com/techneedle/status/1314311113694015488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314311112037265400,
+					"id_str": "1314311112037265409",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej1e_i1UcAEz8ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej1e_i1UcAEz8ky.jpg",
+					"url": "https://t.co/bEeffThEgp",
+					"display_url": "pic.twitter.com/bEeffThEgp",
+					"expanded_url": "https://twitter.com/techneedle/status/1314311113694015488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 570240684,
+			"id_str": "570240684",
+			"name": "techneedle",
+			"screen_name": "techneedle",
+			"location": "",
+			"description": "실리콘 밸리를 중심으로 한 해외의 IT 관련 소식",
+			"url": "http://t.co/11DwOFFPIz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/11DwOFFPIz",
+							"expanded_url": "http://techneedle.com",
+							"display_url": "techneedle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62626,
+			"friends_count": 4,
+			"listed_count": 407,
+			"created_at": "Thu May 03 17:50:25 +0000 2012",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632981865960345600/W6pMkiVo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632981865960345600/W6pMkiVo_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에어비엔비에서 온라인 K-pop 댄스 수업 운영하는 팬시스튜디오 (인터뷰) https://t.co/76ayIJkeQZ https://t.co/bEeffThEgp"
+	},
+	{
+		"created_at": "Fri Oct 09 12:31:55 +0000 2020",
+		"id": 1314387945776840700,
+		"id_str": "1314544120094838784",
+		"full_text": "&gt;&gt;HS봄바람체 3.0 공개&lt;&lt;\n한글날을 맞이해 HS봄바람체의 3번째 버전이\n공개되었습니다\n\n이런 고품격 폰트를 무료로 만들어주시다니\n개발자님께 진심으로 감사드립니다 \n\n상업적 그래픽 작업에 무료로 사용가능한 라이선스이니\n안심하게 사용하세요 : )\nhttps://t.co/om8u7hHsAh https://t.co/nAIZVWSeUZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/om8u7hHsAh",
+					"expanded_url": "http://blog.naver.com/hp0/222110675133",
+					"display_url": "blog.naver.com/hp0/2221106751…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314387167137865700,
+					"id_str": "1314387167137865730",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej2kKiKVoAIYpbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej2kKiKVoAIYpbL.jpg",
+					"url": "https://t.co/nAIZVWSeUZ",
+					"display_url": "pic.twitter.com/nAIZVWSeUZ",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1314387945776840704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314387167137865700,
+					"id_str": "1314387167137865730",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej2kKiKVoAIYpbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej2kKiKVoAIYpbL.jpg",
+					"url": "https://t.co/nAIZVWSeUZ",
+					"display_url": "pic.twitter.com/nAIZVWSeUZ",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1314387945776840704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314387194371428400,
+					"id_str": "1314387194371428353",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej2kMHnU0AEsD5I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej2kMHnU0AEsD5I.jpg",
+					"url": "https://t.co/nAIZVWSeUZ",
+					"display_url": "pic.twitter.com/nAIZVWSeUZ",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1314387945776840704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 966,
+							"h": 990,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 990,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314387218589388800,
+					"id_str": "1314387218589388800",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej2kNh1VkAA9_5v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej2kNh1VkAA9_5v.jpg",
+					"url": "https://t.co/nAIZVWSeUZ",
+					"display_url": "pic.twitter.com/nAIZVWSeUZ",
+					"expanded_url": "https://twitter.com/chaeumbooks/status/1314387945776840704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 556,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1868,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865973278493466600,
+			"id_str": "865973278493466624",
+			"name": "윤고선",
+			"screen_name": "chaeumbooks",
+			"location": "대한민국 서울",
+			"description": "단짝 친구 처럼 편집&디자인 관련 알짜 정보와 노하우를 무한으로 공유합니다.  (๑˃̵ᴗ˂̵)و \n강의상담  https://t.co/fLCq1jJjYr",
+			"url": "https://t.co/RcSO0Ujw13",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RcSO0Ujw13",
+							"expanded_url": "http://blog.naver.com/midorisoo",
+							"display_url": "blog.naver.com/midorisoo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLCq1jJjYr",
+							"expanded_url": "http://open.kakao.com/o/spFkrZeb",
+							"display_url": "open.kakao.com/o/spFkrZeb",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7622,
+			"friends_count": 35,
+			"listed_count": 36,
+			"created_at": "Sat May 20 16:51:33 +0000 2017",
+			"favourites_count": 387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256583707843899392/D5ARDaYZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256583707843899392/D5ARDaYZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865973278493466624/1573567837",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1193,
+		"favorite_count": 626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&gt;&gt;HS봄바람체 3.0 공개&lt;&lt;\n한글날을 맞이해 HS봄바람체의 3번째 버전이\n공개되었습니다\n\n이런 고품격 폰트를 무료로 만들어주시다니\n개발자님께 진심으로 감사드립니다 \n\n상업적 그래픽 작업에 무료로 사용가능한 라이선스이니\n안심하게 사용하세요 : )\nhttps://t.co/om8u7hHsAh https://t.co/nAIZVWSeUZ"
+	},
+	{
+		"created_at": "Fri Oct 09 12:28:01 +0000 2020",
+		"id": 1314483629502861300,
+		"id_str": "1314543136488648704",
+		"full_text": "삼성 출신 스타트업 대표가 12억 날리며 깨달은 것 https://t.co/QWRya0P51T 최병익 쿨잼컴퍼니 대표의 테헤란로커피클럽 발표 내용을 아주 자세히 전한 플래텀 기사. https://t.co/Y7G7eWhf7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QWRya0P51T",
+					"expanded_url": "https://platum.kr/archives/149868",
+					"display_url": "platum.kr/archives/149868",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314483617322557400,
+					"id_str": "1314483617322557441",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej374rGU4AEIE6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej374rGU4AEIE6x.jpg",
+					"url": "https://t.co/Y7G7eWhf7I",
+					"display_url": "pic.twitter.com/Y7G7eWhf7I",
+					"expanded_url": "https://twitter.com/estima7/status/1314483629502861312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314483617322557400,
+					"id_str": "1314483617322557441",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej374rGU4AEIE6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej374rGU4AEIE6x.jpg",
+					"url": "https://t.co/Y7G7eWhf7I",
+					"display_url": "pic.twitter.com/Y7G7eWhf7I",
+					"expanded_url": "https://twitter.com/estima7/status/1314483629502861312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367455,
+			"friends_count": 2265,
+			"listed_count": 4452,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "삼성 출신 스타트업 대표가 12억 날리며 깨달은 것 https://t.co/QWRya0P51T 최병익 쿨잼컴퍼니 대표의 테헤란로커피클럽 발표 내용을 아주 자세히 전한 플래텀 기사. https://t.co/Y7G7eWhf7I"
+	},
+	{
+		"created_at": "Fri Oct 09 12:26:34 +0000 2020",
+		"id": 1314536412704727000,
+		"id_str": "1314542772318138368",
+		"full_text": "구글 웨이모가 애리조나 피닉스에서 수백명의 한정된 사람들에게 제공하던 완전 무인 로봇택시 서비스를 모든 시민에게 오픈한다고 발표 https://t.co/irxlmYtucf 이제 자신이 붙은 듯. 다음 단계는 미국내 다른 도시로의 확장. https://t.co/e68DRxC3ja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/irxlmYtucf",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2020-10-08/waymo-one-app-offers-driverless-alternative-to-uber-in-arizona",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314536406568431600,
+					"id_str": "1314536406568431617",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej4r5aXUcAEKFcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej4r5aXUcAEKFcK.jpg",
+					"url": "https://t.co/e68DRxC3ja",
+					"display_url": "pic.twitter.com/e68DRxC3ja",
+					"expanded_url": "https://twitter.com/estima7/status/1314536412704727040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314536406568431600,
+					"id_str": "1314536406568431617",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej4r5aXUcAEKFcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej4r5aXUcAEKFcK.jpg",
+					"url": "https://t.co/e68DRxC3ja",
+					"display_url": "pic.twitter.com/e68DRxC3ja",
+					"expanded_url": "https://twitter.com/estima7/status/1314536412704727040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367455,
+			"friends_count": 2265,
+			"listed_count": 4452,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 웨이모가 애리조나 피닉스에서 수백명의 한정된 사람들에게 제공하던 완전 무인 로봇택시 서비스를 모든 시민에게 오픈한다고 발표 https://t.co/irxlmYtucf 이제 자신이 붙은 듯. 다음 단계는 미국내 다른 도시로의 확장. https://t.co/e68DRxC3ja"
+	},
+	{
+		"created_at": "Fri Oct 09 12:23:37 +0000 2020",
+		"id": 1314368489298096000,
+		"id_str": "1314542029041332224",
+		"full_text": "10만개의 별 https://t.co/j0ZaxJGl5N \n- WebGL을 이용한 인터랙티브 시각화 웹사이트\n- 우리 태양계 주위의 119,617개의 별을 표시 \n- 마우스로 이동/확대/축소 및 별 이름 클릭 가능 ( 87개의 알려진 별들 )\n- Tour 모드는 태양 부터 점점 밖으로 나아가며 설명 진행 ( 보이저 1호의 위치, 광...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j0ZaxJGl5N",
+					"expanded_url": "https://j.mp/3lknbmO",
+					"display_url": "j.mp/3lknbmO",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4145,
+			"friends_count": 0,
+			"listed_count": 61,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10만개의 별 https://t.co/j0ZaxJGl5N \n- WebGL을 이용한 인터랙티브 시각화 웹사이트\n- 우리 태양계 주위의 119,617개의 별을 표시 \n- 마우스로 이동/확대/축소 및 별 이름 클릭 가능 ( 87개의 알려진 별들 )\n- Tour 모드는 태양 부터 점점 밖으로 나아가며 설명 진행 ( 보이저 1호의 위치, 광..."
+	},
+	{
+		"created_at": "Fri Oct 09 12:23:14 +0000 2020",
+		"id": 1314375576526889000,
+		"id_str": "1314541934514298880",
+		"full_text": "훈민정음 해례본이 글꼴로…574돌 한글날 무료 폰트 4종 https://t.co/smaoUBj4Qm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/smaoUBj4Qm",
+					"expanded_url": "http://www.bloter.net/archives/460272",
+					"display_url": "bloter.net/archives/460272",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54715,
+			"friends_count": 9,
+			"listed_count": 2358,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "훈민정음 해례본이 글꼴로…574돌 한글날 무료 폰트 4종 https://t.co/smaoUBj4Qm"
+	},
+	{
+		"created_at": "Fri Oct 09 12:17:02 +0000 2020",
+		"id": 1314511240421466000,
+		"id_str": "1314540372865945601",
+		"full_text": "Next chapter\nSo!YoON!의 새로운 챕터가 공개됩니다. 1년 5개월만입니다.\n⠀\n2020 ver. new So!YoON! is coming soon https://t.co/keNDuXNRWl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314511168749228000,
+					"id_str": "1314511168749228032",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314511168749228032/pu/img/iCXekkhmpH-1Bnq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314511168749228032/pu/img/iCXekkhmpH-1Bnq1.jpg",
+					"url": "https://t.co/keNDuXNRWl",
+					"display_url": "pic.twitter.com/keNDuXNRWl",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1314511240421466112/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314511168749228000,
+					"id_str": "1314511168749228032",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314511168749228032/pu/img/iCXekkhmpH-1Bnq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314511168749228032/pu/img/iCXekkhmpH-1Bnq1.jpg",
+					"url": "https://t.co/keNDuXNRWl",
+					"display_url": "pic.twitter.com/keNDuXNRWl",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1314511240421466112/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12667,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314511168749228032/pu/vid/480x480/5ViHE4FESLrlyZ65.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314511168749228032/pu/vid/720x720/zoP8QobYsGeA6d4e.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314511168749228032/pu/vid/320x320/NIMpfaXNzYTGxL7T.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314511168749228032/pu/pl/xsSf2mTTiKW1ToYb.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9632,
+			"friends_count": 15,
+			"listed_count": 57,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 226,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "Next chapter\nSo!YoON!의 새로운 챕터가 공개됩니다. 1년 5개월만입니다.\n⠀\n2020 ver. new So!YoON! is coming soon https://t.co/keNDuXNRWl"
+	},
+	{
+		"created_at": "Fri Oct 09 12:04:23 +0000 2020",
+		"id": 1314536088917115000,
+		"id_str": "1314537189124890624",
+		"full_text": "이곳이 찐 카메오 맛집이어라~♡ \n&lt;#좀비탐정&gt; 특별출연 비하인드🎬\n#유재석 #김민경 #에이스 #윌벤져스 #김요한 https://t.co/8Nv7wbUAfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "좀비탐정",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "김민경",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "에이스",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "윌벤져스",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "김요한",
+					"indices": [
+						65,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314007414362894300,
+					"id_str": "1314007414362894336",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EjxQnNEU0AAnbts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjxQnNEU0AAnbts.jpg",
+					"url": "https://t.co/8Nv7wbUAfp",
+					"display_url": "pic.twitter.com/8Nv7wbUAfp",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1314536088917114880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314007414362894300,
+					"id_str": "1314007414362894336",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EjxQnNEU0AAnbts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjxQnNEU0AAnbts.jpg",
+					"url": "https://t.co/8Nv7wbUAfp",
+					"display_url": "pic.twitter.com/8Nv7wbUAfp",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1314536088917114880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 320520,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314007414362894336/vid/1280x720/IfyoucdaMhcrw1DK.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1314007414362894336/pl/Wj7hN1LF1CqfW4O0.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314007414362894336/vid/480x270/4cqW-ESqni7nFgMg.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314007414362894336/vid/640x360/-C-_8WPz3gyw-jY1.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1090117,
+			"friends_count": 58762,
+			"listed_count": 2017,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1601857515",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이곳이 찐 카메오 맛집이어라~♡ \n&lt;#좀비탐정&gt; 특별출연 비하인드🎬\n#유재석 #김민경 #에이스 #윌벤져스 #김요한 https://t.co/8Nv7wbUAfp"
+	},
+	{
 		"created_at": "Fri Oct 09 09:04:26 +0000 2020",
 		"id": 1314491901706469400,
 		"id_str": "1314491901706469377",
