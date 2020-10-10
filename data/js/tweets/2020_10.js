@@ -1,6 +1,766 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 06:30:51 +0000 2020",
+		"id": 1314810925824708600,
+		"id_str": "1314815640285270018",
+		"full_text": "구미호 형제도 호적만 빌려썼다는 게 학계의 정설\n⠀\n매주 [수목] 밤 10시 30분 방송\n#tvN #수목드라마 #구미호뎐 #taleoftheninetailed\n#이동욱 #조보아 #김범 https://t.co/jkWxcBrCi7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvN",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "구미호뎐",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "taleoftheninetailed",
+					"indices": [
+						68,
+						88
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "조보아",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "김범",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314786080118337500,
+					"id_str": "1314786080118337537",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej8lWPDVoAMhZeC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej8lWPDVoAMhZeC.jpg",
+					"url": "https://t.co/jkWxcBrCi7",
+					"display_url": "pic.twitter.com/jkWxcBrCi7",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314810925824708608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314786080118337500,
+					"id_str": "1314786080118337537",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej8lWPDVoAMhZeC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej8lWPDVoAMhZeC.jpg",
+					"url": "https://t.co/jkWxcBrCi7",
+					"display_url": "pic.twitter.com/jkWxcBrCi7",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314810925824708608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 92326,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314786080118337537/vid/480x270/sYlWsEerwHvLl5YN.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314786080118337537/vid/640x360/ODrAPjY4riNTbRL3.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1314786080118337537/pl/snQ7xBQYEehTDGzA.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314786080118337537/vid/1280x720/OOOnsJQ7PJ_elZaR.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔 #청춘기록 #악의꽃 #비밀의숲2 #구미호뎐 #스타트업",
+			"url": "https://t.co/Em6okU1Ysx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Em6okU1Ysx",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 403425,
+			"friends_count": 40,
+			"listed_count": 595,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1599449849",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 176,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구미호 형제도 호적만 빌려썼다는 게 학계의 정설\n⠀\n매주 [수목] 밤 10시 30분 방송\n#tvN #수목드라마 #구미호뎐 #taleoftheninetailed\n#이동욱 #조보아 #김범 https://t.co/jkWxcBrCi7"
+	},
+	{
+		"created_at": "Sat Oct 10 06:30:32 +0000 2020",
+		"id": 1314815561684058000,
+		"id_str": "1314815561684058113",
+		"full_text": "구미호도 민초먹음. 왜냐 민초는 진리니까😋 https://t.co/8999BOrEuI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8999BOrEuI",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1314810925824708608",
+					"display_url": "twitter.com/CJnDrama/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 965,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314810925824708600,
+		"quoted_status_id_str": "1314810925824708608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8999BOrEuI",
+			"expanded": "https://twitter.com/CJnDrama/status/1314810925824708608",
+			"display": "twitter.com/CJnDrama/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 10 06:12:07 +0000 2020",
+			"id": 1314810925824708600,
+			"id_str": "1314810925824708608",
+			"full_text": "구미호 형제도 호적만 빌려썼다는 게 학계의 정설\n⠀\n매주 [수목] 밤 10시 30분 방송\n#tvN #수목드라마 #구미호뎐 #taleoftheninetailed\n#이동욱 #조보아 #김범 https://t.co/jkWxcBrCi7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tvN",
+						"indices": [
+							50,
+							54
+						]
+					},
+					{
+						"text": "수목드라마",
+						"indices": [
+							55,
+							61
+						]
+					},
+					{
+						"text": "구미호뎐",
+						"indices": [
+							62,
+							67
+						]
+					},
+					{
+						"text": "taleoftheninetailed",
+						"indices": [
+							68,
+							88
+						]
+					},
+					{
+						"text": "이동욱",
+						"indices": [
+							89,
+							93
+						]
+					},
+					{
+						"text": "조보아",
+						"indices": [
+							94,
+							98
+						]
+					},
+					{
+						"text": "김범",
+						"indices": [
+							99,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1314786080118337500,
+						"id_str": "1314786080118337537",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej8lWPDVoAMhZeC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej8lWPDVoAMhZeC.jpg",
+						"url": "https://t.co/jkWxcBrCi7",
+						"display_url": "pic.twitter.com/jkWxcBrCi7",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1314810925824708608/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314786080118337500,
+						"id_str": "1314786080118337537",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej8lWPDVoAMhZeC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej8lWPDVoAMhZeC.jpg",
+						"url": "https://t.co/jkWxcBrCi7",
+						"display_url": "pic.twitter.com/jkWxcBrCi7",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1314810925824708608/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 92326,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1314786080118337537/vid/480x270/sYlWsEerwHvLl5YN.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1314786080118337537/vid/640x360/ODrAPjY4riNTbRL3.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1314786080118337537/pl/snQ7xBQYEehTDGzA.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1314786080118337537/vid/1280x720/OOOnsJQ7PJ_elZaR.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335749973,
+				"id_str": "335749973",
+				"name": "tvN 드라마",
+				"screen_name": "CJnDrama",
+				"location": "",
+				"description": "tvN 드라마 공식 계정 #tvN #티비엔 #청춘기록 #악의꽃 #비밀의숲2 #구미호뎐 #스타트업",
+				"url": "https://t.co/Em6okU1Ysx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Em6okU1Ysx",
+								"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+								"display_url": "youtube.com/user/CJENMDRAMA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 403425,
+				"friends_count": 40,
+				"listed_count": 595,
+				"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28712,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1599449849",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 176,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구미호도 민초먹음. 왜냐 민초는 진리니까😋 https://t.co/8999BOrEuI"
+	},
+	{
+		"created_at": "Sat Oct 10 06:27:05 +0000 2020",
+		"id": 1314810437855137800,
+		"id_str": "1314814691793874946",
+		"full_text": "#BLACKPINKINYOURAREA \n잠시 후 3시 40분 MBC #쇼음악중심 에 #BLACKPINK 가 출연합니다!⏰\nLovesickGirl 첫 무대 기대해주세요!🖤💖\n\n#블랙핑크 #LovesickGirls\n#THEALBUM #1stFULLALBUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						128,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5325422,
+			"friends_count": 2,
+			"listed_count": 5681,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9240,
+		"favorite_count": 28456,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA \n잠시 후 3시 40분 MBC #쇼음악중심 에 #BLACKPINK 가 출연합니다!⏰\nLovesickGirl 첫 무대 기대해주세요!🖤💖\n\n#블랙핑크 #LovesickGirls\n#THEALBUM #1stFULLALBUM"
+	},
+	{
 		"created_at": "Sat Oct 10 05:54:39 +0000 2020",
 		"id": 1314759628643807200,
 		"id_str": "1314806528872837120",
