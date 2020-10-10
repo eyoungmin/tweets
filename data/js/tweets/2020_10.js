@@ -1,6 +1,691 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 10:45:37 +0000 2020",
+		"id": 1314868338208637000,
+		"id_str": "1314879755469160448",
+		"full_text": "[KCON:TACT season 2] LIVE PREMIERE with #LOONA\n\nWant to rewatch @loonatheworld's LIVE PREMIERE?!\n📺: https://t.co/3kO0AqJYtJ \n\n▶ KCON official Membership : https://t.co/PiuQFbavDi \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/Der8iylegh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						197,
+						206
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						207,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3kO0AqJYtJ",
+					"expanded_url": "https://youtu.be/Kt1maz73rUg",
+					"display_url": "youtu.be/Kt1maz73rUg",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/PiuQFbavDi",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314868308965879800,
+					"id_str": "1314868308965879809",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9ZwrJUcAEqy2c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9ZwrJUcAEqy2c.jpg",
+					"url": "https://t.co/Der8iylegh",
+					"display_url": "pic.twitter.com/Der8iylegh",
+					"expanded_url": "https://twitter.com/kconusa/status/1314868338208636928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314868308965879800,
+					"id_str": "1314868308965879809",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9ZwrJUcAEqy2c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9ZwrJUcAEqy2c.jpg",
+					"url": "https://t.co/Der8iylegh",
+					"display_url": "pic.twitter.com/Der8iylegh",
+					"expanded_url": "https://twitter.com/kconusa/status/1314868338208636928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188392,
+			"friends_count": 3,
+			"listed_count": 397,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268556492753387521/hONDJW9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1600452142",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE PREMIERE with #LOONA\n\nWant to rewatch @loonatheworld's LIVE PREMIERE?!\n📺: https://t.co/3kO0AqJYtJ \n\n▶ KCON official Membership : https://t.co/PiuQFbavDi \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/Der8iylegh"
+	},
+	{
+		"created_at": "Sat Oct 10 10:27:13 +0000 2020",
+		"id": 1314871762581024800,
+		"id_str": "1314875123518844928",
+		"full_text": "201010🔍 [예능연구소 세로캠]\n#쇼음악중심 #음중 #블랙핑크 #BLACKPINK #LovesickGirls @BLACKPINK\n\n'블랙핑크(BLACKPINK) - Lovesick Girls’ \n#제니 ▶ https://t.co/zCu2fSizqZ\n#로제 ▶ https://t.co/vm09pbGzPq\n#리사 ▶ https://t.co/VCACVfvC43\n#지수 ▶ https://t.co/zr4nNpZnm0 https://t.co/iy0VFuPqSX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						201,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zCu2fSizqZ",
+					"expanded_url": "https://youtu.be/3ipaG-bWI7s",
+					"display_url": "youtu.be/3ipaG-bWI7s",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/vm09pbGzPq",
+					"expanded_url": "https://youtu.be/czYxrLfm3sY",
+					"display_url": "youtu.be/czYxrLfm3sY",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/VCACVfvC43",
+					"expanded_url": "https://youtu.be/9bHDfHP3Rb8",
+					"display_url": "youtu.be/9bHDfHP3Rb8",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"url": "https://t.co/zr4nNpZnm0",
+					"expanded_url": "https://youtu.be/67aBenO-MeU",
+					"display_url": "youtu.be/67aBenO-MeU",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314871701490921500,
+					"id_str": "1314871701490921473",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9c2JSUcAEIf74.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9c2JSUcAEIf74.jpg",
+					"url": "https://t.co/iy0VFuPqSX",
+					"display_url": "pic.twitter.com/iy0VFuPqSX",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1314871762581024768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314871701490921500,
+					"id_str": "1314871701490921473",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9c2JSUcAEIf74.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9c2JSUcAEIf74.jpg",
+					"url": "https://t.co/iy0VFuPqSX",
+					"display_url": "pic.twitter.com/iy0VFuPqSX",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1314871762581024768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839695,
+			"friends_count": 5,
+			"listed_count": 794,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4150,
+		"favorite_count": 13583,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "201010🔍 [예능연구소 세로캠]\n#쇼음악중심 #음중 #블랙핑크 #BLACKPINK #LovesickGirls @BLACKPINK\n\n'블랙핑크(BLACKPINK) - Lovesick Girls’ \n#제니 ▶ https://t.co/zCu2fSizqZ\n#로제 ▶ https://t.co/vm09pbGzPq\n#리사 ▶ https://t.co/VCACVfvC43\n#지수 ▶ https://t.co/zr4nNpZnm0 https://t.co/iy0VFuPqSX"
+	},
+	{
+		"created_at": "Sat Oct 10 10:27:05 +0000 2020",
+		"id": 1314870824399114200,
+		"id_str": "1314875089511501824",
+		"full_text": "#BLACKPINKINYOURAREA \n원샷 야심가 #지수 와 영어가사 전문가 #로제 의 받쓰도전기✍️\n과연 어떤 모습을 보여줄 지 잠시 후 7시 40분 tvN #놀라운토요일 #도레미마켓 에서 만나요!📺\n\n#BLACKPINK #블랙핑크 \n#JISOO #ROSÉ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						140,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5328876,
+			"friends_count": 2,
+			"listed_count": 5684,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4975,
+		"favorite_count": 18549,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA \n원샷 야심가 #지수 와 영어가사 전문가 #로제 의 받쓰도전기✍️\n과연 어떤 모습을 보여줄 지 잠시 후 7시 40분 tvN #놀라운토요일 #도레미마켓 에서 만나요!📺\n\n#BLACKPINK #블랙핑크 \n#JISOO #ROSÉ"
+	},
+	{
 		"created_at": "Sat Oct 10 09:27:14 +0000 2020",
 		"id": 1314853515450228700,
 		"id_str": "1314860028151689216",
