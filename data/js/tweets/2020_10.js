@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 16:24:01 +0000 2020",
+		"id": 1314964915648520200,
+		"id_str": "1314964915648520192",
+		"full_text": "켄지랑 런던노이즈 있다. https://t.co/tsUpmuNMjl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tsUpmuNMjl",
+					"expanded_url": "https://twitter.com/JYPETWICE/status/1314943774875762689",
+					"display_url": "twitter.com/JYPETWICE/stat…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 965,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314943774875762700,
+		"quoted_status_id_str": "1314943774875762689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tsUpmuNMjl",
+			"expanded": "https://twitter.com/JYPETWICE/status/1314943774875762689",
+			"display": "twitter.com/JYPETWICE/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 10 15:00:01 +0000 2020",
+			"id": 1314943774875762700,
+			"id_str": "1314943774875762689",
+			"full_text": "TWICE\nTHE 2ND FULL ALBUM\n&lt;Eyes wide open&gt;\n\nTracklist\n\nTitle - 'I CAN’T STOP ME' \n\n2020.10.26 6pm in KST\n2020.10.26 5am in EST\n\n#TWICE #트와이스 #Eyeswideopen #ICANTSTOPME https://t.co/LVYpD5RSqq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TWICE",
+						"indices": [
+							133,
+							139
+						]
+					},
+					{
+						"text": "트와이스",
+						"indices": [
+							140,
+							145
+						]
+					},
+					{
+						"text": "Eyeswideopen",
+						"indices": [
+							146,
+							159
+						]
+					},
+					{
+						"text": "ICANTSTOPME",
+						"indices": [
+							160,
+							172
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1314867669900779500,
+						"id_str": "1314867669900779521",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej9ZLecU4AEhsjO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej9ZLecU4AEhsjO.jpg",
+						"url": "https://t.co/LVYpD5RSqq",
+						"display_url": "pic.twitter.com/LVYpD5RSqq",
+						"expanded_url": "https://twitter.com/JYPETWICE/status/1314943774875762689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1463,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 857,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314867669900779500,
+						"id_str": "1314867669900779521",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej9ZLecU4AEhsjO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej9ZLecU4AEhsjO.jpg",
+						"url": "https://t.co/LVYpD5RSqq",
+						"display_url": "pic.twitter.com/LVYpD5RSqq",
+						"expanded_url": "https://twitter.com/JYPETWICE/status/1314943774875762689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1463,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 857,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3129056526,
+				"id_str": "3129056526",
+				"name": "TWICE",
+				"screen_name": "JYPETWICE",
+				"location": "",
+				"description": "ONE IN A MILLION! 안녕하세요 트와이스입니다! NAYEON / JEONGYEON / MOMO / SANA / JIHYO / MINA / DAHYUN / CHAEYOUNG / TZUYU",
+				"url": "https://t.co/CRy5xEwJKT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CRy5xEwJKT",
+								"expanded_url": "http://www.youtube.com/c/TWICE",
+								"display_url": "youtube.com/c/TWICE",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6333487,
+				"friends_count": 42,
+				"listed_count": 10139,
+				"created_at": "Thu Apr 02 05:43:40 +0000 2015",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8158,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1313494226072674306/kiTlSLUp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313494226072674306/kiTlSLUp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3129056526/1601996405",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36287,
+			"favorite_count": 88733,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "켄지랑 런던노이즈 있다. https://t.co/tsUpmuNMjl"
+	},
+	{
 		"created_at": "Sat Oct 10 15:27:11 +0000 2020",
 		"id": 1314944275071762400,
 		"id_str": "1314950613717995525",
