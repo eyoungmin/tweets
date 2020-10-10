@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 22:19:18 +0000 2020",
+		"id": 1066829488246280200,
+		"id_str": "1315054324074967040",
+		"full_text": "점점 회사원에서 (혹은 처음부터) 프리랜서로 가는 수가 늘고 있다. 누구나 자신의 무언가를 팔아야 하는 시대. 셀프 홍보와 추천 품앗이가 일상이 됐고 인간관계까지 좌우. 자신에 대한 부정적인 사회적 평가에 대한 걱정이 자존감을 압도. 경쟁심과 만성 불안 우울로 귀결. https://t.co/JIb0jw8BuE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JIb0jw8BuE",
+					"expanded_url": "https://nyti.ms/2zs949p?smid=nytcore-ios-share",
+					"display_url": "nyti.ms/2zs949p?smid=n…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101264,
+			"friends_count": 2385,
+			"listed_count": 313,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 729,
+		"favorite_count": 820,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "점점 회사원에서 (혹은 처음부터) 프리랜서로 가는 수가 늘고 있다. 누구나 자신의 무언가를 팔아야 하는 시대. 셀프 홍보와 추천 품앗이가 일상이 됐고 인간관계까지 좌우. 자신에 대한 부정적인 사회적 평가에 대한 걱정이 자존감을 압도. 경쟁심과 만성 불안 우울로 귀결. https://t.co/JIb0jw8BuE"
+	},
+	{
 		"created_at": "Sat Oct 10 21:58:54 +0000 2020",
 		"id": 1315049190137888800,
 		"id_str": "1315049190137888768",
