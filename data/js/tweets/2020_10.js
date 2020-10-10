@@ -1,6 +1,2085 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 13:45:47 +0000 2020",
+		"id": 1314915435079372800,
+		"id_str": "1314925094297382912",
+		"full_text": "[KCON:TACT season 2] LIVE PREMIERE with #LOONA \n\n#HeeJin\n#OliviaHye\n#YeoJin\n\n▶ KCON official: https://t.co/3htPBHA6xK \n▶ Mnet K-pop: https://t.co/r2LY9mGrzA \n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/Cq8B795gbO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314915415315738600,
+					"id_str": "1314915415315738625",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-Emn-UcAEoNjU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-Emn-UcAEoNjU.jpg",
+					"url": "https://t.co/Cq8B795gbO",
+					"display_url": "pic.twitter.com/Cq8B795gbO",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915435079372800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314915415315738600,
+					"id_str": "1314915415315738625",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-Emn-UcAEoNjU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-Emn-UcAEoNjU.jpg",
+					"url": "https://t.co/Cq8B795gbO",
+					"display_url": "pic.twitter.com/Cq8B795gbO",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915435079372800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314915415332515800,
+					"id_str": "1314915415332515841",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-EmoCUcAEtZ15.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-EmoCUcAEtZ15.jpg",
+					"url": "https://t.co/Cq8B795gbO",
+					"display_url": "pic.twitter.com/Cq8B795gbO",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915435079372800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314915415336738800,
+					"id_str": "1314915415336738817",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-EmoDU4AEzVPn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-EmoDU4AEzVPn.jpg",
+					"url": "https://t.co/Cq8B795gbO",
+					"display_url": "pic.twitter.com/Cq8B795gbO",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915435079372800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285424,
+			"friends_count": 67,
+			"listed_count": 884,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 1162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE PREMIERE with #LOONA \n\n#HeeJin\n#OliviaHye\n#YeoJin\n\n▶ KCON official: https://t.co/3htPBHA6xK \n▶ Mnet K-pop: https://t.co/r2LY9mGrzA \n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/Cq8B795gbO"
+	},
+	{
+		"created_at": "Sat Oct 10 13:45:43 +0000 2020",
+		"id": 1314915024796672000,
+		"id_str": "1314925076928696320",
+		"full_text": "[KCON:TACT season 2] LIVE PREMIERE with #LOONA \n\n#Chuu\n#HyunJin\n#Choerry\n#ViVi\n\n▶ KCON official: https://t.co/3htPBHA6xK \n▶ Mnet K-pop: https://t.co/r2LY9mGrzA \n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/466tgjV8rh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314914995528843300,
+					"id_str": "1314914995528843265",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-EOMJUwAEEcQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-EOMJUwAEEcQ6.jpg",
+					"url": "https://t.co/466tgjV8rh",
+					"display_url": "pic.twitter.com/466tgjV8rh",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915024796672005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314914995528843300,
+					"id_str": "1314914995528843265",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-EOMJUwAEEcQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-EOMJUwAEEcQ6.jpg",
+					"url": "https://t.co/466tgjV8rh",
+					"display_url": "pic.twitter.com/466tgjV8rh",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915024796672005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314914995537281000,
+					"id_str": "1314914995537281026",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-EOMLVgAIDKeR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-EOMLVgAIDKeR.jpg",
+					"url": "https://t.co/466tgjV8rh",
+					"display_url": "pic.twitter.com/466tgjV8rh",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915024796672005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314914995533049900,
+					"id_str": "1314914995533049856",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-EOMKU8AAHbBg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-EOMKU8AAHbBg.jpg",
+					"url": "https://t.co/466tgjV8rh",
+					"display_url": "pic.twitter.com/466tgjV8rh",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915024796672005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314914995524657200,
+					"id_str": "1314914995524657154",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-EOMIU4AIF2ER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-EOMIU4AIF2ER.jpg",
+					"url": "https://t.co/466tgjV8rh",
+					"display_url": "pic.twitter.com/466tgjV8rh",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314915024796672005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285424,
+			"friends_count": 67,
+			"listed_count": 884,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 1241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE PREMIERE with #LOONA \n\n#Chuu\n#HyunJin\n#Choerry\n#ViVi\n\n▶ KCON official: https://t.co/3htPBHA6xK \n▶ Mnet K-pop: https://t.co/r2LY9mGrzA \n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/466tgjV8rh"
+	},
+	{
+		"created_at": "Sat Oct 10 13:45:36 +0000 2020",
+		"id": 1314914540761411600,
+		"id_str": "1314925051213500417",
+		"full_text": "[KCON:TACT season 2] LIVE PREMIERE with #LOONA \n\n#KimLip\n#JinSoul \n#Yves \n#GoWon\n\n▶ KCON official: https://t.co/3htPBHA6xK \n▶ Mnet K-pop: https://t.co/r2LY9mGrzA \n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/GvPCneilNI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314914520511336400,
+					"id_str": "1314914520511336448",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-DyikU0AA5ByP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-DyikU0AA5ByP.jpg",
+					"url": "https://t.co/GvPCneilNI",
+					"display_url": "pic.twitter.com/GvPCneilNI",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314914540761411585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314914520511336400,
+					"id_str": "1314914520511336448",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-DyikU0AA5ByP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-DyikU0AA5ByP.jpg",
+					"url": "https://t.co/GvPCneilNI",
+					"display_url": "pic.twitter.com/GvPCneilNI",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314914540761411585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314914520498749400,
+					"id_str": "1314914520498749441",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-DyihUwAEp_7N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-DyihUwAEp_7N.jpg",
+					"url": "https://t.co/GvPCneilNI",
+					"display_url": "pic.twitter.com/GvPCneilNI",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314914540761411585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314914520502956000,
+					"id_str": "1314914520502956033",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-DyiiU8AEyMQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-DyiiU8AEyMQz.jpg",
+					"url": "https://t.co/GvPCneilNI",
+					"display_url": "pic.twitter.com/GvPCneilNI",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314914540761411585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314914520502919200,
+					"id_str": "1314914520502919168",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-DyiiUYAAcbyp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-DyiiUYAAcbyp.jpg",
+					"url": "https://t.co/GvPCneilNI",
+					"display_url": "pic.twitter.com/GvPCneilNI",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314914540761411585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285424,
+			"friends_count": 67,
+			"listed_count": 884,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 671,
+		"favorite_count": 1423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE PREMIERE with #LOONA \n\n#KimLip\n#JinSoul \n#Yves \n#GoWon\n\n▶ KCON official: https://t.co/3htPBHA6xK \n▶ Mnet K-pop: https://t.co/r2LY9mGrzA \n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/GvPCneilNI"
+	},
+	{
+		"created_at": "Sat Oct 10 13:31:32 +0000 2020",
+		"id": 1314921383516729300,
+		"id_str": "1314921507995283458",
+		"full_text": "왜 악이 흥하고 선이 고통 받을까. 보에티우스 ‘철학의 위안’은 로마 최후 철인 정치인이 권력에 맞서다 죽음에 몰려 옥중에서 쓴 책. 9-17세기 유럽에서 널리 읽혔다. 인생의 불가해함 두고 철학의 여신과 나눈 대화는 지금도 우리에게 이성의 가치와 한계, 겸허를 가르친다. https://t.co/R4LO9VEvUE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R4LO9VEvUE",
+					"expanded_url": "https://aeon.co/essays/why-we-should-read-boethiuss-consolation-of-philosophy-today",
+					"display_url": "aeon.co/essays/why-we-…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101263,
+			"friends_count": 2385,
+			"listed_count": 313,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜 악이 흥하고 선이 고통 받을까. 보에티우스 ‘철학의 위안’은 로마 최후 철인 정치인이 권력에 맞서다 죽음에 몰려 옥중에서 쓴 책. 9-17세기 유럽에서 널리 읽혔다. 인생의 불가해함 두고 철학의 여신과 나눈 대화는 지금도 우리에게 이성의 가치와 한계, 겸허를 가르친다. https://t.co/R4LO9VEvUE"
+	},
+	{
+		"created_at": "Sat Oct 10 13:10:16 +0000 2020",
+		"id": 1314911781475684400,
+		"id_str": "1314916159297261569",
+		"full_text": "Lovesick but pretty savage https://t.co/8Qvf5W5pJz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314911688945143800,
+					"id_str": "1314911688945143808",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-BNuKVkAAAoU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-BNuKVkAAAoU9.jpg",
+					"url": "https://t.co/8Qvf5W5pJz",
+					"display_url": "pic.twitter.com/8Qvf5W5pJz",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1314911781475684353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1385,
+							"h": 1039,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314911688945143800,
+					"id_str": "1314911688945143808",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-BNuKVkAAAoU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-BNuKVkAAAoU9.jpg",
+					"url": "https://t.co/8Qvf5W5pJz",
+					"display_url": "pic.twitter.com/8Qvf5W5pJz",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1314911781475684353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1385,
+							"h": 1039,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314911703268696000,
+					"id_str": "1314911703268696065",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-BOjhVoAEZv0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-BOjhVoAEZv0B.jpg",
+					"url": "https://t.co/8Qvf5W5pJz",
+					"display_url": "pic.twitter.com/8Qvf5W5pJz",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1314911781475684353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 956,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093997,
+			"friends_count": 0,
+			"listed_count": 2830,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56657,
+		"favorite_count": 158774,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lovesick but pretty savage https://t.co/8Qvf5W5pJz"
+	},
+	{
+		"created_at": "Sat Oct 10 13:10:15 +0000 2020",
+		"id": 1314911304281333800,
+		"id_str": "1314916154230538240",
+		"full_text": "We are the lovesick girls🤍\n🎬https://t.co/hgvqx0rstT https://t.co/54sFPIn48y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hgvqx0rstT",
+					"expanded_url": "http://youtu.be/YxksUfnuEbI",
+					"display_url": "youtu.be/YxksUfnuEbI",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314910758958821400,
+					"id_str": "1314910758958821377",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-AXlsUcAE-1-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-AXlsUcAE-1-A.jpg",
+					"url": "https://t.co/54sFPIn48y",
+					"display_url": "pic.twitter.com/54sFPIn48y",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1314911304281333762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1108,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314910758958821400,
+					"id_str": "1314910758958821377",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-AXlsUcAE-1-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-AXlsUcAE-1-A.jpg",
+					"url": "https://t.co/54sFPIn48y",
+					"display_url": "pic.twitter.com/54sFPIn48y",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1314911304281333762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1108,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314910768979046400,
+					"id_str": "1314910768979046401",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-AYLBU8AEtfxN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-AYLBU8AEtfxN.jpg",
+					"url": "https://t.co/54sFPIn48y",
+					"display_url": "pic.twitter.com/54sFPIn48y",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1314911304281333762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1108,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093997,
+			"friends_count": 0,
+			"listed_count": 2830,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39705,
+		"favorite_count": 112591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are the lovesick girls🤍\n🎬https://t.co/hgvqx0rstT https://t.co/54sFPIn48y"
+	},
+	{
+		"created_at": "Sat Oct 10 13:09:42 +0000 2020",
+		"id": 1314891062205317000,
+		"id_str": "1314916015126409217",
+		"full_text": "201010🔍 [예능연구소 세로캠]\n#쇼음악중심 #음중 #블랙핑크 #BLACKPINK #PrettySavage @BLACKPINK\n\n'BLACKPINK - Pretty Savage’ \n#지수 ▶ https://t.co/29IXcccvpJ\n#리사 ▶ https://t.co/QPeGoCJl6p\n#로제 ▶ https://t.co/fYPWkXmWtk\n#제니 ▶ https://t.co/073xZZ8dyW https://t.co/EGYnk3SWLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "PrettySavage",
+					"indices": [
+						48,
+						61
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						193,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						62,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/29IXcccvpJ",
+					"expanded_url": "https://youtu.be/rbo_4zxm7XQ",
+					"display_url": "youtu.be/rbo_4zxm7XQ",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/QPeGoCJl6p",
+					"expanded_url": "https://youtu.be/xP34Qtdq-JA",
+					"display_url": "youtu.be/xP34Qtdq-JA",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/fYPWkXmWtk",
+					"expanded_url": "https://youtu.be/HsmZNJAqWYk",
+					"display_url": "youtu.be/HsmZNJAqWYk",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/073xZZ8dyW",
+					"expanded_url": "https://youtu.be/ecmxyPTDjlU",
+					"display_url": "youtu.be/ecmxyPTDjlU",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314891019943465000,
+					"id_str": "1314891019943464963",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9uaoIU0AMhGw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9uaoIU0AMhGw4.jpg",
+					"url": "https://t.co/EGYnk3SWLI",
+					"display_url": "pic.twitter.com/EGYnk3SWLI",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1314891062205317121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314891019943465000,
+					"id_str": "1314891019943464963",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9uaoIU0AMhGw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9uaoIU0AMhGw4.jpg",
+					"url": "https://t.co/EGYnk3SWLI",
+					"display_url": "pic.twitter.com/EGYnk3SWLI",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1314891062205317121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839947,
+			"friends_count": 5,
+			"listed_count": 793,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5415,
+		"favorite_count": 18942,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "201010🔍 [예능연구소 세로캠]\n#쇼음악중심 #음중 #블랙핑크 #BLACKPINK #PrettySavage @BLACKPINK\n\n'BLACKPINK - Pretty Savage’ \n#지수 ▶ https://t.co/29IXcccvpJ\n#리사 ▶ https://t.co/QPeGoCJl6p\n#로제 ▶ https://t.co/fYPWkXmWtk\n#제니 ▶ https://t.co/073xZZ8dyW https://t.co/EGYnk3SWLI"
+	},
+	{
+		"created_at": "Sat Oct 10 13:05:51 +0000 2020",
+		"id": 1314903761790230500,
+		"id_str": "1314915044468039681",
+		"full_text": "다음 주 놀라운 토요일 수정이 https://t.co/aFUV6OdSYa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314903688331235300,
+					"id_str": "1314903688331235328",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314903688331235328/pu/img/lJO6g5VcnnjQtIkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314903688331235328/pu/img/lJO6g5VcnnjQtIkT.jpg",
+					"url": "https://t.co/aFUV6OdSYa",
+					"display_url": "pic.twitter.com/aFUV6OdSYa",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1314903761790230536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314903688331235300,
+					"id_str": "1314903688331235328",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314903688331235328/pu/img/lJO6g5VcnnjQtIkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314903688331235328/pu/img/lJO6g5VcnnjQtIkT.jpg",
+					"url": "https://t.co/aFUV6OdSYa",
+					"display_url": "pic.twitter.com/aFUV6OdSYa",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1314903761790230536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22080,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314903688331235328/pu/vid/640x360/XhK4w5vQsg4K9-4W.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314903688331235328/pu/vid/480x270/0aBVpS4kOwR5rlXr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314903688331235328/pu/pl/m4hn-EM6VKA7uEMi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314903688331235328/pu/vid/1280x720/ZYpgkR5P-BGF6Rb-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308936688,
+			"id_str": "3308936688",
+			"name": "수정이 저장소",
+			"screen_name": "saveKRYSTAL",
+			"location": "",
+			"description": "𝐦𝐲 𝐨𝐧𝐞 𝐚𝐧𝐝 𝐨𝐧𝐥𝐲 𝐣𝐮𝐧𝐠𝐬𝐨𝐨𝐣𝐮𝐧𝐠",
+			"url": "https://t.co/cLkBsX6961",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cLkBsX6961",
+							"expanded_url": "http://Instagram.com/vousmevoyez",
+							"display_url": "Instagram.com/vousmevoyez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44516,
+			"friends_count": 0,
+			"listed_count": 665,
+			"created_at": "Fri Aug 07 18:18:52 +0000 2015",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314526679964938241/rKnNoU8J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314526679964938241/rKnNoU8J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308936688/1598939371",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1901,
+		"favorite_count": 1137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다음 주 놀라운 토요일 수정이 https://t.co/aFUV6OdSYa"
+	},
+	{
 		"created_at": "Sat Oct 10 12:27:05 +0000 2020",
 		"id": 1314886821063528400,
 		"id_str": "1314905288777043968",
