@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 04:50:11 +0000 2020",
+		"id": 1314776949592555500,
+		"id_str": "1314790307750240256",
+		"full_text": "Coming up at 11:15pm 👀 catch @billieeilish’s performance from #ACLFest 2019: Day 1 of ACL Fest 2020 is now live! Watch 👉 https://t.co/PyjlQh1Fxw 🔥 https://t.co/tSRZeVpHPM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACLFest",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PyjlQh1Fxw",
+					"expanded_url": "https://youtu.be/SF2AgG3ccBw",
+					"display_url": "youtu.be/SF2AgG3ccBw",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314776922308718600,
+					"id_str": "1314776922308718592",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej8GpRUXsAADYHk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej8GpRUXsAADYHk.jpg",
+					"url": "https://t.co/tSRZeVpHPM",
+					"display_url": "pic.twitter.com/tSRZeVpHPM",
+					"expanded_url": "https://twitter.com/aclfestival/status/1314776949592555526/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314776922308718600,
+					"id_str": "1314776922308718592",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej8GpRUXsAADYHk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej8GpRUXsAADYHk.jpg",
+					"url": "https://t.co/tSRZeVpHPM",
+					"display_url": "pic.twitter.com/tSRZeVpHPM",
+					"expanded_url": "https://twitter.com/aclfestival/status/1314776949592555526/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314776922300313600,
+					"id_str": "1314776922300313600",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej8GpRSXcAAbqIu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej8GpRSXcAAbqIu.jpg",
+					"url": "https://t.co/tSRZeVpHPM",
+					"display_url": "pic.twitter.com/tSRZeVpHPM",
+					"expanded_url": "https://twitter.com/aclfestival/status/1314776949592555526/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314776922300260400,
+					"id_str": "1314776922300260353",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej8GpRSWoAE8QgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej8GpRSWoAE8QgI.jpg",
+					"url": "https://t.co/tSRZeVpHPM",
+					"display_url": "pic.twitter.com/tSRZeVpHPM",
+					"expanded_url": "https://twitter.com/aclfestival/status/1314776949592555526/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314776922539389000,
+					"id_str": "1314776922539388928",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej8GpSLXcAAm0-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej8GpSLXcAAm0-T.jpg",
+					"url": "https://t.co/tSRZeVpHPM",
+					"display_url": "pic.twitter.com/tSRZeVpHPM",
+					"expanded_url": "https://twitter.com/aclfestival/status/1314776949592555526/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25830909,
+			"id_str": "25830909",
+			"name": "ACL Festival",
+			"screen_name": "aclfestival",
+			"location": "Zilker Park, Austin, TX",
+			"description": "Mark your calendars for October 9-11, 2020 as we work to commemorate #ACLFest with a free broadcast.",
+			"url": "https://t.co/gPdDWeo20Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gPdDWeo20Q",
+							"expanded_url": "https://aclmf.tbits.me/trk/1QpG",
+							"display_url": "aclmf.tbits.me/trk/1QpG",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228884,
+			"friends_count": 915,
+			"listed_count": 3056,
+			"created_at": "Sun Mar 22 15:31:24 +0000 2009",
+			"favourites_count": 2118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "69916F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311751609207140354/iyGs65YV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311751609207140354/iyGs65YV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25830909/1556031990",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F9F0D1",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming up at 11:15pm 👀 catch @billieeilish’s performance from #ACLFest 2019: Day 1 of ACL Fest 2020 is now live! Watch 👉 https://t.co/PyjlQh1Fxw 🔥 https://t.co/tSRZeVpHPM"
+	},
+	{
+		"created_at": "Sat Oct 10 04:15:39 +0000 2020",
+		"id": 1314781616808493000,
+		"id_str": "1314781616808493061",
+		"full_text": "@lunamoth 선생님 혹시 한국어 입력 시, 드래그형태로 입력되는 것도 해결하시는 법 아시나요? 카나리아에서는 원래대로 돌아오고 기본 크롬에서는 이렇게 입력되네요. 영어 입력할 때처럼 커서가 밖으로 밀려서 입력되는 식이었으면 좋겠거든요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lunamoth",
+					"name": "lunamoth",
+					"id": 815050,
+					"id_str": "815050",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1310122609934102500,
+		"in_reply_to_status_id_str": "1310122609934102528",
+		"in_reply_to_user_id": 815050,
+		"in_reply_to_user_id_str": "815050",
+		"in_reply_to_screen_name": "lunamoth",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 964,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@lunamoth 선생님 혹시 한국어 입력 시, 드래그형태로 입력되는 것도 해결하시는 법 아시나요? 카나리아에서는 원래대로 돌아오고 기본 크롬에서는 이렇게 입력되네요. 영어 입력할 때처럼 커서가 밖으로 밀려서 입력되는 식이었으면 좋겠거든요."
+	},
+	{
+		"created_at": "Sat Oct 10 04:10:54 +0000 2020",
+		"id": 1314717282736644000,
+		"id_str": "1314780423046619137",
+		"full_text": "도박은 쾌락과 인정욕구를 채워주는 게임과 비슷해 더 빠져든다. 부모들은 아이가 게임하는 것처럼 보여 도박이란 걸 알아채지 못한다. ‘달팽이 경주’에 판돈을 걸리라고 생각하기 어렵다.\nhttps://t.co/NtuyiCGM5J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NtuyiCGM5J",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010100600055&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722000,
+			"friends_count": 77607,
+			"listed_count": 5917,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도박은 쾌락과 인정욕구를 채워주는 게임과 비슷해 더 빠져든다. 부모들은 아이가 게임하는 것처럼 보여 도박이란 걸 알아채지 못한다. ‘달팽이 경주’에 판돈을 걸리라고 생각하기 어렵다.\nhttps://t.co/NtuyiCGM5J"
+	},
+	{
 		"created_at": "Sat Oct 10 03:45:37 +0000 2020",
 		"id": 1314762325837123600,
 		"id_str": "1314774058572054528",
